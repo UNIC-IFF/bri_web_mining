@@ -1,0 +1,688 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Cyprus",
+                "totalResults": "4170000",
+                "searchTerms": "Cyprus",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "cryptocurrency as money"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Cyprus",
+                "totalResults": "4170000",
+                "searchTerms": "Cyprus",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "cryptocurrency as money"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.271749,
+        "formattedSearchTime": "0.27",
+        "totalResults": "4170000",
+        "formattedTotalResults": "4,170,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin prices surge post-Cyprus bailout",
+            "htmlTitle": "<b>Bitcoin</b> prices surge post-<b>Cyprus</b> bailout",
+            "link": "https://money.cnn.com/2013/03/28/investing/bitcoin-cyprus/index.html",
+            "displayLink": "money.cnn.com",
+            "snippet": "Mar 28, 2013 ... Shares of the cyber-currency bitcoin have surged in the past week as investors seek safe havens following the unprecedented bailout of\u00a0...",
+            "htmlSnippet": "Mar 28, 2013 <b>...</b> Shares of the cyber-<b>currency bitcoin</b> have surged in the past week as investors seek safe havens following the unprecedented bailout of&nbsp;...",
+            "cacheId": "Y7v03HdYQ8IJ",
+            "formattedUrl": "https://money.cnn.com/2013/03/28/investing/bitcoin-cyprus/index.html",
+            "htmlFormattedUrl": "https://<b>money</b>.cnn.com/2013/03/28/investing/<b>bitcoin</b>-<b>cyprus</b>/index.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQti8YrORWhlck8WFUoSiejVrkWmXmmuzRuOz4JNtRjAOy0o_jnBdTgwFQ",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "user-scalable=no, width=device-width, initial-scale=1.0",
+                        "author": "Maureen Farrell",
+                        "vr:canonical": "https://money.cnn.com/2013/03/28/investing/bitcoin-cyprus/index.html",
+                        "dc.date.issued": "2013-03-28T06:11:01"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i2.cdn.turner.com/money/dam/assets/130327160138-chart-bitcoin-640x360.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus Crisis Boosting Unique Currency, the Bitcoin - ABC News",
+            "htmlTitle": "<b>Cyprus</b> Crisis Boosting Unique <b>Currency</b>, the <b>Bitcoin</b> - ABC News",
+            "link": "https://abcnews.go.com/Business/cyprus-crisis-boosting-unique-currency-bitcoin/story?id=18792763",
+            "displayLink": "abcnews.go.com",
+            "snippet": "Mar 22, 2013 ... Currency markets are keeping close track of Cyprus' banking crisis and are braced for possible repercussions. But one currency has thrived\u00a0...",
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> <b>Currency</b> markets are keeping close track of <b>Cyprus</b>&#39; banking crisis and are braced for possible repercussions. But one <b>currency</b> has thrived&nbsp;...",
+            "cacheId": "TevctTN9HYUJ",
+            "formattedUrl": "https://abcnews.go.com/Business/cyprus-crisis...currency-bitcoin/story?id...",
+            "htmlFormattedUrl": "https://abcnews.go.com/Business/<b>cyprus</b>-crisis...<b>currency</b>-<b>bitcoin</b>/story?id...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tzs-9Plqn2WfBJXOMl_14oUAp_Bpj1r2yMvwuKLRDznm3KRYIJ9ZQQ",
+                        "width": "137",
+                        "height": "77"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "null",
+                        "twitter:app:url:iphone": "abcnewsiphone://link/story,18792763",
+                        "twitter:app:id:googleplay": "com.abc.abcnews",
+                        "copyright": "2021 ABC News Internet Ventures. All rights reserved.",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "ABC News",
+                        "twitter:url": "https://abcnews.go.com/Business/cyprus-crisis-boosting-unique-currency-bitcoin/story?id=18792763",
+                        "twitter:app:url:ipad": "abcnewsipad://link/story,18792763",
+                        "twitter:image:height": "360",
+                        "al:ipad:app_store_id": "380520716",
+                        "twitter:app:name:googleplay": "ABC News",
+                        "twitter:app:id:iphone": "300255638",
+                        "og:description": "Currency markets are keeping close track of Cyprus' banking crisis and are braced for possible repercussions. But one currency has thrived in the chaos and zoomed in value: Bitcoins.",
+                        "twitter:creator": "ABC News",
+                        "twitter:image": "null",
+                        "al:iphone:app_name": "ABC News - Breaking US & World News",
+                        "twitter:site": "@ABC",
+                        "twitter:image:width": "640",
+                        "fb:admins": "704409894",
+                        "article:content_tier": "free",
+                        "fb_title": "Cyprus Crisis Boosting Unique Currency, the Bitcoin",
+                        "og:type": "article",
+                        "twitter:title": "Cyprus Crisis Boosting Unique Currency, the Bitcoin",
+                        "author": "ABC News",
+                        "og:title": "Cyprus Crisis Boosting Unique Currency, the Bitcoin",
+                        "twitter:app:id:ipad": "306934135",
+                        "fb:pages": "86680728811",
+                        "al:iphone:url": "abcnewsiphone://link/story,18792763",
+                        "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Business/cyprus-crisis-boosting-unique-currency-bitcoin/story?id=18792763",
+                        "fb:app_id": "4942312939",
+                        "twitter:app:url:googleplay": "https://abcnews.go.com/Business/cyprus-crisis-boosting-unique-currency-bitcoin/story?id=18792763",
+                        "al:ipad:url": "abcnewsipad://link/story,18792763",
+                        "twitter:app:name:ipad": "ABC News",
+                        "twitter:description": "Currency markets are keeping close track of Cyprus' banking crisis and are braced for possible repercussions. But one currency has thrived in the chaos and zoomed in value: Bitcoins.",
+                        "al:iphone:app_store_id": "300255638",
+                        "al:ipad:app_name": "ABC News for ipad",
+                        "og:url": "https://abcnews.go.com/Business/cyprus-crisis-boosting-unique-currency-bitcoin/story?id=18792763",
+                        "twitter:app:name:iphone": "ABC News",
+                        "al:android:app_name": "ABC News Breaking Latest News",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://keyframe-cdn.abcnews.com/streamprovider11.jpg?d=1640563200126"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Is the Cyprus crisis a boon for Bitcoin?",
+            "htmlTitle": "Is the <b>Cyprus</b> crisis a boon for <b>Bitcoin</b>?",
+            "link": "https://theconversation.com/is-the-cyprus-crisis-a-boon-for-bitcoin-13081",
+            "displayLink": "theconversation.com",
+            "snippet": "Mar 26, 2013 ... For most of us, banks represent a trusted and safe harbour for our money. Investing in fixed term deposits for example, is widely seen as a\u00a0...",
+            "htmlSnippet": "Mar 26, 2013 <b>...</b> For most of us, banks represent a trusted and safe harbour for our <b>money</b>. Investing in fixed term deposits for example, is widely seen as a&nbsp;...",
+            "cacheId": "YpHfOdyXBh8J",
+            "formattedUrl": "https://theconversation.com/is-the-cyprus-crisis-a-boon-for-bitcoin-13081",
+            "htmlFormattedUrl": "https://theconversation.com/is-the-<b>cyprus</b>-crisis-a-boon-for-<b>bitcoin</b>-13081",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "role": "Director, Centre for Software Practice, The University of Western Australia",
+                        "fn": "David Glance"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5g_dqbWMNT82jSSzaHbjmtlFmm68QAAaxs0jkauuY-gdPbnDaGY8N1i02",
+                        "width": "320",
+                        "height": "157"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Director, Centre for Software Practice, The University of Western Australia"
+                    },
+                    {
+                        "image": "https://cdn.theconversation.com/avatars/148/width170/RackMultipart20140215-9141-12okmbr.jpg",
+                        "name": "David Glance"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.theconversation.com/files/21760/original/vdxw5bdn-1364276290.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+                        "theme-color": "#d8352a",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Conversation",
+                        "current-region": "us",
+                        "og:description": "For most of us, banks represent a trusted and safe harbour for our money. Investing in fixed term deposits for example, is widely seen as a low-risk strategy. The global financial crisis changed that view\u2026",
+                        "article:publisher": "https://facebook.com/ConversationEDU",
+                        "institution": "The University of Western Australia",
+                        "twitter:site": "@ConversationEDU",
+                        "news_keywords": "Banking, Bitcoin",
+                        "searchtype": "analysis",
+                        "csrf-token": "0hVdgg3Kfs1AWXd5n_Ak3hWMREZSe7tLzTBtMnsYXLEboUxyWsWmQuR-bKSzSLDH2dZJbEgxDVwzZez2qT-HSA",
+                        "pubdate": "20130326",
+                        "og:type": "article",
+                        "author": "David Glance",
+                        "og:title": "Is the Cyprus crisis a boon for Bitcoin?",
+                        "og:updated_time": "2021-12-23T20:51:07Z",
+                        "csrf-param": "authenticity_token",
+                        "msapplication-navbutton-color": "#d8352a",
+                        "fb:pages": "176084152419221",
+                        "fb:app_id": "127105130696839",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "original-source": "https://theconversation.com/is-the-cyprus-crisis-a-boon-for-bitcoin-13081",
+                        "og:url": "http://theconversation.com/is-the-cyprus-crisis-a-boon-for-bitcoin-13081",
+                        "commissioning-region": "au"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.theconversation.com/files/21760/original/vdxw5bdn-1364276290.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+                    }
+                ],
+                "article": [
+                    {
+                        "image": "https://images.theconversation.com/files/21760/original/vdxw5bdn-1364276290.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+                        "articlebody": "For most of us, banks represent a trusted and safe harbour for our money. Investing in fixed term deposits for example, is widely seen as a low-risk strategy. The global financial crisis changed...",
+                        "name": "Is the Cyprus crisis a boon for Bitcoin?",
+                        "datepublished": "2013-03-26T19:01:09Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Cyprus | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency</b> Laws and Regulations | <b>Cyprus</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cyprus",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Any funds that derive from an ICO are subject to tax in Cyprus as they are deemed to\u00a0...",
+            "htmlSnippet": "Any <b>funds</b> that derive from an ICO are subject to tax in <b>Cyprus</b> as they are deemed to&nbsp;...",
+            "cacheId": "A6SRV9kiUFYJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/blockchain.../cyprus",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/blockchain.../<b>cyprus</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Cyprus chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHgZL-cKds3B5M56hblCepIG30azqOrM8l3ABQwPwcU0oaRIvPU0ZK84",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Akis Papakyriacou",
+                        "url": "Akis Papakyriacou"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/bsl76MnRi9OA0GxymKEluSyDFEMoAiNea7Moaqm6.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Cyprus chapter written by Akis Papakyriacou - Akis Papakyriacou LLC covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Cyprus | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Cyprus chapter written by Akis Papakyriacou - Akis Papakyriacou LLC covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Cyprus | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cyprus"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/bsl76MnRi9OA0GxymKEluSyDFEMoAiNea7Moaqm6.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus, Portugal among states rebuked by EU over delays in money ...",
+            "htmlTitle": "<b>Cyprus</b>, Portugal among states rebuked by EU over delays in <b>money</b> ...",
+            "link": "https://www.reuters.com/article/us-eu-moneylaudering/cyprus-portugal-among-states-rebuked-by-eu-over-delays-in-money-laundering-reforms-idUSKBN2061RR",
+            "displayLink": "www.reuters.com",
+            "snippet": "Feb 12, 2020 ... The European Commission has sent legal warnings to Cyprus, ... risks in a wide range of sectors, including cryptocurrency exchanges,\u00a0...",
+            "htmlSnippet": "Feb 12, 2020 <b>...</b> The European Commission has sent legal warnings to <b>Cyprus</b>, ... risks in a wide range of sectors, including <b>cryptocurrency</b> exchanges,&nbsp;...",
+            "cacheId": "ChTVM74TphwJ",
+            "formattedUrl": "https://www.reuters.com/...moneylaudering/cyprus-portugal-among-states- rebuked-by-eu-over-delays-in-money-laundering-reforms-idUSKBN2061R...",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>money</b>laudering/<b>cyprus</b>-portugal-among-states- rebuked-by-eu-over-delays-in-<b>money</b>-laundering-reforms-idUSKBN2061R...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2020-02-12T12:37:13Z",
+                        "analyticsattributes.topicchannel": "World",
+                        "analyticsattributes.backendchannellist": "worldNews;newsMaps;US-The-Wire;europe-future;consolidated-business;USWire_EL;everythingNews;finance-upclose",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "The European Commission has sent legal warnings to Cyprus, Portugal, the Netherlands and five other EU states over their delays in applying new anti-money laundering rules adopted at European Union level two years ago.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2020-02-12T12:37:13Z",
+                        "og:article:section": "everythingNews",
+                        "analyticsattributes.articledate": "2020-02-12T12:37:13Z",
+                        "dcsext.dartzone": "reuters.com/world/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "US,EU,MONEYLAUDERING,Banks (NEC) (TRBC level 5),EU Institutions,Crime / Law / Justice,Company News,Crime,Cryptocurrencies,Cyprus,Diplomacy / Foreign Policy,European Union,Europe,Financials (Legacy),Financials (TRBC level 1),White Collar Crime / Fraud / Corporate Crime,Judicial Process / Court Cases / Court Decisions,Lawmaking,Netherlands,Portugal,Corporate / Market Regulation,Financial Fraud / Securities Fraud,Western Europe",
+                        "og:article:published_time": "2020-02-12T12:37:22Z",
+                        "og:article:tag": "US,EU,MONEYLAUDERING,Banks (NEC) (TRBC level 5),EU Institutions,Crime / Law / Justice,Company News,Crime,Cryptocurrencies,Cyprus,Diplomacy / Foreign Policy,European Union,Europe,Financials (Legacy),Financials (TRBC level 1),White Collar Crime / Fraud / Corporate Crime,Judicial Process / Court Cases / Court Decisions,Lawmaking,Netherlands,Portugal,Corporate / Market Regulation,Financial Fraud / Securities Fraud,Western Europe",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.topicsubchannel": "World Home",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "everythingNews",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Cyprus, Portugal among states rebuked by EU over delays in money-laundering reforms",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "BNKS1,BRU,CLJ,CMPNY,CRIM,CRYCUR,CY,DIP,EU,EUROP,FIN,FINS,FRAUD1,JUDIC,LAW,NL,PT,REGS,SCAM1,WEU",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;EU;MONEYLAUDERING;Banks (NEC) (TRBC level 5);EU Institutions;Crime / Law / Justice;Company News;Crime;Cryptocurrencies;Cyprus;Diplomacy / Foreign Policy;European Union;Europe;Financials (Legacy);Financials (TRBC level 1);White Collar Crime / Fraud / Corporate Crime;Judicial Process / Court Cases / Court Decisions;Lawmaking;Netherlands;Portugal;Corporate / Market Regulation;Financial Fraud / Securities Fraud;Western Europe",
+                        "sailthru.title": "Cyprus, Portugal among states rebuked by EU over delays in money-laundering reforms",
+                        "analyticsattributes.contenttitle": "Cyprus, Portugal among states rebuked by EU over delays in money-laundering reforms",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-eu-moneylaudering-idUSKBN2061RR",
+                        "analyticsattributes.channel": "News",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2020-02-12T12:37:13Z",
+                        "og:type": "article",
+                        "twitter:title": "Cyprus, Portugal among states rebuked by EU over delays in money-laundering reforms",
+                        "og:title": "Cyprus, Portugal among states rebuked by EU over delays in money-laundering reforms",
+                        "analyticsattributes.keywordslug": "US-EU-MONEYLAUDERING",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "World - World Home",
+                        "sailthru.description": "The European Commission has sent legal warnings to Cyprus, Portugal, the Netherlands and five other EU states over their delays in applying new anti-money laundering rules adopted at European Union level two years ago.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "The European Commission has sent legal warnings to Cyprus, Portugal, the Netherlands and five other EU states over their delays in applying new anti-money laundering rules adopted at European Union level two years ago.",
+                        "analyticsattributes.topicn2names": "Banks (NEC) (TRBC level 5),EU Institutions,Crime / Law / Justice,Company News,Crime,Cryptocurrencies,Cyprus,Diplomacy / Foreign Policy,European Union,Europe,Financials (Legacy),Financials (TRBC level 1),White Collar Crime / Fraud / Corporate Crime,Judicial Process / Court Cases / Court Decisions,Lawmaking,Netherlands,Portugal,Corporate / Market Regulation,Financial Fraud / Securities Fraud,Western Europe",
+                        "og:url": "https://www.reuters.com/article/us-eu-moneylaudering-idUSKBN2061RR"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech and the payment ecosystem: Cyprus and the world ...",
+            "htmlTitle": "Fintech and the payment ecosystem: <b>Cyprus</b> and the world ...",
+            "link": "https://www.iflr.com/article/b1v5ppqf7cjn0p/fintech-and-the-payment-ecosystem-cyprus-and-the-world",
+            "displayLink": "www.iflr.com",
+            "snippet": "Oct 26, 2021 ... Furthermore, the revolution of cryptocurrency, being integrated by ... Anti-Money Laundering Directive (5AMLD), Cyprus recently updated its\u00a0...",
+            "htmlSnippet": "Oct 26, 2021 <b>...</b> Furthermore, the revolution of <b>cryptocurrency</b>, being integrated by ... Anti-<b>Money</b> Laundering Directive (5AMLD), <b>Cyprus</b> recently updated its&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/.../fintech-and-the-payment-ecosystem-cyprus-and-the- world",
+            "htmlFormattedUrl": "https://www.iflr.com/.../fintech-and-the-payment-ecosystem-<b>cyprus</b>-and-the- world",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTiTUwWqp9edOae36oY-1iDdN5qVCAomCymdqIJDTDIFkVenSSAOkRGTo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-11ae464165966b8608b2311c267eb696/Media/images/iflr/1-sponsored/datingscout-Fs3tnxNGutk-unsplash.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Fintech and the payment ecosystem: Cyprus and the world",
+                        "msapplication-square70x70logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "Fintech and the payment ecosystem: Cyprus and the world",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "Fintech and the payment ecosystem: Cyprus and the world",
+                        "og:description": "Xenia Kalogirou and Ioannis Sidiropoulos of Elias Neocleous &amp; Co consider how Cyprus is faring amid the accelerated pace of e-commerce development across the globe",
+                        "msapplication-square150x150logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://www.iflr.com/Media/images/iflr/1-sponsored/datingscout-Fs3tnxNGutk-unsplash.jpg",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "twitter:description": "Xenia Kalogirou and Ioannis Sidiropoulos of Elias Neocleous &amp; Co consider how Cyprus is faring amid the accelerated pace of e-commerce development across the globe",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iflr.com/Media/images/iflr/1-sponsored/datingscout-Fs3tnxNGutk-unsplash.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin now accepted as tuition payment at a Cyprus university - Los ...",
+            "htmlTitle": "<b>Bitcoin</b> now accepted as tuition payment at a <b>Cyprus</b> university - Los ...",
+            "link": "https://www.latimes.com/business/la-fi-mo-cyprus-university-bitcoin-20131120-story.html",
+            "displayLink": "www.latimes.com",
+            "snippet": "Nov 21, 2013 ... The University of Nicosia in the island nation of Cyprus will accept the virtual currency Bitcoin as payment for tuition and other school\u00a0...",
+            "htmlSnippet": "Nov 21, 2013 <b>...</b> The University of Nicosia in the island nation of <b>Cyprus</b> will accept the virtual <b>currency Bitcoin</b> as payment for tuition and other school&nbsp;...",
+            "cacheId": "MouYr3g8Tb4J",
+            "formattedUrl": "https://www.latimes.com/.../la-fi-mo-cyprus-university-bitcoin-20131120- story.html",
+            "htmlFormattedUrl": "https://www.latimes.com/.../la-fi-mo-<b>cyprus</b>-university-<b>bitcoin</b>-20131120- story.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsC-3MWQ9la4jFQ3AMgo-P40cNMoJeKSe7PAnWii1r103zQkOiNItwKR0",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ca-times.brightspotcdn.com/dims4/default/5dc17bb/2147483647/strip/true/crop/2048x1075+0+144/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1e%2Fc6%2Fedd5536b9176d55abd99209f4e23%2Fla-fi-mo-cyprus-university-bitcoin-20131120-001",
+                        "og:image:width": "1200",
+                        "article:published_time": "2013-11-21T14:00:12",
+                        "twitter:card": "summary_large_image",
+                        "brightspot.cached": "false",
+                        "og:site_name": "Los Angeles Times",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The University of Nicosia in the island nation of Cyprus will accept the virtual currency Bitcoin as payment for tuition and other school fees.",
+                        "twitter:image": "https://ca-times.brightspotcdn.com/dims4/default/49d55d9/2147483647/strip/true/crop/2048x1152+0+106/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1e%2Fc6%2Fedd5536b9176d55abd99209f4e23%2Fla-fi-mo-cyprus-university-bitcoin-20131120-001",
+                        "twitter:image:alt": "The University of Nicosia in the economically struggling nation of Cyprus will accept Bitcoin as payment for tuition and other fees.",
+                        "twitter:site": "@latimes",
+                        "brightspot.contentid": "00000169-0c89-dbbe-a16f-4ee9b70a0000",
+                        "article:content_tier": "metered",
+                        "og:image:alt": "The University of Nicosia in the economically struggling nation of Cyprus will accept Bitcoin as payment for tuition and other fees.",
+                        "og:type": "article",
+                        "article:section": "Business",
+                        "twitter:title": "Bitcoin now accepted as tuition payment at a Cyprus university",
+                        "og:image:url": "https://ca-times.brightspotcdn.com/dims4/default/5dc17bb/2147483647/strip/true/crop/2048x1075+0+144/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1e%2Fc6%2Fedd5536b9176d55abd99209f4e23%2Fla-fi-mo-cyprus-university-bitcoin-20131120-001",
+                        "og:title": "Bitcoin now accepted as tuition payment at a Cyprus university",
+                        "og:image:height": "630",
+                        "fb:pages": "5863113009",
+                        "article:author": "https://www.latimes.com/staff/shan-li",
+                        "fb:app_id": "134435029966155",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The University of Nicosia in the island nation of Cyprus will accept the virtual currency Bitcoin as payment for tuition and other school fees.",
+                        "og:url": "https://www.latimes.com/business/la-fi-mo-cyprus-university-bitcoin-20131120-story.html",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ca-times.brightspotcdn.com/dims4/default/5dc17bb/2147483647/strip/true/crop/2048x1075+0+144/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1e%2Fc6%2Fedd5536b9176d55abd99209f4e23%2Fla-fi-mo-cyprus-university-bitcoin-20131120-001"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Clarity on crypto assets regulation in Cyprus | International Financial ...",
+            "htmlTitle": "Clarity on <b>crypto</b> assets regulation in <b>Cyprus</b> | International Financial ...",
+            "link": "https://www.iflr.com/article/b1t5vvtzzt3q77/clarity-on-crypto-assets-regulation-in-cyprus",
+            "displayLink": "www.iflr.com",
+            "snippet": "Aug 18, 2021 ... ... the initiatives Cyprus is introducing to bring clarity to crypto ... Prevention and Suppression of Money Laundering Law 2007 (AML Law)\u00a0...",
+            "htmlSnippet": "Aug 18, 2021 <b>...</b> ... the initiatives <b>Cyprus</b> is introducing to bring clarity to <b>crypto</b> ... Prevention and Suppression of <b>Money</b> Laundering Law 2007 (AML Law)&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/article/.../clarity-on-crypto-assets-regulation-in-cyprus",
+            "htmlFormattedUrl": "https://www.iflr.com/article/.../clarity-on-<b>crypto</b>-assets-regulation-in-<b>cyprus</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96fv7MONrTmyeqLuh9m-4Wgdr3-2WH3_w7vWoE6yjR4SkVP4ARPsHzNk",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-ff34359861b0afa34d01ba1d2616d851/Media/images/international-tax-review/2-lorraine/bitcoin-3319215_1280.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Clarity on crypto assets regulation in Cyprus",
+                        "msapplication-square70x70logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "Clarity on crypto assets regulation in Cyprus",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "Clarity on crypto assets regulation in Cyprus",
+                        "og:description": "Ioannis Sidiropoulos of Elias Neocleous &amp; Co discusses the initiatives Cyprus is introducing to bring clarity to crypto assets regulation",
+                        "msapplication-square150x150logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://www.iflr.com/Media/images/international-tax-review/2-lorraine/bitcoin-3319215_1280.jpg",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-3a04339e3e3395e5f585a5d81c7eabf5/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "twitter:description": "Ioannis Sidiropoulos of Elias Neocleous &amp; Co discusses the initiatives Cyprus is introducing to bring clarity to crypto assets regulation",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iflr.com/Media/images/international-tax-review/2-lorraine/bitcoin-3319215_1280.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Bonanza: Cyprus Crisis Boosts Digital Dollars",
+            "htmlTitle": "<b>Bitcoin</b> Bonanza: <b>Cyprus</b> Crisis Boosts Digital Dollars",
+            "link": "https://www.cnbc.com/id/100597242",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Mar 27, 2013 ... The online alternative currency, previously little more than a curiosity in financial markets since its 2009 inception, has zoomed in trading\u00a0...",
+            "htmlSnippet": "Mar 27, 2013 <b>...</b> The online alternative <b>currency</b>, previously little more than a curiosity in financial markets since its 2009 inception, has zoomed in trading&nbsp;...",
+            "cacheId": "MnXciHHZMpcJ",
+            "formattedUrl": "https://www.cnbc.com/id/100597242",
+            "htmlFormattedUrl": "https://www.cnbc.com/id/100597242",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQoUb13ri0DuH5xCuK52tMUPSQYKi8kvpXsHbdWp_f9mYGC58zh95UUw0",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.jpg?v=1365170996",
+                        "expires": "2099-12-31",
+                        "datemodified": "2013-04-05T10:10:34-0400",
+                        "encodingformat": "jpg",
+                        "uploaddate": "2013-03-27T11:09:53-0400",
+                        "author": "Casascius | Wikipedia",
+                        "width": "width='530'",
+                        "publisher": "CNBC",
+                        "datecreated": "2013-03-27T11:09:53-0400",
+                        "datepublished": "2013-03-27T11:10:21-0400",
+                        "height": "height='298'"
+                    },
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100596691-130327_Santelli_Gold.530x298.jpg?v=1410966483",
+                        "expires": "2099-12-31",
+                        "datemodified": "2016-07-12T10:53:43-0400",
+                        "encodingformat": "jpg",
+                        "uploaddate": "2013-03-27T10:03:22-0400",
+                        "width": "530",
+                        "publisher": "CNBC US",
+                        "datecreated": "2013-03-27T10:03:22-0400",
+                        "datepublished": "2013-03-27T08:35:00-0400",
+                        "height": "298"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "Jeff Cox"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": "#article_body > div > div.group > p:first-child",
+                        "xpath": "/html/head/title"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.1910x1000.jpg",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2013-03-27T12:53:31-0400",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/id/100597242",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "They won't make a sound no matter how many of them you try to toss in a bucket, and you can't pitch them in a fountain and wish for good luck. But make no mistake, bitcoins are getting big.",
+                        "twitter:creator": "@JeffCoxCNBCcom",
+                        "parsely-metadata": "{\"nodeid\": \"100597242\",\"originalImage\": \"https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.jpg\"}",
+                        "twitter:image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.1910x1000.jpg",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "100597242",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2013-04-02T10:33:42-0400",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "blogpost",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin Bonanza: Cyprus Crisis Boosts Digital Dollars",
+                        "article:section": "NetNet",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Jeff Cox",
+                        "og:title": "Bitcoin: Cyprus Sparks Scramble for Digital Dollars",
+                        "article:author": "https://www.facebook.com/jeff.cox.7528",
+                        "article:tag": "Currency markets",
+                        "referrer": "unsafe-url",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,shrink-to-fit=no",
+                        "twitter:description": "They won't make a sound no matter how many of them you try to toss in a bucket, and you can't pitch them in a fountain and wish for good luck. But make no mistake, bitcoins are getting big.",
+                        "og:url": "https://www.cnbc.com/id/100597242"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.1910x1000.jpg",
+                        "isfamilyfriendly": "true",
+                        "primaryimageofpage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.1910x1000.jpg",
+                        "keywords": "NetNet, Currency markets, Bitcoin, Economy, U.S. dollar, Wall Street, Foreign Exchange, Currencies, U.S. Dollar, business news",
+                        "inlanguage": "en-US",
+                        "lastreviewed": "2013-04-02T10:33:42-0400",
+                        "sourceorganization": "CNBC",
+                        "description": "They won't make a sound no matter how many of them you toss in a bucket, but make no mistake, bitcoins are big.",
+                        "datecreated": "2013-03-27T13:07:45-0400",
+                        "url": "https://www.cnbc.com/id/100597242",
+                        "contentrating": "NR",
+                        "xpath": "/html/head/title",
+                        "datemodified": "2013-04-02T10:33:42-0400",
+                        "name": "Bitcoin Bonanza: Cyprus Crisis Boosts Digital Dollars"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/27/100597062-Bitcoin-coin2-wiki.1910x1000.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "cssselector": "#article_body > div > div.group > p:first-child",
+                        "articlebody": "They won't make a sound no matter how many of them you try to toss in a bucket, and you can't pitch them in a fountain and wish for good luck. But make no mistake, bitcoins are getting big....",
+                        "datemodified": "2013-04-02T10:33:42-0400",
+                        "sourceorganization": "CNBC.com",
+                        "name": "Bitcoin Bonanza: Cyprus Crisis Boosts Digital Dollars",
+                        "datepublished": "2013-03-27T13:07:45-0400"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus enacts the 5th Anti Money Laundering Directive Introducing ...",
+            "htmlTitle": "<b>Cyprus</b> enacts the 5th Anti <b>Money</b> Laundering Directive Introducing ...",
+            "link": "https://www.legal500.com/developments/thought-leadership/cyprus-enacts-the-5th-anti-money-laundering-directive-introducing-crypto-assets/",
+            "displayLink": "www.legal500.com",
+            "snippet": "Apr 9, 2021 ... The enactment of the 5th Anti Money Laundering Directive via amendment of Law 188(I)/2007 constitutes the introduction of mandatory crypto\u00a0...",
+            "htmlSnippet": "Apr 9, 2021 <b>...</b> The enactment of the 5<sup>th</sup> Anti <b>Money</b> Laundering Directive via amendment of Law 188(I)/2007 constitutes the introduction of mandatory <b>crypto</b>&nbsp;...",
+            "cacheId": "dwtsbL41xYYJ",
+            "formattedUrl": "https://www.legal500.com/.../cyprus-enacts-the-5th-anti-money-laundering- directive-introducing-crypto-assets/",
+            "htmlFormattedUrl": "https://www.legal500.com/.../<b>cyprus</b>-enacts-the-5th-anti-<b>money</b>-laundering- directive-introducing-<b>crypto</b>-assets/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "st:robots": "follow, index",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tileimage": "https://www.legal500.com/developments/wp-content/uploads/sites/19/2019/09/cropped-L500-no-other-text-black.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

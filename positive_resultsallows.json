@@ -1,0 +1,529 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - intext:cyprus ~allows ~(cryptocurrency as money)",
+                "totalResults": "6660000",
+                "searchTerms": "intext:cyprus ~allows ~(cryptocurrency as money)",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "cryptocurrency as money"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - intext:cyprus ~allows ~(cryptocurrency as money)",
+                "totalResults": "6660000",
+                "searchTerms": "intext:cyprus ~allows ~(cryptocurrency as money)",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "cryptocurrency as money"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.524202,
+        "formattedSearchTime": "0.52",
+        "totalResults": "6660000",
+        "formattedTotalResults": "6,660,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Bitcoin Boom | The New Yorker",
+            "htmlTitle": "The <b>Bitcoin</b> Boom | The New Yorker",
+            "link": "https://www.newyorker.com/tech/annals-of-technology/the-bitcoin-boom",
+            "displayLink": "www.newyorker.com",
+            "snippet": "Apr 1, 2013 ... ... money directly from every single bank account in Cyprus\u2014even the ... the price of the decentralized electronic currency bitcoin rose\u00a0...",
+            "htmlSnippet": "Apr 1, 2013 <b>...</b> ... <b>money</b> directly from every single bank account in <b>Cyprus</b>\u2014even the ... the price of the decentralized electronic <b>currency bitcoin</b> rose&nbsp;...",
+            "cacheId": "rI0iB7xcjtcJ",
+            "formattedUrl": "https://www.newyorker.com/tech/annals-of-technology/the-bitcoin-boom",
+            "htmlFormattedUrl": "https://www.newyorker.com/tech/annals-of-technology/the-<b>bitcoin</b>-boom",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyl4Id63AGEem5cd0bG_l5rCF7kwCTgJBM7C3wndK84w5KohphTYosLPU",
+                        "width": "290",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://media.newyorker.com/photos/59095244ebe912338a372c12/16:9/w_1280,c_limit/bitcoins-290.jpg",
+                        "copyright": "Copyright (c) Cond\u00e9 Nast 2021",
+                        "article:published_time": "2013-04-01T19:54:27.000Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The New Yorker",
+                        "parsely-metadata": "{\"description\":\"Bitcoins appear, for the moment, at least, to be immune to the machinations of inept or crooked bankers and politicians\u2026\",\"image-16-9\":\"https://media.newyorker.com/photos/59095244ebe912338a372c12/16:9/w_1000,c_limit/bitcoins-290.jpg\",\"image-1-1\":\"https://media.newyorker.com/photos/59095244ebe912338a372c12/1:1/w_1000,c_limit/bitcoins-290.jpg\"}",
+                        "og:description": "Bitcoins appear, for the moment, at least, to be immune to the machinations of inept or crooked bankers and politicians\u2026",
+                        "twitter:creator": "@NewYorker",
+                        "twitter:image": "https://media.newyorker.com/photos/59095244ebe912338a372c12/16:9/w_1280,c_limit/bitcoins-290.jpg?mbid=social_retweet",
+                        "msapplication-tap-highlight": "no",
+                        "twitter:site": "@NewYorker",
+                        "news_keywords": "bitcoin,elements,techpages",
+                        "content-type": "article",
+                        "article:content_tier": "metered",
+                        "id": "5910e7406c4c222f03a855ca",
+                        "og:type": "article",
+                        "article:section": "tags",
+                        "twitter:title": "The Bitcoin Boom",
+                        "parsely-post-id": "5910e7406c4c222f03a855ca",
+                        "twitter:domain": "https://www.newyorker.com",
+                        "author": "Cond\u00e9 Nast",
+                        "og:title": "The Bitcoin Boom",
+                        "fb:pages": "9258148868",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "1147169538698836",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Bitcoins appear, for the moment, at least, to be immune to the machinations of inept or crooked bankers and politicians\u2026",
+                        "og:url": "https://www.newyorker.com/tech/annals-of-technology/the-bitcoin-boom",
+                        "google-signin-client_id": "275906274807-b4eqbdqr511u9msdpj8mh0pf77fcciv7.apps.googleusercontent.com",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.newyorker.com/photos/59095244ebe912338a372c12/16:9/w_1280,c_limit/bitcoins-290.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hacked, scammed and on your own: navigating cryptocurrency 'wild ...",
+            "htmlTitle": "Hacked, scammed and on your own: navigating <b>cryptocurrency</b> &#39;wild ...",
+            "link": "https://www.reuters.com/article/us-crypto-currency-crime/hacked-scammed-and-on-your-own-navigating-cryptocurrency-wild-west-idUSKCN1MS0F7",
+            "displayLink": "www.reuters.com",
+            "snippet": "Oct 17, 2018 ... The Cyprus-based German couple, who describe themselves as financial ... \u201cA decentralized currency system like bitcoin, or another form of\u00a0...",
+            "htmlSnippet": "Oct 17, 2018 <b>...</b> The <b>Cyprus</b>-based German couple, who describe themselves as financial ... \u201cA decentralized <b>currency</b> system like <b>bitcoin</b>, or another form of&nbsp;...",
+            "cacheId": "Cbv1YjXhNyIJ",
+            "formattedUrl": "https://www.reuters.com/...crypto-currency.../hacked-scammed-and-on-your- own-navigating-cryptocurrency-wild-west-idUSKCN1MS0F7",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>crypto</b>-<b>currency</b>.../hacked-scammed-and-on-your- own-navigating-<b>cryptocurrency</b>-wild-west-idUSKCN1MS0F7",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgEIn5oFQpecmmLSgEOEugbeJ9amOaOHIaeF6_sLP5fN9FhAktv-nZTAy",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20181018&t=2&i=1315999799&r=LYNXNPEE9H0AO&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2018-10-18T08:33:23Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "topNews;newsOne;businessNews;technologyNews;RCOMUS_Cyberrisk;RCOMUS_Fintech;BigStory12;GCA-live-feed;consolidated-business;US-The-Wire;top-100-innovators;rcom-eur-markets;RCOM-cyberrisk-extended;technology-upclose;RCOM-fintech-extended;USWire_EL;everythingNews;fintech-full",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "When Peggy and Marco Lachmann-Anke learned in January that hackers cracked a 40-character password and cleaned out their cryptocurrency wallet, they did not go to the police or alert the tokens' issuer, the Berlin-based technology group IOTA.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2018-10-18T08:33:23Z",
+                        "og:article:section": "Future of Money",
+                        "analyticsattributes.articledate": "2018-10-18T08:33:23Z",
+                        "dcsext.dartzone": "reuters.com/business/finance/article",
+                        "author": "Gertrude Chavez-Dreyfuss",
+                        "analyticsattributes.keywords": "US,CRYPTO,CURRENCY,CRIME,Americas,Blockchain,Crime,Cryptocurrencies,Europe,Financial Technology & Infrastructure (TRBC level 5),Currencies / Foreign Exchange Markets,Graphics,Major News,Corporate / Market Regulation,Technology (TRBC level 1)",
+                        "og:article:published_time": "2018-10-18T05:07:13Z",
+                        "og:article:tag": "US,CRYPTO,CURRENCY,CRIME,Americas,Blockchain,Crime,Cryptocurrencies,Europe,Financial Technology & Infrastructure (TRBC level 5),Currencies / Foreign Exchange Markets,Graphics,Major News,Corporate / Market Regulation,Technology (TRBC level 1)",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20181018&t=2&i=1315999799&r=LYNXNPEE9H0AO&w=800",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20181018&t=2&i=1315999799&r=LYNXNPEE9H0AO&w=800",
+                        "sailthru.author": "Gertrude Chavez-Dreyfuss",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Hacked, scammed and on your own: navigating cryptocurrency 'wild west'",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AMERS,BLKCHN,CRIM,CRYCUR,EUROP,FINTEC,FRX,MTGFX,NEWS1,REGS,TECH",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20181018&t=2&i=1315999799&r=LYNXNPEE9H0AO&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;CRYPTO;CURRENCY;CRIME;Americas;Blockchain;Crime;Cryptocurrencies;Europe;Financial Technology & Infrastructure (TRBC level 5);Currencies / Foreign Exchange Markets;Graphics;Major News;Corporate / Market Regulation;Technology (TRBC level 1)",
+                        "sailthru.title": "Hacked, scammed and on your own: navigating cryptocurrency 'wild west'",
+                        "analyticsattributes.contenttitle": "Hacked, scammed and on your own: navigating cryptocurrency 'wild west'",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-crypto-currency-crime-idUSKCN1MS0F7",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Gertrude Chavez-Dreyfuss",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2018-10-18T08:33:23Z",
+                        "og:type": "article",
+                        "twitter:title": "Hacked, scammed and on your own: navigating cryptocurrency 'wild west'",
+                        "og:title": "Hacked, scammed and on your own: navigating cryptocurrency 'wild west'",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-CRYPTO-CURRENCY-CRIME",
+                        "analyticsattributes.author": "Gertrude Chavez-Dreyfuss",
+                        "analyticsattributes.contentchannel": "Business - Finance",
+                        "sailthru.description": "When Peggy and Marco Lachmann-Anke learned in January that hackers cracked a 40-character password and cleaned out their cryptocurrency wallet, they did not go to the police or alert the tokens' issuer, the Berlin-based technology group IOTA.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "When Peggy and Marco Lachmann-Anke learned in January that hackers cracked a 40-character password and cleaned out their cryptocurrency wallet, they did not go to the police or alert the tokens' issuer, the Berlin-based technology group IOTA.",
+                        "analyticsattributes.topicn2names": "Americas,Blockchain,Crime,Cryptocurrencies,Europe,Financial Technology & Infrastructure (TRBC level 5),Currencies / Foreign Exchange Markets,Graphics,Major News,Corporate / Market Regulation,Technology (TRBC level 1)",
+                        "og:url": "https://www.reuters.com/article/us-crypto-currency-crime-idUSKCN1MS0F7"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20181018&t=2&i=1315999799&r=LYNXNPEE9H0AO&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Guidance for a Risk-based approach to virtual currencies",
+            "htmlTitle": "Guidance for a Risk-based approach to virtual currencies",
+            "link": "https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-RBA-Virtual-Currencies.pdf",
+            "displayLink": "www.fatf-gafi.org",
+            "snippet": "promotes policies to protect the global financial system against money laundering, ... Participating in the Bitcoin Network to Send and Receive Bitcoins .",
+            "htmlSnippet": "promotes policies to protect the global financial system against <b>money</b> laundering, ... Participating in the <b>Bitcoin</b> Network to Send and Receive Bitcoins .",
+            "cacheId": "iRf5TcLaJCEJ",
+            "formattedUrl": "https://www.fatf-gafi.org/media/fatf/.../Guidance-RBA-Virtual-Currencies.pdf",
+            "htmlFormattedUrl": "https://www.fatf-gafi.org/media/fatf/.../Guidance-RBA-Virtual-Currencies.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aFEVHyBOSUMPFcSC9MMlcS0XYPKN5mfQLSYyGkzKzYSR3otJQhBUhpKP",
+                        "width": "284",
+                        "height": "178"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20150626063530+02'00'",
+                        "creationdate": "D:20150625084638+02'00'",
+                        "creator": "Adobe InDesign CS6 (Windows)",
+                        "producer": "Adobe PDF Library 10.0.1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///a6814fed1a49889847e99db772f8076fb36ad3e16ca9a0403fc89b3affc9ede5"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ACAMS Cyprus Chapter: Don't be afraid of crypto! - Mitigating crypto ...",
+            "htmlTitle": "ACAMS Cyprus Chapter: Don&#39;t be afraid of <b>crypto</b>! - Mitigating <b>crypto</b> ...",
+            "link": "https://www.acams.org/en/chapters/europe/acams-cyprus-chapter-dont-be-afraid-of-crypto-mitigating-crypto-clients-risks",
+            "displayLink": "www.acams.org",
+            "snippet": "Crypto is becoming part of our lives and the regulatory framework is shaping up. We now have the guidance and tools to mitigate the risks.",
+            "htmlSnippet": "<b>Crypto</b> is becoming part of our lives and the regulatory framework is shaping up. We now have the guidance and tools to mitigate the risks.",
+            "cacheId": "bFWU8IwWf8oJ",
+            "formattedUrl": "https://www.acams.org/.../acams-cyprus-chapter-dont-be-afraid-of-crypto- mitigating-crypto-clients-risks",
+            "htmlFormattedUrl": "https://www.acams.org/.../acams-<b>cyprus</b>-chapter-dont-be-afraid-of-<b>crypto</b>- mitigating-<b>crypto</b>-clients-risks",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVrUQk9uPfElXZv3e0mLj6HfpGdjTlzYQDp7H5LJV821mlZp8PwEmU28",
+                        "width": "288",
+                        "height": "175"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.acams.org/sites/default/files/styles/atge_default_md/public/2021-10/Fintrail_460.png?itok=RTRsspzv"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus' banking crisis is good news for Bitcoin | The Week",
+            "htmlTitle": "Cyprus&#39; banking crisis is good news for <b>Bitcoin</b> | The Week",
+            "link": "https://theweek.com/articles/466337/cyprus-banking-crisis-good-news-bitcoin",
+            "displayLink": "theweek.com",
+            "snippet": "In a financial crisis, would you rather put your money in a beleaguered bank, or convert it to a volatile digital currency? The meltdown of Cyprus' banking\u00a0...",
+            "htmlSnippet": "In a financial crisis, would you rather put your <b>money</b> in a beleaguered bank, or convert it to a volatile digital <b>currency</b>? The meltdown of <b>Cyprus</b>&#39; banking&nbsp;...",
+            "cacheId": "x6OF6AACkXoJ",
+            "formattedUrl": "https://theweek.com/articles/.../cyprus-banking-crisis-good-news-bitcoin",
+            "htmlFormattedUrl": "https://theweek.com/articles/.../<b>cyprus</b>-banking-crisis-good-news-<b>bitcoin</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRl5UO-x4moZkMKXAIR2kpq69vyqVvR9c0aF1CprAfohr89xNbX__gGmg",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608174740/46879_article_full.jpg",
+                        "theme-color": "#fff",
+                        "twitter:card": "summary_large_image",
+                        "blaize:headline": "Cyprus&#039; banking crisis is good news for Bitcoin",
+                        "blaize:dfpdefaultadunitpath": "359/theweek.com/business",
+                        "og:site_name": "The Week",
+                        "blaize:publicationdate": "20150111",
+                        "twitter:url": "https://theweek.com/articles/466337/cyprus-banking-crisis-good-news-bitcoin",
+                        "og:description": "With confidence in the euro fading, the digital currency is suddenly on the rise",
+                        "twitter:image": "https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608174740/46879_article_full.jpg",
+                        "blaize:mainpurpose|client": "Build brand",
+                        "blaize:internallinks": "0",
+                        "blaize:wordcount": "442",
+                        "twitter:site": "@TheWeek",
+                        "blaize:accesslevel": "Metered",
+                        "blaize:expectedtrafficsource|targetedsearchphrase": "Direct/newsletter",
+                        "blaize:contenttype": "Article",
+                        "blaize:sponsored": "0",
+                        "blaize:pagetype": "Node (Article)",
+                        "blaize:bodycopyparagraphs": "12",
+                        "blaize:sitename": "The Week",
+                        "blaize:originalpublicationdate": "20150108",
+                        "twitter:title": "Cyprus' banking crisis is good news for Bitcoin",
+                        "og:type": "article",
+                        "twitter:site:id": "16439471",
+                        "blaize:topcategory": "Business",
+                        "blaize:mainpurpose": "Build brand",
+                        "blaize:author": "Jon Terbush",
+                        "blaize:nodeid": "466337",
+                        "blaize:expectedtrafficsource": "Direct/newsletter",
+                        "og:title": "Cyprus' banking crisis is good news for Bitcoin",
+                        "fb:pages": "10716057521",
+                        "blaize:articletype": "Feature",
+                        "blaize:toparticletype": "Feature",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "twitter:description": "With confidence in the euro fading, the digital currency is suddenly on the rise",
+                        "blaize:category": "Business",
+                        "og:url": "https://theweek.com/articles/466337/cyprus-banking-crisis-good-news-bitcoin",
+                        "blaize:topbreadcrumb": "Home",
+                        "blaize:breadcrumblevel2": "Business"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608174740/46879_article_full.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Future of Bitcoin: Mapping the Global Adoption of World's ...",
+            "htmlTitle": "The Future of <b>Bitcoin</b>: Mapping the Global Adoption of World&#39;s ...",
+            "link": "http://trace.tennessee.edu/cgi/viewcontent.cgi?article=2741&context=utk_chanhonoproj",
+            "displayLink": "trace.tennessee.edu",
+            "snippet": "Apr 21, 2014 ... the future is going suggest to us as money, once we see digital ... However, my hypothesis is that Bitcoin provides a distinct advantage to\u00a0...",
+            "htmlSnippet": "Apr 21, 2014 <b>...</b> the future is going suggest to us as <b>money</b>, once we see digital ... However, my hypothesis is that <b>Bitcoin provides</b> a distinct advantage to&nbsp;...",
+            "formattedUrl": "trace.tennessee.edu/cgi/viewcontent.cgi?article=2741&context=utk...",
+            "htmlFormattedUrl": "trace.tennessee.edu/cgi/viewcontent.cgi?article=2741&amp;context=utk...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuHU-tQbZ1Ogn723Smogwp7TltXrAtBbztzMNQ5Ie2aARMSlGKMSYOn-I",
+                        "width": "221",
+                        "height": "228"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210311182403-08'00'",
+                        "creationdate": "D:20210311182403-08'00'",
+                        "creator": "Appligent AppendPDF Pro 6.3",
+                        "author": "James K. Darlington III",
+                        "producer": "Prince 12.5 (www.princexml.com)",
+                        "appligent": "AppendPDF Pro 6.3 Linux 64 bit Aug 30 2019 Library 15.0.4",
+                        "title": "The Future of Bitcoin: Mapping the Global Adoption of World\u2019s Largest Cryptocurrency Through Benefit Analysis"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///c454b61745873ebd32182a453ea758e70cc3757b0bf83839072af8988c9a3e32"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What countries are buys and sells available in? | Coinbase Help",
+            "htmlTitle": "What countries are buys and sells available in? | Coinbase Help",
+            "link": "https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/what-countries-are-buys-and-sells-available-in",
+            "displayLink": "help.coinbase.com",
+            "snippet": "Cryptocurrency conversion services are currently available to customers in ... Cyprus. Czech Republic. Denmark; Estonia. Finland. France; Gibraltar.",
+            "htmlSnippet": "<b>Cryptocurrency</b> conversion services are currently available to customers in ... <b>Cyprus</b>. Czech Republic. Denmark; Estonia. Finland. France; Gibraltar.",
+            "cacheId": "cndVBk16fqgJ",
+            "formattedUrl": "https://help.coinbase.com/...crypto/what-countries-are-buys-and-sells- available-in",
+            "htmlFormattedUrl": "https://help.coinbase.com/...<b>crypto</b>/what-countries-are-buys-and-sells- available-in",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/public-assets/favicons/apple-icon-180x180.png",
+                        "next-head-count": "15",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "What countries are buys and sells available in? |\n        Coinbase Help",
+                        "og:site_name": "Coinbase Help",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:url": "https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/what-countries-are-buys-and-sells-available-in",
+                        "og:title": "What countries are buys and sells available in? |\n        Coinbase Help",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://help.coinbase.com/en/coinbase/trading-and-funding/buying-selling-or-converting-crypto/what-countries-are-buys-and-sells-available-in"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/public-assets/favicons/apple-icon-180x180.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About restricted financial products certification - Advertising Policies ...",
+            "htmlTitle": "About restricted financial products certification - Advertising Policies ...",
+            "link": "https://support.google.com/adspolicy/answer/7645254?hl=en",
+            "displayLink": "support.google.com",
+            "snippet": "... rolling spot forex, financial spread betting, and synonymous products) or cryptocurrency exchanges are allowed to advertise through Google Ads,\u00a0...",
+            "htmlSnippet": "... rolling spot forex, financial spread betting, and synonymous products) or <b>cryptocurrency</b> exchanges are <b>allowed</b> to advertise through Google Ads,&nbsp;...",
+            "cacheId": "VIiOkZ8sqHAJ",
+            "formattedUrl": "https://support.google.com/adspolicy/answer/7645254?hl=en",
+            "htmlFormattedUrl": "https://support.google.com/adspolicy/answer/7645254?hl=en",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=3,user-scalable=yes",
+                        "format-detection": "email=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A Cyprus University Is First in the World to Accept Bitcoin for Tuition",
+            "htmlTitle": "A Cyprus University Is First in the World to Accept <b>Bitcoin</b> for Tuition",
+            "link": "https://www.businessinsider.com/cyprus-university-bitcoin-tuition-2013-11",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Nov 20, 2013 ... Flickr / zcopley Forget Bitcoin ATMs. The oft-misunderstood digital currency is going even more mainstream. The University of Nicosia in\u00a0...",
+            "htmlSnippet": "Nov 20, 2013 <b>...</b> Flickr / zcopley Forget <b>Bitcoin</b> ATMs. The oft-misunderstood digital <b>currency</b> is going even more mainstream. The University of Nicosia in&nbsp;...",
+            "cacheId": "VL4ytcMEY8EJ",
+            "formattedUrl": "https://www.businessinsider.com/cyprus-university-bitcoin-tuition-2013-11",
+            "htmlFormattedUrl": "https://www.businessinsider.com/<b>cyprus</b>-university-<b>bitcoin</b>-tuition-2013-11",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ3M8bdEFyX6EcF5cSsM8ElSUXOTkuBJqUBazEvudbLe6C-W_u9rEQBsg",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2013-11-21",
+                        "og:image": "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "Bitcoin, Cyprus, Paul Szoldra",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "A Cyprus University Is First In The World To Accept Bitcoin For Tuition",
+                        "og:description": "The University of Nicosia is the first accredited institution to accept Bitcoin payment for tuition.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@CareersInsider",
+                        "news_keywords": "Bitcoin, Cyprus, Paul Szoldra",
+                        "sailthru.title": "A Cyprus University Is First In The World To Accept Bitcoin For Tuition",
+                        "article:content_tier": "free",
+                        "lastmod": "2013-11-21T14:46:38Z",
+                        "pubdate": "2013-11-21T05:52:00Z",
+                        "sailthru.verticals": "education, sai, clusterstock",
+                        "sailthru.date": "2013-11-21",
+                        "og:type": "article",
+                        "author": "Paul Szoldra",
+                        "tbi-vertical": "Education",
+                        "og:title": "A Cyprus University Is First In The World To Accept Bitcoin For Tuition",
+                        "ia:markup_url": "https://www.businessinsider.com/cyprus-university-bitcoin-tuition-2013-11?fbia",
+                        "sailthru.image.thumb": "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The University of Nicosia is the first accredited institution to accept Bitcoin payment for tuition.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/cyprus-university-bitcoin-tuition-2013-11",
+                        "sailthru.author": "Paul Szoldra",
+                        "sailthru.image.full": "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin and the illusion of money - BBC Future",
+            "htmlTitle": "<b>Bitcoin</b> and the illusion of <b>money</b> - BBC Future",
+            "link": "https://www.bbc.com/future/article/20130412-bitcoin-and-the-illusion-of-money",
+            "displayLink": "www.bbc.com",
+            "snippet": "Apr 12, 2013 ... The world's \u201cfirst decentralised digital currency\u201d promises financial ... Cyprus. Ireland. The list of countries needing financial bailouts\u00a0...",
+            "htmlSnippet": "Apr 12, 2013 <b>...</b> The world&#39;s \u201cfirst decentralised digital <b>currency</b>\u201d promises financial ... <b>Cyprus</b>. Ireland. The list of countries needing financial bailouts&nbsp;...",
+            "cacheId": "uw8Vr21_UyIJ",
+            "formattedUrl": "https://www.bbc.com/future/.../20130412-bitcoin-and-the-illusion-of-money",
+            "htmlFormattedUrl": "https://www.bbc.com/future/.../20130412-<b>bitcoin</b>-and-the-illusion-of-<b>money</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-evypBML3n_-bPvFtLrK1lt6PUhp8aF0Yq9x8wfe3EE_lCsVSBhgSeYK",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ychef.files.bbci.co.uk/live/624x351/p017ktt9.jpg",
+                        "og:type": "article",
+                        "og:image:width": "624",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Bitcoin and the illusion of money",
+                        "author": "Tom Chatfield",
+                        "og:title": "Bitcoin and the illusion of money",
+                        "og:image:height": "351",
+                        "og:description": "The world\u2019s \u201cfirst decentralised digital currency\u201d promises financial salvation, but what is it and can it really deliver?",
+                        "fb:pages": "279678448760878",
+                        "twitter:image": "https://ychef.files.bbci.co.uk/live/624x351/p017ktt9.jpg",
+                        "twitter:site": "@BBC_Future",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:author": "Tom Chatfield",
+                        "twitter:description": "The world\u2019s \u201cfirst decentralised digital currency\u201d promises financial salvation, but what is it and can it really deliver?",
+                        "og:url": "https://www.bbc.com/future/article/20130412-bitcoin-and-the-illusion-of-money"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ychef.files.bbci.co.uk/live/624x351/p017ktt9.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

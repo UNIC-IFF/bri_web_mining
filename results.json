@@ -1,0 +1,616 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Cyprus",
+                "totalResults": "1340000",
+                "searchTerms": "Cyprus",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "NFT"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Cyprus",
+                "totalResults": "1340000",
+                "searchTerms": "Cyprus",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "NFT"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.396325,
+        "formattedSearchTime": "0.40",
+        "totalResults": "1340000",
+        "formattedTotalResults": "1,340,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "NFT platform Unblocked to release Cypress Hill digital collectables ...",
+            "htmlTitle": "<b>NFT</b> platform Unblocked to release Cypress Hill digital collectables ...",
+            "link": "https://www.musicbusinessworldwide.com/primary-wave-backed-nft-platform-unblocked-launches-cyprus-hill-collectables/",
+            "displayLink": "www.musicbusinessworldwide.com",
+            "snippet": "Nov 23, 2021 ... Los Angeles-based NFT firm The Non Fungible Token Company (NFTCo), known as Unblocked, has launched its first digital collectibles,\u00a0...",
+            "htmlSnippet": "Nov 23, 2021 <b>...</b> Los Angeles-based <b>NFT</b> firm The Non Fungible Token Company (NFTCo), known as Unblocked, has launched its first digital collectibles,&nbsp;...",
+            "cacheId": "l3npdTZMNOcJ",
+            "formattedUrl": "https://www.musicbusinessworldwide.com/primary-wave-backed-nft- platform-unblocked-launches-cyprus-hill-collectables/",
+            "htmlFormattedUrl": "https://www.musicbusinessworldwide.com/primary-wave-backed-<b>nft</b>- platform-unblocked-launches-<b>cyprus</b>-hill-collectables/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.musicbusinessworldwide.com/files/2021/11/Cyprus-Hill-e1637676974224.jpg",
+                        "msapplication-config": "/wp-content/themes/mb/assets/img/icons/browserconfig.xml",
+                        "og:image:width": "1177",
+                        "article:published_time": "2021-11-23T15:47+00:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Music Business Worldwide",
+                        "apple-mobile-web-app-title": "MBW",
+                        "twitter:image:height": "662",
+                        "msapplication-tileimage": "/wp-content/themes/mb/assets/img/icons/mstile-144x144.png",
+                        "og:description": "Unblocked investors include Shawn Mendes, music manager Andrew Gertler and more\u2026",
+                        "twitter:creator": "@musicbizworld",
+                        "twitter:image": "https://www.musicbusinessworldwide.com/files/2021/11/Cyprus-Hill-e1637676974224.jpg",
+                        "twitter:site": "@musicbizworld",
+                        "article:modified_time": "2021-11-23T19:25+00:00",
+                        "twitter:image:width": "1177",
+                        "msapplication-tilecolor": "#333a42",
+                        "application-name": "MBW",
+                        "og:type": "article",
+                        "twitter:title": "NFT platform Unblocked to release Cypress Hill digital collectables in partnership with Primary Wave - Music Business Worldwide",
+                        "og:title": "NFT platform Unblocked to release Cypress Hill digital collectables in partnership with Primary Wave - Music Business Worldwide",
+                        "og:image:height": "662",
+                        "og:updated_time": "2021-11-23T19:25+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Unblocked investors include Shawn Mendes, music manager Andrew Gertler and more\u2026",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.musicbusinessworldwide.com/primary-wave-backed-nft-platform-unblocked-launches-cyprus-hill-collectables/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Epazz's CryObo Technology to Issue Token (NFT) for a Real Estate ...",
+            "htmlTitle": "Epazz&#39;s CryObo Technology to Issue Token (<b>NFT</b>) for a Real Estate ...",
+            "link": "https://www.yahoo.com/now/epazzs-cryobo-technology-issue-token-160400641.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Nov 22, 2021 ... ... will issue Non-Fungible Tokens (NFT) for a real estate deal in Cyprus. Cyprus is a small European Union member which is moving forward\u00a0...",
+            "htmlSnippet": "Nov 22, 2021 <b>...</b> ... will issue Non-Fungible Tokens (<b>NFT</b>) for a real estate deal in <b>Cyprus</b>. <b>Cyprus</b> is a small European Union member which is moving forward&nbsp;...",
+            "cacheId": "2c1UBZ0ZC-wJ",
+            "formattedUrl": "https://www.yahoo.com/.../epazzs-cryobo-technology-issue-token- 160400641.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../epazzs-cryobo-technology-issue-token- 160400641.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7cTsnHU2el-noVBb83z94uoJkqxIp679YYDUtra0TELQm_jKE_FFvJn2",
+                        "width": "297",
+                        "height": "170"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/6986b3c5-ba4c-396a-9990-5ba745e81ce5",
+                        "og:image": "https://s.yimg.com/ny/api/res/1.2/3OaEHmkjPmSttaMFpOJtfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://s.yimg.com/uu/api/res/1.2/34_ut2bixszrvw95GX9pLg--~B/aD04NTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/af8a10e939da1d78505d8eb9c414d45a",
+                        "twitter:title": "Epazz's CryObo Technology to Issue Token (NFT) for a Real Estate Deal in Cyprus",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Epazz's CryObo Technology to Issue Token (NFT) for a Real Estate Deal in Cyprus",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "686",
+                        "og:description": "Tokenization of Real Property Becoming a Way to Raise Capital CHICAGO, Nov. 22, 2021 (GLOBE NEWSWIRE) -- via NewMediaWire -- Epazz Inc. (OTC Pink: EPAZ), a mission-critical provider of blockchain cryptocurrency mobile apps and cloud-based business software solutions, announced today that CryObo technology will issue Non-Fungible Tokens (NFT) for a real estate deal in Cyprus. Cyprus is a small European Union member which is moving forward with cryptocurrency regulations. The Cyprus real estate de",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/ny/api/res/1.2/3OaEHmkjPmSttaMFpOJtfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://s.yimg.com/uu/api/res/1.2/34_ut2bixszrvw95GX9pLg--~B/aD04NTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/af8a10e939da1d78505d8eb9c414d45a",
+                        "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/3OaEHmkjPmSttaMFpOJtfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://s.yimg.com/uu/api/res/1.2/34_ut2bixszrvw95GX9pLg--~B/aD04NTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/af8a10e939da1d78505d8eb9c414d45a",
+                        "al:android:url": "yfinance://article/6986b3c5-ba4c-396a-9990-5ba745e81ce5",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Epazz Inc., real estate, business software, Cyprus, future value",
+                        "twitter:description": "Tokenization of Real Property Becoming a Way to Raise Capital CHICAGO, Nov. 22, 2021 (GLOBE NEWSWIRE) -- via NewMediaWire -- Epazz Inc. (OTC Pink: EPAZ), a mission-critical provider of blockchain cryptocurrency mobile apps and cloud-based business software solutions, announced today that CryObo technology will issue Non-Fungible Tokens (NFT) for a real estate deal in Cyprus. Cyprus is a small European Union member which is moving forward with cryptocurrency regulations. The Cyprus real estate de",
+                        "og:url": "https://finance.yahoo.com/news/epazzs-cryobo-technology-issue-token-160400641.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/ny/api/res/1.2/3OaEHmkjPmSttaMFpOJtfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://s.yimg.com/uu/api/res/1.2/34_ut2bixszrvw95GX9pLg--~B/aD04NTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/af8a10e939da1d78505d8eb9c414d45a"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A simple guide to NFTs for the jargon-free - Canon Cyprus",
+            "htmlTitle": "A simple guide to <b>NFTs</b> for the jargon-free - Canon <b>Cyprus</b>",
+            "link": "https://www.canon.com.cy/view/nft-for-the-jargon-free/",
+            "displayLink": "www.canon.com.cy",
+            "snippet": "Photography, digital art, music and even tweets can be sold through online marketplaces using NFTs. So, what on earth is an NFT? It\u00a0...",
+            "htmlSnippet": "Photography, digital art, music and even tweets can be sold through online marketplaces using <b>NFTs</b>. So, what on earth is an <b>NFT</b>? It&nbsp;...",
+            "cacheId": "uAdExVgSc5cJ",
+            "formattedUrl": "https://www.canon.com.cy/view/nft-for-the-jargon-free/",
+            "htmlFormattedUrl": "https://www.canon.com.cy/view/<b>nft</b>-for-the-jargon-free/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuA0uuis0jDuINBoUQFDUWbnL9D1I4jVTNrKn_w0FcTRfc-zL2XTh7K8k",
+                        "width": "268",
+                        "height": "188"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "//i1.adis.ws/i/canon/NFT_BANNER-79acff64-95ed-11eb-8767-1866da15d780?w=100%&aspect=4:1&qlt=80&sm=aspect&fmt=jpg&fmt.options=interlaced&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)",
+                        "msapplication-config": "browserconfig.xml",
+                        "twitter:card": "Summary_large_image",
+                        "og:site_name": "Canon Cyprus",
+                        "twitter:url": "https://www.canon.com.cy/view/nft-for-the-jargon-free/",
+                        "h1": "A simple guide to NFTs for the jargon-free",
+                        "product-image-large": "//i1.adis.ws/i/canon/NFT_BANNER-79acff64-95ed-11eb-8767-1866da15d780?w=200&aspect=4:3&qlt=80&sm=aspect&fmt=jpg&fmt.options=interlaced&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)",
+                        "taxonomy": "no",
+                        "title": "A simple guide to NFTs for the jargon-free - Canon Cyprus",
+                        "og:description": "ICYMI, NFTs are taking the digital world by storm. So, don\u2019t DYOR \u2013 we\u2019ll cut the jargon and find out how big money is changing hands for small files.",
+                        "twitter:image": "//i1.adis.ws/i/canon/NFT_BANNER-79acff64-95ed-11eb-8767-1866da15d780?w=100%&aspect=4:1&qlt=80&sm=aspect&fmt=jpg&fmt.options=interlaced&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)",
+                        "twitter:site": "Canon Cyprus",
+                        "page-type": "Article",
+                        "reviews-deep-link": "https://www.canon.com.cy/view/nft-for-the-jargon-free/#reviews",
+                        "og:image:alt": "A person with short dark hair and wearing a grey hoodie stands with their back to the camera. They are facing four out of focus pictures in black frames with white mounts, hanging on a white gallery wall.",
+                        "og:type": "website",
+                        "twitter:title": "A simple guide to NFTs for the jargon-free",
+                        "ps-account": "1716",
+                        "author": "Canon Cyprus",
+                        "og:title": "A simple guide to NFTs for the jargon-free",
+                        "canonical": "https://www.canon.com.cy/view/nft-for-the-jargon-free/",
+                        "label": "Article",
+                        "google-title": "A simple guide to NFTs for the jargon-free",
+                        "breadcrumb": "Home|/$Canon View - Digital News & Innovation|/view/",
+                        "viewport": "width=device-width, height=device-height, minimum-scale=1, initial-scale=1, user-scalable=no",
+                        "twitter:description": "ICYMI, NFTs are taking the digital world by storm. So, don\u2019t DYOR \u2013 we\u2019ll cut the jargon and find out how big money is changing hands for small files.",
+                        "og:locale": "en_CY",
+                        "og:url": "https://www.canon.com.cy/view/nft-for-the-jargon-free/",
+                        "product-image-small": "//i1.adis.ws/i/canon/NFT_BANNER-79acff64-95ed-11eb-8767-1866da15d780?w=100&aspect=4:3&qlt=60&sm=aspect&fmt=jpg&fmt.options=interlaced&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i1.adis.ws/i/canon/MODEL_RELATED_5b030dac-6e20-4fbd-99f2-b9a847d6cbb3?w=550&qlt=100&fmt=jpg&fmt.options=interlaced&bg=rgb(236,237,237)"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "NFT's: What Are They? How Do They Work? - Technology - Cyprus",
+            "htmlTitle": "<b>NFT&#39;s</b>: What Are They? How Do They Work? - Technology - <b>Cyprus</b>",
+            "link": "https://www.mondaq.com/cyprus/fin-tech/1107150/nft39s-what-are-they-how-do-they-work",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Aug 31, 2021 ... This piece is written by Max Frilot, who is a Legal Intern with a special interest in cryptocurrencies and NFTs working at MK Fintech\u00a0...",
+            "htmlSnippet": "Aug 31, 2021 <b>...</b> This piece is written by Max Frilot, who is a Legal Intern with a special interest in cryptocurrencies and <b>NFTs</b> working at MK Fintech&nbsp;...",
+            "cacheId": "xcJr7jrFA7AJ",
+            "formattedUrl": "https://www.mondaq.com/cyprus/.../nft39s-what-are-they-how-do-they-work",
+            "htmlFormattedUrl": "https://www.mondaq.com/<b>cyprus</b>/.../<b>nft</b>39s-what-are-they-how-do-they-work",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "NFT's: What Are They? How Do They Work? - Technology - Cyprus",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "To acquire an initial idea of the potential value NFT's possess, \u2018Visa,' the American financial services company recently hopped on the NFT bandwagon by investing in a digital avatar for nearly..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Non-Fungible Tokens (NFTs): Opportunities and Legal Challenges ...",
+            "htmlTitle": "Non-Fungible Tokens (<b>NFTs</b>): Opportunities and Legal Challenges ...",
+            "link": "https://hadjikyprianoulaw.com/news-insights/digital-technology/non-fungible-tokens-nfts-opportunities-and-legal-challenges/",
+            "displayLink": "hadjikyprianoulaw.com",
+            "snippet": "There is no doubt that NFTs create huge opportunities and can revolutionise ... relevant EU legislation as well as what is the current position in Cyprus.",
+            "htmlSnippet": "There is no doubt that <b>NFTs</b> create huge opportunities and can revolutionise ... relevant EU legislation as well as what is the current position in <b>Cyprus</b>.",
+            "cacheId": "9ZzPlVfxUo4J",
+            "formattedUrl": "https://hadjikyprianoulaw.com/.../non-fungible-tokens-nfts-opportunities-and -legal-challenges/",
+            "htmlFormattedUrl": "https://hadjikyprianoulaw.com/.../non-fungible-tokens-<b>nfts</b>-opportunities-and -legal-challenges/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnGvJ6uUg1JijZ3tYyRwL5fwHekuKf-kEBSPTW1qK9_Mg68gYj1nC9zfZ5",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://hadjikyprianoulaw.com/wp-content/uploads/2021/05/GeorgeImage-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-05-04T07:23:49+00:00",
+                        "og:image:width": "1706",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "G.C.Hadjikyprianou & Associates LLC",
+                        "og:title": "Non-Fungible Tokens (NFTs): Opportunities and Legal Challenges - G.C.Hadjikyprianou & Associates LLC",
+                        "og:image:height": "2560",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://hadjikyprianoulaw.com/wp-content/uploads/2020/02/cropped-logo_icon1-2-270x270.png",
+                        "og:description": "During the last months, digital assets called \u201cNon-fungible Tokens\u201d (widely known as \u201cNFTs\u201d) have gained a significant public attention and are currently one of the hottest topics amongst tech enthusiasts; tech legal advisors and tech companies.\u00a0There is no doubt that NFTs create huge opportunities and can\u00a0revolutionise\u00a0whole industries such as the industry of entertainment; media; art and sports. At the same time, NFTs can (and have at a large extend already done) create new markets and opportunities for artists, musicians, brands, innovators, investors and consumers.",
+                        "twitter:data1": "geosoi",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2021-05-04T10:19:56+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://hadjikyprianoulaw.com/news-insights/digital-technology/non-fungible-tokens-nfts-opportunities-and-legal-challenges/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hadjikyprianoulaw.com/wp-content/uploads/2021/05/GeorgeImage-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus NFT (@cyprusnft) \u2022 Instagram photos and videos",
+            "htmlTitle": "<b>Cyprus NFT</b> (@cyprusnft) \u2022 Instagram photos and videos",
+            "link": "https://www.instagram.com/cyprusnft/",
+            "displayLink": "www.instagram.com",
+            "snippet": "31 Followers, 5 Following, 5 Posts - See Instagram photos and videos from Cyprus NFT (@cyprusnft)",
+            "htmlSnippet": "31 Followers, 5 Following, 5 Posts - See Instagram photos and videos from <b>Cyprus NFT</b> (@cyprusnft)",
+            "formattedUrl": "https://www.instagram.com/cyprusnft/",
+            "htmlFormattedUrl": "https://www.instagram.com/<b>cyprusnft</b>/",
+            "pagemap": {
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/230018329_917551535545341_2897699932031915028_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ymlElyS6JXUAX9b1FTG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_-Gl7meuuzkbKr5-twh0q4tMj969WxePQfmQVj5r5CGQ&oe=61C552D3&_nc_sid=7bff83",
+                        "theme-color": "#ffffff",
+                        "og:type": "profile",
+                        "al:ios:app_name": "Instagram",
+                        "og:title": "Cyprus NFT (@cyprusnft) on Instagram \u2022 5 photos and videos",
+                        "al:android:package": "com.instagram.android",
+                        "al:ios:url": "instagram://user?username=cyprusnft",
+                        "og:description": "31 Followers, 5 Following, 5 Posts - See Instagram photos and videos from Cyprus NFT (@cyprusnft)",
+                        "al:ios:app_store_id": "389801252",
+                        "al:android:url": "https://www.instagram.com/_u/cyprusnft/",
+                        "apple-mobile-web-app-status-bar-style": "default",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.instagram.com/cyprusnft/",
+                        "al:android:app_name": "Instagram"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/230018329_917551535545341_2897699932031915028_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=ymlElyS6JXUAX9b1FTG&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_-Gl7meuuzkbKr5-twh0q4tMj969WxePQfmQVj5r5CGQ&oe=61C552D3&_nc_sid=7bff83"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Epazz's CryObo Technology To Issue Token (NFT) For A Real ...",
+            "htmlTitle": "Epazz&#39;s CryObo Technology To Issue Token (<b>NFT</b>) For A Real ...",
+            "link": "https://aithority.com/technology/blockchain/nft/epazzs-cryobo-technology-to-issue-token-nft-for-a-real-estate-deal-in-cyprus/",
+            "displayLink": "aithority.com",
+            "snippet": "Nov 23, 2021 ... ... business software solutions, announced that CryObo technology will issue Non-Fungible Tokens (NFT) for a real estate deal in Cyprus.",
+            "htmlSnippet": "Nov 23, 2021 <b>...</b> ... business software solutions, announced that CryObo technology will issue Non-Fungible Tokens (<b>NFT</b>) for a real estate deal in <b>Cyprus</b>.",
+            "cacheId": "6UMtMnFsHqMJ",
+            "formattedUrl": "https://aithority.com/.../nft/epazzs-cryobo-technology-to-issue-token-nft-for-a -real-estate-deal-in-cyprus/",
+            "htmlFormattedUrl": "https://aithority.com/.../<b>nft</b>/epazzs-cryobo-technology-to-issue-token-<b>nft</b>-for-a -real-estate-deal-in-<b>cyprus</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToenPOD2h00gVMguHUVXhtGMwVXLtyWZ-TzvR0Erj3Mml8v2pded_3nR30",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://aithority.com/wp-content/uploads/2021/11/Epazzs-CryObo-Technology-to-Issue-Token-NFT-for-a-Real-Estate-Deal-in-Cyprus.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-23T13:21:48+00:00",
+                        "og:image:width": "1600",
+                        "twitter:card": "summary",
+                        "og:site_name": "AiThority",
+                        "og:title": "Epazz's CryObo Technology To Issue Token (NFT) For A Real Estate Deal In Cyprus",
+                        "og:image:height": "900",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://aithority.com/wp-content/uploads/2017/09/cropped-AITHORITY-300-x-70-LOGO-1-270x270.png",
+                        "og:description": "Epazz Inc., a mission-critical provider of blockchain cryptocurrency mobile apps and cloud-based business software solutions, announced that CryObo technology will issue Non-Fungible Tokens (NFT) for a real estate deal in Cyprus.",
+                        "twitter:creator": "@aithority",
+                        "article:publisher": "https://www.facebook.com/AiThority",
+                        "twitter:data1": "AIT News Desk",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@aithority",
+                        "article:modified_time": "2021-11-23T14:55:59+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://aithority.com/technology/blockchain/nft/epazzs-cryobo-technology-to-issue-token-nft-for-a-real-estate-deal-in-cyprus/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://aithority.com/wp-content/uploads/2021/11/Epazzs-CryObo-Technology-to-Issue-Token-NFT-for-a-Real-Estate-Deal-in-Cyprus.jpg"
+                    }
+                ],
+                "wpheader": [
+                    {
+                        "url": "AiThority - Artificial Intelligence | News | Insights | AiThority"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus Football Teams NFT Crypto Collection",
+            "htmlTitle": "<b>Cyprus</b> Football Teams <b>NFT</b> Crypto Collection",
+            "link": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/40488646129363747250589978978836555398861710277964489819196619268206893203555",
+            "displayLink": "opensea.io",
+            "snippet": "Cyprus Football Teams NFT Crypto Collection. favorite_border. 1. 99 owned by World_Football_Team_L... visibility. 11 views. favorite. 1 favorite.",
+            "htmlSnippet": "<b>Cyprus</b> Football Teams <b>NFT</b> Crypto Collection. favorite_border. 1. 99 owned by World_Football_Team_L... visibility. 11 views. favorite. 1 favorite.",
+            "cacheId": "c_lEvqVrHksJ",
+            "formattedUrl": "https://opensea.io/.../ 4048864612936374725058997897883655539886171027796448981919...",
+            "htmlFormattedUrl": "https://opensea.io/.../ 4048864612936374725058997897883655539886171027796448981919...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkjiOK71BEOIdoEMCi20bRZKX3x6LA8NEjTQVaT6TkOUdO22r_ztnfQzY",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "OpenSea",
+                        "msapplication-tilecolor": "#da532c",
+                        "p:domain_verify": "290482bea3c8c8f9a5b64006fcdd0fdc",
+                        "msapplication-config": "https://static.opensea.io/favicon/browserconfig.xml",
+                        "og:image": "https://lh3.googleusercontent.com/6zTlbup9wsKgbHv24EmzSMCVBqo9cwbZxf-ZIBXDA2dlw5RRixbtNgg1YHrPuyujMToxIc7jw-DaalnmyOuR8j1yMV3QYl1Qngp7Zrk=w1400-k",
+                        "og:type": "website",
+                        "theme-color": "#FFFFFF",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "OpenSea",
+                        "author": "OpenSea",
+                        "apple-mobile-web-app-title": "OpenSea",
+                        "og:title": "Cyprus  Football Teams NFT Crypto Collection - Cyprus Football Team Logos | OpenSea",
+                        "og:description": "Cyprus  Football Teams NFT Crypto Collection",
+                        "next-head-count": "9",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "fortmatic-site-verification": "hMdfCgnav7IgocRK"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/6zTlbup9wsKgbHv24EmzSMCVBqo9cwbZxf-ZIBXDA2dlw5RRixbtNgg1YHrPuyujMToxIc7jw-DaalnmyOuR8j1yMV3QYl1Qngp7Zrk=w1400-k"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Local university to introduce NFTs and the Metaverse | Cyprus Mail",
+            "htmlTitle": "Local university to introduce <b>NFTs</b> and the Metaverse | <b>Cyprus</b> Mail",
+            "link": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse/",
+            "displayLink": "cyprus-mail.com",
+            "snippet": "Nov 10, 2021 ... The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus\u00a0...",
+            "htmlSnippet": "Nov 10, 2021 <b>...</b> The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus&nbsp;...",
+            "cacheId": "UieD4NUTFNoJ",
+            "formattedUrl": "https://cyprus-mail.com/.../local-university-to-introduce-nfts-and-the- metaverse/",
+            "htmlFormattedUrl": "https://<b>cyprus</b>-mail.com/.../local-university-to-introduce-<b>nfts</b>-and-the- metaverse/",
+            "pagemap": {
+                "wpfooter": [
+                    {
+                        "copyrightholder": "Cyprus Mail",
+                        "keywords": "Data Protection, Copyright Data",
+                        "copyrightyear": "2021",
+                        "name": "Webpage footer for Cyprus Mail",
+                        "description": "Cyprus Mail News and More"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhQsdcDcYIz7raq0h83p-maILaw_SF7eeeBc_pL3-eC58EdIbWQZUvVSg",
+                        "width": "304",
+                        "height": "166"
+                    }
+                ],
+                "WPSideBar": [
+                    {
+                        "name": "Sidebar Right",
+                        "alternateName": "Add widgets here to display them on blog and single",
+                        "url": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse"
+                    },
+                    {
+                        "name": "Footer Column #1",
+                        "alternateName": "Add widgets here to display them in the first column of the footer",
+                        "url": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse"
+                    },
+                    {
+                        "name": "Footer Column #2",
+                        "alternateName": "Add widgets here to display them in the second column of the footer",
+                        "url": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse"
+                    },
+                    {
+                        "name": "Footer Column #3",
+                        "alternateName": "Add widgets here to display them in the third column of the footer",
+                        "url": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse"
+                    },
+                    {
+                        "name": "Footer Column #4",
+                        "alternateName": "Add widgets here to display them in the fourth column of the footer",
+                        "url": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse"
+                    }
+                ],
+                "Organization": [
+                    {
+                        "name": "Cyprus Mail",
+                        "logo": "https://cyprus-mail.com/wp-content/uploads/2020/06/CMlogo75.png",
+                        "url": "https://cyprus-mail.com/",
+                        "sameAs": "https://www.facebook.com/CyprusMail"
+                    },
+                    {
+                        "name": "Cyprus Mail",
+                        "description": "Cyprus Mail News and More",
+                        "url": "https://cyprus-mail.com/"
+                    }
+                ],
+                "Article": [
+                    {
+                        "datePublished": "2021-11-10T08:49:02+02:00",
+                        "description": "The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus integration. The Department of Digital Innovation and the Institute For the Future (IFF)\u2026",
+                        "dateModified": "2021-11-09T14:16:47+02:00",
+                        "headline": "Cyprus Mail"
+                    }
+                ],
+                "WebSite": [
+                    {
+                        "name": "Cyprus Mail",
+                        "alternateName": "Cyprus Mail News and More",
+                        "url": "https://cyprus-mail.com/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cyprus-mail.com/wp-content/uploads/2021/11/Untitled.jpg",
+                        "og:image:width": "1549",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Cyprus Mail",
+                        "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                        "msapplication-tileimage": "https://cyprus-mail.com/wp-content/uploads/2019/05/cropped-CM-270x270.png",
+                        "og:description": "The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus integration. The Department of Digital Innovation and the Institute For the Future (IFF) of the University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative last week, a new comprehensive initiative focused on\u2026",
+                        "twitter:creator": "@cyprusmail",
+                        "article:publisher": "https://www.facebook.com/CyprusMail",
+                        "og:image:secure_url": "https://cyprus-mail.com/wp-content/uploads/2021/11/Untitled.jpg",
+                        "twitter:site": "@cyprusmail",
+                        "dc.source": "https://cyprus-mail.com/",
+                        "fb:admins": "10158674392338953",
+                        "dc.description": "The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus integration. The Department of Digital Innovation and the Institute For the Future (IFF) of the University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative last week, a new comprehensive initiative focused on\u2026",
+                        "og:type": "article",
+                        "article:section": "Education",
+                        "og:image:alt": "untitled",
+                        "twitter:title": "Local university to introduce NFTs and the Metaverse | Cyprus Mail",
+                        "og:title": "Local university to introduce NFTs and the Metaverse | Cyprus Mail",
+                        "og:image:height": "847",
+                        "fb:pages": "308790590111",
+                        "article:author": "https://www.facebook.com/CyprusMail",
+                        "article:tag": "Cyprus Mail",
+                        "twitter:image:src": "https://cyprus-mail.com/wp-content/uploads/2021/11/Untitled-1024x560.jpg",
+                        "fb:app_id": "585763328579706",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus integration. The Department of Digital Innovation and the Institute For the Future (IFF) of the University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative last week, a new comprehensive initiative focused on\u2026",
+                        "dc.relation": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse/",
+                        "dc.title": "Local university to introduce NFTs and the Metaverse | Cyprus Mail",
+                        "og:locale": "en_GB",
+                        "dc.language": "en_GB",
+                        "og:url": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cyprus-mail.com/wp-content/uploads/2021/11/Untitled-960x525.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "BlogPosting": [
+                    {
+                        "datePublished": "2021-11-10",
+                        "description": "The University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative, including academic programmes, research, and on-campus integration. The Department of Digital Innovation and the Institute For the Future (IFF) of the University of Nicosia (UNIC) announced the UNIC Open Metaverse Initiative last week, a new comprehensive initiative focused on...",
+                        "dateModified": "2021-11-09",
+                        "mainEntityOfPage": "https://cyprus-mail.com/2021/11/10/local-university-to-introduce-nfts-and-the-metaverse/",
+                        "headline": "Local university to introduce NFTs and the Metaverse"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Home"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "NFT Valuations \u2013 Institute For the Future",
+            "htmlTitle": "<b>NFT</b> Valuations \u2013 Institute For the Future",
+            "link": "https://www.unic.ac.cy/iff/2021/05/17/nft-valuations/",
+            "displayLink": "www.unic.ac.cy",
+            "snippet": "Jul 26, 2021 ... A team of researchers from IFF have launched NFTValuations.com which has conducted the first ever calculation of the market capitalization of a\u00a0...",
+            "htmlSnippet": "Jul 26, 2021 <b>...</b> A team of researchers from IFF have launched NFTValuations.com which has conducted the first ever calculation of the market capitalization of a&nbsp;...",
+            "formattedUrl": "https://www.unic.ac.cy/iff/2021/05/17/nft-valuations/",
+            "htmlFormattedUrl": "https://www.unic.ac.cy/iff/2021/05/17/<b>nft</b>-valuations/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjDkBJNysvsdwnwGtU6nlIU2riSQyDqKTk4ucEqLe8OeU8H3UQMpuc2e_8",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.unic.ac.cy/iff/wp-content/uploads/sites/5/2021/05/nft.jpeg",
+                        "referrer": "origin",
+                        "og:type": "article",
+                        "og:site_name": "Institute For the Future",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "tec-api-origin": "https://www.unic.ac.cy/iff",
+                        "og:title": "NFT Valuations",
+                        "fb:page_id": "43929265776",
+                        "og:url": "https://www.unic.ac.cy/iff/2021/05/17/nft-valuations/",
+                        "tec-api-version": "v1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.unic.ac.cy/iff/wp-content/uploads/sites/5/2021/05/nft.jpeg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ]
+            }
+        }
+    ]
+}
