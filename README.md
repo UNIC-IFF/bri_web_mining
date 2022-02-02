@@ -4,7 +4,7 @@
 
 # Generate Hits per country:
 
-- python3 index.py
+- `python3 index.py`
 - access `related_values.py` to manipulate values to be used for getting hits
 
 # Calculate Score:
