@@ -1,3 +1,7 @@
+# Install Requirements
+
+* pip install -r requirements.txt
+
 # Generate Hits per country:
 
 - python3 index.py
