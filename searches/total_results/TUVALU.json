@@ -1,0 +1,584 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - TUVALU",
+                "totalResults": "121000",
+                "searchTerms": "TUVALU",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - TUVALU",
+                "totalResults": "121000",
+                "searchTerms": "TUVALU",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.298817,
+        "formattedSearchTime": "0.30",
+        "totalResults": "121000",
+        "formattedTotalResults": "121,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Tuvalu chases digital immortality on a blockchain | RNZ News",
+            "htmlTitle": "<b>Tuvalu</b> chases digital immortality on a blockchain | RNZ News",
+            "link": "https://www.rnz.co.nz/international/pacific-news/438341/tuvalu-chases-digital-immortality-on-a-blockchain",
+            "displayLink": "www.rnz.co.nz",
+            "snippet": "Mar 14, 2021 ... The tiny Pacific Island nation of Tuvalu is planning to go from having no online banking and only one ATM to using blockchain technology.",
+            "htmlSnippet": "Mar 14, 2021 <b>...</b> The tiny Pacific Island nation of <b>Tuvalu</b> is planning to go from having no online banking and only one ATM to using blockchain technology.",
+            "cacheId": "OtvS-mHZU7YJ",
+            "formattedUrl": "https://www.rnz.co.nz/.../tuvalu-chases-digital-immortality-on-a-blockchain",
+            "htmlFormattedUrl": "https://www.rnz.co.nz/.../<b>tuvalu</b>-chases-digital-immortality-on-a-blockchain",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbbicD7Qhw4-eIh2LyCRtyBT2kfNiWEDwbPQAf6uoqFDugwsLJjnmWMo",
+                        "width": "284",
+                        "height": "177"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "copyrightholder": "Supplied/UNDP",
+                        "caption": ".."
+                    },
+                    {
+                        "copyrightholder": "Supplied",
+                        "caption": "Tuvalu seafront, less than 13,000 people live on the Pacific Island country's nine islands."
+                    },
+                    {
+                        "copyrightholder": "RNZ / Jamie Tahana",
+                        "caption": "The runway at the airport in Funafuti, Tuvalu. With only three flights a week, the runway doubles as the small atoll's main recreation area."
+                    },
+                    {
+                        "copyrightholder": "Tuvalu Government Media",
+                        "caption": "Tuvalu's Minister of Justice, Communication and Foreign Affairs Hon. Simon Kofe."
+                    },
+                    {
+                        "copyrightholder": "Supplied",
+                        "caption": "Tuvalu is one of the countries most vulnerable to the negative impacts of climate change."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.rnz.co.nz/assets/news_crops/112589/eight_col_UNDP-TUV-TB-07_%281%29.jpg?1615362971",
+                        "og:type": "article",
+                        "article:published_time": "2021-03-14T14:19:50+13:00",
+                        "article:section": "Pacific",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Tuvalu chases digital immortality on a blockchain",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "RNZ",
+                        "msvalidate.01": "C91854C56C6633087027EFE63EA10484",
+                        "og:title": "Tuvalu chases digital immortality on a blockchain",
+                        "msapplication-tileimage": "/x/favicons/ms-icon-144x144-6da447bd90ddb70966076ff74e388227ceb5e5dcfbdc955fbb4770decc3d6edf.png",
+                        "og:description": "Tuvalu is planning an ambitious digital transformation, based on a blockchain.",
+                        "twitter:creator": "@RNZInews",
+                        "fb:pages": "118210888244147",
+                        "twitter:image": "https://www.rnz.co.nz/assets/news_crops/112589/eight_col_UNDP-TUV-TB-07_%281%29.jpg?1615362971",
+                        "eal": "news:438341",
+                        "twitter:site": "@radionz",
+                        "article:modified_time": "2021-03-14T21:43:43+13:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Tuvalu is planning an ambitious digital transformation, based on a blockchain.",
+                        "fb:admins": "1076742843",
+                        "og:url": "https://www.rnz.co.nz/international/pacific-news/438341/tuvalu-chases-digital-immortality-on-a-blockchain"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.rnz.co.nz/assets/news_crops/112589/eight_col_UNDP-TUV-TB-07_%281%29.jpg?1615362971"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Governments must act on the growth of cryptocurrencies - Policy ...",
+            "htmlTitle": "Governments must act on the growth of <b>cryptocurrencies</b> - Policy ...",
+            "link": "https://www.policyforum.net/governments-must-act-on-the-growth-of-cryptocurrencies/",
+            "displayLink": "www.policyforum.net",
+            "snippet": "Jun 7, 2021 ... This is a contrast to the highly regulated nature of the financial markets for traditional currencies, commodities, and stocks. Earlier this\u00a0...",
+            "htmlSnippet": "Jun 7, 2021 <b>...</b> This is a contrast to the highly <b>regulated</b> nature of the financial markets for traditional currencies, commodities, and stocks. Earlier this&nbsp;...",
+            "cacheId": "3_BQZEpK0hYJ",
+            "formattedUrl": "https://www.policyforum.net/governments-must-act-on-the-growth-of- cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.policyforum.net/governments-must-act-on-the-growth-of- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFm85TGxvsQTQq0zPPfT_dL4qTSiTIipZP2eT14tUNnGOZ48uAI-iHOKc3",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.policyforum.net/wp-content/uploads/2021/06/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg",
+                        "og:type": "article",
+                        "article:section": "Economics and finance",
+                        "article:published_time": "2021-06-07T03:49:12+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary",
+                        "twitter:title": "Governments must act on the growth of cryptocurrencies - Policy Forum",
+                        "og:site_name": "Policy Forum",
+                        "og:title": "Governments must act on the growth of cryptocurrencies - Policy Forum",
+                        "og:image:height": "683",
+                        "ia:markup_url": "https://www.policyforum.net/governments-must-act-on-the-growth-of-cryptocurrencies/?ia_markup=1",
+                        "msapplication-tileimage": "https://www.policyforum.net/wp-content/uploads/cache/2019/11/favicon-1/474484596.png",
+                        "og:description": "When cryptocurrencies fluctuate, they do not only affect investors\u2019 wallets \u2013 they have widespread effects on the entire market, Luther Lie writes. Over When cryptocurrencies fluctuate, they do not only affect investors\u2019 wallets \u2013 they pose widespread danger to the entire market, Luther Lie writes.",
+                        "fb:pages": "1427496667520464",
+                        "og:image:secure_url": "https://www.policyforum.net/wp-content/uploads/2021/06/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg",
+                        "twitter:image": "https://www.policyforum.net/wp-content/uploads/2021/06/maxim-hopman-fiXLQXAhCfk-unsplash.jpg",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                        "twitter:description": "When cryptocurrencies fluctuate, they do not only affect investors\u2019 wallets \u2013 they have widespread effects on the entire market, Luther Lie writes. Over When cryptocurrencies fluctuate, they do not only affect investors\u2019 wallets \u2013 they pose widespread danger to the entire market, Luther Lie writes.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.policyforum.net/governments-must-act-on-the-growth-of-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.policyforum.net/wp-content/uploads/2021/06/maxim-hopman-fiXLQXAhCfk-unsplash-1024x683.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Exchange Control Regulations",
+            "htmlTitle": "Exchange <b>Control Regulations</b>",
+            "link": "https://tuvalu.tradeportal.org/media//ExchangeControlRegulations_1.pdf",
+            "displayLink": "tuvalu.tradeportal.org",
+            "snippet": "38.15.1 Arrangement of Regulations ... Transfer of foreign currency out of Tuvalu . ... PART V - SECURITIES AND FOREIGN SECURITIES CONTROL.",
+            "htmlSnippet": "38.15.1 Arrangement of <b>Regulations</b> ... Transfer of foreign currency out of <b>Tuvalu</b> . ... PART V - SECURITIES AND FOREIGN SECURITIES <b>CONTROL</b>.",
+            "cacheId": "dCBrh4tookwJ",
+            "formattedUrl": "https://tuvalu.tradeportal.org/media//ExchangeControlRegulations_1.pdf",
+            "htmlFormattedUrl": "https://<b>tuvalu</b>.tradeportal.org/media//Exchange<b>ControlRegulations</b>_1.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRctimlmjrbGTgYZOLDo1LrlKewesGRyacJyGQHr-5Z06BlRRIWJNbxiSQ",
+                        "width": "189",
+                        "height": "267"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "creationdate": "D:20100412163720+10'00'",
+                        "creator": "Acrobat PDFMaker 6.0 for Word",
+                        "comments": "Exchange Control Act",
+                        "manager": "Neil",
+                        "author": "Gordon",
+                        "subject": "Legislation of Tuvalu",
+                        "title": "Exchange Control Regulations",
+                        "commencement": "1st April 1983",
+                        "article": "Regulation",
+                        "arrangement": "Arrangement of Regulations",
+                        "moddate": "D:20100412163733+10'00'",
+                        "cap": "CAP. 38.15.1",
+                        "actno": "L.N.3/83",
+                        "producer": "Acrobat Distiller 6.0.1 (Windows)",
+                        "company": "Laws Consolidated",
+                        "assent": "Date of Assent",
+                        "page": "Page",
+                        "category": "2008 Revised Edition"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///411657d5923fd11e3bc9da4c6e9a2225b088f719c64051d981543307cef653e1"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tuvalu: 2021 Article IV Consultation-Press Release; Staff Report ...",
+            "htmlTitle": "<b>Tuvalu</b>: 2021 Article IV Consultation-Press Release; Staff Report ...",
+            "link": "https://www.imf.org/-/media/Files/Publications/CR/2021/English/1TUVEA2021001.ashx",
+            "displayLink": "www.imf.org",
+            "snippet": "Aug 4, 2021 ... multilateral climate finance facility.14 This gives Tuvalu more control over project management and implementation once a project proposal\u00a0...",
+            "htmlSnippet": "Aug 4, 2021 <b>...</b> multilateral climate finance facility.14 This gives <b>Tuvalu</b> more <b>control</b> over project management and implementation once a project proposal&nbsp;...",
+            "cacheId": "ZfRbHkv_TzoJ",
+            "formattedUrl": "https://www.imf.org/-/media/Files/Publications/.../1TUVEA2021001.ashx",
+            "htmlFormattedUrl": "https://www.imf.org/-/media/Files/Publications/.../1TUVEA2021001.ashx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVrqYOSW_YNMXhDxeKOOm4TvcUu3l_zkkWHGDDKB43TVMlT7sChtJNjn4",
+                        "width": "264",
+                        "height": "191"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210804110214-04'00'",
+                        "creationdate": "D:20210730172028-04'00'",
+                        "title": "Tuvalu: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Tuvalu; IMF Country Report No. 21/176; July 1, 2021"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///a454de56082826172718e6c4ceee93b806abaa1cffa52008f39579832c7811d2"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why the Pacific has become a testing ground for blockchain and ...",
+            "htmlTitle": "Why the Pacific has become a testing ground for blockchain and ...",
+            "link": "https://www.abc.net.au/news/2021-10-02/pacific-blockchain-experiment-cryptocurrency-bitcoin/100495166",
+            "displayLink": "www.abc.net.au",
+            "snippet": "Oct 1, 2021 ... Tuvalu is developing a \"national digital ledger\" using blockchain, ... Many Pacific countries have laws against cryptocurrency,\u00a0...",
+            "htmlSnippet": "Oct 1, 2021 <b>...</b> <b>Tuvalu</b> is developing a &quot;national digital ledger&quot; using blockchain, ... Many Pacific countries have <b>laws</b> against <b>cryptocurrency</b>,&nbsp;...",
+            "cacheId": "LNEX82yXvMgJ",
+            "formattedUrl": "https://www.abc.net.au/news/2021-10-02/...cryptocurrency.../100495166",
+            "htmlFormattedUrl": "https://www.abc.net.au/news/2021-10-02/...<b>cryptocurrency</b>.../100495166",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShYRiPxN6UB8TnTgY-Rd6b9gj3KQAB507lluSIlfxHUoE1T7B1ClJD2tQL",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://live-production.wcms.abc-cdn.net.au/21e21f15e81ef6ccff5f775cf59a76ed?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                        "abc.contentsource": "coremedia",
+                        "article:published_time": "2021-10-01T19:16:56+00:00",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "abc.generator": "PL NEWS WEB",
+                        "abc.versionnumber": "55",
+                        "og:title": "Why the Pacific has become a testing ground for blockchain and cryptocurrency projects",
+                        "contentid": "100495166",
+                        "title": "Why the Pacific has become a testing ground for blockchain and cryptocurrency projects - ABC News",
+                        "og:description": "Start-ups are coming\u00a0to the Pacific to pilot a number of world-first blockchain and cryptocurrency projects.\u00a0Some say it could revolutionise governments and banking, but critics are worried that the region is being used to test the technologies.",
+                        "abc.contentid": "100495166",
+                        "article:author": "https://www.abc.net.au/news/prianka-srinivasan/12187108",
+                        "twitter:image": "https://live-production.wcms.abc-cdn.net.au/21e21f15e81ef6ccff5f775cf59a76ed?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                        "twitter:image:alt": "Vector illustration of giant bitcoin setting between two palm trees.",
+                        "twitter:site": "@abcnews",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "abc.contenttype": "Article",
+                        "og:url": "https://www.abc.net.au/news/2021-10-02/pacific-blockchain-experiment-cryptocurrency-bitcoin/100495166"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://live-production.wcms.abc-cdn.net.au/21e21f15e81ef6ccff5f775cf59a76ed?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tuvalu: 2021 Article IV Consultation\u2014Press Release; Staff Report ...",
+            "htmlTitle": "<b>Tuvalu</b>: 2021 Article IV Consultation\u2014Press Release; Staff Report ...",
+            "link": "https://www.elibrary.imf.org/view/journals/002/2021/176/article-A001-en.xml",
+            "displayLink": "www.elibrary.imf.org",
+            "snippet": "This gives Tuvalu more control over project management and implementation once ... it from cryptocurrency), e-money is primarily used for digital payments.",
+            "htmlSnippet": "This gives <b>Tuvalu</b> more <b>control</b> over project management and implementation once ... it from <b>cryptocurrency</b>), e-money is primarily used for digital payments.",
+            "formattedUrl": "https://www.elibrary.imf.org/view/journals/002/2021/.../article-A001-en.xml",
+            "htmlFormattedUrl": "https://www.elibrary.imf.org/view/journals/002/2021/.../article-A001-en.xml",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDHMuVbGfrxiO4Ux3itrY1Sj9fp0onVe0vMFVOcyaXQdLfBfeo62-H8_2",
+                        "width": "197",
+                        "height": "256"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "Financial and monetary sector; Monetary policy; Cross-cutting issues; International organization; Asia and Pacific; Macroeconomics and Monetary Economics; Monetary Policy; International Economics; International Agreements and Observance; International Organizations; Business and Economics; Money and Monetary Policy; International Economics; Economics; Monetary economics; Society and Social Sciences; International institutions; Finance; Monetary policy; International relation; International agencies; Tuvalu",
+                        "og:image": "https://www.elibrary.imf.org/cover/journals/002/2021/176/cover-en.jpg",
+                        "article:published_time": "2021-08-04",
+                        "twitter:card": "summary_large_image",
+                        "citation_title": "Tuvalu: 2021 Article IV Consultation\u2014Press Release; Staff Report; and Statement by the Executive Director for Tuvalu",
+                        "og:site_name": "imfsg",
+                        "citation_reference": "Adrian, T., & Mancini-Griffoli, T. (2019). The rise of digital money. Annual Review of Financial Economics, 13.",
+                        "citation_publisher": "International Monetary Fund",
+                        "citation_journal_title": "IMF Staff Country Reports",
+                        "og:description": "1. Tuvalu\u2014a fragile South Pacific micro-state\u2014encountered the pandemic following a period of relatively strong growth. The economy expanded 6.3 percent on average between 2017\u20132019, reflecting high public spending on infrastructure and new housing prior to the 2019 Pacific Islands Forum, and an elevated public sector wage bill. Close engagement with donors, guided by the mutually-agreed reform agenda outlined in the Policy Reform Matrix (PRM) helped ensure the steady inflow of budget support grants. Infrastructure investment funded by donors also contributed to growth. Due to buoyant fishing revenues and grants, Tuvalu\u2019s budget registered surpluses in most years, leaving its fiscal buffers well replenished and debt levels low ahead of the pandemic. The authorities also made progress on public financial management reforms.",
+                        "citation_language": "en",
+                        "citation_pdf_url": "https://www.elibrary.imf.org/downloadpdf/journals/002/2021/176/article-A001-en.pdf",
+                        "citation_xml_url": "https://www.elibrary.imf.org/doc/journals/002/2021/176/article-A001-en.xml",
+                        "og:type": "article",
+                        "article:section": "IMF Staff Country Reports",
+                        "twitter:title": "Tuvalu: 2021 Article IV Consultation\u2014Press Release; Staff Report; and Statement by the Executive Director for Tuvalu",
+                        "og:title": "Tuvalu: 2021 Article IV Consultation\u2014Press Release; Staff Report; and Statement by the Executive Director for Tuvalu",
+                        "citation_issue": "176",
+                        "article:author": "International Monetary Fund. Asia and Pacific Dept",
+                        "article:tag": "government finance",
+                        "referrer": "unsafe-url",
+                        "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                        "twitter:description": "1. Tuvalu\u2014a fragile South Pacific micro-state\u2014encountered the pandemic following a period of relatively strong growth. The economy expanded 6.3 percent on average between 2017\u20132019, reflecting high public spending on infrastructure and new housing prior to the 2019 Pacific Islands Forum, and an elevated public sector wage bill. Close engagement with donors, guided by the mutually-agreed reform agenda outlined in the Policy Reform Matrix (PRM) helped ensure the steady inflow of budget support grants. Infrastructure investment funded by donors also contributed to growth. Due to buoyant fishing revenues and grants, Tuvalu\u2019s budget registered surpluses in most years, leaving its fiscal buffers well replenished and debt levels low ahead of the pandemic. The authorities also made progress on public financial management reforms.",
+                        "og:locale": "en_US",
+                        "dc.identifier": "10.5089/9781513591476.002.A001",
+                        "citation_volume": "2021",
+                        "og:url": "https://www.elibrary.imf.org/view/journals/002/2021/176/article-A001-en.xml"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.elibrary.imf.org/coverimage?doc=%2Fjournals%2F002%2F2021%2F176%2F002.2021.issue-176-en.xml&width=200"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tuvalu chasing digital immortality on a blockchain | Stuff.co.nz",
+            "htmlTitle": "<b>Tuvalu</b> chasing digital immortality on a blockchain | Stuff.co.nz",
+            "link": "https://www.stuff.co.nz/world/south-pacific/300252437/tuvalu-chasing-digital-immortality-on-a-blockchain",
+            "displayLink": "www.stuff.co.nz",
+            "snippet": "Mar 14, 2021 ... The tiny Pacific Island nation of Tuvalu is planning to go from having no online banking and only one ATM to using cryptocurrency.",
+            "htmlSnippet": "Mar 14, 2021 <b>...</b> The tiny Pacific Island nation of <b>Tuvalu</b> is planning to go from having no online banking and only one ATM to using <b>cryptocurrency</b>.",
+            "formattedUrl": "https://www.stuff.co.nz/.../tuvalu-chasing-digital-immortality-on-a- blockchain",
+            "htmlFormattedUrl": "https://www.stuff.co.nz/.../<b>tuvalu</b>-chasing-digital-immortality-on-a- blockchain",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShu9duPoEDRK_wVk5uRo37RMPEuFvdEBFf9ZVC6z6kcTWJdBvcRV01XF0E",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "newsmediaorganization": [
+                    {
+                        "name": "Stuff.co.nz"
+                    },
+                    {
+                        "name": "Stuff.co.nz"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://www.stuff.co.nz/sics-assets/images/png/stuff_logo.png"
+                    },
+                    {
+                        "url": "https://resources.stuff.co.nz/content/dam/images/4/y/r/4/y/i/image.related.StuffLandscapeSixteenByNine.710x400.4yrg9h.png/1616828709840.jpg?format=pjpg&optimize=medium"
+                    },
+                    {
+                        "url": "https://resources.stuff.co.nz/content/dam/images/4/y/r/g/9/g/image.related.StuffLandscapeSixteenByNine.710x400.4yrg9h.png/1615745088162.jpg?format=pjpg&optimize=medium"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-config": "/sics-assets/images/favicons/browserconfig.xml",
+                        "og:image": "https://resources.stuff.co.nz/content/dam/images/4/y/r/4/y/i/image.related.StuffLandscapeSixteenByNine.1420x800.4yrg9h.png/1616828709840.jpg",
+                        "theme-color": "#ffffff",
+                        "article:published_time": "2021-03-14T04:55:42.125Z",
+                        "og:site_name": "Stuff",
+                        "parsely-author": "Koroi Hawkins of RNZ",
+                        "source": "RNZ",
+                        "og:description": "The tiny Pacific Island nation of Tuvalu is planning to go from having no online banking and only one ATM to using cryptocurrency.",
+                        "parsely-type": "post",
+                        "parsely-link": "https://www.stuff.co.nz/world/south-pacific/300252437",
+                        "parsely-image-url": "https://resources.stuff.co.nz/content/dam/images/4/y/r/4/y/i/image.related.StuffLandscapeSixteenByNine.1420x800.4yrg9h.png/1616828709840.jpg",
+                        "parsely-section": "world",
+                        "og:type": "article",
+                        "article:section": "world",
+                        "parsely-post-id": "300252437",
+                        "og:title": "Tuvalu chasing digital immortality on a blockchain",
+                        "fb:pages": "21253884267",
+                        "parsely-title": "Tuvalu chasing digital immortality on a blockchain",
+                        "parsely-pub-date": "2021-03-14T04:55:42.125Z",
+                        "fb:app_id": "207633159308175",
+                        "parsely-tags": "world,south-pacific",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:url": "https://www.stuff.co.nz/world/south-pacific/300252437/tuvalu-chasing-digital-immortality-on-a-blockchain",
+                        "article:modified": "2021-03-14T04:55:42.125Z",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://resources.stuff.co.nz/content/dam/images/4/y/r/4/y/i/image.related.StuffLandscapeSixteenByNine.710x400.4yrg9h.png/1616828709840.jpg?format=pjpg&optimize=medium"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "datemodified": "2021-03-14T04:55:42.125Z",
+                        "headline": "Tuvalu chasing digital immortality on a blockchain",
+                        "datepublished": "2021-03-14T04:55:41.571Z",
+                        "mainentityofpage": "https://www.stuff.co.nz/world/south-pacific/300252437/tuvalu-chasing-digital-immortality-on-a-blockchain"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Custody Regulations from OCC | Deloitte US",
+            "htmlTitle": "<b>Cryptocurrency</b> Custody <b>Regulations</b> from OCC | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "How can banks differentiate their cryptocurrency custody services? ... Teams that have the necessary OCC, Financial Industry Regulatory Authority (FINRA),\u00a0...",
+            "htmlSnippet": "How can banks differentiate their <b>cryptocurrency</b> custody services? ... Teams that have the necessary OCC, Financial Industry <b>Regulatory</b> Authority (FINRA),&nbsp;...",
+            "cacheId": "X8gsEZ2x1BMJ",
+            "formattedUrl": "https://www2.deloitte.com/.../cryptocurrency-custody-regulations-from-occ- deloitte-us.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/.../<b>cryptocurrency</b>-custody-<b>regulations</b>-from-occ- deloitte-us.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Custody Regulations from OCC",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+                        "og:title": "Cryptocurrency Custody Regulations from OCC",
+                        "og:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        }
+    ]
+}

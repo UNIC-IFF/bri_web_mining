@@ -1,0 +1,556 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - VENEZUELA",
+                "totalResults": "1070000",
+                "searchTerms": "VENEZUELA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - VENEZUELA",
+                "totalResults": "1070000",
+                "searchTerms": "VENEZUELA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.441378,
+        "formattedSearchTime": "0.44",
+        "totalResults": "1070000",
+        "formattedTotalResults": "1,070,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "How Open and Public Cryptocurrencies Can Help Venezuelans ...",
+            "htmlTitle": "How Open and Public <b>Cryptocurrencies</b> Can Help <b>Venezuelans</b> ...",
+            "link": "https://www.csis.org/analysis/how-open-and-public-cryptocurrencies-can-help-venezuelans",
+            "displayLink": "www.csis.org",
+            "snippet": "Apr 13, 2021 ... Open and public cryptocurrencies, such as Bitcoin, are not issued, controlled, or maintained by any central authority. In countries such as\u00a0...",
+            "htmlSnippet": "Apr 13, 2021 <b>...</b> Open and public <b>cryptocurrencies</b>, such as Bitcoin, are not issued, controlled, or maintained by any central authority. In countries such as&nbsp;...",
+            "cacheId": "A2B4KoJtIhMJ",
+            "formattedUrl": "https://www.csis.org/.../how-open-and-public-cryptocurrencies-can-help- venezuelans",
+            "htmlFormattedUrl": "https://www.csis.org/.../how-open-and-public-<b>cryptocurrencies</b>-can-help- <b>venezuelans</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAd2snix9WJWrHVPAPfxR8TRgWmKHTizKFFYAw9Yv3VTIdyhxiEp1Ui1t",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/GettyImages-806924788.jpg?6mzX51C0Mkxi4WzGOFGVcAo2zHyu6ap4",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "How Open and Public Cryptocurrencies Can Help Venezuelans",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.csis.org/analysis/how-open-and-public-cryptocurrencies-can-help-venezuelans",
+                        "og:title": "How Open and Public Cryptocurrencies Can Help Venezuelans",
+                        "msapplication-tileimage": "/sites/all/themes/csis_theme/images/favicon-144.png",
+                        "fb:pages": "118399079197",
+                        "og:description": "Since the Maduro regime launched the petro, its attempt at a national cryptocurrency, Venezuela\u2019s open and public cryptocurrency ecosystem has been underestimated. For individuals living in a 2,600 percent inflation economy with authoritarian monetary policies like in Venezuela, cryptocurrencies built on public blockchains offer a variety of solutions. These benefits include preserving the value of Venezuelans\u2019 money while protecting it from their government and offering solutions to send humanitarian aid more efficiently and securely. Q1: How do these currencies work? How do they differ from private cryptocurrency and traditional currency? A1: Open and public cryptocurrencies are digital currencies that use cryptographic algorithms to record and secure information that is stored on a distributed ledger, a network of computers that is known as a blockchain. Open and public cryptocurrencies, such as Bitcoin, are not issued, controlled, or maintained by any central authority. In countries such as Venezuela,",
+                        "twitter:creator": "@csis",
+                        "twitter:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/publication/GettyImages-806924788.jpg?_8CdbdYl7x8eiLHSen5TbjXlF_uAbymE&itok=48lDpuPC",
+                        "fb:app_id": "290775511405435",
+                        "twitter:creator:id": "272019676",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Since the Maduro regime launched the petro, its attempt at a national cryptocurrency, Venezuela\u2019s open and public cryptocurrency ecosystem has been underestimated. For individuals living in a 2,600",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.csis.org/analysis/how-open-and-public-cryptocurrencies-can-help-venezuelans"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/GettyImages-806924788.jpg?6mzX51C0Mkxi4WzGOFGVcAo2zHyu6ap4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Venezuela and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Venezuela</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/venezuela/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Venezuela and Cryptocurrency. Venezuela Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. In December 2017\u00a0...",
+            "htmlSnippet": "<b>Venezuela</b> and <b>Cryptocurrency</b>. <b>Venezuela Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. In December 2017&nbsp;...",
+            "cacheId": "xgDed0c5F_oJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/venezuela/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>venezuela</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucDT0998_IWsacwgJR7V4OZkmeQNet1VMVZhplwHqUTpZ0YPV5RtyTFE",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_212396841-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-03-20T19:35:39+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/venezuela/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Venezuela ? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_212396841-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_212396841-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:19:33+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/international-tax-treaties/venezuela/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Venezuela?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Venezuela and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Venezuela and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:19:33+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Venezuela and Cryptocurrency Venezuela\u00a0 Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In December 2017, pursuant to Decree 3196, the Venezuelan government announced that it would create its own cryptocurrency\u2014the petro\u2014that could be issued,...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/venezuela/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_212396841-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Impact and Regulation of Cryptocurrencies in Venezuela ...",
+            "htmlTitle": "Impact and <b>Regulation of Cryptocurrencies</b> in <b>Venezuela</b> ...",
+            "link": "https://lawlibrariansmonitoringcovid19.com/2020/12/17/impact-and-regulation-of-cryptocurrencies-in-venezuela/",
+            "displayLink": "lawlibrariansmonitoringcovid19.com",
+            "snippet": "Dec 17, 2020 ... Cryptocurrency mining is currently legal in Venezuela, but miners must apply for a license with the Comprehensive Registry of Miners. Venezuela\u00a0...",
+            "htmlSnippet": "Dec 17, 2020 <b>...</b> <b>Cryptocurrency</b> mining is currently legal in <b>Venezuela</b>, but miners must apply for a license with the Comprehensive Registry of Miners. <b>Venezuela</b>&nbsp;...",
+            "cacheId": "Wy2MlKRHG1YJ",
+            "formattedUrl": "https://lawlibrariansmonitoringcovid19.com/.../impact-and-regulation-of- cryptocurrencies-in-venezuela/",
+            "htmlFormattedUrl": "https://lawlibrariansmonitoringcovid19.com/.../impact-and-<b>regulation-of- cryptocurrencies</b>-in-<b>venezuela</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBWW9v63y6bgBh1liK32xyUvfjRyTGzgx0SiEzE07YbeaUPqJ-siJE7hUI",
+                        "width": "294",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://lawlibrariansmonitoringcovid19.com/wp-content/uploads/2020/12/Capture-decran-2020-12-17-a-3.03.14-PM.png",
+                        "og:type": "article",
+                        "article:published_time": "2020-12-17T19:09:33+00:00",
+                        "og:image:width": "814",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Monitoring COVID-19 in Latin America and the Caribbean",
+                        "og:title": "Impact and Regulation of Cryptocurrencies in Venezuela",
+                        "og:image:height": "476",
+                        "msapplication-tileimage": "https://s0.wp.com/i/webclip.png",
+                        "og:description": "COVID-19 Reports on Latin America and the Caribbean: No.\u00a022 Amidst a failing economy, a global health crises and political turmoil, a new victor has emerged in Venezuela \u2013 cryptocurrency\u2026",
+                        "twitter:image": "https://lawlibrariansmonitoringcovid19.com/wp-content/uploads/2020/12/Capture-decran-2020-12-17-a-3.03.14-PM.png?w=640",
+                        "twitter:text:title": "Impact and Regulation of Cryptocurrencies in Venezuela",
+                        "article:modified_time": "2020-12-17T20:12:47+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "follow.it-verification-code-qklfdhqrmlnhve9ib3a1r09balprrjbgtwvozzjjumhnn3ftdu9ud3dkmxvotmvpslptu2pat2gvt2jwylppsujjcgvamexdovn1d3pmdjg2cznzt0locddkdjzuofh0u20yejnhzznhndrvdnjnevdmutdmwgrwsezazjfozgd8rfninhrtcnvlbfo1dff4vfzan1pmc05cbujoukqvwxpzawgxaznyeknwzz0=": "ndLSqASteuu9fB5Jvz1n",
+                        "og:locale": "en_US",
+                        "og:url": "https://lawlibrariansmonitoringcovid19.com/2020/12/17/impact-and-regulation-of-cryptocurrencies-in-venezuela/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lawlibrariansmonitoringcovid19.com/wp-content/uploads/2020/12/Capture-decran-2020-12-17-a-3.03.14-PM.png"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Between a Rock and a Hard Place: The Dilemmas of Global ...",
+            "htmlTitle": "Between a Rock and a Hard Place: The Dilemmas of Global ...",
+            "link": "https://journals.library.columbia.edu/index.php/CBLR/announcement/view/254",
+            "displayLink": "journals.library.columbia.edu",
+            "snippet": "Dec 19, 2019 ... [3] Venezuela attempted this with the Petro in February 2018. ... Regulating Cryptocurrencies in the Existing Regulatory Framework.",
+            "htmlSnippet": "Dec 19, 2019 <b>...</b> [3] <b>Venezuela</b> attempted this with the Petro in February 2018. ... Regulating <b>Cryptocurrencies</b> in the Existing <b>Regulatory</b> Framework.",
+            "cacheId": "09xPdFimL3MJ",
+            "formattedUrl": "https://journals.library.columbia.edu/index.php/CBLR/announcement/.../254",
+            "htmlFormattedUrl": "https://journals.library.columbia.edu/index.php/CBLR/announcement/.../254",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Venezuelans try to beat hyperinflation with cryptocurrency revolution ...",
+            "htmlTitle": "<b>Venezuelans</b> try to beat hyperinflation with <b>cryptocurrency</b> revolution ...",
+            "link": "https://www.dw.com/en/venezuelans-try-to-beat-hyperinflation-with-cryptocurrency-revolution/a-57219083",
+            "displayLink": "www.dw.com",
+            "snippet": "Apr 16, 2021 ... For him, a digital currency like Bitcoin was the epitome of freedom: no central control, complete transparency \u2014 actually the opposite of what\u00a0...",
+            "htmlSnippet": "Apr 16, 2021 <b>...</b> For him, a digital currency like Bitcoin was the epitome of freedom: no central <b>control</b>, complete transparency \u2014 actually the opposite of what&nbsp;...",
+            "cacheId": "TnhKdLDdC1oJ",
+            "formattedUrl": "https://www.dw.com/en/venezuelans-try-to...cryptocurrency.../a-57219083",
+            "htmlFormattedUrl": "https://www.dw.com/en/<b>venezuelans</b>-try-to...<b>cryptocurrency</b>.../a-57219083",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqwSDY5BHypNdwbnOhUcEat3mKO9e0q0z3UHD4FktWNmy6DMN4OipvqBk",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=498833085",
+                        "copyright": "\u00a9 2022 Deutsche Welle (www.dw.com)",
+                        "news_keywords": "Cryptocurrencies,Petro,digital token,Venezuela,Maduro,economy",
+                        "author": "Deutsche Welle (www.dw.com)",
+                        "publisher": "Deutsche Welle (www.dw.com)",
+                        "language": "en_GB",
+                        "google-play-app": "app-id=com.idmedia.android.newsportal",
+                        "fb:pages": "146634408702997"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.dw.com/image/57173609_303.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Venezuela issues general legal framework on cryptoassets and the ...",
+            "htmlTitle": "<b>Venezuela</b> issues general legal framework on cryptoassets and the ...",
+            "link": "https://www.nortonrosefulbright.com/-/media/files/nrf/nrfweb/imported/venezuela-issues-general-legal-framework-on-cryptoassets-and-the-petro-cryptocurrency.pdf?revision=49bc066c-090d-46ce-b9a9-2b502b0c1755&revision=49bc066c-090d-46ce-b9a9-2b502b0c1755",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "Constituent Decree on Cryptoassets and the Petro Sovereign Cryptocurrency, ... Executive, (d) regulate the cryptoassets market in Venezuela, the use and\u00a0...",
+            "htmlSnippet": "Constituent Decree on Cryptoassets and the Petro Sovereign <b>Cryptocurrency</b>, ... Executive, (d) <b>regulate</b> the cryptoassets market in <b>Venezuela</b>, the use and&nbsp;...",
+            "cacheId": "2rB3IutM-MkJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/-/.../venezuela-issues-general-legal- framework-on-cryptoassets-and-the-petro-cryptocurrency.pdf?...",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/-/.../<b>venezuela</b>-issues-general-legal- framework-on-cryptoassets-and-the-petro-<b>cryptocurrency</b>.pdf?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPSsTbbAQ1I_kKSK8Ow3NZcQpHMki210tyoTnOtqU9UrQJrIV4mRbV5xo",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "_authoremaildisplayname": "Scarfone, James",
+                        "creationdate": "D:20180515112021-04'00'",
+                        "creator": "Acrobat PDFMaker 10.1 pour Word",
+                        "comments": "English v1.8",
+                        "mail_msg_id1": "sAAAE34RQVAK31kJKi6n4b+19Q5s/huqHFODUFBIoBiOA9w=",
+                        "author": "FKHALID",
+                        "_emailsubject": "New templates",
+                        "title": "Venezuela issues general legal framework on cryptoassets and the \u201cpetro\u201d cryptocurrency",
+                        "email_owner_address": "sAAAE34RQVAK31nhrHNJfJGMoOwJfaYbinbCdTFoCyAvG3I=",
+                        "_authoremail": "James.Scarfone@nortonrosefulbright.com",
+                        "_previousadhocreviewcycleid": "1378287010",
+                        "moddate": "D:20180515112033-04'00'",
+                        "sourcemodified": "D:20180515152009",
+                        "producer": "Adobe PDF Library 10.0",
+                        "company": "Ogilvy Renault",
+                        "_adhocreviewcycleid": "1206703369",
+                        "response_sender_name": "sAAAE34RQVAK31kEtxq+2uMMR4oMdHYWbTidKfU9abJr0LY=",
+                        "docidautoupdate": "NO"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///39a763ac4ec76d1167d91b924576924b5d38818c46abdd440593cf1da41e5642"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Venezuela's \u201cpetro\u201d undermines other cryptocurrencies \u2013 and ...",
+            "htmlTitle": "<b>Venezuela&#39;s</b> \u201cpetro\u201d undermines other <b>cryptocurrencies</b> \u2013 and ...",
+            "link": "https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/",
+            "displayLink": "www.brookings.edu",
+            "snippet": "Mar 9, 2018 ... In an effort to stabilize its economic crisis, Venezuela has released its own national cryptocurrency, the petro, and has raised $735\u00a0...",
+            "htmlSnippet": "Mar 9, 2018 <b>...</b> In an effort to stabilize its economic crisis, <b>Venezuela</b> has released its own national <b>cryptocurrency</b>, the petro, and has raised $735&nbsp;...",
+            "cacheId": "2Km_8sFiTt8J",
+            "formattedUrl": "https://www.brookings.edu/.../venezuelas-petro-undermines-other- cryptocurrencies-and-international-sanctions/",
+            "htmlFormattedUrl": "https://www.brookings.edu/.../<b>venezuelas</b>-petro-undermines-other- <b>cryptocurrencies</b>-and-international-sanctions/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Jack Karsten",
+                        "url": "https://www.brookings.edu/author/jack-karsten/"
+                    },
+                    {
+                        "fn": "Darrell M. West",
+                        "url": "https://www.brookings.edu/experts/darrell-m-west/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOtM7j6ns4xYbkUWX7W4SVIjiKeRSIW41ZPojusOWSvBKIliL18-y044V4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "400",
+                        "url": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "width": "1030",
+                        "url": "https://www.brookings.edu/wp-content/uploads/2018/03/venezuela_maduro_petro1.jpg?w=1030&h=580&crop=1",
+                        "height": "580"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Jack Karsten",
+                        "url": "https://www.brookings.edu/author/jack-karsten/"
+                    },
+                    {
+                        "name": "Darrell M. West",
+                        "url": "https://www.brookings.edu/experts/darrell-m-west/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Brookings"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.brookings.edu/wp-content/uploads/2018/03/venezuela_maduro_petro1.jpg?w=1200&h=630&crop=1",
+                        "article:published_time": "2018-03-09T18:32:23+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Brookings",
+                        "parsely-metadata": "{\"post_id\":496221,\"contentType\":\"post\",\"program\":[\"Governance Studies\"],\"center\":[\"Center for Technology Innovation\"],\"language\":\"en\",\"canonicalContent\":\"https:\\/\\/www.brookings.edu\\/blog\\/techtank\\/2018\\/03\\/09\\/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions\\/\"}",
+                        "og:description": "In an effort to stabilize its economic crisis, Venezuela has released its own national cryptocurrency, the petro, and has raised $735 million dollars in sales thus far. However, the petro will not ameliorate Venezuela\u2019s crisis, and it poses a risk to the integrity of international sanctions.",
+                        "twitter:image": "https://www.brookings.edu/wp-content/uploads/2018/03/venezuela_maduro_petro1.jpg?w=1200&h=630&crop=1",
+                        "twitter:text:title": "Venezuela\u2019s \u201cpetro\u201d undermines other cryptocurrencies \u2013 and international sanctions",
+                        "twitter:image:alt": "Venezuela\u2019s President Nicolas Maduro speaks during the event launching the new Venezuelan cryptocurrency \u201cPetro\u201d in Caracas",
+                        "twitter:site": "@BrookingsInst",
+                        "article:modified_time": "2018-03-09T21:09:33+00:00",
+                        "twitter:account_id": "151106990",
+                        "og:type": "article",
+                        "twitter:title": "Venezuela\u2019s \u201cpetro\u201d undermines other cryptocurrencies \u2013 and international sanctions",
+                        "wp-parsely_version": "1.10.1",
+                        "twitter:site:id": "151106990",
+                        "author": "Jack Karsten and Darrell M. West",
+                        "og:title": "Venezuela\u2019s \u201cpetro\u201d undermines other cryptocurrencies \u2013 and international sanctions",
+                        "og:image:height": "683",
+                        "fb:pages": "137459917707",
+                        "fb:app_id": "137459917707",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "In an effort to stabilize its economic crisis, Venezuela has released its own national cryptocurrency, the petro, and has raised $735 million dollars in sales thus far. However, the petro will not ameliorate Venezuela\u2019s crisis, and it poses a risk to the integrity of international sanctions.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.brookings.edu/blog/techtank/2018/03/09/venezuelas-petro-undermines-other-cryptocurrencies-and-international-sanctions/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.brookings.edu/wp-content/uploads/2018/03/venezuela_maduro_petro1.jpg?w=1200&h=630&crop=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "Venezuela is in the midst of one of the largest economic disasters in recent history. Rampant inflation over 4000 percent in the past year, food and medical shortages, and political turmoil...",
+                        "datemodified": "2018-03-09T16:09:33-05:00",
+                        "author": "Jack Karsten",
+                        "datepublished": "2018-03-09T13:32:23-05:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Venezuela Starts Regulating and Taxing Crypto Remittances ...",
+            "htmlTitle": "<b>Venezuela</b> Starts Regulating and Taxing Crypto Remittances ...",
+            "link": "https://news.bitcoin.com/venezuela-regulating-cryptocurrency-remittances/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Feb 10, 2019 ... The Venezuelan government has begun regulating cryptocurrency remittances. The regulator has set a monthly limit and will be collecting\u00a0...",
+            "htmlSnippet": "Feb 10, 2019 <b>...</b> The <b>Venezuelan</b> government has begun regulating <b>cryptocurrency</b> remittances. The regulator has set a monthly limit and will be collecting&nbsp;...",
+            "cacheId": "TesNV38u0cEJ",
+            "formattedUrl": "https://news.bitcoin.com/venezuela-regulating-cryptocurrency-remittances/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>venezuela</b>-regulating-<b>cryptocurrency</b>-remittances/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv7t-UfuLD3r_yRTvXfIlwLt-qGKPZ_RFS4ne8EPX9izYadH-TFguf8gA",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2019/02/4buLYKW2-venezuela-remittances.png",
+                        "og:type": "article",
+                        "article:published_time": "2019-02-11T00:58:47+00:00",
+                        "og:image:width": "1520",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Venezuela Starts Regulating and Taxing Crypto Remittances \u2013 Regulation Bitcoin News",
+                        "og:image:height": "1024",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Venezuelan government has begun regulating cryptocurrency remittances. The regulator has set a monthly limit and will be collecting commissions of up to 15 percent of the transaction amount. Additionally, new details of its comprehensive registry of crypto service providers have been announced.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2019-02-11T18:58:55+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/venezuela-regulating-cryptocurrency-remittances/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Venezuela Starts Regulating and Taxing Crypto Remittances"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2019/02/4buLYKW2-venezuela-remittances.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "US Imposes Additional Economic Sanctions on Venezuela ...",
+            "htmlTitle": "US Imposes Additional Economic Sanctions on <b>Venezuela</b> ...",
+            "link": "https://sanctionsnews.bakermckenzie.com/us-imposes-additional-economic-sanctions-on-venezuela-targeting-cryptocurrencies-and-certain-other-individuals/",
+            "displayLink": "sanctionsnews.bakermckenzie.com",
+            "snippet": "Mar 22, 2018 ... ... Economic Sanctions on Venezuela Targeting Cryptocurrencies and Certain ... entities organized under US laws and their non-US branches;\u00a0...",
+            "htmlSnippet": "Mar 22, 2018 <b>...</b> ... Economic Sanctions on <b>Venezuela</b> Targeting <b>Cryptocurrencies</b> and Certain ... entities organized under US <b>laws</b> and their non-US branches;&nbsp;...",
+            "cacheId": "Nb0Ki8BREWgJ",
+            "formattedUrl": "https://sanctionsnews.bakermckenzie.com/us-imposes-additional-economic- sanctions-on-venezuela-targeting-cryptocurrencies-and-certain-other- ...",
+            "htmlFormattedUrl": "https://sanctionsnews.bakermckenzie.com/us-imposes-additional-economic- sanctions-on-<b>venezuela</b>-targeting-<b>cryptocurrencies</b>-and-certain-other- ...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "article:published_time": "2018-03-22T21:38:52+00:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Sanctions & Export Controls Update",
+                        "og:title": "US Imposes Additional Economic Sanctions on Venezuela Targeting Cryptocurrencies and Certain Other Individuals - Sanctions & Export Controls Update",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "On March 19, 2018, the President issued a new Executive Order related to Venezuela entitled \u201cTaking Additional Steps to Address the Situation in Venezuela\u201d (\u201cVenezuela EO\u201d) available\u00a0here.\u00a0 The Venezuela EO is the first Executive Order that specifically targets the use of cryptocurrency.\u00a0 Please see our prior blog posts concerning the previous Venezuela-related Executive Orders: (i)",
+                        "twitter:data1": "Nicholas F. Coward",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2018-03-23T19:59:33+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://sanctionsnews.bakermckenzie.com/us-imposes-additional-economic-sanctions-on-venezuela-targeting-cryptocurrencies-and-certain-other-individuals/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto mining activities are now regulated by the Venezuelan gov",
+            "htmlTitle": "Crypto mining activities are now <b>regulated</b> by the <b>Venezuelan</b> gov",
+            "link": "https://cointelegraph.com/news/crypto-mining-activities-are-now-regulated-by-the-venezuelan-gov",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 23, 2020 ... But there is always a catch when it comes to Maduro's government. ... Venezuela's National Superintendency of Crypto Assets and Related Activities\u00a0...",
+            "htmlSnippet": "Sep 23, 2020 <b>...</b> But there is always a catch when it comes to Maduro&#39;s government. ... <b>Venezuela&#39;s</b> National Superintendency of Crypto Assets and Related Activities&nbsp;...",
+            "cacheId": "Q7opkzVLd58J",
+            "formattedUrl": "https://cointelegraph.com/.../crypto-mining-activities-are-now-regulated-by- the-venezuelan-gov",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../crypto-mining-activities-are-now-<b>regulated</b>-by- the-<b>venezuelan</b>-gov",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN-xyQ9JE5gGnSiFxPg7aFJ53UAjvp7FRd5GwgOv4bLcAsalP2LldCErQ",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYWJmYTAyOThkODBlNWU2YmM2OTg0MmUyNGMzODgyNi5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto mining activities are now regulated by the Venezuelan gov",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Crypto mining activities are now regulated by the Venezuelan gov",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "But there is always a catch when it comes to Maduro\u2019s government",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYWJmYTAyOThkODBlNWU2YmM2OTg0MmUyNGMzODgyNi5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "But there is always a catch when it comes to Maduro\u2019s government",
+                        "og:url": "https://cointelegraph.com/news/crypto-mining-activities-are-now-regulated-by-the-venezuelan-gov"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYWJmYTAyOThkODBlNWU2YmM2OTg0MmUyNGMzODgyNi5qcGc=.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

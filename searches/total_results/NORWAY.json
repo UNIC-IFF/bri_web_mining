@@ -1,0 +1,554 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NORWAY",
+                "totalResults": "635000",
+                "searchTerms": "NORWAY",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NORWAY",
+                "totalResults": "635000",
+                "searchTerms": "NORWAY",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.395552,
+        "formattedSearchTime": "0.40",
+        "totalResults": "635000",
+        "formattedTotalResults": "635,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Norway | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Norway</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/norway",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Currently, there is no legislation or regulatory framework in Norway specifically relating to cryptocurrency or blockchain technologies. However, there are a\u00a0...",
+            "htmlSnippet": "Currently, there is no legislation or <b>regulatory</b> framework in <b>Norway</b> specifically relating to <b>cryptocurrency</b> or blockchain technologies. However, there are a&nbsp;...",
+            "cacheId": "RQiAvt0M_FkJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/norway",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>norway</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Norway chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGD8EpGW1_D85fIbc8pEXmLlOiQwMcEct000BZotEeidsgXRQa1N-5-cQ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Ole Anden\u00e6s",
+                        "url": "Ole Anden\u00e6s"
+                    },
+                    {
+                        "name": "Snorre Nordmo",
+                        "url": "Snorre Nordmo"
+                    },
+                    {
+                        "name": "Stina Tveiten",
+                        "url": "Stina Tveiten"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/H4DOyh6rQE0OYlcn2rsfLJ12qwvQ1XABnl2OKxK1.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Norway chapter written by Ole Anden\u00e6s - Wikborg Rein Advokatfirma AS and Snorre Nordmo - Wikborg Rein Advokatfirma AS and Stina Tveiten - Wikborg Rein Advokatfirma AS covering 14 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Norway | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Norway chapter written by Ole Anden\u00e6s - Wikborg Rein Advokatfirma AS and Snorre Nordmo - Wikborg Rein Advokatfirma AS and Stina Tveiten - Wikborg Rein Advokatfirma AS covering 14 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Norway | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/norway"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/H4DOyh6rQE0OYlcn2rsfLJ12qwvQ1XABnl2OKxK1.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Norway",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Norway</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/norway",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "There are no specific laws or regulations that apply to issuers or sponsors of virtual currencies in Norway. Issuing or sponsoring a virtual currency is\u00a0...",
+            "htmlSnippet": "There are no specific <b>laws</b> or <b>regulations</b> that apply to issuers or sponsors of virtual currencies in <b>Norway</b>. Issuing or sponsoring a virtual currency is&nbsp;...",
+            "cacheId": "-QQoQ0qn8s0J",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../norway",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>norway</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "cCWMXgmOJ0RBqX9172d5LNT0scwkLzlsdtA6RADw"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Norway | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Norway</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/norway",
+            "displayLink": "iclg.com",
+            "snippet": "Trading in cryptocurrency is subject to AML requirements; see question 4.5 for further information. 2. Funding For Fintech. 2.1 Broadly, what types of funding\u00a0...",
+            "htmlSnippet": "Trading in <b>cryptocurrency</b> is subject to AML requirements; see question 4.5 for further information. 2. Funding For Fintech. 2.1 Broadly, what types of funding&nbsp;...",
+            "cacheId": "KgZEmrIgQ9sJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/norway",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>norway</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl_UcZcsiZkFjq29DYs6vw9kEkLv__R03HS3-5ihba2125y4N3S4zugls",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/mJPCJByU9cxsadkH9OxQ0gHyRcQlITzr1xMO1AZD.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Norway of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/mJPCJByU9cxsadkH9OxQ0gHyRcQlITzr1xMO1AZD.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "jNwPhkvJaHZftYCudGwo7yttRH85uPhG6Ff5xlT0",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Norway |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Norway |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Norway |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Norway of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/norway",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/mJPCJByU9cxsadkH9OxQ0gHyRcQlITzr1xMO1AZD.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Norway's FSA Says Legal Framework Needed in Crypto to Protect ...",
+            "htmlTitle": "<b>Norway&#39;s</b> FSA Says Legal Framework Needed in Crypto to Protect ...",
+            "link": "https://www.coindesk.com/markets/2021/06/22/norways-fsa-says-legal-framework-needed-in-crypto-to-protect-consumers/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jun 22, 2021 ... The Norwegian Financial Supervisory Authority (FSA) said Tuesday there is a need for a legal framework if cryptocurrency is to become a suitable\u00a0...",
+            "htmlSnippet": "Jun 22, 2021 <b>...</b> The <b>Norwegian</b> Financial Supervisory Authority (FSA) said Tuesday there is a need for a legal framework if <b>cryptocurrency</b> is to become a suitable&nbsp;...",
+            "cacheId": "xuj6URrLZ9YJ",
+            "formattedUrl": "https://www.coindesk.com/.../norways-fsa-says-legal-framework-needed-in- crypto-to-protect-consumers/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>norways</b>-fsa-says-legal-framework-needed-in- crypto-to-protect-consumers/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT30JmAfDWt84SfhAAa9XbD9YY4R0k8VKWcMWq94Ljeb_kUZMNh-7L0goLG",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/0vHYNKKtGHx-LlOqEWWhNby_Gr8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GQF264OYPZFIVP7Z5N7PL7VLNQ.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-06-22T17:39:42Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The regulatory body stressed the cryptocurrency market remains largely unregulated and consumer protections are needed.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/cE1CcTiO8Xn_1ehzz1gykTRVZBw=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GQF264OYPZFIVP7Z5N7PL7VLNQ.jpg",
+                        "twitter:image:alt": "Norway Oslo",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-06-22T17:39:42Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Norway Oslo",
+                        "og:type": "article",
+                        "article:section": "Markets",
+                        "twitter:title": "Norway\u2019s FSA Says Legal Framework Needed in Crypto to Protect Consumers",
+                        "og:title": "Norway\u2019s FSA Says Legal Framework Needed in Crypto to Protect Consumers",
+                        "og:image:height": "628",
+                        "article:author": "Tanzeel Akhtar",
+                        "article:tag": "Norway, Financial Services, CoinFlash",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The regulatory body stressed the cryptocurrency market remains largely unregulated and consumer protections are needed.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2021/06/22/norways-fsa-says-legal-framework-needed-in-crypto-to-protect-consumers/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/0vHYNKKtGHx-LlOqEWWhNby_Gr8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GQF264OYPZFIVP7Z5N7PL7VLNQ.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Norwegian regulator warns against digital currencies, calls for ...",
+            "htmlTitle": "<b>Norwegian</b> regulator warns against digital currencies, calls for ...",
+            "link": "https://coingeek.com/norwegian-regulator-warns-against-digital-currencies-calls-for-regulation/",
+            "displayLink": "coingeek.com",
+            "snippet": "Jun 25, 2021 ... Until such regulations are in place, anyone considering trading in cryptocurrency should think carefully and understand the significant risk\u00a0...",
+            "htmlSnippet": "Jun 25, 2021 <b>...</b> Until such <b>regulations</b> are in place, anyone considering trading in <b>cryptocurrency</b> should think carefully and understand the significant risk&nbsp;...",
+            "cacheId": "UEsI43sLaYoJ",
+            "formattedUrl": "https://coingeek.com/norwegian-regulator-warns-against-digital-currencies- calls-for-regulation/",
+            "htmlFormattedUrl": "https://coingeek.com/<b>norwegian</b>-regulator-warns-against-digital-currencies- calls-for-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRH5ejFWWZf6bIJqj1H1iXRTBr9mJuoXcjBryyu4nUmpZslxSnCQgLVBM",
+                        "width": "320",
+                        "height": "158"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://coingeek.com/wp-content/uploads/2021/06/norwegian-regulator-warns-against-digital-currenci.jpg",
+                        "article:published_time": "2021-06-25T03:00:02+00:00",
+                        "og:image:width": "730",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "CoinGeek",
+                        "apple-mobile-web-app-title": "CoinGeek - The Bitcoin Beat",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://coingeek.com/wp-content/uploads/2020/06/coingeek-favicon-256x256-1.png",
+                        "og:description": "In its warning, the watchdog claimed that digital currencies pose a high risk of loss, have attracted significant criminal activity and the market is largely unregulated.",
+                        "twitter:creator": "@realcoingeek",
+                        "article:publisher": "https://www.facebook.com/realcoingeek/",
+                        "twitter:data1": "Steve Kaaru",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@realcoingeek",
+                        "article:modified_time": "2021-06-23T17:50:43+00:00",
+                        "og:video:duration": "36910",
+                        "og:video:type": "text/html",
+                        "og:video:height": "270",
+                        "ya:ovs:adult": "false",
+                        "og:type": "article",
+                        "ya:ovs:upload_date": "2021-06-25T03:00:02+00:00",
+                        "og:title": "Norwegian regulator warns against digital currencies, calls for regulation - CoinGeek",
+                        "og:image:height": "360",
+                        "og:video:width": "480",
+                        "og:video": "https://www.youtube.com/embed/PDk_o5x8tnY",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://coingeek.com/norwegian-regulator-warns-against-digital-currencies-calls-for-regulation/",
+                        "ya:ovs:allow_embed": "true"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://coingeek.com/wp-content/uploads/2021/06/norwegian-regulator-warns-against-digital-currenci.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tax and VAT relating to Bitcoin and other virtual currencies - The ...",
+            "htmlTitle": "Tax and VAT relating to Bitcoin and other virtual currencies - The ...",
+            "link": "https://www.skatteetaten.no/en/business-and-organisation/reporting-and-industries/industries-special-regulations/internet/tax-and-vat-on-virtual-currencies/",
+            "displayLink": "www.skatteetaten.no",
+            "snippet": "Gain/loss is calculated by determining the value of the virtual currency in Norwegian kroner at the time of the transaction. If you have multiple units within\u00a0...",
+            "htmlSnippet": "Gain/loss is calculated by determining the value of the virtual currency in <b>Norwegian</b> kroner at the time of the transaction. If you have multiple units within&nbsp;...",
+            "cacheId": "dVwcQlvRlkoJ",
+            "formattedUrl": "https://www.skatteetaten.no/...regulations/.../tax-and-vat-on-virtual-currencies /",
+            "htmlFormattedUrl": "https://www.skatteetaten.no/...<b>regulations</b>/.../tax-and-vat-on-virtual-currencies /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSK8khIFpTNc96jWrmozY5dzeU3F04_u2WS1wCpZrfSF-W98UW-mwT-Yhs",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.skatteetaten.no/static/img/skatteetatenlogo/1200x630/png/se_logo_engelsk_sort1200x630.png",
+                        "twitter:card": "summary",
+                        "twitter:site": "The Norwegian Tax Administration",
+                        "og:site_name": "The Norwegian Tax Administration",
+                        "viewport": "initial-scale=1.0,\r\n        width=device-width",
+                        "og:title": "Tax and VAT relating to Bitcoin and other virtual currencies",
+                        "twitter:image": "https://www.skatteetaten.no/static/img/skatteetatenlogo/1200x630/png/se_logo_engelsk_sort1200x630.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.skatteetaten.no/static/img/skatteetatenlogo/1200x630/png/se_logo_engelsk_sort1200x630.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Norway and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Norway</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/norway/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Since 2018, Norway's Central Bank has not recognized cryptocurrency as a\u00a0...",
+            "htmlSnippet": "<b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. Since 2018, <b>Norway&#39;s</b> Central Bank has not recognized <b>cryptocurrency</b> as a&nbsp;...",
+            "cacheId": "CDMj9HS47F4J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/norway/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>norway</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-12-15T22:01:07+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/norway/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Norway? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:20:12+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Norway and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Norway and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:20:12+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Norway and Cryptocurrency Norway Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Since 2018, Norway\u2019s Central Bank has not recognized cryptocurrency as a legal tender, but regulations for money service businesses dealing in crypto and crypto...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/norway/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... The regulatory regime surrounding cryptocurrencies is ... \u201cNorwegian providers of virtual currency exchange and storage services.\u201d.",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> The <b>regulatory</b> regime surrounding <b>cryptocurrencies</b> is ... \u201c<b>Norwegian</b> providers of virtual currency exchange and storage services.\u201d.",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In business, use of bitcoin falls under the sales tax regulation. The Norwegian government stated in February 2017 that they would not levy VAT on the purchase\u00a0...",
+            "htmlSnippet": "In business, use of bitcoin falls under the sales tax <b>regulation</b>. The <b>Norwegian</b> government stated in February 2017 that they would not levy VAT on the purchase&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Norway Establishes New Rules for Crypto Service Providers ...",
+            "htmlTitle": "<b>Norway</b> Establishes New Rules for Crypto Service Providers ...",
+            "link": "https://news.bitcoin.com/norway-crypto-service-providers/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Oct 6, 2018 ... The Financial Supervisory Authority of Norway is enforcing new money laundering regulations that apply to crypto exchange and storage\u00a0...",
+            "htmlSnippet": "Oct 6, 2018 <b>...</b> The Financial Supervisory Authority of <b>Norway</b> is enforcing new money laundering <b>regulations</b> that apply to crypto exchange and storage&nbsp;...",
+            "cacheId": "B9PzifuxnLwJ",
+            "formattedUrl": "https://news.bitcoin.com/norway-crypto-service-providers/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>norway</b>-crypto-service-providers/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnsScF987LdEhzHbd04UyNzH1M9IcNHdpdyHKd8-vM4mUMqFMT1UWdsMhs",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2018/10/norway-banner1png.png",
+                        "og:type": "article",
+                        "article:published_time": "2018-10-06T18:55:02+00:00",
+                        "og:image:width": "1600",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Norway Establishes New Rules for Crypto Service Providers \u2013 Regulation Bitcoin News",
+                        "og:image:height": "1600",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Financial Supervisory Authority of Norway is enforcing new money laundering regulations that apply to crypto exchange and storage providers in the country. The law will go into effect on Oct. 15 and will affect companies established in Norway including branches of overseas companies.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2018-10-06T18:49:59+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/norway-crypto-service-providers/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Norway Establishes New Rules for Crypto Service Providers"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2018/10/norway-banner1png.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

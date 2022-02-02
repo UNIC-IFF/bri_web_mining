@@ -1,0 +1,659 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - REPUBLIC OF CONGO",
+                "totalResults": "709000",
+                "searchTerms": "REPUBLIC OF CONGO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - REPUBLIC OF CONGO",
+                "totalResults": "709000",
+                "searchTerms": "REPUBLIC OF CONGO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.327787,
+        "formattedSearchTime": "0.33",
+        "totalResults": "709000",
+        "formattedTotalResults": "709,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Central African States and Cryptocurrency - Virtual Currency Laws ...",
+            "htmlTitle": "Central African States and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> ...",
+            "link": "https://freemanlaw.com/cryptocurrency/central-african-states/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "The Economic and Monetary Community of Central Africa includes Cameroon, the Central African Republic, Chad, Equatorial Guinea, Gabon, and the Republic of\u00a0...",
+            "htmlSnippet": "The Economic and Monetary Community of Central <b>Africa</b> includes Cameroon, the Central African <b>Republic</b>, Chad, Equatorial Guinea, Gabon, and the <b>Republic</b> of&nbsp;...",
+            "cacheId": "bmRJyvUVOGMJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/central-african-states/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/central-<b>africa</b>n-states/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWSzY0H1cXBBSqTPGwjVtyHhIYPaOSJQqWB9mAWmo3Fbc2sfiWEUFoE-U",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-22T01:35:36+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/central-african-states/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in the Central African States? Freeman Law can help with digital currencies & tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:41+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/international-tax-treaties/south-africa/",
+                        "og:type": "article",
+                        "og:image:alt": "Central African Republic cryptocurre",
+                        "article:section": "Bitcoin",
+                        "twitter:title": "Central African States and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Central African States and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:56:41+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The Central African States and Cryptocurrency The Central African States Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Within the Central African states, the use of digital currency systems is on the rise.[1] Despite this upward trend, the...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/central-african-states/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "... Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, ... Book/Printed Material Regulation of cryptocurrency around the world.",
+            "htmlSnippet": "... Croatia, Cuba, Cyprus, Czech <b>Republic</b>, Democratic <b>Republic</b> of the <b>Congo</b>, ... Book/Printed Material <b>Regulation of cryptocurrency</b> around the world.",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from ... though the Chinese government has been cracking down on mining\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from ... though the Chinese <b>government</b> has been cracking down on mining&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in <b>Africa</b>",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "regulation or framework exists for the use or trade in cryptocurrencies. \u2022 However, in 2015, the Government of Cameroon reportedly trialled a bitcoin-like\u00a0...",
+            "htmlSnippet": "<b>regulation</b> or framework exists for the use or trade in <b>cryptocurrencies</b>. \u2022 However, in 2015, the <b>Government</b> of Cameroon reportedly trialled a bitcoin-like&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../<b>rep</b>ort_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Credit Access in the Democratic Republic of Congo - The Borgen ...",
+            "htmlTitle": "Credit Access in the Democratic <b>Republic of Congo</b> - The Borgen ...",
+            "link": "https://borgenproject.org/credit-access-in-the-democratic-republic-of-congo/",
+            "displayLink": "borgenproject.org",
+            "snippet": "Jan 31, 2019 ... Cryptocurrencies are digital or virtual money that use encryption to safeguard, regulate and verify the currency and transfer of funds.",
+            "htmlSnippet": "Jan 31, 2019 <b>...</b> <b>Cryptocurrencies</b> are digital or virtual money that use encryption to safeguard, <b>regulate</b> and verify the currency and transfer of funds.",
+            "cacheId": "1bCRbvfjtL8J",
+            "formattedUrl": "https://borgenproject.org/credit-access-in-the-democratic-republic-of-congo/",
+            "htmlFormattedUrl": "https://borgenproject.org/credit-access-in-the-democratic-<b>republic-of-congo</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtnoSnkKvA5MrWrTC8xnX1g4QnVDdWatXvxwHoNQ6dIyDaiCAneT4eobc",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "0",
+                        "url": "https://borgenproject.org/wp-content/uploads/The_Borgen_Project_Logo_small.jpg",
+                        "height": "0"
+                    },
+                    {
+                        "url": "https://borgenproject.org/wp-content/uploads/The_Borgen_Project_Logo_small.jpg"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Kim Thelwell"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Kim Thelwell"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://borgenproject.org/wp-content/uploads/Credit-Access-in-the-Democratic-Republic-of-Congo-300x225.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2019-01-31T21:30:18+00:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Borgen Project",
+                        "og:title": "Credit Access in the Democratic Republic of Congo - The Borgen Project",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "A nominal percentage of the DRC population has accounts with traditional banks, but thanks to the Partnership for Financial Inclusion, that reality is changing. The country\u2019s laws and corruption are still hurdles that must be overcome in order for the credit access and credit volume to reach ideal numbers.",
+                        "twitter:creator": "@borgenproject",
+                        "article:publisher": "https://www.facebook.com/borgenproject",
+                        "twitter:data1": "Kim Thelwell",
+                        "twitter:data2": "4 minutes",
+                        "twitter:site": "@borgenproject",
+                        "article:modified_time": "2019-12-18T19:54:35+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://borgenproject.org/credit-access-in-the-democratic-republic-of-congo/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Blog - Latest News"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://borgenproject.org/wp-content/uploads/Credit-Access-in-the-Democratic-Republic-of-Congo-300x225.jpg"
+                    }
+                ],
+                "blogposting": [
+                    {
+                        "datemodified": "2019-12-18 11:54:35",
+                        "name": "Credit Access in the Democratic Republic of Congo",
+                        "text": "The Democratic Republic of Congo (DRC) is a country ripe with investment opportunities mainly due to its abundant natural resources, population size and predominantly open trading system. At...",
+                        "headline": "Credit Access in the Democratic Republic of Congo",
+                        "datepublished": "2019-01-31T13:30:18-08:00",
+                        "mainentityofpage": "Credit Access in the Democratic Republic of Congo"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "About"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+            "htmlTitle": "<b>Africa</b> in the news: Ethiopia, Nigeria, and internet <b>control</b> updates",
+            "link": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/",
+            "displayLink": "www.brookings.edu",
+            "snippet": "Mar 6, 2021 ... Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental\u00a0...",
+            "htmlSnippet": "Mar 6, 2021 <b>...</b> Investigations in Ethiopia continue, Nigeria to <b>regulate cryptocurrencies</b>, schoolgirls released amid deadly violence, and nongovernmental&nbsp;...",
+            "cacheId": "HukjMxrx3YEJ",
+            "formattedUrl": "https://www.brookings.edu/.../africa.../africa-in-the-news-ethiopia-nigeria-and -internet-control-updates/",
+            "htmlFormattedUrl": "https://www.brookings.edu/.../<b>africa</b>.../<b>africa</b>-in-the-news-ethiopia-nigeria-and -internet-<b>control</b>-updates/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "fn": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfogikiXnwiYXM2klcsxjtcYDp_81TwJt76s_LAxloef8SVE4pmTbJnnXt",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "400",
+                        "url": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "width": "1030",
+                        "url": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1030&h=580&crop=1",
+                        "height": "580"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "name": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Brookings"
+                    }
+                ],
+                "book": [
+                    {
+                        "url": "R"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/asia-and-africa-in-the-global-economy/"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/made-in-africa/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "article:published_time": "2021-03-06T12:30:08+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Brookings",
+                        "parsely-metadata": "{\"post_id\":1425162,\"contentType\":\"post\",\"program\":[\"Global Economy and Development\"],\"project\":[\"Africa Growth Initiative\"],\"language\":\"en\",\"canonicalContent\":\"https:\\/\\/www.brookings.edu\\/blog\\/africa-in-focus\\/2021\\/03\\/06\\/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates\\/\"}",
+                        "og:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "twitter:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "twitter:text:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "twitter:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:site": "@BrookingsInst",
+                        "article:modified_time": "2021-03-05T21:32:24+00:00",
+                        "twitter:account_id": "151106990",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "wp-parsely_version": "1.10.1",
+                        "twitter:site:id": "151106990",
+                        "author": "Christina Golubski and Leo Holtz",
+                        "og:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "og:image:height": "683",
+                        "fb:pages": "137459917707",
+                        "fb:app_id": "137459917707",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "Investigations into the deteriorating situation in Ethiopia continue On Thursday, March 4, United Nations High Commissioner for Human Rights Michelle Bachelet called for an independent assessment...",
+                        "datemodified": "2021-03-05T16:32:24-05:00",
+                        "author": "Christina Golubski",
+                        "datepublished": "2021-03-06T07:30:08-05:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "The government of the. Republic of Korea also requires banks to report activities deemed suspicious under the regulations in its thrust to prevent money\u00a0...",
+            "htmlSnippet": "The <b>government</b> of the. <b>Republic</b> of Korea also requires banks to report activities deemed suspicious under the <b>regulations</b> in its thrust to prevent money&nbsp;...",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Congo - D.R. ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Congo</b> - D.R. ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/congo-d-r",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Blockchain & Cryptocurrency Regulation 2022 covers subjects including. 1 Government attitude and definition. 2 Virtual currency regulation.",
+            "htmlSnippet": "Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 covers subjects including. 1 <b>Government</b> attitude and definition. 2 Virtual currency <b>regulation</b>.",
+            "cacheId": "bIpYpKPj58wJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/congo-d-r",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>congo</b>-d-r",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Congo - D.R. for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Congo - D.R. | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Congo - D.R. for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Congo - D.R. | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/congo-d-r"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulations in US & Abroad",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulations</b> in US &amp; Abroad",
+            "link": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Jan 27, 2021 ... Despite interest from these agencies, the federal government has not exercised its constitutional preemptive power to regulate blockchain to the\u00a0...",
+            "htmlSnippet": "Jan 27, 2021 <b>...</b> Despite interest from these agencies, the federal <b>government</b> has not exercised its constitutional preemptive power to <b>regulate</b> blockchain to the&nbsp;...",
+            "cacheId": "Mvo5XQTizbcJ",
+            "formattedUrl": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us- global",
+            "htmlFormattedUrl": "https://www.businessinsider.com/blockchain-<b>cryptocurrency</b>-<b>regulations</b>-us- global",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0SsBztfFwqsWxHy5W3WHKbdkxx1gx1y5qYCEP69RFVI0cKCbiKHnV7E",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-01-27",
+                        "og:image": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "og:description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@clusterstock",
+                        "news_keywords": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "sailthru.title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-03-02T21:21:33Z",
+                        "pubdate": "2021-01-27T20:36:11Z",
+                        "sailthru.verticals": "clusterstock, research",
+                        "sailthru.date": "2021-01-27",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "Global Finance Execs' View Of Blockchain Challenges",
+                        "author": "Insider Intelligence",
+                        "tbi-vertical": "Finance",
+                        "og:title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "ia:markup_url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+                        "sailthru.author": "Insider Intelligence",
+                        "sailthru.image.full": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Narcotics Control Strategy Reports - United States ...",
+            "htmlTitle": "International Narcotics <b>Control</b> Strategy Reports - United States ...",
+            "link": "https://www.state.gov/international-narcotics-control-strategy-reports/",
+            "displayLink": "www.state.gov",
+            "snippet": "The INCSR is the United States Government's country-by-country two volume report that describes the efforts to attack all aspects of the international drug\u00a0...",
+            "htmlSnippet": "The INCSR is the United States <b>Government&#39;s</b> country-by-country two volume report that describes the efforts to attack all aspects of the international drug&nbsp;...",
+            "cacheId": "pAIM85v5YjEJ",
+            "formattedUrl": "https://www.state.gov/international-narcotics-control-strategy-reports/",
+            "htmlFormattedUrl": "https://www.state.gov/international-narcotics-<b>control</b>-strategy-<b>rep</b>orts/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "United States Department of State",
+                        "og:title": "International Narcotics Control Strategy Reports - United States Department of State",
+                        "og:image:height": "675",
+                        "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-270x270.png",
+                        "og:description": "The Department of State\u2019s International Narcotics Control Strategy Report (INCSR) \u2014 due to Congress March 1st annually \u2014 is prepared in accordance with\u00a0\u00a7489 of the Foreign Assistance Act of 1961, as amended (the \u201cFAA,\u201d 22 U.S.C.\u00a0\u00a72291). The INCSR is the United States Government\u2019s country-by-country two volume report that describes the efforts to attack all aspects [\u2026]",
+                        "twitter:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "msapplication-tap-highlight": "no",
+                        "article:modified_time": "2021-03-02T13:07:32+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.state.gov/international-narcotics-control-strategy-reports/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

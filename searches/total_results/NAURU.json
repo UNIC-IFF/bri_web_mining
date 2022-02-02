@@ -1,0 +1,585 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NAURU",
+                "totalResults": "113000",
+                "searchTerms": "NAURU",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NAURU",
+                "totalResults": "113000",
+                "searchTerms": "NAURU",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.406203,
+        "formattedSearchTime": "0.41",
+        "totalResults": "113000",
+        "formattedTotalResults": "113,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Taxing Virtual Currencies: An Overview of Tax Treatments and ...",
+            "htmlTitle": "Taxing Virtual Currencies: An Overview of Tax Treatments and ...",
+            "link": "https://www.oecd.org/tax/tax-policy/taxing-virtual-currencies-an-overview-of-tax-treatments-and-emerging-tax-policy-issues.htm",
+            "displayLink": "www.oecd.org",
+            "snippet": "Oct 12, 2020 ... So far, the tax policy and evasion implications have been largely unexplored, although forming an important aspect of the overall regulatory\u00a0...",
+            "htmlSnippet": "Oct 12, 2020 <b>...</b> So far, the tax policy and evasion implications have been largely unexplored, although forming an important aspect of the overall <b>regulatory</b>&nbsp;...",
+            "cacheId": "0Ftbvj410QEJ",
+            "formattedUrl": "https://www.oecd.org/.../taxing-virtual-currencies-an-overview-of-tax- treatments-and-emerging-tax-policy-issues.htm",
+            "htmlFormattedUrl": "https://www.oecd.org/.../taxing-virtual-currencies-an-overview-of-tax- treatments-and-emerging-tax-policy-issues.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAH69GUoO9QZcYu4Zr4w13NCiU6bfH-BBaT_RQKCs5s4PSECNu53eQDxNr",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.oecd.org/media/oecdorg/styleassets/images/OECD-social-sharex.jpg",
+                        "twitter:title": "Taxing Virtual Currencies: An Overview of Tax Treatments and Emerging Tax Policy Issues - OECD",
+                        "twitter:card": "summary",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Taxing Virtual Currencies: An Overview of Tax Treatments and Emerging Tax Policy Issues - OECD",
+                        "title": "Taxing Virtual Currencies: An Overview of Tax Treatments and Emerging Tax Policy Issues - OECD",
+                        "twitter:image": "https://www.oecd.org/media/oecdorg/styleassets/images/OECD-social-sharex.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.oecd.org/media/oecdorg/styleassets/images/OECD-social-sharex.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Banking on better intelligence | Thomson Reuters",
+            "htmlTitle": "Banking on better intelligence | Thomson Reuters",
+            "link": "https://legal.thomsonreuters.com/en/c/clear-banking-better-intelligence",
+            "displayLink": "legal.thomsonreuters.com",
+            "snippet": "The financial services industry faces a rapidly evolving regulatory landscape. ... Cryptocurrency: Risks to your institution and the regulatory landscape.",
+            "htmlSnippet": "The financial services industry faces a rapidly evolving <b>regulatory</b> landscape. ... <b>Cryptocurrency</b>: Risks to your institution and the <b>regulatory</b> landscape.",
+            "cacheId": "qAKf_rhm7hcJ",
+            "formattedUrl": "https://legal.thomsonreuters.com/en/c/clear-banking-better-intelligence",
+            "htmlFormattedUrl": "https://legal.thomsonreuters.com/en/c/clear-banking-better-intelligence",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK6MwctZVU45nUxboj9lEbe9oGlas4VTX6kl2eqpEPqJRcipwQMrU_ilUJ",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://legal.thomsonreuters.com/content/dam/ewp-m/images/legal/en/photography/photography/tr1897835-01a-16x9.jpg.transform/rect-768/q90/image.jpg",
+                        "w-published-date": "2022-01-24T09:27:51.547Z",
+                        "og:image:width": "768",
+                        "twitter:card": "summary_large_image",
+                        "w-page-type": "Campaign",
+                        "w-site-id": "legal-us-ewp",
+                        "twitter:image:height": "432",
+                        "w-thumbnail-image": "https://legal.thomsonreuters.com/content/dam/ewp-m/images/legal/en/photography/photography/tr1897835-01a-16x9.jpg.transform/rect-768/q90/image.jpg",
+                        "og:description": "Discover how to protect your organization from risk, increase the accuracy of your AML/KYC investigations and accelerate customer onboarding \u2013 all the while saving time and money.",
+                        "twitter:image": "https://legal.thomsonreuters.com/content/dam/ewp-m/images/legal/en/photography/photography/tr1897835-01a-16x9.jpg.transform/rect-768/q90/image.jpg",
+                        "w-uuid": "8b4a673a-60e9-4521-b2fa-2cefebb7e41c",
+                        "w-brand-id": "flagship-brand:clear",
+                        "w-business-unit": "Legal",
+                        "twitter:site": "@Westlaw1",
+                        "w-search-type": "marketing",
+                        "w-sector-id": "sector-navigation:legal",
+                        "twitter:image:width": "768",
+                        "w-internal-title": "Banking on better intelligence",
+                        "w-brand": "CLEAR",
+                        "w-sitename": "Thomson Reuters",
+                        "og:type": "article",
+                        "fb:profile_id": "Westlaw1",
+                        "w-sector": "Legal",
+                        "msvalidate.01": "9FA661CF3435192502E28690A724E9DB",
+                        "og:title": "Banking on better intelligence",
+                        "og:image:height": "432",
+                        "w-page-type-id": "page-type:campaign",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "w-business-unit-id": "business-unit:legal",
+                        "og:url": "https://legal.thomsonreuters.com/en/c/clear-banking-better-intelligence"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://legal.thomsonreuters.com/content/dam/ewp-m/images/legal/en/photography/photography/tr1897835-01a-16x9.jpg.transform/rect-768/q90/image.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | USA | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | USA | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/usa",
+            "displayLink": "iclg.com",
+            "snippet": "Fintech Laws and Regulations covering issues in USA of The Fintech ... there any regulation in your jurisdiction specifically directed at cryptocurrencies\u00a0...",
+            "htmlSnippet": "Fintech <b>Laws</b> and <b>Regulations</b> covering issues in USA of The Fintech ... there any <b>regulation</b> in your jurisdiction specifically directed at <b>cryptocurrencies</b>&nbsp;...",
+            "cacheId": "4tYYGcmbwRAJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/usa",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/usa",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDH8aoc-HEzU1e5p4vvS_-1GGvX9CxVSZ8iNsoymEe2S8_ug3XSBE8ePKg",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/9saNiys2OMb6ADltnwlZIRZWtwHa48LbuUwatGSN.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in USA of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/9saNiys2OMb6ADltnwlZIRZWtwHa48LbuUwatGSN.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "ViclTWzKxqQ5lhGe3yZzrezdR00uiS8iYtxPwEca",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | USA |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | USA |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | USA |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in USA of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/usa",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/9saNiys2OMb6ADltnwlZIRZWtwHa48LbuUwatGSN.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies and the fight against money laundering | Refinitiv ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> and the fight against money laundering | Refinitiv ...",
+            "link": "https://www.refinitiv.com/perspectives/financial-crime/cryptocurrencies-fight-money-laundering/",
+            "displayLink": "www.refinitiv.com",
+            "snippet": "Mar 12, 2018 ... Criminal networks are adept at exploiting loopholes in regulations, making the risk of cryptocurrency-related reputational fall-out very real.",
+            "htmlSnippet": "Mar 12, 2018 <b>...</b> Criminal networks are adept at exploiting loopholes in <b>regulations</b>, making the risk of <b>cryptocurrency</b>-related reputational fall-out very real.",
+            "cacheId": "EhDjaX5Ixr0J",
+            "formattedUrl": "https://www.refinitiv.com/.../cryptocurrencies-fight-money-laundering/",
+            "htmlFormattedUrl": "https://www.refinitiv.com/.../<b>cryptocurrencies</b>-fight-money-laundering/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVS34s41kyiKTVJLIOmdlD-zgfPQ0nWA2ZceMYoQezOMVBc4YwH0VlvEY",
+                        "width": "278",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg",
+                        "theme-color": "#828282",
+                        "article:published_time": "2018-03-12T11:57:11+00:00",
+                        "og:image:width": "800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Refinitiv Perspectives",
+                        "w-thumbnail-image": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018-768x432.jpg",
+                        "msapplication-tileimage": "https://www.refinitiv.com/perspectives/wp-content/themes/refinitiv-blog-theme-answerson/assets/media/tile.png",
+                        "og:description": "As cryptocurrencies such as Bitcoin gather momentum, how are RegTech solutions helping compliance teams tackle the risk of money laundering and fight back against financial crime?",
+                        "twitter:creator": "@refinitiv",
+                        "article:publisher": "https://www.facebook.com/refinitiv/",
+                        "og:image:secure_url": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg",
+                        "twitter:image": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg",
+                        "twitter:site": "@refinitiv",
+                        "article:modified_time": "2019-08-05T12:53:39+00:00",
+                        "msapplication-tilecolor": "#ff8000",
+                        "og:type": "article",
+                        "article:section": "Financial Crime",
+                        "twitter:title": "Cryptocurrencies and the fight against money laundering | Refinitiv Perspectives",
+                        "handheldfriendly": "True",
+                        "og:title": "Cryptocurrencies and the fight against money laundering | Refinitiv Perspectives",
+                        "og:image:height": "523",
+                        "og:updated_time": "2019-08-05T12:53:39+00:00",
+                        "article:tag": "AI & Machine Learning",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "As cryptocurrencies such as Bitcoin gather momentum, how are RegTech solutions helping compliance teams tackle the risk of money laundering and fight back against financial crime?",
+                        "mobileoptimized": "320",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.refinitiv.com/perspectives/financial-crime/cryptocurrencies-fight-money-laundering/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A Canadian mining startup's rush for underwater metals comes with ...",
+            "htmlTitle": "A Canadian mining startup&#39;s rush for underwater metals comes with ...",
+            "link": "https://financialpost.com/commodities/a-mining-startups-rush-for-underwater-metals-comes-with-deep-risks",
+            "displayLink": "financialpost.com",
+            "snippet": "Jun 23, 2021 ... These lightly regulated companies carry risks for investors. ... In an extraordinary display of DeepGreen's influence, Nauru broke UN\u00a0...",
+            "htmlSnippet": "Jun 23, 2021 <b>...</b> These lightly <b>regulated</b> companies carry risks for investors. ... In an extraordinary display of DeepGreen&#39;s influence, <b>Nauru</b> broke UN&nbsp;...",
+            "cacheId": "81mznqV8CeUJ",
+            "formattedUrl": "https://financialpost.com/.../a-mining-startups-rush-for-underwater-metals- comes-with-deep-risks",
+            "htmlFormattedUrl": "https://financialpost.com/.../a-mining-startups-rush-for-underwater-metals- comes-with-deep-risks",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTemon8g8SipNqGkizVmhuqXFUrvsGf7Dvu_VP2ZPhx15gSurj6GHQVcxi8",
+                        "width": "261",
+                        "height": "193"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/06/deepgreen1.jpg",
+                        "og:type": "article",
+                        "og:image:width": "740",
+                        "twitter:title": "A Canadian mining startup's rush for underwater metals comes with deep risks",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "financialpost",
+                        "og:title": "A Canadian mining startup's rush for underwater metals comes with deep risks",
+                        "og:image:height": "1000",
+                        "ia:markup_url": "https://financialpost.com/commodities/a-mining-startups-rush-for-underwater-metals-comes-with-deep-risks?ia_markup=1",
+                        "fb:pages": "168282878593",
+                        "article:publisher": "https://www.facebook.com/FinancialPost/",
+                        "twitter:image": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/06/deepgreen1.jpg",
+                        "fb:app_id": "144435319507370",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "vf:container_id": "fcf75e77-90e7-4589-b502-ec9ed41cab96"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/06/deepgreen1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fighting Ransomware: A Call for Cryptocurrency Regulation",
+            "htmlTitle": "Fighting Ransomware: A Call for <b>Cryptocurrency Regulation</b>",
+            "link": "https://www.bankinfosecurity.com/fighting-ransomware-call-for-cryptocurrency-regulation-a-16493",
+            "displayLink": "www.bankinfosecurity.com",
+            "snippet": "Apr 29, 2021 ... A coalition of government agencies and security firms has released a framework for how to disrupt ransomware attacks that calls for expanded\u00a0...",
+            "htmlSnippet": "Apr 29, 2021 <b>...</b> A coalition of government agencies and security firms has released a framework for how to disrupt ransomware attacks that calls for expanded&nbsp;...",
+            "cacheId": "NNtfoG2ONyQJ",
+            "formattedUrl": "https://www.bankinfosecurity.com/fighting-ransomware-call-for- cryptocurrency-regulation-a-16493",
+            "htmlFormattedUrl": "https://www.bankinfosecurity.com/fighting-ransomware-call-for- <b>cryptocurrency</b>-<b>regulation</b>-a-16493",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ614YbWl15RjGdGqGcayV6XFXJecGz3NuFuu_c_JWFNnH-aCjYqhQduxk",
+                        "width": "289",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/fighting-ransomware-call-for-cryptocurrency-regulation-showcase_image-5-a-16493.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Fighting Ransomware: A Call for Cryptocurrency Regulation",
+                        "og:title": "Fighting Ransomware: A Call for Cryptocurrency Regulation",
+                        "og:description": "A coalition of government agencies and security firms has released a framework for how to disrupt ransomware attacks that calls for expanded regulation of the",
+                        "twitter:creator": "@BnkInfoSecurity",
+                        "twitter:image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/fighting-ransomware-call-for-cryptocurrency-regulation-showcase_image-5-a-16493.jpg",
+                        "twitter:image:alt": "Fighting Ransomware: A Call for Cryptocurrency Regulation",
+                        "twitter:site": "@BnkInfoSecurity",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "assetid": "16493",
+                        "twitter:description": "A coalition of government agencies and security firms has released a framework for how to disrupt ransomware attacks that calls for expanded regulation of the",
+                        "category": "Governance & Risk Management > Business Continuity Management / Disaster Recovery,Fraud Management & Cybercrime,Fraud Management & Cybercrime > Fraud Risk Management,Governance & Risk Management,Governance & Risk Management > IT Risk Management,Fraud Management & Cybercrime > Ransomware",
+                        "og:url": "https://www.bankinfosecurity.com/fighting-ransomware-call-for-cryptocurrency-regulation-a-16493",
+                        "assettype": "article"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/fighting-ransomware-call-for-cryptocurrency-regulation-showcase_image-5-a-16493.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "2021 Trafficking in Persons Report - United States Department of State",
+            "htmlTitle": "2021 Trafficking in Persons Report - United States Department of State",
+            "link": "https://www.state.gov/reports/2021-trafficking-in-persons-report/",
+            "displayLink": "www.state.gov",
+            "snippet": "Cryptocurrency transactions, including those involving human trafficking, ... Enabling human trafficking survivors' participation in the regulated financial\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrency</b> transactions, including those involving human trafficking, ... Enabling human trafficking survivors&#39; participation in the <b>regulated</b> financial&nbsp;...",
+            "cacheId": "-v6AO9a7WAQJ",
+            "formattedUrl": "https://www.state.gov/reports/2021-trafficking-in-persons-report/",
+            "htmlFormattedUrl": "https://www.state.gov/reports/2021-trafficking-in-persons-report/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvDoJOXLZl08gEeMzX4iUMDrIlLMNfdTPmrBmbhYGwFHjQDFqsygWvhn8",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.state.gov/wp-content/uploads/2021/07/2021-TIP-Cover-FINAL-1-scaled-e1625160761827.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1939",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "United States Department of State",
+                        "og:title": "2021 Trafficking in Persons Report - United States Department of State",
+                        "og:image:height": "1939",
+                        "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-270x270.png",
+                        "msapplication-tap-highlight": "no",
+                        "article:modified_time": "2021-09-14T13:57:01+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.state.gov/reports/2021-trafficking-in-persons-report/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.state.gov/wp-content/uploads/2021/07/2021-TIP-Cover-FINAL-1-scaled-e1625160761827.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Environmental Investing Frenzy Stretches Meaning of 'Green' - WSJ",
+            "htmlTitle": "Environmental Investing Frenzy Stretches Meaning of &#39;Green&#39; - WSJ",
+            "link": "https://www.wsj.com/articles/environmental-investing-frenzy-stretches-meaning-of-green-11624554045",
+            "displayLink": "www.wsj.com",
+            "snippet": "Jun 24, 2021 ... One recipient is the niece of the Nauru official in charge of ... In a regulatory filing Wednesday, TMC added a new risk factor that warned\u00a0...",
+            "htmlSnippet": "Jun 24, 2021 <b>...</b> One recipient is the niece of the <b>Nauru</b> official in charge of ... In a <b>regulatory</b> filing Wednesday, TMC added a new risk factor that warned&nbsp;...",
+            "formattedUrl": "https://www.wsj.com/.../environmental-investing-frenzy-stretches-meaning-of -green-11624554045",
+            "htmlFormattedUrl": "https://www.wsj.com/.../environmental-investing-frenzy-stretches-meaning-of -green-11624554045",
+            "pagemap": {
+                "imageobject": [
+                    {
+                        "creator": "Photo: chris helgren/Reuters",
+                        "caption": "A polymetallic, or manganese, nodule displayed by TMC at a mining convention in Toronto in 2019. Photo: chris helgren/Reuters"
+                    },
+                    {
+                        "creator": "Photo: marten van dijl/greenpeace/Reuters",
+                        "caption": "Greenpeace activists display a banner reading \u2018Stop Deep Sea Mining\u2019 in April near the Maersk Launcher, a ship chartered by TMC. Photo: marten van dijl/greenpeace/Reuters"
+                    },
+                    {
+                        "creator": "Photo: Nigel Roddis/REUTERS",
+                        "caption": "A subsea mining machine being built for Nautilus Minerals in England in 2014. Photo: Nigel Roddis/REUTERS"
+                    },
+                    {
+                        "creator": "Photo: Sasha Maslov for The Wall Street Journal",
+                        "caption": "Mr. Barron\u2019s company hired a marketing firm that began promoting him as the Australian Elon Musk. Photo: Sasha Maslov for The Wall Street Journal"
+                    },
+                    {
+                        "creator": "Photo: Sandy Huffaker/DeepGreen Resources/Associated Press",
+                        "caption": "Then-Nauru President Baron Waqa, left, along with TMC\u2019s Gerard Barron, ISA President Michael Lodge, Maersk representative Jonas Agerskov and Nauruan politician Milton Dube tour the Maersk..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article.origheadline": "Environmental Investing Frenzy Stretches Meaning of \u2018Green\u2019",
+                        "twitter:card": "summary_large_image",
+                        "dj.asn": "i-0c67",
+                        "page.site.product": "WSJ",
+                        "hdl_p": "Eager Investors Stretch Meaning Of \u2018Green\u2019",
+                        "language": "en-US",
+                        "datelastpubbed": "2021-06-25T02:07:00.000Z",
+                        "article.access": "paid",
+                        "twitter:creator": "@eliotwb",
+                        "og:description": "A seabed miner is positioning itself as an ecological crusader with a planned $2.9 billion valuation, even as oceanographers warn of ruined habitats; \u201cI\u2019m doing it for the planet.\u201d",
+                        "twitter:image:alt": "Environmental Investing Frenzy Stretches Meaning of \u2018Green\u2019",
+                        "article.template": "full",
+                        "article.section": "Markets",
+                        "article:word_count": "2389",
+                        "article.created": "2021-06-24T17:00:00.000Z",
+                        "twitter:domain": "wsj.com",
+                        "author": "Justin Scheck, Eliot Brown and Ben Foldy",
+                        "article:video_count": "1",
+                        "fb:pages": "8304333127",
+                        "article:internal_link_count": "3",
+                        "page.site": "wsj",
+                        "page.content.type": "Article",
+                        "article_availability_flag": "METER",
+                        "article:image_count": "5",
+                        "article.id": "SB11469827668353884216304587517460300932668",
+                        "article.page": "Markets",
+                        "twitter:image": "https://images.wsj.net/im-358958/social",
+                        "article.updated": "2021-06-24T17:00:00.000Z",
+                        "article:embed_count": "3",
+                        "twitter:site": "@WSJ",
+                        "news_keywords": "photo-commission,leder,Motor Vehicles,Alternative Fuel Vehicles,Trusts/Funds/Financial Vehicles,Alternative Investments,Automotive,Basic Materials/Resources,Financial Services,Investing/Securities",
+                        "page.section": "Article",
+                        "article.type.display": "Markets",
+                        "page.region": "na,us",
+                        "article.summary": "A seabed miner is positioning itself as an ecological crusader with a planned $2.9 billion valuation, even as oceanographers warn of ruined habitats; \u201cI\u2019m doing it for the planet.\u201d",
+                        "twitter:title": "Environmental Investing Frenzy Stretches Meaning of \u2018Green\u2019",
+                        "servo-context": "servo:prod:virginia:article:wsj",
+                        "og:title": "Environmental Investing Frenzy Stretches Meaning of \u2018Green\u2019",
+                        "page.content.source": "WSJ Online",
+                        "article.emb": "video_emb",
+                        "fb:app_id": "368513495882",
+                        "article.published": "2021-06-24T17:00:00.000Z",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0",
+                        "user.exp": "google_bot",
+                        "twitter:description": "A seabed miner is positioning itself as an ecological crusader with a planned $2.9 billion valuation, even as oceanographers warn of ruined habitats; \u201cI\u2019m doing it for the planet.\u201d",
+                        "user.type": "nonsubscriber",
+                        "article.headline": "Environmental Investing Frenzy Stretches Meaning of \u2018Green\u2019",
+                        "branch:deeplink:target": "app",
+                        "article.type": "Markets Main",
+                        "article:external_link_count": "3"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://images.wsj.net/im-358958/social",
+                        "datemodified": "2021-06-24T17:00:00.000Z",
+                        "inlanguage": "en-US",
+                        "alternativeheadline": "Eager Investors Stretch Meaning Of \u2018Green\u2019",
+                        "description": "A seabed miner is positioning itself as an ecological crusader with a planned $2.9 billion valuation, even as oceanographers warn of ruined habitats; \u201cI\u2019m doing it for the planet.\u201d",
+                        "publisher": "wsj.com",
+                        "datecreated": "2021-06-24T17:00:00.000Z",
+                        "headline": "Environmental Investing Frenzy Stretches Meaning of \u2018Green\u2019",
+                        "datepublished": "2021-06-24T17:00:00.000Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "7 Unique Challenges in Cryptocurrency Risk Management",
+            "htmlTitle": "7 Unique Challenges in <b>Cryptocurrency</b> Risk Management",
+            "link": "https://www.garp.org/risk-intelligence/technology/7-unique-challenges-in-cryptocurrency-risk-management",
+            "displayLink": "www.garp.org",
+            "snippet": "Mar 19, 2021 ... Crypto risk managers must hurdle a variety of obstacles, ranging from insufficient data to inadequate regulation to liquidity, modeling,\u00a0...",
+            "htmlSnippet": "Mar 19, 2021 <b>...</b> Crypto risk managers must hurdle a variety of obstacles, ranging from insufficient data to inadequate <b>regulation</b> to liquidity, modeling,&nbsp;...",
+            "cacheId": "7IBT6-4NTbgJ",
+            "formattedUrl": "https://www.garp.org/.../7-unique-challenges-in-cryptocurrency-risk- management",
+            "htmlFormattedUrl": "https://www.garp.org/.../7-unique-challenges-in-<b>cryptocurrency</b>-risk- management",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGSnhomvY7rjTNd6AP2T-je0zt9qDNQJJTDjHD7nfCsrto-z28vDaKjxyV",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.garp.org/hubfs/Website/Imported_Blog_Media/a2r1W000000x3xBQAQ_7UniqueChallenges.jpg#keepProtocol",
+                        "twitter:title": "7 Unique Challenges in Cryptocurrency Risk Management",
+                        "og:image:width": "1400",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "twitter:domain": "www.garp.org",
+                        "og:title": "7 Unique Challenges in Cryptocurrency Risk Management",
+                        "og:image:height": "800",
+                        "og:description": "The increased institutional interest in investing in cryptocurrencies raises complex risk management considerations that are unique to this rapidly-emerging alternative asset class. Crypto risk managers must hurdle a variety of obstacles, ranging from insufficient data to inadequate regulation to liquidity, modeling, valuation and clearing and settlement complexities.",
+                        "twitter:image": "https://www.garp.org/hubfs/Website/Imported_Blog_Media/a2r1W000000x3xBQAQ_7UniqueChallenges.jpg#keepProtocol",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The increased institutional interest in investing in cryptocurrencies raises complex risk management considerations that are unique to this rapidly-emerging alternative asset class. Crypto risk managers must hurdle a variety of obstacles, ranging from insufficient data to inadequate regulation to liquidity, modeling, valuation and clearing and settlement complexities.",
+                        "og:url": "https://www.garp.org/risk-intelligence/technology/7-unique-challenges-in-cryptocurrency-risk-management"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.garp.org/hubfs/Website/China/Images/GARP-China-QR-code.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulating cryptocurrency needn't kill the Bitcoin buzz ...",
+            "htmlTitle": "Regulating <b>cryptocurrency</b> needn&#39;t kill the Bitcoin buzz ...",
+            "link": "https://usa.kaspersky.com/blog/secure-futures-magazine/cryptocurrency-regulation/23859/",
+            "displayLink": "usa.kaspersky.com",
+            "snippet": "As cryptocurrencies go mainstream, poor regulation makes it harder for crypto businesses to thrive. What's the answer?",
+            "htmlSnippet": "As <b>cryptocurrencies</b> go mainstream, poor <b>regulation</b> makes it harder for crypto businesses to thrive. What&#39;s the answer?",
+            "cacheId": "a8BwfpeTfbIJ",
+            "formattedUrl": "https://usa.kaspersky.com/blog/secure.../cryptocurrency-regulation/23859/",
+            "htmlFormattedUrl": "https://usa.kaspersky.com/blog/secure.../<b>cryptocurrency</b>-<b>regulation</b>/23859/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjkFHDbdQ9o13v6CCGZwTsdKz2Sjr22A84l-bz1Gax1JA2w2fyjhfX40PW",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2020/11/08030401/177_cryptocurrency_regulation-header.png",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulating cryptocurrency needn\u2019t kill the Bitcoin buzz",
+                        "og:title": "Regulating cryptocurrency needn\u2019t kill the Bitcoin buzz",
+                        "msapplication-tileimage": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2019/06/04074830/cropped-k-favicon-new-300x300.png",
+                        "og:description": "As cryptocurrencies go mainstream, poor regulation makes it harder for crypto businesses to thrive. What\u2019s the answer?",
+                        "twitter:creator": "@kaspersky",
+                        "fb:pages": "127187187348820",
+                        "twitter:image": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2020/11/08030401/177_cryptocurrency_regulation-header.png",
+                        "twitter:site": "@kaspersky",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "As cryptocurrencies go mainstream, poor regulation makes it harder for crypto businesses to thrive. What\u2019s the answer?",
+                        "og:url": "https://www.kaspersky.com/blog/secure-futures-magazine/cryptocurrency-regulation/37707/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2020/11/08030401/177_cryptocurrency_regulation-header.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

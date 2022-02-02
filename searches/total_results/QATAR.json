@@ -1,0 +1,545 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - QATAR",
+                "totalResults": "2320000",
+                "searchTerms": "QATAR",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - QATAR",
+                "totalResults": "2320000",
+                "searchTerms": "QATAR",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.386936,
+        "formattedSearchTime": "0.39",
+        "totalResults": "2320000",
+        "formattedTotalResults": "2,320,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Qatar bans cryptocurrencies after updating its AML laws | The FCPA ...",
+            "htmlTitle": "<b>Qatar</b> bans <b>cryptocurrencies</b> after updating its AML <b>laws</b> | The FCPA ...",
+            "link": "https://fcpablog.com/2020/02/12/qatar-bans-cryptocurrencies-after-updating-its-aml-laws/",
+            "displayLink": "fcpablog.com",
+            "snippet": "Feb 12, 2020 ... Qatar joined a number of countries across the globe that are implementing stricter laws to combat the illicit use of cryptocurrencies in\u00a0...",
+            "htmlSnippet": "Feb 12, 2020 <b>...</b> <b>Qatar</b> joined a number of countries across the globe that are implementing stricter <b>laws</b> to combat the illicit use of <b>cryptocurrencies</b> in&nbsp;...",
+            "cacheId": "lm_Z-7LRCFIJ",
+            "formattedUrl": "https://fcpablog.com/.../qatar-bans-cryptocurrencies-after-updating-its-aml- laws/",
+            "htmlFormattedUrl": "https://fcpablog.com/.../<b>qatar</b>-bans-<b>cryptocurrencies</b>-after-updating-its-aml- <b>laws</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewfB7ipnZrX4738iABluPpVRSh-hyX7kzgpLf4iTINPrLh_xSuX2G4Xx3",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "person": [
+                    {
+                        "image": "https://fcpablog.com/wp-content/uploads/2019/12/sofcpablogsdadsf4sadf4.png",
+                        "name": "Selva Ozelli",
+                        "description": "Selva Ozelli, Esq., CPA is an international tax attorney and CPA who frequently writes about tax, legal and accounting issues for Tax Notes, Bloomberg BNA, other publications and the OECD.",
+                        "url": "Selva Ozelli"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://fcpablog.com/wp-content/uploads/2020/02/FCPA-Logo-Thumbnail.png",
+                        "og:type": "article",
+                        "og:image:width": "500",
+                        "article:published_time": "2020-02-12T07:38:17",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Qatar bans cryptocurrencies after updating its AML laws | The FCPA Blog",
+                        "og:title": "Qatar bans cryptocurrencies after updating its AML laws | The FCPA Blog",
+                        "og:image:height": "500",
+                        "msapplication-tileimage": "https://fcpablog.com/wp-content/uploads/2019/10/cropped-Favicon-1-270x270.png",
+                        "og:description": "Qatar joined a number of countries across the globe that are implementing stricter laws to combat the illicit use of cryptocurrencies in terrorist financing and money laundering. In December the Qatar Central Bank adopted new regulations that focus on combating money laundering and terrorist fin ...",
+                        "article:author": "Selva Ozelli",
+                        "twitter:image": "https://fcpablog.com/wp-content/uploads/2020/02/FCPA-Logo-Thumbnail.png",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Qatar joined a number of countries across the globe that are implementing stricter laws to combat the illicit use of cryptocurrencies in terrorist financing and money laundering. In December the Qatar Central Bank adopted new regulations that focus on combating money laundering and terrorist fin ...",
+                        "og:url": "https://fcpablog.com/2020/02/12/qatar-bans-cryptocurrencies-after-updating-its-aml-laws/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "author": "Selva Ozelli",
+                        "about": "Post Tags: anti-money laundering, Australia, Bangladesh, China, cryptocurrency, Fintech, India, Malta, Pakistan, Qatar, Qatar Central Bank, Qatar Financial Centre, Qatar Financial Centre Regulatory...",
+                        "datepublished": "February 12, 2020"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fcpablog.com/wp-content/uploads/2020/02/FCPA-Logo-Thumbnail.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Qatar and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Qatar</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/qatar-2/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology ... On December 26th, 2020, the Qatar Financial Centre Regulatory Authority (\u00a0...",
+            "htmlSnippet": "<b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology ... On December 26th, 2020, the <b>Qatar</b> Financial Centre <b>Regulatory</b> Authority (&nbsp;...",
+            "cacheId": "TdibVZlxK5IJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/qatar-2/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>qatar</b>-2/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:30:58+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/qatar-2/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Qatar? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:40+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Qatar and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Qatar and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:55:40+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Qatar and Cryptocurrency Qatar Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology On December 26th, 2020, the Qatar Financial Centre Regulatory Authority (QFCRA) declared that all virtual asset services are banned in the Qatar Financial Centre...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/qatar-2/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "From Qatar to Palestine: How Cryptocurrencies Are Regulated in the ...",
+            "htmlTitle": "From <b>Qatar</b> to Palestine: How <b>Cryptocurrencies</b> Are <b>Regulated</b> in the ...",
+            "link": "https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 9, 2018 ... Cryptocurrencies are banned in Qatar. In February 2018, the Qatar Central Bank (QCB) published a statement sent to all banks operating in the\u00a0...",
+            "htmlSnippet": "Sep 9, 2018 <b>...</b> <b>Cryptocurrencies</b> are banned in <b>Qatar</b>. In February 2018, the <b>Qatar</b> Central Bank (QCB) published a statement sent to all banks operating in the&nbsp;...",
+            "formattedUrl": "https://cointelegraph.com/.../from-qatar-to-palestine-how-cryptocurrencies- are-regulated-in-the-middle-east",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../from-<b>qatar</b>-to-palestine-how-<b>cryptocurrencies</b>- are-<b>regulated</b>-in-the-middle-east",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1SUGe8S6CCz6kfcmaEgewED7o-40brBKfGFJO998_OmBM7eMCA3TylRk",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMjE5MzQwMTcwMmRlM2NiNGZmMjMwM2FjMjc1M2ZjMi5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "From Qatar to Palestine: How Cryptocurrencies Are Regulated in the Middle East",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "From Qatar to Palestine: How Cryptocurrencies Are Regulated in the Middle East",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The UAE\u2019s utopian blockchain plans, Palestine\u2019s national cryptocurrency plans and more.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMjE5MzQwMTcwMmRlM2NiNGZmMjMwM2FjMjc1M2ZjMi5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The UAE\u2019s utopian blockchain plans, Palestine\u2019s national cryptocurrency plans and more.",
+                        "og:url": "https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMjE5MzQwMTcwMmRlM2NiNGZmMjMwM2FjMjc1M2ZjMi5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The legal status of cryptocurrencies varies substantially from one jurisdiction to another, ... Additionally cryptocurrency is banned in the Qatar Financial Centre.",
+            "htmlSnippet": "The legal status of <b>cryptocurrencies</b> varies substantially from one jurisdiction to another, ... Additionally <b>cryptocurrency</b> is banned in the <b>Qatar</b> Financial Centre.",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Qatar wealth fund chief is waiting for cryptocurrencies to mature ...",
+            "htmlTitle": "<b>Qatar</b> wealth fund chief is waiting for <b>cryptocurrencies</b> to mature ...",
+            "link": "https://www.aljazeera.com/economy/2021/6/23/qatar-wealth-fund-chief-is-waiting-for-cryptocurrencies-to-mature",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Jun 23, 2021 ... Speculation around cryptocurrencies is keeping QIF from investing in them, QIA chief said at Qatar Economic Forum.",
+            "htmlSnippet": "Jun 23, 2021 <b>...</b> Speculation around <b>cryptocurrencies</b> is keeping QIF from investing in them, QIA chief said at <b>Qatar</b> Economic Forum.",
+            "cacheId": "5CY8Rh5elF0J",
+            "formattedUrl": "https://www.aljazeera.com/.../qatar-wealth-fund-chief-is-waiting-for- cryptocurrencies-to-mature",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>qatar</b>-wealth-fund-chief-is-waiting-for- <b>cryptocurrencies</b>-to-mature",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnom-JBlSAgQiWWV7UhqMES_QNcFq28Syi5kq5mJl37iUESoxKoWby_nD9",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/06/372696219.jpg?resize=1200%2C630",
+                        "pageauthors": "Matthew Martin and Francine Lacqua",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Qatar wealth fund chief is waiting for cryptocurrencies to mature",
+                        "taxonomy-tags": "Economy, News, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/economy/2021/6/23/qatar-wealth-fund-chief-is-waiting-for-cryptocurrencies-to-mature",
+                        "pagesection": "Economy,News,Business and Economy,Crypto",
+                        "og:title": "Qatar wealth fund chief is waiting for cryptocurrencies to mature",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2021/6/23/qatar-wealth-fund-chief-is-waiting-for-cryptocurrencies-to-mature",
+                        "source": "Bloomberg",
+                        "og:description": "Speculation around cryptocurrencies is keeping QIF from investing in them, QIA chief said at Qatar Economic Forum.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/06/372696219.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Qatar wealth fund chief is waiting for cryptocurrencies to mature",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "Speculation around cryptocurrencies is keeping QIF from investing in them, QIA chief said at Qatar Economic Forum.",
+                        "og:url": "https://www.aljazeera.com/economy/2021/6/23/qatar-wealth-fund-chief-is-waiting-for-cryptocurrencies-to-mature",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/06/372696219.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why Is Qatar Banning Crypto? | PYMNTS.com",
+            "htmlTitle": "Why Is <b>Qatar</b> Banning Crypto? | PYMNTS.com",
+            "link": "https://www.pymnts.com/cryptocurrency/2020/qatar-bans-crypto/",
+            "displayLink": "www.pymnts.com",
+            "snippet": "Jan 7, 2020 ... As was reported Monday (Jan. 6), the Middle Eastern country said through the Qatar Financial Centre Regulatory Authority (QFCRA) that crypto\u00a0...",
+            "htmlSnippet": "Jan 7, 2020 <b>...</b> As was reported Monday (Jan. 6), the Middle Eastern country said through the <b>Qatar</b> Financial Centre <b>Regulatory</b> Authority (QFCRA) that crypto&nbsp;...",
+            "cacheId": "bm1AJZWn_PsJ",
+            "formattedUrl": "https://www.pymnts.com/cryptocurrency/2020/qatar-bans-crypto/",
+            "htmlFormattedUrl": "https://www.pymnts.com/<b>cryptocurrency</b>/2020/<b>qatar</b>-bans-crypto/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbt3aHZNm-gR8eBsPG-9doVpkZVKHRWEEnnFiQbnm8K85zbl3_cr6ZrBf1",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://securecdn.pymnts.com/wp-content/uploads/2019/12/vechain-blockchain-theriksbank-bottlepay-bitcoin-1000x600.jpg",
+                        "article:published_time": "2020-01-07T12:00:19-05:00",
+                        "og:type": "article",
+                        "twitter:title": "Why Is Qatar Banning Crypto?",
+                        "twitter:card": "summary_large_image",
+                        "twitter:domain": "https://www.pymnts.com/",
+                        "msvalidate.01": "ED6511722D66805E697F4B337E96D89A",
+                        "og:title": "Why Is Qatar Banning Crypto?",
+                        "msapplication-tileimage": "https://securecdn.pymnts.com/wp-content/uploads/2019/04/cropped-512-1-270x270.jpg",
+                        "og:description": "For a country that is striving mightily to go digital when it comes to financial services, it's a bit curious that Qatar has put the brakes on cryptocurrencies.",
+                        "twitter:creator": "PYMNTS.com",
+                        "twitter:image": "https://securecdn.pymnts.com/wp-content/uploads/2019/12/vechain-blockchain-theriksbank-bottlepay-bitcoin-1000x600.jpg",
+                        "twitter:site": "PYMNTS.com",
+                        "article:modified_time": "2020-01-07T21:57:23-05:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes",
+                        "twitter:description": "For a country that is striving mightily to go digital when it comes to financial services, it's a bit curious that Qatar has put the brakes on cryptocurrencies.",
+                        "og:url": "https://www.pymnts.com/cryptocurrency/2020/qatar-bans-crypto/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://securecdn.pymnts.com/wp-content/uploads/2019/12/vechain-blockchain-theriksbank-bottlepay-bitcoin-1000x600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulating cryptocurrencies | Deloitte Qatar | ME PoV issue 25",
+            "htmlTitle": "Regulating <b>cryptocurrencies</b> | Deloitte <b>Qatar</b> | ME PoV issue 25",
+            "link": "https://www2.deloitte.com/qa/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Control: Cryptocurrencies present a bigger challenge to central banks and governments as they can potentially compete with fiat money (paper money considered as\u00a0...",
+            "htmlSnippet": "<b>Control</b>: <b>Cryptocurrencies</b> present a bigger challenge to central banks and governments as they can potentially compete with fiat money (paper money considered as&nbsp;...",
+            "cacheId": "VmleayJevYsJ",
+            "formattedUrl": "https://www2.deloitte.com/qa/en/pages/about.../cryptocurrencies.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/qa/en/pages/about.../<b>cryptocurrencies</b>.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulating cryptocurrencies | Deloitte Qatar | ME PoV issue 25",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "og:site_name": "Deloitte",
+                        "twitter:url": "https://www2.deloitte.com/qa/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html",
+                        "og:title": "Regulating cryptocurrencies | Deloitte Qatar | ME PoV issue 25",
+                        "og:description": "Virtual currency (VC) and digital currency are a new class of digital assets (money) that allow borderless transactions. The number and valuation of virtual currencies has risen to over 1,300 VCs with a total market capitalization of over US$465 billion as of December 2017 (Figure 1).",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@Deloitte",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Virtual currency (VC) and digital currency are a new class of digital assets (money) that allow borderless transactions. The number and valuation of virtual currencies has risen to over 1,300 VCs with a total market capitalization of over US$465 billion as of December 2017 (Figure 1).",
+                        "og:url": "https://www2.deloitte.com/qa/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has ... 23(1)(a)(ii), 112-A &. 112-B, https://perma.cc/GX8X-LX2P. Qatar.",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has ... 23(1)(a)(ii), 112-A &amp;. 112-B, https://perma.cc/GX8X-LX2P. <b>Qatar</b>.",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Qatar Bans All Cryptocurrency Activity, Security Tokens Still Allowed",
+            "htmlTitle": "<b>Qatar</b> Bans All <b>Cryptocurrency</b> Activity, Security Tokens Still Allowed",
+            "link": "https://tokenist.com/qatar-bans-all-cryptocurrency-activity-security-tokens-still-allowed/",
+            "displayLink": "tokenist.com",
+            "snippet": "May 24, 2021 ... According to a recent report, cryptocurrency activity has been banned throughout the Qatar Financial Centre. Crypto to crypto trades,\u00a0...",
+            "htmlSnippet": "May 24, 2021 <b>...</b> According to a recent report, <b>cryptocurrency</b> activity has been banned throughout the <b>Qatar</b> Financial Centre. Crypto to crypto trades,&nbsp;...",
+            "cacheId": "TkUB19pLjLQJ",
+            "formattedUrl": "https://tokenist.com/qatar-bans-all-cryptocurrency-activity-security-tokens- still-allowed/",
+            "htmlFormattedUrl": "https://tokenist.com/<b>qatar</b>-bans-all-<b>cryptocurrency</b>-activity-security-tokens- still-allowed/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66wN65wTNFPeTmmZxyW6tueGLPPQDwvIfwwhEd-UaKhKI6PICgH6hCes",
+                        "width": "284",
+                        "height": "177"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2020/01/Qatar-Financial-Centre.jpg",
+                        "fo-verify": "dbe93633-fd2c-4fb5-b7b0-f435e9686370",
+                        "og:type": "article",
+                        "article:published_time": "2020-01-07T20:03:06+00:00",
+                        "og:image:width": "800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Tokenist",
+                        "og:title": "Qatar Bans All Cryptocurrency Activity, Security Tokens Still Allowed",
+                        "og:image:height": "499",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2020/09/tokenist_logo.svg",
+                        "og:description": "According to a recent report, cryptocurrency activity has been banned throughout the Qatar Financial Centre. Crypto to crypto trades, crypto to fiat exchanges, and a number of other services are no longer legally permissible. Notably however, activity involving the digital form of securities \u2014 to include security tokens \u2014 remain unaffected. Cryptocurrencies Banned in Qatar [\u2026]",
+                        "twitter:creator": "@thetokenist",
+                        "twitter:data1": "Tim Fries",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@thetokenist",
+                        "article:modified_time": "2021-05-24T04:40:08+00:00",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "og:locale": "en_US",
+                        "og:url": "https://tokenist.com/qatar-bans-all-cryptocurrency-activity-security-tokens-still-allowed/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2020/01/Qatar-Financial-Centre.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Oct 21, 2021 ... Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation,\u00a0...",
+            "htmlSnippet": "Oct 21, 2021 <b>...</b> Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 covers government attitude and definition, <b>cryptocurrency regulation</b>, sales <b>regulation</b>,&nbsp;...",
+            "cacheId": "r9voBECz-nwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/.../blockchain-laws-and-regulations",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/.../blockchain-<b>laws</b>-and-<b>regulations</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "\u00a3 350.00",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSEXypzfKs7vsrQHQttOcTeIAqC3ci_4aH1FB3vfFjqi1S8iM2lYN3hcRu",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

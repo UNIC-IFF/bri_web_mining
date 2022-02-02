@@ -1,0 +1,24 @@
+Correlation Type,Set,Metric,Ground Truth,Correlation Score
+Spearman,Global,Score Ratio,Cryptocurrency Regulation Analysis 2022,0.148178
+,,Norm,Cryptocurrency Regulation Analysis 2022,0.320047
+,,SS_POW,Cryptocurrency Regulation Analysis 2022,-0.156139
+,,,,
+,EU,Score Ratio,Cryptocurrency Regulation Analysis 2022,-0.027557
+,,Norm,Cryptocurrency Regulation Analysis 2022,0.058788
+,,SS_POW,Cryptocurrency Regulation Analysis 2022,-0.084507
+,,,,
+,Hostile/Friendly,Score Ratio,Hostile/Friendly,0.915789
+,,Norm,Hostile/Friendly,0.105263
+,,SS_POW,Hostile/Friendly,0.445113
+,,,,
+Pearson,Global,Score Ratio,Cryptocurrency Regulation Analysis 2022,0.093849
+,,Norm,Cryptocurrency Regulation Analysis 2022,0.369933
+,,SS_POW,Cryptocurrency Regulation Analysis 2022,-0.133738
+,,,,
+,EU,Score Ratio,Cryptocurrency Regulation Analysis 2022,0.245091
+,,Norm,Cryptocurrency Regulation Analysis 2022,0.141768
+,,SS_POW,Cryptocurrency Regulation Analysis 2022,-0.059259
+,,,,
+,Hostile/Friendly,Score Ratio,Hostile/Friendly,0.864771
+,,Norm,Hostile/Friendly,-0.013856
+,,SS_POW,Hostile/Friendly,0.394305

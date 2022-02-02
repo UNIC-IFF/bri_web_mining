@@ -1,0 +1,570 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CAMBODIA",
+                "totalResults": "591000",
+                "searchTerms": "CAMBODIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CAMBODIA",
+                "totalResults": "591000",
+                "searchTerms": "CAMBODIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.506743,
+        "formattedSearchTime": "0.51",
+        "totalResults": "591000",
+        "formattedTotalResults": "591,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cambodia and Cryptocurrency | Digital Currency Laws - Freeman Law",
+            "htmlTitle": "<b>Cambodia</b> and <b>Cryptocurrency</b> | Digital Currency <b>Laws</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/cambodia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Digital Currencies Laws: Cryptocurrency, Bitcoins, Blockchain Technology ... Cambodia has announced that it will release a government-backed digital currency.",
+            "htmlSnippet": "Digital Currencies <b>Laws</b>: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology ... <b>Cambodia</b> has announced that it will release a government-backed digital currency.",
+            "cacheId": "VAWxj_D9-NsJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/cambodia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>cambodia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4C_r2iHjgao2z_POIuvHENI431ck0GNiEI-84U_da2YLIGHmdL8fgG8H",
+                        "width": "294",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Cambodia-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-12-13T14:18:25+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/cambodia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Cambodia? Freeman Law can help with digital currencies and tax compliance.\u00a0Schedule a Free Consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Cambodia-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Cambodia-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:26:39+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Cambodia cryptocurrency and Blockchain Technology",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Cambodia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Cambodia and Cryptocurrency",
+                        "og:image:height": "1498",
+                        "og:updated_time": "2022-01-09T18:26:39+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Cambodia and Cryptocurrency Cambodia Cryptocurrency Digital Currencies Laws: Cryptocurrency, Bitcoins, Blockchain Technology Cambodia has announced that it will release a government-backed digital currency. \u00a0Named \"Project Bakong,\" projects has been described as developing a \"blockchain-based,...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/cambodia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Cambodia-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Mainland Southeast Asia - Lexology",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in Mainland Southeast Asia - Lexology",
+            "link": "https://www.lexology.com/library/detail.aspx?g=33dabdac-5ee5-4fb3-af6f-9d7ea38b340f",
+            "displayLink": "www.lexology.com",
+            "snippet": "Sep 3, 2019 ... While there is no clear regulatory scheme in Cambodia for cryptocurrencies and cryptocurrency-related activities, a joint statement on\u00a0...",
+            "htmlSnippet": "Sep 3, 2019 <b>...</b> While there is no clear <b>regulatory</b> scheme in <b>Cambodia</b> for <b>cryptocurrencies</b> and <b>cryptocurrency</b>-related activities, a joint statement on&nbsp;...",
+            "cacheId": "zpxMVl4vL_kJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=33dabdac-5ee5-4fb3...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=33dabdac-5ee5-4fb3...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency Regulations in Mainland Southeast Asia",
+                        "workarea": "Banking",
+                        "jurisdiction": "Global",
+                        "dc.date": "2019-09-03",
+                        "firmname": "Tilleke & Gibbins",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=33dabdac-5ee5-4fb3-af6f-9d7ea38b340f",
+                        "og:description": "The rapid global proliferation of cryptocurrencies\u2014digital currencies using advanced cryptography (typically blockchain) to verify and secure\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Cambodia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Cambodia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cambodia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Cambodia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Cambodia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "WhFPqeTwIDwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/cambodia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>cambodia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Cambodia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Cambodia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Cambodia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Cambodia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cambodia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in ASEAN, East Asia, & America: To ...",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in ASEAN, East Asia, &amp; America: To ...",
+            "link": "https://go.gale.com/ps/i.do?id=GALE%7CA660000570&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15466981&p=AONE&sw=w",
+            "displayLink": "go.gale.com",
+            "snippet": "This note compares the current landscape of cryptocurrency regulations in Southeast Asia (ASEAN member states: Brunei, Cambodia, Indonesia, Laos, Malaysia,\u00a0...",
+            "htmlSnippet": "This note compares the current landscape of <b>cryptocurrency regulations</b> in Southeast Asia (ASEAN member states: Brunei, <b>Cambodia</b>, Indonesia, Laos, Malaysia,&nbsp;...",
+            "formattedUrl": "https://go.gale.com/ps/i.do?id...sid=googleScholar...",
+            "htmlFormattedUrl": "https://go.gale.com/ps/i.do?id...sid=googleScholar...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "citation_keywords": "Securities registration; Data security; Financial technology; Commodities; Cryptocurrencies; Initial public offerings; Right of privacy; Blockchains (Databases); Liberalism; United States; International; Southeast Asia; Association of Southeast Asian Nations",
+                        "citation_publication_date": "2021/01/01",
+                        "citation_title": "Cryptocurrency Regulations in ASEAN, East Asia, &amp; America: To Regulate or Not To Regulate.",
+                        "citation_publisher": "Washington University, School of Law",
+                        "citation_journal_title": "Washington University Global Studies Law Review",
+                        "citation_author": "Clark Sonksen",
+                        "citation_abstract_html_url": "https://go.gale.com/ps/i.do?p=AONE&sw=w&issn=15466981&v=2.1&it=r&id=GALE%7CA660000570&sid=googleScholar&linkaccess=abs",
+                        "omni-title": "Gale Academic OneFile - Document - Cryptocurrency Regulations in ASEAN, East Asia, & America: To Regulate or Not To Regulate.",
+                        "citation_issue": "1",
+                        "citation_firstpage": "171",
+                        "citation_issn": "15466981",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimal-ui",
+                        "galescholarmetadata": "crawlerUg=googlescholar, ug=googlescholar",
+                        "citation_language": "English",
+                        "citation_fulltext_html_url": "https://go.gale.com/ps/i.do?p=AONE&sw=w&issn=15466981&v=2.1&it=r&id=GALE%7CA660000570&sid=googleScholar&linkaccess=fulltext",
+                        "citation_volume": "20",
+                        "citation_lastpage": "200",
+                        "format-detection": "telephone=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "While this article provides the legal status of bitcoin, regulations and bans that apply to this cryptocurrency likely extend to similar systems as well.",
+            "htmlSnippet": "While this article provides the legal status of bitcoin, <b>regulations</b> and bans that apply to this <b>cryptocurrency</b> likely extend to similar systems as well.",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "DBS Bank opens crypto trading service to clients - Khmer Times",
+            "htmlTitle": "DBS Bank opens crypto trading service to clients - <b>Khmer</b> Times",
+            "link": "https://www.khmertimeskh.com/50857782/dbs-bank-opens-crypto-trading-service-to-clients/",
+            "displayLink": "www.khmertimeskh.com",
+            "snippet": "May 17, 2021 ... DBS Bank has started offering cryptocurrency services to its ... However, governments, including Cambodia's, have been slow to regulate the\u00a0...",
+            "htmlSnippet": "May 17, 2021 <b>...</b> DBS Bank has started offering <b>cryptocurrency</b> services to its ... However, governments, including <b>Cambodia&#39;s</b>, have been slow to <b>regulate</b> the&nbsp;...",
+            "cacheId": "X5G4CA6xd4YJ",
+            "formattedUrl": "https://www.khmertimeskh.com/.../dbs-bank-opens-crypto-trading-service-to- clients/",
+            "htmlFormattedUrl": "https://www.<b>khmer</b>timeskh.com/.../dbs-bank-opens-crypto-trading-service-to- clients/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS65yt4LbfzUxA7bxTtGWb8mUadYjfWjhWbxWf4PdDyeeE_qVYtWh-AdLc",
+                        "width": "293",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21167.jpg",
+                        "og:type": "article",
+                        "og:image:width": "750",
+                        "article:published_time": "2021-05-16T18:05:28+00:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "DBS Bank opens crypto trading service to clients - Khmer Times",
+                        "og:site_name": "Khmer Times - Insight into Cambodia",
+                        "twitter:domain": "www.khmertimeskh.com",
+                        "og:title": "DBS Bank opens crypto trading service to clients - Khmer Times",
+                        "og:image:height": "440",
+                        "msapplication-tileimage": "https://www.khmertimeskh.com/wp-content/uploads/cropped-Khmer-Times-Favicon-3-270x270.png",
+                        "og:description": "In a first for Asia, Singapore-based DBS Bank announced it would start allowing its private clients to invest in and trade cryptocurrencies with a trust service backed by the bank.",
+                        "twitter:creator": "@KhmerTimes",
+                        "og:image:secure_url": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21167.jpg",
+                        "article:publisher": "https://www.facebook.com/khmertimes",
+                        "twitter:image": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21167.jpg",
+                        "twitter:site": "@KhmerTimes",
+                        "article:modified_time": "2021-05-17T03:47:35+00:00",
+                        "viewport": "user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1",
+                        "twitter:description": "In a first for Asia, Singapore-based DBS Bank announced it would start allowing its private clients to invest in and trade cryptocurrencies with a trust service backed by the bank.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.khmertimeskh.com/50857782/dbs-bank-opens-crypto-trading-service-to-clients/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21167.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cambodia is leading the race to launch a centralised cryptocurrency",
+            "htmlTitle": "<b>Cambodia</b> is leading the race to launch a centralised <b>cryptocurrency</b>",
+            "link": "https://www.businessinsider.in/cryptocurrency/news/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency/articleshow/85065661.cms",
+            "displayLink": "www.businessinsider.in",
+            "snippet": "Aug 5, 2021 ... The respective central bank has no control over the dollar. American companies and businesses are best suited to take advantage, while the\u00a0...",
+            "htmlSnippet": "Aug 5, 2021 <b>...</b> The respective central bank has no <b>control</b> over the dollar. American companies and businesses are best suited to take advantage, while the&nbsp;...",
+            "cacheId": "oDOVDg9HOmsJ",
+            "formattedUrl": "https://www.businessinsider.in/cryptocurrency/.../cambodia...cryptocurrency/ .../85065661.cms",
+            "htmlFormattedUrl": "https://www.businessinsider.in/<b>cryptocurrency</b>/.../<b>cambodia</b>...<b>cryptocurrency</b>/ .../85065661.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxXoryhp21Un6gIlz3jfc2U1hMbnBi7aMvrL-q1_HinKUcATOcMLNHtL8f",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.businessinsider.in/photo/85065661/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency.jpg?imgsize=94034",
+                        "twitter:title": "Cambodia doesn\u2019t want to depend on the dollar anymore \u2014 and its centralised cryptocurrency already has 5.9 million users",
+                        "og:type": "article",
+                        "og:image:alt": "Cambodia doesn\u2019t want to depend on the dollar anymore \u2014 and its centralised cryptocurrency already has 5.9 million users",
+                        "website": "https://www.businessinsider.in",
+                        "og:site_name": "Business Insider",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://www.businessinsider.in/cryptocurrency/news/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency/articleshow/85065661.cms",
+                        "og:title": "Cambodia doesn\u2019t want to depend on the dollar anymore \u2014 and its centralised cryptocurrency already has 5.9 million users",
+                        "og:description": "Cambodia has embarked on an ambitious project to grow its CBDC called Bakong. The end goal is to reduce dependence on the US dollar. Bakong works seamlessly",
+                        "twitter:image": "https://www.businessinsider.in/photo/85065661/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency.jpg?imgsize=94034",
+                        "snapchat:sticker": "https://www.businessinsider.in/thumb/msid-85065661,width-1200,height-900,imgsize=94034/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency.jpg",
+                        "snapchat": "biindia",
+                        "twitter:image:alt": "Cambodia doesn\u2019t want to depend on the dollar anymore \u2014 and its centralised cryptocurrency already has 5.9 million users",
+                        "fb:app_id": "645465345465774",
+                        "news_keywords": "National Bank of Cambodia,cryptocurrency in india`,cryptocurrency,crypto in india,centralised cryptocurrency",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "Cambodia has embarked on an ambitious project to grow its CBDC called Bakong. The end goal is to reduce dependence on the US dollar. Bakong works seamlessly",
+                        "mobileoptimized": "320",
+                        "fb:admins": "556964827",
+                        "og:url": "https://www.businessinsider.in/cryptocurrency/news/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency/articleshow/85065661.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.in/photo/85065661/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency.jpg?imgsize=94034"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.in/cryptocurrency/news/cambodia-is-leading-the-race-to-launch-a-centralised-cryptocurrency/articleshow/85065661.cms",
+                        "name": "Cambodia doesn\u2019t want to depend on the dollar anymore \u2014 and its centralised cryptocurrency already has 5.9 million users",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central banks trying to box in cryptocurrencies - Khmer Times",
+            "htmlTitle": "Central banks trying to box in <b>cryptocurrencies</b> - <b>Khmer</b> Times",
+            "link": "https://www.khmertimeskh.com/50885427/central-banks-trying-to-box-in-cryptocurrencies/",
+            "displayLink": "www.khmertimeskh.com",
+            "snippet": "Jul 2, 2021 ... In Cambodia, where trading cryptocurrency is illegal, trading levels were too low to make the table, although some investors here are\u00a0...",
+            "htmlSnippet": "Jul 2, 2021 <b>...</b> In <b>Cambodia</b>, where trading <b>cryptocurrency</b> is illegal, trading levels were too low to make the table, although some investors here are&nbsp;...",
+            "cacheId": "CPfGS-wWBxAJ",
+            "formattedUrl": "https://www.khmertimeskh.com/.../central-banks-trying-to-box-in- cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.<b>khmer</b>timeskh.com/.../central-banks-trying-to-box-in- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfmsCxWO3aBZb6VA2N4cJBGiU8xmmiEWISzIBojeKEF5eo1kMasDjxbA",
+                        "width": "293",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21488.jpg",
+                        "og:type": "article",
+                        "og:image:width": "750",
+                        "article:published_time": "2021-07-01T18:01:37+00:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Central banks trying to box in cryptocurrencies - Khmer Times",
+                        "og:site_name": "Khmer Times - Insight into Cambodia",
+                        "og:title": "Central banks trying to box in cryptocurrencies - Khmer Times",
+                        "og:image:height": "440",
+                        "msapplication-tileimage": "https://www.khmertimeskh.com/wp-content/uploads/cropped-Khmer-Times-Favicon-3-270x270.png",
+                        "og:description": "As regulators take more steps to crack down on cryptocurrencies, many of the region\u2019s central banks are adopting blockchain technology to offer digital versions of their own currencies to steer investors away from trading in what many perceive to be a bubble.",
+                        "twitter:creator": "@KhmerTimes",
+                        "og:image:secure_url": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21488.jpg",
+                        "article:publisher": "https://www.facebook.com/khmertimes",
+                        "twitter:image": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21488.jpg",
+                        "twitter:site": "@KhmerTimes",
+                        "article:modified_time": "2021-07-02T01:04:12+00:00",
+                        "viewport": "user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1",
+                        "twitter:description": "As regulators take more steps to crack down on cryptocurrencies, many of the region\u2019s central banks are adopting blockchain technology to offer digital versions of their own currencies to steer investors away from trading in what many perceive to be a bubble.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.khmertimeskh.com/50885427/central-banks-trying-to-box-in-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/21488.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "License Needed for Crypto Trading, Circulation, and Settlement in ...",
+            "htmlTitle": "License Needed for Crypto Trading, Circulation, and Settlement in ...",
+            "link": "https://news.bitcoin.com/license-needed-for-crypto-trading-circulation-and-settlement-in-cambodia/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Jun 21, 2018 ... Three Cambodian government bodies have jointly announced that the ... trading, and settlement of cryptocurrencies without obtaining a\u00a0...",
+            "htmlSnippet": "Jun 21, 2018 <b>...</b> Three <b>Cambodian</b> government bodies have jointly announced that the ... trading, and settlement of <b>cryptocurrencies</b> without obtaining a&nbsp;...",
+            "cacheId": "74Z1qFCPDJgJ",
+            "formattedUrl": "https://news.bitcoin.com/license-needed-for-crypto-trading-circulation-and- settlement-in-cambodia/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/license-needed-for-crypto-trading-circulation-and- settlement-in-<b>cambodia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrzg8Oun1WKH_G-HAX5zfn48lef5c75ntEpyq2aifbbQzQDfyX8bR2ML1Q",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2018/06/cambodia-banner.png",
+                        "og:type": "article",
+                        "article:published_time": "2018-06-21T23:20:23+00:00",
+                        "og:image:width": "1600",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "License Needed for Crypto Trading, Circulation, and Settlement in Cambodia \u2013 Regulation Bitcoin News",
+                        "og:image:height": "1600",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Three Cambodian government bodies have jointly announced that the propagation, circulation, buying, selling, trading,\u00a0and settlement of cryptocurrencies without obtaining a license are illegal activities. The agencies have also outlined four main risks associated with crypto trading or investing.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2018-06-21T18:35:15+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/license-needed-for-crypto-trading-circulation-and-settlement-in-cambodia/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "License Needed for Crypto Trading, Circulation, and Settlement in Cambodia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2018/06/cambodia-banner.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cambodia, Malaysia and Kenya's Crypto Regulations Are Heating ...",
+            "htmlTitle": "<b>Cambodia</b>, Malaysia and Kenya&#39;s Crypto <b>Regulations</b> Are Heating ...",
+            "link": "https://www.coinfirm.com/blog/cambodia-malaysia-kenyas-crypto-regulations/",
+            "displayLink": "www.coinfirm.com",
+            "snippet": "Oct 29, 2020 ... Coinfirm is a global leader in AML and regulatory technology for blockchain and cryptocurrencies. It offers the industry's largest\u00a0...",
+            "htmlSnippet": "Oct 29, 2020 <b>...</b> Coinfirm is a global leader in AML and <b>regulatory</b> technology for blockchain and <b>cryptocurrencies</b>. It offers the industry&#39;s largest&nbsp;...",
+            "cacheId": "hUW0PgteyqIJ",
+            "formattedUrl": "https://www.coinfirm.com/.../cambodia-malaysia-kenyas-crypto-regulations/",
+            "htmlFormattedUrl": "https://www.coinfirm.com/.../<b>cambodia</b>-malaysia-kenyas-crypto-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKATNjg6Q2PfQGFnytGJjnKFWpVLu0FbUw3ouwt6CGCyYEt-eITIHIjM",
+                        "width": "361",
+                        "height": "140"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coinfirm.com/wp-content/uploads/2020/11/3_v3_low.jpg",
+                        "og:image:alt": "This Week in Crypto Compliance & Regulations | by Coinfirm",
+                        "og:image:width": "655",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Cambodia, Malaysia and Kenya\u2019s Crypto Regulations Are Heating Up",
+                        "og:article:modified_time": "2020-11-24 10:35:52",
+                        "author": "Sachin Dutta",
+                        "og:title": "Cambodia, Malaysia and Kenya\u2019s Crypto Regulations Are Heating Up",
+                        "og:image:height": "254",
+                        "og:article:published_time": "2020-10-29 10:08:00",
+                        "msapplication-tileimage": "https://www.coinfirm.com/wp-content/uploads/2020/09/coinfirmsvg-sd.svg",
+                        "og:description": "London, 30th October - Coinfirm has a look at crypto compliance regulations and blockchain policy changes by governments around the world. This week Cambodia, M",
+                        "twitter:image": "https://www.coinfirm.com/wp-content/uploads/2020/11/3_v3_low.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "London, 30th October - Coinfirm has a look at crypto compliance regulations and blockchain policy changes by governments around the world. This week Cambodia, M",
+                        "og:url": "https://www.coinfirm.com/blog/cambodia-malaysia-kenyas-crypto-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coinfirm.com/wp-content/uploads/2020/11/3_v3_low.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Blockchain Analytics",
+                        "url": "AML Platform"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Compliance Insights",
+                        "name": "Compliance Insights",
+                        "position": "2"
+                    }
+                ]
+            }
+        }
+    ]
+}

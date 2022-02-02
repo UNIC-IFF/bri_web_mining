@@ -1,0 +1,614 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - FRANCE",
+                "totalResults": "1400000",
+                "searchTerms": "FRANCE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - FRANCE",
+                "totalResults": "1400000",
+                "searchTerms": "FRANCE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.406465,
+        "formattedSearchTime": "0.41",
+        "totalResults": "1400000",
+        "formattedTotalResults": "1,400,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies require EU-wide regulation, says France ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> require EU-wide <b>regulation</b>, says <b>France</b> ...",
+            "link": "https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9",
+            "displayLink": "www.ft.com",
+            "snippet": "Jul 13, 2021 ... Cryptocurrencies require EU-wide regulation, says France ... Don't miss your essential guide to what matters in Europe today. Delivered every\u00a0...",
+            "htmlSnippet": "Jul 13, 2021 <b>...</b> <b>Cryptocurrencies</b> require EU-wide <b>regulation</b>, says <b>France</b> ... Don&#39;t miss your essential guide to what matters in Europe today. Delivered every&nbsp;...",
+            "formattedUrl": "https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9",
+            "htmlFormattedUrl": "https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThLPkn2TerLRVmmjVugoooexEYocgqew4k5wdru239QAjUrLjLIm8RymTS",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d1dce50-fc9b-4572-9ebf-1de75e2a95b0.jpg?source=next-opengraph&fit=scale-down&width=900",
+                        "apple-itunes-app": "app-id=1200842933, app-argument=https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-13T17:11:59.777Z",
+                        "og:title": "Cryptocurrencies require EU-wide regulation, says France",
+                        "fb:pages": "8860325749",
+                        "og:description": "AMF calls for more powers to be granted to EU\u2019s financial markets watchdog",
+                        "article:author": "Chris Flood",
+                        "twitter:site": "@FinancialTimes",
+                        "article:modified_time": "2021-07-13T17:11:59.777Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.ft.com/content/bffe222c-13b3-4f79-a232-d0b2c41aeeb9"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d1dce50-fc9b-4572-9ebf-1de75e2a95b0.jpg?source=next-opengraph&fit=scale-down&width=900"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations In France: Updated Guide (June 2021)",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> In <b>France</b>: Updated Guide (June 2021)",
+            "link": "https://sumsub.com/blog/crypto-france/",
+            "displayLink": "sumsub.com",
+            "snippet": "Jun 10, 2021 ... The new rules signal the biggest shift in crypto rules since France began regulating the sector in 2019. In particular, crypto-to-crypto firms\u00a0...",
+            "htmlSnippet": "Jun 10, 2021 <b>...</b> The new rules signal the biggest shift in crypto rules since <b>France</b> began <b>regulating the</b> sector in 2019. In particular, crypto-to-crypto firms&nbsp;...",
+            "cacheId": "8713aICD7i0J",
+            "formattedUrl": "https://sumsub.com/blog/crypto-france/",
+            "htmlFormattedUrl": "https://sumsub.com/blog/crypto-<b>france</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL4Td0_ne5-2T1zsM3oxkopMYEMG50wdXPyzz4bZB7S7KUbVwZ3rBBI5c",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://sumsub.com/wp-content/uploads/2021/06/soff-garavano-puw-YVu9Uh4rB8Q-unsplash.jpg",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#2d89ef",
+                        "og:site_name": "Sumsub",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "/mstile-144x144.png",
+                        "og:description": "France has tightened crypto regulations as of June 2021. In this guide, you'll learn about what\u2019s changed, and how your business can stay compliant.",
+                        "twitter:creator": "@Sumsubcom",
+                        "article:publisher": "https://www.facebook.com/sumsub/",
+                        "og:image:secure_url": "https://sumsub.com/wp-content/uploads/2021/06/soff-garavano-puw-YVu9Uh4rB8Q-unsplash.jpg",
+                        "twitter:image": "https://sumsub.com/wp-content/uploads/2021/06/soff-garavano-puw-YVu9Uh4rB8Q-unsplash.jpg",
+                        "twitter:site": "@Sumsubcom",
+                        "msapplication-tilecolor": "#2d89ef",
+                        "og:type": "article",
+                        "article:section": "Legal & Compliance",
+                        "og:image:alt": "France Tightens Cryptocurrency Regulations as of June 2021. Here\u2019s Our Guide to Staying Compliant",
+                        "twitter:title": "Cryptocurrency Regulations In France: Updated Guide (June 2021)",
+                        "og:title": "Cryptocurrency Regulations In France: Updated Guide (June 2021)",
+                        "og:image:height": "1280",
+                        "og:updated_time": "2022-01-18T08:29:12+00:00",
+                        "article:author": "https://www.facebook.com/sumsub/",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "twitter:description": "France has tightened crypto regulations as of June 2021. In this guide, you'll learn about what\u2019s changed, and how your business can stay compliant.",
+                        "og:locale": "en_US",
+                        "og:url": "https://sumsub.com/blog/crypto-france/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sumsub.com/wp-content/uploads/2021/06/soff-garavano-puw-YVu9Uh4rB8Q-unsplash.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "France to ask EU partners to adopt its cryptocurrency regulation ...",
+            "htmlTitle": "<b>France</b> to ask EU partners to adopt its <b>cryptocurrency regulation</b> ...",
+            "link": "https://www.reuters.com/article/us-france-cryptocurrencies/france-to-ask-eu-partners-to-adopt-its-cryptocurrency-regulation-idUSKCN1RR1Y0",
+            "displayLink": "www.reuters.com",
+            "snippet": "Apr 15, 2019 ... France will push for the European Union to adopt a regulatory framework on cryptocurrencies similar to the one it brought in last week at a\u00a0...",
+            "htmlSnippet": "Apr 15, 2019 <b>...</b> <b>France</b> will push for the European Union to adopt a <b>regulatory</b> framework on <b>cryptocurrencies</b> similar to the one it brought in last week at a&nbsp;...",
+            "cacheId": "klkbkfq7Gv8J",
+            "formattedUrl": "https://www.reuters.com/...france-cryptocurrencies/france-to-ask-eu-partners- to-adopt-its-cryptocurrency-regulation-idUSKCN1RR1Y0",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>france</b>-<b>cryptocurrencies</b>/<b>france</b>-to-ask-eu-partners- to-adopt-its-<b>cryptocurrency</b>-<b>regulation</b>-idUSKCN1RR1Y0",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLjtYIH3tLeUY1UX7xUjnR7UdPcwZBP-kC7I7oSsXdSsLLZVa4kjFX-tv",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20190415&t=2&i=1377254327&r=LYNXNPEF3E18J&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2019-04-15T18:05:38Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "technologyNews;US-The-Wire;rcom-eur-markets;bank-news;France-news;USWire_EL;everythingNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "France will push for the European Union to adopt a regulatory framework on cryptocurrencies similar to the one it brought in last week at a national level, becoming the first major country to do so, French Finance Minister Bruno Le Maire said on Monday.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2019-04-15T18:05:38Z",
+                        "og:article:section": "Banks",
+                        "analyticsattributes.articledate": "2019-04-15T18:05:38Z",
+                        "dcsext.dartzone": "reuters.com/business/finance/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "US,FRANCE,CRYPTOCURRENCIES,Banking & Investment Services (TRBC level 2),Blockchain,Fundamental Rights / Civil Liberties,Cryptocurrencies,Diplomacy / Foreign Policy,European Union,Europe,France,Currencies / Foreign Exchange Markets,Lawmaking,Pictures,Government / Politics,Picture Available,Corporate / Market Regulation,Financial Fraud / Securities Fraud,Western Europe",
+                        "og:article:published_time": "2019-04-15T18:07:00Z",
+                        "og:article:tag": "US,FRANCE,CRYPTOCURRENCIES,Banking & Investment Services (TRBC level 2),Blockchain,Fundamental Rights / Civil Liberties,Cryptocurrencies,Diplomacy / Foreign Policy,European Union,Europe,France,Currencies / Foreign Exchange Markets,Lawmaking,Pictures,Government / Politics,Picture Available,Corporate / Market Regulation,Financial Fraud / Securities Fraud,Western Europe",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20190415&t=2&i=1377254327&r=LYNXNPEF3E18J&w=800",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20190415&t=2&i=1377254327&r=LYNXNPEF3E18J&w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "France to ask EU partners to adopt its cryptocurrency regulation",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "BISV,BLKCHN,CIV,CRYCUR,DIP,EU,EUROP,FR,FRX,LAW,MTPIX,POL,PXP,REGS,SCAM1,WEU",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20190415&t=2&i=1377254327&r=LYNXNPEF3E18J&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;FRANCE;CRYPTOCURRENCIES;Banking & Investment Services (TRBC level 2);Blockchain;Fundamental Rights / Civil Liberties;Cryptocurrencies;Diplomacy / Foreign Policy;European Union;Europe;France;Currencies / Foreign Exchange Markets;Lawmaking;Pictures;Government / Politics;Picture Available;Corporate / Market Regulation;Financial Fraud / Securities Fraud;Western Europe",
+                        "sailthru.title": "France to ask EU partners to adopt its cryptocurrency regulation",
+                        "analyticsattributes.contenttitle": "France to ask EU partners to adopt its cryptocurrency regulation",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-france-cryptocurrencies-idUSKCN1RR1Y0",
+                        "analyticsattributes.channel": "News",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2019-04-15T18:05:38Z",
+                        "og:type": "article",
+                        "twitter:title": "France to ask EU partners to adopt its cryptocurrency regulation",
+                        "og:title": "France to ask EU partners to adopt its cryptocurrency regulation",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-FRANCE-CRYPTOCURRENCIES",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "Business - Finance",
+                        "sailthru.description": "France will push for the European Union to adopt a regulatory framework on cryptocurrencies similar to the one it brought in last week at a national level, becoming the first major country to do so, French Finance Minister Bruno Le Maire said on Monday.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "France will push for the European Union to adopt a regulatory framework on cryptocurrencies similar to the one it brought in last week at a national level, becoming the first major country to do so, French Finance Minister Bruno Le Maire said on Monday.",
+                        "analyticsattributes.topicn2names": "Banking & Investment Services (TRBC level 2),Blockchain,Fundamental Rights / Civil Liberties,Cryptocurrencies,Diplomacy / Foreign Policy,European Union,Europe,France,Currencies / Foreign Exchange Markets,Lawmaking,Pictures,Government / Politics,Picture Available,Corporate / Market Regulation,Financial Fraud / Securities Fraud,Western Europe",
+                        "og:url": "https://www.reuters.com/article/us-france-cryptocurrencies-idUSKCN1RR1Y0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20190415&t=2&i=1377254327&r=LYNXNPEF3E18J&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | France | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>France</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/france",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "There are currently no border restrictions or requirements to declare cryptocurrency holdings when entering France. From a tax point of view, the exit tax\u00a0...",
+            "htmlSnippet": "There are currently no border restrictions or requirements to declare <b>cryptocurrency</b> holdings when entering <b>France</b>. From a tax point of view, the exit tax&nbsp;...",
+            "cacheId": "EZn0mPj7WD8J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/france",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>france</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the France chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRCWSMEBpLL9Y-ocQKJ0R-XNTRyQHYurYmGELBRPRCp6flEIWQ2xuQJPhQ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "William O\u2019Rorke",
+                        "url": "William O\u2019Rorke"
+                    },
+                    {
+                        "name": "Alexandre Lourimi",
+                        "url": "Alexandre Lourimi"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/Mx8DkwG1C8U3zdzAXvyBwrI3pXrE4HMolh2q46XL.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - France chapter written by William O\u2019Rorke - ORWL Avocats and Alexandre Lourimi - ORWL Avocats covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | France | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - France chapter written by William O\u2019Rorke - ORWL Avocats and Alexandre Lourimi - ORWL Avocats covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | France | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/france"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/Mx8DkwG1C8U3zdzAXvyBwrI3pXrE4HMolh2q46XL.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: France",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>France</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/france",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... Cryptocurrencies were left out of the scope of the French regulation of anti-money laundering and combating the financing of terrorism (AML/CFT)\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> <b>Cryptocurrencies</b> were left out of the scope of the French <b>regulation</b> of anti-money laundering and combating the financing of terrorism (AML/CFT)&nbsp;...",
+            "cacheId": "KTq6HPNGkskJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../france",
+            "htmlFormattedUrl": "https://the<b>law</b>reviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>france</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "a1pdRiMFI1AxzKXacb2mzK1LBUPFf3WJKgBTcNN6"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "France Eyes Strict Rules For Crypto Transactions | PYMNTS.com",
+            "htmlTitle": "<b>France</b> Eyes Strict Rules For Crypto Transactions | PYMNTS.com",
+            "link": "https://www.pymnts.com/blockchain/bitcoin/2020/bitcoin-daily-france-eyes-strict-rules-crypto-transactions-messari-report-says-united-states-last-hurdle/",
+            "displayLink": "www.pymnts.com",
+            "snippet": "Dec 8, 2020 ... France could propose stricter regulations on cryptocurrency firms, requiring full know-your-customer (KYC) measures for all crypto\u00a0...",
+            "htmlSnippet": "Dec 8, 2020 <b>...</b> <b>France</b> could propose stricter <b>regulations</b> on <b>cryptocurrency</b> firms, requiring full know-your-customer (KYC) measures for all crypto&nbsp;...",
+            "cacheId": "JtTgGWgEtHUJ",
+            "formattedUrl": "https://www.pymnts.com/.../bitcoin-daily-france-eyes-strict-rules-crypto- transactions-messari-report-says-united-states-last-hurdle/",
+            "htmlFormattedUrl": "https://www.pymnts.com/.../bitcoin-daily-<b>france</b>-eyes-strict-rules-crypto- transactions-messari-report-says-united-states-last-hurdle/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9rMGETUkEg2WjYBr_KQUBb0qOlWRqIIFXDFZbmHQHjsA-dDvFElvE7g",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/bitcoin-stock-regulations-1000x600.jpg",
+                        "article:published_time": "2020-12-08T21:42:53-05:00",
+                        "og:type": "article",
+                        "twitter:title": "France Eyes Strict Rules For Crypto Transactions",
+                        "twitter:card": "summary_large_image",
+                        "twitter:domain": "https://www.pymnts.com/",
+                        "msvalidate.01": "ED6511722D66805E697F4B337E96D89A",
+                        "og:title": "France Eyes Strict Rules For Crypto Transactions",
+                        "msapplication-tileimage": "https://securecdn.pymnts.com/wp-content/uploads/2019/04/cropped-512-1-270x270.jpg",
+                        "og:description": "France could propose stricter regulations on cryptocurrency firms, requiring full know-your-customer (KYC) measures for all crypto transactions.",
+                        "twitter:creator": "PYMNTS.com",
+                        "twitter:image": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/bitcoin-stock-regulations-1000x600.jpg",
+                        "twitter:site": "PYMNTS.com",
+                        "article:modified_time": "2020-12-08T21:42:53-05:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes",
+                        "twitter:description": "France could propose stricter regulations on cryptocurrency firms, requiring full know-your-customer (KYC) measures for all crypto transactions.",
+                        "og:url": "https://www.pymnts.com/blockchain/bitcoin/2020/bitcoin-daily-france-eyes-strict-rules-crypto-transactions-messari-report-says-united-states-last-hurdle/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/bitcoin-stock-regulations-1000x600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "France Approves New Cryptocurrency Measures to Fight ...",
+            "htmlTitle": "<b>France</b> Approves New <b>Cryptocurrency</b> Measures to Fight ...",
+            "link": "https://news.bitcoin.com/france-new-cryptocurrency-measures-fight-anonymous-transactions/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Dec 13, 2020 ... The French council of ministers has approved a series of new measures to combat the anonymity of cryptocurrency transactions.",
+            "htmlSnippet": "Dec 13, 2020 <b>...</b> The French council of ministers has approved a series of new measures to combat the anonymity of <b>cryptocurrency</b> transactions.",
+            "cacheId": "wNPadzR1RbAJ",
+            "formattedUrl": "https://news.bitcoin.com/france-new-cryptocurrency-measures-fight- anonymous-transactions/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>france</b>-new-<b>cryptocurrency</b>-measures-fight- anonymous-transactions/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxJrNr97Fzhb2aL_QayKJwfPbDw3aFg0v19dbpDLgFO0CpdrZT8sP85dM",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2019/09/9f61IS88-france-surveillance.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-12-14T03:30:34+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "France Approves New Cryptocurrency Measures to Fight Anonymous Transactions \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The French council of ministers has approved a series of new measures to combat the anonymity of cryptocurrency transactions. Anonymous accounts are banned at crypto exchanges which must now impose stricter know-your-customer requirements. France's Finance Minister Bruno Le Maire says the changes are necessary to fight against terrorism financing.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2020-12-14T04:13:15+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/france-new-cryptocurrency-measures-fight-anonymous-transactions/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "France Approves New Cryptocurrency Measures to Fight Anonymous Transactions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2019/09/9f61IS88-france-surveillance.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "France is grappling with how to tax cryptocurrencies such as Bitcoin ...",
+            "htmlTitle": "<b>France</b> is grappling with how to tax <b>cryptocurrencies</b> such as Bitcoin ...",
+            "link": "https://www.euronews.com/next/2021/10/14/france-is-grappling-with-how-to-tax-cryptocurrencies-such-as-bitcoin",
+            "displayLink": "www.euronews.com",
+            "snippet": "Oct 14, 2021 ... How are cryptos currently regulated in France? ... In France, cryptocurrency is taxed in the same way that movable property is taxed. For\u00a0...",
+            "htmlSnippet": "Oct 14, 2021 <b>...</b> How are cryptos currently <b>regulated</b> in <b>France</b>? ... In <b>France</b>, <b>cryptocurrency</b> is taxed in the same way that movable property is taxed. For&nbsp;...",
+            "cacheId": "b8yrSfuDgIUJ",
+            "formattedUrl": "https://www.euronews.com/.../france-is-grappling-with-how-to-tax- cryptocurrencies-such-as-bitcoin",
+            "htmlFormattedUrl": "https://www.euronews.com/.../<b>france</b>-is-grappling-with-how-to-tax- <b>cryptocurrencies</b>-such-as-bitcoin",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/06/14/62/66/1000x563_cmsv2_54c91d3d-0ce3-5297-bd8a-200b6275c207-6146266.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2021-10-14 17:05:26",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "One young French politician is pushing to relax rules on taxing cryptos but others fear there are not enough investors to be worthwhile.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"france\",\"bitcoin\",\"cryptocurrency\",\"digital-economy\",\"money\",\"tax\"],\"nws_id\":\"1698210\",\"nwsctr_id\":\"6146266\",\"themes\":\"money,business\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "France is grappling with how to tax cryptocurrencies such as Bitcoin",
+                        "article:modified_time": "2021-10-14 17:05:30",
+                        "article:theme": "money",
+                        "og:image:alt": "France is grappling with how to tax cryptocurrencies such as Bitcoin",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2021-10-14 17:05:30",
+                        "fb:pages": "101402598109",
+                        "article:author": "Pascale Davies",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2021-10-14 17:05:30",
+                        "date.created": "2021-10-14 17:05:26",
+                        "eventid": "1698210",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "France,Bitcoin,cryptocurrency,Digital Economy,money,Tax",
+                        "storyid": "6146266",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "Is France about to relax its rules on cryptocurrencies?",
+                        "article:vertical": "next",
+                        "og:title": "Is France about to relax its rules on cryptocurrencies?",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "One young French politician is pushing to relax rules on taxing cryptos but others fear there are not enough investors to be worthwhile.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2021-10-14 17:05:26",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2021/10/14/france-is-grappling-with-how-to-tax-cryptocurrencies-such-as-bitcoin",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/06/14/62/66/1000x563_cmsv2_54c91d3d-0ce3-5297-bd8a-200b6275c207-6146266.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency exchange Binance is trying to woo France",
+            "htmlTitle": "<b>Cryptocurrency</b> exchange Binance is trying to woo <b>France</b>",
+            "link": "https://www.cnbc.com/2021/12/30/cryptocurrency-exchange-binance-is-trying-to-woo-france.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Dec 30, 2021 ... Crypto giant Binance is bolstering its presence in France after a choppy year of regulatory scrutiny.",
+            "htmlSnippet": "Dec 30, 2021 <b>...</b> Crypto giant Binance is bolstering its presence in <b>France</b> after a choppy year of <b>regulatory</b> scrutiny.",
+            "cacheId": "l2i-28iIj44J",
+            "formattedUrl": "https://www.cnbc.com/.../cryptocurrency-exchange-binance-is-trying-to-woo -france.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../<b>cryptocurrency</b>-exchange-binance-is-trying-to-woo -<b>france</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dehMDtGyQRLHJV1oaSMavxZCxuvUWGOXQddpi97ZzCtLPIULcAEzdAE",
+                        "width": "273",
+                        "height": "185"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106926762-16288633672021-08-13t133131z_1473603159_rc2d4p9j5el7_rtrmadp_0_fintech-blockchain-court.jpeg?v=1628863395",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-12-30T07:04:26+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/12/30/cryptocurrency-exchange-binance-is-trying-to-woo-france.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Crypto giant Binance is bolstering its presence in France after a choppy year of regulatory scrutiny.",
+                        "twitter:creator": "@CNBC",
+                        "parsely-metadata": "{\"nodeid\":106992064,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106926762-16288633672021-08-13t133131z_1473603159_rc2d4p9j5el7_rtrmadp_0_fintech-blockchain-court.jpeg?v=1628863395\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106992064",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-12-30T08:13:04+0000",
+                        "news_keywords": "World Markets,Technology,France,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "The world's largest crypto exchange Binance is trying to woo France",
+                        "article:section": "Technology",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Jonathan Keane",
+                        "og:title": "The world's largest crypto exchange Binance is trying to woo France",
+                        "article:author": "Jonathan Keane",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106926762-16288633672021-08-13t133131z_1473603159_rc2d4p9j5el7_rtrmadp_0_fintech-blockchain-court.jpeg?v=1628863395",
+                        "article:tag": "World Markets",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Crypto giant Binance is bolstering its presence in France after a choppy year of regulatory scrutiny.",
+                        "og:url": "https://www.cnbc.com/2021/12/30/cryptocurrency-exchange-binance-is-trying-to-woo-france.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106926762-16288633672021-08-13t133131z_1473603159_rc2d4p9j5el7_rtrmadp_0_fintech-blockchain-court.jpeg?v=1628863395"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "'We don't have much time left' to regulate crypto, says Bank of ...",
+            "htmlTitle": "&#39;We don&#39;t have much time left&#39; to <b>regulate</b> crypto, says Bank of ...",
+            "link": "https://cointelegraph.com/news/we-don-t-have-much-time-left-to-regulate-crypto-says-bank-of-france-governor",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jun 29, 2021 ... According to Bank of France governor Francois Villeroy de Galhau, ... in which to establish a regulatory framework for cryptocurrencies.",
+            "htmlSnippet": "Jun 29, 2021 <b>...</b> According to Bank of <b>France</b> governor Francois Villeroy de Galhau, ... in which to establish a <b>regulatory</b> framework for <b>cryptocurrencies</b>.",
+            "cacheId": "ptot5wqN4XYJ",
+            "formattedUrl": "https://cointelegraph.com/.../we-don-t-have-much-time-left-to-regulate- crypto-says-bank-of-france-governor",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../we-don-t-have-much-time-left-to-<b>regulate</b>- crypto-says-bank-of-<b>france</b>-governor",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-xrcqGRq5l7PzP9Cxdbvi3gJy_9WuRzGJodTMWtC0ht-xYH5-7ejxU0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMTc1OWQwYTk1YzBmZDRlNTdkZjUxNWY0MjkyMDhiMS5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "'We don't have much time left' to regulate crypto, says Bank of France governor",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "'We don't have much time left' to regulate crypto, says Bank of France governor",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "According to Bank of France governor Francois Villeroy de Galhau, should the EU not establish a regulatory framework for crypto, it would risk its monetary sovereignty.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMTc1OWQwYTk1YzBmZDRlNTdkZjUxNWY0MjkyMDhiMS5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "According to Bank of France governor Francois Villeroy de Galhau, should the EU not establish a regulatory framework for crypto, it would risk its monetary sovereignty.",
+                        "og:url": "https://cointelegraph.com/news/we-don-t-have-much-time-left-to-regulate-crypto-says-bank-of-france-governor"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMTc1OWQwYTk1YzBmZDRlNTdkZjUxNWY0MjkyMDhiMS5qcGc=.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

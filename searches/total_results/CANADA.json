@@ -1,0 +1,533 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CANADA",
+                "totalResults": "3880000",
+                "searchTerms": "CANADA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CANADA",
+                "totalResults": "3880000",
+                "searchTerms": "CANADA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.306337,
+        "formattedSearchTime": "0.31",
+        "totalResults": "3880000",
+        "formattedTotalResults": "3,880,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Canadian Securities Regulations For Cryptocurrency Businesses ...",
+            "htmlTitle": "<b>Canadian</b> Securities <b>Regulations</b> For <b>Cryptocurrency</b> Businesses ...",
+            "link": "https://www.sia-partners.com/en/news-and-publications/from-our-experts/canadian-securities-regulations-cryptocurrency-businesses",
+            "displayLink": "www.sia-partners.com",
+            "snippet": "Oct 14, 2021 ... Canada primarily regulates cryptocurrencies under securities laws, which are enacted on a provincial and territorial basis. Unlike most\u00a0...",
+            "htmlSnippet": "Oct 14, 2021 <b>...</b> <b>Canada</b> primarily regulates <b>cryptocurrencies</b> under securities <b>laws</b>, which are enacted on a provincial and territorial basis. Unlike most&nbsp;...",
+            "cacheId": "cYzgkiW4l-wJ",
+            "formattedUrl": "https://www.sia-partners.com/.../canadian-securities-regulations- cryptocurrency-businesses",
+            "htmlFormattedUrl": "https://www.sia-partners.com/.../<b>canadian</b>-securities-<b>regulations</b>- <b>cryptocurrency</b>-businesses",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo1SJl9Iud-yh-mHRymOmQxAt15YXOUS9dpDfFjjAdJEsbqYhp8pq1aeku",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.sia-partners.com/sites/default/files/article/cover_picture/2021-10/iStock-1056226168.jpg",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Canadian Securities Regulations For Cryptocurrency Businesses",
+                        "mobileoptimized": "width",
+                        "language": "en-US",
+                        "title": "Canadian Securities Regulations For Cryptocurrency Businesses - Sia Partners",
+                        "og:url": "https://www.sia-partners.com/en/news-and-publications/from-our-experts/canadian-securities-regulations-cryptocurrency-businesses",
+                        "og:description": "Cryptocurrencies are booming around the world. This article, part one in a mini-series, analyzes Canadian legislation for cryptocurrency businesses, focusing on securities laws and regulations.",
+                        "content-language": "en-US"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.sia-partners.com/sites/default/files/article/cover_picture/2021-10/iStock-1056226168.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Canada | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Canada</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/canada",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "In Canada, cryptocurrencies are regulated primarily under securities laws as part of the securities regulators mandate to protect the public. 3. Sales\u00a0...",
+            "htmlSnippet": "In <b>Canada</b>, <b>cryptocurrencies</b> are regulated primarily under securities <b>laws</b> as part of the securities regulators mandate to protect the public. 3. Sales&nbsp;...",
+            "cacheId": "sXevpXLQbnYJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/canada",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>canada</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Canada chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXP10qT5e6jYWnrsGt4JVSevNAGN84mdQc-FK2cYdiVhDjKdqkGZkRncA",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Simon Grant",
+                        "url": "Simon Grant"
+                    },
+                    {
+                        "name": "Kwang Lim",
+                        "url": "Kwang Lim"
+                    },
+                    {
+                        "name": "Matthew Peters",
+                        "url": "Matthew Peters"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/WdW0HpebHOodbl93oKfXGwuI7unH7D6yIHjJamVE.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Canada chapter written by Simon Grant - Bennett Jones LLP and Kwang Lim - Bennett Jones LLP and Matthew Peters - Bennett Jones LLP covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Canada | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Canada chapter written by Simon Grant - Bennett Jones LLP and Kwang Lim - Bennett Jones LLP and Matthew Peters - Bennett Jones LLP covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Canada | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/canada"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/WdW0HpebHOodbl93oKfXGwuI7unH7D6yIHjJamVE.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations Around the World",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> Around the World",
+            "link": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world-5202122",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Sep 21, 2021 ... Furthermore, Canada classifies crypto investment firms as money service businesses (MSBs) and requires that they register with the Financial\u00a0...",
+            "htmlSnippet": "Sep 21, 2021 <b>...</b> Furthermore, <b>Canada</b> classifies crypto investment firms as money service businesses (MSBs) and requires that they register with the Financial&nbsp;...",
+            "cacheId": "CVikzs0sutsJ",
+            "formattedUrl": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world- 5202122",
+            "htmlFormattedUrl": "https://www.investopedia.com/<b>cryptocurrency</b>-<b>regulations</b>-around-the-world- 5202122",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwPKtzH3IpGB57Q6zstezN5YI78HWFt5Tl4Z0X9kslmgOBZxrjuX1_PE1F",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/BYFr8De8fW33eF9Cf7qJEkHbA2o=/1000x667/filters:fill(auto,1)/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/1.204.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "investing,cryptocurrency",
+                        "og:site_name": "Investopedia",
+                        "emailt1": "Investing",
+                        "msapplication-wide310x150logo": "/static/1.204.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/1.204.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "Cryptocurrencies continue to gain traction with investors around the world. Explore how leading countries are regulating the emerging asset class.",
+                        "twitter:image": "https://www.investopedia.com/thmb/BYFr8De8fW33eF9Cf7qJEkHbA2o=/1000x667/filters:fill(auto,1)/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/1.204.0/icons/favicons/mstile-310x310.png",
+                        "sailthru.title": "Cryptocurrency Regulations Around the World",
+                        "emailcontenttype": "STRUCTUREDCONTENT",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "sailthru.date": "2021-10-13T04:48:06.767Z",
+                        "og:type": "article",
+                        "twitter:title": "Cryptocurrency Regulations Around the World",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "Cryptocurrency Regulations Around the World",
+                        "msapplication-square150x150logo": "/static/1.204.0/icons/favicons/mstile-150x150.png",
+                        "sailthru.image.thumb": "https://www.investopedia.com/thmb/ISKOlwnqqSWvKV_mqJtDud_Jd04=/255x165/filters:no_upscale()/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg",
+                        "fb:app_id": "659054097907801",
+                        "emailtickers": "BTCUSD,COIN",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Cryptocurrencies continue to gain traction with investors around the world. Explore how leading countries are regulating the emerging asset class.",
+                        "og:url": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world-5202122",
+                        "sailthru.author": "Timothy Smith"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/BYFr8De8fW33eF9Cf7qJEkHbA2o=/1000x667/filters:fill(auto,1)/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations - Canada - ComplyAdvantage",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> - <b>Canada</b> - ComplyAdvantage",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-canada/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Jul 4, 2018 ... Cryptocurrencies are not legal tender in Canada but can be used to buy goods and services online or in stores that accept them. Canada has been\u00a0...",
+            "htmlSnippet": "Jul 4, 2018 <b>...</b> <b>Cryptocurrencies</b> are not legal tender in <b>Canada</b> but can be used to buy goods and services online or in stores that accept them. <b>Canada</b> has been&nbsp;...",
+            "cacheId": "3cFPBd98-mUJ",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations- canada/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>- <b>canada</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX-sakLiUyb2DsGQ2f9LNoROoWV09E7tJqzFRUFEs1ZDAa7j1IxwQbfVw",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/07/3.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in Canada",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in Canada",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "Cryptocurrency Regulations in Canada is not yet legal tender, but the exchange of cryptocurrency is legal, depending on the state.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "2 minutes",
+                        "parsely-tags": "cryptocurrency regulations canadacrypto regulations canadacryptocurrency exchange regulations canada",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T16:01:19+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-canada/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/07/3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Guide for cryptocurrency users and tax professionals - Canada.ca",
+            "htmlTitle": "Guide for <b>cryptocurrency</b> users and tax professionals - <b>Canada</b>.ca",
+            "link": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/digital-currency/cryptocurrency-guide.html",
+            "displayLink": "www.canada.ca",
+            "snippet": "Jun 26, 2021 ... The CRA generally treats cryptocurrency like a commodity for purposes of the Income Tax Act. Any income from transactions involving\u00a0...",
+            "htmlSnippet": "Jun 26, 2021 <b>...</b> The CRA generally treats <b>cryptocurrency</b> like a commodity for purposes of the Income Tax Act. Any income from transactions involving&nbsp;...",
+            "cacheId": "9kBWFodFUTkJ",
+            "formattedUrl": "https://www.canada.ca/en/revenue...canada.../cryptocurrency-guide.html",
+            "htmlFormattedUrl": "https://www.<b>canada</b>.ca/en/revenue...<b>canada</b>.../<b>cryptocurrency</b>-guide.html",
+            "pagemap": {
+                "WebPage": [
+                    {
+                        "breadcrumb": "You are here: Canada.ca Canada Revenue Agency Compliance Virtual Currency",
+                        "alternate": "Switch to basic HTML version"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "areaserved": "Canada",
+                        "dcterms.language": "eng",
+                        "author": "Canada Revenue Agency",
+                        "dcterms.spatial": "Canada",
+                        "dcterms.title": "Guide for cryptocurrency users and tax professionals",
+                        "dcterms.creator": "Canada Revenue Agency",
+                        "dcterms.description": "Cryptocurrency is a relatively new innovation that requires guidelines on taxation so that Canadians are aware of how to meet their tax obligations.",
+                        "dcterms.subject": "EC Economics and Industry;Taxes",
+                        "dcterms.issued": "2021-06-26",
+                        "fb:pages": "378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 2307986770",
+                        "dcterms.modified": "2021-06-26",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dcterms.audience": "general public",
+                        "name": "Government of Canada",
+                        "dcterms.identifier": "Canada_Revenue_Agency"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gary Gensler, You Should Be Watching How Canada Is Regulating ...",
+            "htmlTitle": "Gary Gensler, You Should Be Watching How <b>Canada</b> Is <b>Regulating</b> ...",
+            "link": "https://www.coindesk.com/policy/2021/09/27/gary-gensler-you-should-be-watching-how-canada-is-regulating-coinbase/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Sep 27, 2021 ... Up north in Canada, all is quiet. The debate over whether cryptocurrency exchanges need to register with Canada's version of the SEC has already\u00a0...",
+            "htmlSnippet": "Sep 27, 2021 <b>...</b> Up north in <b>Canada</b>, all is quiet. The debate over whether <b>cryptocurrency</b> exchanges need to register with <b>Canada&#39;s</b> version of the SEC has already&nbsp;...",
+            "cacheId": "bJYJY2K08OYJ",
+            "formattedUrl": "https://www.coindesk.com/.../gary-gensler-you-should-be-watching-how- canada-is-regulating-coinbase/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../gary-gensler-you-should-be-watching-how- <b>canada</b>-is-<b>regulating</b>-coinbase/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuEpNC1Gp5euljS67gZ5PyREc9ue4-9vZXQKIO6l31tC-BXVRzVIIQBrI",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/VtxlWZw_mSD1vbYTZkbJ-jk8GEo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HPJEMYIBRRAZXB5CIF36XZWLU4.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-27T14:40:44.925Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Gary Gensler, You Should Be Watching How Canada Is Regulating Coinbase",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Gary Gensler, You Should Be Watching How Canada Is Regulating Coinbase",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "In Canada, there\u2019s no question whether crypto exchanges offer securities and if they should be regulated as such, says our (Canadian) columnist.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "JP Koning",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/Qa-QOti1yeQK9zQL01v1SZ7mlvI=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HPJEMYIBRRAZXB5CIF36XZWLU4.jpg",
+                        "article:tag": "Canada, Gary Gensler, SEC, Coinbase, Exchange Fees, Opinion",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-09-27T14:40:44.925Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "In Canada, there\u2019s no question whether crypto exchanges offer securities and if they should be regulated as such, says our (Canadian) columnist.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/09/27/gary-gensler-you-should-be-watching-how-canada-is-regulating-coinbase/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/VtxlWZw_mSD1vbYTZkbJ-jk8GEo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HPJEMYIBRRAZXB5CIF36XZWLU4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto in Canada: Where are we today, and where are we heading?",
+            "htmlTitle": "Crypto in <b>Canada</b>: Where are we today, and where are we heading?",
+            "link": "https://cointelegraph.com/news/crypto-in-canada-where-are-we-today-and-where-are-we-heading",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jun 26, 2021 ... The Canada Revenue Agency has characterized cryptocurrency as a commodity and stated that the use of cryptocurrency to pay for goods or services\u00a0...",
+            "htmlSnippet": "Jun 26, 2021 <b>...</b> The <b>Canada</b> Revenue Agency has characterized <b>cryptocurrency</b> as a commodity and stated that the use of <b>cryptocurrency</b> to pay for goods or services&nbsp;...",
+            "cacheId": "sM7t17EEpL8J",
+            "formattedUrl": "https://cointelegraph.com/.../crypto-in-canada-where-are-we-today-and- where-are-we-heading",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../crypto-in-<b>canada</b>-where-are-we-today-and- where-are-we-heading",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk8qeHirsTb_tkzaV69S9zRAacPrSIyCoPeHcYirfHrojykOpkfTF-kkdd",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZDg4NDFhYTMtNGIwOC00YTdmLWIwNDUtMjE5NGVhZTM0MThlLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto in Canada: Where are we today, and where are we heading?",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Crypto in Canada: Where are we today, and where are we heading?",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "A deep dive into the regulatory landscape of crypto, mining and blockchain businesses in Canada.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZDg4NDFhYTMtNGIwOC00YTdmLWIwNDUtMjE5NGVhZTM0MThlLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A deep dive into the regulatory landscape of crypto, mining and blockchain businesses in Canada.",
+                        "og:url": "https://cointelegraph.com/news/crypto-in-canada-where-are-we-today-and-where-are-we-heading"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZDg4NDFhYTMtNGIwOC00YTdmLWIwNDUtMjE5NGVhZTM0MThlLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... The regulatory regime surrounding cryptocurrencies is ... crypto trading platforms and dealers in Canada to register with.",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> The <b>regulatory</b> regime surrounding <b>cryptocurrencies</b> is ... crypto trading platforms and dealers in <b>Canada</b> to register with.",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency in Canada",
+            "htmlTitle": "<b>Cryptocurrency</b> in <b>Canada</b>",
+            "link": "https://www.goodmans.ca/files/file/docs/Cryptocurrency%20in%20Canada%20published%2005%2022%2018.pdf",
+            "displayLink": "www.goodmans.ca",
+            "snippet": "It focuses on the application of Canadian securities laws to initial coin offerings (ICOs). Other Canadian regulatory aspects of cryptocurrency and important\u00a0...",
+            "htmlSnippet": "It focuses on the application of <b>Canadian</b> securities <b>laws</b> to initial coin offerings (ICOs). Other <b>Canadian regulatory</b> aspects of <b>cryptocurrency</b> and important&nbsp;...",
+            "cacheId": "ZyHS3dkSIakJ",
+            "formattedUrl": "https://www.goodmans.ca/.../ Cryptocurrency%20in%20Canada%20published%2005%2022%2018.pdf",
+            "htmlFormattedUrl": "https://www.goodmans.ca/.../ <b>Cryptocurrency</b>%20in%20<b>Canada</b>%20published%2005%2022%2018.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYNFQfwmSrK8DIX4QevCv5QP0OVaz4upp73xSpTVIEpqNd5wxEL6IveIY",
+                        "width": "272",
+                        "height": "185"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180522150058-04'00'",
+                        "creationdate": "D:20180522135642-05'00'",
+                        "creator": "Apache FOP Version 1.0",
+                        "producer": "Apache FOP Version 1.0",
+                        "pdfversion": "1.4"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///630410cdf0e5bbce1a7619b379f093c7b8f42b9d5768441a30fc399dec337976"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Anti-money laundering rules in Canada for cryptocurrency dealers",
+            "htmlTitle": "Anti-money laundering rules in <b>Canada</b> for <b>cryptocurrency</b> dealers",
+            "link": "https://www.osler.com/en/resources/regulations/2019/anti-money-laundering-rules-for-cryptocurrency-dealers-finalized-by-canadian-government",
+            "displayLink": "www.osler.com",
+            "snippet": "Jul 12, 2019 ... The Canadian Department of Finance published amendments to regulations made under the Proceeds of Crime (Money Laundering) and Terrorist\u00a0...",
+            "htmlSnippet": "Jul 12, 2019 <b>...</b> The <b>Canadian</b> Department of Finance published amendments to <b>regulations</b> made under the Proceeds of Crime (Money Laundering) and Terrorist&nbsp;...",
+            "cacheId": "ikoOm-GeSaAJ",
+            "formattedUrl": "https://www.osler.com/.../regulations/.../anti-money-laundering-rules-for- cryptocurrency-dealers-finalized-by-canadian-government",
+            "htmlFormattedUrl": "https://www.osler.com/.../<b>regulations</b>/.../anti-money-laundering-rules-for- <b>cryptocurrency</b>-dealers-finalized-by-<b>canadian</b>-government",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDeX3qrEyA-dy65GmRt9jRQw1cteO31YXQXW6orK-34DL5RVkvevYYEmg",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "ahrefs-site-verification": "728957ac2e88676ffff5012a596390996cc905189133a23f4bf207b11b7c2c22",
+                        "og:image": "https://www.osler.com/osler/media/Osler/Content/Images/logo-200x200.jpg?ext=.jpg",
+                        "og:type": "website",
+                        "og:site_name": "Osler, Hoskin & Harcourt LLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "msvalidate.01": "BDAF78A3E66B9B7F4A3AF1120F6AD137",
+                        "search:description": "The Canadian Department of Finance published amendments to regulations made under the\u00a0Proceeds of Crime (Money Laundering) and Terrorist Financing Act 2019\u00a0(PCMLTFA), which will become effective on June 1, 2020.",
+                        "og:title": "Anti-money laundering rules for cryptocurrency dealers finalized by Canadian government",
+                        "search:title": "Anti-money laundering rules for cryptocurrency dealers finalized by Canadian government",
+                        "og:url": "http://www.osler.com/en/resources/regulations/2019/anti-money-laundering-rules-for-cryptocurrency-dealers-finalized-by-canadian-government",
+                        "og:description": "The Canadian Department of Finance published amendments to regulations made under the\u00a0Proceeds of Crime (Money Laundering) and Terrorist Financing Act 2019\u00a0(PCMLTFA), which will become effective on June 1, 2020."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.osler.com/osler/media/Osler/Content/Images/logo-200x200.jpg?ext=.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

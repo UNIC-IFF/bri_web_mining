@@ -1,0 +1,661 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CHINA",
+                "totalResults": "10300000",
+                "searchTerms": "CHINA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CHINA",
+                "totalResults": "10300000",
+                "searchTerms": "CHINA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.373286,
+        "formattedSearchTime": "0.37",
+        "totalResults": "10300000",
+        "formattedTotalResults": "10,300,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Will China's Ban Hurt Cryptocurrencies? - Knowledge@Wharton",
+            "htmlTitle": "Will <b>China&#39;s</b> Ban Hurt <b>Cryptocurrencies</b>? - Knowledge@Wharton",
+            "link": "https://knowledge.wharton.upenn.edu/article/will-chinas-regulation-kill-cryptocurrencies/",
+            "displayLink": "knowledge.wharton.upenn.edu",
+            "snippet": "Oct 5, 2021 ... Kevin Werbach: It was not surprising at all. China has been strictly regulating and limiting cryptocurrency activity for a number of years. In\u00a0...",
+            "htmlSnippet": "Oct 5, 2021 <b>...</b> Kevin Werbach: It was not surprising at all. <b>China</b> has been strictly regulating and limiting <b>cryptocurrency</b> activity for a number of years. In&nbsp;...",
+            "cacheId": "4jHt4kbzHBYJ",
+            "formattedUrl": "https://knowledge.wharton.upenn.edu/.../will-chinas-regulation-kill- cryptocurrencies/",
+            "htmlFormattedUrl": "https://knowledge.wharton.upenn.edu/.../will-<b>chinas</b>-<b>regulation</b>-kill- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6Aaz4BcjY6G09MnoZTdZu4gHZAQgpmZKrz_J-PijlZv3c4x-8Beb7y9c",
+                        "width": "343",
+                        "height": "147"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#000",
+                        "og:image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2021/10/cryptocurrencies.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Will China\u2019s Ban Hurt Cryptocurrencies?",
+                        "og:type": "article",
+                        "article:section": "Featured",
+                        "og:image:width": "1024",
+                        "og:site_name": "Knowledge@Wharton",
+                        "handheldfriendly": "True",
+                        "og:title": "Will China's Ban Hurt Cryptocurrencies? - Knowledge@Wharton",
+                        "og:image:height": "440",
+                        "twitter:creator": "@WhartonKnows",
+                        "og:description": "In the wake of China\u2019s ban on the use of cryptocurrencies, Wharton\u2019s Kevin Werbach shares insights on the regulatory and other forces that will shape their future.",
+                        "twitter:image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2021/10/cryptocurrencies.jpg",
+                        "article:publisher": "https://www.facebook.com/knowledgeatwharton",
+                        "fb:app_id": "708284481",
+                        "twitter:site": "@WhartonKnows",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "news_keywords": "business, education",
+                        "twitter:description": "In the wake of China\u2019s ban on the use of cryptocurrencies, Wharton\u2019s Kevin Werbach shares insights on the regulatory and other forces that will shape their future.",
+                        "mobileoptimized": "320",
+                        "og:locale": "en_US",
+                        "og:url": "https://knowledge.wharton.upenn.edu/article/will-chinas-regulation-kill-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2021/10/cryptocurrencies.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China Makes Cryptocurrency Illegal : NPR",
+            "htmlTitle": "<b>China</b> Makes <b>Cryptocurrency</b> Illegal : NPR",
+            "link": "https://www.npr.org/2021/09/25/1040669103/china-makes-cryptocurrency-illegal",
+            "displayLink": "www.npr.org",
+            "snippet": "Sep 25, 2021 ... China announced a ban on cryptocurrency transactions, the latest in a series of crackdowns on virtual money that comes as countries around\u00a0...",
+            "htmlSnippet": "Sep 25, 2021 <b>...</b> <b>China</b> announced a ban on <b>cryptocurrency</b> transactions, the latest in a series of crackdowns on virtual money that comes as countries around&nbsp;...",
+            "formattedUrl": "https://www.npr.org/2021/09/25/.../china-makes-cryptocurrency-illegal",
+            "htmlFormattedUrl": "https://www.npr.org/2021/09/25/.../<b>china</b>-makes-<b>cryptocurrency</b>-illegal",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROsSxq168h9gTMIy5cbHOp0MOOmIXxeo1XHzXfP8lTQnrksRgBUy_eBXfk",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": "[data-is-speakable]"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-09-25",
+                        "og:image": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "China Makes Cryptocurrency Illegal",
+                        "og:site_name": "NPR.org",
+                        "twitter:domain": "npr.org",
+                        "og:title": "China Makes Cryptocurrency Illegal",
+                        "rating": "General",
+                        "og:description": "China announced a ban on cryptocurrency transactions, the latest in a series of crackdowns on virtual money that comes as countries around the world are considering tougher regulations of their own.",
+                        "fb:pages": "10643211755",
+                        "fb:app_id": "138837436154588",
+                        "twitter:site": "@NPR",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "article:content_tier": "free",
+                        "og:url": "https://www.npr.org/2021/09/25/1040669103/china-makes-cryptocurrency-illegal",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's top regulators ban crypto trading and mining, sending ...",
+            "htmlTitle": "<b>China&#39;s</b> top regulators ban crypto trading and mining, sending ...",
+            "link": "https://www.reuters.com/world/china/china-central-bank-vows-crackdown-cryptocurrency-trading-2021-09-24/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Sep 24, 2021 ... The People's Bank of China (PBOC) said cryptocurrencies must not circulate and that overseas exchanges are barred from providing services to\u00a0...",
+            "htmlSnippet": "Sep 24, 2021 <b>...</b> The People&#39;s Bank of <b>China</b> (PBOC) said <b>cryptocurrencies</b> must not circulate and that overseas exchanges are barred from providing services to&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../china/china-central-bank-vows-crackdown- cryptocurrency-trading-2021-09-24/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>china</b>/<b>china</b>-central-bank-vows-crackdown- <b>cryptocurrency</b>-trading-2021-09-24/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5zgt4IUJlO-f6FMNivFhKu5gFQXRdJOiaDdxqNOoUZoe-DBDRrH6onINF",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/WXc6YF-xAChDPm7yJgH0mmMf-FE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P2SOMSA3X5KD5II5O2CWSVYD74.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-09-24T17:49:35Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "World",
+                        "og:description": "China's most powerful regulators on Friday intensified a crackdown on cryptocurrencies with a blanket ban on all crypto transactions and mining, hitting bitcoin and other major coins and pressuring crypto and blockchain-related stocks.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/WXc6YF-xAChDPm7yJgH0mmMf-FE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P2SOMSA3X5KD5II5O2CWSVYD74.jpg",
+                        "twitter:image:alt": "A small toy figure and representations of the virtual currency Bitcoin stand on a motherboard in this picture illustration taken May 20, 2021. REUTERS/Dado Ruvic/Illustration",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-09-27T20:05:14.933Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "China",
+                        "twitter:title": "China's top regulators ban crypto trading and mining, sending bitcoin tumbling",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/business/futureofmoney/article",
+                        "og:title": "China's top regulators ban crypto trading and mining, sending bitcoin tumbling",
+                        "dcsext.channellist": "World;Technology;US Markets;Currencies;European Markets",
+                        "og:article:published_time": "2021-09-24T17:49:35Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Alun John,Samuel Shen,Tom Wilson",
+                        "article:tag": "EF:BUSINESS-FUTURE-OF-MONEY,BACT,CEN,CLJ,CRIM,CRYCUR,FIN,FINS,FINS08,FRX,GEN,PBOC,POL,REGS,EASIA,ASXPAC,EMRG,CN,ASIA,TOPNWS,BISV,BISV08,BNKS,BSVC,CURINT,DIP,MCE,NEWS1,TOPCMB,BLKCC,CMPNY,COFS,COFS1,CRYPMN,FTECH,TECH,TECH08,TMT,CEEU,WEU,AMERS,US,EUROP,EZC,NAMER,DE,VCRIM,INSETR,ITSE,ITSE08,NETSV,SWIT,ECON,M:EZ",
+                        "analyticsattributes.topicsubchannel": "China",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "China's most powerful regulators on Friday intensified a crackdown on cryptocurrencies with a blanket ban on all crypto transactions and mining, hitting bitcoin and other major coins and pressuring crypto and blockchain-related stocks.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/world/china/china-central-bank-vows-crackdown-cryptocurrency-trading-2021-09-24/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/WXc6YF-xAChDPm7yJgH0mmMf-FE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P2SOMSA3X5KD5II5O2CWSVYD74.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's Bitcoin Ban Is a Lesson in Crypto Regulation for Central ...",
+            "htmlTitle": "<b>China&#39;s</b> Bitcoin Ban Is a Lesson in Crypto <b>Regulation</b> for Central ...",
+            "link": "https://www.barrons.com/articles/chinas-bitcoin-ban-crypto-regulation-central-banks-51634242888",
+            "displayLink": "www.barrons.com",
+            "snippet": "Oct 15, 2021 ... The latest move is much broader. All domestic cryptocurrency transactions are now prohibited. In principle, such transactions can be conducted\u00a0...",
+            "htmlSnippet": "Oct 15, 2021 <b>...</b> The latest move is much broader. All domestic <b>cryptocurrency</b> transactions are now prohibited. In principle, such transactions can be conducted&nbsp;...",
+            "formattedUrl": "https://www.barrons.com/.../chinas-bitcoin-ban-crypto-regulation-central- banks-51634242888",
+            "htmlFormattedUrl": "https://www.barrons.com/.../<b>chinas</b>-bitcoin-ban-crypto-<b>regulation</b>-central- banks-51634242888",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOC866aMZa9gt43jDgVSgV75L7Q5vHbLo7drQRzI8idhgORp7gIZ1_6JrV",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "creator": "Illustration by Matt Chase",
+                        "caption": "Illustration by Matt Chase"
+                    }
+                ],
+                "organization": [
+                    {
+                        "logo": "https://asset.barrons.com/dj-mg/uploader/barronsLogoSEO-01.png",
+                        "url": "Barron's"
+                    },
+                    {
+                        "url": "https://www.barrons.com/",
+                        "sameas": "https://www.facebook.com/barrons?mod=hp_FOOTER"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article.origheadline": "China Has Good Reason to Fear Bitcoin",
+                        "og:image": "https://images.barrons.com/im-412741/social",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "1280",
+                        "dj.asn": "i-0d18",
+                        "page.site.product": "BOL",
+                        "language": "en-US",
+                        "datelastpubbed": "2021-10-15T09:00:00.000Z",
+                        "article.access": "freeforever",
+                        "og:description": "Beijing is banning Bitcoin because it could destabilize China\u2019s financial system. But blockchain technology and digital currencies could have broader benefits, writes Cornell University professor Eswar Prasad.",
+                        "twitter:image:alt": "China Has Good Reason to Fear Bitcoin",
+                        "article.template": "full",
+                        "article.section": "Barrons Magazine",
+                        "page.content.format": "responsive",
+                        "article:word_count": "870",
+                        "article.created": "2021-10-15T09:00:00.000Z",
+                        "author": "Eswar Prasad",
+                        "article:internal_link_count": "4",
+                        "og:locale": "en_US",
+                        "page.site": "Barrons Online",
+                        "apple-itunes-app": "app-id=409882593,app-argument=barrons://launch?articleid=SB51691823177676014513404588111151831807878&headline=China%20Has%20Good%20Reason%20to%20Fear%20Bitcoin&weburl=http://www.barrons.com/articles/SB51691823177676014513404588111151831807878",
+                        "page.content.type": "Article",
+                        "article_availability_flag": "FREEFOREVER",
+                        "article:image_count": "1",
+                        "article.id": "SB51691823177676014513404588111151831807878",
+                        "article.page": "Magazine",
+                        "twitter:image": "https://images.barrons.com/im-412741/social",
+                        "article.updated": "2021-10-15T09:00:00.000Z",
+                        "article:embed_count": "1",
+                        "news_keywords": "Banking/Credit,Financial Services,Financial Technology,Technology,Virtual Currencies/Cryptocurrencies,SYND,Other Voices,Cryptocurrencies,Markets,China",
+                        "article.type.display": "Other Voices",
+                        "page.region": "na,us",
+                        "article.summary": "Beijing is banning Bitcoin because it could destabilize China\u2019s financial system. But blockchain technology and digital currencies could have broader benefits, writes Cornell University professor Eswar Prasad.",
+                        "twitter:title": "China Has Good Reason to Fear Bitcoin",
+                        "og:type": "article",
+                        "servo-context": "servo:prod:virginia:article:barrons",
+                        "og:title": "China Has Good Reason to Fear Bitcoin",
+                        "og:image:height": "640",
+                        "page.content.source": "Barrons Online",
+                        "fb:app_id": "64579042740",
+                        "article.published": "2021-10-15T09:00:00.000Z",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "user.exp": "google_bot",
+                        "twitter:description": "Beijing is banning Bitcoin because it could destabilize China\u2019s financial system. But blockchain technology and digital currencies could have broader benefits, writes Cornell University professor Eswar Prasad.",
+                        "user.type": "nonsubscriber",
+                        "article.headline": "China Has Good Reason to Fear Bitcoin",
+                        "og:url": "https://www.barrons.com/articles/chinas-bitcoin-ban-crypto-regulation-central-banks-51634242888",
+                        "article.type": "Other Voices",
+                        "article:external_link_count": "2",
+                        "article:opinion": "true"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://images.barrons.com/im-412741/social",
+                        "articlebody": "Illustration by Matt Chase Text size Your browser does not support the audio tag.Listen to articleLength 5 minutesADLoading advertisement...00:001xThis feature is powered by text-to-speech...",
+                        "datemodified": "2021-10-15T09:00:00.000Z",
+                        "inlanguage": "en-US",
+                        "description": "Beijing is banning Bitcoin because it could destabilize China\u2019s financial system. But blockchain technology and digital currencies could have broader benefits, writes Cornell University professor...",
+                        "datecreated": "2021-10-15T09:00:00.000Z",
+                        "headline": "China Has Good Reason to Fear Bitcoin",
+                        "datepublished": "2021-10-15T09:00:00.000Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.barrons.com/im-412741/social"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Cryptocurrencies"
+                    },
+                    {
+                        "item": "Other Voices"
+                    },
+                    {
+                        "item": "China"
+                    },
+                    {
+                        "item": "Street Notes"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's cryptocurrency regulations will propel similar regulations ...",
+            "htmlTitle": "<b>China&#39;s cryptocurrency regulations</b> will propel similar <b>regulations</b> ...",
+            "link": "https://www.iflr.com/article/b1sw6s2wlhg3fd/chinas-cryptocurrency-regulations-will-propel-similar-regulations-globally",
+            "displayLink": "www.iflr.com",
+            "snippet": "Jul 28, 2021 ... Since the State Council's decision in May, three Chinese financial associations \u2013 the National Internet Finance Association of China, the China\u00a0...",
+            "htmlSnippet": "Jul 28, 2021 <b>...</b> Since the State Council&#39;s decision in May, three Chinese financial associations \u2013 the National Internet Finance Association of <b>China</b>, the <b>China</b>&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/.../chinas-cryptocurrency-regulations-will-propel-similar -regulations-globally",
+            "htmlFormattedUrl": "https://www.iflr.com/.../<b>chinas</b>-<b>cryptocurrency</b>-<b>regulations</b>-will-propel-similar -<b>regulations</b>-globally",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLrthffsOSN0ePqVlYf5B3llmqBA3wuFKMmj3N_9tBwixgvpgvLL-4Ot7",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-3aa4296f8e263007ea5934390876f64e/Media/images/iflr/karry/beijing.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "China\u2019s cryptocurrency regulations will propel similar regulations globally",
+                        "msapplication-square70x70logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "China\u2019s cryptocurrency regulations will propel similar regulations globally",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "China\u2019s cryptocurrency regulations will propel similar regulations globally",
+                        "og:description": "Winston Ma from the NYU School of Law examines how China\u2019s approach to cryptocurrencies will influence the development of global cryptocurrency regulations",
+                        "msapplication-square150x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://www.iflr.com/Media/images/iflr/karry/beijing.jpg",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "twitter:description": "Winston Ma from the NYU School of Law examines how China\u2019s approach to cryptocurrencies will influence the development of global cryptocurrency regulations",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iflr.com/Media/images/iflr/karry/beijing.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation Of Cryptocurrency In China - Technology - China",
+            "htmlTitle": "<b>Regulation Of Cryptocurrency</b> In <b>China</b> - Technology - <b>China</b>",
+            "link": "https://www.mondaq.com/china/fin-tech/944330/regulation-of-cryptocurrency-in-china",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Jun 12, 2020 ... No PRC law or regulation prohibits Chinese investors from holding cryptocurrencies or trading cryptocurrencies . This seems to be consistent\u00a0...",
+            "htmlSnippet": "Jun 12, 2020 <b>...</b> No PRC <b>law</b> or <b>regulation</b> prohibits Chinese investors from holding <b>cryptocurrencies</b> or trading <b>cryptocurrencies</b> . This seems to be consistent&nbsp;...",
+            "cacheId": "xXT7SIuK4WQJ",
+            "formattedUrl": "https://www.mondaq.com/china/fin.../regulation-of-cryptocurrency-in-china",
+            "htmlFormattedUrl": "https://www.mondaq.com/<b>china</b>/fin.../<b>regulation-of-cryptocurrency</b>-in-<b>china</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Regulation Of Cryptocurrency In China - Technology - China",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "Cryptocurrency-related activities have received little tolerance from the Chinese government. Initial coin offerings (ICO) were banned in China in September 2017."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China regulators to ban crypto trading and speculation",
+            "htmlTitle": "<b>China</b> regulators to ban crypto trading and speculation",
+            "link": "https://www.pinsentmasons.com/out-law/news/china-regulators-to-ban-crypto-trading-and-speculation",
+            "displayLink": "www.pinsentmasons.com",
+            "snippet": "Oct 8, 2021 ... In August, China's central bank announced that it would maintain tight regulation of cryptocurrency activity. In May China banned financial\u00a0...",
+            "htmlSnippet": "Oct 8, 2021 <b>...</b> In August, <b>China&#39;s</b> central bank announced that it would maintain tight <b>regulation of cryptocurrency</b> activity. In May <b>China</b> banned financial&nbsp;...",
+            "cacheId": "XvZjVhDZIG4J",
+            "formattedUrl": "https://www.pinsentmasons.com/...law/.../china-regulators-to-ban-crypto- trading-and-speculation",
+            "htmlFormattedUrl": "https://www.pinsentmasons.com/...<b>law</b>/.../<b>china</b>-regulators-to-ban-crypto- trading-and-speculation",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaOuhOKH1W2ZKavYcXnYM1iGUfKRhfXqA8f_7DFd-1HLUY9b_HjOewupc",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Pinsent Masons",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://www.pinsentmasons.com/-/media/images/seo-social-media/out-law-pm-1200-630.png?la=en-gb",
+                        "theme-color": "#a80c35",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "China regulators to ban crypto trading and speculation",
+                        "og:type": "article",
+                        "og:site_name": "Pinsent Masons",
+                        "apple-mobile-web-app-title": "Pinsent Masons",
+                        "og:title": "China regulators to ban crypto trading and speculation",
+                        "og:description": "Chinese authorities have banned all virtual currency trading and speculation.",
+                        "twitter:image": "https://www.pinsentmasons.com/-/media/images/seo-social-media/out-law-pm-1200-630.png?la=en-gb",
+                        "twitter:site": "@Pinsent_Masons",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Chinese authorities have banned all virtual currency trading and speculation.",
+                        "release/build": "#{Octopus.Release.Package}/1.0.16858",
+                        "og:url": "https://www.pinsentmasons.com/out-law/news/china-regulators-to-ban-crypto-trading-and-speculation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.pinsentmasons.com/-/media/images/seo-social-media/out-law-pm-1200-630.png?la=en-gb"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Out-Law",
+                        "name": "Out-Law",
+                        "position": "1"
+                    },
+                    {
+                        "item": "News",
+                        "name": "News",
+                        "position": "2"
+                    },
+                    {
+                        "item": "China regulators to ban crypto trading and speculation",
+                        "name": "China regulators to ban crypto trading and speculation",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What investors should know about China's cryptocurrency crackdown",
+            "htmlTitle": "What investors should know about <b>China&#39;s cryptocurrency</b> crackdown",
+            "link": "https://www.cnbc.com/2021/09/24/what-investors-should-know-about-chinas-cryptocurrency-crackdown.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Sep 24, 2021 ... According to a Q&A on its website, the PBOC said that all crypto-related activities are illegal in China, including services like offering\u00a0...",
+            "htmlSnippet": "Sep 24, 2021 <b>...</b> According to a Q&amp;A on its website, the PBOC said that all crypto-related activities are illegal in <b>China</b>, including services like offering&nbsp;...",
+            "cacheId": "93BAbE4I-y4J",
+            "formattedUrl": "https://www.cnbc.com/.../what-investors-should-know-about-chinas- cryptocurrency-crackdown.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../what-investors-should-know-about-<b>chinas</b>- <b>cryptocurrency</b>-crackdown.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4dj_iyB_0ukWMu7inCs-9Ef02nfnL7pmhsp0_Q9t3-4AlGeXBOCojaNTe",
+                        "width": "280",
+                        "height": "180"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106923510-1628278457539-hand-holding-a-bitcoin-in-front-of-a-computer-screen-with-a-dark-graph_t20_1Q8G0Y.jpg?v=1628278618",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-09-24T21:32:56+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/09/24/what-investors-should-know-about-chinas-cryptocurrency-crackdown.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "It's not the first time China has cracked down on bitcoin and cryptocurrency. Here's what experts say it means for people buying bitcoin in the U.S.",
+                        "twitter:creator": "@itstaylorlocke",
+                        "parsely-metadata": "{\"nodeid\":106947131,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106923510-1628278457539-hand-holding-a-bitcoin-in-front-of-a-computer-screen-with-a-dark-graph_t20_1Q8G0Y.jpg?v=1628278618\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106947131",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-09-24T21:32:56+0000",
+                        "news_keywords": "Ethereum/USD Coin Metrics,Ethereum,Ether/USD,Bitcoin,Bitcoin/USD Coinbase,Bitcoin/USD Bitstamp,Blockchain,Cryptocurrency,United States,China,Janet Yellen",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "China is cracking down on crypto again \u2014 here's what that actually means, and how it affects U.S. crypto investors",
+                        "article:section": "Make It: Next Gen Investing",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Taylor Locke",
+                        "og:title": "China is cracking down on crypto again \u2014 here's what that actually means, and how it affects U.S. crypto investors",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106923510-1628278457539-hand-holding-a-bitcoin-in-front-of-a-computer-screen-with-a-dark-graph_t20_1Q8G0Y.jpg?v=1628278618",
+                        "article:tag": "Ethereum/USD Coin Metrics",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "It's not the first time China has cracked down on bitcoin and cryptocurrency. Here's what experts say it means for people buying bitcoin in the U.S.",
+                        "og:url": "https://www.cnbc.com/2021/09/24/what-investors-should-know-about-chinas-cryptocurrency-crackdown.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106923510-1628278457539-hand-holding-a-bitcoin-in-front-of-a-computer-screen-with-a-dark-graph_t20_1Q8G0Y.jpg?v=1628278618"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Beijing and Washington grapple with crypto in their own unique ...",
+            "htmlTitle": "Beijing and Washington grapple with crypto in their own unique ...",
+            "link": "https://fortune.com/2021/12/03/us-china-crypto-regulation-ban-bitcoin-nfts-pboc-sec/",
+            "displayLink": "fortune.com",
+            "snippet": "Dec 3, 2021 ... China's central bank announced that all transactions of cryptocurrencies and cryptocurrency mining are illegal, intensifying the country's\u00a0...",
+            "htmlSnippet": "Dec 3, 2021 <b>...</b> <b>China&#39;s</b> central bank announced that all transactions of <b>cryptocurrencies</b> and <b>cryptocurrency</b> mining are illegal, intensifying the country&#39;s&nbsp;...",
+            "cacheId": "9UMpE5Gy-VIJ",
+            "formattedUrl": "https://fortune.com/.../us-china-crypto-regulation-ban-bitcoin-nfts-pboc-sec/",
+            "htmlFormattedUrl": "https://fortune.com/.../us-<b>china</b>-crypto-<b>regulation</b>-ban-bitcoin-nfts-pboc-sec/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi0NDk0pgEW0UnIQj7ApRUF3yHiqATySxGOyXcTKwwvQL41qlEd1gL8J4",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/12/GettyImages-514132124-e1638532305831.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Commentary: The U.S. and China grapple with crypto in their own unique ways",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/12/03/us-china-crypto-regulation-ban-bitcoin-nfts-pboc-sec/",
+                        "og:title": "Commentary: The U.S. and China grapple with crypto in their own unique ways",
+                        "og:description": "Beijing and Washington offer a fascinating case study in opposed governmental systems addressing a technology meant to make them obsolete.",
+                        "og:height": "683",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/12/GettyImages-514132124-e1638532305831.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Beijing and Washington offer a fascinating case study in opposed governmental systems addressing a technology meant to make them obsolete.",
+                        "og:url": "https://fortune.com/2021/12/03/us-china-crypto-regulation-ban-bitcoin-nfts-pboc-sec/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/12/GettyImages-514132124-e1638532305831.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's latest move on crypto regulation nothing new, says HSBC",
+            "htmlTitle": "<b>China&#39;s</b> latest move on crypto <b>regulation</b> nothing new, says HSBC",
+            "link": "https://www.cnbc.com/2021/05/24/chinas-latest-move-on-crypto-regulation-nothing-new-says-hsbc-.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "May 24, 2021 ... Chinese Vice Premier Liu He and the State Council said in a statement on Friday that tighter regulation on cryptocurrency is needed.",
+            "htmlSnippet": "May 24, 2021 <b>...</b> Chinese Vice Premier Liu He and the State Council said in a statement on Friday that tighter <b>regulation</b> on <b>cryptocurrency</b> is needed.",
+            "cacheId": "lhrzmZFY7gcJ",
+            "formattedUrl": "https://www.cnbc.com/.../chinas-latest-move-on-crypto-regulation-nothing- new-says-hsbc-.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../<b>chinas</b>-latest-move-on-crypto-<b>regulation</b>-nothing- new-says-hsbc-.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS0xXDdxSSVvrPUjDcPdVSmdIzJd9emWHLsWnl4z3YosEcJ5MwAGYWMfI6",
+                        "width": "288",
+                        "height": "175"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106886635-1621609982766-106886635-1621609529179-gettyimages-1231989966-BC_ChineseFlag2021_4289.jpg?v=1621610020",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-24T06:34:39+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/05/24/chinas-latest-move-on-crypto-regulation-nothing-new-says-hsbc-.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Chinese Vice Premier Liu He and the State Council said in a statement on Friday that tighter regulation on cryptocurrency is needed.",
+                        "twitter:creator": "@CNBC",
+                        "parsely-metadata": "{\"nodeid\":106887047,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106886635-1621609982766-106886635-1621609529179-gettyimages-1231989966-BC_ChineseFlag2021_4289.jpg?v=1621610020\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106887047",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-05-24T07:46:28+0000",
+                        "news_keywords": "China,Cryptocurrency,World Markets,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "China's latest move to tighten crypto regulation is not new, says HSBC",
+                        "article:section": "Cryptocurrency",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Sumathi Bala",
+                        "og:title": "China's latest move to tighten crypto regulation is not new, says HSBC",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106886635-1621609982766-106886635-1621609529179-gettyimages-1231989966-BC_ChineseFlag2021_4289.jpg?v=1621610020",
+                        "article:tag": "China",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Chinese Vice Premier Liu He and the State Council said in a statement on Friday that tighter regulation on cryptocurrency is needed.",
+                        "og:url": "https://www.cnbc.com/2021/05/24/chinas-latest-move-on-crypto-regulation-nothing-new-says-hsbc-.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106886635-1621609982766-106886635-1621609529179-gettyimages-1231989966-BC_ChineseFlag2021_4289.jpg?v=1621610020"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,549 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - HUNGARY",
+                "totalResults": "1700000",
+                "searchTerms": "HUNGARY",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - HUNGARY",
+                "totalResults": "1700000",
+                "searchTerms": "HUNGARY",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.344255,
+        "formattedSearchTime": "0.34",
+        "totalResults": "1700000",
+        "formattedTotalResults": "1,700,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Hungary and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Hungary</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/hungary/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Hungary? Hungary and Cryptocurrency. Hungary Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins,\u00a0...",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Hungary</b>? <b>Hungary</b> and <b>Cryptocurrency</b>. <b>Hungary Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins,&nbsp;...",
+            "cacheId": "_-8mjxMjNLAJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/hungary/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>hungary</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeLt-SJMggqr9ThH8vL5gnzaDRiuWHQoE7Fa0SZ-nLAmxKQzqplxd2memr",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492592-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:35:29+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/hungary/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Hungary? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492592-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492592-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:02+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Hungary?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Hungary and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Hungary and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:06:02+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Hungary and Cryptocurrency Hungary Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Currently, there are no laws that specifically regulate the use of cryptocurrency in Hungary, nor is any cryptocurrency recognized as legal tender. [1] Further,...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/hungary/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492592-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Latest cryptocurrency regulations in Hungary - Gurcan Partners Law ...",
+            "htmlTitle": "Latest <b>cryptocurrency regulations</b> in <b>Hungary</b> - Gurcan Partners Law ...",
+            "link": "https://gurcanpartners.com/en/latest-cryptocurrency-regulations-in-hungary/",
+            "displayLink": "gurcanpartners.com",
+            "snippet": "Jul 7, 2021 ... Hungary is reducing tax on cryptocurrency profits to 15% from 30.5% ... This is a fairly broad, flexible definition that fits Bitcoin in the same\u00a0...",
+            "htmlSnippet": "Jul 7, 2021 <b>...</b> <b>Hungary</b> is reducing tax on <b>cryptocurrency</b> profits to 15% from 30.5% ... This is a fairly broad, flexible definition that fits Bitcoin in the same&nbsp;...",
+            "cacheId": "-rCt0oM2R_IJ",
+            "formattedUrl": "https://gurcanpartners.com/en/latest-cryptocurrency-regulations-in-hungary/",
+            "htmlFormattedUrl": "https://gurcanpartners.com/en/latest-<b>cryptocurrency</b>-<b>regulations</b>-in-<b>hungary</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXpVueprHLV5GOWYStLpIC2r1lb0zBv3RB4P34goWZ-P73l0Lv-fimcgmD",
+                        "width": "327",
+                        "height": "154"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://gurcanpartners.com/wp-content/uploads/2021/07/Bos\u0327-5.png",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-07T08:15:41+00:00",
+                        "og:image:width": "640",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Gurcan Partners Law Firm",
+                        "og:title": "Latest cryptocurrency regulations in Hungary",
+                        "og:image:height": "427",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://gurcanpartners.com/wp-content/uploads/2020/09/Invest-Small-Logo-270x270.png",
+                        "og:description": "the latest news on cryptocurrency & blockchain regulations in Hungary with recent changes and updates of cryptocurrency taxation",
+                        "twitter:creator": "@GurcanPartners",
+                        "article:publisher": "https://www.facebook.com/gurcanpartners/",
+                        "twitter:data1": "Gurcan Partners F",
+                        "twitter:data2": "9 minutes",
+                        "facebook-domain-verification": "l5ekt4240q7pjg4ds50d124sy028n3",
+                        "twitter:site": "@GurcanPartners",
+                        "article:modified_time": "2021-07-08T07:25:02+00:00",
+                        "viewport": "width=device-width,initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://gurcanpartners.com/en/latest-cryptocurrency-regulations-in-hungary/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://gurcanpartners.com/wp-content/uploads/2021/07/Bos%CC%A7-5-1200x565.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FinTech in Hungary: overview | Practical Law",
+            "htmlTitle": "FinTech in <b>Hungary</b>: overview | Practical Law",
+            "link": "https://uk.practicallaw.thomsonreuters.com/w-014-8688?transitionType=Default&contextData=(sc.Default)",
+            "displayLink": "uk.practicallaw.thomsonreuters.com",
+            "snippet": "Feb 1, 2021 ... Hungary does not yet consider cryptocurrencies as an official form of legal tender because they are not issued by a central authority and do not\u00a0...",
+            "htmlSnippet": "Feb 1, 2021 <b>...</b> <b>Hungary</b> does not yet consider <b>cryptocurrencies</b> as an official form of legal tender because they are not issued by a central authority and do not&nbsp;...",
+            "cacheId": "Gzaq2MGXYRkJ",
+            "formattedUrl": "https://uk.practicallaw.thomsonreuters.com/w-014-8688?transitionType...",
+            "htmlFormattedUrl": "https://uk.practicallaw.thomsonreuters.com/w-014-8688?transitionType...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVJX5JXqtzLfwMrae1Y51Lr_Lb-dLh0j3fK5w12qg0GgDe503ME0yuhUeo",
+                        "width": "308",
+                        "height": "164"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://s1-uk.practicallaw.thomsonreuters.com/permalink/plcuk_oglogo.png",
+                        "og:type": "Website",
+                        "og:image:width": "1000",
+                        "og:site_name": "Practical Law",
+                        "og:title": "FinTech in Hungary: overview  | Practical Law",
+                        "og:image:height": "394",
+                        "og:image:type": "image/png",
+                        "og:url": "http://uk.practicallaw.thomsonreuters.com/w-014-8688?transitionType=Default&contextData=(sc.Default)",
+                        "og:description": "FinTech in Hungary: overview  | Practical Law",
+                        "og:image:secure_url": "https://s1-uk.practicallaw.thomsonreuters.com/permalink/plcuk_oglogo.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://s1-uk.practicallaw.thomsonreuters.com/permalink/plcuk_oglogo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hungary is halving taxes on cryptocurrency earnings to boost its ...",
+            "htmlTitle": "<b>Hungary</b> is halving taxes on <b>cryptocurrency</b> earnings to boost its ...",
+            "link": "https://www.euronews.com/next/2021/05/12/hungary-is-halving-taxes-on-cryptocurrency-earnings-to-boost-its-covid-hit-economy",
+            "displayLink": "www.euronews.com",
+            "snippet": "May 31, 2021 ... Hungary's Minister of Finance Mih\u00e1ly Varga announced on Tuesday that the country's government would halve capital gains tax on\u00a0...",
+            "htmlSnippet": "May 31, 2021 <b>...</b> <b>Hungary&#39;s</b> Minister of Finance Mih\u00e1ly Varga announced on Tuesday that the country&#39;s government would halve capital gains tax on&nbsp;...",
+            "cacheId": "k_HLd_eCl8EJ",
+            "formattedUrl": "https://www.euronews.com/.../hungary-is-halving-taxes-on-cryptocurrency- earnings-to-boost-its-covid-hit-economy",
+            "htmlFormattedUrl": "https://www.euronews.com/.../<b>hungary</b>-is-halving-taxes-on-<b>cryptocurrency</b>- earnings-to-boost-its-covid-hit-economy",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/05/64/93/66/1000x563_cmsv2_2207b2b8-1ff7-5e96-9078-49c11cfa86ae-5649366.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2021-05-12 12:11:03",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "Hungary is cutting tax on cryptocurrency earnings by half as interest in the crypto market drives it to all-time highs.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"bitcoin\",\"cryptocurrency\",\"blockchain\",\"currency\",\"ethereum\",\"finance\"],\"nws_id\":\"1506952\",\"nwsctr_id\":\"5649366\",\"themes\":\"money\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"technical_tags\":\"next,next.new-architecture,next.new-architecture.money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Hungary is halving taxes on cryptocurrency earnings to boost its COVID-hit economy",
+                        "article:modified_time": "2021-05-31 16:17:28",
+                        "article:theme": "money",
+                        "og:image:alt": "Hungary is halving taxes on cryptocurrency earnings to boost its COVID-hit economy",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2021-05-31 16:17:28",
+                        "fb:pages": "101402598109",
+                        "article:author": "Aisling N\u00ed Ch\u00fal\u00e1in",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2021-05-31 16:17:28",
+                        "date.created": "2021-05-12 12:11:03",
+                        "eventid": "1506952",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Bitcoin,cryptocurrency,blockchain,Currency,Ethereum,Finance",
+                        "storyid": "5649366",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "Hungary is set to cut taxes on cryptocurrencies by half from 2022",
+                        "article:vertical": "next",
+                        "og:title": "Hungary is set to cut taxes on cryptocurrencies by half from 2022",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "Hungary is cutting tax on cryptocurrency earnings by half as interest in the crypto market drives it to all-time highs.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2021-05-12 12:11:03",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2021/05/12/hungary-is-halving-taxes-on-cryptocurrency-earnings-to-boost-its-covid-hit-economy",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/05/64/93/66/1000x563_cmsv2_2207b2b8-1ff7-5e96-9078-49c11cfa86ae-5649366.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Hungary - Gurcan Partners Law Firm",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in <b>Hungary</b> - Gurcan Partners Law Firm",
+            "link": "https://gurcanpartners.com/en/cryptocurrency-regulations-in-hungary/",
+            "displayLink": "gurcanpartners.com",
+            "snippet": "Sep 14, 2020 ... At present, there is no specific regulation in Hungary on the taxation of income from cryptocurrencies. There is no bank or financial\u00a0...",
+            "htmlSnippet": "Sep 14, 2020 <b>...</b> At present, there is no specific <b>regulation</b> in <b>Hungary</b> on the taxation of income from <b>cryptocurrencies</b>. There is no bank or financial&nbsp;...",
+            "cacheId": "fLQum98ItvIJ",
+            "formattedUrl": "https://gurcanpartners.com/en/cryptocurrency-regulations-in-hungary/",
+            "htmlFormattedUrl": "https://gurcanpartners.com/en/<b>cryptocurrency</b>-<b>regulations</b>-in-<b>hungary</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfN-VHUBkPPpRQnyv6hcHGyRuOQDuZ2OGC9sZ5TXlFiLhIGHywyma4A5o",
+                        "width": "327",
+                        "height": "154"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://gurcanpartners.com/wp-content/uploads/2020/09/Bos\u0327-1.png",
+                        "og:type": "article",
+                        "article:published_time": "2020-09-14T08:35:48+00:00",
+                        "og:image:width": "640",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Gurcan Partners Law Firm",
+                        "og:title": "Cryptocurrency Regulations in Hungary",
+                        "og:image:height": "427",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://gurcanpartners.com/wp-content/uploads/2020/09/Invest-Small-Logo-270x270.png",
+                        "og:description": "Cryptocurrency Regulations in Hungary Let's take a closer look at cryptocurrency regulations in Hungary and its taxation in legal framework.",
+                        "twitter:creator": "@GurcanPartners",
+                        "article:publisher": "https://www.facebook.com/gurcanpartners/",
+                        "twitter:data1": "Gurcan Partners F",
+                        "twitter:data2": "8 minutes",
+                        "facebook-domain-verification": "l5ekt4240q7pjg4ds50d124sy028n3",
+                        "twitter:site": "@GurcanPartners",
+                        "article:modified_time": "2021-03-22T12:00:13+00:00",
+                        "viewport": "width=device-width,initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://gurcanpartners.com/en/cryptocurrency-regulations-in-hungary/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://gurcanpartners.com/wp-content/uploads/2020/09/Bos%CC%A7-1-1200x565.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... However, Hungary has joined the European Blockchain. Partnership and agreed to the Fifth European Directive on. Anti-Money Laundering (AMLD5).",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> However, <b>Hungary</b> has joined the European Blockchain. Partnership and agreed to the Fifth European <b>Directive</b> on. Anti-Money Laundering (AMLD5).",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tax&Legal Highlights - Hungary - April 2018",
+            "htmlTitle": "Tax&amp;Legal Highlights - <b>Hungary</b> - April 2018",
+            "link": "https://www2.deloitte.com/content/dam/Deloitte/ce/Documents/tax-legal-highlights/april-2018/ce-tax-legal-highlights-hungary-april-2018.pdf",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "of cryptocurrencies. In the Hungarian law, however, there is not yet any specific regulation on the legal standpoint on cryptocurrencies.",
+            "htmlSnippet": "of <b>cryptocurrencies</b>. In the <b>Hungarian</b> law, however, there is not yet any specific <b>regulation</b> on the legal standpoint on <b>cryptocurrencies</b>.",
+            "cacheId": "tbWSPlBIWZ8J",
+            "formattedUrl": "https://www2.deloitte.com/.../ce-tax-legal-highlights-hungary-april-2018.pdf",
+            "htmlFormattedUrl": "https://www2.deloitte.com/.../ce-tax-legal-highlights-<b>hungary</b>-april-2018.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbhTCPeugoIWQ98dP1MTge_sl_NpOzfcVIqTGEm-fwR4uO49Jyl7d9KCQ",
+                        "width": "234",
+                        "height": "216"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180514104242+02'00'",
+                        "creationdate": "D:20180507111805+02'00'",
+                        "creator": "Microsoft\u00ae Word 2016",
+                        "author": "Deloitte Central Europe",
+                        "subject": "Welcome to the Tax & Legal Highlights newsletter. This page provides you with the latest information on tax and legal related issues from around the Central Europe region. For more specific information \u2013 choose your country and find out more about local tax practices and news around the region.",
+                        "producer": "Microsoft\u00ae Word 2016",
+                        "title": "Tax&Legal Highlights - Hungary - April 2018"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///8edea489e1ae5b2991302d0f200182a0ec9d29bcf6b98a862766ecb66250d7dc"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hungary introduces a favourable 15% flat tax on cryptocurrency ...",
+            "htmlTitle": "<b>Hungary</b> introduces a favourable 15% flat tax on <b>cryptocurrency</b> ...",
+            "link": "https://nexia.com/insights/global-insight/hungary-introduces-a-favourable-15-flat-tax-on-cryptocurrency-incomes-for-private-individuals/",
+            "displayLink": "nexia.com",
+            "snippet": "Dec 8, 2021 ... In a Europe-wide comparison, Hungary has introduced one of the lowest tax rates in cryptocurrency incomes in 2021. The 15% flat tax rate is\u00a0...",
+            "htmlSnippet": "Dec 8, 2021 <b>...</b> In a Europe-wide comparison, <b>Hungary</b> has introduced one of the lowest tax rates in <b>cryptocurrency</b> incomes in 2021. The 15% flat tax rate is&nbsp;...",
+            "cacheId": "Cg5T1-LZgR8J",
+            "formattedUrl": "https://nexia.com/.../hungary-introduces-a-favourable-15-flat-tax-on- cryptocurrency-incomes-for-private-individuals/",
+            "htmlFormattedUrl": "https://nexia.com/.../<b>hungary</b>-introduces-a-favourable-15-flat-tax-on- <b>cryptocurrency</b>-incomes-for-private-individuals/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcOCvLqdlPryPUDpM-YIPZvsKUm4gWDvRIh7fVDi90M9mH3DKY3brkfA-S",
+                        "width": "322",
+                        "height": "156"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://nexia.com/assets/files/Members%20area%20banners/Crypto_currency.png",
+                        "theme-color": "#00b2a9",
+                        "twitter:card": "summary",
+                        "twitter:title": "Hungary introduces a favourable 15% flat tax on cryptocurrency incomes for private individuals",
+                        "article:published_time": "2021-12-08T12:46:13",
+                        "og:type": "Page",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "og:title": "Hungary introduces a favourable 15% flat tax on cryptocurrency incomes for private individuals",
+                        "title": "Hungary introduces a favourable 15% flat tax on cryptocurrency incomes for private individuals",
+                        "ahrefs-site-verification": "1681ad37827fadd581323e6701fc975d177e30b779f2527afb9e6e1584a7cf9d",
+                        "viewport": "initial-scale=1.0,maximum-scale=1.0,width=device-width",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:url": "https://nexia.com/insights/global-insight/hungary-introduces-a-favourable-15-flat-tax-on-cryptocurrency-incomes-for-private-individuals/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nexia.com/assets/files/Members%20area%20banners/Crypto_currency.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hungary cuts taxes on cryptocurrencies by 50% - Helpers Finance",
+            "htmlTitle": "<b>Hungary</b> cuts taxes on <b>cryptocurrencies</b> by 50% - Helpers Finance",
+            "link": "https://helpersfinance.hu/hungary-cuts-taxes-on-cryptocurrencies-by-50/",
+            "displayLink": "helpersfinance.hu",
+            "snippet": "Jul 19, 2021 ... Currently, Hungarian law does not regulate the taxation of cryptocurrencies specifically. This does not mean that cryptocurrencies are not\u00a0...",
+            "htmlSnippet": "Jul 19, 2021 <b>...</b> Currently, <b>Hungarian</b> law does not <b>regulate</b> the taxation of <b>cryptocurrencies</b> specifically. This does not mean that <b>cryptocurrencies</b> are not&nbsp;...",
+            "cacheId": "h6iep_Ge7owJ",
+            "formattedUrl": "https://helpersfinance.hu/hungary-cuts-taxes-on-cryptocurrencies-by-50/",
+            "htmlFormattedUrl": "https://helpersfinance.hu/<b>hungary</b>-cuts-taxes-on-<b>cryptocurrencies</b>-by-50/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR87S639OWjoNfcbN6fnIThus7_3__MnIQuEKC5K_0SazwOXyk4fhLK7HQG",
+                        "width": "286",
+                        "height": "176"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://helpersfinance.hu/wp-content/uploads/2021/07/taxes-for-cryptocurrencies-hungary-2022.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-19T09:19:49+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Helpers Finance",
+                        "og:title": "Hungary cuts taxes on cryptocurrencies by 50% - Helpers Finance",
+                        "og:image:height": "789",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://helpersfinance.hu/wp-content/uploads/2018/02/cropped-helpers_favicon-270x270.png",
+                        "og:description": "The Hungarian government has set out to update the taxation of cryptocurrencies from 2022. Learn how this will affect your investments and tax returns.",
+                        "twitter:data1": "D\u00e1niel Kun",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2021-07-20T09:11:01+00:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://helpersfinance.hu/hungary-cuts-taxes-on-cryptocurrencies-by-50/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://helpersfinance.hu/wp-content/uploads/2021/07/taxes-for-cryptocurrencies-hungary-2022.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Hungary | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Hungary</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/hungary",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Hungary for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Hungary</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "hZ-OnkJS9pwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/hungary",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>hungary</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Hungary for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Hungary | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Hungary for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Hungary | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/hungary"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

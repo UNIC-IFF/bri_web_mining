@@ -1,0 +1,589 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BELARUS",
+                "totalResults": "1010000",
+                "searchTerms": "BELARUS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BELARUS",
+                "totalResults": "1010000",
+                "searchTerms": "BELARUS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.422582,
+        "formattedSearchTime": "0.42",
+        "totalResults": "1010000",
+        "formattedTotalResults": "1,010,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency in Selected Jurisdictions",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> in Selected Jurisdictions",
+            "link": "https://www.hsdl.org/?view&did=812853",
+            "displayLink": "www.hsdl.org",
+            "snippet": "This report summarizes the cryptocurrency policies and regulatory regimes in fourteen ... Regulation of Cryptocurrencies: Belarus.",
+            "htmlSnippet": "This report summarizes the <b>cryptocurrency</b> policies and <b>regulatory</b> regimes in fourteen ... <b>Regulation of Cryptocurrencies</b>: <b>Belarus</b>.",
+            "cacheId": "4_AjSNXdOFEJ",
+            "formattedUrl": "https://www.hsdl.org/?view&did=812853",
+            "htmlFormattedUrl": "https://www.hsdl.org/?view&amp;did=812853",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS4IPLU7AqwAkBI6Rs40VUMWaJWqr4O1BrpS20DWrB4jm9GXLzNWFk6gE",
+                        "width": "227",
+                        "height": "223"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180612130200-04'00'",
+                        "creationdate": "D:20180611152243-04'00'",
+                        "creator": "Adobe Acrobat Pro DC 15.17.20050",
+                        "author": "Goitom, Hanibal",
+                        "subject": "This report by the Law Library of Congress provides information on the regulation of cryptocurrency in Argentina, Australia, Belarus, Brazil, Canada, China, France, Gibraltar, Iran, Israel, Japan, Jersey, Mexico, and Switzerland.",
+                        "producer": "Adobe Acrobat Pro DC 15.17.20050",
+                        "title": "Regulation of Cryptocurrency in Selected Jurisdictions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///78b099fda4935c4afddaa47901c641ccda3af737a1871bff4718e1873718ed58"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New regulation for cryptocurrencies in Belarus",
+            "htmlTitle": "New <b>regulation</b> for <b>cryptocurrencies</b> in <b>Belarus</b>",
+            "link": "https://en.cryptonomist.ch/2018/11/30/regulation-cryptocurrencies-belarus/",
+            "displayLink": "en.cryptonomist.ch",
+            "snippet": "Nov 30, 2018 ... Decree No 8: Belarus issues a very favourable regulation for initiatives related to cryptocurrency carried out within its technology parks.",
+            "htmlSnippet": "Nov 30, 2018 <b>...</b> Decree No 8: <b>Belarus</b> issues a very favourable <b>regulation</b> for initiatives related to <b>cryptocurrency</b> carried out within its technology parks.",
+            "cacheId": "4JJ88_hvmQEJ",
+            "formattedUrl": "https://en.cryptonomist.ch/2018/11/30/regulation-cryptocurrencies-belarus/",
+            "htmlFormattedUrl": "https://en.cryptonomist.ch/2018/11/30/<b>regulation</b>-<b>cryptocurrencies</b>-<b>belarus</b>/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "https://en.cryptonomist.ch/author/fabio-lugano/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4Bvsoh4FEyW28z4kJvQ49011fLNnNIi0If9E-rlG6FMHsANWy6-uC-Sw",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Fabio Lugano",
+                        "description": "Graduated with honors from Bocconi University, Fabio is a consultant for companies and wounded shareholders of the Banche Venete. He is also the author of \"Scenari Economici\", and lecturer..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://en.cryptonomist.ch/wp-content/uploads/2018/11/belarus1.jpg",
+                        "theme-color": "#4d265f",
+                        "article:published_time": "2018-11-30T10:16:12+00:00",
+                        "og:image:width": "700",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Cryptonomist",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://en.cryptonomist.ch/wp-content/uploads/2019/05/cropped-fav-270x270.png",
+                        "og:description": "The former Soviet state issues simplified legislation for blockchain initiatives",
+                        "twitter:creator": "@cryptonomist_",
+                        "article:publisher": "https://www.facebook.com/cryptonomist.ch/",
+                        "twitter:image": "https://en.cryptonomist.ch/wp-content/uploads/2018/11/belarus1.jpg",
+                        "twitter:data1": "Fabio Lugano",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@cryptonomist_",
+                        "msapplication-tilecolor": "#4d265f",
+                        "og:type": "article",
+                        "twitter:title": "New regulation for cryptocurrencies in Belarus",
+                        "og:title": "New regulation for cryptocurrencies in Belarus",
+                        "og:image:height": "350",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The former Soviet state issues simplified legislation for blockchain initiatives",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://en.cryptonomist.ch/2018/11/30/regulation-cryptocurrencies-belarus/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://en.cryptonomist.ch/wp-content/uploads/2018/11/belarus1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Belarus | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Belarus</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/belarus",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Belarus for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Belarus</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "BM8r3MkwUaQJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/belarus",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>belarus</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Belarus for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Belarus | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Belarus for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Belarus | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/belarus"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Belarus - Government Resources: International Information - UofL ...",
+            "htmlTitle": "<b>Belarus</b> - Government Resources: International Information - UofL ...",
+            "link": "https://library.louisville.edu/ekstrom/gov_intl/belarus",
+            "displayLink": "library.louisville.edu",
+            "snippet": "National Bank of the Republic of Belarus (Government. of Belarus). Regulation of Cryptocurrency: Belarus (Law Library. of Congress)\u00a0...",
+            "htmlSnippet": "National Bank of the Republic of <b>Belarus</b> (Government. of <b>Belarus</b>). <b>Regulation of Cryptocurrency</b>: <b>Belarus</b> (Law Library. of Congress)&nbsp;...",
+            "formattedUrl": "https://library.louisville.edu/ekstrom/gov_intl/belarus",
+            "htmlFormattedUrl": "https://library.louisville.edu/ekstrom/gov_intl/<b>belarus</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "msapplication-config": "//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "UofL Libraries: Government Resources: International Information: Belarus",
+                        "dc.rights": "Copyright University of Louisville 2022",
+                        "dc.date.created": "Aug 25, 2009",
+                        "og:description": "UofL Libraries: Government Resources: International Information: Belarus",
+                        "dc.publishers": "University of Louisville",
+                        "twitter:site": "@springshare",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "dc.creator": "Barbara Whitener",
+                        "dc.title": "UofL Libraries: Government Resources: International Information: Belarus",
+                        "dc.date.modified": "Jan 21, 2022",
+                        "dc.subject": "Government Resources",
+                        "dc.identifier": "https://library.louisville.edu/ekstrom/gov_intl/belarus",
+                        "dc.language": "en",
+                        "og:url": "https://library.louisville.edu/ekstrom/gov_intl/belarus"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Belarus on the cusp of a (tech) revolution? | Global Risk Insights",
+            "htmlTitle": "<b>Belarus</b> on the cusp of a (tech) revolution? | Global Risk Insights",
+            "link": "https://globalriskinsights.com/2018/01/belarus-tech-law-revolution/",
+            "displayLink": "globalriskinsights.com",
+            "snippet": "Jan 10, 2018 ... It is the first legislation in the world to regulate digital tokens, cryptocurrencies, including bitcoin, while giving a legal basis to initial\u00a0...",
+            "htmlSnippet": "Jan 10, 2018 <b>...</b> It is the first legislation in the world to <b>regulate</b> digital tokens, <b>cryptocurrencies</b>, including bitcoin, while giving a legal basis to initial&nbsp;...",
+            "cacheId": "iFVmjRrUz6oJ",
+            "formattedUrl": "https://globalriskinsights.com/2018/01/belarus-tech-law-revolution/",
+            "htmlFormattedUrl": "https://globalriskinsights.com/2018/01/<b>belarus</b>-tech-law-revolution/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Riccardo Dugulin is an analyst at Drum Cussac, a global business risk consultancy. He specializes in supporting international organizations and large corporations operating in emerging markets..."
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjU4CkoAfEZDEyL4EMhPptQULh9zHa7BaN_bzL4H6KW3iR7IXzyfi4ddY",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i0.wp.com/globalriskinsights.com/wp-content/uploads/2018/01/Minsk_1.jpg?fit=800%2C450&ssl=1",
+                        "og:type": "article",
+                        "article:section": "Europe",
+                        "article:published_time": "2018-01-10T13:49:43+00:00",
+                        "og:image:width": "800",
+                        "og:site_name": "Global Risk Insights",
+                        "og:title": "Belarus on the cusp of a (tech) revolution? | Global Risk Insights",
+                        "og:image:height": "450",
+                        "og:updated_time": "2018-01-10T16:46:04+00:00",
+                        "og:description": "New legislation puts Belarus at the forefront of the cryptocurrency boom - and shows the government's commitment to attracting long term IT investment.",
+                        "article:publisher": "https://www.facebook.com/GlobalRiskInsights",
+                        "og:image:secure_url": "https://i0.wp.com/globalriskinsights.com/wp-content/uploads/2018/01/Minsk_1.jpg?fit=800%2C450&ssl=1",
+                        "article:tag": "Alexander Lukashenko",
+                        "article:modified_time": "2018-01-10T16:46:04+00:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://globalriskinsights.com/2018/01/belarus-tech-law-revolution/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i0.wp.com/globalriskinsights.com/wp-content/uploads/2018/01/Minsk_1.jpg?fit=800%2C450&ssl=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency miners are taking a toll on power grids worldwide ...",
+            "htmlTitle": "<b>Cryptocurrency</b> miners are taking a toll on power grids worldwide ...",
+            "link": "https://www.businessinsider.in/cryptocurrency/news/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation/articleshow/87132961.cms",
+            "displayLink": "www.businessinsider.in",
+            "snippet": "Oct 19, 2021 ... Belarus and Russia want to separate cryptocurrency miners from other ... of putting in exclusive regulations for cryptocurrency miners to\u00a0...",
+            "htmlSnippet": "Oct 19, 2021 <b>...</b> <b>Belarus</b> and Russia want to separate <b>cryptocurrency</b> miners from other ... of putting in exclusive <b>regulations</b> for <b>cryptocurrency</b> miners to&nbsp;...",
+            "cacheId": "RWpjCFcR5KkJ",
+            "formattedUrl": "https://www.businessinsider.in/cryptocurrency/.../cryptocurrency...belarus... regulation/.../87132961.cms",
+            "htmlFormattedUrl": "https://www.businessinsider.in/<b>cryptocurrency</b>/.../<b>cryptocurrency</b>...<b>belarus</b>... <b>regulation</b>/.../87132961.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrzmaVM4rn1vDIvMEWFIc7rOhs3yBFqOvnsevI-ai9JDYxIUCKFetV_E-C",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.businessinsider.in/photo/87132961/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation.jpg?imgsize=54436",
+                        "twitter:title": "Cryptocurrency miners are taking a toll on power grids worldwide \u2014 Russia and Belarus join other countries look to separate them from other power users",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency miners are taking a toll on power grids worldwide \u2014 Russia and Belarus join other countries look to separate them from other power users",
+                        "website": "https://www.businessinsider.in",
+                        "og:site_name": "Business Insider",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://www.businessinsider.in/cryptocurrency/news/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation/articleshow/87132961.cms",
+                        "og:title": "Cryptocurrency miners are taking a toll on power grids worldwide \u2014 Russia and Belarus join other countries look to separate them from other power users",
+                        "og:description": "Belarus and Russia want to separate cryptocurrency miners from other power users. According to the head of Russia\u2019s Ministry for Energy, \u201cIt is necessary to",
+                        "twitter:image": "https://www.businessinsider.in/photo/87132961/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation.jpg?imgsize=54436",
+                        "snapchat:sticker": "https://www.businessinsider.in/thumb/msid-87132961,width-1200,height-900,imgsize=54436/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation.jpg",
+                        "snapchat": "biindia",
+                        "twitter:image:alt": "Cryptocurrency miners are taking a toll on power grids worldwide \u2014 Russia and Belarus join other countries look to separate them from other power users",
+                        "fb:app_id": "645465345465774",
+                        "news_keywords": "cryptocurrency mining,crypto russia,crypto power outage,crypto kazakhstan,crypto environment",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "Belarus and Russia want to separate cryptocurrency miners from other power users. According to the head of Russia\u2019s Ministry for Energy, \u201cIt is necessary to",
+                        "mobileoptimized": "320",
+                        "fb:admins": "556964827",
+                        "og:url": "https://www.businessinsider.in/cryptocurrency/news/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation/articleshow/87132961.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.in/photo/87132961/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation.jpg?imgsize=54436"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.in/cryptocurrency/news/cryptocurrency-miners-are-taking-a-toll-on-power-grids-in-russia-iran-kazakhstan-belarus-pushing-for-regulation/articleshow/87132961.cms",
+                        "name": "Cryptocurrency miners are taking a toll on power grids worldwide \u2014 Russia and Belarus join other countries look to separate them from other power users",
+                        "position": "4"
+                    },
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.com/stock-market-news-10-treasury-yield-oil-prices-bitcoin-etf-2021-10",
+                        "name": "US stocks turn mixed as 10-year Treasury yield, oil prices give up most gains",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin offers freedom from political repression\u2014and that's a key to ...",
+            "htmlTitle": "Bitcoin offers freedom from political repression\u2014and that&#39;s a key to ...",
+            "link": "https://fortune.com/2021/02/18/bitcoin-censorship-political-repression-deplatforming-china-belarus-russia-nigeria-crypto/",
+            "displayLink": "fortune.com",
+            "snippet": "Feb 18, 2021 ... Governments cannot control or monitor the behavior of Bitcoin users as ... take part in a protest against police violence in Minsk, Belarus.",
+            "htmlSnippet": "Feb 18, 2021 <b>...</b> Governments cannot <b>control</b> or monitor the behavior of Bitcoin users as ... take part in a protest against police violence in Minsk, <b>Belarus</b>.",
+            "cacheId": "Cq_64zEmXEgJ",
+            "formattedUrl": "https://fortune.com/.../bitcoin-censorship-political-repression-deplatforming- china-belarus-russia-nigeria-crypto/",
+            "htmlFormattedUrl": "https://fortune.com/.../bitcoin-censorship-political-repression-deplatforming- china-<b>belarus</b>-russia-nigeria-crypto/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSB7rFJSX7r24MAFwHlzs5LRwd9hwKGab9kfiW4XFALeyppvLSukg289QA",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/02/GettyImages-1231161022.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Commentary: Bitcoin offers freedom from political repression\u2014and that's a key to its future",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/02/18/bitcoin-censorship-political-repression-deplatforming-china-belarus-russia-nigeria-crypto/",
+                        "og:title": "Commentary: Bitcoin offers freedom from political repression\u2014and that's a key to its future",
+                        "og:description": "Governments cannot control or monitor the behavior of Bitcoin users as they can in the legacy financial world. That's a huge advantage.",
+                        "og:height": "683",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/02/GettyImages-1231161022.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Governments cannot control or monitor the behavior of Bitcoin users as they can in the legacy financial world. That's a huge advantage.",
+                        "og:url": "https://fortune.com/2021/02/18/bitcoin-censorship-political-repression-deplatforming-china-belarus-russia-nigeria-crypto/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/02/GettyImages-1231161022.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from nonexistent or partial <b>regulations</b> to prohibitions. Here are the key areas&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Belarus ICO Regulation I Tax Benefits - Registradition - ICO ...",
+            "htmlTitle": "<b>Belarus</b> ICO <b>Regulation</b> I Tax Benefits - Registradition - ICO ...",
+            "link": "https://gurcanpartners.com/en/belarus-ico-regulation/",
+            "displayLink": "gurcanpartners.com",
+            "snippet": "Mar 21, 2018 ... Belarus ICO Regulation. Since 2009, the cryptocurrency market has increased effectually. However, by 2018 Law Makers has waited to make a\u00a0...",
+            "htmlSnippet": "Mar 21, 2018 <b>...</b> <b>Belarus</b> ICO <b>Regulation</b>. Since 2009, the <b>cryptocurrency</b> market has increased effectually. However, by 2018 Law Makers has waited to make a&nbsp;...",
+            "cacheId": "9MRgsHb_XgEJ",
+            "formattedUrl": "https://gurcanpartners.com/en/belarus-ico-regulation/",
+            "htmlFormattedUrl": "https://gurcanpartners.com/en/<b>belarus</b>-ico-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy6hMp64bM8VbsTqrwN6Ai-s7hfsOBw8-v9oLdhw9ugv-lldxh7w-pMvcI",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://gurcanpartners.com/wp-content/uploads/2018/12/22_bjnieh.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2018-03-21T20:51:57+00:00",
+                        "og:image:width": "640",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Gurcan Partners Law Firm",
+                        "og:title": "Belarus ICO Regulation I First Country To Legalize ICO",
+                        "og:image:height": "427",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://gurcanpartners.com/wp-content/uploads/2020/09/Invest-Small-Logo-270x270.png",
+                        "og:description": "In this article, Founder of Blockchain Law Law and Founding Partner of Gurcan Partners,\u00a0 Att. Bedrettin G\u00fcrcan will mention Belarus ICO Regulation, with...",
+                        "twitter:creator": "@GurcanPartners",
+                        "article:publisher": "https://www.facebook.com/gurcanpartners/",
+                        "article:author": "https://www.facebook.com/gurcanpartners/",
+                        "twitter:data1": "GURCAN PARTNERS",
+                        "twitter:data2": "6 minutes",
+                        "facebook-domain-verification": "l5ekt4240q7pjg4ds50d124sy028n3",
+                        "twitter:site": "@GurcanPartners",
+                        "article:modified_time": "2020-02-10T13:51:57+00:00",
+                        "viewport": "width=device-width,initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://gurcanpartners.com/en/belarus-ico-regulation/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://gurcanpartners.com/wp-content/uploads/2018/12/22_bjnieh.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Belarus Implements Cryptocurrency Regulations - ICOholder Blog",
+            "htmlTitle": "<b>Belarus</b> Implements <b>Cryptocurrency Regulations</b> - ICOholder Blog",
+            "link": "https://icoholder.com/blog/belarus-implements-cryptocurrency-regulations/",
+            "displayLink": "icoholder.com",
+            "snippet": "Belarus has joined the growing number of countries issuing regulations and guidelines to their local crypto industries. The tiny Eastern European nation has\u00a0...",
+            "htmlSnippet": "<b>Belarus</b> has joined the growing number of countries issuing <b>regulations</b> and guidelines to their local crypto industries. The tiny Eastern European nation has&nbsp;...",
+            "cacheId": "4v0ZIz0Iu3kJ",
+            "formattedUrl": "https://icoholder.com/blog/belarus-implements-cryptocurrency-regulations/",
+            "htmlFormattedUrl": "https://icoholder.com/blog/<b>belarus</b>-implements-<b>cryptocurrency</b>-<b>regulations</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "article:published_time": "2018-12-05T14:03:16+00:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "ICOholder Blog",
+                        "og:title": "Belarus Implements Cryptocurrency Regulations - ICOholder Blog",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Belarus has joined the growing number of countries issuing regulations and guidelines to their local crypto industries. The tiny Eastern European nation has followed Malta\u2019s \u2026",
+                        "twitter:creator": "@icoholder",
+                        "article:publisher": "https://www.facebook.com/icoholdercom/",
+                        "twitter:data1": "Gail Nkopuruk",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@icoholder",
+                        "article:modified_time": "2018-12-15T14:03:45+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://icoholder.com/blog/belarus-implements-cryptocurrency-regulations/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "text": "Belarus Implements Cryptocurrency RegulationsBelarus has joined the growing number of countries issuing regulations and guidelines to their local crypto industries. The tiny Eastern European..."
+                    }
+                ],
+                "wpsidebar": [
+                    {
+                        "name": "Search the Blog"
+                    }
+                ]
+            }
+        }
+    ]
+}

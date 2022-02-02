@@ -1,0 +1,559 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ESTONIA",
+                "totalResults": "900000",
+                "searchTerms": "ESTONIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ESTONIA",
+                "totalResults": "900000",
+                "searchTerms": "ESTONIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.309189,
+        "formattedSearchTime": "0.31",
+        "totalResults": "900000",
+        "formattedTotalResults": "900,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Estonia I Crypto Regulations",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in <b>Estonia</b> I Crypto <b>Regulations</b>",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-estonia/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Nov 7, 2018 ... Cryptocurrency Exchange Regulations ... Cryptocurrency exchanges are legal in Estonia and, following amendments to AML/CFT legislation in 2017,\u00a0...",
+            "htmlSnippet": "Nov 7, 2018 <b>...</b> <b>Cryptocurrency</b> Exchange <b>Regulations</b> ... <b>Cryptocurrency</b> exchanges are legal in <b>Estonia</b> and, following amendments to AML/CFT legislation in 2017,&nbsp;...",
+            "cacheId": "22AvlhtgbA0J",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations- estonia/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>- <b>estonia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeRgIq1crLOhTx5ddhwbV2OYrr6MQw_gjoFIZNvmhBSX5JlzvatzIFRaw",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/11/Copy-of-K-KnowY-YourC-Customer-14.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in Estonia",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in Estonia",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "Cryptocurrency regulations in Estonia are open and innovative, especially in comparison to other EU member-states.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "2 minutes",
+                        "parsely-tags": "cryptocurrency regulations estoniacrypto regulations in estoniaaml crypto estoniacryptocurrency exchanges regulations estonia",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T15:02:34+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-estonia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/11/Copy-of-K-KnowY-YourC-Customer-14.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The 'first country to regulate' crypto is preparing a sweeping ...",
+            "htmlTitle": "The &#39;first country to <b>regulate</b>&#39; crypto is preparing a sweeping ...",
+            "link": "https://fortune.com/2021/10/15/estonia-regulate-cryptocurrency-crackdown-digital-coins/",
+            "displayLink": "fortune.com",
+            "snippet": "Oct 15, 2021 ... Estonia is trying to move beyond a sprawling money-laundering ... and has the right to grant and revoke cryptocurrency licenses as part of\u00a0...",
+            "htmlSnippet": "Oct 15, 2021 <b>...</b> <b>Estonia</b> is trying to move beyond a sprawling money-laundering ... and has the right to grant and revoke <b>cryptocurrency</b> licenses as part of&nbsp;...",
+            "cacheId": "_wRkCpGPbGQJ",
+            "formattedUrl": "https://fortune.com/.../estonia-regulate-cryptocurrency-crackdown-digital- coins/",
+            "htmlFormattedUrl": "https://fortune.com/.../<b>estonia</b>-<b>regulate</b>-<b>cryptocurrency</b>-crackdown-digital- coins/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4O9r1I8AASGZu82GiC9GT7tXgk5h6eS2ua9pFOH1LD6rWeTWh_pfNqg",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/10/GettyImages-1235805517.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The \u2018first country to regulate\u2019 crypto is preparing a sweeping crackdown on digital coins",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/10/15/estonia-regulate-cryptocurrency-crackdown-digital-coins/",
+                        "og:title": "The \u2018first country to regulate\u2019 crypto is preparing a sweeping crackdown on digital coins",
+                        "og:description": "Estonia is trying to move beyond a sprawling money-laundering scandal in 2018 that saw Danske Bank\u2019s local unit handle $232 billion of suspicious transactions.",
+                        "og:height": "793",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/10/GettyImages-1235805517.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Estonia is trying to move beyond a sprawling money-laundering scandal in 2018 that saw Danske Bank\u2019s local unit handle $232 billion of suspicious transactions.",
+                        "og:url": "https://fortune.com/2021/10/15/estonia-regulate-cryptocurrency-crackdown-digital-coins/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/10/GettyImages-1235805517.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Estonia Moves to Reassure Crypto Sector as New Rules Weighed ...",
+            "htmlTitle": "<b>Estonia</b> Moves to Reassure Crypto Sector as New Rules Weighed ...",
+            "link": "https://www.bloomberg.com/news/articles/2022-01-03/estonia-moves-to-reassure-crypto-sector-amid-new-rules",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Jan 3, 2022 ... Estonia has moved to calm investor fears about tougher rules on cryptocurrency, a sector which has been a target of regulatory scrutiny for\u00a0...",
+            "htmlSnippet": "Jan 3, 2022 <b>...</b> <b>Estonia</b> has moved to calm investor fears about tougher rules on <b>cryptocurrency</b>, a sector which has been a target of <b>regulatory</b> scrutiny for&nbsp;...",
+            "cacheId": "yiL973i2W4QJ",
+            "formattedUrl": "https://www.bloomberg.com/.../estonia-moves-to-reassure-crypto-sector-amid -new-rules",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>estonia</b>-moves-to-reassure-crypto-sector-amid -new-rules",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSz7nOrDiTCuZpSvtUHB1O-b-D1K7EDMFdiKUjMwCW4BwCf9VShLFJI3w",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ildUdwvd7Akk/v0/1200x800.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Cryptocurrency,Estonia,Regulation,Money Laundering,Bitcoin,Social Media,Denmark,DANSKE BANK A/S,Europe,Government,politics,technology,business,cryptocurrencies",
+                        "lotame-bbg-topic": "cryptocurrency",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Ott Tammik",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ildUdwvd7Akk/v0/1200x800.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@bpolitics",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2022-01-03/estonia-moves-to-reassure-crypto-sector-amid-new-rules",
+                        "iso-8601-publish-date": "2022-01-03T18:08:16.143Z",
+                        "sailthru.title": "Estonia Moves to Reassure Crypto Sector as New Rules Weighed",
+                        "checksum": "ee4fcc8c5445da2b9366cb212b6877e0",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ildUdwvd7Akk/v0/1200x800.jpg",
+                        "parsely-section": "politics",
+                        "article:content_tier": "metered",
+                        "sailthru.date": "2022-01-03T18:08:16.143Z",
+                        "og:type": "article",
+                        "twitter:title": "Estonia Moves to Reassure Crypto Sector as New Rules Weighed",
+                        "parsely-post-id": "R558ZYT0AFB401",
+                        "og:title": "Estonia Moves to Reassure Crypto Sector as New Rules Weighed",
+                        "parsely-title": "Estonia Moves to Reassure Crypto Sector as New Rules Weighed",
+                        "parsely-pub-date": "2022-01-03T18:08:16.143Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2022-01-03/estonia-moves-to-reassure-crypto-sector-amid-new-rules?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Cryptocurrency,Estonia,Regulation,Money Laundering,Bitcoin,Social Media,Denmark,DANSKE BANK A/S,Europe,Government,Secondary Brand: politics,Secondary Brand: technology,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2022-01-03/estonia-moves-to-reassure-crypto-sector-amid-new-rules",
+                        "validatedat": "2022-01-23T23:49:29.656Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Ott Tammik,Aaron Eglitis",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ildUdwvd7Akk/v0/1200x800.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Estonia \u2013 Estonia has been an early crypto frontrunner with more than 1300 crypto exchanges. In January 2021 the Ministry of Finance in Estonia\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Estonia</b> \u2013 <b>Estonia</b> has been an early crypto frontrunner with more than 1300 crypto exchanges. In January 2021 the Ministry of Finance in <b>Estonia</b>&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Estonia's Crypto Stance Shows Regulatory Battle Lines | PYMNTS ...",
+            "htmlTitle": "<b>Estonia&#39;s</b> Crypto Stance Shows <b>Regulatory</b> Battle Lines | PYMNTS ...",
+            "link": "https://www.pymnts.com/cryptocurrency/2022/estonia-crypto-ban-denial-highlights-regulatory-battle-lines/",
+            "displayLink": "www.pymnts.com",
+            "snippet": "Jan 5, 2022 ... Estonia's Ministry of Finance announced Sunday (Jan. 2) that it is not banning the private ownership of cryptocurrencies.",
+            "htmlSnippet": "Jan 5, 2022 <b>...</b> <b>Estonia&#39;s</b> Ministry of Finance announced Sunday (Jan. 2) that it is not banning the private ownership of <b>cryptocurrencies</b>.",
+            "cacheId": "hMgXXIK--MQJ",
+            "formattedUrl": "https://www.pymnts.com/cryptocurrency/.../estonia-crypto-ban-denial- highlights-regulatory-battle-lines/",
+            "htmlFormattedUrl": "https://www.pymnts.com/<b>cryptocurrency</b>/.../<b>estonia</b>-crypto-ban-denial- highlights-<b>regulatory</b>-battle-lines/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT91GGtYg3he7_jfA8xRQFAVGJZljNL2NWG04bbf8vmlMoeR8EOaNZvioOK",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Estonia-cryptocurrency-legislation-VASPs-1000x600.jpg",
+                        "article:published_time": "2022-01-05T17:35:55-05:00",
+                        "og:type": "article",
+                        "twitter:title": "Estonia\u2019s Crypto Stance Shows Regulatory Battle Lines",
+                        "twitter:card": "summary_large_image",
+                        "twitter:domain": "https://www.pymnts.com/",
+                        "msvalidate.01": "ED6511722D66805E697F4B337E96D89A",
+                        "og:title": "Estonia\u2019s Crypto Stance Shows Regulatory Battle Lines",
+                        "msapplication-tileimage": "https://securecdn.pymnts.com/wp-content/uploads/2019/04/cropped-512-1-270x270.jpg",
+                        "og:description": "Estonia\u2019s Ministry of Finance is not banning the private ownership of cryptocurrencies and joins a debate about how far to go in regulating cryptocurrencies.",
+                        "twitter:creator": "PYMNTS.com",
+                        "twitter:image": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Estonia-cryptocurrency-legislation-VASPs-1000x600.jpg",
+                        "twitter:site": "PYMNTS.com",
+                        "article:modified_time": "2022-01-05T17:35:55-05:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes",
+                        "twitter:description": "Estonia\u2019s Ministry of Finance is not banning the private ownership of cryptocurrencies and joins a debate about how far to go in regulating cryptocurrencies.",
+                        "og:url": "https://www.pymnts.com/cryptocurrency/2022/estonia-crypto-ban-denial-highlights-regulatory-battle-lines/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Estonia-cryptocurrency-legislation-VASPs-1000x600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Estonia and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Estonia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/estonia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "In April of 2019, the Estonian Financial Intelligence Unit (FIU) created additional regulations for the cryptocurrency license process which included, but was\u00a0...",
+            "htmlSnippet": "In April of 2019, the <b>Estonian</b> Financial Intelligence Unit (FIU) created additional <b>regulations</b> for the <b>cryptocurrency</b> license process which included, but was&nbsp;...",
+            "cacheId": "XEgg98UheesJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/estonia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>estonia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLbLVHkrD89mCoE92qOx_xl81GNBu3r282Fq1n_yxvE3PbEnplo7AUvGc",
+                        "width": "275",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_62188464-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:32:23+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/estonia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Estonia? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_62188464-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_62188464-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:01+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/digital-currency-transmission-laws-state-by-state/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in El Salvador?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Estonia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Estonia and Cryptocurrency",
+                        "og:image:height": "1713",
+                        "og:updated_time": "2022-01-09T18:06:01+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Estonia and Cryptocurrency Estonia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology On November 27, 2017, Estonia enacted amendments to its anti-money laundering legislation that define cryptocurrencies (virtual currencies) as value represented...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/estonia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_62188464-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Estonia is one of the best countries for developing cryptobusiness ...",
+            "htmlTitle": "<b>Estonia</b> is one of the best countries for developing cryptobusiness ...",
+            "link": "https://www.jpost.com/special-content/estonia-is-one-of-the-best-countries-for-developing-cryptobusiness-664522",
+            "displayLink": "www.jpost.com",
+            "snippet": "Apr 8, 2021 ... The concept of \u201ccryptocurrency\u201d itself appeared in Estonian legislation back in 2017. Along with this, Estonia became the first EU member state\u00a0...",
+            "htmlSnippet": "Apr 8, 2021 <b>...</b> The concept of \u201c<b>cryptocurrency</b>\u201d itself appeared in <b>Estonian</b> legislation back in 2017. Along with this, <b>Estonia</b> became the first EU member state&nbsp;...",
+            "cacheId": "V_IIess-zDsJ",
+            "formattedUrl": "https://www.jpost.com/.../estonia-is-one-of-the-best-countries-for-developing- cryptobusiness-664522",
+            "htmlFormattedUrl": "https://www.jpost.com/.../<b>estonia</b>-is-one-of-the-best-countries-for-developing- cryptobusiness-664522",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#FFFFFF",
+                        "og:image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/473970",
+                        "og:type": "Article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Estonia is one of the best countries for developing cryptobusiness",
+                        "og:site_name": "The Jerusalem Post | JPost.com",
+                        "twitter:url": "https://m.jpost.com/special-content/estonia-is-one-of-the-best-countries-for-developing-cryptobusiness-664522",
+                        "og:title": "Estonia is one of the best countries for developing cryptobusiness",
+                        "msapplication-tileimage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/Icons/PNG/jp-favicon-180.png",
+                        "fb:pages": "159050394216641",
+                        "twitter:image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/473970",
+                        "fb:app_id": "313311835670174",
+                        "twitter:site": "Jerusalem_Post",
+                        "viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1",
+                        "og:url": "https://m.jpost.com/special-content/estonia-is-one-of-the-best-countries-for-developing-cryptobusiness-664522"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Estonia Crypto Regulations | Coinfirm",
+            "htmlTitle": "<b>Estonia</b> Crypto <b>Regulations</b> | Coinfirm",
+            "link": "https://www.coinfirm.com/blog/estonia-crypto-regulations/",
+            "displayLink": "www.coinfirm.com",
+            "snippet": "Jul 14, 2021 ... It is legal for residents in Estonia to own, buy and sell cryptocurrencies and blockchain-based assets. This can be done through exchanges,\u00a0...",
+            "htmlSnippet": "Jul 14, 2021 <b>...</b> It is legal for residents in <b>Estonia</b> to own, buy and sell <b>cryptocurrencies</b> and blockchain-based assets. This can be done through exchanges,&nbsp;...",
+            "cacheId": "k1JX5VDjSIkJ",
+            "formattedUrl": "https://www.coinfirm.com/blog/estonia-crypto-regulations/",
+            "htmlFormattedUrl": "https://www.coinfirm.com/blog/<b>estonia</b>-crypto-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJLujjx7YM0e0lA3q1_kaCB349jj14qCu---iKfbsakaYvC9rtzro_75o",
+                        "width": "361",
+                        "height": "140"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coinfirm.com/wp-content/uploads/2021/07/Estonia_Crypto_regulation.jpg",
+                        "og:image:width": "655",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Estonia Crypto Regulations",
+                        "og:article:modified_time": "2021-07-14 12:44:06",
+                        "author": "Ignatius Titus",
+                        "og:title": "Estonia Crypto Regulations",
+                        "og:image:height": "254",
+                        "og:image:type": "image/jpeg",
+                        "og:article:published_time": "2021-07-14 12:42:43",
+                        "msapplication-tileimage": "https://www.coinfirm.com/wp-content/uploads/2020/09/coinfirmsvg-sd.svg",
+                        "og:description": "Estonia has been a country at the forefront of fintech innovation. \n\n\n\nThe nation has been a pioneer in the crypto and blockchain industry, adopting regulations",
+                        "twitter:image": "https://www.coinfirm.com/wp-content/uploads/2021/07/Estonia_Crypto_regulation.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Estonia has been a country at the forefront of fintech innovation. \n\n\n\nThe nation has been a pioneer in the crypto and blockchain industry, adopting regulations",
+                        "og:url": "https://www.coinfirm.com/blog/estonia-crypto-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coinfirm.com/wp-content/uploads/2021/07/Estonia_Crypto_regulation.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Blockchain Analytics",
+                        "url": "AML Platform"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Compliance Insights",
+                        "name": "Compliance Insights",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Estonia Considers Revoking Crypto Licenses as Government Mulls ...",
+            "htmlTitle": "<b>Estonia</b> Considers Revoking Crypto Licenses as Government Mulls ...",
+            "link": "https://news.bitcoin.com/estonia-considers-revoking-crypto-licenses-as-government-mulls-tougher-regulations/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Oct 15, 2021 ... Head of FIU Supports Rescinding All Crypto Licenses ... Since late 2018, the government in Tallinn has been tightening its regulations for the\u00a0...",
+            "htmlSnippet": "Oct 15, 2021 <b>...</b> Head of FIU Supports Rescinding All Crypto Licenses ... Since late 2018, the government in Tallinn has been tightening its <b>regulations</b> for the&nbsp;...",
+            "cacheId": "lUtwE90JYRAJ",
+            "formattedUrl": "https://news.bitcoin.com/estonia-considers-revoking-crypto-licenses-as- government-mulls-tougher-regulations/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>estonia</b>-considers-revoking-crypto-licenses-as- government-mulls-tougher-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREmxKi5ObvArSuYyqakNqDGGny3P7VHusBMxjOAUNu2N0Zrq4QRJErESAJ",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/shutterstock_1885637839.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-10-16T01:30:14+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Estonia Considers Revoking Crypto Licenses as Government Mulls Tougher Regulations \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Authorities in Estonia are working on new legislation expected to stiffen the rules for the country\u2019s cryptocurrency sector.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-10-15T21:09:31+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/estonia-considers-revoking-crypto-licenses-as-government-mulls-tougher-regulations/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Estonia Considers Revoking Crypto Licenses as Government Mulls Tougher Regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/shutterstock_1885637839.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Planned amendments to Estonian virtual currency regulation make ...",
+            "htmlTitle": "Planned amendments to <b>Estonian</b> virtual currency <b>regulation</b> make ...",
+            "link": "https://e-estonia.com/planned-amendments-to-estonian-virtual-currency-regulation-make-estonia-the-frontrunner-in-sector-transparency/",
+            "displayLink": "e-estonia.com",
+            "snippet": "Mar 29, 2021 ... Take a look at our services and get in touch \u2013 we've got you covered! Topics. cryptocurrency. Share.",
+            "htmlSnippet": "Mar 29, 2021 <b>...</b> Take a look at our services and get in touch \u2013 we&#39;ve got you covered! Topics. <b>cryptocurrency</b>. Share.",
+            "cacheId": "Re60BDnU6loJ",
+            "formattedUrl": "https://e-estonia.com/planned-amendments-to-estonian-virtual-currency- regulation-make-estonia-the-frontrunner-in-sector-transparency/",
+            "htmlFormattedUrl": "https://e-<b>estonia</b>.com/planned-amendments-to-<b>estonian</b>-virtual-currency- <b>regulation</b>-make-<b>estonia</b>-the-frontrunner-in-sector-transparency/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStWdYFohEes0NmmDJLS39Hqd98RxQI9yvvnVWflzg6KyzsWMJxK3yxiV7B",
+                        "width": "326",
+                        "height": "155"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-config": "https://e-estonia.com/wp-content/themes/e-estonia.com/inc/theme/favicon/browserconfig.xml",
+                        "og:image": "https://e-estonia.com/wp-content/uploads/modern-tallinn-kaupo-kalda.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "article:published_time": "2021-03-29T13:23:59+00:00",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "e-Estonia",
+                        "og:title": "Planned amendments to Estonian virtual currency regulation make Estonia the frontrunner in sector transparency - e-Estonia",
+                        "og:image:height": "912",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "As it is expected that it would take at least 2-3 years before the European Commission regulation regarding virtual currency service providers would enter into force, the Estonian legislator has decided to be a frontrunner and proceed with its own amendments in order to reform the sector.\u00a0 In January 2021, the Ministry of Finance inread more",
+                        "twitter:data1": "Dea Paraskevopoulos",
+                        "twitter:data2": "6 minutes",
+                        "article:modified_time": "2021-03-29T12:24:24+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://e-estonia.com/planned-amendments-to-estonian-virtual-currency-regulation-make-estonia-the-frontrunner-in-sector-transparency/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://e-estonia.com/wp-content/uploads/modern-tallinn-kaupo-kalda.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

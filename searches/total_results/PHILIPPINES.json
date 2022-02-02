@@ -1,0 +1,678 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - PHILIPPINES",
+                "totalResults": "537000",
+                "searchTerms": "PHILIPPINES",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - PHILIPPINES",
+                "totalResults": "537000",
+                "searchTerms": "PHILIPPINES",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.460882,
+        "formattedSearchTime": "0.46",
+        "totalResults": "537000",
+        "formattedTotalResults": "537,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Philippines and Vietnam are considering crypto friendly regulations",
+            "htmlTitle": "<b>Philippines</b> and Vietnam are considering crypto friendly <b>regulations</b>",
+            "link": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms",
+            "displayLink": "www.businessinsider.in",
+            "snippet": "Jul 5, 2021 ... According to the Philippines Stock Exchange (PSE), cryptocurrencies are an asset class that they cannot afford to ignore anymore. And, they\u00a0...",
+            "htmlSnippet": "Jul 5, 2021 <b>...</b> According to the <b>Philippines</b> Stock Exchange (PSE), <b>cryptocurrencies</b> are an asset class that they cannot afford to ignore anymore. And, they&nbsp;...",
+            "cacheId": "UMdXpy7IhPMJ",
+            "formattedUrl": "https://www.businessinsider.in/cryptocurrency/.../philippines...regulations/.../ 84141407.cms",
+            "htmlFormattedUrl": "https://www.businessinsider.in/<b>cryptocurrency</b>/.../<b>philippines</b>...<b>regulations</b>/.../ 84141407.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOGMBIjixFBwkXoPzwBpw_9wbOPeU8Dg8PONzLcALtXkE_fJxH6N86A8o",
+                        "width": "259",
+                        "height": "195"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.businessinsider.in/photo/84141407/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg?imgsize=32345",
+                        "twitter:title": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "og:type": "article",
+                        "og:image:alt": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "website": "https://www.businessinsider.in",
+                        "og:site_name": "Business Insider",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms",
+                        "og:title": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "og:description": "The national stock exchange of the Philippines wants to bring crypto assets under its purview, while Vietnam\u2019s central bank has been asked to implement a pilot",
+                        "twitter:image": "https://www.businessinsider.in/photo/84141407/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg?imgsize=32345",
+                        "snapchat:sticker": "https://www.businessinsider.in/thumb/msid-84141407,width-1200,height-900,imgsize=32345/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg",
+                        "snapchat": "biindia",
+                        "twitter:image:alt": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "fb:app_id": "645465345465774",
+                        "news_keywords": "cryptocurrency in vietnam,Cryptocurrency in India,cryptocurrency in china,cryptocurrency in philippines,cryptocurrency",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "The national stock exchange of the Philippines wants to bring crypto assets under its purview, while Vietnam\u2019s central bank has been asked to implement a pilot",
+                        "mobileoptimized": "320",
+                        "fb:admins": "556964827",
+                        "og:url": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.in/photo/84141407/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg?imgsize=32345"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms",
+                        "name": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Philippines to develop rules on cryptocurrency trading | Reuters",
+            "htmlTitle": "<b>Philippines</b> to develop rules on <b>cryptocurrency</b> trading | Reuters",
+            "link": "https://www.reuters.com/article/us-philippines-cryptocurrency/philippines-to-develop-rules-on-cryptocurrency-trading-idUSKBN1FI0NK",
+            "displayLink": "www.reuters.com",
+            "snippet": "Jan 28, 2018 ... MANILA (Reuters) - The Philippines' Securities and Exchange Commission said on Monday it is crafting rules to regulate cryptocurrency\u00a0...",
+            "htmlSnippet": "Jan 28, 2018 <b>...</b> MANILA (Reuters) - The <b>Philippines</b>&#39; Securities and Exchange Commission said on Monday it is crafting rules to <b>regulate cryptocurrency</b>&nbsp;...",
+            "cacheId": "hMdrtslnGIEJ",
+            "formattedUrl": "https://www.reuters.com/...philippines-cryptocurrency/philippines-to-develop -rules-on-cryptocurrency-trading-idUSKBN1FI0NK",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>philippines</b>-<b>cryptocurrency</b>/<b>philippines</b>-to-develop -rules-on-<b>cryptocurrency</b>-trading-idUSKBN1FI0NK",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwG7ovzPI_VJ6g9xCr6WRIRTzws1OuDyDV9lGG-Xsz4ak7PiciAoRxPw",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20180129&t=2&i=1226225526&r=LYNXMPEE0S0GU&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2018-01-29T07:37:26Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "technologyNews;ousivMolt;RCOMUS_Fintech;bank-news;rcom-apac;consolidated-business;US-The-Wire;rcom-emerging-markets;technology-upclose;RCOM-fintech-extended;finance-upclose;USWire_EL;everythingNews;cyber-risk-full",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "The Philippines' Securities and Exchange Commission said on Monday it is crafting rules to regulate cryptocurrency transactions to protect investors and reduce the risk of fraud.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2018-01-29T07:37:26Z",
+                        "og:article:section": "Future of Money",
+                        "analyticsattributes.articledate": "2018-01-29T07:37:26Z",
+                        "dcsext.dartzone": "reuters.com/business/finance/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "US,PHILIPPINES,CRYPTOCURRENCY,ASEAN Countries,Asia / Pacific,Corporate Events,Banking & Investment Services (TRBC level 2),Crime / Law / Justice,Crime,Cryptocurrencies,Diplomacy / Foreign Policy,Economic News (3rd Party),Emerging Market Countries,Securities & Commodity Exchanges (TRBC level 5),Financials (Legacy),Financials (TRBC level 1),Financial & Commodity Market Operators & Service Providers (TRBC level 4),Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5),Currencies / Foreign Exchange Markets,General News,Computer Crime / Hacking / Cybercrime,Economic News,Market Events,Philippines,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,Science / Technology,South-East Asia,Technology (TRBC level 1),Technology / Media / Telecoms,Reuters Top News,International Trade",
+                        "og:article:published_time": "2018-01-29T07:37:37Z",
+                        "og:article:tag": "US,PHILIPPINES,CRYPTOCURRENCY,ASEAN Countries,Asia / Pacific,Corporate Events,Banking & Investment Services (TRBC level 2),Crime / Law / Justice,Crime,Cryptocurrencies,Diplomacy / Foreign Policy,Economic News (3rd Party),Emerging Market Countries,Securities & Commodity Exchanges (TRBC level 5),Financials (Legacy),Financials (TRBC level 1),Financial & Commodity Market Operators & Service Providers (TRBC level 4),Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5),Currencies / Foreign Exchange Markets,General News,Computer Crime / Hacking / Cybercrime,Economic News,Market Events,Philippines,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,Science / Technology,South-East Asia,Technology (TRBC level 1),Technology / Media / Telecoms,Reuters Top News,International Trade",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20180129&t=2&i=1226225526&r=LYNXMPEE0S0GU&w=800",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20180129&t=2&i=1226225526&r=LYNXMPEE0S0GU&w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Philippines to develop rules on cryptocurrency trading",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "ASEAN,ASIA,BACT,BISV,CLJ,CRIM,CRYCUR,DIP,ECON,EMRG,EXCA,FIN,FINS,FNMKT,FNMKT1,FRX,GEN,HACK,MCE,MEVN,PH,PLCY,POL,REGS,SCI,SEASIA,TECH,TMT,TOPNWS,TRD",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20180129&t=2&i=1226225526&r=LYNXMPEE0S0GU&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;PHILIPPINES;CRYPTOCURRENCY;ASEAN Countries;Asia / Pacific;Corporate Events;Banking & Investment Services (TRBC level 2);Crime / Law / Justice;Crime;Cryptocurrencies;Diplomacy / Foreign Policy;Economic News (3rd Party);Emerging Market Countries;Securities & Commodity Exchanges (TRBC level 5);Financials (Legacy);Financials (TRBC level 1);Financial & Commodity Market Operators & Service Providers (TRBC level 4);Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5);Currencies / Foreign Exchange Markets;General News;Computer Crime / Hacking / Cybercrime;Economic News;Market Events;Philippines;Monetary / Fiscal Policy / Policy Makers;Government / Politics;Corporate / Market Regulation;Science / Technology;South-East Asia;Technology (TRBC level 1);Technology / Media / Telecoms;Reuters Top News;International Trade",
+                        "sailthru.title": "Philippines to develop rules on cryptocurrency trading",
+                        "analyticsattributes.contenttitle": "Philippines to develop rules on cryptocurrency trading",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-philippines-cryptocurrency-idUSKBN1FI0NK",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2018-01-29T07:37:26Z",
+                        "og:type": "article",
+                        "twitter:title": "Philippines to develop rules on cryptocurrency trading",
+                        "og:title": "Philippines to develop rules on cryptocurrency trading",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-PHILIPPINES-CRYPTOCURRENCY",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "Business - Finance",
+                        "sailthru.description": "The Philippines' Securities and Exchange Commission said on Monday it is crafting rules to regulate cryptocurrency transactions to protect investors and reduce the risk of fraud.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "The Philippines' Securities and Exchange Commission said on Monday it is crafting rules to regulate cryptocurrency transactions to protect investors and reduce the risk of fraud.",
+                        "analyticsattributes.topicn2names": "ASEAN Countries,Asia / Pacific,Corporate Events,Banking & Investment Services (TRBC level 2),Crime / Law / Justice,Crime,Cryptocurrencies,Diplomacy / Foreign Policy,Economic News (3rd Party),Emerging Market Countries,Securities & Commodity Exchanges (TRBC level 5),Financials (Legacy),Financials (TRBC level 1),Financial & Commodity Market Operators & Service Providers (TRBC level 4),Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5),Currencies / Foreign Exchange Markets,General News,Computer Crime / Hacking / Cybercrime,Economic News,Market Events,Philippines,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,Science / Technology,South-East Asia,Technology (TRBC level 1),Technology / Media / Telecoms,Reuters Top News,International Trade",
+                        "og:url": "https://www.reuters.com/article/us-philippines-cryptocurrency-idUSKBN1FI0NK"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20180129&t=2&i=1226225526&r=LYNXMPEE0S0GU&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Philippines and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Philippines</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/philippines/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in the Philippines? ... Philippines Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins,\u00a0...",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in the <b>Philippines</b>? ... <b>Philippines Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins,&nbsp;...",
+            "cacheId": "rrzGPM1xZT8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/philippines/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>philippines</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3XsEyjp1VJsEv5VsvgflQylmlveb1vE-kJebI4a75KZzuOi3r0d2oAV22",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493701-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-03-06T20:57:17+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/philippines/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in the Philippines? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493701-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493701-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:51+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Philippines bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Philippines and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Philippines and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:51+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Philippines and Cryptocurrency Philippines Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Bangko Sentral ng Pilipinas (BSP, i.e., the Philippines Central Bank) has issued guidelines concerning virtual currencies (VCs).[736]Specifically, these...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/philippines/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493701-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Philippine Central Bank Widens Cryptocurrency Regulation \u2014 Sees ...",
+            "htmlTitle": "<b>Philippine</b> Central Bank Widens <b>Cryptocurrency Regulation</b> \u2014 Sees ...",
+            "link": "https://news.bitcoin.com/philippine-central-bank-cryptocurrency-regulation-growth-crypto/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Jan 26, 2021 ... The Philippines' central bank, the Bangko Sentral ng Pilipinas (BSP), has expanded the country's cryptocurrency regulation after seeing\u00a0...",
+            "htmlSnippet": "Jan 26, 2021 <b>...</b> The <b>Philippines</b>&#39; central bank, the Bangko Sentral ng Pilipinas (BSP), has expanded the country&#39;s <b>cryptocurrency regulation</b> after seeing&nbsp;...",
+            "cacheId": "3BgFyPPmMyAJ",
+            "formattedUrl": "https://news.bitcoin.com/philippine-central-bank-cryptocurrency-regulation- growth-crypto/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>philippine</b>-central-bank-<b>cryptocurrency</b>-<b>regulation</b>- growth-crypto/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTbA-_gzIadyPZXIf11FRH9MlVHCki2vRJfufKbqaL_yM9YDV-BLSU-EY",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Article": [
+                    {
+                        "datePublished": "2021-01-27T02:30:25Z",
+                        "keywords": "BSP,bsp bitcoin,bsp crypto,crypto exchanges,Crypto regulation,Cryptocurrency regulation,fatf,philippine bitcoin regulation,philippine central bank,philippine crypto regulation,The Philippines",
+                        "inLanguage": "en-US",
+                        "dateModified": "2021-01-29T03:35:49Z",
+                        "headline": "Philippine Central Bank Widens Cryptocurrency Regulation \u2014 Sees \u2018Accelerated Growth\u2019 in Crypto Activity",
+                        "articleSection": "Regulation"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2019/01/8zk5HiaC-bsp-1.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-01-27T02:30:25+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Philippine Central Bank Widens Cryptocurrency Regulation \u2014 Sees 'Accelerated Growth' in Crypto Activity \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Philippines' central bank, the Bangko Sentral ng Pilipinas (BSP), has expanded the country's cryptocurrency regulation after seeing \"accelerated growth\" in the use of crypto exchanges. The new regulatory framework is in line with the guidelines recommended by the Financial Action Task Force (FATF), according to the central bank.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-01-29T03:35:49+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/philippine-central-bank-cryptocurrency-regulation-growth-crypto/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Philippine Central Bank Widens Cryptocurrency Regulation \u2014 Sees 'Accelerated Growth' in Crypto Activity"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2019/01/8zk5HiaC-bsp-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Philippines SEC Plans to Regulate Cryptocurrencies, ICOs - CoinDesk",
+            "htmlTitle": "<b>Philippines</b> SEC Plans to <b>Regulate Cryptocurrencies</b>, ICOs - CoinDesk",
+            "link": "https://www.coindesk.com/markets/2018/01/29/philippines-sec-plans-to-regulate-cryptocurrencies-icos/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jan 29, 2018 ... The Philippines' Securities and Exchange Commission said on Monday it is crafting rules to regulate cryptocurrency transactions to protect\u00a0...",
+            "htmlSnippet": "Jan 29, 2018 <b>...</b> The <b>Philippines</b>&#39; Securities and Exchange Commission said on Monday it is crafting rules to <b>regulate cryptocurrency</b> transactions to protect&nbsp;...",
+            "cacheId": "QMsC7DKTvHAJ",
+            "formattedUrl": "https://www.coindesk.com/.../philippines-sec-plans-to-regulate- cryptocurrencies-icos/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>philippines</b>-sec-plans-to-<b>regulate</b>- <b>cryptocurrencies</b>-icos/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlqX2E3iUT5ArpZKuzo53IEH37W-IL9DQQWSzeddmiVolsd2xfcvWrhTmB",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/iSsxq1yBmtaHeBoLC11Z88drL9Q=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5PM26SI4BFG3HLJ36QF3CBALKE.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2018-01-29T16:15:07Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The Philippines\u2019 Securities and Exchange Commission has said that it is developing rules around crypto trading to curb the risk of fraud.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/HQwrt1Z2GFNakMvCLzi7cD8jRgU=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5PM26SI4BFG3HLJ36QF3CBALKE.jpg",
+                        "twitter:image:alt": "Philippines flag",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2018-01-29T16:15:07Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Philippines flag",
+                        "og:type": "article",
+                        "article:section": "Markets",
+                        "twitter:title": "Philippines SEC Plans to Regulate Cryptocurrencies, ICOs",
+                        "og:title": "Philippines SEC Plans to Regulate Cryptocurrencies, ICOs",
+                        "og:image:height": "628",
+                        "article:author": "Sujha Sundararajan",
+                        "article:tag": "Philippines, Regulation, News, Trading, Asia Pacific, ICOs",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Philippines\u2019 Securities and Exchange Commission has said that it is developing rules around crypto trading to curb the risk of fraud.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2018/01/29/philippines-sec-plans-to-regulate-cryptocurrencies-icos/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/iSsxq1yBmtaHeBoLC11Z88drL9Q=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5PM26SI4BFG3HLJ36QF3CBALKE.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Recently virtual currencies were legalized and cryptocurrency exchanges are now regulated by Central Bank of the Philippines (Bangko Sentral ng Pilipinas) under\u00a0...",
+            "htmlSnippet": "Recently virtual currencies were legalized and <b>cryptocurrency</b> exchanges are now <b>regulated</b> by Central Bank of the <b>Philippines</b> (Bangko Sentral ng Pilipinas) under&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency laws and regulations in The Philippines 2018 | Asia ...",
+            "htmlTitle": "<b>Cryptocurrency laws</b> and <b>regulations</b> in The <b>Philippines</b> 2018 | Asia ...",
+            "link": "https://law.asia/cryptocurrency-law-philippines/",
+            "displayLink": "law.asia",
+            "snippet": "The MORNBFI now requires the registration of virtual currency exchanges upon compliance with the requirements for registration of remittance and transfer\u00a0...",
+            "htmlSnippet": "The MORNBFI now requires the registration of virtual currency exchanges upon compliance with the requirements for registration of remittance and transfer&nbsp;...",
+            "cacheId": "wufKAU5uvUsJ",
+            "formattedUrl": "https://law.asia/cryptocurrency-law-philippines/",
+            "htmlFormattedUrl": "https://law.asia/<b>cryptocurrency</b>-law-<b>philippines</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WGDJgtTWqwhrP7IWKDpSo6VsNDSHTDIgCygXXV2ekHiC6Nx_o1vX-P8",
+                        "width": "281",
+                        "height": "180"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://law.asia/wp-content/uploads/2020/10/LAWDOTASIA-LOGO-e1602207738884-1.png"
+                    },
+                    {
+                        "width": "600",
+                        "url": "https://law.asia/wp-content/uploads/2018/07/Aida-Araceli-G-Roxas-Rivera-Senior-Partner-Paolo-S-Tamase-Associate-at-Cruz-Marcelo-Tenefrancia-in-Manila.jpg",
+                        "height": "384"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Vantage Asia Editor"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Law.asia"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://law.asia/wp-content/uploads/2018/07/Aida-Araceli-G-Roxas-Rivera-Senior-Partner-Paolo-S-Tamase-Associate-at-Cruz-Marcelo-Tenefrancia-in-Manila.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2018-07-12T05:09:40+00:00",
+                        "og:image:width": "600",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Law.asia",
+                        "tec-api-origin": "https://law.asia",
+                        "author": "Vantage Asia Editor",
+                        "og:title": "Cryptocurrency laws and regulations in The Philippines",
+                        "og:image:height": "384",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "On 10 April 2018, the EIPD issued a similar advisory for \u201ccloud mining contracts\u201d. Treating cryptocurrency as securities or investment contracts has serious regulatory implications.",
+                        "twitter:creator": "@ablj_insights",
+                        "article:publisher": "https://www.facebook.com/AsiaBusinessLaw/",
+                        "twitter:data1": "Vantage Asia Editor",
+                        "twitter:data2": "8 minutes",
+                        "twitter:site": "@ablj_insights",
+                        "article:modified_time": "2018-07-26T07:44:30+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://law.asia/cryptocurrency-law-philippines/",
+                        "tec-api-version": "v1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://law.asia/wp-content/uploads/2018/07/Aida-Araceli-G-Roxas-Rivera-Senior-Partner-Paolo-S-Tamase-Associate-at-Cruz-Marcelo-Tenefrancia-in-Manila.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "article": [
+                    {
+                        "datemodified": "2018-07-26T15:44:30+08:00",
+                        "headline": "Cryptocurrency laws and regulations in The Philippines",
+                        "datepublished": "2018-07-12T13:09:40+00:00"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Practitioners' perspectives",
+                        "name": "Practitioners' perspectives",
+                        "position": "2"
+                    },
+                    {
+                        "item": "https://law.asia/cryptocurrency-law-philippines/",
+                        "name": "Cryptocurrency laws and regulations in The Philippines",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin and Cryptocurrency Regulation in the Philippines by Russell ...",
+            "htmlTitle": "Bitcoin and <b>Cryptocurrency Regulation</b> in the <b>Philippines</b> by Russell ...",
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3138051",
+            "displayLink": "papers.ssrn.com",
+            "snippet": "Mar 17, 2018 ... On February 6, 2017, the Bangko Sentral ng Pilipinas (\u201cBSP\u201d) issued the Guidelines for Virtual Currency Exchanges (BSP Circular No.",
+            "htmlSnippet": "Mar 17, 2018 <b>...</b> On February 6, 2017, the Bangko Sentral ng Pilipinas (\u201cBSP\u201d) issued the Guidelines for Virtual Currency Exchanges (BSP Circular No.",
+            "formattedUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3138051",
+            "htmlFormattedUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3138051",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsVrE6hwBO1rUJ5lqnZEO2T6r0WVWJTvSFNRvwmRkrZb9O0Tn-QNc88aft",
+                        "width": "340",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "bitcoin, cryptocurrency, virtual currency",
+                        "citation_publication_date": "2018/03/11",
+                        "og:image": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg",
+                        "citation_title": "Bitcoin and Cryptocurrency Regulation in the Philippines",
+                        "og:image:width": "1200",
+                        "papers_server": "papers.ssrn.com",
+                        "user_name": "Public User",
+                        "og:title": "Bitcoin and Cryptocurrency Regulation in the Philippines",
+                        "citation_author": "Geronimo, Russell Stanley Q.",
+                        "og:image:height": "630",
+                        "citation_abstract_html_url": "https://papers.ssrn.com/abstract=3138051",
+                        "on_behalf": "False",
+                        "citation_online_date": "2018/03/17",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "static_server": "https://cdn.ssrn.com",
+                        "own_design": "false",
+                        "citation_doi": "10.2139/ssrn.3138051",
+                        "is_custom": "false",
+                        "citation_pdf_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3138051",
+                        "free_download_available": "true",
+                        "www_server": "www.ssrn.com",
+                        "part_id": "1",
+                        "hq_server": "hq.ssrn.com",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How to meet the crypto regulatory challenge | World Economic Forum",
+            "htmlTitle": "How to meet the crypto <b>regulatory</b> challenge | World Economic Forum",
+            "link": "https://www.weforum.org/agenda/2021/09/meeting-the-crypto-regulatory-challenge/",
+            "displayLink": "www.weforum.org",
+            "snippet": "Sep 2, 2021 ... Gavel and cryptocurrency tokens; government regulation. ... are providing stable income for the un- and underemployed in the Philippines,\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> Gavel and <b>cryptocurrency</b> tokens; government <b>regulation</b>. ... are providing stable income for the un- and underemployed in the <b>Philippines</b>,&nbsp;...",
+            "cacheId": "IgyHyUvKazgJ",
+            "formattedUrl": "https://www.weforum.org/agenda/.../meeting-the-crypto-regulatory-challenge /",
+            "htmlFormattedUrl": "https://www.weforum.org/agenda/.../meeting-the-crypto-<b>regulatory</b>-challenge /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3N9yRTEaXEaUQO_5BPzHHdszSELpXueQeM8HuLEIsbuj6MGiA6nUQi8E",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#2b5797",
+                        "og:image": "https://assets.weforum.org/article/image/responsive_medium_4p89yyOKTT04FohaqUK2wqUOujHK6fAkBN7VSj6pEPY.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "How to meet the crypto regulatory challenge",
+                        "theme-color": "#035b9c",
+                        "og:site_name": "World Economic Forum",
+                        "twitter:url": "https://www.weforum.org/agenda/2021/09/meeting-the-crypto-regulatory-challenge/",
+                        "og:title": "How to meet the crypto regulatory challenge",
+                        "csrf-param": "authenticity_token",
+                        "og:description": "Crypto adoption soared during the pandemic. With the right rules, it could help boost the formal economy and secure financial inclusion on a global scale.",
+                        "fb:pages": "7746841478",
+                        "twitter:image": "https://assets.weforum.org/article/image/responsive_medium_4p89yyOKTT04FohaqUK2wqUOujHK6fAkBN7VSj6pEPY.jpg",
+                        "pocket-site-verification": "0a5ad3db01a37673563584ab440eda",
+                        "fb:app_id": "1085482764806408",
+                        "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                        "twitter:description": "Crypto adoption soared during the pandemic. With the right rules, it could help boost the formal economy and secure financial inclusion on a global scale.",
+                        "csrf-token": "NWkxyVoJ3mA8KJT7PepghIaArmZuNFbsJgJjBhgFjZ1vaPMJ8xu9FxjS6Ds1yDrr09ts6IzUCKgCsj5ZQRHA8Q==",
+                        "og:url": "https://www.weforum.org/agenda/2021/09/meeting-the-crypto-regulatory-challenge/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.weforum.org/article/image/responsive_medium_4p89yyOKTT04FohaqUK2wqUOujHK6fAkBN7VSj6pEPY.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

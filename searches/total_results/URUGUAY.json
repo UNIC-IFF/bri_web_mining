@@ -1,0 +1,570 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - URUGUAY",
+                "totalResults": "645000",
+                "searchTerms": "URUGUAY",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - URUGUAY",
+                "totalResults": "645000",
+                "searchTerms": "URUGUAY",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.489049,
+        "formattedSearchTime": "0.49",
+        "totalResults": "645000",
+        "formattedTotalResults": "645,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Uruguay and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Uruguay</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/uruguay/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Uruguay Cryptocurrency Laws ... Uruguay offers a series of incentives to technology companies, encouraging the development of the digital currency sector, for\u00a0...",
+            "htmlSnippet": "<b>Uruguay Cryptocurrency Laws</b> ... <b>Uruguay</b> offers a series of incentives to technology companies, encouraging the development of the digital currency sector, for&nbsp;...",
+            "cacheId": "MJdJKeRNOpMJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/uruguay/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>uruguay</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-07T04:39:58+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/uruguay/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Uruguay? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:26+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Uruguay and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Uruguay and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:56:26+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Uruguay and Cryptocurrency Uruguay Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Uruguay has not currently enacted regulations or legislation specifically regulating digital currency yet. Thus, the legal status of cryptocurrency in Uruguay...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/uruguay/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Bank of Uruguay Describes Roadmap to Crypto Asset ...",
+            "htmlTitle": "Central Bank of <b>Uruguay</b> Describes Roadmap to Crypto Asset ...",
+            "link": "https://news.bitcoin.com/central-bank-of-uruguay-describes-roadmap-to-crypto-asset-regulation/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Oct 6, 2021 ... The central bank clarified that cryptocurrency-related activities were not regulated by any institutions in the country. As a consequence, none\u00a0...",
+            "htmlSnippet": "Oct 6, 2021 <b>...</b> The central bank clarified that <b>cryptocurrency</b>-related activities were not <b>regulated</b> by any institutions in the country. As a consequence, none&nbsp;...",
+            "cacheId": "TtxWdyR6geQJ",
+            "formattedUrl": "https://news.bitcoin.com/central-bank-of-uruguay-describes-roadmap-to- crypto-asset-regulation/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/central-bank-of-<b>uruguay</b>-describes-roadmap-to- crypto-asset-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0ftb5G3Ubw8Unu5io8lGiCOGxsVfq3An4v30ElIOUaM2Isrctw_Kr4s",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/shutterstock_2008449269.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-10-06T07:00:43+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Central Bank of Uruguay Describes Roadmap to Crypto Asset Regulation \u2013 Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Central Bank of Uruguay issued a statement describing a roadmap for the regulation of cryptocurrency assets in the future.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Sergio Goschenko",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-10-06T04:04:00+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/central-bank-of-uruguay-describes-roadmap-to-crypto-asset-regulation/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Central Bank of Uruguay Describes Roadmap to Crypto Asset Regulation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/shutterstock_2008449269.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uruguayan Lawmaker Proposes Bill to Allow Crypto to be Used for ...",
+            "htmlTitle": "<b>Uruguayan</b> Lawmaker Proposes Bill to Allow Crypto to be Used for ...",
+            "link": "https://www.yahoo.com/lifestyle/uruguayan-lawmaker-proposes-bill-treat-195749926.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Aug 4, 2021 ... A senator from Uruguay has introduced a bill to allow businesses to accept cryptocurrencies as payments and regulate their use within the\u00a0...",
+            "htmlSnippet": "Aug 4, 2021 <b>...</b> A senator from <b>Uruguay</b> has introduced a bill to allow businesses to accept <b>cryptocurrencies</b> as payments and <b>regulate</b> their use within the&nbsp;...",
+            "cacheId": "wPtEKm8Ir8QJ",
+            "formattedUrl": "https://www.yahoo.com/.../uruguayan-lawmaker-proposes-bill-treat- 195749926.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>uruguayan</b>-lawmaker-proposes-bill-treat- 195749926.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1a3_9CzQ205B0l2hsRtk-6Pl6dqxIKosj7sWzM3JQ8sybt_3g7SYBR6SM",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/05964c7b-3fd7-36e6-ab0e-e88fad80d5b1",
+                        "og:image": "https://s.yimg.com/ny/api/res/1.2/3nT6WUg6P0Tcxr72EvfXtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/uu/api/res/1.2/iw6ouzp_XI9zYtJCalkXiQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/1b081a1159d4a8ba95849df9568e9b88",
+                        "twitter:title": "Uruguayan Lawmaker Proposes Bill to Allow Crypto to be Used for Payments",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Uruguayan Lawmaker Proposes Bill to Allow Crypto to be Used for Payments",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "801",
+                        "og:description": "The project, presented by ruling party senator Juan Sartori, includes a regulatory framework for crypto exchanges and miners.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/ny/api/res/1.2/3nT6WUg6P0Tcxr72EvfXtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/uu/api/res/1.2/iw6ouzp_XI9zYtJCalkXiQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/1b081a1159d4a8ba95849df9568e9b88",
+                        "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/3nT6WUg6P0Tcxr72EvfXtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/uu/api/res/1.2/iw6ouzp_XI9zYtJCalkXiQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/1b081a1159d4a8ba95849df9568e9b88",
+                        "al:android:url": "yfinance://article/05964c7b-3fd7-36e6-ab0e-e88fad80d5b1",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Juan Sartori, legal tender, legal person, Crypto assets, legal business, National Party",
+                        "twitter:description": "The project, presented by ruling party senator Juan Sartori, includes a regulatory framework for crypto exchanges and miners.",
+                        "og:url": "https://finance.yahoo.com/news/uruguayan-lawmaker-proposes-bill-treat-195749926.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/ny/api/res/1.2/Ts9sWnTnKdzPmUSOEFCl1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/uu/api/res/1.2/iw6ouzp_XI9zYtJCalkXiQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/1b081a1159d4a8ba95849df9568e9b88"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uruguayan senator introduces bill to enable use of crypto for payments",
+            "htmlTitle": "<b>Uruguayan</b> senator introduces bill to enable use of crypto for payments",
+            "link": "https://cointelegraph.com/news/uruguay-senator-introduces-bill-to-enable-use-of-crypto-for-payments",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Aug 5, 2021 ... Uruguayan Senator Juan Sartori has introduced a draft bill to regulate cryptocurrency and enable businesses to accept crypto payments.",
+            "htmlSnippet": "Aug 5, 2021 <b>...</b> <b>Uruguayan</b> Senator Juan Sartori has introduced a draft bill to <b>regulate cryptocurrency</b> and enable businesses to accept crypto payments.",
+            "cacheId": "Z4XoC9L-jNoJ",
+            "formattedUrl": "https://cointelegraph.com/.../uruguay-senator-introduces-bill-to-enable-use-of -crypto-for-payments",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>uruguay</b>-senator-introduces-bill-to-enable-use-of -crypto-for-payments",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQunMBtXhfyiMalZ-RalsVL59kjdvrUXIhiI6CS6bgahCqDVDSgvzO-ciKW",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDgvZDMxYTU5MjgtZWE0MS00OWI0LWJiM2MtZDQ1YzM4YTg3MTJlLmpwZWc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Uruguayan senator introduces bill to enable use of crypto for payments",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Uruguayan senator introduces bill to enable use of crypto for payments",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Senator Juan Satori introduced a bill that would enables businesses to accept crypto payments. If given the green light, the government will issue three types of licenses for businesses using crypto.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDgvZDMxYTU5MjgtZWE0MS00OWI0LWJiM2MtZDQ1YzM4YTg3MTJlLmpwZWc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Senator Juan Satori introduced a bill that would enables businesses to accept crypto payments. If given the green light, the government will issue three types of licenses for businesses using crypto.",
+                        "og:url": "https://cointelegraph.com/news/uruguay-senator-introduces-bill-to-enable-use-of-crypto-for-payments"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDgvZDMxYTU5MjgtZWE0MS00OWI0LWJiM2MtZDQ1YzM4YTg3MTJlLmpwZWc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Uruguay | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Uruguay</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/uruguay",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Uruguay for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Uruguay</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "QZa1-8NptF0J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/uruguay",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>uruguay</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Uruguay for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Uruguay | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Uruguay for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Uruguay | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/uruguay"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Bank of Uruguay Establishes 'Work Plan' to Regulate Digital ...",
+            "htmlTitle": "Central Bank of <b>Uruguay</b> Establishes &#39;Work Plan&#39; to <b>Regulate</b> Digital ...",
+            "link": "https://www.coindesk.com/policy/2021/10/04/central-bank-of-uruguay-establishes-work-plan-to-regulate-digital-assets/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Oct 4, 2021 ... The leader in news and information on cryptocurrency, digital assets and the future of money, CoinDesk is a media outlet that strives for the\u00a0...",
+            "htmlSnippet": "Oct 4, 2021 <b>...</b> The leader in news and information on <b>cryptocurrency</b>, digital assets and the future of money, CoinDesk is a media outlet that strives for the&nbsp;...",
+            "cacheId": "fqD2b-y3UecJ",
+            "formattedUrl": "https://www.coindesk.com/.../central-bank-of-uruguay-establishes-work-plan- to-regulate-digital-assets/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../central-bank-of-<b>uruguay</b>-establishes-work-plan- to-<b>regulate</b>-digital-assets/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUd8KQaDIO3uQlkPyyWaJw-KIn6ndC9HmmA_QJjG4k8ZJaFv9sSSfmmcM",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/6ZTLyTvQzmFrbUeZadQ6l1KD35g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QZRJVNSNHVBJRLJWWXQZNYF2RY.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-10-04T15:19:53.869Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Central Bank of Uruguay Establishes \u2018Work Plan\u2019 to Regulate Digital Assets",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Central Bank of Uruguay Establishes \u2018Work Plan\u2019 to Regulate Digital Assets",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The BCU plans to finalize a proposal to amend the current legal provisions covering digital assets and create a clear framework for their regulation by the end of the year.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Andr\u00e9s Engler",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/-VSZPKPpzuSQl78GBxh8L9Qwql4=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QZRJVNSNHVBJRLJWWXQZNYF2RY.jpg",
+                        "article:tag": "Central Banks, Digital Assets",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-10-04T18:59:17.514Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The BCU plans to finalize a proposal to amend the current legal provisions covering digital assets and create a clear framework for their regulation by the end of the year.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/10/04/central-bank-of-uruguay-establishes-work-plan-to-regulate-digital-assets/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/6ZTLyTvQzmFrbUeZadQ6l1KD35g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QZRJVNSNHVBJRLJWWXQZNYF2RY.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: emerging rules lead the way in Latin America ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: emerging rules lead the way in Latin America ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63-8e02-380e8b90cc33",
+            "displayLink": "www.lexology.com",
+            "snippet": "Oct 28, 2020 ... In Uruguay there is no specific legislation on cryptocurrencies, although since 2018 the Uruguayan Chamber of FinTech announced that a\u00a0...",
+            "htmlSnippet": "Oct 28, 2020 <b>...</b> In <b>Uruguay</b> there is no specific legislation on <b>cryptocurrencies</b>, although since 2018 the <b>Uruguayan</b> Chamber of FinTech announced that a&nbsp;...",
+            "cacheId": "qdukZadyXSsJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrencies: emerging rules lead the way in Latin America",
+                        "workarea": "Banking",
+                        "jurisdiction": "USA",
+                        "dc.date": "2020-10-28",
+                        "firmname": "Garrigues",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63-8e02-380e8b90cc33",
+                        "og:description": "We are seeing a proliferation of cryptocurrencies throughout the world and Latin America is no exception. Here the legislation on cryptocurrencies is\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uruguay Senator Proposes Bill to Allow Crypto Payments - CoinDesk",
+            "htmlTitle": "<b>Uruguay</b> Senator Proposes Bill to Allow Crypto Payments - CoinDesk",
+            "link": "https://www.coindesk.com/markets/2021/08/04/uruguayan-lawmaker-proposes-bill-to-allow-crypto-to-be-used-for-payments/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Aug 4, 2021 ... CORRECTION (Aug. \u00b7 A senator from Uruguay has introduced a bill to allow the use of cryptocurrencies as payments in contracts and would regulate\u00a0...",
+            "htmlSnippet": "Aug 4, 2021 <b>...</b> CORRECTION (Aug. &middot; A senator from <b>Uruguay</b> has introduced a bill to allow the use of <b>cryptocurrencies</b> as payments in contracts and would <b>regulate</b>&nbsp;...",
+            "cacheId": "T2_go8RvcugJ",
+            "formattedUrl": "https://www.coindesk.com/.../uruguayan-lawmaker-proposes-bill-to-allow- crypto-to-be-used-for-payments/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>uruguayan</b>-lawmaker-proposes-bill-to-allow- crypto-to-be-used-for-payments/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcF2tbrwIwhJLBCc17kL7LUu3psFKJe2ope714yXv70pQKIpM_HSDc7NU",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/z8nqfiEi00Cb8z1vvLFErpvhm10=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XC5EDJHBI5HXNGE46QKVISZNNQ.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-08-04T19:57:49Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The project, presented by ruling party senator Juan Sartori, includes a regulatory framework for crypto exchanges and miners.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/1X6dOi6PKjfJQr_qmBaBQZga_Ss=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XC5EDJHBI5HXNGE46QKVISZNNQ.jpg",
+                        "twitter:image:alt": "Uruguayan flag",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-08-04T19:57:49Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Uruguayan flag",
+                        "og:type": "article",
+                        "article:section": "Markets",
+                        "twitter:title": "Uruguayan Lawmaker Proposes Bill to Allow Crypto to be Used for Payments",
+                        "og:title": "Uruguayan Lawmaker Proposes Bill to Allow Crypto to be Used for Payments",
+                        "og:image:height": "628",
+                        "article:author": "Andr\u00e9s Engler",
+                        "article:tag": "Latin America, Uruguay, Cryptocurrencies",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The project, presented by ruling party senator Juan Sartori, includes a regulatory framework for crypto exchanges and miners.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2021/08/04/uruguayan-lawmaker-proposes-bill-to-allow-crypto-to-be-used-for-payments/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/z8nqfiEi00Cb8z1vvLFErpvhm10=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XC5EDJHBI5HXNGE46QKVISZNNQ.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Newly-filed legislation in Uruguay aims to regulate digital assets",
+            "htmlTitle": "Newly-filed legislation in <b>Uruguay</b> aims to <b>regulate</b> digital assets",
+            "link": "https://www.theblockcrypto.com/linked/113686/uruguay-bill-legalize-and-regulate-digital-assets",
+            "displayLink": "www.theblockcrypto.com",
+            "snippet": "Aug 5, 2021 ... \u201cCryptocurrencies are an opportunity to create investment and work. Today we present a bill, pioneer in the world, that seeks to establish a\u00a0...",
+            "htmlSnippet": "Aug 5, 2021 <b>...</b> \u201c<b>Cryptocurrencies</b> are an opportunity to create investment and work. Today we present a bill, pioneer in the world, that seeks to establish a&nbsp;...",
+            "formattedUrl": "https://www.theblockcrypto.com/.../uruguay-bill-legalize-and-regulate-digital -assets",
+            "htmlFormattedUrl": "https://www.theblockcrypto.com/.../<b>uruguay</b>-bill-legalize-and-<b>regulate</b>-digital -assets",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlICPVAu5EnzaB4QsYvaoNxaZwg0_4Asut_bKbGmyLba-j_KB015kTlktM",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Funding_Gen_2.png",
+                        "og:type": "article",
+                        "og:image:width": "1920",
+                        "article:section": "Legal",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Newly-filed legislation in Uruguay aims to regulate digital assets",
+                        "og:site_name": "The Block",
+                        "og:title": "Newly-filed legislation in Uruguay aims to regulate digital assets",
+                        "og:image:height": "1080",
+                        "og:description": "The bill would legalize digital assets and provide a regulatory framework for incorporating crypto into its financial system.",
+                        "twitter:creator": "@theblock__",
+                        "og:image:secure_url": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Funding_Gen_2.png",
+                        "article:publisher": "https://facebook.com/The-Block-Crypto-191118545129469",
+                        "twitter:image": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Funding_Gen_2.png",
+                        "article:tag": "cryptocurrency",
+                        "twitter:site": "@theblock__",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The bill would legalize digital assets and provide a regulatory framework for incorporating crypto into its financial system.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.theblockcrypto.com/linked/113686/uruguay-bill-legalize-and-regulate-digital-assets"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Funding_Gen_2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uruguay, Colombia Make Advances to Regulate Bitcoin Market ...",
+            "htmlTitle": "<b>Uruguay</b>, Colombia Make Advances to <b>Regulate</b> Bitcoin Market ...",
+            "link": "https://decrypt.co/77678/uruguay-colombia-bitcoin-regulations",
+            "displayLink": "decrypt.co",
+            "snippet": "Aug 4, 2021 ... Uruguay is joining the recent wave of political initiatives to regulate the Bitcoin and cryptocurrency industry in Latin America,\u00a0...",
+            "htmlSnippet": "Aug 4, 2021 <b>...</b> <b>Uruguay</b> is joining the recent wave of political initiatives to <b>regulate</b> the Bitcoin and <b>cryptocurrency</b> industry in Latin America,&nbsp;...",
+            "cacheId": "BXIKtXQyaGIJ",
+            "formattedUrl": "https://decrypt.co/77678/uruguay-colombia-bitcoin-regulations",
+            "htmlFormattedUrl": "https://decrypt.co/77678/<b>uruguay</b>-colombia-bitcoin-<b>regulations</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoWxGqaH8FY4t1SXkaPjL7Wx26Fj9GAztD6E3C1zCxC_h8WJ-dTrtcJN6l",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/us-southern-command-fuller-venezuela-south-america-crypto-1-gID_4.jpg",
+                        "theme-color": "#000",
+                        "article:published_time": "2021-08-04T21:58:30",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Decrypt",
+                        "og:description": "Senators in Uruguay and Colombia have introduced bills with the goal of creating a safer Bitcoin market in their countries.",
+                        "article:publisher": "https://www.facebook.com/decryptmedia",
+                        "twitter:image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/us-southern-command-fuller-venezuela-south-america-crypto-1-gID_4.jpg",
+                        "next-head-count": "56",
+                        "twitter:site": "@decryptmedia",
+                        "article:modified_time": "2021-08-04T21:58:28",
+                        "news_keywords": "bitcoin, Colombia, cryptocurrency, Latin America, law, mining, regulations, Uruguay",
+                        "og:type": "article",
+                        "og:image:alt": "bitcoin Colombia cryptocurrency Latin America law mining regulations Uruguay",
+                        "article:section": "News",
+                        "twitter:title": "Uruguay, Colombia Make Advances to Regulate Bitcoin Market - Decrypt",
+                        "msvalidate.01": "DD213A13BA0ECDFE934884391A9E8039",
+                        "author": "Decrypt / Jose Antonio Lanz",
+                        "og:title": "Uruguay, Colombia Make Advances to Regulate Bitcoin Market - Decrypt",
+                        "article:tag": "bitcoin",
+                        "fb:app_id": "2105710919682357",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no",
+                        "twitter:description": "Senators in Uruguay and Colombia have introduced bills with the goal of creating a safer Bitcoin market in their countries.",
+                        "og:locale": "en_US",
+                        "og:url": "https://decrypt.co/77678/uruguay-colombia-bitcoin-regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/us-southern-command-fuller-venezuela-south-america-crypto-1-gID_4.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

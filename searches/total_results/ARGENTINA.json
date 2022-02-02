@@ -1,0 +1,547 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ARGENTINA",
+                "totalResults": "681000",
+                "searchTerms": "ARGENTINA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ARGENTINA",
+                "totalResults": "681000",
+                "searchTerms": "ARGENTINA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.300566,
+        "formattedSearchTime": "0.30",
+        "totalResults": "681000",
+        "formattedTotalResults": "681,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Argentina",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Argentina</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/argentina",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... Cryptocurrencies are not prohibited in Argentina, and are therefore legal. Nevertheless, the government has issued regulations regarding\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> <b>Cryptocurrencies</b> are not prohibited in <b>Argentina</b>, and are therefore legal. Nevertheless, the government has issued <b>regulations</b> regarding&nbsp;...",
+            "cacheId": "8m9Hu_mJqH8J",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../argentina",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>argentina</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "dhO1NUInk4N1HnPo29ZmWhbRNMKQTVRpl9hSTEJL"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Argentina Cryptocurrency Laws - Vitural Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Argentina Cryptocurrency Laws</b> - Vitural Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/argentina/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "While cryptocurrencies are not prohibited, the Argentinian government has promulgated regulations with respect to cryptocurrencies, particularly in the areas of\u00a0...",
+            "htmlSnippet": "While <b>cryptocurrencies</b> are not prohibited, the <b>Argentinian</b> government has promulgated <b>regulations</b> with respect to <b>cryptocurrencies</b>, particularly in the areas of&nbsp;...",
+            "cacheId": "7ipdHLZ8YVoJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/argentina/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>argentina</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxnusIL7lfJfd1n51uw8YtUDjlCXsKpGbrfzA1K6AKFR9Pg7l5ouqibhwn",
+                        "width": "309",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/03/AdobeStock_253363462-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-03-06T23:20:28+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/argentina/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/03/AdobeStock_253363462-scaled.jpeg",
+                        "og:description": "Argentina Cryptocurrency & Blockchains Laws. Freeman Law, Cryptocurrency & Virtual Currency Attorneys. Schedule a Free Consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/03/AdobeStock_253363462-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/03/AdobeStock_253363462-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2021-10-24T22:58:20+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/switzerland/",
+                        "og:type": "article",
+                        "og:image:alt": "Argentina Cryptocurrency & Blockchains Laws.",
+                        "article:section": "Blockchain",
+                        "twitter:title": "Argentina and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Argentina and Cryptocurrency",
+                        "og:image:height": "1350",
+                        "og:updated_time": "2021-10-24T22:58:20+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Argentina and Cryptocurrency Argentina Cryptocurrency Laws Argentina has served as a regional leader in the area of cryptocurrency. \u00a0Under the National Constitution of Argentina[1] the only authority capable of issuing legal currency is the Central Bank.[2]\u00a0 Cryptocurrencies are not legal...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/argentina/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/03/AdobeStock_253363462-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A general introduction to the regulation of virtual currencies in ...",
+            "htmlTitle": "A general introduction to the <b>regulation</b> of virtual currencies in ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=a6a55424-9323-4240-85e6-23676ee5d3cc",
+            "displayLink": "www.lexology.com",
+            "snippet": "Sep 3, 2021 ... Cryptocurrencies are not prohibited in Argentina, and are therefore legal. Nevertheless, the government has issued regulations regarding\u00a0...",
+            "htmlSnippet": "Sep 3, 2021 <b>...</b> <b>Cryptocurrencies</b> are not prohibited in <b>Argentina</b>, and are therefore legal. Nevertheless, the government has issued <b>regulations</b> regarding&nbsp;...",
+            "cacheId": "E-iHYlCP27IJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=a6a55424-9323-4240...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=a6a55424-9323-4240...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "A general introduction to the regulation of virtual currencies in Argentina",
+                        "workarea": "Banking",
+                        "jurisdiction": "Argentina",
+                        "dc.date": "2021-09-03",
+                        "firmname": "Marval O'Farrell Mairal",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=a6a55424-9323-4240-85e6-23676ee5d3cc",
+                        "og:description": "This article reviews the need-to-know features of the legal and regulatory frameworks governing virtual currencies in Argentina, with particular regard to applicable securities and banking laws."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Argentina | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Argentina</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/argentina",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Argentina for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Argentina</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "3UyQv5n2llQJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/argentina",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>argentina</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Argentina for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Argentina | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Argentina for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Argentina | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/argentina"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Argentina's Federal Administration of Public Income (AFIP) and central bank have requested more information from domestic crypto exchanges and\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Argentina&#39;s</b> Federal Administration of Public Income (AFIP) and central bank have requested more information from domestic crypto exchanges and&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Argentinian Chamber of Fintech Makes Cryptocurrency Regulation ...",
+            "htmlTitle": "<b>Argentinian</b> Chamber of Fintech Makes <b>Cryptocurrency Regulation</b> ...",
+            "link": "https://news.bitcoin.com/argentinian-chamber-of-fintech-makes-cryptocurrency-regulation-proposal/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Dec 18, 2021 ... The subject of cryptocurrency has reached the highest levels in the country. In August, Alberto Fernandez, the current president of Argentina,\u00a0...",
+            "htmlSnippet": "Dec 18, 2021 <b>...</b> The subject of <b>cryptocurrency</b> has reached the highest levels in the country. In August, Alberto Fernandez, the current president of <b>Argentina</b>,&nbsp;...",
+            "cacheId": "hHKULXGtnN8J",
+            "formattedUrl": "https://news.bitcoin.com/argentinian-chamber-of-fintech-makes- cryptocurrency-regulation-proposal/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>argentinian</b>-chamber-of-fintech-makes- <b>cryptocurrency</b>-<b>regulation</b>-proposal/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDFozIqi17uG7BDxnS9VVKDW0g13wSsAFSOjqL1XMegm8-OTGd8g41T5a3",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1773046649.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-12-18T11:00:27+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Argentinian Chamber of Fintech Makes Cryptocurrency Regulation Proposal \u2013 Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Argentinian Chamber of Fintech issued a series of recommendations for the upcoming regulation of virtual assets in the country.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Sergio Goschenko",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-12-18T05:23:48+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/argentinian-chamber-of-fintech-makes-cryptocurrency-regulation-proposal/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Argentinian Chamber of Fintech Makes Cryptocurrency Regulation Proposal"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1773046649.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Your guide to cryptocurrency regulations around the world and ...",
+            "htmlTitle": "Your guide to <b>cryptocurrency regulations</b> around the world and ...",
+            "link": "https://www.cnbc.com/2018/03/27/a-complete-guide-to-cyprocurrency-regulations-around-the-world.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Mar 27, 2018 ... Here's your guide to where digital currencies stand with governments and regulators around the globe. In the photo below, Argentina President\u00a0...",
+            "htmlSnippet": "Mar 27, 2018 <b>...</b> Here&#39;s your guide to where digital currencies stand with governments and regulators around the globe. In the photo below, <b>Argentina</b> President&nbsp;...",
+            "cacheId": "jny6HJxwX4YJ",
+            "formattedUrl": "https://www.cnbc.com/.../a-complete-guide-to-cyprocurrency-regulations- around-the-world.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../a-complete-guide-to-cyprocurrency-<b>regulations</b>- around-the-world.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeCG9UYdN2i8xX7jIebxnryS7O4xYnwRRvBHkxcNYe5aP7lkkzC8z2_0",
+                        "width": "302",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/100641414-106664318.jpg?v=1366025764",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2018-03-27T10:00:00+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2018/03/27/a-complete-guide-to-cyprocurrency-regulations-around-the-world.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "As the demand for cryptocurrency grows, global regulators are divided on the best way to police them.",
+                        "twitter:creator": "Kr00ney",
+                        "parsely-metadata": "{\"nodeid\":105085490,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/100641414-106664318.jpg?v=1366025764\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "105085490",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2018-03-27T12:15:51+0000",
+                        "news_keywords": "Ether/USD,India,Bank of England,quotes,Christine Lagarde,International Monetary Fund,Cryptocurrency,Markets,Bitcoin/USD Coinbase,Bitcoin/USD Bitstamp,Bitcoin,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "slideshow",
+                        "og:type": "article",
+                        "twitter:title": "Your guide to cryptocurrency regulations around the world and where they are headed",
+                        "article:section": "Markets",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Kate Rooney",
+                        "og:title": "Your guide to cryptocurrency regulations around the world and where they are headed",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/100641414-106664318.jpg?v=1366025764",
+                        "article:tag": "Ether/USD",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "As the demand for cryptocurrency grows, global regulators are divided on the best way to police them.",
+                        "og:url": "https://www.cnbc.com/2018/03/27/a-complete-guide-to-cyprocurrency-regulations-around-the-world.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/100641414-106664318.jpg?v=1366025764"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin in Troubled Economies: The Potential of Cryptocurrencies in ...",
+            "htmlTitle": "Bitcoin in Troubled Economies: The Potential of <b>Cryptocurrencies</b> in ...",
+            "link": "https://revistas.uniandes.edu.co/doi/full/10.29263/lar03.2019.05",
+            "displayLink": "revistas.uniandes.edu.co",
+            "snippet": "Jul 1, 2019 ... Argentina and Venezuela's recent economic and political history share multiple traits such as strict currency exchange regulation, high\u00a0...",
+            "htmlSnippet": "Jul 1, 2019 <b>...</b> <b>Argentina</b> and Venezuela&#39;s recent economic and political history share multiple traits such as strict currency exchange <b>regulation</b>, high&nbsp;...",
+            "formattedUrl": "https://revistas.uniandes.edu.co/doi/full/10.29263/lar03.2019.05",
+            "htmlFormattedUrl": "https://revistas.uniandes.edu.co/doi/full/10.29263/lar03.2019.05",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnlg-Bl5uGjqJux6u0cGQs2FsHZT0WQebBHpDv2up4FPG9UlCckXJVDHBI",
+                        "width": "340",
+                        "height": "132"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Universidad de los Andes",
+                        "og:image": "https://revistas.uniandes.edu.co/na101/home/literatum/publisher/uandes/journals/content/lar/2019/lar.2019.issue-3/lar.2019.issue-3/20190808/lar.2019.issue-3.cover.jpg",
+                        "dc.description": "The rise of cryptocurrencies in Argentina and Venezuela in recent years shows how a highly distressed economy could become fertile ground for decentralized digital currency. This article analyzes s...",
+                        "og:type": "Article",
+                        "og:site_name": "Latin American Law Review",
+                        "pbcontext": ";requestedJournal:journal:lar;issue:issue:10.29263/lar.2019.issue-3;journal:journal:lar;page:string:Article/Chapter View;ctype:string:Journal Content;wgroup:string:UAndes website Group;pageGroup:string:Publication Pages;article:article:10.29263/lar03.2019.05;subPage:string:Full Text;website:website:uandes-site",
+                        "citation_journal_title": "Latin American Law Review",
+                        "dc.coverage": "world",
+                        "dc.format": "text/HTML",
+                        "dc.date": "2019-08-08",
+                        "og:description": "The rise of cryptocurrencies in Argentina and Venezuela in recent years shows how a highly distressed economy could become fertile ground for decentralized digital currency. This article analyzes similar traits between these two nations and examines why a collateral result of high inflation, tangled monetary regulation, and political instability could be the rapid growth of cryptocurrencies that are not linked to a central bank. Mistrust in central government authorities and national currency volatility that surpasses that of traded cryptocurrencies open a window for intangible ways of storing the falling value of local fiat currency. This article sets a general framework in order to have a better understanding of the growth of decentralized digital currencies in developing economies and continues to explain the rise of such technology in recent times in Argentina and Venezuela.",
+                        "dc.type": "research-article",
+                        "dc.source": "https://doi.org/10.29263/lar03.2019.05",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0",
+                        "dc.creator": "Andres F.  Cifuentes",
+                        "dc.title": "Bitcoin in Troubled Economies: The Potential of Cryptocurrencies in Argentina and Venezuela",
+                        "dc.subject": "Argentina; Venezuela; Bitcoin; cryptocurrencies; hyperinflation; Argentina; Venezuela; Bitcoin; criptomonedas; hiperinflaci\u00f3n",
+                        "dc.identifier": "10.29263/lar03.2019.05",
+                        "dc.language": "en",
+                        "og:url": "https://revistas.uniandes.edu.co/doi/abs/10.29263/lar03.2019.05"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://revistas.uniandes.edu.co/pb-assets/images/universidaddelosandescolombia_blanco-1489762720017.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto Transactions in Argentina Now Subject to 'Check Tax ...",
+            "htmlTitle": "Crypto Transactions in <b>Argentina</b> Now Subject to &#39;Check Tax ...",
+            "link": "https://markets.businessinsider.com/news/currencies/crypto-tax-cryptocurrency-transactions-argentina-exchanges-check-decree-brokers-2021-11",
+            "displayLink": "markets.businessinsider.com",
+            "snippet": "Nov 18, 2021 ... Argentina updated its \"check tax\" rules on Wednesday to clarify that crypto exchanges are not exempt. \u00b7 That means crypto sales and purchases are\u00a0...",
+            "htmlSnippet": "Nov 18, 2021 <b>...</b> <b>Argentina</b> updated its &quot;check tax&quot; rules on Wednesday to clarify that crypto exchanges are not exempt. &middot; That means crypto sales and purchases are&nbsp;...",
+            "cacheId": "pdVVtyuObBQJ",
+            "formattedUrl": "https://markets.businessinsider.com/.../crypto-tax-cryptocurrency-transactions -argentina-exchanges-check-decree-brokers-2021-11",
+            "htmlFormattedUrl": "https://markets.businessinsider.com/.../crypto-tax-<b>cryptocurrency</b>-transactions -<b>argentina</b>-exchanges-check-decree-brokers-2021-11",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRpUNSVp9-Va42hEMaOgNpgh1K-aVq9yZ0eJh_JMj4Uv6l0u4Znrgz58SY",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-11-18",
+                        "og:image": "https://i.insider.com/6196722f8e9bfa001987898a?width=1200&format=jpeg",
+                        "msapplication-config": "/public/assets/MI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#014E92",
+                        "sailthru.tags": "MI Exclusive, Markets, crypto, Cryptocurrencies, Tax, crypto exchanges, Crypto tax, Argentina, Transaction Tax, Karen Friar",
+                        "og:site_name": "Markets Insider",
+                        "apple-mobile-web-app-title": "Markets Insider",
+                        "title": "Argentina brings a tax hammer down on crypto transactions and exchanges in a rule update",
+                        "og:description": "Argentina is now taxing crypto sales and purchases, after it clarified that businesses such as crypto exchanges aren't exempt from existing rules.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@themoneygame",
+                        "news_keywords": "MI Exclusive, Markets, crypto, Cryptocurrencies, Tax, crypto exchanges, Crypto tax, Argentina, Transaction Tax, Karen Friar",
+                        "sailthru.title": "Argentina brings a tax hammer down on crypto transactions and exchanges in a rule update",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-11-18T15:54:05Z",
+                        "pubdate": "2021-11-18T15:54:01Z",
+                        "sailthru.verticals": "moneygame",
+                        "sailthru.date": "2021-11-18",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "argentina foreign exchange bank",
+                        "author": "Karen Friar",
+                        "tbi-vertical": "Markets",
+                        "og:title": "Argentina brings a tax hammer down on crypto transactions and exchanges in a rule update",
+                        "ia:markup_url": "https://markets.businessinsider.com/news/currencies/crypto-tax-cryptocurrency-transactions-argentina-exchanges-check-decree-brokers-2021-11?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/619671eea2e68800198adb76?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "Argentina is now taxing crypto sales and purchases, after it clarified that businesses such as crypto exchanges aren't exempt from existing rules.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://markets.businessinsider.com/news/currencies/crypto-tax-cryptocurrency-transactions-argentina-exchanges-check-decree-brokers-2021-11",
+                        "sailthru.author": "Karen Friar",
+                        "sailthru.image.full": "https://i.insider.com/619671eea2e68800198adb76?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/6196722f8e9bfa001987898a?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        }
+    ]
+}

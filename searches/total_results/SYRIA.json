@@ -1,0 +1,527 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SYRIA",
+                "totalResults": "1210000",
+                "searchTerms": "SYRIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SYRIA",
+                "totalResults": "1210000",
+                "searchTerms": "SYRIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.415389,
+        "formattedSearchTime": "0.42",
+        "totalResults": "1210000",
+        "formattedTotalResults": "1,210,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Syria Sanctions | U.S. Department of the Treasury",
+            "htmlTitle": "<b>Syria</b> Sanctions | U.S. Department of the Treasury",
+            "link": "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/syria-sanctions",
+            "displayLink": "home.treasury.gov",
+            "snippet": "Modifications to these regulations are posted in the Federal Register. In addition to all of these authorities, OFAC may also implement United Nations Security\u00a0...",
+            "htmlSnippet": "Modifications to these <b>regulations</b> are posted in the Federal Register. In addition to all of these authorities, OFAC may also implement United Nations Security&nbsp;...",
+            "cacheId": "QtAPcjY7t2QJ",
+            "formattedUrl": "https://home.treasury.gov/policy-issues/financial...and.../syria-sanctions",
+            "htmlFormattedUrl": "https://home.treasury.gov/policy-issues/financial...and.../<b>syria</b>-sanctions",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-91IfwYYNnVbB_SsWhMb954aObHlbTxojgkmXpbpy7fdA3rsWflH3E6el",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1900px",
+                        "og:image:alt": "U.S. Department of the Treasury",
+                        "twitter:card": "summary",
+                        "twitter:title": "Syria Sanctions",
+                        "og:site_name": "U.S. Department of the Treasury",
+                        "handheldfriendly": "true",
+                        "og:title": "Syria Sanctions",
+                        "og:image:height": "950px",
+                        "twitter:image:height": "1080",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2021-11-23",
+                        "og:description": "Sign up for Syria Sanctions e-mail updates. \n\nimportant advisories and information:\n\nSanctions advisories highlight the sanctions evasion tactics used by Syria.\u00a0Parties subject to U.S. and/or United Nations sanctions should be aware of these practices in order to implement appropriate controls to ensure compliance with their legal requirements.\u00a0\n\nGuidance to Address Illicit Shipping and Sanctions Evasion Practices\u200b\u200b\u200b\u00a0(May 14, 2020)\n\n\tNon-English Translations of this Guidance\n\t\n\tUpdated\u00a0Guidance on Sanctions Risks Related to Shipping Petroleum to Syria\u00a0(March 25, 2019)\u200b\n\t\u200bSanctions Risks Related to Shipping Petroleum to Syria\u200b\u00a0(November 20, 2018)\u00a0\nSanctions Brochures\n\nSanctions Brochures are an overview of OFAC's regulations with regard to the Syria Sanctions. They are useful quick reference tools.\n\nOverview of Sanctions\n\tOverview of Sanctions (text)\nFrequently Asked Questions\n\nOFAC has compiled hundreds of frequently asked questions (FAQs) about its sanctions programs and related policies. ",
+                        "twitter:image": "https://home.treasury.gov/system/files/291/treasury-preview-1080x1080.jpg",
+                        "twitter:image:alt": "U.S. Department of the Treasury",
+                        "twitter:site": "@USTreasury",
+                        "twitter:image:width": "1080",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "og:url": "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/syria-sanctions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Report of the Attorney General's Cyber Digital Task Force ...",
+            "htmlTitle": "Report of the Attorney General&#39;s Cyber Digital Task Force ...",
+            "link": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "displayLink": "www.justice.gov",
+            "snippet": "Oct 1, 2020 ... not otherwise already imposed by statute or regulation. To the extent this Enforcement ... Cryptocurrency: An Enforcement Framework.",
+            "htmlSnippet": "Oct 1, 2020 <b>...</b> not otherwise already imposed by statute or <b>regulation</b>. To the extent this Enforcement ... <b>Cryptocurrency</b>: An Enforcement Framework.",
+            "cacheId": "ZvPJ0G1FuMoJ",
+            "formattedUrl": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "htmlFormattedUrl": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSERRMYfHAuVhiUMOE9YoUN0xvY8diAhotQh24cKWn4ufx1MUG9gkFOzZal",
+                        "width": "256",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20201008131005-04'00'",
+                        "creationdate": "D:20201005190542-04'00'",
+                        "creator": "Adobe InDesign 15.1 (Macintosh)",
+                        "author": "United States Department of Justice, Cyber-Digital Task Force",
+                        "subject": "Cryptocurrency: An Enforcement Framework",
+                        "producer": "Adobe PDF Library 15.0",
+                        "title": "Report of the Attorney General\u2019s Cyber Digital Task Force: Cryptocurrency Enforcement Framework"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///20ac3f800edcdfe338f4dcd73dec222edec2f7568fbd129edd31269a7b65ca20"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Syria | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Syria</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/syria",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Syria for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Syria</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "1yqBzQp48t0J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/syria",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>syria</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Syria for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Syria | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Syria for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Syria | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/syria"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chainalysis Intelligence Brief: How Syria-based Cryptocurrency ...",
+            "htmlTitle": "Chainalysis Intelligence Brief: How <b>Syria</b>-based <b>Cryptocurrency</b> ...",
+            "link": "https://go.chainalysis.com/bitcointransfer.html",
+            "displayLink": "go.chainalysis.com",
+            "snippet": "BitcoinTransfer purports to be a cryptocurrency exchange based in Idlib, Syria. However, government investigations, aided by blockchain analysis, found that\u00a0...",
+            "htmlSnippet": "BitcoinTransfer purports to be a <b>cryptocurrency</b> exchange based in Idlib, <b>Syria</b>. However, government investigations, aided by blockchain analysis, found that&nbsp;...",
+            "cacheId": "D3gXCK3i8LMJ",
+            "formattedUrl": "https://go.chainalysis.com/bitcointransfer.html",
+            "htmlFormattedUrl": "https://go.chainalysis.com/bitcointransfer.html",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#FF5300",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Chainalysis Intelligence Brief: How Syria-based Cryptocurrency Exchange BitcoinTransfer Facilitated Terror Financing Campaigns",
+                        "og:description": "In August 2020, the U.S. Department of Justice announced the takedown of a large-scale terror financing donation and money laundering operation carried out by al-Qaeda and affiliated terrorist groups, largely enabled by BitcoinTransfer. BitcoinTransfer purports to be a cryptocurrency exchange based in Idlib, Syria. However, government investigations, aided by blockchain analysis, found that multiple terrorist groups have used addresses hosted at BitcoinTransfer to receive and launder donations from supporters. In this report, we break down BitcoinTransfer\u2019s operations, social media presence, and Bitcoin transaction history."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin ban: These are the countries where crypto is restricted or ...",
+            "htmlTitle": "Bitcoin ban: These are the countries where crypto is restricted or ...",
+            "link": "https://www.euronews.com/next/2022/01/11/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2",
+            "displayLink": "www.euronews.com",
+            "snippet": "Jan 11, 2022 ... Bank Indonesia, the country's central bank, issued new regulations banning the use of cryptocurrencies, including Bitcoin, as a means of\u00a0...",
+            "htmlSnippet": "Jan 11, 2022 <b>...</b> Bank Indonesia, the country&#39;s central bank, issued new <b>regulations</b> banning the use of <b>cryptocurrencies</b>, including Bitcoin, as a means of&nbsp;...",
+            "cacheId": "NKi7X45eKW0J",
+            "formattedUrl": "https://www.euronews.com/.../bitcoin-ban-these-are-the-countries-where- crypto-is-restricted-or-illegal2",
+            "htmlFormattedUrl": "https://www.euronews.com/.../bitcoin-ban-these-are-the-countries-where- crypto-is-restricted-or-illegal2",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/06/01/62/64/1000x563_cmsv2_855a8ddc-6bb7-5a3b-82f1-ca707e2a07ff-6016264.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2022-01-11 13:17:36",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "While some countries like El Salvador are embracing cryptocurrencies, others like China are leading sustained crackdowns on their use.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"bitcoin\",\"financial-regulation\",\"china\",\"cryptocurrency\",\"iran\",\"ethereum\"],\"nws_id\":1647270,\"nwsctr_id\":6016264,\"themes\":\"money,business\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Bitcoin ban: These are the countries where crypto is restricted or illegal",
+                        "article:modified_time": "2022-01-11 13:18:23",
+                        "article:theme": "money",
+                        "og:image:alt": "Bitcoin ban: These are the countries where crypto is restricted or illegal",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2022-01-11 13:18:23",
+                        "fb:pages": "101402598109",
+                        "article:author": "Chloe Orji",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2022-01-11 13:18:23",
+                        "date.created": "2022-01-11 13:17:36",
+                        "eventid": "1647270",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Bitcoin,Financial regulation,China,cryptocurrency,Iran,Ethereum",
+                        "storyid": "6016264",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "The countries where Bitcoin and crypto are banned or restricted",
+                        "article:vertical": "next",
+                        "og:title": "The countries where Bitcoin and crypto are banned or restricted",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "While some countries like El Salvador are embracing cryptocurrencies, others like China are leading sustained crackdowns on their use.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2022-01-11 13:17:36",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2022/01/11/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/06/01/62/64/1000x563_cmsv2_855a8ddc-6bb7-5a3b-82f1-ca707e2a07ff-6016264.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sand, Death and Cryptocurrency: Life in a Decentralized Syria ...",
+            "htmlTitle": "Sand, Death and <b>Cryptocurrency</b>: Life in a Decentralized <b>Syria</b> ...",
+            "link": "https://www.coindesk.com/markets/2019/03/25/sand-death-and-cryptocurrency-life-in-a-decentralized-syria/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Mar 24, 2019 ... The concern was that if Turkey seized control, Rojava's political system would crumble to the totalizing power of nation states. There would be\u00a0...",
+            "htmlSnippet": "Mar 24, 2019 <b>...</b> The concern was that if Turkey seized <b>control</b>, Rojava&#39;s political system would crumble to the totalizing power of nation states. There would be&nbsp;...",
+            "cacheId": "RbmVCvXhhioJ",
+            "formattedUrl": "https://www.coindesk.com/.../sand-death-and-cryptocurrency-life-in-a- decentralized-syria/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../sand-death-and-<b>cryptocurrency</b>-life-in-a- decentralized-<b>syria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRWNxQ4tZLsOwJ1kPI8fNGKWV45lzfFsyOOzmN-UBUTyK4IYT6oSAHEg",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/YVTACq1RftW0KjGpFuBghIABSAQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XYXOAQS4HBE4TJV54C5K4QKC2M.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2019-03-25T03:00:37Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Sand, Death and Cryptocurrency:\u00a0Life in a Decentralized Syria",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Sand, Death and Cryptocurrency:\u00a0Life in a Decentralized Syria",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Rachel-Rose O\u2019Leary is a reporter at CoinDesk, covering how cryptocurrencies are being used in areas of economic, social and political unrest. This article is part of her ongoing dispatches from Rojova, Syria.  I\u2019m writing from the Democratic Federation of Northern Syria. Known to sympathizers simply as Rojava \u2013 meaning West \u2013 the predominantly Kurdish region [\u2026]",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Rachel-Rose O'Leary",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/S511cA6Sk3CGEuklRJRaqH2EWH0=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XYXOAQS4HBE4TJV54C5K4QKC2M.jpg",
+                        "article:tag": "Rojava, Erselan Serdem, Crypto Anarchy, Features, Technology News",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2019-03-25T03:00:37Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Rachel-Rose O\u2019Leary is a reporter at CoinDesk, covering how cryptocurrencies are being used in areas of economic, social and political unrest. This article is part of her ongoing dispatches from Rojova, Syria.  I\u2019m writing from the Democratic Federation of Northern Syria. Known to sympathizers simply as Rojava \u2013 meaning West \u2013 the predominantly Kurdish region [\u2026]",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2019/03/25/sand-death-and-cryptocurrency-life-in-a-decentralized-syria/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/XYXOAQS4HBE4TJV54C5K4QKC2M.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Monday Briefing: Biden slams the door on Afghanistan | Middle East ...",
+            "htmlTitle": "Monday Briefing: Biden slams the door on Afghanistan | Middle East ...",
+            "link": "https://www.mei.edu/blog/monday-briefing-biden-slams-door-afghanistan",
+            "displayLink": "www.mei.edu",
+            "snippet": "Jul 12, 2021 ... Last week, U.S. forces in Iraq and Syria came under repeated attack from ... international stance toward the regulation of cryptocurrencies.",
+            "htmlSnippet": "Jul 12, 2021 <b>...</b> Last week, U.S. forces in Iraq and <b>Syria</b> came under repeated attack from ... international stance toward the <b>regulation of cryptocurrencies</b>.",
+            "cacheId": "sii2eAsqljsJ",
+            "formattedUrl": "https://www.mei.edu/blog/monday-briefing-biden-slams-door-afghanistan",
+            "htmlFormattedUrl": "https://www.mei.edu/blog/monday-briefing-biden-slams-door-afghanistan",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSylp-0tH3qIVIxzG4WYK8G_mu_Kb80qYIP8sP36ug7tbGDgYARGpsL3BA",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.mei.edu/sites/default/files/2021-07/GettyImages-1233883798.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "twitter:title": "Monday Briefing: Biden slams the door on Afghanistan",
+                        "og:image:width": "3600",
+                        "og:site_name": "Middle East Institute",
+                        "og:image:url": "https://www.mei.edu/sites/default/files/2021-07/GettyImages-1233883798.jpg",
+                        "handheldfriendly": "true",
+                        "msvalidate.01": "E7D87A9129E9A38F784270C0695DAE7F",
+                        "twitter:url": "https://www.mei.edu/blog/monday-briefing-biden-slams-door-afghanistan",
+                        "og:title": "Monday Briefing: Biden slams the door on Afghanistan",
+                        "apple-mobile-web-app-title": "Monday Briefing: Biden slams the door on Afghanistan | Middle East Institute",
+                        "twitter:image:height": "2400",
+                        "og:image:height": "2400",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "Mon, 07/12/2021 - 14:51",
+                        "og:description": "Read MEI's weekly briefing featuring expert analysis of key regional developments for the week ahead.",
+                        "twitter:image": "https://www.mei.edu/sites/default/files/2021-07/GettyImages-1233883798.jpg",
+                        "og:image:secure_url": "https://www.mei.edu/sites/default/files/2021-07/GettyImages-1233883798.jpg",
+                        "twitter:image:width": "3600",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Read MEI's weekly briefing featuring expert analysis of key regional developments for the week ahead.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.mei.edu/blog/monday-briefing-biden-slams-door-afghanistan"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mei.edu/sites/default/files/2021-07/GettyImages-1233883798.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How Criminals And Terrorists Use Cryptocurrency: And How To Stop It",
+            "htmlTitle": "How Criminals And Terrorists Use <b>Cryptocurrency</b>: And How To Stop It",
+            "link": "https://www.forbes.com/sites/nikitamalik/2018/08/31/how-criminals-and-terrorists-use-cryptocurrency-and-how-to-stop-it/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Aug 31, 2018 ... In 2014, reports emerged of Islamic State fighters in Raqqa, Syria facilitating small or domestic purchases in money transfer offices,\u00a0...",
+            "htmlSnippet": "Aug 31, 2018 <b>...</b> In 2014, reports emerged of Islamic State fighters in Raqqa, <b>Syria</b> facilitating small or domestic purchases in money transfer offices,&nbsp;...",
+            "cacheId": "gzjxQ48D__gJ",
+            "formattedUrl": "https://www.forbes.com/.../how-criminals-and-terrorists-use-cryptocurrency- and-how-to-stop-it/",
+            "htmlFormattedUrl": "https://www.forbes.com/.../how-criminals-and-terrorists-use-<b>cryptocurrency</b>- and-how-to-stop-it/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMEKwhItf5dYvSCjaBIpz3Zc-ZG95IKo4g8imLPy7M0Fzd5VvG2siHtI",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=588647136",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Forbes",
+                        "article:id": "blogAndPostId/blog/post/6258-5",
+                        "og:description": "Digital currencies facilitate better access to financial products, aid financial empowerment, and reduce the risks of corruption and fraud. But one of the risks associated with digital currencies is the ability of criminals and terrorists to use them for their own benefit.",
+                        "twitter:creator": "@@nixmalik",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "twitter:image": "https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&width=1200&fit=bounds",
+                        "twitter:site": "@forbes",
+                        "article:published": "2018-08-31",
+                        "article:channel": "Innovation",
+                        "image": "https://imageio.forbes.com/i-forbesimg/media/amp/images/forbes-logo-dark.png?format=png&width=1200&fit=bounds",
+                        "article:section": "Cybersecurity",
+                        "og:type": "article",
+                        "twitter:title": "How Criminals And Terrorists Use Cryptocurrency: And How To Stop It",
+                        "author": "Nikita Malik",
+                        "article:section_url": "https://www.forbes.com/cybersecurity/",
+                        "og:title": "How Criminals And Terrorists Use Cryptocurrency: And How To Stop It",
+                        "og:updated_time": "2018-08-31T10:08:56.079-04:00",
+                        "article:author": "Nikita Malik",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "123694841080850",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1,user-scalable=yes",
+                        "twitter:description": "Digital currencies facilitate better access to financial products, aid financial empowerment, and reduce the risks of corruption and fraud. But one of the risks associated with digital currencies is the ability of criminals and terrorists to use them for their own benefit.",
+                        "og:url": "https://www.forbes.com/sites/nikitamalik/2018/08/31/how-criminals-and-terrorists-use-cryptocurrency-and-how-to-stop-it/",
+                        "article:modified": "2018-08-31"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://imageio.forbes.com/cf-images/v1/static/2097119709001/72803540-3e0b-4441-88c4-a756db0fb86b/26f12dee-f495-40cc-9e11-f675718ba1d5/1200x1200/match/image.jpg?fit=bounds&format=jpg&width=384"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulation - 2022",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulation</b> - 2022",
+            "link": "https://www.lw.com/thoughtLeadership/gli-blockchain-cryptocurrency-regulation-2022-latham-yellow-brick-road-reprint",
+            "displayLink": "www.lw.com",
+            "snippet": "Because cryptocurrencies are commodities,38 a. Latham & Watkins LLP. The current state of consumer token regulation in the United States. Page 10. GLI \u2013\u00a0...",
+            "htmlSnippet": "Because <b>cryptocurrencies</b> are commodities,38 a. Latham &amp; Watkins LLP. The current state of consumer token <b>regulation</b> in the United States. Page 10. GLI \u2013&nbsp;...",
+            "cacheId": "xvSa5voLO8oJ",
+            "formattedUrl": "https://www.lw.com/.../gli-blockchain-cryptocurrency-regulation-2022- latham-yellow-brick-road-reprint",
+            "htmlFormattedUrl": "https://www.lw.com/.../gli-blockchain-<b>cryptocurrency</b>-<b>regulation</b>-2022- latham-yellow-brick-road-reprint",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPaM0YaWg3kmv0t4md9v-BzpBgNOLbRrydGZd5M0IdJjuWtBRbHvLkBKDG",
+                        "width": "178",
+                        "height": "282"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20211111144534-05'00'",
+                        "creationdate": "D:20211111144534-05'00'",
+                        "creator": "Nitro Pro"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///02ea3c975b14d77f4917e5af05ce8ab788464d7855c8dcee4e43cbdd607d4482"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of the Crypto-Economy: Managing Risks, Challenges ...",
+            "htmlTitle": "<b>Regulation</b> of the Crypto-Economy: Managing Risks, Challenges ...",
+            "link": "https://www.mdpi.com/1911-8074/12/3/126/pdf",
+            "displayLink": "www.mdpi.com",
+            "snippet": "Jul 24, 2019 ... cryptocurrency system that is neither produced nor regulated by any government.4 It ... fighters with resources in Syria (Stalinsky 2018).",
+            "htmlSnippet": "Jul 24, 2019 <b>...</b> <b>cryptocurrency</b> system that is neither produced nor <b>regulated</b> by any government.4 It ... fighters with resources in <b>Syria</b> (Stalinsky 2018).",
+            "cacheId": "lUa1ufwDb6gJ",
+            "formattedUrl": "https://www.mdpi.com/1911-8074/12/3/126/pdf",
+            "htmlFormattedUrl": "https://www.mdpi.com/1911-8074/12/3/126/pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8S3EdDMc6pohEEHdC7R2z9M6icKd1yYG87i01qRsAinJZg0FIbeRhKtxz",
+                        "width": "189",
+                        "height": "267"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190724154614+08'00'",
+                        "creator": "LaTeX with hyperref package",
+                        "creationdate": "D:20190724154614+08'00'",
+                        "fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) kpathsea version 6.2.3",
+                        "author": "Douglas J. Cumming, Sofia Johan and Anshum Pant",
+                        "subject": "Distributed ledger technology, also known as the blockchain, is gaining traction globally. Blockchain offers a secure validation mechanism and decentralized mass collaboration. Cryptocurrencies make use of this technology as a new asset class for investors worldwide. Cryptocurrencies are being used by companies to raise capital via initial coin offerings (ICOs). The substantial inflow of unregulated capital into a transactional and transnational industry has aroused interest from not just investors, but also national securities and monetary regulatory agencies. In this paper, we review the Security and Exchange Commission\u2019s initial statements and subsequent pronouncements on ICO\u2019s to illustrate the potential problems with applying an older legal framework to an ever-evolving ecosystem. Recognizing the inability of enforcement within existing regulatory frameworks, we discuss the importance of regulation of the crypto asset class and internal collaboration between government agencies and developers in the ",
+                        "producer": "pdfTeX-1.40.18",
+                        "title": "Regulation of the Crypto-Economy: Managing Risks, Challenges, and Regulatory Uncertainty"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///ad529d6975a45abfce6ed9714c79c2caf4eed7d2dac9549151fe5dac75cb0092"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

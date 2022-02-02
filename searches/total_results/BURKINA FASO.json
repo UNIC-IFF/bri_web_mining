@@ -1,0 +1,532 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BURKINA FASO",
+                "totalResults": "784000",
+                "searchTerms": "BURKINA FASO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BURKINA FASO",
+                "totalResults": "784000",
+                "searchTerms": "BURKINA FASO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.576679,
+        "formattedSearchTime": "0.58",
+        "totalResults": "784000",
+        "formattedTotalResults": "784,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Burkina Faso ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Burkina Faso</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/burkina-faso",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Burkina Faso for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Burkina Faso</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "GZfSUxheA9YJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/burkina-faso",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>burkina</b>-<b>faso</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Burkina Faso for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Burkina Faso | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Burkina Faso for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Burkina Faso | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/burkina-faso"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "... Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, ... Book/Printed Material Regulation of cryptocurrency around the world.",
+            "htmlSnippet": "... Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, <b>Burkina Faso</b>, ... Book/Printed Material <b>Regulation of cryptocurrency</b> around the world.",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased exponentially. ... (Burkina Faso is also served by the. BCEAO).",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased exponentially. ... (<b>Burkina Faso</b> is also served by the. BCEAO).",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Senators call for greater regulation of cryptocurrency - Axios",
+            "htmlTitle": "Senators call for greater <b>regulation of cryptocurrency</b> - Axios",
+            "link": "https://www.axios.com/senators-greater-regulation-cryptocurrency-4e107778-0ed1-43f1-bdd8-c99730a40519.html",
+            "displayLink": "www.axios.com",
+            "snippet": "Jun 6, 2021 ... Mutinous soldiers in Burkina Faso declared on state television Monday that they had deposed the government, closed the borders, and taken\u00a0...",
+            "htmlSnippet": "Jun 6, 2021 <b>...</b> Mutinous soldiers in <b>Burkina Faso</b> declared on state television Monday that they had deposed the government, closed the borders, and taken&nbsp;...",
+            "cacheId": "GZVyZv0UlhgJ",
+            "formattedUrl": "https://www.axios.com/senators-greater-regulation-cryptocurrency-4e107778 -0ed1-43f1-bdd8-c99730a40519.html",
+            "htmlFormattedUrl": "https://www.axios.com/senators-greater-<b>regulation</b>-<b>cryptocurrency</b>-4e107778 -0ed1-43f1-bdd8-c99730a40519.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://images.axios.com/EoPnWSyex7qliPhNzSlNBW61eH0=/0x0:4269x2401/1366x768/2021/06/06/1622994753276.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-06-06T16:00:35.532889Z",
+                        "og:image": "https://images.axios.com/EoPnWSyex7qliPhNzSlNBW61eH0=/0x0:4269x2401/1366x768/2021/06/06/1622994753276.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Axios",
+                        "og:description": "\"We do need higher cybersecurity standards,\" said Intelligence Committee Chairman Mark Warner.",
+                        "twitter:image": "https://images.axios.com/EoPnWSyex7qliPhNzSlNBW61eH0=/0x0:4269x2401/1366x768/2021/06/06/1622994753276.jpg",
+                        "next-head-count": "66",
+                        "twitter:image:alt": "Sen. Mark Warner (D-VA)",
+                        "twitter:site": "@axios",
+                        "articlebody": "<p>Two members of the Senate Intelligence Committee, Sens. Mark Warner (D-Va.) and Roy Blunt (R-Mo.), <a class=\"gtm-content-click\" data-vars-link-text=\"called\" data-vars-click-url=\"https://www.nbcnews.com/meet-the-press/meet-press-june-6-2021-n1269779\" data-vars-event-category=\"story\" data-vars-sub-category=\"story\" data-vars-item=\"in_content_link\" href=\"https://www.nbcnews.com/meet-the-press/meet-press-june-6-2021-n1269779\" target=\"_blank\">called</a> on Sunday for greater regulation of cryptocurrencies in order to crack down on ransomware payments from cyberattacks. </p><p><strong>Why it matters:</strong> Last month&#x27;s <a class=\"gtm-content-click\" data-vars-link-text=\"hacking of the Colonial Pipelin\" data-vars-click-url=\"https://www.axios.com/colonial-pipeline-ransom-hackers-7d9ec5d9-f730-47ec-ab13-6994c284388b.html\" data-vars-event-category=\"story\" data-vars-sub-category=\"story\" data-vars-item=\"in_content_link\" href=\"https://www.axios.com/colonial-pipeline-ransom-hackers-7d9ec5d9-f730-47ec-ab13-6994c2843",
+                        "datemodified": "2021-06-06T16:00:33.617000Z",
+                        "article:content_tier": "free",
+                        "headline": "Senators call for greater regulation of cryptocurrency",
+                        "datepublished": "2021-06-06T16:00:35.532889Z",
+                        "image": "https://images.axios.com/EoPnWSyex7qliPhNzSlNBW61eH0=/0x0:4269x2401/1366x768/2021/06/06/1622994753276.jpg",
+                        "og:type": "article",
+                        "og:image:alt": "Sen. Mark Warner (D-VA)",
+                        "twitter:title": "Senators call for greater regulation of cryptocurrency",
+                        "thumbnail": "https://images.axios.com/EoPnWSyex7qliPhNzSlNBW61eH0=/0x0:4269x2401/1366x768/2021/06/06/1622994753276.jpg",
+                        "author": "Ivana Saric",
+                        "og:title": "Senators call for greater regulation of cryptocurrency",
+                        "datecreated": "2021-06-06T16:00:35.532889Z",
+                        "fb:app_id": "310286923525156",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "twitter:description": "\"We do need higher cybersecurity standards,\" said Intelligence Committee Chairman Mark Warner.",
+                        "axios:searchable": "true",
+                        "og:url": "https://www.axios.com/senators-greater-regulation-cryptocurrency-4e107778-0ed1-43f1-bdd8-c99730a40519.html",
+                        "category": "Economy & Business",
+                        "permalink": "https://www.axios.com/senators-greater-regulation-cryptocurrency-4e107778-0ed1-43f1-bdd8-c99730a40519.html",
+                        "authorurls": "https://www.axios.com/authors/isaric",
+                        "axiossearchable": "true",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.axios.com/EoPnWSyex7qliPhNzSlNBW61eH0=/0x0:4269x2401/1366x768/2021/06/06/1622994753276.jpg",
+                        "width": "300",
+                        "type": "1",
+                        "height": "168"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulating Cryptocurrencies In Africa And China \u2013 Where Are We ...",
+            "htmlTitle": "Regulating <b>Cryptocurrencies</b> In Africa And China \u2013 Where Are We ...",
+            "link": "https://www.mondaq.com/france/fin-tech/897732/regulating-cryptocurrencies-in-africa-and-china-where-are-we-now",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Feb 26, 2020 ... The China ban on cryptocurrencies was preceded by a series of ... Others have warned against their use and countries such as Burkina Faso,\u00a0...",
+            "htmlSnippet": "Feb 26, 2020 <b>...</b> The China ban on <b>cryptocurrencies</b> was preceded by a series of ... Others have warned against their use and countries such as <b>Burkina Faso</b>,&nbsp;...",
+            "cacheId": "fRArg-kNuAUJ",
+            "formattedUrl": "https://www.mondaq.com/.../regulating-cryptocurrencies-in-africa-and-china- where-are-we-now",
+            "htmlFormattedUrl": "https://www.mondaq.com/.../regulating-<b>cryptocurrencies</b>-in-africa-and-china- where-are-we-now",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Regulating Cryptocurrencies In Africa And China \u2013 Where Are We Now? - Technology - France",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "China has become one of the main investors in Africa in the past few years, while the continent has been experiencing significant transformation in the digital space."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrencies in Africa",
+            "htmlTitle": "<b>Regulation of cryptocurrencies</b> in Africa",
+            "link": "https://www.porat.com/regulation-of-crypto-currencies-in-africa/",
+            "displayLink": "www.porat.com",
+            "snippet": "Sep 18, 2018 ... The specifically designed cryptocurrency will be available first in Senegal and in a second phase in Cote d'Ivoire, Benin, Burkina Faso,\u00a0...",
+            "htmlSnippet": "Sep 18, 2018 <b>...</b> The specifically designed <b>cryptocurrency</b> will be available first in Senegal and in a second phase in Cote d&#39;Ivoire, Benin, <b>Burkina Faso</b>,&nbsp;...",
+            "cacheId": "-1r4vOQ5TfsJ",
+            "formattedUrl": "https://www.porat.com/regulation-of-crypto-currencies-in-africa/",
+            "htmlFormattedUrl": "https://www.porat.com/<b>regulation</b>-of-crypto-currencies-in-africa/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWYGQF5HtMbhYTDX-w-4Yw9-aDDD97Oy54SMfE5y9Z9pujeOiZ1_74Q",
+                        "width": "532",
+                        "height": "68"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.porat.com/wp-content/uploads/2019/03/logore.png",
+                        "og:type": "article",
+                        "article:published_time": "2018-09-18T13:11:46+00:00",
+                        "og:image:width": "532",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Porat Group",
+                        "og:title": "Interesting initiative to regulate cryptocurrencies in Africa",
+                        "og:image:height": "68",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.porat.com/wp-content/uploads/2019/04/cropped-FAV-270x270.png",
+                        "og:description": "Information about an initiative to regulate cryptocurrencies in Africa, by a number of African countries.",
+                        "article:publisher": "https://www.facebook.com/poratgroup",
+                        "twitter:data1": "Nir Porat",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2021-01-28T07:58:41+00:00",
+                        "viewport": "width=device-width",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.porat.com/regulation-of-crypto-currencies-in-africa/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.porat.com/wp-content/uploads/2019/03/logore.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Burkina Faso: Country Private Sector Diagnostic",
+            "htmlTitle": "<b>Burkina Faso</b>: Country Private Sector Diagnostic",
+            "link": "https://www.ifc.org/wps/wcm/connect/f45fd7a3-f8be-430b-bd9f-eb958ebe2d89/201907-CPSD-Burkina-Faso-EN.pdf?MOD=AJPERES&CVID=mNf5Bxk",
+            "displayLink": "www.ifc.org",
+            "snippet": "Nascent firms face tremendous regulatory and investment climate constraints, while poor access to energy, finance, and skills severely hamper their\u00a0...",
+            "htmlSnippet": "Nascent firms face tremendous <b>regulatory</b> and investment climate constraints, while poor access to energy, finance, and skills severely hamper their&nbsp;...",
+            "cacheId": "a4BYnVkiUfYJ",
+            "formattedUrl": "https://www.ifc.org/wps/.../201907-CPSD-Burkina-Faso-EN.pdf?...",
+            "htmlFormattedUrl": "https://www.ifc.org/wps/.../201907-CPSD-<b>Burkina</b>-<b>Faso</b>-EN.pdf?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxLgv69pPowh7gCWK2DeboI4zAlV9PhGMkyDF9Gl9ys76VK4hIOf7YbQjU",
+                        "width": "294",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190727112627-04'00'",
+                        "creationdate": "D:20190726170129-04'00'",
+                        "creator": "Adobe InDesign 14.0 (Macintosh)",
+                        "author": "World Bank/IFC",
+                        "producer": "Adobe PDF Library 15.0",
+                        "title": "Burkina Faso: Country Private Sector Diagnostic"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///7c0ed1d0c4eed38db4d303a5b06089071b4edc6c80241132651b35597acc8e59"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual Currencies: International Actions and Regulations Last ...",
+            "htmlTitle": "Virtual Currencies: International Actions and <b>Regulations</b> Last ...",
+            "link": "https://www.perkinscoie.com/images/content/2/4/v3/240289/Digital-Currencies-International-Actions-and-Regulations-01.pdf",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "Jan 8, 2021 ... potential regulation and the evolution of cryptocurrency ... Burkina Faso, Mali, Niger, Togo and Guinea- Bissau.",
+            "htmlSnippet": "Jan 8, 2021 <b>...</b> potential <b>regulation</b> and the evolution of <b>cryptocurrency</b> ... <b>Burkina Faso</b>, Mali, Niger, Togo and Guinea- Bissau.",
+            "formattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- Regulations-01.pdf",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- <b>Regulations</b>-01.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRGjDfiK4rk6PbxB0UhfoHbEIP-3sKF2gwFy1zNOvzKNYrBUX5_BSuBHY",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210114203613-07'00'",
+                        "creator": "Microsoft\u00ae Word for Office 365",
+                        "creationdate": "D:20210114203613-07'00'",
+                        "author": "No Name",
+                        "producer": "Microsoft\u00ae Word for Office 365"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///2edbfab5a530449e69b02007c199a2cb2e4ea5d80351d50241d0f3d95ddefc3b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Indian government set to ban cryptocurrencies - BBC News",
+            "htmlTitle": "Indian government set to ban <b>cryptocurrencies</b> - BBC News",
+            "link": "https://www.bbc.com/news/technology-59402310",
+            "displayLink": "www.bbc.com",
+            "snippet": "Nov 24, 2021 ... The planned legislation aims \"to create a facilitative framework for the creation of the official digital currency to be issued by the Reserve\u00a0...",
+            "htmlSnippet": "Nov 24, 2021 <b>...</b> The planned <b>legislation</b> aims &quot;to create a facilitative framework for the creation of the official digital currency to be issued by the Reserve&nbsp;...",
+            "cacheId": "6uov0V-9R8EJ",
+            "formattedUrl": "https://www.bbc.com/news/technology-59402310",
+            "htmlFormattedUrl": "https://www.bbc.com/news/technology-59402310",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN7mLhJL5M2MYKeeUsHey-2RVY_sm3EG8euaeBPFGKYBn117EHKsRFe-tI",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/11220/production/_119367107_hi068000734.jpg",
+                        "theme-color": "#FFFFFF",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "BBC News",
+                        "cleartype": "on",
+                        "msapplication-tileimage": "BBC News",
+                        "og:description": "The latest draft of a government bill to be submitted in India aims to ban most cryptocurrencies.",
+                        "twitter:creator": "@BBCWorld",
+                        "twitter:image:alt": "A representation of virtual cryptocurrency",
+                        "twitter:site": "@BBCWorld",
+                        "fb:admins": "100004154058350",
+                        "application-name": "BBC News",
+                        "msapplication-tilecolor": "#bb1919",
+                        "og:image:alt": "A representation of virtual cryptocurrency",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "Indian government set to ban cryptocurrencies",
+                        "twitter:domain": "www.bbc.com",
+                        "og:title": "Indian government set to ban cryptocurrencies",
+                        "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+                        "article:author": "https://www.facebook.com/bbcnews",
+                        "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/11220/production/_119367107_hi068000734.jpg",
+                        "fb:app_id": "1609039196070050",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The latest draft of a government bill to be submitted in India aims to ban most cryptocurrencies.",
+                        "og:locale": "en_GB",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.bbc.com/news/technology-59402310"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ichef.bbci.co.uk/news/1024/branded_news/11220/production/_119367107_hi068000734.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What can governments do about cryptocurrency? - GZERO Media",
+            "htmlTitle": "What can governments do about <b>cryptocurrency</b>? - GZERO Media",
+            "link": "https://www.gzeromedia.com/what-can-governments-do-about-cryptocurrency",
+            "displayLink": "www.gzeromedia.com",
+            "snippet": "Mar 29, 2021 ... In the latest sign of increasing global trust in cryptocurrency, Visa will soon accept ... a mutiny in Burkina Faso, Russia moves on crypto.",
+            "htmlSnippet": "Mar 29, 2021 <b>...</b> In the latest sign of increasing global trust in <b>cryptocurrency</b>, Visa will soon accept ... a mutiny in <b>Burkina Faso</b>, Russia moves on crypto.",
+            "cacheId": "zYzYh3kmcbIJ",
+            "formattedUrl": "https://www.gzeromedia.com/what-can-governments-do-about- cryptocurrency",
+            "htmlFormattedUrl": "https://www.gzeromedia.com/what-can-governments-do-about- <b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmFT98KFb9G_5aPiKhKyKcmdgC0GdYo50IT83-gRO39m2uEjCUDFf13qvO",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.gzeromedia.com/media-library/what-can-governments-do-about-cryptocurrency.png?id=25890454&width=1200&coordinates=0%2C88%2C0%2C88&height=600",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "theme-color": "#647187",
+                        "article:published_time": "2021-03-29T21:22:23+00:00",
+                        "og:site_name": "GZERO Media",
+                        "og:title": "What can governments do about cryptocurrency?",
+                        "og:image:height": "600",
+                        "og:description": "In the latest sign of increasing global trust in cryptocurrency, Visa will soon accept it. But the rise of digital currency is a big challenge for governments, who have long monopolized the power to print money.",
+                        "fb:pages": "154065301986563",
+                        "twitter:image": "https://www.gzeromedia.com/media-library/what-can-governments-do-about-cryptocurrency.png?id=25890454&width=1200&coordinates=0%2C88%2C0%2C88&height=600",
+                        "article:publisher": "154065301986563",
+                        "article:author": "https://www.facebook.com/154065301986563",
+                        "referrer": "always",
+                        "fb:app_id": "484002052132244",
+                        "twitter:site": "@",
+                        "article:modified_time": "2021-03-30T15:05:25+00:00",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                        "og:url": "https://www.gzeromedia.com/what-can-governments-do-about-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gzeromedia.com/media-library/what-can-governments-do-about-cryptocurrency.png?id=25890454&width=1200&coordinates=0%2C88%2C0%2C88&height=600"
+                    }
+                ]
+            }
+        }
+    ]
+}

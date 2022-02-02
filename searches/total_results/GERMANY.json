@@ -1,0 +1,570 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - GERMANY",
+                "totalResults": "1860000",
+                "searchTerms": "GERMANY",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - GERMANY",
+                "totalResults": "1860000",
+                "searchTerms": "GERMANY",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.355459,
+        "formattedSearchTime": "0.36",
+        "totalResults": "1860000",
+        "formattedTotalResults": "1,860,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Germany's Cryptocurrency Regulations | Coinfirm",
+            "htmlTitle": "<b>Germany&#39;s Cryptocurrency Regulations</b> | Coinfirm",
+            "link": "https://www.coinfirm.com/blog/german-cryptocurrency-regulations/",
+            "displayLink": "www.coinfirm.com",
+            "snippet": "Feb 8, 2021 ... German cryptocurrency regulations stipulate that German native citizens and legal entities can buy/sell/hold 'cryptoassets' \u2013 so long as it\u00a0...",
+            "htmlSnippet": "Feb 8, 2021 <b>...</b> <b>German cryptocurrency regulations</b> stipulate that <b>German</b> native citizens and legal entities can buy/sell/hold &#39;cryptoassets&#39; \u2013 so long as it&nbsp;...",
+            "cacheId": "OhBEgi4LvqAJ",
+            "formattedUrl": "https://www.coinfirm.com/blog/german-cryptocurrency-regulations/",
+            "htmlFormattedUrl": "https://www.coinfirm.com/blog/<b>german</b>-<b>cryptocurrency</b>-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj8SlnJAQXtvZCgkzV-prmjJLq5RCRCNu2O_vhOPWCuI6XCRzxOClM5Zi",
+                        "width": "341",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coinfirm.com/wp-content/uploads/2021/02/imgonline-com-ua-CompressToSize-da3Yv3227lBz.jpg",
+                        "og:image:width": "1620",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Germany\u2019s Cryptocurrency Regulations",
+                        "og:article:modified_time": "2021-02-10 12:31:03",
+                        "author": "Sachin Dutta",
+                        "og:title": "Germany\u2019s Cryptocurrency Regulations",
+                        "og:image:height": "703",
+                        "og:image:type": "image/jpeg",
+                        "og:article:published_time": "2021-02-08 14:16:53",
+                        "msapplication-tileimage": "https://www.coinfirm.com/wp-content/uploads/2020/09/coinfirmsvg-sd.svg",
+                        "og:description": "German cryptocurrency regulations stipulate that German native citizens and legal entities can buy/sell/hold 'cryptoassets' - so long as it is done through a Ba",
+                        "twitter:image": "https://www.coinfirm.com/wp-content/uploads/2021/02/imgonline-com-ua-CompressToSize-da3Yv3227lBz.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "German cryptocurrency regulations stipulate that German native citizens and legal entities can buy/sell/hold 'cryptoassets' - so long as it is done through a Ba",
+                        "og:url": "https://www.coinfirm.com/blog/german-cryptocurrency-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coinfirm.com/wp-content/uploads/2021/02/imgonline-com-ua-CompressToSize-da3Yv3227lBz.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Blockchain Analytics",
+                        "url": "AML Platform"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Compliance Insights",
+                        "name": "Compliance Insights",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Germany",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Germany</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/germany",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... German law provides no specific regulation of virtual currency exchanges; however, the general rules apply and, since 2020, explicitly include\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> <b>German law</b> provides no specific <b>regulation</b> of virtual currency exchanges; however, the general rules apply and, since 2020, explicitly include&nbsp;...",
+            "cacheId": "K5z0aGOEgbQJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../germany",
+            "htmlFormattedUrl": "https://the<b>law</b>reviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>germany</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "H8Yoq4wi5D4MrjplotjWzbyNZXreV9QmCBFkpL6n"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New regulatory regime for crypto assets in Germany | Global law firm ...",
+            "htmlTitle": "New <b>regulatory</b> regime for crypto assets in <b>Germany</b> | Global <b>law</b> firm ...",
+            "link": "https://www.nortonrosefulbright.com/en/knowledge/publications/5ee1e37e/new-regulatory-regime-for-crypto-assets-in-germany",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "The new category is introduced as a 'catch-all clause'. In accordance with the administrative practice of the German regulator (BaFin) in the past, crypto\u00a0...",
+            "htmlSnippet": "The new category is introduced as a &#39;catch-all clause&#39;. In accordance with the administrative practice of the <b>German</b> regulator (BaFin) in the past, crypto&nbsp;...",
+            "cacheId": "JD1uStLCAvwJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../new-regulatory-regime-for-crypto- assets-in-germany",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../new-<b>regulatory</b>-regime-for-crypto- assets-in-<b>germany</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "dc.source": "https://www.nortonrosefulbright.com/en/knowledge/publications/2020/q1",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:title": "New regulatory regime for crypto assets in Germany",
+                        "dc.title": "New regulatory regime for crypto assets in Germany",
+                        "dc.format": "text/html",
+                        "dc.date.modified": "11/25/2020 10:24:09",
+                        "dc.date.created": "03/26/2020 20:00:46",
+                        "dc.language": "en",
+                        "og:url": "https://www.nortonrosefulbright.com/en/knowledge/publications/5ee1e37e/new-regulatory-regime-for-crypto-assets-in-germany",
+                        "nrf-mac": "NRFPRDCD1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New law opens gates for institutional crypto investment in Germany",
+            "htmlTitle": "New <b>law</b> opens gates for institutional crypto investment in <b>Germany</b>",
+            "link": "https://www.yahoo.com/now/law-opens-gates-institutional-crypto-120337511.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Jul 5, 2021 ... The German Bundesrat has approved a new piece of legislation \u2013 The Fund Location Act \u2013 which aims to regulate emerging asset classes for\u00a0...",
+            "htmlSnippet": "Jul 5, 2021 <b>...</b> The <b>German</b> Bundesrat has approved a new piece of legislation \u2013 The Fund Location Act \u2013 which aims to <b>regulate</b> emerging asset classes for&nbsp;...",
+            "cacheId": "xgKY6aXn1rsJ",
+            "formattedUrl": "https://www.yahoo.com/.../law-opens-gates-institutional-crypto-120337511. html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>law</b>-opens-gates-institutional-crypto-120337511. html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr2D0DQI8FJPsBoOWdnUry7I8KogwtP-dCrj7z3I0a3sRnYCGt3MeVtAg",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/0a2efee9-0821-32d0-9a13-ade88035df69",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/S3ut9YYj1.fREeE7dYaXKg--~B/aD02ODA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/9c0897962b62f8efac62fdcff7e0516e",
+                        "twitter:title": "New law opens gates for institutional crypto investment in Germany",
+                        "og:type": "article",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "New law opens gates for institutional crypto investment in Germany",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "680",
+                        "og:description": "The German Bundesrat has approved a new piece of legislation \u2013 The Fund Location Act \u2013 which aims to regulate emerging asset classes for Germany\u2019s finance industry, including crypto assets such as Bitcoin (BTC).",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/S3ut9YYj1.fREeE7dYaXKg--~B/aD02ODA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/9c0897962b62f8efac62fdcff7e0516e",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/S3ut9YYj1.fREeE7dYaXKg--~B/aD02ODA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/9c0897962b62f8efac62fdcff7e0516e",
+                        "al:android:url": "yfinance://article/0a2efee9-0821-32d0-9a13-ade88035df69",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Germany, finance industry, crypto assets, Bitcoin, crypto news, investment funds",
+                        "twitter:description": "The German Bundesrat has approved a new piece of legislation \u2013 The Fund Location Act \u2013 which aims to regulate emerging asset classes for Germany\u2019s finance industry, including crypto assets such as Bitcoin (BTC).",
+                        "og:url": "https://finance.yahoo.com/news/law-opens-gates-institutional-crypto-120337511.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/S3ut9YYj1.fREeE7dYaXKg--~B/aD02ODA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/9c0897962b62f8efac62fdcff7e0516e"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "German Law Allowing $415B Investment Into Crypto Takes Effect ...",
+            "htmlTitle": "<b>German Law</b> Allowing $415B Investment Into Crypto Takes Effect ...",
+            "link": "https://www.nasdaq.com/articles/german-law-allowing-%24415b-investment-into-crypto-takes-effect-2021-07-01",
+            "displayLink": "www.nasdaq.com",
+            "snippet": "Jul 1, 2021 ... Germany's Fund Location Act, introduced in April and approved by parliament shortly thereafter, permits \u201cSpezialfonds,\u201d or special funds, to\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Germany&#39;s</b> Fund Location Act, introduced in April and approved by parliament shortly thereafter, permits \u201cSpezialfonds,\u201d or special funds, to&nbsp;...",
+            "cacheId": "NMAVyQPOiJIJ",
+            "formattedUrl": "https://www.nasdaq.com/.../german-law-allowing-%24415b-investment-into- crypto-takes-effect-2021-07-01",
+            "htmlFormattedUrl": "https://www.nasdaq.com/.../<b>german</b>-<b>law</b>-allowing-%24415b-investment-into- crypto-takes-effect-2021-07-01",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRY4DSETcGIK_aLP2ijXUGu246BFrbEn2rUqw8Ldnb62IzrVmHB_9hNNLQ",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "og:image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1326413662",
+                        "og:type": "Article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "German Law Allowing $415B Investment Into Crypto Takes Effect",
+                        "theme-color": "#ffffff",
+                        "twitter:site:id": "nasdaq",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.nasdaq.com/articles/german-law-allowing-%24415b-investment-into-crypto-takes-effect-2021-07-01",
+                        "com.nasdaq.cms.taxonomy.addisplay": "True",
+                        "com.nasdaq.cms.taxonomy.pagetype": "article-page",
+                        "og:title": "German Law Allowing $415B Investment Into Crypto Takes Effect",
+                        "og:image:height": "630",
+                        "title": "German Law Allowing $415B Investment Into Crypto Takes Effect | Nasdaq",
+                        "com.nasdaq.cms.taxonomy.sponsored": "False",
+                        "twitter:site": "@Nasdaq",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "com.nasdaq.cms.taxonomy.topic": "markets:cryptocurrencies",
+                        "og:url": "https://www.nasdaq.com/articles/german-law-allowing-%24415b-investment-into-crypto-takes-effect-2021-07-01"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nasdaq.com/sites/acquia.prod/files/styles/710x400/public/German-parliament-Bundestag-860x430.jpg?itok=QiCXwTmF"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Market Activity CLOSE Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets Quick Links Real-Time Quotes After-Hours Quotes Pre-Marke...",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Stocks",
+                        "url": "Stocks"
+                    },
+                    {
+                        "name": "Real-Time Quotes",
+                        "url": "Real-Time Quotes"
+                    },
+                    {
+                        "name": "Economic Calendar",
+                        "url": "Economic Calendar"
+                    },
+                    {
+                        "name": "Analyst Recommendations",
+                        "url": "Analyst Recommendations"
+                    },
+                    {
+                        "name": "Gold",
+                        "url": "Gold"
+                    },
+                    {
+                        "name": "Statistical Milestones",
+                        "url": "Statistical Milestones"
+                    },
+                    {
+                        "name": "News and Insights Markets Companies Cryptocurrency Technology Personal Finance Financial Advisors"
+                    },
+                    {
+                        "name": "News and Insights",
+                        "url": "News and Insights"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "url": "Blockchain"
+                    },
+                    {
+                        "name": "Inclusive Entrepreneurship",
+                        "url": "Inclusive Entrepreneurship"
+                    },
+                    {
+                        "name": "Raise & Access Capital List with Nasdaq Nasdaq Private Market Nasdaq Fund Secondaries Investor Relations Intelligence Nasdaq Direct Listings Optimize Governance Practices Board Portal Software...",
+                        "url": "Raise & Access Capital"
+                    },
+                    {
+                        "name": "List with Nasdaq",
+                        "url": "List with Nasdaq"
+                    },
+                    {
+                        "name": "Board Portal Software",
+                        "url": "Board Portal Software"
+                    },
+                    {
+                        "name": "AFC Technology",
+                        "url": "AFC Technology"
+                    },
+                    {
+                        "name": "Nasdaq Data Link",
+                        "url": "Nasdaq Data Link"
+                    },
+                    {
+                        "name": "Equities",
+                        "url": "Equities"
+                    },
+                    {
+                        "name": "Our People Board of Directors Careers Press Center Contact"
+                    },
+                    {
+                        "name": "Our People",
+                        "url": "Our People"
+                    },
+                    {
+                        "name": "Diversity, Inclusion and Belonging",
+                        "url": "Diversity, Inclusion and Belonging"
+                    },
+                    {
+                        "name": "The Purpose Initiative",
+                        "url": "The Purpose Initiative"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ICO: Regulation of Types of Token in Germany",
+            "htmlTitle": "ICO: <b>Regulation</b> of Types of Token in <b>Germany</b>",
+            "link": "https://www.twobirds.com/en/news/articles/2018/germany/ico-arten-und-regulierung-von-tokens",
+            "displayLink": "www.twobirds.com",
+            "snippet": "More legal certainty exists with Currency Token, also called cryptocurrency. The most well-known example for a coin is Bitcoin. Other examples of Currency Token\u00a0...",
+            "htmlSnippet": "More legal certainty exists with Currency Token, also called <b>cryptocurrency</b>. The most well-known example for a coin is Bitcoin. Other examples of Currency Token&nbsp;...",
+            "cacheId": "dQiQEd-g3yAJ",
+            "formattedUrl": "https://www.twobirds.com/.../germany/ico-arten-und-regulierung-von-tokens",
+            "htmlFormattedUrl": "https://www.twobirds.com/.../<b>germany</b>/ico-arten-und-regulierung-von-tokens",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNIez0Yg_Ol3N5HyhfuD0Te2oZIXBAKUZceqbKFuaqn6L9XxduIqKHZQLZ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "scitemid": "{ABBC414C-4CF3-4B4E-8925-64824A46B346}",
+                        "og:image": "http://www.twobirds.com/~/media/images/bird-and-bird/social-media-sharing-images/b-and-b-social-media.png",
+                        "og:site_name": "Bird & Bird",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width",
+                        "og:title": "ICO: Regulation of Types of Token in Germany",
+                        "og:url": "http://www.twobirds.com/en/news/articles/2018/germany/ico-arten-und-regulierung-von-tokens",
+                        "twitter:account_id": "1525696538",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.twobirds.com/~/media/images/bird-and-bird/social-media-sharing-images/b-and-b-social-media.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ICOs and Token Regulation from a German Perspective | Insights ...",
+            "htmlTitle": "ICOs and Token <b>Regulation</b> from a <b>German</b> Perspective | Insights ...",
+            "link": "https://www.jonesday.com/en/insights/2018/10/icos-and-token-regulation-from-a-german-perspectiv",
+            "displayLink": "www.jonesday.com",
+            "snippet": "BaFin does not prohibit ICOs or the trading of tokens in Germany. ... a European and global level for the offering and trade of cryptocurrencies and tokens.",
+            "htmlSnippet": "BaFin does not prohibit ICOs or the trading of tokens in <b>Germany</b>. ... a European and global level for the offering and trade of <b>cryptocurrencies</b> and tokens.",
+            "cacheId": "zy1A8X4FogoJ",
+            "formattedUrl": "https://www.jonesday.com/.../icos-and-token-regulation-from-a-german- perspectiv",
+            "htmlFormattedUrl": "https://www.jonesday.com/.../icos-and-token-<b>regulation</b>-from-a-<b>german</b>- perspectiv",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgyapwq30lFJpMhqJevJGsl2l1T9ed2jvvRR92LRA0kAN_Ejc4pQlk7UxO",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "vicurrentdatetime": "637785493783262315",
+                        "og:image": "https://www.jonesday.com/-/media/images/publications/2018/10/icos-and-token-regulation-from-a-german-perspectiv/extensionceogimageoverride/icosandtokenregulationcommentary_social.jpg?rev=783e8cea126046cf88ad69d61254497e&hash=8040BAC027EC192F95804834ED5279FF",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "ICOs and Token Regulation: The Germany Perspective",
+                        "og:title": "ICOs and Token Regulation: The Germany Perspective",
+                        "title": "ICOs and Token Regulation from a German Perspective | Insights | Jones Day",
+                        "og:description": "Is a token created using blockchain technology subject to regulation in Germany? Well, it depends, according to Germany&#39;s BaFin.",
+                        "twitter:image:src": "https://www.jonesday.com/-/media/images/publications/2018/10/icos-and-token-regulation-from-a-german-perspectiv/extensioncetwitterimageoverride/icosandtokenregulationcommentary_social.jpg?rev=edaab8fb49f948b6bae214a29d9aab91&hash=E8F67CA19B8397B4B58CB126B5407CDE",
+                        "facebook-domain-verification": "y9ytbr7gnpddseyhpo9l8gciwzt5op",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Is a token created using blockchain technology subject to regulation in Germany? Well, it depends, according to Germany&#39;s BaFin.",
+                        "og:url": "https://www.jonesday.com/en/insights/2018/10/icos-and-token-regulation-from-a-german-perspectiv"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.jonesday.com/-/media/images/publications/2018/10/icos-and-token-regulation-from-a-german-perspectiv/extensionceogimageoverride/icosandtokenregulationcommentary_social.jpg?rev=783e8cea126046cf88ad69d61254497e&hash=8040BAC027EC192F95804834ED5279FF"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "German and US regulators tighten focus on booming crypto market ...",
+            "htmlTitle": "<b>German</b> and US regulators tighten focus on booming crypto market ...",
+            "link": "https://www.ft.com/content/98f6caf9-f8f9-47de-9cf9-4c2f1aa981aa",
+            "displayLink": "www.ft.com",
+            "snippet": "May 7, 2021 ... Crypto industry executives and securities law experts around the world ... has powers to supervise cryptocurrency market activity because,\u00a0...",
+            "htmlSnippet": "May 7, 2021 <b>...</b> Crypto industry executives and securities <b>law</b> experts around the world ... has powers to supervise <b>cryptocurrency</b> market activity because,&nbsp;...",
+            "formattedUrl": "https://www.ft.com/content/98f6caf9-f8f9-47de-9cf9-4c2f1aa981aa",
+            "htmlFormattedUrl": "https://www.ft.com/content/98f6caf9-f8f9-47de-9cf9-4c2f1aa981aa",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREGamNrNCHabh8HEjgjWC2V_qt9su6TU20SpjaScYSswvSmGM1_ks8EAw",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F62898ead-f82c-438b-91ba-001561aa6d88.jpg?source=next-opengraph&fit=scale-down&width=900",
+                        "apple-itunes-app": "app-id=1200842933, app-argument=https://www.ft.com/content/98f6caf9-f8f9-47de-9cf9-4c2f1aa981aa",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "article:published_time": "2021-05-07T20:30:58.489Z",
+                        "og:title": "German and US regulators tighten focus on booming crypto market",
+                        "fb:pages": "8860325749",
+                        "og:description": "Soaring digital asset prices prompt firms to offer products ranging from loans to futures",
+                        "article:author": "Adam Samson",
+                        "twitter:site": "@FinancialTimes",
+                        "article:modified_time": "2021-05-07T20:30:58.489Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.ft.com/content/98f6caf9-f8f9-47de-9cf9-4c2f1aa981aa"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F62898ead-f82c-438b-91ba-001561aa6d88.jpg?source=next-opengraph&fit=scale-down&width=900"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Germany's Approach to Crypto-assets and their Safeguarding Under ...",
+            "htmlTitle": "<b>Germany&#39;s</b> Approach to Crypto-assets and their Safeguarding Under ...",
+            "link": "https://www.globalcompliancenews.com/2020/02/27/germanys-approach-to-crypto-assets-and-their-safeguarding-under-5mld-and-financial-regulation/",
+            "displayLink": "www.globalcompliancenews.com",
+            "snippet": "Feb 27, 2020 ... Crypto and money laundering regulation ... 5MLD is EU legislation that had to be implemented by EU Member States by 10 January 2020 and that calls\u00a0...",
+            "htmlSnippet": "Feb 27, 2020 <b>...</b> Crypto and money laundering <b>regulation</b> ... 5MLD is EU legislation that had to be implemented by EU Member States by 10 January 2020 and that calls&nbsp;...",
+            "cacheId": "sl_OrWyLFXIJ",
+            "formattedUrl": "https://www.globalcompliancenews.com/.../germanys-approach-to-crypto- assets-and-their-safeguarding-under-5mld-and-financial-regulation/",
+            "htmlFormattedUrl": "https://www.globalcompliancenews.com/.../<b>germanys</b>-approach-to-crypto- assets-and-their-safeguarding-under-5mld-and-financial-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgV35Frmdcb_rUo700Mv5dz5WA45JbCFfJeQUVOfO9wx-XMg8syTaxihI",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2016/04/Berlin-8.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-02-27T12:00:00+00:00",
+                        "og:image:width": "849",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Global Compliance News",
+                        "og:title": "Germany's Approach to Crypto-assets and their Safeguarding Under 5MLD and Financial Regulation",
+                        "og:image:height": "566",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Germany has always treated virtual currencies as financial instruments based on a view by the German regulator, BaFin, expressed as early as 2011, that bitcoin and related assets are \"units of account\" akin to artificial currencies. These equate to special drawing rights that are not legal tender but can be used for payments. According to this view, trading or brokerage in virtual currencies is viewed as requiring a financial services license under the Banking Act. This view was previously criticized by a criminal court, but the point is otiose as of January 2020 due to the special way that Germany has implemented the Fifth Money Laundering Directive",
+                        "twitter:data1": "Manuel Lorenz",
+                        "twitter:data2": "6 minutes",
+                        "article:modified_time": "2020-02-26T12:24:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.globalcompliancenews.com/2020/02/27/germanys-approach-to-crypto-assets-and-their-safeguarding-under-5mld-and-financial-regulation/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2016/04/Berlin-8.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Germany Introduces A New Law That Allows Funds To Invest Into ...",
+            "htmlTitle": "<b>Germany</b> Introduces A New <b>Law</b> That Allows Funds To Invest Into ...",
+            "link": "https://www.mondaq.com/germany/fin-tech/1069926/germany-introduces-a-new-law-that-allows-funds-to-invest-into-crypto-assets",
+            "displayLink": "www.mondaq.com",
+            "snippet": "May 20, 2021 ... When the new Fund Location Act (Fondsstandortgesetz) comes into effect on 1 July 2021, domestic special funds (Spezialfonds) in Germany will\u00a0...",
+            "htmlSnippet": "May 20, 2021 <b>...</b> When the new Fund Location Act (Fondsstandortgesetz) comes into effect on 1 July 2021, domestic special funds (Spezialfonds) in <b>Germany</b> will&nbsp;...",
+            "cacheId": "1dnX6kfGuP8J",
+            "formattedUrl": "https://www.mondaq.com/germany/.../germany-introduces-a-new-law-that- allows-funds-to-invest-into-crypto-assets",
+            "htmlFormattedUrl": "https://www.mondaq.com/<b>germany</b>/.../<b>germany</b>-introduces-a-new-<b>law</b>-that- allows-funds-to-invest-into-crypto-assets",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Germany Introduces A New Law That Allows Funds To Invest Into Crypto Assets - Technology - Germany",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "When the new Fund Location Act (Fondsstandortgesetz) comes into effect on 1 July 2021, domestic special funds (Spezialfonds)..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

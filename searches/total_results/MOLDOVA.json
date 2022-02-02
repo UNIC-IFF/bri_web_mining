@@ -1,0 +1,551 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MOLDOVA",
+                "totalResults": "311000",
+                "searchTerms": "MOLDOVA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MOLDOVA",
+                "totalResults": "311000",
+                "searchTerms": "MOLDOVA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.564059,
+        "formattedSearchTime": "0.56",
+        "totalResults": "311000",
+        "formattedTotalResults": "311,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Moldova and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Moldova</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/moldova/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Moldova? ... Moldova Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Moldova</b>? ... <b>Moldova Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "gEtxwtUokekJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/moldova/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>moldova</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs2ogGmT_VCWS2KHpHBaSwp7pS4cBGDbuEazwCYeKcn96xzd8b5oLCS2I",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493259-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-09-10T11:47:17+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/moldova/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Moldova? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493259-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493259-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:20:12+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "og:image:alt": "Moldova cryptocurrency",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Moldova and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Moldova and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:20:12+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Moldova and Cryptocurrency Moldova\u00a0 Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology On February 15, 2018, the National Bank of Moldova issued a statement[442] recommending that Moldovans be as cautious as possible in deciding whether to invest...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/moldova/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493259-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Shady Cryptocurrency Boom on the Post-Soviet Frontier | WIRED",
+            "htmlTitle": "The Shady <b>Cryptocurrency</b> Boom on the Post-Soviet Frontier | WIRED",
+            "link": "https://www.wired.com/story/cryptocurrency-boom-post-soviet-frontier/",
+            "displayLink": "www.wired.com",
+            "snippet": "Oct 29, 2019 ... Dodgy energy deals, loose regulation, and dubious characters\u2014with links ... a wholly unrecognized quasi-state slivered between Moldova and\u00a0...",
+            "htmlSnippet": "Oct 29, 2019 <b>...</b> Dodgy energy deals, loose <b>regulation</b>, and dubious characters\u2014with links ... a wholly unrecognized quasi-state slivered between <b>Moldova</b> and&nbsp;...",
+            "cacheId": "b9qN-7H3nDkJ",
+            "formattedUrl": "https://www.wired.com/story/cryptocurrency-boom-post-soviet-frontier/",
+            "htmlFormattedUrl": "https://www.wired.com/story/<b>cryptocurrency</b>-boom-post-soviet-frontier/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyfFJr-MU1mrDNEdtD-M_-69dM71H6btsyrFuYIM6whvcF1FCGdNsU4W4",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://media.wired.com/photos/5db730505b8c9000084c7c3d/191:100/w_1280,c_limit/Backchannel-Transnistria-Crypto-0H9A5111-2.jpg",
+                        "copyright": "Copyright (c) Cond\u00e9 Nast 2022",
+                        "article:published_time": "2019-10-29T11:00:00.000Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Wired",
+                        "parsely-metadata": "{\"description\":\"Dodgy energy deals, loose regulation, and dubious characters\u2014with links to the Hillary Clinton email hackers\u2014are fueling a burgeoning crypto industry that could provide an end run around US sanctions.\",\"image-16-9\":\"https://media.wired.com/photos/5db730505b8c9000084c7c3d/16:9/w_1000,c_limit/Backchannel-Transnistria-Crypto-0H9A5111-2.jpg\",\"image-1-1\":\"https://media.wired.com/photos/5db730505b8c9000084c7c3d/1:1/w_1000,c_limit/Backchannel-Transnistria-Crypto-0H9A5111-2.jpg\"}",
+                        "og:description": "Dodgy energy deals, loose regulation, and dubious characters\u2014with links to the Hillary Clinton email hackers\u2014are fueling a burgeoning crypto industry that could provide an end run around US sanctions.",
+                        "twitter:creator": "@wired",
+                        "twitter:image": "https://media.wired.com/photos/5db730505b8c9000084c7c3d/191:100/w_1280,c_limit/Backchannel-Transnistria-Crypto-0H9A5111-2.jpg?mbid=social_retweet",
+                        "msapplication-tap-highlight": "no",
+                        "twitter:site": "@wired",
+                        "news_keywords": "cryptocurrency,russia,national security,longreads",
+                        "content-type": "article",
+                        "article:content_tier": "metered",
+                        "id": "5db21d570aa0150008816c9d",
+                        "og:type": "article",
+                        "article:section": "tags",
+                        "twitter:title": "The Shady Cryptocurrency Boom on the Post-Soviet Frontier",
+                        "parsely-post-id": "5db21d570aa0150008816c9d",
+                        "twitter:domain": "https://www.wired.com",
+                        "author": "Cond\u00e9 Nast",
+                        "og:title": "The Shady Cryptocurrency Boom on the Post-Soviet Frontier",
+                        "fb:pages": "19440638720",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "719405864858490",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Dodgy energy deals, loose regulation, and dubious characters\u2014with links to the Hillary Clinton email hackers\u2014are fueling a burgeoning crypto industry that could provide an end run around US sanctions.",
+                        "og:url": "https://www.wired.com/story/cryptocurrency-boom-post-soviet-frontier/",
+                        "google-signin-client_id": "904266558061-dqllerrg1949kl0dfu2k64nhvhtqoee0.apps.googleusercontent.com",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.wired.com/photos/5db730505b8c9000084c7c3d/191:100/w_1280,c_limit/Backchannel-Transnistria-Crypto-0H9A5111-2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Moldova | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Moldova</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/moldova",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Moldova for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Moldova</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "vgRMBACvh6oJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/moldova",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>moldova</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Moldova for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Moldova | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Moldova for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Moldova | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/moldova"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "As of 2021, over 50 countries have bans on cryptocurrency",
+            "htmlTitle": "As of 2021, over 50 countries have bans on <b>cryptocurrency</b>",
+            "link": "https://sg.news.yahoo.com/2021-over-50-countries-bans-131739891.html",
+            "displayLink": "sg.news.yahoo.com",
+            "snippet": "Jan 4, 2022 ... Cryptocurrencies gained extraordinary popularity in 2021. Yet, a number of countries have decided to ban or heavily regulate these volatile\u00a0...",
+            "htmlSnippet": "Jan 4, 2022 <b>...</b> <b>Cryptocurrencies</b> gained extraordinary popularity in 2021. Yet, a number of countries have decided to ban or heavily <b>regulate</b> these volatile&nbsp;...",
+            "cacheId": "_BCc7GX0qLAJ",
+            "formattedUrl": "https://sg.news.yahoo.com/2021-over-50-countries-bans-131739891.html",
+            "htmlFormattedUrl": "https://sg.news.yahoo.com/2021-over-50-countries-bans-131739891.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2RGTh9ejK5bAMW2Bzc6xfiOu0oaafIhmwW_2GPP0t9X0rZOXWnc2rZ-s",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=f4a0b312-ccc4-3fde-8a24-5a0075df9c01&src=web",
+                        "og:image": "https://s.yimg.com/ny/api/res/1.2/ZGcAso.S0dAZIkZk67iTJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU-/https://s.yimg.com/uu/api/res/1.2/NYL7bZYaC.I6STF0ggdV5w--~B/aD0xOTI0O3c9Mjg4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afprelaxnews.com/e78ce7c377e766e92bd838fe88d2deeb",
+                        "twitter:title": "As of 2021, over 50 countries have bans on cryptocurrency",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "al:ios:app_name": "Yahoo",
+                        "og:title": "As of 2021, over 50 countries have bans on cryptocurrency",
+                        "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                        "og:image:height": "685",
+                        "al:ios:url": "yahoo://article/view?uuid=f4a0b312-ccc4-3fde-8a24-5a0075df9c01&src=web",
+                        "og:description": "Cryptocurrencies gained extraordinary popularity in 2021. Yet, a number of countries have decided to ban or heavily regulate these volatile assets for various reasons.",
+                        "al:ios:app_store_id": "304158842",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/ny/api/res/1.2/ZGcAso.S0dAZIkZk67iTJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU-/https://s.yimg.com/uu/api/res/1.2/NYL7bZYaC.I6STF0ggdV5w--~B/aD0xOTI0O3c9Mjg4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afprelaxnews.com/e78ce7c377e766e92bd838fe88d2deeb",
+                        "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/ZGcAso.S0dAZIkZk67iTJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU-/https://s.yimg.com/uu/api/res/1.2/NYL7bZYaC.I6STF0ggdV5w--~B/aD0xOTI0O3c9Mjg4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afprelaxnews.com/e78ce7c377e766e92bd838fe88d2deeb",
+                        "al:android:url": "yahoo://article/view?uuid=f4a0b312-ccc4-3fde-8a24-5a0075df9c01&src=web",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@yahoosg",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "digital currencies, digital assets, countries in the European Union",
+                        "twitter:description": "Cryptocurrencies gained extraordinary popularity in 2021. Yet, a number of countries have decided to ban or heavily regulate these volatile assets for various reasons.",
+                        "og:url": "https://sg.news.yahoo.com/2021-over-50-countries-bans-131739891.html",
+                        "al:android:app_name": "Yahoo"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/ny/api/res/1.2/6ojD9eEcMU5WvMVhmQwCPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/uu/api/res/1.2/NYL7bZYaC.I6STF0ggdV5w--~B/aD0xOTI0O3c9Mjg4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afprelaxnews.com/e78ce7c377e766e92bd838fe88d2deeb"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from nonexistent or partial <b>regulations</b> to prohibitions. Here are the key areas&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual currency and its associated risks | National Bank of Moldova",
+            "htmlTitle": "Virtual currency and its associated risks | National Bank of <b>Moldova</b>",
+            "link": "https://www.bnm.md/en/content/virtual-currency-and-its-associated-risks",
+            "displayLink": "www.bnm.md",
+            "snippet": "The use of virtual currencies is not regulated in the Republic of Moldova. They do not represent a form of electronic money within the meaning of the Law on\u00a0...",
+            "htmlSnippet": "The use of virtual currencies is not <b>regulated</b> in the Republic of <b>Moldova</b>. They do not represent a form of electronic money within the meaning of the Law on&nbsp;...",
+            "cacheId": "1ni9eye8HREJ",
+            "formattedUrl": "https://www.bnm.md/en/content/virtual-currency-and-its-associated-risks",
+            "htmlFormattedUrl": "https://www.bnm.<b>md</b>/en/content/virtual-currency-and-its-associated-risks",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpLqG_WQnl9NoSvnXIWIwydjPJRI6ZnBKYhk10KaSTH9S1oeRvlHTWHw9v",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bnm.md/files/menu_image/img_0653_-_copy_1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Republic of Moldova",
+            "htmlTitle": "Republic of <b>Moldova</b>",
+            "link": "https://www.bitbon.space/en/knowledge-base/regulation-of-blockchain-tokens/analysis-of-examples-of-legislative-regulation-of-cryptocurrencies-and-digital-assets-in-separate-jurisdictions/republic-of-moldova",
+            "displayLink": "www.bitbon.space",
+            "snippet": "Moldova is one of the countries that has no legal regulation of digital assets and cryptocurrencies. Moreover, the term \u201cdigital asset\u201d is absent in\u00a0...",
+            "htmlSnippet": "<b>Moldova</b> is one of the countries that has no legal <b>regulation</b> of digital assets and <b>cryptocurrencies</b>. Moreover, the term \u201cdigital asset\u201d is absent in&nbsp;...",
+            "cacheId": "D-uz9UqA2bIJ",
+            "formattedUrl": "https://www.bitbon.space/.../regulation...regulation-of-cryptocurrencies.../ republic-of-moldova",
+            "htmlFormattedUrl": "https://www.bitbon.space/.../<b>regulation</b>...<b>regulation-of-cryptocurrencies</b>.../ republic-of-<b>moldova</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWkCgkiXZCkD4vLaJmKnXI8wA6ii24GwVvDW5lg643TTAOyf47TCCNG78",
+                        "width": "241",
+                        "height": "209"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "next-head-count": "3",
+                        "og:type": "website",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "ubk markets": "1197056627030085",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///ddb3408ff690da624154457b56defd899d976e1e570c8764c3e64db01d424334"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "From Russia to Macedonia: How Cryptocurrencies Are Regulated in ...",
+            "htmlTitle": "From Russia to Macedonia: How <b>Cryptocurrencies</b> Are <b>Regulated</b> in ...",
+            "link": "https://cointelegraph.com/news/from-russia-to-macedonia-how-cryptocurrencies-are-regulated-in-eastern-europe",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jul 2, 2018 ... Map of cryptocurrencies: regulations, exchanges and blockchain initiatives. ... \u201cThe use of virtual money is not regulated in Moldova.",
+            "htmlSnippet": "Jul 2, 2018 <b>...</b> Map of <b>cryptocurrencies</b>: <b>regulations</b>, exchanges and blockchain initiatives. ... \u201cThe use of virtual money is not <b>regulated</b> in <b>Moldova</b>.",
+            "formattedUrl": "https://cointelegraph.com/.../from-russia-to-macedonia-how-cryptocurrencies -are-regulated-in-eastern-europe",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../from-russia-to-macedonia-how-<b>cryptocurrencies</b> -are-<b>regulated</b>-in-eastern-europe",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzDmQ3s2Y8PYJpioBgGtWi27GQvoXAnEul3B2m31wy3IA1fcHMLcc6k2nT",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDk3OWEyMDk0MDc2M2M3Y2ZjNmUxNGNlMDNlMTU2ZS5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "From Russia to Macedonia: How Cryptocurrencies Are Regulated in Eastern Europe",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "From Russia to Macedonia: How Cryptocurrencies Are Regulated in Eastern Europe",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Map of cryptocurrencies: regulations, exchanges and blockchain initiatives.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDk3OWEyMDk0MDc2M2M3Y2ZjNmUxNGNlMDNlMTU2ZS5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Map of cryptocurrencies: regulations, exchanges and blockchain initiatives.",
+                        "og:url": "https://cointelegraph.com/news/from-russia-to-macedonia-how-cryptocurrencies-are-regulated-in-eastern-europe"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDk3OWEyMDk0MDc2M2M3Y2ZjNmUxNGNlMDNlMTU2ZS5qcGc=.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

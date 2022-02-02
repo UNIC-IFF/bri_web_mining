@@ -1,0 +1,577 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SWEDEN",
+                "totalResults": "664000",
+                "searchTerms": "SWEDEN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SWEDEN",
+                "totalResults": "664000",
+                "searchTerms": "SWEDEN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.364748,
+        "formattedSearchTime": "0.36",
+        "totalResults": "664000",
+        "formattedTotalResults": "664,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Sweden and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Sweden</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/sweden/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "In Sweden, there are no statutes that specifically address cryptocurrencies. Nevertheless, cryptocurrencies potentially fall under Sweden's general legal\u00a0...",
+            "htmlSnippet": "In <b>Sweden</b>, there are no statutes that specifically address <b>cryptocurrencies</b>. Nevertheless, <b>cryptocurrencies</b> potentially fall under <b>Sweden&#39;s</b> general legal&nbsp;...",
+            "cacheId": "5-6G8O9rFGAJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/sweden/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>sweden</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pXcHczyMOp5m1qKtwQkdCU5mhWQPqcCrRocJmj8SKL_rdrZtbRfUWOoT",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396545-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:44:28+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/sweden/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Sweden? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "13 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396545-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396545-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:16:10+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Stack of Bitcoin Sweden flag. Bitcoin cryptocurrencies concept. BTC background.",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Sweden and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Sweden and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:16:10+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Sweden and Cryptocurrency Sweden Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology The legal framework for cryptocurrencies has conflicting laws and contradicting policies. While some government authorities have issued warnings about the risks...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/sweden/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396545-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Sweden",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Sweden</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/sweden",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... There are no restrictions under Swedish law prohibiting, limiting or otherwise stipulating any mandatory provisions specifically applicable to\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> There are no restrictions under <b>Swedish</b> law prohibiting, limiting or otherwise stipulating any mandatory provisions specifically applicable to&nbsp;...",
+            "cacheId": "TnEK5GK9xEcJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../sweden",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>sweden</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "iuutIf8rUWpxoS5CJ0I9V1MgEaLksXMMT2OS7nno"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CONVENTION BETWEEN THE GOVERNMENT OF THE UNITED ...",
+            "htmlTitle": "CONVENTION BETWEEN THE GOVERNMENT OF THE UNITED ...",
+            "link": "https://www.irs.gov/pub/irs-trty/sweden.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "AND THE GOVERNMENT OF SWEDEN FOR THE AVOIDANCE OF DOUBLE TAXATION. AND THE PREVENTION OF ... It takes into account the current tax laws and recent income.",
+            "htmlSnippet": "AND THE GOVERNMENT OF <b>SWEDEN</b> FOR THE AVOIDANCE OF DOUBLE TAXATION. AND THE PREVENTION OF ... It takes into account the current tax <b>laws</b> and recent income.",
+            "cacheId": "hdWs9KrLPLcJ",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/sweden.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>sweden</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQenKy7M0og50_sw0O0NQNqmDdFSErvWn6ifEwc9IaHXsR4tj12d1cs_lWV",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802111438-04'00'",
+                        "creationdate": "D:20000229110419Z",
+                        "creator": "Microsoft Word - SWEDENWEB",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "SWEDENWEB.PDF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f85aa549e721e283e57d6a2d12319ea7b5433a95417725e1783a870e4b563c21"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sweden - GovChain",
+            "htmlTitle": "<b>Sweden</b> - GovChain",
+            "link": "https://govchain.world/sweden/",
+            "displayLink": "govchain.world",
+            "snippet": "There is no cryptocurrency-specific regulation in Sweden. However, the Finansinspektionen, Sweden's Financial Supervisory Authority, is of the opinion that\u00a0...",
+            "htmlSnippet": "There is no <b>cryptocurrency</b>-specific <b>regulation</b> in <b>Sweden</b>. However, the Finansinspektionen, <b>Sweden&#39;s</b> Financial Supervisory Authority, is of the opinion that&nbsp;...",
+            "cacheId": "YURm_BNY1mIJ",
+            "formattedUrl": "https://govchain.world/sweden/",
+            "htmlFormattedUrl": "https://govchain.world/<b>sweden</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEZ4iPy6e9ka2ekAhXm1kjE6FjmUjXjLQYaIUC3JT0bwC3ZKmoHBc",
+                        "width": "126",
+                        "height": "84"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://govchain.world/wp-content/uploads/2019/09/Sweden.png",
+                        "og:type": "article",
+                        "article:published_time": "2019-09-05T13:19:47+00:00",
+                        "og:image:width": "126",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "GovChain",
+                        "og:title": "Sweden - GovChain",
+                        "og:image:height": "84",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Estimated reading time",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "https://govchain.world/wp-content/uploads/2019/09/cropped-siteicon-270x270.png",
+                        "og:description": "Sweden is an adopter, having applied blockchain to its national land registry. It has also created an Innovation Centre, issued some guidance on the use of cryptocurrencies and is investigating the use of an e-Krona.",
+                        "twitter:creator": "@GovchainR",
+                        "twitter:data1": "sophie",
+                        "twitter:data2": "4 minutes",
+                        "twitter:site": "@GovchainR",
+                        "article:modified_time": "2019-09-18T10:55:54+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_GB",
+                        "og:url": "https://govchain.world/sweden/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://govchain.world/wp-content/uploads/2019/09/Sweden.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto Likely to Face Tougher Regulation: Swedish Central Bank ...",
+            "htmlTitle": "Crypto Likely to Face Tougher <b>Regulation</b>: <b>Swedish</b> Central Bank ...",
+            "link": "https://markets.businessinsider.com/currencies/news/cryptocurrency-regulation-central-banks-bitcoin-btc-crime-sweden-2021-6-1030481176",
+            "displayLink": "markets.businessinsider.com",
+            "snippet": "Jun 1, 2021 ... Cryptocurrencies are likely to face tougher regulation after the bitcoin boom, Sweden's central bank chief says \u00b7 Sweden's central bank governor\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Cryptocurrencies</b> are likely to face tougher <b>regulation</b> after the bitcoin boom, <b>Sweden&#39;s</b> central bank chief says &middot; <b>Sweden&#39;s</b> central bank governor&nbsp;...",
+            "cacheId": "7pkgoZdstRMJ",
+            "formattedUrl": "https://markets.businessinsider.com/.../cryptocurrency-regulation-central- banks-bitcoin-btc-crime-sweden-2021-6-1030481176",
+            "htmlFormattedUrl": "https://markets.businessinsider.com/.../<b>cryptocurrency</b>-<b>regulation</b>-central- banks-bitcoin-btc-crime-<b>sweden</b>-2021-6-1030481176",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWigA_L-zJBzZOUbf8RG9QqXFoBkdh8ZWKidIHzIuJIMoC6AqULDdBptpu",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-06-01",
+                        "og:image": "https://i.insider.com/60b616e3bee0fc0019d5a96e?width=1200&format=jpeg",
+                        "msapplication-config": "/public/assets/MI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#014E92",
+                        "sailthru.tags": "MI Exclusive, Markets, bitcoin regulation, Cryptocurrency Regulation, Bitcoin, Cryptocurrencies, Sweden, Central Banks, Harry Robertson",
+                        "og:site_name": "Markets Insider",
+                        "apple-mobile-web-app-title": "Markets Insider",
+                        "title": "Cryptocurrencies are likely to face tougher regulation after the bitcoin boom, Sweden's central bank chief says",
+                        "og:description": "Stefan Ingves is the latest in a long list of central bankers to either criticize cryptocurrencies, or raise the prospect of tougher regulation.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@themoneygame",
+                        "news_keywords": "MI Exclusive, Markets, bitcoin regulation, Cryptocurrency Regulation, Bitcoin, Cryptocurrencies, Sweden, Central Banks, Harry Robertson",
+                        "sailthru.title": "Cryptocurrencies are likely to face tougher regulation after the bitcoin boom, Sweden's central bank chief says",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-06-01T11:57:52Z",
+                        "pubdate": "2021-06-01T11:30:35Z",
+                        "sailthru.verticals": "moneygame",
+                        "sailthru.date": "2021-06-01",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "GettyImages 1153353804",
+                        "author": "Harry Robertson",
+                        "tbi-vertical": "Markets",
+                        "og:title": "Cryptocurrencies are likely to face tougher regulation after the bitcoin boom, Sweden's central bank chief says",
+                        "ia:markup_url": "https://markets.businessinsider.com/currencies/news/cryptocurrency-regulation-central-banks-bitcoin-btc-crime-sweden-2021-6-1030481176?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/60b616c902ac410018f93adb?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "Stefan Ingves is the latest in a long list of central bankers to either criticize cryptocurrencies, or raise the prospect of tougher regulation.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://markets.businessinsider.com/currencies/news/cryptocurrency-regulation-central-banks-bitcoin-btc-crime-sweden-2021-6-1030481176",
+                        "sailthru.author": "Harry Robertson",
+                        "sailthru.image.full": "https://i.insider.com/60b616c902ac410018f93adb?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/60b616e3bee0fc0019d5a96e?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "American And Swedish Authorities Signal Stricter Crypto Oversight ...",
+            "htmlTitle": "American And <b>Swedish</b> Authorities Signal Stricter Crypto Oversight ...",
+            "link": "https://www.forbes.com/sites/roberthart/2021/06/01/american-and-swedish-authorities-signal-stricter-crypto-oversight-as-uk-banks-restrict-transfers-to-digital-currency-exchanges/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Jun 1, 2021 ... Financial regulators in Sweden and the U.S. both hinted at ... and set a \u201cregulatory perimeter\u201d for cryptocurrencies and take a more active\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> Financial regulators in <b>Sweden</b> and the U.S. both hinted at ... and set a \u201c<b>regulatory</b> perimeter\u201d for <b>cryptocurrencies</b> and take a more active&nbsp;...",
+            "cacheId": "gth0OJzEW6QJ",
+            "formattedUrl": "https://www.forbes.com/.../american-and-swedish-authorities-signal-stricter- crypto-oversight-as-uk-banks-restrict-transfers-to-digital-currency-exchang...",
+            "htmlFormattedUrl": "https://www.forbes.com/.../american-and-<b>swedish</b>-authorities-signal-stricter- crypto-oversight-as-uk-banks-restrict-transfers-to-digital-currency-exchang...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLv8jcMiH85KCSIR3CKTgvf-FWgUdiuE38IcR4Bv_a3GD4XrjEqeEBbuc",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "NewsArticle": [
+                    {
+                        "datePublished": "2021-06-01T06:49:41-04:00",
+                        "keywords": "crypto regulation,crypto exchanges,bitcoin,US bitcoin law,sweden crypto,china crypto ban,US crypto regulation",
+                        "name": "American And Swedish Authorities Signal Stricter Crypto Oversight As U.K. Banks Restrict Transfers To Digital Currency Exchanges",
+                        "description": "Preventing financial crime and protecting consumers are key drivers of forthcoming regulation.",
+                        "dateModified": "2021-06-01T06:49:41-04:00",
+                        "isAccessibleForFree": "http://schema.org/False",
+                        "mainEntityOfPage": "https://www.forbes.com/sites/roberthart/2021/06/01/american-and-swedish-authorities-signal-stricter-crypto-oversight-as-uk-banks-restrict-transfers-to-digital-currency-exchanges/",
+                        "headline": "American And Swedish Authorities Signal Stricter Crypto Oversight As U.K. Banks Restrict Transfers To Digital Currency Exchanges",
+                        "articleSection": "Business"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=588647136",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Forbes",
+                        "article:id": "blogAndPostId/blog/post/50808-60b60f1bd9704e000648136c",
+                        "og:description": "Preventing financial crime and protecting consumers are key drivers of forthcoming regulation.",
+                        "twitter:creator": "@TheRobertHart",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/60b610524c1380da627dd319/0x0.jpg?format=jpg&crop=2116,1190,x0,y400,safe&fit=crop",
+                        "twitter:site": "@forbes",
+                        "news_keywords": "crypto regulation,crypto exchanges,bitcoin,US bitcoin law,sweden crypto,china crypto ban,US crypto regulation",
+                        "article:published": "2021-06-01",
+                        "article:channel": "Business",
+                        "image": "https://imageio.forbes.com/specials-images/imageserve/60b610524c1380da627dd319/0x0.jpg?format=jpg&crop=2116,1190,x0,y400,safe&fit=crop",
+                        "article:section": "Business",
+                        "og:type": "article",
+                        "twitter:title": "American And Swedish Authorities Signal Stricter Crypto Oversight As U.K. Banks Restrict Transfers To Digital Currency Exchanges",
+                        "author": "Robert Hart",
+                        "article:section_url": "https://www.forbes.com/business/",
+                        "og:title": "American And Swedish Authorities Signal Stricter Crypto Oversight As U.K. Banks Restrict Transfers To Digital Currency Exchanges",
+                        "og:updated_time": "2021-06-01T06:49:41.994-04:00",
+                        "article:author": "Robert Hart",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "123694841080850",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1,user-scalable=yes",
+                        "twitter:description": "Preventing financial crime and protecting consumers are key drivers of forthcoming regulation.",
+                        "og:url": "https://www.forbes.com/sites/roberthart/2021/06/01/american-and-swedish-authorities-signal-stricter-crypto-oversight-as-uk-banks-restrict-transfers-to-digital-currency-exchanges/",
+                        "article:modified": "2021-06-01"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thumbor.forbes.com/thumbor/trim/0x400:2116x1590/fit-in/711x399/smart/https://specials-images.forbesimg.com/imageserve/60b610524c1380da627dd319/Crypto-Currency-at-the-Capitol/0x0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Unlikely to Dodge Regulation for Long, Sweden Says",
+            "htmlTitle": "Bitcoin Unlikely to Dodge <b>Regulation</b> for Long, <b>Sweden</b> Says",
+            "link": "https://www.bloomberg.com/news/articles/2021-06-01/bitcoin-is-unlikely-to-escape-regulation-riksbank-governor-says",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Jun 1, 2021 ... Bitcoin and other cryptocurrencies are unlikely to escape regulatory oversight as supervisory authorities respond to the sheer popularity of\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> Bitcoin and other <b>cryptocurrencies</b> are unlikely to escape <b>regulatory</b> oversight as supervisory authorities respond to the sheer popularity of&nbsp;...",
+            "cacheId": "GbLUkLF3BNgJ",
+            "formattedUrl": "https://www.bloomberg.com/.../bitcoin-is-unlikely-to-escape-regulation- riksbank-governor-says",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../bitcoin-is-unlikely-to-escape-<b>regulation</b>- riksbank-governor-says",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rRhbOSruF5Qn02QROQ1Fr0lRr7jnhCmcOabCkyglQVrsJ4orpxYDU5s",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imjfvek1QmcM/v0/1200x800.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Bitcoin,Regulation,Cryptocurrency,Sweden,Stefan Ingves,Money Laundering,Federal Reserve,Monetary Policy,Wall Street,GOLDMAN SACHS GROUP INC,markets,business,cryptocurrencies",
+                        "lotame-bbg-topic": "government,monetary-policy,cryptocurrency,regulation,bitcoin,policy,fixed-income,future-innovation",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Niclas Rolander",
+                        "og:description": "Bitcoin and other cryptocurrencies are unlikely to escape regulatory oversight as supervisory authorities respond to the sheer popularity of the phenomenon, according to the governor of Sweden\u2019s central bank.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imjfvek1QmcM/v0/1200x800.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@markets",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-06-01/bitcoin-is-unlikely-to-escape-regulation-riksbank-governor-says",
+                        "iso-8601-publish-date": "2021-06-01T06:39:51.631Z",
+                        "sailthru.title": "Bitcoin Unlikely to Dodge Regulation for Long, Sweden Says",
+                        "checksum": "004a0282b4e2a00c529cd19e8b9b0e78",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imjfvek1QmcM/v0/1200x800.jpg",
+                        "parsely-section": "markets",
+                        "article:content_tier": "metered",
+                        "fb:status": "Bitcoin and other cryptocurrencies are unlikely to escape regulatory oversight as supervisory authorities respond to the sheer popularity of the phenomenon, according to the governor of Sweden\u2019s central bank.",
+                        "sailthru.date": "2021-06-01T06:39:51.631Z",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin Unlikely to Dodge Regulation for Long, Sweden Says",
+                        "parsely-post-id": "QTZ3P6T0AFBE01",
+                        "og:title": "Bitcoin Unlikely to Dodge Regulation for Long, Sweden Says",
+                        "parsely-title": "(BTC USD) Bitcoin, Crypto Unlikely to Escape Regulation: Riksbank Governor",
+                        "parsely-pub-date": "2021-06-01T06:39:51.631Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-06-01/bitcoin-is-unlikely-to-escape-regulation-riksbank-governor-says?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "markets,finance,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Bitcoin,Regulation,Cryptocurrency,Sweden,Stefan Ingves,Money Laundering,Federal Reserve,Monetary Policy,Wall Street,GOLDMAN SACHS GROUP INC,Secondary Brand: markets,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "Bitcoin and other cryptocurrencies are unlikely to escape regulatory oversight as supervisory authorities respond to the sheer popularity of the phenomenon, according to the governor of Sweden\u2019s central bank.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "Bitcoin and other cryptocurrencies are unlikely to escape regulatory oversight as supervisory authorities respond to the sheer popularity of the phenomenon, according to the governor of Sweden\u2019s central bank.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-06-01/bitcoin-is-unlikely-to-escape-regulation-riksbank-governor-says",
+                        "validatedat": "2022-01-23T12:09:52.243Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Niclas Rolander,Hanna Hoikkala",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imjfvek1QmcM/v0/1200x800.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin down as Sweden's central bank compares it to 'trading in ...",
+            "htmlTitle": "Bitcoin down as <b>Sweden&#39;s</b> central bank compares it to &#39;trading in ...",
+            "link": "https://www.yahoo.com/finance/news/bitcoin-price-cryptocurrencies-sweden-trading-stamps-ethereum-100929220.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Sep 10, 2021 ... Cryptocurrencies were broadly down today as Sweden's central bank governor ... Bitcoin, hit by regulatory crackdowns and concerns over the\u00a0...",
+            "htmlSnippet": "Sep 10, 2021 <b>...</b> <b>Cryptocurrencies</b> were broadly down today as <b>Sweden&#39;s</b> central bank governor ... Bitcoin, hit by <b>regulatory</b> crackdowns and concerns over the&nbsp;...",
+            "cacheId": "7usxXYRP-FEJ",
+            "formattedUrl": "https://www.yahoo.com/.../bitcoin-price-cryptocurrencies-sweden-trading- stamps-ethereum-100929220.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../bitcoin-price-<b>cryptocurrencies</b>-<b>sweden</b>-trading- stamps-ethereum-100929220.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhsYkV6GC5wOwa3w561sm13rN7AoIeviD31QhK3KIlmuXr93QNAr81kZ8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/8b272b21-4970-43c7-92cc-4f2f8b3f9058",
+                        "og:image": "https://s.yimg.com/ny/api/res/1.2/7rB6ieZlCcQ.rKlTXQ6VbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/02a53080-121b-11ec-bfcf-56b56c6843d7",
+                        "twitter:title": "Bitcoin down as Sweden's central bank compares it to 'trading in stamps'",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Bitcoin down as Sweden's central bank compares it to 'trading in stamps'",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "800",
+                        "og:description": "Cryptocurrencies were broadly down today as Sweden\u2019s central bank governor said bitcoin could eventually collapse.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/ny/api/res/1.2/7rB6ieZlCcQ.rKlTXQ6VbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/02a53080-121b-11ec-bfcf-56b56c6843d7",
+                        "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/7rB6ieZlCcQ.rKlTXQ6VbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/02a53080-121b-11ec-bfcf-56b56c6843d7",
+                        "al:android:url": "yfinance://article/8b272b21-4970-43c7-92cc-4f2f8b3f9058",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Sweden, Stefan Ingves, Getty Images, private money, MAGNUS ANDERSSON",
+                        "twitter:description": "Cryptocurrencies were broadly down today as Sweden\u2019s central bank governor said bitcoin could eventually collapse.",
+                        "og:url": "https://finance.yahoo.com/news/bitcoin-price-cryptocurrencies-sweden-trading-stamps-ethereum-100929220.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/ny/api/res/1.2/7rB6ieZlCcQ.rKlTXQ6VbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/02a53080-121b-11ec-bfcf-56b56c6843d7"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Sweden | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Sweden</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/sweden",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Sweden for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Sweden</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "9JzcquqeC38J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/sweden",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>sweden</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Sweden for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Sweden | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Sweden for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Sweden | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/sweden"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... The regulatory regime surrounding cryptocurrencies is ... Sweden's Central Bank, the Riksbanken, has been a leader.",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> The <b>regulatory</b> regime surrounding <b>cryptocurrencies</b> is ... <b>Sweden&#39;s</b> Central Bank, the Riksbanken, has been a leader.",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

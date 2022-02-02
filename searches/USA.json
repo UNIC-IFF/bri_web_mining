@@ -1,0 +1,26 @@
+{
+  "USA": {
+    "total_results": "2,630,000",
+    "positive": {
+      "recognizes": 383000,
+      "allows": 593000,
+      "issues": 560000,
+      "classifies": 110000
+    },
+    "negative": {
+      "does not allow": 560000,
+      "has forbidden": 415000,
+      "restricts": 441000,
+      "bans": 434000
+    },
+    "score_ratio": -0.11027027027027027,
+    "norm": 1.329277566539924,
+    "ss_pow": -0.14657979652656458,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1850000,
+    "positive_total": 1646000,
+    "negative_total": 1850000,
+    "country_hits": 2630000
+  }
+}

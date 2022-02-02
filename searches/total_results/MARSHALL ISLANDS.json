@@ -1,0 +1,628 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MARSHALL ISLANDS",
+                "totalResults": "773000",
+                "searchTerms": "MARSHALL ISLANDS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MARSHALL ISLANDS",
+                "totalResults": "773000",
+                "searchTerms": "MARSHALL ISLANDS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.399614,
+        "formattedSearchTime": "0.40",
+        "totalResults": "773000",
+        "formattedTotalResults": "773,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Marshall Islands and Cryptocurrency - Freeman Law",
+            "htmlTitle": "<b>Marshall Islands</b> and <b>Cryptocurrency</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/marshall/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Marshall Islands. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. The Marshall Islands has enacted legislation authorizing\u00a0...",
+            "htmlSnippet": "<b>Marshall Islands</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. The <b>Marshall Islands</b> has enacted legislation authorizing&nbsp;...",
+            "cacheId": "b8fFoV7JnmgJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/marshall/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>marshall</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmqHJL9rla4QlZFyaGKsbNDEFH4cNwcCjR0a5nXNsrL5bwz03XgxhsI8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419493113-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-08-07T17:20:28+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/marshall/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419493113-scaled.jpeg",
+                        "og:description": "Is cryptocurrency legal in the Marshall Islands? Freeman Law can help with digital currencies & tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419493113-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419493113-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:16:27+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/guernsey/",
+                        "og:type": "article",
+                        "og:image:alt": "Marshall Islands bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Bitcoin",
+                        "twitter:title": "Marshall Islands and Cryptocurrency",
+                        "og:title": "Marshall Islands and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:16:27+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Marshall Islands and Cryptocurrency Marshall Islands Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology The Marshall Islands has enacted legislation authorizing the launching of its own national cryptocurrency to serve as legal tender for citizens and businesses on...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/marshall/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419493113-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "SOV",
+            "htmlTitle": "SOV",
+            "link": "https://sov.foundation/",
+            "displayLink": "sov.foundation",
+            "snippet": "SOV (short for \u201csovereign\u201d) is a blockchain-based currency and the new legal tender of the Republic of the Marshall Islands. ... On February 26, 2018 The Republic\u00a0...",
+            "htmlSnippet": "SOV (short for \u201csovereign\u201d) is a blockchain-based currency and the new legal tender of the Republic of the <b>Marshall Islands</b>. ... On February 26, 2018 The Republic&nbsp;...",
+            "cacheId": "f7zsmQJLSPwJ",
+            "formattedUrl": "https://sov.foundation/",
+            "htmlFormattedUrl": "https://sov.foundation/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ndLvuXiP9cLMssGxmtPG1s3Cfoer7cWJsQOu1Ml75ORsBQUGYvYbLHtY",
+                        "width": "324",
+                        "height": "156"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sov.foundation/img/sov-banknote.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Marshall Islands to issue own sovereign cryptocurrency | Reuters",
+            "htmlTitle": "<b>Marshall Islands</b> to issue own sovereign <b>cryptocurrency</b> | Reuters",
+            "link": "https://www.reuters.com/article/us-crypto-currencies-marshall-islands/marshall-islands-to-issue-own-sovereign-cryptocurrency-idUSKCN1GC2UD",
+            "displayLink": "www.reuters.com",
+            "snippet": "Feb 28, 2018 ... NEW YORK (Reuters) - The Marshall Islands will issue its own cryptocurrency that will be circulated as legal tender along with the U.S.\u00a0...",
+            "htmlSnippet": "Feb 28, 2018 <b>...</b> NEW YORK (Reuters) - The <b>Marshall Islands</b> will issue its own <b>cryptocurrency</b> that will be circulated as legal tender along with the U.S.&nbsp;...",
+            "cacheId": "9_lp9jc_GwIJ",
+            "formattedUrl": "https://www.reuters.com/...marshall-islands/marshall-islands-to-issue-own- sovereign-cryptocurrency-idUSKCN1GC2UD",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>marshall</b>-<b>islands</b>/<b>marshall</b>-<b>islands</b>-to-issue-own- sovereign-<b>cryptocurrency</b>-idUSKCN1GC2UD",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2018-02-28T18:36:08Z",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "analyticsattributes.backendchannellist": "technologyNews;consolidated-business;US-The-Wire;digital-future;rcom-us-markets;nec-retail;technology-upclose;finance-upclose;USWire_EL;everythingNews;fintech-full",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "The Marshall Islands will issue its own cryptocurrency that will be circulated as legal tender along with the U.S. dollar, according to one of the remote Pacific republic's top officials.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2018-02-28T18:36:08Z",
+                        "og:article:section": "Technology News",
+                        "analyticsattributes.articledate": "2018-02-28T18:36:08Z",
+                        "dcsext.dartzone": "reuters.com/technology/article",
+                        "author": "Gertrude Chavez-Dreyfuss",
+                        "analyticsattributes.keywords": "US,CRYPTO,CURRENCIES,MARSHALL,ISLANDS,Asia / Pacific,Corporate Events,Blockchain,Cryptocurrencies,Financials (Legacy),Financials (TRBC level 1),Financial Technology & Infrastructure (TRBC level 5),Currencies / Foreign Exchange Markets,New Issues,Marshall Islands,Science / Technology,Sovereign Wealth Funds,Technology (TRBC level 1),Reuters Top News,United States",
+                        "og:article:published_time": "2018-02-28T18:38:00Z",
+                        "og:article:tag": "US,CRYPTO,CURRENCIES,MARSHALL,ISLANDS,Asia / Pacific,Corporate Events,Blockchain,Cryptocurrencies,Financials (Legacy),Financials (TRBC level 1),Financial Technology & Infrastructure (TRBC level 5),Currencies / Foreign Exchange Markets,New Issues,Marshall Islands,Science / Technology,Sovereign Wealth Funds,Technology (TRBC level 1),Reuters Top News,United States",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.topicsubchannel": "Technology",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "technologyNews",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Gertrude Chavez-Dreyfuss",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Marshall Islands to issue own sovereign cryptocurrency",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "ASIA,BACT,BLKCHN,CRYCUR,FIN,FINS,FINTEC,FRX,ISU,MH,SCI,SOV,TECH,TOPNWS,US",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;CRYPTO;CURRENCIES;MARSHALL;ISLANDS;Asia / Pacific;Corporate Events;Blockchain;Cryptocurrencies;Financials (Legacy);Financials (TRBC level 1);Financial Technology & Infrastructure (TRBC level 5);Currencies / Foreign Exchange Markets;New Issues;Marshall Islands;Science / Technology;Sovereign Wealth Funds;Technology (TRBC level 1);Reuters Top News;United States",
+                        "sailthru.title": "Marshall Islands to issue own sovereign cryptocurrency",
+                        "analyticsattributes.contenttitle": "Marshall Islands to issue own sovereign cryptocurrency",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-crypto-currencies-marshall-islands-idUSKCN1GC2UD",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Gertrude Chavez-Dreyfuss",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2018-02-28T18:36:08Z",
+                        "og:type": "article",
+                        "twitter:title": "Marshall Islands to issue own sovereign cryptocurrency",
+                        "og:title": "Marshall Islands to issue own sovereign cryptocurrency",
+                        "analyticsattributes.keywordslug": "US-CRYPTO-CURRENCIES-MARSHALL-ISLANDS",
+                        "analyticsattributes.author": "Gertrude Chavez-Dreyfuss",
+                        "analyticsattributes.contentchannel": "Technology - Technology",
+                        "sailthru.description": "The Marshall Islands will issue its own cryptocurrency that will be circulated as legal tender along with the U.S. dollar, according to one of the remote Pacific republic's top officials.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "The Marshall Islands will issue its own cryptocurrency that will be circulated as legal tender along with the U.S. dollar, according to one of the remote Pacific republic's top officials.",
+                        "analyticsattributes.topicn2names": "Asia / Pacific,Corporate Events,Blockchain,Cryptocurrencies,Financials (Legacy),Financials (TRBC level 1),Financial Technology & Infrastructure (TRBC level 5),Currencies / Foreign Exchange Markets,New Issues,Marshall Islands,Science / Technology,Sovereign Wealth Funds,Technology (TRBC level 1),Reuters Top News,United States",
+                        "og:url": "https://www.reuters.com/article/us-crypto-currencies-marshall-islands-idUSKCN1GC2UD"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why the Marshall Islands Is Issuing Its Own Cryptocurrency - CoinDesk",
+            "htmlTitle": "Why the <b>Marshall Islands</b> Is Issuing Its Own <b>Cryptocurrency</b> - CoinDesk",
+            "link": "https://www.coindesk.com/markets/2019/09/04/why-the-marshall-islands-is-issuing-its-own-cryptocurrency/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Sep 4, 2019 ... The Marshall Islands are working closely with international regulatory bodies to ensure SOV meets all compliance requirements and can be fully\u00a0...",
+            "htmlSnippet": "Sep 4, 2019 <b>...</b> The <b>Marshall Islands</b> are working closely with international <b>regulatory</b> bodies to ensure SOV meets all compliance requirements and can be fully&nbsp;...",
+            "cacheId": "5R0dpsuk9bIJ",
+            "formattedUrl": "https://www.coindesk.com/.../why-the-marshall-islands-is-issuing-its-own- cryptocurrency/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../why-the-<b>marshall</b>-<b>islands</b>-is-issuing-its-own- <b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTosQqETsxj9yMWbJCw_cjzSiUGBj5X5M3XqUfM2F50LqK_gGJE3AUQERg",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/3lsdhOESfar_W0TpmD6ZtduBWqk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3QBZNR33IVGVXGZ3T6LS34SVEY.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2019-09-04T08:00:06Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Why the Marshall Islands Is Issuing Its Own Cryptocurrency",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Why the Marshall Islands Is Issuing Its Own Cryptocurrency",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The Marshall Islands is moving ahead with a plan to issue a sovereign currency built on blockchain, writes Minister David Paul.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "David Paul",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/lxSMSPF5AoUXrtVGMJ_3rwLuJYA=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3QBZNR33IVGVXGZ3T6LS34SVEY.jpg",
+                        "article:tag": "The Republic of the Marshall Islands, Marshall Islands, Features",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2019-09-04T08:00:06Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Marshall Islands is moving ahead with a plan to issue a sovereign currency built on blockchain, writes Minister David Paul.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2019/09/04/why-the-marshall-islands-is-issuing-its-own-cryptocurrency/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/3lsdhOESfar_W0TpmD6ZtduBWqk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3QBZNR33IVGVXGZ3T6LS34SVEY.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Examining Regulatory Frameworks for Digital Currencies and ...",
+            "htmlTitle": "Examining <b>Regulatory</b> Frameworks for Digital Currencies and ...",
+            "link": "https://www.banking.senate.gov/imo/media/doc/Nelson%20Testimony%207-30-19.pdf",
+            "displayLink": "www.banking.senate.gov",
+            "snippet": "Jul 30, 2019 ... to regulate cryptocurrency, and the potential need for harmonization of ... would become the Marshall Islands' second legal currency and run\u00a0...",
+            "htmlSnippet": "Jul 30, 2019 <b>...</b> to <b>regulate cryptocurrency</b>, and the potential need for harmonization of ... would become the <b>Marshall Islands</b>&#39; second legal currency and run&nbsp;...",
+            "cacheId": "bJyVdDPYSmoJ",
+            "formattedUrl": "https://www.banking.senate.gov/.../Nelson%20Testimony%207-30-19.pdf",
+            "htmlFormattedUrl": "https://www.banking.senate.gov/.../Nelson%20Testimony%207-30-19.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfpkb2FDHDLSevbgzFXH77te5ZPn5RK_oZYvmiWhNH9RUgkbzuupTp5Sw",
+                        "width": "340",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190726160618-04'00'",
+                        "creator": "Microsoft\u00ae Word 2016",
+                        "creationdate": "D:20190726160618-04'00'",
+                        "author": "Rebecca M. Nelson",
+                        "subject": "CRS Insights",
+                        "producer": "Microsoft\u00ae Word 2016",
+                        "title": "Examining Regulatory Frameworks for Digital Currencies and Blockchain"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e2e0272fbbdab10535c24b663e2a1f65751edbf941b8bfeb697b612bb8f1e109"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Marshall Islands SOV cryptocurrency: the saga winds down ...",
+            "htmlTitle": "The <b>Marshall Islands</b> SOV <b>cryptocurrency</b>: the saga winds down ...",
+            "link": "https://davidgerard.co.uk/blockchain/2021/06/04/the-marshall-islands-sov-cryptocurrency-the-saga-winds-down/",
+            "displayLink": "davidgerard.co.uk",
+            "snippet": "Jun 4, 2021 ... First Hawaiian already wanted to leave the Marshall Islands because they thought it was a regulatory risk, and were only holding on until\u00a0...",
+            "htmlSnippet": "Jun 4, 2021 <b>...</b> First Hawaiian already wanted to leave the <b>Marshall Islands</b> because they thought it was a <b>regulatory</b> risk, and were only holding on until&nbsp;...",
+            "cacheId": "N6hgZ1IJVFsJ",
+            "formattedUrl": "https://davidgerard.co.uk/.../the-marshall-islands-sov-cryptocurrency-the-saga -winds-down/",
+            "htmlFormattedUrl": "https://davidgerard.co.uk/.../the-<b>marshall</b>-<b>islands</b>-sov-<b>cryptocurrency</b>-the-saga -winds-down/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "David",
+                        "nickname": "David",
+                        "photo": "https://secure.gravatar.com/avatar/c294f7c46ab23c2749c614a04f727bf8?s=50&d=retro&r=g"
+                    },
+                    {
+                        "fn": "David Gerard",
+                        "photo": "https://secure.gravatar.com/avatar/61f10ec2a65f027f6a81d23d463d1131?s=50&d=retro&r=g"
+                    },
+                    {
+                        "fn": "JFoles",
+                        "nickname": "JFoles",
+                        "photo": "https://secure.gravatar.com/avatar/ffcedff635b3122cd3218632e85891ac?s=50&d=retro&r=g"
+                    },
+                    {
+                        "fn": "David Gerard",
+                        "photo": "https://secure.gravatar.com/avatar/61f10ec2a65f027f6a81d23d463d1131?s=50&d=retro&r=g"
+                    },
+                    {
+                        "fn": "Soy",
+                        "nickname": "Soy",
+                        "photo": "https://secure.gravatar.com/avatar/0db54253e3dcf9cabac249e91fd99a61?s=50&d=retro&r=g"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSborPfB_ErrPgQB45v6_cpDdAtlPFkLglGPq5dWnDgTipsG_r8__3xMAk",
+                        "width": "286",
+                        "height": "176"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "msapplication-config": "/blockchain/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:image": "https://davidgerard.co.uk/blockchain/wp-content/uploads/2021/06/hilda-heine-marshall-islands.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "article:published_time": "2021-06-04T18:36:28+00:00",
+                        "og:image:width": "680",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Attack of the 50 Foot Blockchain",
+                        "og:title": "The Marshall Islands SOV cryptocurrency: the saga winds down",
+                        "og:image:height": "420",
+                        "msapplication-tileimage": "https://davidgerard.co.uk/blockchain/wp-content/uploads/2020/10/cropped-scared-business-guy-purple-1-270x270.png",
+                        "og:description": "They do, however, have plans to send crypto entrepreneurs to a radioactive atoll.",
+                        "twitter:image": "https://davidgerard.co.uk/blockchain/wp-content/uploads/2021/06/hilda-heine-marshall-islands.jpg?w=640",
+                        "twitter:text:title": "The Marshall Islands SOV cryptocurrency: the saga winds down",
+                        "article:modified_time": "2021-06-04T23:24:44+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_GB",
+                        "og:url": "https://davidgerard.co.uk/blockchain/2021/06/04/the-marshall-islands-sov-cryptocurrency-the-saga-winds-down/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://davidgerard.co.uk/blockchain/wp-content/uploads/2021/06/hilda-heine-marshall-islands.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "IMF warns Marshall Islands on digital projects - Central Banking",
+            "htmlTitle": "IMF warns <b>Marshall Islands</b> on digital projects - Central Banking",
+            "link": "https://www.centralbanking.com/fintech/cbdc/7840006/imf-warns-marshall-islands-on-digital-projects",
+            "displayLink": "www.centralbanking.com",
+            "snippet": "Jun 2, 2021 ... The International Monetary Fund counselled the Marshall Islands to halt two digital initiatives, saying these posed \u201cfinancial stability and\u00a0...",
+            "htmlSnippet": "Jun 2, 2021 <b>...</b> The International Monetary Fund counselled the <b>Marshall Islands</b> to halt two digital initiatives, saying these posed \u201cfinancial stability and&nbsp;...",
+            "formattedUrl": "https://www.centralbanking.com/.../imf-warns-marshall-islands-on-digital- projects",
+            "htmlFormattedUrl": "https://www.centralbanking.com/.../imf-warns-<b>marshall</b>-<b>islands</b>-on-digital- projects",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTycHlRGXTj13Tf324ywCyXXJb5kBAkGyOgrkKxORMcVrSX0TkKOjipuf3v",
+                        "width": "285",
+                        "height": "177"
+                    }
+                ],
+                "rel": [
+                    {
+                        "rel": "syndication-source",
+                        "url": "https://www.centralbanking.com/fintech/cbdc/7840006/imf-warns-marshall-islands-on-digital-projects"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "cxenseparse:iim-type": "News",
+                        "apple-itunes-app": "app-id=1033550204",
+                        "og:image": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-10/Majuro%2C%20Marshall%20Islands%20Getty%20066546746.jpg?h=1dfb0df9&itok=3IvFczMS",
+                        "og:image:width": "378",
+                        "article:published_time": "2021-06-02T13:07:04+01:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Central Banking",
+                        "cxenseparse:iim-medium": "text",
+                        "twitter:url": "https://www.centralbanking.com/node/7840006",
+                        "msapplication-tileimage": "www.centralbanking.com/sites/centralbanking/files/2017-03/mstile-144x144.png",
+                        "og:description": "Local plans for digital currency and economic zone trigger concern at fund",
+                        "twitter:image": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-10/Majuro%2C%20Marshall%20Islands%20Getty%20066546746.jpg?h=1dfb0df9&itok=3IvFczMS",
+                        "cxenseparse:iim-regions": "Marshall Islands",
+                        "cxenseparse:iim-parentcategory": "Fintech",
+                        "cxenseparse:recs:iim-userfriendlytime": "2 JUN 2021",
+                        "twitter:site": "CentralBanking_",
+                        "article:modified_time": "2021-06-02T13:07:03+01:00",
+                        "news_keywords": "International Monetary Fund (IMF), Marshall Islands, Fintech, Central bank digital currency, Digital currency, Regulation, Anti-money laundering, Financial crime, Supervision, CBDC",
+                        "cxenseparse:iim-organisations": "International Monetary Fund (IMF)",
+                        "cxenseparse:recs:articleid": "7840006",
+                        "og:article:author": "Ben Margulies",
+                        "msapplication-tilecolor": "#003882",
+                        "cxenseparse:iim-tags": "Fintech",
+                        "og:type": "article",
+                        "twitter:title": "IMF warns Marshall Islands on digital projects - Central Banking",
+                        "cxenseparse:pageclass": "article",
+                        "cxenseparse:title": "IMF warns Marshall Islands on digital projects",
+                        "og:image:url": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-10/Majuro%2C%20Marshall%20Islands%20Getty%20066546746.jpg?h=1dfb0df9&itok=3IvFczMS",
+                        "twitter:domain": "http://www.centralbanking.com",
+                        "handheldfriendly": "true",
+                        "og:title": "IMF warns Marshall Islands on digital projects - Central Banking",
+                        "og:image:height": "234",
+                        "cxenseparse:iim-source": "Central Banking",
+                        "cxenseparse:iim-categories": "CBDC",
+                        "cxenseparse:iim-restriction": "Default",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "cxenseparse:iim-content-type": "Article",
+                        "twitter:description": "Local plans for digital currency and economic zone trigger concern at fund",
+                        "mobileoptimized": "width",
+                        "original-source": "https://www.centralbanking.com/fintech/cbdc/7840006/imf-warns-marshall-islands-on-digital-projects",
+                        "og:url": "https://www.centralbanking.com/node/7840006",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-10/Majuro%2C%20Marshall%20Islands%20Getty%20066546746.jpg?h=1dfb0df9&itok=3IvFczMS"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptic Cryptocurrency: Regulations should be preceded by education",
+            "htmlTitle": "Cryptic <b>Cryptocurrency</b>: <b>Regulations</b> should be preceded by education",
+            "link": "https://www.freepressjournal.in/business/cryptic-cryptocurrency-regulations-should-be-preceded-by-education",
+            "displayLink": "www.freepressjournal.in",
+            "snippet": "Nov 16, 2021 ... Marshall Islands has since gone a step further to rollout the official cryptocurrency that is legal tender alongside the US dollar that\u00a0...",
+            "htmlSnippet": "Nov 16, 2021 <b>...</b> <b>Marshall Islands</b> has since gone a step further to rollout the official <b>cryptocurrency</b> that is legal tender alongside the US dollar that&nbsp;...",
+            "cacheId": "sYwDexl6mKcJ",
+            "formattedUrl": "https://www.freepressjournal.in/.../cryptic-cryptocurrency-regulations-should- be-preceded-by-education",
+            "htmlFormattedUrl": "https://www.freepressjournal.in/.../cryptic-<b>cryptocurrency</b>-<b>regulations</b>-should- be-preceded-by-education",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5g61Yn4VFVf-KFe_mmHYFDRPReAfLgyk8UGJAyJ42O3iLtO_buVWSpU",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.assettype.com/freepressjournal/2021-02/124ea253-947d-4d96-ac36-31b668640818/cryt.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptic Cryptocurrency: Regulations should be preceded by education",
+                        "og:image:width": "1200",
+                        "theme-color": "#ba0406",
+                        "og:site_name": "Free Press Journal",
+                        "twitter:domain": "https://www.freepressjournal.in",
+                        "og:title": "Cryptic Cryptocurrency: Regulations should be preceded by education",
+                        "og:image:height": "630",
+                        "title": "Cryptic Cryptocurrency: Regulations should be preceded by education",
+                        "twitter:creator": "S Murlidharan",
+                        "fb:pages": "220862781270785",
+                        "twitter:image": "https://images.assettype.com/freepressjournal/2021-02/124ea253-947d-4d96-ac36-31b668640818/cryt.jpg?rect=0%2C0%2C3900%2C2194&w=1200&auto=format%2Ccompress&ogImage=true",
+                        "fb:app_id": "2254637581419855",
+                        "twitter:site": "Free Press Journal",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "news_keywords": "RBI,education,Cryptocurrency",
+                        "atdlayout": "article",
+                        "og:url": "https://www.freepressjournal.in/business/cryptic-cryptocurrency-regulations-should-be-preceded-by-education"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.assettype.com/freepressjournal/2021-02/124ea253-947d-4d96-ac36-31b668640818/cryt.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Marshall Islands warned against adopting digital currency - BBC News",
+            "htmlTitle": "<b>Marshall Islands</b> warned against adopting digital currency - BBC News",
+            "link": "https://www.bbc.com/news/technology-45485685",
+            "displayLink": "www.bbc.com",
+            "snippet": "Sep 11, 2018 ... \"You just can't control the stuff,\" Mr Gerard told the BBC. \"Tokens are really, really liquid, that's the whole point.\" This could give the US\u00a0...",
+            "htmlSnippet": "Sep 11, 2018 <b>...</b> &quot;You just can&#39;t <b>control</b> the stuff,&quot; Mr Gerard told the BBC. &quot;Tokens are really, really liquid, that&#39;s the whole point.&quot; This could give the US&nbsp;...",
+            "cacheId": "z033aEUNzD0J",
+            "formattedUrl": "https://www.bbc.com/news/technology-45485685",
+            "htmlFormattedUrl": "https://www.bbc.com/news/technology-45485685",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvLBTF02qBdJWpm7wSrq8JJnXLCv_nK0NYG1Ftn5sQaCD6mW52CoEY73fh",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/12D1F/production/_103378077_gettyimages-536134829.jpg",
+                        "theme-color": "#FFFFFF",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "BBC News",
+                        "cleartype": "on",
+                        "msapplication-tileimage": "BBC News",
+                        "og:description": "The International Monetary Fund says the tiny nation should rethink adopting a digital currency.",
+                        "twitter:creator": "@BBCWorld",
+                        "twitter:image:alt": "A beach in the Marshall Islands",
+                        "twitter:site": "@BBCWorld",
+                        "fb:admins": "100004154058350",
+                        "application-name": "BBC News",
+                        "msapplication-tilecolor": "#bb1919",
+                        "og:image:alt": "A beach in the Marshall Islands",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "Marshall Islands warned against adopting digital currency",
+                        "twitter:domain": "www.bbc.com",
+                        "og:title": "Marshall Islands warned against adopting digital currency",
+                        "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+                        "article:author": "https://www.facebook.com/bbcnews",
+                        "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/12D1F/production/_103378077_gettyimages-536134829.jpg",
+                        "fb:app_id": "1609039196070050",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The International Monetary Fund says the tiny nation should rethink adopting a digital currency.",
+                        "og:locale": "en_GB",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.bbc.com/news/technology-45485685"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ichef.bbci.co.uk/news/1024/branded_news/12D1F/production/_103378077_gettyimages-536134829.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

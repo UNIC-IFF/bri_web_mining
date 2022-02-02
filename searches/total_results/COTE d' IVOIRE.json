@@ -1,0 +1,519 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - COTE d' IVOIRE",
+                "totalResults": "302000",
+                "searchTerms": "COTE d' IVOIRE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - COTE d' IVOIRE",
+                "totalResults": "302000",
+                "searchTerms": "COTE d' IVOIRE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.352294,
+        "formattedSearchTime": "0.35",
+        "totalResults": "302000",
+        "formattedTotalResults": "302,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual Currencies: International Actions and Regulations Last ...",
+            "htmlTitle": "Virtual Currencies: International Actions and <b>Regulations</b> Last ...",
+            "link": "https://www.perkinscoie.com/images/content/2/4/v3/240289/Digital-Currencies-International-Actions-and-Regulations-01.pdf",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "Jan 8, 2021 ... potential regulation and the evolution of cryptocurrency ... be extended in a second phase to Cote d'Ivoire, Benin,.",
+            "htmlSnippet": "Jan 8, 2021 <b>...</b> potential <b>regulation</b> and the evolution of <b>cryptocurrency</b> ... be extended in a second phase to <b>Cote d</b>&#39;<b>Ivoire</b>, Benin,.",
+            "formattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- Regulations-01.pdf",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- <b>Regulations</b>-01.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRGjDfiK4rk6PbxB0UhfoHbEIP-3sKF2gwFy1zNOvzKNYrBUX5_BSuBHY",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210114203613-07'00'",
+                        "creator": "Microsoft\u00ae Word for Office 365",
+                        "creationdate": "D:20210114203613-07'00'",
+                        "author": "No Name",
+                        "producer": "Microsoft\u00ae Word for Office 365"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///2edbfab5a530449e69b02007c199a2cb2e4ea5d80351d50241d0f3d95ddefc3b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Cote d'Ivoire ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Cote d</b>&#39;<b>Ivoire</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cote-divoire",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Cote d'Ivoire for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition\u00a0...",
+            "htmlSnippet": "The <b>Cote d</b>&#39;<b>Ivoire</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition&nbsp;...",
+            "cacheId": "5xNqoJtw9AMJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/cote-divoire",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>cote-divoire</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Cote d\u2019Ivoire for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Cote d\u2019Ivoire | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Cote d\u2019Ivoire for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Cote d\u2019Ivoire | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cote-divoire"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "... Chile, China, Colombia, Costa Rica, C\u00f4te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt,\u00a0...",
+            "htmlSnippet": "... Chile, China, Colombia, Costa Rica, <b>C\u00f4te d</b>&#39;<b>Ivoire</b>, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+            "htmlTitle": "Africa in the news: Ethiopia, Nigeria, and internet <b>control</b> updates",
+            "link": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/",
+            "displayLink": "www.brookings.edu",
+            "snippet": "Mar 6, 2021 ... Nigeria to regulate cryptocurrencies; schoolgirls released amid deadly ... such as Tanzania, C\u00f4te d'Ivoire, Guinea, Ghana, and Togo,\u00a0...",
+            "htmlSnippet": "Mar 6, 2021 <b>...</b> Nigeria to <b>regulate cryptocurrencies</b>; schoolgirls released amid deadly ... such as Tanzania, <b>C\u00f4te d</b>&#39;<b>Ivoire</b>, Guinea, Ghana, and Togo,&nbsp;...",
+            "cacheId": "HukjMxrx3YEJ",
+            "formattedUrl": "https://www.brookings.edu/.../africa-in-the-news-ethiopia-nigeria-and- internet-control-updates/",
+            "htmlFormattedUrl": "https://www.brookings.edu/.../africa-in-the-news-ethiopia-nigeria-and- internet-<b>control</b>-updates/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "fn": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfogikiXnwiYXM2klcsxjtcYDp_81TwJt76s_LAxloef8SVE4pmTbJnnXt",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "400",
+                        "url": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "width": "1030",
+                        "url": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1030&h=580&crop=1",
+                        "height": "580"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "name": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Brookings"
+                    }
+                ],
+                "book": [
+                    {
+                        "url": "R"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/asia-and-africa-in-the-global-economy/"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/made-in-africa/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "article:published_time": "2021-03-06T12:30:08+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Brookings",
+                        "parsely-metadata": "{\"post_id\":1425162,\"contentType\":\"post\",\"program\":[\"Global Economy and Development\"],\"project\":[\"Africa Growth Initiative\"],\"language\":\"en\",\"canonicalContent\":\"https:\\/\\/www.brookings.edu\\/blog\\/africa-in-focus\\/2021\\/03\\/06\\/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates\\/\"}",
+                        "og:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "twitter:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "twitter:text:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "twitter:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:site": "@BrookingsInst",
+                        "article:modified_time": "2021-03-05T21:32:24+00:00",
+                        "twitter:account_id": "151106990",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "wp-parsely_version": "1.10.1",
+                        "twitter:site:id": "151106990",
+                        "author": "Christina Golubski and Leo Holtz",
+                        "og:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "og:image:height": "683",
+                        "fb:pages": "137459917707",
+                        "fb:app_id": "137459917707",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "Investigations into the deteriorating situation in Ethiopia continue On Thursday, March 4, United Nations High Commissioner for Human Rights Michelle Bachelet called for an independent assessment...",
+                        "datemodified": "2021-03-05T16:32:24-05:00",
+                        "author": "Christina Golubski",
+                        "datepublished": "2021-03-06T07:30:08-05:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Taxing Virtual Currencies: An Overview of Tax Treatments and ...",
+            "htmlTitle": "Taxing Virtual Currencies: An Overview of Tax Treatments and ...",
+            "link": "https://www.oecd.org/tax/tax-policy/taxing-virtual-currencies-an-overview-of-tax-treatments-and-emerging-tax-policy-issues.pdf",
+            "displayLink": "www.oecd.org",
+            "snippet": "Oct 14, 2020 ... discussions on the regulation of crypto-assets. ... this is the case in Belgium, Cote d'Ivoire, Italy and Poland. For instance, in Italy,\u00a0...",
+            "htmlSnippet": "Oct 14, 2020 <b>...</b> discussions on the <b>regulation</b> of crypto-assets. ... this is the case in Belgium, <b>Cote d</b>&#39;<b>Ivoire</b>, Italy and Poland. For instance, in Italy,&nbsp;...",
+            "cacheId": "Nu3LWpNgKnMJ",
+            "formattedUrl": "https://www.oecd.org/.../taxing-virtual-currencies-an-overview-of-tax- treatments-and-emerging-tax-policy-issues.pdf",
+            "htmlFormattedUrl": "https://www.oecd.org/.../taxing-virtual-currencies-an-overview-of-tax- treatments-and-emerging-tax-policy-issues.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfh-JKgqMi_a-PcnUn8xCAHiWnnQPdYmwr3QMuDCLvREWumH-llrU3CNM",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210419104333+02'00'",
+                        "creationdate": "D:20210419102511+02'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.1.20145",
+                        "author": "OECD",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.1.20145",
+                        "title": "Taxing Virtual Currencies: An Overview of Tax Treatments and Emerging Tax Policy Issues"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///6edcad00390d32bf5e0bd1a4caf9ee4697abfb530dc86f6c831eb780d09ce50a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrencies in Africa",
+            "htmlTitle": "<b>Regulation of cryptocurrencies</b> in Africa",
+            "link": "https://www.porat.com/regulation-of-crypto-currencies-in-africa/",
+            "displayLink": "www.porat.com",
+            "snippet": "Sep 18, 2018 ... The specifically designed cryptocurrency will be available first in Senegal and in a second phase in Cote d'Ivoire, Benin, Burkina Faso,\u00a0...",
+            "htmlSnippet": "Sep 18, 2018 <b>...</b> The specifically designed <b>cryptocurrency</b> will be available first in Senegal and in a second phase in <b>Cote d</b>&#39;<b>Ivoire</b>, Benin, Burkina Faso,&nbsp;...",
+            "cacheId": "-1r4vOQ5TfsJ",
+            "formattedUrl": "https://www.porat.com/regulation-of-crypto-currencies-in-africa/",
+            "htmlFormattedUrl": "https://www.porat.com/<b>regulation</b>-of-crypto-currencies-in-africa/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWYGQF5HtMbhYTDX-w-4Yw9-aDDD97Oy54SMfE5y9Z9pujeOiZ1_74Q",
+                        "width": "532",
+                        "height": "68"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.porat.com/wp-content/uploads/2019/03/logore.png",
+                        "og:type": "article",
+                        "article:published_time": "2018-09-18T13:11:46+00:00",
+                        "og:image:width": "532",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Porat Group",
+                        "og:title": "Interesting initiative to regulate cryptocurrencies in Africa",
+                        "og:image:height": "68",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.porat.com/wp-content/uploads/2019/04/cropped-FAV-270x270.png",
+                        "og:description": "Information about an initiative to regulate cryptocurrencies in Africa, by a number of African countries.",
+                        "article:publisher": "https://www.facebook.com/poratgroup",
+                        "twitter:data1": "Nir Porat",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2021-01-28T07:58:41+00:00",
+                        "viewport": "width=device-width",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.porat.com/regulation-of-crypto-currencies-in-africa/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.porat.com/wp-content/uploads/2019/03/logore.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulation | VIXIO PaymentsCompliance",
+            "htmlTitle": "<b>Cryptocurrency Regulation</b> | VIXIO PaymentsCompliance",
+            "link": "https://vixio.com/paymentscompliance/cryptocurrency-regulation/",
+            "displayLink": "vixio.com",
+            "snippet": "In 2020, VIXIO PaymentsCompliance's regulatory monitoring identified that regulatory obligations relating to cryptocurrencies and payment institutions have\u00a0...",
+            "htmlSnippet": "In 2020, VIXIO PaymentsCompliance&#39;s <b>regulatory</b> monitoring identified that <b>regulatory</b> obligations relating to <b>cryptocurrencies</b> and payment institutions have&nbsp;...",
+            "cacheId": "-95xXiuSCtUJ",
+            "formattedUrl": "https://vixio.com/paymentscompliance/cryptocurrency-regulation/",
+            "htmlFormattedUrl": "https://vixio.com/paymentscompliance/<b>cryptocurrency</b>-<b>regulation</b>/",
+            "pagemap": {
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "VIXIO",
+                        "article:modified_time": "2021-12-20T09:51:32+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:title": "Cryptocurrency Regulation | VIXIO PaymentsCompliance",
+                        "og:locale": "en_US",
+                        "og:url": "https://vixio.com/paymentscompliance/cryptocurrency-regulation/",
+                        "msapplication-tileimage": "https://vixio.com/app/uploads/2020/01/Vixio_favicon-1_0-48x48.png",
+                        "og:description": "View the VIXIO PaymentsCompliance content realted to crypto-asset regulation, from crypto, CBDCs, stablecoins and more."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "C\u00f4te d'Ivoire",
+            "htmlTitle": "<b>C\u00f4te d</b>&#39;<b>Ivoire</b>",
+            "link": "https://www.interpol.int/en/Who-we-are/Member-countries/Africa/COTE-D-IVOIRE",
+            "displayLink": "www.interpol.int",
+            "snippet": "C\u00d4TE D'IVOIRE. Region: Africa. National Central Bureau: Abidjan ... in accordance with their respective national laws, and cooperate on cross-border\u00a0...",
+            "htmlSnippet": "C\u00d4TE D&#39;IVOIRE. Region: Africa. National Central Bureau: <b>Abidjan</b> ... in accordance with their respective national <b>laws</b>, and cooperate on cross-border&nbsp;...",
+            "cacheId": "r7NzWdMeRHcJ",
+            "formattedUrl": "https://www.interpol.int/en/Who-we-are/Member.../COTE-D-IVOIRE",
+            "htmlFormattedUrl": "https://www.interpol.int/en/Who-we-are/Member.../<b>COTE</b>-<b>D</b>-<b>IVOIRE</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "twitter:title": "C\u00f4te d'Ivoire",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "og:title": "C\u00f4te d'Ivoire"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ghana Wins Maritime Boundary Dispute Against C\u00f4te d'Ivoire",
+            "htmlTitle": "Ghana Wins Maritime Boundary Dispute Against <b>C\u00f4te d</b>&#39;<b>Ivoire</b>",
+            "link": "https://foleyhoag.com/news-and-events/news/2017/september/ghana-wins-maritime-boundary-dispute-against-cote-divoire",
+            "displayLink": "foleyhoag.com",
+            "snippet": "Sep 29, 2017 ... C\u00f4te d'Ivoire challenged Ghana's claims and threatened to prosecute international oil companies drilling in the disputed waters. In early 2015,\u00a0...",
+            "htmlSnippet": "Sep 29, 2017 <b>...</b> <b>C\u00f4te d</b>&#39;<b>Ivoire</b> challenged Ghana&#39;s claims and threatened to prosecute international oil companies drilling in the disputed waters. In early 2015,&nbsp;...",
+            "cacheId": "xKve8L3z-JkJ",
+            "formattedUrl": "https://foleyhoag.com/.../ghana-wins-maritime-boundary-dispute-against-cote -divoire",
+            "htmlFormattedUrl": "https://foleyhoag.com/.../ghana-wins-maritime-boundary-dispute-against-<b>cote -divoire</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5GMdGGj1Md9lBnt_Hdf1V1TVvoK9t1Vmv7br3h3RTTS5xj0SfP4XvM8c",
+                        "width": "350",
+                        "height": "144"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://foleyhoag.com/-/media/images/foley%20hoag/page/background/bg_top_3.ashx"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency regulation in Africa",
+            "htmlTitle": "<b>Cryptocurrency regulation</b> in Africa",
+            "link": "https://cdn.crowdfundinsider.com/wp-content/uploads/2018/08/Middle-Africa-Briefing-EcoBank-Note-Digital-African-crypto-regulation-August-2018.pdf",
+            "displayLink": "cdn.crowdfundinsider.com",
+            "snippet": "Aug 1, 2018 ... C\u00f4te d'Ivoire. \u2022 As a member of the eight-country West African Economic and Monetary Union. (UEMOA), C\u00f4te d'Ivoire's central bank is the\u00a0...",
+            "htmlSnippet": "Aug 1, 2018 <b>...</b> <b>C\u00f4te d</b>&#39;<b>Ivoire</b>. \u2022 As a member of the eight-country West African Economic and Monetary Union. (UEMOA), <b>C\u00f4te d</b>&#39;<b>Ivoire&#39;s</b> central bank is the&nbsp;...",
+            "cacheId": "zv1YSzIEdBwJ",
+            "formattedUrl": "https://cdn.crowdfundinsider.com/.../Middle-Africa-Briefing-EcoBank-Note- Digital-African-crypto-regulation-August-2018.pdf",
+            "htmlFormattedUrl": "https://cdn.crowdfundinsider.com/.../Middle-Africa-Briefing-EcoBank-Note- Digital-African-crypto-<b>regulation</b>-August-2018.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoC1Kwr4ww9Zpp9j_c1BxjzCKiKhRw9KuE-_lWI-nH5o1BVx8_hX_8lIE",
+                        "width": "225",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180801143124+03'00'",
+                        "creationdate": "D:20180801121853+01'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "author": "adownie",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e83835603851726ee355a5f7fcca919d7a86762a796a0ce2753c2e8b283595fa"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

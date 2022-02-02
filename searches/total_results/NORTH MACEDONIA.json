@@ -1,0 +1,557 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NORTH MACEDONIA",
+                "totalResults": "447000",
+                "searchTerms": "NORTH MACEDONIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NORTH MACEDONIA",
+                "totalResults": "447000",
+                "searchTerms": "NORTH MACEDONIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.532742,
+        "formattedSearchTime": "0.53",
+        "totalResults": "447000",
+        "formattedTotalResults": "447,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin ban: These are the countries where crypto is restricted or ...",
+            "htmlTitle": "Bitcoin ban: These are the countries where crypto is restricted or ...",
+            "link": "https://www.euronews.com/next/2022/01/11/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2",
+            "displayLink": "www.euronews.com",
+            "snippet": "Jan 11, 2022 ... Cryptocurrencies like Bitcoin are heavily regulated or restricted in a ... North Macedonia is the only European country so far to have an\u00a0...",
+            "htmlSnippet": "Jan 11, 2022 <b>...</b> <b>Cryptocurrencies</b> like Bitcoin are heavily <b>regulated</b> or restricted in a ... <b>North Macedonia</b> is the only European country so far to have an&nbsp;...",
+            "cacheId": "NKi7X45eKW0J",
+            "formattedUrl": "https://www.euronews.com/.../bitcoin-ban-these-are-the-countries-where- crypto-is-restricted-or-illegal2",
+            "htmlFormattedUrl": "https://www.euronews.com/.../bitcoin-ban-these-are-the-countries-where- crypto-is-restricted-or-illegal2",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/06/01/62/64/1000x563_cmsv2_855a8ddc-6bb7-5a3b-82f1-ca707e2a07ff-6016264.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2022-01-11 13:17:36",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "While some countries like El Salvador are embracing cryptocurrencies, others like China are leading sustained crackdowns on their use.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"bitcoin\",\"financial-regulation\",\"china\",\"cryptocurrency\",\"iran\",\"ethereum\"],\"nws_id\":1647270,\"nwsctr_id\":6016264,\"themes\":\"money,business\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Bitcoin ban: These are the countries where crypto is restricted or illegal",
+                        "article:modified_time": "2022-01-11 13:18:23",
+                        "article:theme": "money",
+                        "og:image:alt": "Bitcoin ban: These are the countries where crypto is restricted or illegal",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2022-01-11 13:18:23",
+                        "fb:pages": "101402598109",
+                        "article:author": "Chloe Orji",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2022-01-11 13:18:23",
+                        "date.created": "2022-01-11 13:17:36",
+                        "eventid": "1647270",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Bitcoin,Financial regulation,China,cryptocurrency,Iran,Ethereum",
+                        "storyid": "6016264",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "The countries where Bitcoin and crypto are banned or restricted",
+                        "article:vertical": "next",
+                        "og:title": "The countries where Bitcoin and crypto are banned or restricted",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "While some countries like El Salvador are embracing cryptocurrencies, others like China are leading sustained crackdowns on their use.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2022-01-11 13:17:36",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2022/01/11/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/06/01/62/64/1000x563_cmsv2_855a8ddc-6bb7-5a3b-82f1-ca707e2a07ff-6016264.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | North ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>North</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/north-macedonia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The North Macedonia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous\u00a0...",
+            "htmlSnippet": "The <b>North Macedonia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous&nbsp;...",
+            "cacheId": "UfRfmpy5kjkJ",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws...regulations/north-macedonia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>...<b>regulations</b>/<b>north</b>-<b>macedonia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The North Macedonia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | North Macedonia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The North Macedonia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | North Macedonia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/north-macedonia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "No specific legislation on bitcoins or cryptocurrency exists in North Macedonia. In 2016 the National Bank of Republic of North Macedonia published a press\u00a0...",
+            "htmlSnippet": "No specific legislation on bitcoins or <b>cryptocurrency</b> exists in <b>North Macedonia</b>. In 2016 the National Bank of Republic of <b>North Macedonia</b> published a press&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "From Russia to Macedonia: How Cryptocurrencies Are Regulated in ...",
+            "htmlTitle": "From Russia to <b>Macedonia</b>: How <b>Cryptocurrencies</b> Are <b>Regulated</b> in ...",
+            "link": "https://cointelegraph.com/news/from-russia-to-macedonia-how-cryptocurrencies-are-regulated-in-eastern-europe",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jul 2, 2018 ... \u201cIn Macedonia, juridical means for cash and non-cash payments are denars. International payments operations are carried out by banks. Therefore,\u00a0...",
+            "htmlSnippet": "Jul 2, 2018 <b>...</b> \u201cIn <b>Macedonia</b>, juridical means for cash and non-cash payments are denars. International payments operations are carried out by banks. Therefore,&nbsp;...",
+            "formattedUrl": "https://cointelegraph.com/.../from-russia-to-macedonia-how-cryptocurrencies -are-regulated-in-eastern-europe",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../from-russia-to-<b>macedonia</b>-how-<b>cryptocurrencies</b> -are-<b>regulated</b>-in-eastern-europe",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzDmQ3s2Y8PYJpioBgGtWi27GQvoXAnEul3B2m31wy3IA1fcHMLcc6k2nT",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDk3OWEyMDk0MDc2M2M3Y2ZjNmUxNGNlMDNlMTU2ZS5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "From Russia to Macedonia: How Cryptocurrencies Are Regulated in Eastern Europe",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "From Russia to Macedonia: How Cryptocurrencies Are Regulated in Eastern Europe",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Map of cryptocurrencies: regulations, exchanges and blockchain initiatives.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDk3OWEyMDk0MDc2M2M3Y2ZjNmUxNGNlMDNlMTU2ZS5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Map of cryptocurrencies: regulations, exchanges and blockchain initiatives.",
+                        "og:url": "https://cointelegraph.com/news/from-russia-to-macedonia-how-cryptocurrencies-are-regulated-in-eastern-europe"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDk3OWEyMDk0MDc2M2M3Y2ZjNmUxNGNlMDNlMTU2ZS5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CRYPTOCURRENCIES AS (I)LEGAL TENDER IN NORTH ...",
+            "htmlTitle": "<b>CRYPTOCURRENCIES</b> AS (I)LEGAL TENDER IN <b>NORTH</b> ...",
+            "link": "http://lawreview.pf.ukim.edu.mk/wp-content/uploads/2021/02/9.-Sime-J.-Marko-P.-Andrej-I_.pdf",
+            "displayLink": "lawreview.pf.ukim.edu.mk",
+            "snippet": "Feb 9, 2021 ... While North Macedonia chose the former approach, the EU took a strong ... towards cryptocurrency in the 5th Anti-money laundering Directive.",
+            "htmlSnippet": "Feb 9, 2021 <b>...</b> While <b>North Macedonia</b> chose the former approach, the EU took a strong ... towards <b>cryptocurrency</b> in the 5th Anti-money laundering <b>Directive</b>.",
+            "cacheId": "QYdCKs8Tsb0J",
+            "formattedUrl": "lawreview.pf.ukim.edu.mk/wp.../02/9.-Sime-J.-Marko-P.-Andrej-I_.pdf",
+            "htmlFormattedUrl": "lawreview.pf.ukim.edu.mk/wp.../02/9.-Sime-J.-Marko-P.-Andrej-I_.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtx4sDxgHM5QSJN_KVyHN4L0UBDuN6G2L_xCSBmsCvtyCPGpEKx2U-V-I",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210209015448+01'00'",
+                        "creator": "Microsoft\u00ae Word 2016",
+                        "creationdate": "D:20210209015448+01'00'",
+                        "author": "Korisnik",
+                        "producer": "Microsoft\u00ae Word 2016"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f9413f4e313e50caa0bf91731ca221e77e04319f6642c734fbed4ff5f5c414ae"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Macedonia and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Macedonia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/macedonia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Macedonia and Cryptocurrency. Macedonia Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. National Bank of\u00a0...",
+            "htmlSnippet": "<b>Macedonia</b> and <b>Cryptocurrency</b>. <b>Macedonia Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. National Bank of&nbsp;...",
+            "cacheId": "W9EuHgY7Aq8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/macedonia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>macedonia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:22:57+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/macedonia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Macedonia? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:35+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Macedonia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Macedonia and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:55:35+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Macedonia and Cryptocurrency Macedonia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology National Bank of Macedonia issued a statement on September 28, 2016 warning against cryptocurrencies and reminding citizens that foreign investment accounts...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/macedonia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mining Law 2022 | Laws and Regulations | North Macedonia | ICLG",
+            "htmlTitle": "Mining Law 2022 | <b>Laws</b> and <b>Regulations</b> | <b>North Macedonia</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/mining-laws-and-regulations/north-macedonia",
+            "displayLink": "iclg.com",
+            "snippet": "Mining Laws and Regulations covering issues in North Macedonia of Relevant Authorities and Legislation, Recent Political Developments, Environmental.",
+            "htmlSnippet": "Mining <b>Laws</b> and <b>Regulations</b> covering issues in <b>North Macedonia</b> of Relevant Authorities and Legislation, Recent Political Developments, Environmental.",
+            "cacheId": "dSWb2ZroQEYJ",
+            "formattedUrl": "https://iclg.com/practice-areas/mining-laws...regulations/north-macedonia",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/mining-<b>laws</b>...<b>regulations</b>/<b>north</b>-<b>macedonia</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/theme/assets/img/iclg/ML22_CoverImage.jpg",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Mining Laws and Regulations covering issues in North Macedonia of Relevant Authorities and Legislation, Recent Political Developments, Environmental",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/theme/assets/img/iclg/ML22_CoverImage.jpg",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "Mpml71Vd2GxdyLnfsRGoGNCFnh6UxBliEzzOZi5Q",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Mining Law 2022 |  Laws and Regulations | North Macedonia |  ICLG",
+                        "dc.description": "Mining Law 2022 |  Laws and Regulations | North Macedonia |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Mining Law 2022 |  Laws and Regulations | North Macedonia |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Mining Laws and Regulations covering issues in North Macedonia of Relevant Authorities and Legislation, Recent Political Developments, Environmental",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/mining-laws-and-regulations/north-macedonia",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/theme/assets/img/iclg/ML22_CoverImage.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FinTech Comparative Guide - Technology - North Macedonia",
+            "htmlTitle": "FinTech Comparative Guide - Technology - <b>North Macedonia</b>",
+            "link": "https://www.mondaq.com/technology/949036/fintech-comparative-guide",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Jun 5, 2020 ... The trading of cryptocurrencies is also unregulated and, in the absence of specific regulation, the NBRM has advised banks and the general\u00a0...",
+            "htmlSnippet": "Jun 5, 2020 <b>...</b> The trading of <b>cryptocurrencies</b> is also unregulated and, in the absence of specific <b>regulation</b>, the NBRM has advised banks and the general&nbsp;...",
+            "cacheId": "EP8lVC1RqN4J",
+            "formattedUrl": "https://www.mondaq.com/technology/949036/fintech-comparative-guide",
+            "htmlFormattedUrl": "https://www.mondaq.com/technology/949036/fintech-comparative-guide",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "FinTech Comparative Guide - Technology - North Macedonia",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "FinTech Comparative Guide for the jurisdiction of North Macedonia, check out our comparative guides section to compare across multiple countries"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Countries That Have Banned Bitcoin 2021 Algeria Morocco North ...",
+            "htmlTitle": "Countries That Have Banned Bitcoin 2021 Algeria Morocco <b>North</b> ...",
+            "link": "https://www.goodreturns.in/classroom/countries-that-have-banned-bitcoin-2021-algeria-morocco-north-macedonia-1208687.html",
+            "displayLink": "www.goodreturns.in",
+            "snippet": "Apr 6, 2021 ... North Macedonia is the only European country that prohibits the use of cryptocurrencies such as Bitcoin, Etheruem, and others.",
+            "htmlSnippet": "Apr 6, 2021 <b>...</b> <b>North Macedonia</b> is the only European country that prohibits the use of <b>cryptocurrencies</b> such as Bitcoin, Etheruem, and others.",
+            "cacheId": "LEYwi-pKl-QJ",
+            "formattedUrl": "https://www.goodreturns.in/.../countries-that-have-banned-bitcoin-2021- algeria-morocco-north-macedonia-1208687.html",
+            "htmlFormattedUrl": "https://www.goodreturns.in/.../countries-that-have-banned-bitcoin-2021- algeria-morocco-<b>north</b>-<b>macedonia</b>-1208687.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVHZwtDsikP_RH7NMlCLnMX190nTyu5IUUl0OZ8JoGK07LfKYGcrd2o7w",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.goodreturns.in/img/2015/02/20-1424409942-sectorfunds-600.jpg",
+                        "article:published_time": "2021-04-06T13:05:45+05:30",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Countries That Have Banned Bitcoin 2021",
+                        "theme-color": "#ad2d1f",
+                        "twitter:domain": "https://www.goodreturns.in/",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.goodreturns.in/classroom/countries-that-have-banned-bitcoin-2021-algeria-morocco-north-macedonia-1208687.html?24012022161238",
+                        "og:title": "Countries That Have Banned Bitcoin 2021",
+                        "og:description": "Bitcoin is a contentious asset for many people, particularly those in positions of power. The ability to print money is one of the most valuable powers a government possesses. However, bitcoins ascension has not been without some significant speed bumps.",
+                        "twitter:creator": "GoodReturnsIN",
+                        "msapplication-navbutton-color": "#ad2d1f",
+                        "article:author": "Sneha Kulkarni",
+                        "twitter:image": "https://www.goodreturns.in/img/2015/02/20-1424409942-sectorfunds-600.jpg?24012022161238",
+                        "fb:app_id": "163996773721883",
+                        "taboola-category": "english",
+                        "twitter:site": "@GoodReturnsIN",
+                        "apple-mobile-web-app-status-bar-style": "#ad2d1f",
+                        "article:modified_time": "2021-04-06T13:08:56+05:30",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "news_keywords": "Countries That Have Banned Bitcoin 2021, Bitcoin, Bitcoins, Bitcoin price, Cryptocurrency",
+                        "twitter:description": "Bitcoin is a contentious asset for many people, particularly those in positions of power. The ability to print money is one of the most valuable powers a government possesses. However, bitcoins ascension has not been without some significant speed bumps.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.goodreturns.in/classroom/countries-that-have-banned-bitcoin-2021-algeria-morocco-north-macedonia-1208687.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.goodreturns.in/img/2015/02/20-1424409942-sectorfunds-600.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "News",
+                        "url": "News"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ditching Dinars: Will the Balkans Take to Cryptocurrency? | Balkan ...",
+            "htmlTitle": "Ditching Dinars: Will the Balkans Take to <b>Cryptocurrency</b>? | Balkan ...",
+            "link": "https://balkaninsight.com/2020/09/17/ditching-dinars-will-the-balkans-take-to-cryptocurrency/",
+            "displayLink": "balkaninsight.com",
+            "snippet": "Sep 17, 2020 ... Unlike Slovenia, Croatia, or Bulgaria, countries like North Macedonia are lagging behind, mostly due to the lack of any regulations whatsoever.",
+            "htmlSnippet": "Sep 17, 2020 <b>...</b> Unlike Slovenia, Croatia, or Bulgaria, countries like <b>North Macedonia</b> are lagging behind, mostly due to the lack of any <b>regulations</b> whatsoever.",
+            "cacheId": "syH35ovxvtIJ",
+            "formattedUrl": "https://balkaninsight.com/.../ditching-dinars-will-the-balkans-take-to- cryptocurrency/",
+            "htmlFormattedUrl": "https://balkaninsight.com/.../ditching-dinars-will-the-balkans-take-to- <b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVnMazAmnh6I6qpP6_Bs6IlW9ZmnZc3I9AIC5DgnCzZq6T3b4W5cnn3M",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://balkaninsight.com/wp-content/uploads/2020/09/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash-e1600091568934.jpg",
+                        "twitter:card": "summary",
+                        "og:type": "article",
+                        "article:published_time": "2020-09-17T11:01:25+00:00",
+                        "og:image:width": "1600",
+                        "og:site_name": "Balkan Insight",
+                        "og:title": "Ditching Dinars: Will the Balkans Take to Cryptocurrency?",
+                        "og:image:height": "900",
+                        "msapplication-tileimage": "https://balkaninsight.com/wp-content/uploads/2018/12/cropped-balkan-insight-favicon-blue-270x270.png",
+                        "og:description": "The daring few involved in cryptocurrency and blockchain in the Balkans say the benefits could be big, if the regulatory framework is put in place.",
+                        "twitter:creator": "@balkaninsight",
+                        "article:publisher": "https://www.facebook.com/balkaninsight/",
+                        "twitter:site": "@balkaninsight",
+                        "article:modified_time": "2020-09-17T12:31:36+00:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "og:url": "https://balkaninsight.com/2020/09/17/ditching-dinars-will-the-balkans-take-to-cryptocurrency/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://balkaninsight.com/wp-content/uploads/2020/09/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash-e1600091568934.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,569 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MONGOLIA",
+                "totalResults": "634000",
+                "searchTerms": "MONGOLIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MONGOLIA",
+                "totalResults": "634000",
+                "searchTerms": "MONGOLIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.322277,
+        "formattedSearchTime": "0.32",
+        "totalResults": "634000",
+        "formattedTotalResults": "634,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Major China bitcoin mining hub lays out harsher crackdown measures",
+            "htmlTitle": "Major China bitcoin mining hub lays out harsher crackdown measures",
+            "link": "https://www.cnbc.com/2021/05/26/major-china-bitcoin-mining-hub-lays-out-harsher-crackdown-measures.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "May 25, 2021 ... Inner Mongolia in March announced plans to ban new cryptocurrency ... A 'serious upgrade' of crypto regulation, says expert of China's\u00a0...",
+            "htmlSnippet": "May 25, 2021 <b>...</b> Inner <b>Mongolia</b> in March announced plans to ban new <b>cryptocurrency</b> ... A &#39;serious upgrade&#39; of crypto <b>regulation</b>, says expert of China&#39;s&nbsp;...",
+            "cacheId": "CCY5_YpQAoIJ",
+            "formattedUrl": "https://www.cnbc.com/.../major-china-bitcoin-mining-hub-lays-out-harsher- crackdown-measures.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../major-china-bitcoin-mining-hub-lays-out-harsher- crackdown-measures.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSswzcyWHclsLslLbdBWXNRMY0p5hTmVW5AG7EpTTv61aHm-OupvpoO39tD",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/105156883-GettyImages-610823798.jpg?v=1532563650",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-26T03:12:20+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/05/26/major-china-bitcoin-mining-hub-lays-out-harsher-crackdown-measures.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Inner Mongolia in March announced plans to ban new cryptocurrency mining projects and shut down existing activity to cut down on energy consumption.",
+                        "twitter:creator": "@ArjunKharpal",
+                        "parsely-metadata": "{\"nodeid\":106888302,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/105156883-GettyImages-610823798.jpg?v=1532563650\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106888302",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-05-26T14:56:21+0000",
+                        "news_keywords": "Bitcoin/USD Bitstamp,China,Technology,Cryptocurrency,Markets,Energy,Bitcoin,Energy policy,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Major bitcoin mining region in China sets tough penalties for cryptocurrency activities",
+                        "article:section": "Cryptocurrency",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Arjun Kharpal",
+                        "og:title": "Major bitcoin mining region in China sets tough penalties for cryptocurrency activities",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/105156883-GettyImages-610823798.jpg?v=1532563650",
+                        "article:tag": "Bitcoin/USD Bitstamp",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Inner Mongolia in March announced plans to ban new cryptocurrency mining projects and shut down existing activity to cut down on energy consumption.",
+                        "og:url": "https://www.cnbc.com/2021/05/26/major-china-bitcoin-mining-hub-lays-out-harsher-crackdown-measures.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/105156883-GettyImages-610823798.jpg?v=1532563650"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation On Blockchain In Mongolia - Technology - Mongolia",
+            "htmlTitle": "<b>Regulation</b> On Blockchain In <b>Mongolia</b> - Technology - <b>Mongolia</b>",
+            "link": "https://www.mondaq.com/fin-tech/967952/regulation-on-blockchain-in-mongolia",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Jul 28, 2020 ... 1 Cryptocurrencies and Blockchain, European Parliament, 2018. 2 pp12. Legal Regulatory Framework of Blockchains and smart contracts,\u00a0...",
+            "htmlSnippet": "Jul 28, 2020 <b>...</b> 1 <b>Cryptocurrencies</b> and Blockchain, European Parliament, 2018. 2 pp12. Legal <b>Regulatory</b> Framework of Blockchains and smart contracts,&nbsp;...",
+            "cacheId": "WY5TLvbSQUAJ",
+            "formattedUrl": "https://www.mondaq.com/fin-tech/.../regulation-on-blockchain-in-mongolia",
+            "htmlFormattedUrl": "https://www.mondaq.com/fin-tech/.../<b>regulation</b>-on-blockchain-in-<b>mongolia</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Regulation On Blockchain In Mongolia - Technology - Mongolia",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "Blockchain technology was invented for bitcoin as its fundamental technology. It is a particular type or subset of so-called distributed ledger technology (\"DLT\")."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Mongolia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Mongolia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mongolia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Mongolia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Mongolia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "ihJW8f81PtQJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/mongolia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>mongolia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Mongolia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Mongolia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Mongolia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Mongolia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mongolia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin mining is still huge in China despite new ban in Inner Mongolia",
+            "htmlTitle": "Bitcoin mining is still huge in China despite new ban in Inner <b>Mongolia</b>",
+            "link": "https://supchina.com/2021/03/09/bitcoin-mining-is-still-huge-in-china-despite-new-ban-in-inner-mongolia/",
+            "displayLink": "supchina.com",
+            "snippet": "Mar 9, 2021 ... Since 2017, the Chinese government has imposed many regulations that have made life difficult for miners of bitcoin and other cryptocurrencies.",
+            "htmlSnippet": "Mar 9, 2021 <b>...</b> Since 2017, the Chinese government has imposed many <b>regulations</b> that have made life difficult for miners of bitcoin and other <b>cryptocurrencies</b>.",
+            "cacheId": "Jmw_suV-V-cJ",
+            "formattedUrl": "https://supchina.com/.../bitcoin-mining-is-still-huge-in-china-despite-new-ban -in-inner-mongolia/",
+            "htmlFormattedUrl": "https://supchina.com/.../bitcoin-mining-is-still-huge-in-china-despite-new-ban -in-inner-<b>mongolia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiNl8GD1O4dhlZjotb3UIOBHvgjfn3BgubukJKbP3mgz6UGozX6MxCWrM",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#EC0000",
+                        "og:image": "https://supchina.com/wp-content/uploads/2021/03/bitcoin-mining-illustration-derek-zheng.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-03-09T23:10:49+00:00",
+                        "og:image:width": "2000",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#EC0000",
+                        "og:site_name": "SupChina",
+                        "author": "Frida Qi",
+                        "og:title": "Bitcoin mining is still huge in China despite new ban in Inner Mongolia \u2013 SupChina",
+                        "og:image:height": "1200",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Since 2017, the Chinese government has imposed many regulations that have made life difficult for miners of bitcoin and other cryptocurrencies. But they soldier on, and look set to prosper.",
+                        "twitter:creator": "@supchinanews",
+                        "article:publisher": "https://www.facebook.com/supchinanews/",
+                        "twitter:data1": "Frida Qi",
+                        "twitter:data2": "9 minutes",
+                        "twitter:site": "@supchinanews",
+                        "article:modified_time": "2021-05-11T05:05:53+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://supchina.com/2021/03/09/bitcoin-mining-is-still-huge-in-china-despite-new-ban-in-inner-mongolia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://supchina.com/wp-content/uploads/2021/03/bitcoin-mining-illustration-derek-zheng.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's Inner Mongolia escalates crackdown on cryptomining ...",
+            "htmlTitle": "China&#39;s Inner <b>Mongolia</b> escalates crackdown on cryptomining ...",
+            "link": "https://www.reuters.com/technology/chinas-inner-mongolia-escalates-crackdown-cryptomining-2021-05-25/",
+            "displayLink": "www.reuters.com",
+            "snippet": "May 25, 2021 ... China's northern region of Inner Mongolia escalated a campaign against cryptocurrency mining on Tuesday, publishing draft rules to root out\u00a0...",
+            "htmlSnippet": "May 25, 2021 <b>...</b> China&#39;s northern region of Inner <b>Mongolia</b> escalated a campaign against <b>cryptocurrency</b> mining on Tuesday, publishing draft rules to root out&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../chinas-inner-mongolia-escalates-crackdown- cryptomining-2021-05-25/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../chinas-inner-<b>mongolia</b>-escalates-crackdown- cryptomining-2021-05-25/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV0umQ2BdALStL9yeGlfwfMYZ_uLT4vkL6uO3VBRQnifR4SCyT0DYE5WA",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=69",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-05-25T16:56:53.634Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "og:description": "China's northern region of Inner Mongolia escalated a campaign against cryptocurrency mining on Tuesday, publishing draft rules to root out the business, days after Beijing vowed to crack down on bitcoin mining and trading.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=69",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-05-25T17:03:20.380Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "China's Inner Mongolia escalates crackdown on cryptomining",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/technology/article",
+                        "og:title": "China's Inner Mongolia escalates crackdown on cryptomining",
+                        "dcsext.channellist": "Technology;",
+                        "og:article:published_time": "2021-05-25T16:56:53.634Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Reuters",
+                        "article:tag": "BACT,BLKCC,BMAT,BMAT08,CMPELC,CMPSSC,COMP08,CRYCUR,CRYPLX,CRYPMN,FRX,FTECH,HARW,MIN,MINE,MINE08,MTAL,MTAL08,REGS,TECH,TECH08,TEEQ,TEEQ08,TMT,UTIL,EASIA,ASXPAC,EMRG,CN,ASIA",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "China's northern region of Inner Mongolia escalated a campaign against cryptocurrency mining on Tuesday, publishing draft rules to root out the business, days after Beijing vowed to crack down on bitcoin mining and trading.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/technology/chinas-inner-mongolia-escalates-crackdown-cryptomining-2021-05-25/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=69"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's cryptocurrency regulations will propel similar regulations ...",
+            "htmlTitle": "China&#39;s <b>cryptocurrency regulations</b> will propel similar <b>regulations</b> ...",
+            "link": "https://www.iflr.com/article/b1sw6s2wlhg3fd/chinas-cryptocurrency-regulations-will-propel-similar-regulations-globally",
+            "displayLink": "www.iflr.com",
+            "snippet": "Jul 28, 2021 ... The regulatory development of China, the largest cryptocurrency mining ... coal-based power producers such as Inner Mongolia and Xinjiang,\u00a0...",
+            "htmlSnippet": "Jul 28, 2021 <b>...</b> The <b>regulatory</b> development of China, the largest <b>cryptocurrency</b> mining ... coal-based power producers such as Inner <b>Mongolia</b> and Xinjiang,&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/.../chinas-cryptocurrency-regulations-will-propel-similar -regulations-globally",
+            "htmlFormattedUrl": "https://www.iflr.com/.../chinas-<b>cryptocurrency</b>-<b>regulations</b>-will-propel-similar -<b>regulations</b>-globally",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLrthffsOSN0ePqVlYf5B3llmqBA3wuFKMmj3N_9tBwixgvpgvLL-4Ot7",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-3aa4296f8e263007ea5934390876f64e/Media/images/iflr/karry/beijing.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "China\u2019s cryptocurrency regulations will propel similar regulations globally",
+                        "msapplication-square70x70logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "China\u2019s cryptocurrency regulations will propel similar regulations globally",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "China\u2019s cryptocurrency regulations will propel similar regulations globally",
+                        "og:description": "Winston Ma from the NYU School of Law examines how China\u2019s approach to cryptocurrencies will influence the development of global cryptocurrency regulations",
+                        "msapplication-square150x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://www.iflr.com/Media/images/iflr/karry/beijing.jpg",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "twitter:description": "Winston Ma from the NYU School of Law examines how China\u2019s approach to cryptocurrencies will influence the development of global cryptocurrency regulations",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iflr.com/Media/images/iflr/karry/beijing.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's Inner Mongolia to end cryptocurrency mining, ban new steel ...",
+            "htmlTitle": "China&#39;s Inner <b>Mongolia</b> to end <b>cryptocurrency</b> mining, ban new steel ...",
+            "link": "https://www.reuters.com/article/us-china-climatechange-energy/chinas-inner-mongolia-to-end-cryptocurrency-mining-ban-new-steel-coke-projects-idUSKCN2AT1YY",
+            "displayLink": "www.reuters.com",
+            "snippet": "Mar 1, 2021 ... Local governments in China are scrambling to control energy consumption and improve energy efficiency after President Xi Jinping pledged to\u00a0...",
+            "htmlSnippet": "Mar 1, 2021 <b>...</b> Local governments in China are scrambling to <b>control</b> energy consumption and improve energy efficiency after President Xi Jinping pledged to&nbsp;...",
+            "cacheId": "6FY5y8ei20YJ",
+            "formattedUrl": "https://www.reuters.com/.../chinas-inner-mongolia-to-end-cryptocurrency- mining-ban-new-steel-coke-projects-idUSKCN2AT1YY",
+            "htmlFormattedUrl": "https://www.reuters.com/.../chinas-inner-<b>mongolia</b>-to-end-<b>cryptocurrency</b>- mining-ban-new-steel-coke-projects-idUSKCN2AT1YY",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIhR2B1xLpMbglLRWRKaN5u_-h1uiPHfVuPH3GhWyJ9By3uUC8hvTXMbg",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20210301&t=2&i=1553303465&r=LYNXNPEH2015I&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2021-03-01T10:31:34Z",
+                        "analyticsattributes.topicchannel": "Markets",
+                        "analyticsattributes.backendchannellist": "technologyNews;environmentNews;RCOMUS_Energy;RCOMUS_Fintech;BigStory11;GCA-Commodities;US-The-Wire;companies-rene;climate-slug;energy-news;consolidated-business;companies-coa;RCOM-energy-pack-all;future-of-money;energy-environment-economy;USWire_EL;companies-mtal;power;rcom-emerging-markets;RCOM-fintech-extended;everythingNews;carbon-emissions;energy-upclose;rcom-industrials;produced-environment;china-news",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "China's Inner Mongolia will end all cryptocurrency mining projects and stop reviewing new projects in industries which consume large amounts of energy, such as steel, coke and methanol production, as it attempts to meet energy efficiency targets.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2021-03-01T10:31:34Z",
+                        "og:article:section": "Commodities News",
+                        "analyticsattributes.articledate": "2021-03-01T10:31:34Z",
+                        "dcsext.dartzone": "reuters.com/markets/commodities/article",
+                        "author": "Muyu Xu, Shivani Singh",
+                        "analyticsattributes.keywords": "US,CHINA,CLIMATECHANGE,ENERGY,Aluminum,Aluminum (TRBC level 4),Asia / Pacific,Pollution,Coke Coal Mining (TRBC level 5),Climate Change,China (PRC),Carbon / Emissions Markets,Coal,Coal (TRBC level 4),Coal-fired Power Stations,Cryptocurrencies,Economic News (3rd Party),Emerging Market Countries,Energy (TRBC level 1),Energy - Fossil Fuels (TRBC level 2),Energy (Legacy),Environment,General News,Industrials (TRBC level 1),Mining,Metals & Mining (TRBC level 3),Energy Markets,Government / Politics,Power Markets,Renewable Energy (TRBC level 3),Renewable Energy,Renewable Energy Power Stations,Solar Power Stations,Steel,Wind Farms,Climate Politics",
+                        "og:article:published_time": "2021-03-01T10:21:17Z",
+                        "og:article:tag": "US,CHINA,CLIMATECHANGE,ENERGY,Aluminum,Aluminum (TRBC level 4),Asia / Pacific,Pollution,Coke Coal Mining (TRBC level 5),Climate Change,China (PRC),Carbon / Emissions Markets,Coal,Coal (TRBC level 4),Coal-fired Power Stations,Cryptocurrencies,Economic News (3rd Party),Emerging Market Countries,Energy (TRBC level 1),Energy - Fossil Fuels (TRBC level 2),Energy (Legacy),Environment,General News,Industrials (TRBC level 1),Mining,Metals & Mining (TRBC level 3),Energy Markets,Government / Politics,Power Markets,Renewable Energy (TRBC level 3),Renewable Energy,Renewable Energy Power Stations,Solar Power Stations,Steel,Wind Farms,Climate Politics",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20210301&t=2&i=1553303465&r=LYNXNPEH2015I&w=800",
+                        "analyticsattributes.topicsubchannel": "Commodities",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "BigStory11",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20210301&t=2&i=1553303465&r=LYNXNPEH2015I&w=800",
+                        "sailthru.author": "Muyu Xu, Shivani Singh",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "China's Inner Mongolia to end cryptocurrency mining, ban new steel, coke projects",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "ALU,ALUM,ASIA,AWLQ,CKCOAL,CLC,CN,CO2,COA,COAM,COAPWR,CRYCUR,ECON,EMRG,ENER,ENFF,ENR,ENV,GEN,INDS,MIN,MTAL,NRG,POL,PWR,RENE,RNW,RNWPWR,SOLPWR,STE,WINPWR,WRM",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20210301&t=2&i=1553303465&r=LYNXNPEH2015I&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;CHINA;CLIMATECHANGE;ENERGY;Aluminum;Aluminum (TRBC level 4);Asia / Pacific;Pollution;Coke Coal Mining (TRBC level 5);Climate Change;China (PRC);Carbon / Emissions Markets;Coal;Coal (TRBC level 4);Coal-fired Power Stations;Cryptocurrencies;Economic News (3rd Party);Emerging Market Countries;Energy (TRBC level 1);Energy - Fossil Fuels (TRBC level 2);Energy (Legacy);Environment;General News;Industrials (TRBC level 1);Mining;Metals & Mining (TRBC level 3);Energy Markets;Government / Politics;Power Markets;Renewable Energy (TRBC level 3);Renewable Energy;Renewable Energy Power Stations;Solar Power Stations;Steel;Wind Farms;Climate Politics",
+                        "sailthru.title": "China's Inner Mongolia to end cryptocurrency mining, ban new steel, coke projects",
+                        "analyticsattributes.contenttitle": "China's Inner Mongolia to end cryptocurrency mining, ban new steel, coke projects",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-china-climatechange-energy-idUSKCN2AT1YY",
+                        "og:article:author": "Muyu Xu, Shivani Singh",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2021-03-01T10:31:34Z",
+                        "og:type": "article",
+                        "twitter:title": "China's Inner Mongolia to end cryptocurrency mining, ban new steel, coke projects",
+                        "og:title": "China's Inner Mongolia to end cryptocurrency mining, ban new steel, coke projects",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-CHINA-CLIMATECHANGE-ENERGY",
+                        "analyticsattributes.author": "Muyu Xu, Shivani Singh",
+                        "analyticsattributes.contentchannel": "Markets - Commodities",
+                        "sailthru.description": "China's Inner Mongolia will end all cryptocurrency mining projects and stop reviewing new projects in industries which consume large amounts of energy, such as steel, coke and methanol production, as it attempts to meet energy efficiency targets.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "China's Inner Mongolia will end all cryptocurrency mining projects and stop reviewing new projects in industries which consume large amounts of energy, such as steel, coke and methanol production, as it attempts to meet energy efficiency targets.",
+                        "analyticsattributes.topicn2names": "Aluminum,Aluminum (TRBC level 4),Asia / Pacific,Pollution,Coke Coal Mining (TRBC level 5),Climate Change,China (PRC),Carbon / Emissions Markets,Coal,Coal (TRBC level 4),Coal-fired Power Stations,Cryptocurrencies,Economic News (3rd Party),Emerging Market Countries,Energy (TRBC level 1),Energy - Fossil Fuels (TRBC level 2),Energy (Legacy),Environment,General News,Industrials (TRBC level 1),Mining,Metals & Mining (TRBC level 3),Energy Markets,Government / Politics,Power Markets,Renewable Energy (TRBC level 3),Renewable Energy,Renewable Energy Power Stations,Solar Power Stations,Steel,Wind Farms,Climate Politics",
+                        "og:url": "https://www.reuters.com/article/us-china-climatechange-energy-idUSKCN2AT1YY"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20210301&t=2&i=1553303465&r=LYNXNPEH2015I&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Inner Mongolia enforces ban on cryptocurrency mining amid ...",
+            "htmlTitle": "Inner <b>Mongolia</b> enforces ban on <b>cryptocurrency</b> mining amid ...",
+            "link": "https://www.globaltimes.cn/page/202105/1223892.shtml",
+            "displayLink": "www.globaltimes.cn",
+            "snippet": "May 19, 2021 ... Apart from banning all mining projects, local authorities have also banned setting up new cryptocurrency mining facilities in the region, which\u00a0...",
+            "htmlSnippet": "May 19, 2021 <b>...</b> Apart from banning all mining projects, local authorities have also banned setting up new <b>cryptocurrency</b> mining facilities in the region, which&nbsp;...",
+            "cacheId": "z5ux1ppguYMJ",
+            "formattedUrl": "https://www.globaltimes.cn/page/202105/1223892.shtml",
+            "htmlFormattedUrl": "https://www.globaltimes.cn/page/202105/1223892.shtml",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyRHy52P48KROm_eUypdKHjkt2pcAAnqiksRk4kaCa4nlA7kF4Cbm8bgKc",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "copyright": "Copyright 2021 by The Global Times",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Inner Mongolia enforces ban on cryptocurrency mining amid tightening regulation",
+                        "twitter:url": "https://www.globaltimes.cn/page/202105/1223892.shtml",
+                        "author": "Global Times",
+                        "rating": "GENERAL",
+                        "distribution": "GLOBAL",
+                        "twitter:creator": "@globaltimesnews",
+                        "twitter:image": "https://www.globaltimes.cn/Portals/0/attachment/2018/2018-02-07/169f3825-44de-4aec-b732-341b09812e24.jpeg",
+                        "twitter:site": "@globaltimesnews",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "North China's Inner Mongolia Autonomous Region aims to enforce a ban on crypto-currency mining by setting up a reporting platform for the public to report on enterprises engaging in any mining activities.",
+                        "logo": "https://www.globaltimes.cn/Portals/0/attachment/2018/2018-02-07/169f3825-44de-4aec-b732-341b09812e24.jpeg",
+                        "resource-type": "DOCUMENT"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globaltimes.cn/Portals/0/attachment/2018/2018-02-07/169f3825-44de-4aec-b732-341b09812e24.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mongolia International Travel Information",
+            "htmlTitle": "<b>Mongolia</b> International Travel Information",
+            "link": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Mongolia.html",
+            "displayLink": "travel.state.gov",
+            "snippet": "Sep 24, 2020 ... CURRENCY RESTRICTIONS FOR EXIT: Mongolian law requires travelers to declare any cash, financial instruments, and cryptocurrency equal to or\u00a0...",
+            "htmlSnippet": "Sep 24, 2020 <b>...</b> CURRENCY RESTRICTIONS FOR EXIT: <b>Mongolian</b> law requires travelers to declare any cash, financial instruments, and <b>cryptocurrency</b> equal to or&nbsp;...",
+            "cacheId": "yGjaEMQ-oAoJ",
+            "formattedUrl": "https://travel.state.gov/content/travel/en/international.../Mongolia.html",
+            "htmlFormattedUrl": "https://travel.state.gov/content/travel/en/international.../<b>Mongolia</b>.html",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/content/dam/tsg-global/tsg_link_img_display.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "og:description": "Mongolia international travel information and Travel Advisory"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/content/dam/tsg-global/tsg_link_img_display.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin: China's Inner Mongolia powered 8% of all mining\u2014then ...",
+            "htmlTitle": "Bitcoin: China&#39;s Inner <b>Mongolia</b> powered 8% of all mining\u2014then ...",
+            "link": "https://fortune.com/2021/05/02/bitcoin-mining-hashrate-china-inner-mongolia-ban/",
+            "displayLink": "fortune.com",
+            "snippet": "May 1, 2021 ... Blockchain enthusiasts tout Bitcoin and its cryptocurrency kin as ... sweeping regulatory changes\u2014like the ban in Inner Mongolia\u2014makes the\u00a0...",
+            "htmlSnippet": "May 1, 2021 <b>...</b> Blockchain enthusiasts tout Bitcoin and its <b>cryptocurrency</b> kin as ... sweeping <b>regulatory</b> changes\u2014like the ban in Inner <b>Mongolia</b>\u2014makes the&nbsp;...",
+            "cacheId": "CGJ7gndOKnIJ",
+            "formattedUrl": "https://fortune.com/.../bitcoin-mining-hashrate-china-inner-mongolia-ban/",
+            "htmlFormattedUrl": "https://fortune.com/.../bitcoin-mining-hashrate-china-inner-<b>mongolia</b>-ban/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRngXjM093pl4Mokr7Q4reU7ehidqKivL4IK6h9GLZSdy3B2g371WYDbkkA",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/04/GettyImages-1231902203.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "A Chinese province powered 8% of all Bitcoin mining. Then the government gave miners 2 months to get out",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/05/02/bitcoin-mining-hashrate-china-inner-mongolia-ban/",
+                        "og:title": "A Chinese province powered 8% of all Bitcoin mining. Then the government gave miners 2 months to get out",
+                        "og:description": "What happened when the government gave Bitcoin mine operators two months to clear out?",
+                        "og:height": "687",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/04/GettyImages-1231902203.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "What happened when the government gave Bitcoin mine operators two months to clear out?",
+                        "og:url": "https://fortune.com/2021/05/02/bitcoin-mining-hashrate-china-inner-mongolia-ban/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/04/GettyImages-1231902203.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        }
+    ]
+}

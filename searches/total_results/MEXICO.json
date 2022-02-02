@@ -1,0 +1,606 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MEXICO",
+                "totalResults": "855000",
+                "searchTerms": "MEXICO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MEXICO",
+                "totalResults": "855000",
+                "searchTerms": "MEXICO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.466759,
+        "formattedSearchTime": "0.47",
+        "totalResults": "855000",
+        "formattedTotalResults": "855,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Mexico | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Mexico</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mexico",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "In Mexico, there are no specific rules applicable to border restrictions or obligations to declare cryptocurrency holdings. However, it is important to mention\u00a0...",
+            "htmlSnippet": "In <b>Mexico</b>, there are no specific rules applicable to border restrictions or obligations to declare <b>cryptocurrency</b> holdings. However, it is important to mention&nbsp;...",
+            "cacheId": "lbm4VnNfPQ8J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/mexico",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>mexico</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Mexico chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVOR-BIy-nl9qSeoVLix4ov0mN068yVfySY8XvfHy7lqQNteCmDXu8U_k",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Carlos Valderrama Narvaez",
+                        "url": "Carlos Valderrama Narvaez"
+                    },
+                    {
+                        "name": "Diego Montes Serralde",
+                        "url": "Diego Montes Serralde"
+                    },
+                    {
+                        "name": "Evangelina Machado",
+                        "url": "Evangelina Machado"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/ifVwteZAa5zimPfl6PEgxnWwfmD8dEwOT3OOMBHo.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Mexico chapter written by Carlos Valderrama Narvaez - Legal Paradox and Diego Montes Serralde - Legal Paradox and Evangelina Machado - Legal Paradox covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Mexico | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Mexico chapter written by Carlos Valderrama Narvaez - Legal Paradox and Diego Montes Serralde - Legal Paradox and Evangelina Machado - Legal Paradox covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Mexico | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mexico"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/ifVwteZAa5zimPfl6PEgxnWwfmD8dEwOT3OOMBHo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mexico says cryptocurrencies are not money, warns of risks | Reuters",
+            "htmlTitle": "<b>Mexico</b> says <b>cryptocurrencies</b> are not money, warns of risks | Reuters",
+            "link": "https://www.reuters.com/world/americas/mexico-says-cryptocurrencies-are-not-money-warns-risks-2021-06-28/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Jun 28, 2021 ... Mexican financial authorities on Monday said that crypto assets are not legal tender in Mexico and are not considered currencies under\u00a0...",
+            "htmlSnippet": "Jun 28, 2021 <b>...</b> <b>Mexican</b> financial authorities on Monday said that crypto assets are not legal tender in <b>Mexico</b> and are not considered currencies under&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../mexico-says-cryptocurrencies-are-not-money- warns-risks-2021-06-28/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>mexico</b>-says-<b>cryptocurrencies</b>-are-not-money- warns-risks-2021-06-28/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBHg8BlRsZJZuJIiXkRF0qwzyPi8T2JyFQsZ722V3egwnnTbLi7Uajer__",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/InHvCiSZm4U-VU8bDnCg_6ScF8s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UGHMBKNQAJIUNAN7OCRGXCKYOM.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-06-28T21:08:58Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "World",
+                        "og:description": "Mexican financial authorities on Monday said that crypto assets are not legal tender in Mexico and are not considered currencies under current laws, warning that financial institutions that operate with them are subject to sanctions.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/InHvCiSZm4U-VU8bDnCg_6ScF8s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UGHMBKNQAJIUNAN7OCRGXCKYOM.jpg",
+                        "twitter:image:alt": "A representation of the virtual cryptocurrency Ethereum is seen among representations of other cryptocurrencies in this picture illustration taken June 14, 2021.   REUTERS/Edgar Su/Illustration",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-06-28T21:10:12.680Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Americas",
+                        "twitter:title": "Mexico says cryptocurrencies are not money, warns of risks",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/world/americas/article",
+                        "og:title": "Mexico says cryptocurrencies are not money, warns of risks",
+                        "dcsext.channellist": "World;Technology",
+                        "og:article:published_time": "2021-06-28T21:08:58Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Abraham Gonzalez,Anthony Esposito",
+                        "article:tag": "CRYCUR,ECO,FRX,GEN,IPR,MCE,PLCY,POL,AMERS,MX,CAMER,NAMER,EMRG,LATAM,BACT,BISV,BISV08,BNKS,BSVC,FIN,FINS,FINS08,REGS,NEWS1,TOPNWS,SV,ECON,EF:BUSINESS-FUTURE-OF-MONEY,BMXO,BNKS1,CEN,CMPNY,TOPCMB",
+                        "analyticsattributes.topicsubchannel": "Americas",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Mexican financial authorities on Monday said that crypto assets are not legal tender in Mexico and are not considered currencies under current laws, warning that financial institutions that operate with them are subject to sanctions.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/world/americas/mexico-says-cryptocurrencies-are-not-money-warns-risks-2021-06-28/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/InHvCiSZm4U-VU8bDnCg_6ScF8s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UGHMBKNQAJIUNAN7OCRGXCKYOM.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba will recognize and regulate cryptocurrency | Fortune",
+            "htmlTitle": "Cuba will recognize and <b>regulate cryptocurrency</b> | Fortune",
+            "link": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+            "displayLink": "fortune.com",
+            "snippet": "Aug 27, 2021 ... ... said Friday it is drafting legislation to regulate cryptocurrency in ... Mexico, and Panama have in the past expressed interest in more\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> ... said Friday it is drafting legislation to <b>regulate cryptocurrency</b> in ... <b>Mexico</b>, and Panama have in the past expressed interest in more&nbsp;...",
+            "cacheId": "vzQ35OOmYHEJ",
+            "formattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-regulate-cryptocurrency /",
+            "htmlFormattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-<b>regulate</b>-<b>cryptocurrency</b> /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-oeQq7FuycUaIAek04r3NWd89394Os0Hx4pU41Ve6PZuDNonH0HO1PA",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:height": "619",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mexico's Finance Minister Confirms Cryptos Are Banned From ...",
+            "htmlTitle": "<b>Mexico&#39;s</b> Finance Minister Confirms Cryptos Are Banned From ...",
+            "link": "https://www.coindesk.com/policy/2021/06/28/mexicos-finance-minister-confirms-cryptos-are-banned-from-financial-system/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jun 28, 2021 ... A top Mexican official reiterated on Monday a ban on the use of cryptocurrencies in the country's financial system.",
+            "htmlSnippet": "Jun 28, 2021 <b>...</b> A top <b>Mexican</b> official reiterated on Monday a ban on the use of <b>cryptocurrencies</b> in the country&#39;s financial system.",
+            "cacheId": "LBmydNLSV5AJ",
+            "formattedUrl": "https://www.coindesk.com/.../mexicos-finance-minister-confirms-cryptos-are- banned-from-financial-system/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>mexicos</b>-finance-minister-confirms-cryptos-are- banned-from-financial-system/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9j32w0wFAXo-GI7NhF0s2IdB6Nef9Bc0dlcDyBqx6_zcA341bapj7jOI",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/NuRFw8lQfNOvcVYso94C65erPkw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7N43OSALORGDVPZJG3LG423UIE.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-06-28T19:53:32Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The statement comes after Mexican billionaire Ricardo Salinas Pliego said his bank would accept bitcoin.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/ES5qmN8GDq4x-v0pWfget0IS4Bs=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7N43OSALORGDVPZJG3LG423UIE.jpg",
+                        "twitter:image:alt": "Mexico Secretary of Finance and Public Credit Arturo Herrera",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-06-28T19:53:32Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Mexico Secretary of Finance and Public Credit Arturo Herrera",
+                        "og:type": "article",
+                        "article:section": "Policy",
+                        "twitter:title": "Mexico's Finance Minister Confirms Cryptos Are Banned From Financial System",
+                        "og:title": "Mexico's Finance Minister Confirms Cryptos Are Banned From Financial System",
+                        "og:image:height": "628",
+                        "article:author": "Andr\u00e9s Engler",
+                        "article:tag": "Latin America, Mexico, Bitso, FATF, Bitcoin",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The statement comes after Mexican billionaire Ricardo Salinas Pliego said his bank would accept bitcoin.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/06/28/mexicos-finance-minister-confirms-cryptos-are-banned-from-financial-system/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/NuRFw8lQfNOvcVYso94C65erPkw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7N43OSALORGDVPZJG3LG423UIE.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Latin American crime cartels turn to cryptocurrencies for money ...",
+            "htmlTitle": "Latin American crime cartels turn to <b>cryptocurrencies</b> for money ...",
+            "link": "https://www.reuters.com/article/mexico-bitcoin-insight/latin-american-crime-cartels-turn-to-cryptocurrencies-for-money-laundering-idUSKBN28I1KD",
+            "displayLink": "www.reuters.com",
+            "snippet": "Dec 8, 2020 ... Santoyo's arrest represented an early success for a new law in Mexico - one of only two nations in Latin America, with Brazil, to enact such\u00a0...",
+            "htmlSnippet": "Dec 8, 2020 <b>...</b> Santoyo&#39;s arrest represented an early success for a new <b>law</b> in <b>Mexico</b> - one of only two nations in Latin America, with Brazil, to enact such&nbsp;...",
+            "cacheId": "JCcB6v73gnAJ",
+            "formattedUrl": "https://www.reuters.com/.../mexico.../latin-american-crime-cartels-turn-to- cryptocurrencies-for-money-laundering-idUSKBN28I1KD",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>mexico</b>.../latin-american-crime-cartels-turn-to- <b>cryptocurrencies</b>-for-money-laundering-idUSKBN28I1KD",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAF0UIvWUkWL5jbZ7Z9ZjBpo2jwK89Q7-Bku5k18gV2jFxK9TBtFxVlo",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20201208&t=2&i=1543817237&r=LYNXMPEGB70WH&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2020-12-08T20:31:28Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "topNews;technologyNews;AMERS;specialReports;ousivMolt;RCOMUS_Fintech;politicsspecialreports;US-The-Wire;consolidated-business;USWire_EL;RCOM-fintech-extended;everythingNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "In April 2019, Mexican police arrested suspected human trafficker Ignacio Santoyo in a plush area of the Caribbean resort of Playa del Carmen after linking him to a prostitution racket extending across Latin America.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2020-12-08T20:31:28Z",
+                        "og:article:section": "Future of Money",
+                        "analyticsattributes.articledate": "2020-12-08T20:31:28Z",
+                        "dcsext.dartzone": "reuters.com/business/finance/article",
+                        "author": "Diego Or\u00e9",
+                        "analyticsattributes.keywords": "MEXICO,BITCOIN,INSIGHT,Americas,Argentina,Colombia,Crime,Cryptocurrencies,Emerging Market Countries,Enterprise Reporting,Currencies / Foreign Exchange Markets,General News,Insights,South America / Central America,Mexico,Major News,Panama,Government / Politics,Picture Available,Financial Fraud / Securities Fraud,International / National Security,Special Reports,Technology (TRBC level 1),Reuters Top News,United States",
+                        "og:article:published_time": "2020-12-08T12:16:24Z",
+                        "og:article:tag": "MEXICO,BITCOIN,INSIGHT,Americas,Argentina,Colombia,Crime,Cryptocurrencies,Emerging Market Countries,Enterprise Reporting,Currencies / Foreign Exchange Markets,General News,Insights,South America / Central America,Mexico,Major News,Panama,Government / Politics,Picture Available,Financial Fraud / Securities Fraud,International / National Security,Special Reports,Technology (TRBC level 1),Reuters Top News,United States",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20201208&t=2&i=1543817237&r=LYNXMPEGB70WH&w=800",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20201208&t=2&i=1543817237&r=LYNXMPEGB70WH&w=800",
+                        "sailthru.author": "Diego Or\u00e9",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Latin American crime cartels turn to cryptocurrencies for money laundering",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AMERS,AR,CO,CRIM,CRYCUR,EMRG,EREP,FRX,GEN,INSGHT,LATAM,MX,NEWS1,PA,POL,PXP,SCAM1,SECUR,SREP,TECH,TOPNWS,US",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20201208&t=2&i=1543817237&r=LYNXMPEGB70WH&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "MEXICO;BITCOIN;INSIGHT;Americas;Argentina;Colombia;Crime;Cryptocurrencies;Emerging Market Countries;Enterprise Reporting;Currencies / Foreign Exchange Markets;General News;Insights;South America / Central America;Mexico;Major News;Panama;Government / Politics;Picture Available;Financial Fraud / Securities Fraud;International / National Security;Special Reports;Technology (TRBC level 1);Reuters Top News;United States",
+                        "sailthru.title": "Latin American crime cartels turn to cryptocurrencies for money laundering",
+                        "analyticsattributes.contenttitle": "Latin American crime cartels turn to cryptocurrencies for money laundering",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/mexico-bitcoin-insight-idUSKBN28I1KD",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Diego Or\u00e9",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2020-12-08T20:31:28Z",
+                        "og:type": "article",
+                        "twitter:title": "Latin American crime cartels turn to cryptocurrencies for money laundering",
+                        "og:title": "Latin American crime cartels turn to cryptocurrencies for money laundering",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "MEXICO-BITCOIN-INSIGHT",
+                        "analyticsattributes.author": "Diego Or\u00e9",
+                        "analyticsattributes.contentchannel": "Business - Finance",
+                        "sailthru.description": "In April 2019, Mexican police arrested suspected human trafficker Ignacio Santoyo in a plush area of the Caribbean resort of Playa del Carmen after linking him to a prostitution racket extending across Latin America.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "In April 2019, Mexican police arrested suspected human trafficker Ignacio Santoyo in a plush area of the Caribbean resort of Playa del Carmen after linking him to a prostitution racket extending across Latin America.",
+                        "analyticsattributes.topicn2names": "Americas,Argentina,Colombia,Crime,Cryptocurrencies,Emerging Market Countries,Enterprise Reporting,Currencies / Foreign Exchange Markets,General News,Insights,South America / Central America,Mexico,Major News,Panama,Government / Politics,Picture Available,Financial Fraud / Securities Fraud,International / National Security,Special Reports,Technology (TRBC level 1),Reuters Top News,United States",
+                        "og:url": "https://www.reuters.com/article/mexico-bitcoin-insight-idUSKBN28I1KD"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20201208&t=2&i=1543817237&r=LYNXMPEGB70WH&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New regulation would effectively ban crypto exchanges in Mexico ...",
+            "htmlTitle": "New <b>regulation</b> would effectively ban crypto exchanges in <b>Mexico</b> ...",
+            "link": "https://www.coincenter.org/new-regulation-would-effectively-ban-crypto-exchanges-in-mexico/",
+            "displayLink": "www.coincenter.org",
+            "snippet": "Mar 21, 2019 ... Bucking international trends, the Mexican central bank would deny exchanges a sensible path to regulation and deny Mexicans safe access to\u00a0...",
+            "htmlSnippet": "Mar 21, 2019 <b>...</b> Bucking international trends, the <b>Mexican</b> central bank would deny exchanges a sensible path to <b>regulation</b> and deny Mexicans safe access to&nbsp;...",
+            "cacheId": "sgENvLRAnxwJ",
+            "formattedUrl": "https://www.coincenter.org/new-regulation-would-effectively-ban-crypto- exchanges-in-mexico/",
+            "htmlFormattedUrl": "https://www.coincenter.org/new-<b>regulation</b>-would-effectively-ban-crypto- exchanges-in-<b>mexico</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.coincenter.org/app/uploads/2020/05/mexicofan.jpg",
+                        "og:image:width": "920",
+                        "og:type": "article",
+                        "article:published_time": "2019-03-21T15:29+00:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "New regulation would effectively ban crypto exchanges in Mexico - Coin Center",
+                        "og:site_name": "Coin Center",
+                        "og:title": "New regulation would effectively ban crypto exchanges in Mexico - Coin Center",
+                        "og:image:height": "613",
+                        "twitter:image:height": "613",
+                        "og:updated_time": "2020-06-29T16:00+00:00",
+                        "og:description": "Bucking international trends, the Mexican central bank would deny exchanges a sensible path to regulation and deny Mexicans safe access to financial technologies.",
+                        "twitter:image": "https://www.coincenter.org/app/uploads/2020/05/mexicofan.jpg",
+                        "article:modified_time": "2020-06-29T16:00+00:00",
+                        "twitter:image:width": "920",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Bucking international trends, the Mexican central bank would deny exchanges a sensible path to regulation and deny Mexicans safe access to financial technologies.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coincenter.org/new-regulation-would-effectively-ban-crypto-exchanges-in-mexico/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "State Regulations on Virtual Currency and Blockchain Technologies ...",
+            "htmlTitle": "State <b>Regulations</b> on Virtual Currency and Blockchain Technologies ...",
+            "link": "https://www.carltonfields.com/insights/publications/2018/state-regulations-on-virtual-currency-and-blockchain-technologies",
+            "displayLink": "www.carltonfields.com",
+            "snippet": "Aug 29, 2019 ... HB 2602 would prohibit localities from restricting cryptocurrency ... be an active corporation organized pursuant to the laws of New Mexico.",
+            "htmlSnippet": "Aug 29, 2019 <b>...</b> HB 2602 would prohibit localities from restricting <b>cryptocurrency</b> ... be an active corporation organized pursuant to the <b>laws</b> of New <b>Mexico</b>.",
+            "cacheId": "B1QIJ0ViAGAJ",
+            "formattedUrl": "https://www.carltonfields.com/.../state-regulations-on-virtual-currency-and- blockchain-technologies",
+            "htmlFormattedUrl": "https://www.carltonfields.com/.../state-<b>regulations</b>-on-virtual-currency-and- blockchain-technologies",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaqH8q4heEDHcHbRs5zMYAG55WiF3TQOzW77VJEaQguMOFQiyLYW2CfNhq",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.carltonfields.com/Libraries/CarltonFields/Media/Logos/carlton-fields-open-graph.png?ext=.png",
+                        "og:type": "website",
+                        "og:site_name": "Carlton Fields",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "developer": "Boston Interactive - http://www.bostoninteractive.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.carltonfields.com/Libraries/CarltonFields/Media/Logos/carlton-fields-open-graph.png?ext=.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why It's Time to Pay Attention to Mexico's Booming Crypto Market ...",
+            "htmlTitle": "Why It&#39;s Time to Pay Attention to <b>Mexico&#39;s</b> Booming Crypto Market ...",
+            "link": "https://www.coindesk.com/policy/2020/08/13/why-its-time-to-pay-attention-to-mexicos-booming-crypto-market/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Aug 13, 2020 ... According to Ramos, the law banned financial institutions from issuing or transferring the \u201crisk of cryptocurrency\u201d to the customer in any way.",
+            "htmlSnippet": "Aug 13, 2020 <b>...</b> According to Ramos, the <b>law</b> banned financial institutions from issuing or transferring the \u201crisk of <b>cryptocurrency</b>\u201d to the customer in any way.",
+            "cacheId": "jvymilJs_8wJ",
+            "formattedUrl": "https://www.coindesk.com/.../why-its-time-to-pay-attention-to-mexicos- booming-crypto-market/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../why-its-time-to-pay-attention-to-<b>mexicos</b>- booming-crypto-market/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0aKB_5NX3mw9szkPpi-O52EhQ8OiTQMtsyjvSaMwliA4pyY8bfZUD8A",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/6lTe2lOSiVF1XauT9OnjiUfsmw8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KSSPIROKYRDI7PIOKWFI56APWA.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2020-08-13T13:20:38Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "In a trend that is largely unnoticed outside of the country, Mexico is embracing cryptocurrency at a breakneck speed.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/Ah5_5XVvhI-LX05DeQN7_haMCEc=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KSSPIROKYRDI7PIOKWFI56APWA.jpg",
+                        "twitter:image:alt": "mexico city flag",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2020-08-13T13:20:38Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "mexico city flag",
+                        "og:type": "article",
+                        "article:section": "Policy",
+                        "twitter:title": "Why It's Time to Pay Attention to Mexico's Booming Crypto Market",
+                        "og:title": "Why It's Time to Pay Attention to Mexico's Booming Crypto Market",
+                        "og:image:height": "628",
+                        "article:author": "Sandali Handagama",
+                        "article:tag": "Latin America, Mexico, Bitso, Adoption, Long Read, Evergreen",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "In a trend that is largely unnoticed outside of the country, Mexico is embracing cryptocurrency at a breakneck speed.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2020/08/13/why-its-time-to-pay-attention-to-mexicos-booming-crypto-market/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/6lTe2lOSiVF1XauT9OnjiUfsmw8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KSSPIROKYRDI7PIOKWFI56APWA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Is Mexico's \u201cFintech Law\u201d Leading a New Trend in Fintech Regulation?",
+            "htmlTitle": "Is <b>Mexico&#39;s</b> \u201cFintech <b>Law</b>\u201d Leading a New Trend in Fintech <b>Regulation</b>?",
+            "link": "https://www.cgap.org/blog/mexicos-fintech-law-leading-new-trend-fintech-regulation",
+            "displayLink": "www.cgap.org",
+            "snippet": "Jan 20, 2021 ... Some regulators are looking to Mexico's so-called \"fintech law\" as an example ... cryptocurrencies) that are authorized by Bank of Mexico.",
+            "htmlSnippet": "Jan 20, 2021 <b>...</b> Some regulators are looking to <b>Mexico&#39;s</b> so-called &quot;fintech <b>law</b>&quot; as an example ... <b>cryptocurrencies</b>) that are authorized by Bank of <b>Mexico</b>.",
+            "cacheId": "jmFCQaUY21YJ",
+            "formattedUrl": "https://www.cgap.org/.../mexicos-fintech-law-leading-new-trend-fintech- regulation",
+            "htmlFormattedUrl": "https://www.cgap.org/.../<b>mexicos</b>-fintech-<b>law</b>-leading-new-trend-fintech- <b>regulation</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjv7RS0alb_d-K9qpHwYIYRuoIVYI9w0jQf3DEMcxTNmRP2tA7G79e8JI",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.cgap.org/sites/default/files/styles/card/public/blogs/images/Mexico_0.jpg?h=9196f9ee&itok=EmWloxf5",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Is Mexico\u2019s \u201cFintech Law\u201d Leading a New Trend in Fintech Regulation?",
+                        "og:site_name": "CGAP",
+                        "twitter:site:id": "16244517",
+                        "og:image:url": "https://www.cgap.org/sites/default/files/blogs/images/Mexico_0.jpg",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.cgap.org/blog/mexicos-fintech-law-leading-new-trend-fintech-regulation",
+                        "og:title": "Is Mexico\u2019s \u201cFintech Law\u201d Leading a New Trend in Fintech Regulation?",
+                        "og:description": "Some regulators are looking to Mexico's so-called \"fintech law\" as an example of how to respond to the full range of fintech innovations in a single law. But this isn't what the Mexican law does, and there are good reasons for this.",
+                        "twitter:creator": "@cgap",
+                        "twitter:image": "https://www.cgap.org/sites/default/files/styles/card/public/blogs/images/Mexico_0.jpg?h=9196f9ee&itok=EmWloxf5",
+                        "twitter:site": "@cgap",
+                        "twitter:creator:id": "16244517",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Some regulators are looking to Mexico's so-called \"fintech law\" as an example of how to respond to the full range of fintech innovations in a single law. But this isn't what the Mexican law does, and there are good reasons for this.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.cgap.org/blog/mexicos-fintech-law-leading-new-trend-fintech-regulation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.cgap.org/sites/default/files/styles/card/public/blogs/images/Mexico_0.jpg?h=9196f9ee&itok=EmWloxf5"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Mexico | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Mexico</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/mexico",
+            "displayLink": "iclg.com",
+            "snippet": "As stated in the answer to question 3.1 above, the Fintech Law provides some guidelines for the operations with virtual assets (e.g., cryptocurrencies),\u00a0...",
+            "htmlSnippet": "As stated in the answer to question 3.1 above, the Fintech <b>Law</b> provides some guidelines for the operations with virtual assets (e.g., <b>cryptocurrencies</b>),&nbsp;...",
+            "cacheId": "FjVoyc59iwIJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/mexico",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>mexico</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvHztySmSxERnUgYjzo63Q8vychNW2QlK3gyHAculbcOD0OoDn4LmbBBGB",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/15pc0yxTH9gH4Z8vnUs6o5J21E4eKecATUntKtQg.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Mexico of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/15pc0yxTH9gH4Z8vnUs6o5J21E4eKecATUntKtQg.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "Fo5nDNetXkIWileHzjh6GVuaT0zfbC48R44vUrrA",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Mexico |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Mexico |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Mexico |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Mexico of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/mexico",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/15pc0yxTH9gH4Z8vnUs6o5J21E4eKecATUntKtQg.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

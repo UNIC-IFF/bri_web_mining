@@ -1,0 +1,506 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BULGARIA",
+                "totalResults": "929000",
+                "searchTerms": "BULGARIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BULGARIA",
+                "totalResults": "929000",
+                "searchTerms": "BULGARIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.37342,
+        "formattedSearchTime": "0.37",
+        "totalResults": "929000",
+        "formattedTotalResults": "929,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Actual Legal Regulation of Cryptocurrencies in Bulgaria | 1Legal.net",
+            "htmlTitle": "Actual Legal <b>Regulation of Cryptocurrencies</b> in <b>Bulgaria</b> | 1Legal.net",
+            "link": "https://1legal.net/en/blog-read188-actual-legal-regulation-of-cryptocurrencies-in-bulgaria",
+            "displayLink": "1legal.net",
+            "snippet": "Jun 2, 2021 ... In the present Bulgarian legal framework, cryptocurrencies (Bitcoin, altcoins) are still perceived, audited and declared before NRA\u00a0...",
+            "htmlSnippet": "Jun 2, 2021 <b>...</b> In the present <b>Bulgarian</b> legal framework, <b>cryptocurrencies</b> (Bitcoin, altcoins) are still perceived, audited and declared before NRA&nbsp;...",
+            "cacheId": "eGMSKaP09FYJ",
+            "formattedUrl": "https://1legal.net/.../blog-read188-actual-legal-regulation-of-cryptocurrencies -in-bulgaria",
+            "htmlFormattedUrl": "https://1legal.net/.../blog-read188-actual-legal-<b>regulation-of-cryptocurrencies</b> -in-<b>bulgaria</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbAj1v0Gw9-ldjcgl7AQMbvq-2dQ482Iv483ngI6dwG_gq8fNT2rCLHaPE",
+                        "width": "286",
+                        "height": "176"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "author": "Webstroy Ltd.",
+                        "og:description": "financial asset"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://1legal.net/images/img/blog/blogpost-1622647193.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bulgaria and Cryptocurrency - Freeman Law",
+            "htmlTitle": "<b>Bulgaria</b> and <b>Cryptocurrency</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/bulgaria/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Bulgaria Cryptocurrency Law. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Is cryptocurrency legal in Bulgaria? The\u00a0...",
+            "htmlSnippet": "<b>Bulgaria Cryptocurrency</b> Law. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. Is <b>cryptocurrency</b> legal in <b>Bulgaria</b>? The&nbsp;...",
+            "cacheId": "dBFgUHqDjQ4J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/bulgaria/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>bulgaria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfxeB5uZSAET-HDjZW2CR0ihU3-UqZEAWVLOjINjWOyUlmdW9-8hci-sA",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_101186804-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-15T03:19:03+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/bulgaria/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Bulgaria Cryptocurrency & Blockchains Laws. Freeman Law, Cryptocurrency & Virtual Currency Attorneys. Schedule a Free Consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_101186804-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_101186804-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:00+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/guernsey/",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency",
+                        "article:section": "Bitcoin",
+                        "twitter:title": "Bulgaria and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Bulgaria and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:06:00+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Bulgaria and Cryptocurrency Bulgaria Cryptocurrency Law Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Is cryptocurrency legal in Bulgaria? The Financial Supervision Commission (\u2018FSC\u2019) in Bulgaria has not issued explicit legal guidance. Monitoring strategy In...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/bulgaria/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_101186804-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Bulgaria | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Bulgaria</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/bulgaria",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "May 21, 2021 ... The Bulgaria for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a\u00a0...",
+            "htmlSnippet": "May 21, 2021 <b>...</b> The <b>Bulgaria</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a&nbsp;...",
+            "cacheId": "djfOAw3hXKMJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/bulgaria",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>bulgaria</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Bulgaria for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Bulgaria | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Bulgaria for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Bulgaria | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/bulgaria"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The lawfulness of cryptocurrency mining in Bulgaria - Lexology",
+            "htmlTitle": "The lawfulness of <b>cryptocurrency</b> mining in <b>Bulgaria</b> - Lexology",
+            "link": "https://www.lexology.com/library/detail.aspx?g=ec70f8af-0c65-4e53-a296-6e1534d55b20",
+            "displayLink": "www.lexology.com",
+            "snippet": "Jul 7, 2020 ... Cryptocurrency mining is not currently directly regulated or prohibited by law in Bulgaria. \u00b7 It is a lawful activity subject to general law (\u00a0...",
+            "htmlSnippet": "Jul 7, 2020 <b>...</b> <b>Cryptocurrency</b> mining is not currently directly <b>regulated</b> or prohibited by law in <b>Bulgaria</b>. &middot; It is a lawful activity subject to general law (&nbsp;...",
+            "cacheId": "oQ8GWsbR3lQJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=ec70f8af-0c65-4e53...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=ec70f8af-0c65-4e53...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "The lawfulness of cryptocurrency mining in Bulgaria",
+                        "workarea": "Banking",
+                        "jurisdiction": "Bulgaria",
+                        "dc.date": "2020-07-07",
+                        "firmname": "New Balkans Law Office",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=ec70f8af-0c65-4e53-a296-6e1534d55b20",
+                        "og:description": "In the following article we explore the legality of cryptocurrency mining in Bulgaria, in particular, whether it is prohibited or\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The European Commission's project to regulate the cryptocurrency ...",
+            "htmlTitle": "The European Commission&#39;s project to <b>regulate</b> the <b>cryptocurrency</b> ...",
+            "link": "https://ivlawfirm.com/en/the-european-commission-s-project-to-regulate-the-cryptocurrency-market-tax-treatment-in-bulgaria/",
+            "displayLink": "ivlawfirm.com",
+            "snippet": "... Commission's project to regulate the cryptocurrency market. Tax treatment in Bulgaria. 28.01.2021. Blockchain technology and cryptocurrencies are a\u00a0...",
+            "htmlSnippet": "... Commission&#39;s project to <b>regulate</b> the <b>cryptocurrency</b> market. Tax treatment in <b>Bulgaria</b>. 28.01.2021. Blockchain technology and <b>cryptocurrencies</b> are a&nbsp;...",
+            "cacheId": "cVptLaGYMs4J",
+            "formattedUrl": "https://ivlawfirm.com/.../the-european-commission-s-project-to-regulate-the- cryptocurrency-market-tax-treatment-in-bulgaria/",
+            "htmlFormattedUrl": "https://ivlawfirm.com/.../the-european-commission-s-project-to-<b>regulate</b>-the- <b>cryptocurrency</b>-market-tax-treatment-in-<b>bulgaria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2Ac7p37dwUjv74kcv1kUNLjDpK4fadfyVpU_c0cjUxstQr9lwE83rsDI",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ivlawfirm.com/wp-content/uploads/2018/05/green.png",
+                        "og:type": "article",
+                        "article:section": "Publications",
+                        "article:published_time": "2021-01-28T10:06:53+00:00",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The European Commission's project to regulate the cryptocurrency market. Tax treatment in Bulgaria - IVLawFirm",
+                        "og:site_name": "IVLawFirm",
+                        "og:title": "The European Commission's project to regulate the cryptocurrency market. Tax treatment in Bulgaria - IVLawFirm",
+                        "og:image:height": "600",
+                        "og:updated_time": "2021-02-02T15:32:16+00:00",
+                        "msapplication-tileimage": "https://ivlawfirm.com/wp-content/uploads/2018/05/favicon-300x300.png",
+                        "og:description": "Blockchain technology and cryptocurrencies are a relatively new concept for us, which is based on the idea of a free market without the intervention of an administrator. According to the",
+                        "og:image:secure_url": "https://ivlawfirm.com/wp-content/uploads/2018/05/green.png",
+                        "twitter:image": "https://ivlawfirm.com/wp-content/uploads/2018/05/green.png",
+                        "og:locale:alternate": "bg_BG",
+                        "article:modified_time": "2021-02-02T15:32:16+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Blockchain technology and cryptocurrencies are a relatively new concept for us, which is based on the idea of a free market without the intervention of an administrator. According to the",
+                        "og:locale": "en_GB",
+                        "og:url": "https://ivlawfirm.com/en/the-european-commission-s-project-to-regulate-the-cryptocurrency-market-tax-treatment-in-bulgaria/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ivlawfirm.com/wp-content/uploads/2018/05/green.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How are cryptocurrencies regulated in Bulgaria?",
+            "htmlTitle": "How are <b>cryptocurrencies regulated</b> in <b>Bulgaria</b>?",
+            "link": "https://blockpit.io/en/blog/crypto-taxation-regulations-bulgaria/",
+            "displayLink": "blockpit.io",
+            "snippet": "Feb 1, 2021 ... Bulgaria has no official legal definition for cryptocurrencies and is orientating its legal approach at the European Union and the existing\u00a0...",
+            "htmlSnippet": "Feb 1, 2021 <b>...</b> <b>Bulgaria</b> has no official legal definition for <b>cryptocurrencies</b> and is orientating its legal approach at the European Union and the existing&nbsp;...",
+            "cacheId": "1t0wK8TT3YYJ",
+            "formattedUrl": "https://blockpit.io/en/blog/crypto-taxation-regulations-bulgaria/",
+            "htmlFormattedUrl": "https://blockpit.io/en/blog/crypto-taxation-<b>regulations</b>-<b>bulgaria</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2018-12-07_33cbdfca-ad96-4694-876c-fe6ad2249aeb.png",
+                        "og:type": "article",
+                        "article:section": "Tax and Regulations",
+                        "og:image:width": "1000",
+                        "og:image:alt": "How are cryptocurrencies regulated in Bulgaria?",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "How are cryptocurrencies regulated in Bulgaria?",
+                        "og:site_name": "Blockpit",
+                        "og:title": "How are cryptocurrencies regulated in Bulgaria?",
+                        "og:image:height": "563",
+                        "og:image:type": "image/png",
+                        "og:updated_time": "2021-09-22T15:08:27+02:00",
+                        "msapplication-tileimage": "https://blockpit.b-cdn.net/wp-content/uploads/2021/10/blockpit-favicon-300x300.png",
+                        "og:description": "How are cryptocurrencies taxed and what regulations apply to businesses? This blog gives you insights on the legal framework in Bulgaria.",
+                        "og:image:secure_url": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2018-12-07_33cbdfca-ad96-4694-876c-fe6ad2249aeb.png",
+                        "twitter:image": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2018-12-07_33cbdfca-ad96-4694-876c-fe6ad2249aeb.png",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "How are cryptocurrencies taxed and what regulations apply to businesses? This blog gives you insights on the legal framework in Bulgaria.",
+                        "og:locale": "en_US",
+                        "og:url": "https://blockpit.io/en/blog/crypto-taxation-regulations-bulgaria/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What you should know about Bitcoin regulation",
+            "htmlTitle": "What you should know about Bitcoin <b>regulation</b>",
+            "link": "https://lawfirm.bg/en/publications/what-you-should-know-about-bitcoin-regulation",
+            "displayLink": "lawfirm.bg",
+            "snippet": "Cryptocurrencies are not defined as financial instruments or electronic money, so no license is required to do business with them. In Bulgaria, as in the EU,\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrencies</b> are not defined as financial instruments or electronic money, so no license is required to do business with them. In <b>Bulgaria</b>, as in the EU,&nbsp;...",
+            "cacheId": "_3ZdJVjY9xAJ",
+            "formattedUrl": "https://lawfirm.bg/en/.../what-you-should-know-about-bitcoin-regulation",
+            "htmlFormattedUrl": "https://lawfirm.bg/en/.../what-you-should-know-about-bitcoin-<b>regulation</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRinVcrtjBTDRTFHP0ulsDV3kg3QINOEZ_2PuZSoF3EfcC6CdhuS70Lgf3i",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://lawfirm.bg/images/publication/what-you-should-know-about-bitcoin-regulation.jpg",
+                        "og:type": "article",
+                        "og:site_name": "Danailova, Todorov and Partners",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "author": "Teodora MItova",
+                        "og:title": "What you should know about Bitcoin regulation",
+                        "og:url": "https://lawfirm.bg/en/publications/what-you-should-know-about-bitcoin-regulation",
+                        "og:description": "Do you know everything about Bitcoin and other cryptocurrencies? Here is what you should know about their regulation in Bulgaria and the EU."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lawfirm.bg/images/publication/what-you-should-know-about-bitcoin-regulation.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "What you should know about Bitcoin regulation Do you have a Bitcoin wallet? There are some key things you should know. Although the blockchain technology and the Bitcoin cryptocurrency were...",
+                        "inlanguage": "en"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency and Wallet Providers: Bulgarian regulation",
+            "htmlTitle": "<b>Cryptocurrency</b> and Wallet Providers: <b>Bulgarian regulation</b>",
+            "link": "https://www.newbalkanslawoffice.com/cryptocurrency-and-wallet-providers-legal-regulation-bulgaria/",
+            "displayLink": "www.newbalkanslawoffice.com",
+            "snippet": "Aug 19, 2020 ... The 2019 amendments to the Bulgarian Prevention of Money Laundering Act 2018 (AML Act) for the first time include cryptocurrency exchanges and\u00a0...",
+            "htmlSnippet": "Aug 19, 2020 <b>...</b> The 2019 amendments to the <b>Bulgarian</b> Prevention of Money Laundering Act 2018 (AML Act) for the first time include <b>cryptocurrency</b> exchanges and&nbsp;...",
+            "cacheId": "tv_Em76HJdYJ",
+            "formattedUrl": "https://www.newbalkanslawoffice.com/cryptocurrency-and-wallet-providers- legal-regulation-bulgaria/",
+            "htmlFormattedUrl": "https://www.newbalkanslawoffice.com/<b>cryptocurrency</b>-and-wallet-providers- legal-<b>regulation</b>-<b>bulgaria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvCgW29NQK6uy5dMRhJy1fFli3OIAc30MkjSS1dMpUCBrIbeUnpdQ-4Fxx",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.newbalkanslawoffice.com/wp-content/uploads/2020/08/28722737008_1a5dedb016_c.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-08-19T13:34:12+00:00",
+                        "og:image:width": "799",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "New Balkans Law Office",
+                        "og:title": "Cryptocurrency and Wallet Providers: Bulgarian regulation",
+                        "og:image:height": "533",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Cryptocurrency and Wallet Providers: First-ever legal definition and requirement to register. Find out current Bulgarian cryptocurrency law.",
+                        "twitter:data1": "Maya Ivanova",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2021-05-25T10:30:46+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.newbalkanslawoffice.com/cryptocurrency-and-wallet-providers-legal-regulation-bulgaria/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.newbalkanslawoffice.com/wp-content/uploads/2020/08/28722737008_1a5dedb016_c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased exponentially. ... Cryptocurrencies Regulated in Bulgaria?,.",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased exponentially. ... <b>Cryptocurrencies Regulated</b> in <b>Bulgaria</b>?,.",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Open a Cryptocurrency Company in Bulgaria",
+            "htmlTitle": "Open a <b>Cryptocurrency</b> Company in <b>Bulgaria</b>",
+            "link": "https://www.lawyers-bulgaria.com/open-a-cryptocurrency-company-in-bulgaria",
+            "displayLink": "www.lawyers-bulgaria.com",
+            "snippet": "Oct 28, 2018 ... One of our attorneys in Bulgaria can give you more information on the current laws and regulations. Law firm Bulgaria services for company\u00a0...",
+            "htmlSnippet": "Oct 28, 2018 <b>...</b> One of our attorneys in <b>Bulgaria</b> can give you more information on the current <b>laws</b> and <b>regulations</b>. Law firm <b>Bulgaria</b> services for company&nbsp;...",
+            "cacheId": "7nRkYfBlJP0J",
+            "formattedUrl": "https://www.lawyers-bulgaria.com/open-a-cryptocurrency-company-in- bulgaria",
+            "htmlFormattedUrl": "https://www.lawyers-<b>bulgaria</b>.com/open-a-<b>cryptocurrency</b>-company-in- <b>bulgaria</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM5rzhWghR6iS7dhZOC_S2D5sCkNruuZSKE-9pu9O-WJmV1c1EcmfcfmE",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "professionalservice": [
+                    {
+                        "name": "Open a Cryptocurrency Company in Bulgaria",
+                        "description": "Cryptocurrencies are virtual currencies that allow for extremely secure financial transactions and the verification of the transfer of assets. The Bitcoin is the standard in the industry, however,..."
+                    }
+                ],
+                "review": [
+                    {
+                        "ratingstars": "5.0",
+                        "ratingcount": "1"
+                    }
+                ],
+                "hreviewaggregate": [
+                    {
+                        "count": "1"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "5",
+                        "reviewcount": "1",
+                        "worstrating": "1",
+                        "bestrating": "5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.lawyers-bulgaria.com/uploads/default/files/open-a-cryptocurrency-company-in-bulgaria.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

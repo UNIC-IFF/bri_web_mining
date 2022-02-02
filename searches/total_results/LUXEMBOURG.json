@@ -1,0 +1,549 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - LUXEMBOURG",
+                "totalResults": "746000",
+                "searchTerms": "LUXEMBOURG",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - LUXEMBOURG",
+                "totalResults": "746000",
+                "searchTerms": "LUXEMBOURG",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.336237,
+        "formattedSearchTime": "0.34",
+        "totalResults": "746000",
+        "formattedTotalResults": "746,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Luxembourg I Crypto Regulations",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in <b>Luxembourg</b> I Crypto <b>Regulations</b>",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-luxembourg/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Nov 7, 2018 ... There are no specific cryptocurrency regulations in Luxembourg but the government's legislative attitude towards cryptocurrencies is generally\u00a0...",
+            "htmlSnippet": "Nov 7, 2018 <b>...</b> There are no specific <b>cryptocurrency regulations</b> in <b>Luxembourg</b> but the government&#39;s legislative attitude towards <b>cryptocurrencies</b> is generally&nbsp;...",
+            "cacheId": "VE4l4lsV1Q0J",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations- luxembourg/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>- <b>luxembourg</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlcJKmnidOq1zPzMgJeeLguOCivhatAikxkafks5RTMCZnflbpY9rCIoFe",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/11/Copy-of-K-KnowY-YourC-Customer-17.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in Luxembourg",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in Luxembourg",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "There are no specific cryptocurrency regulations in Luxembourg but the government\u2019s legislative attitude towards them is generally progressive.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "3 minutes",
+                        "parsely-tags": "cryptocurrency regulations Luxembourgcrypto regulations in Luxembourgaml crypto Luxembourgcryptocurrency exchanges regulations Luxembourg",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T16:30:37+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-luxembourg/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/11/Copy-of-K-KnowY-YourC-Customer-17.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Luxembourg ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Luxembourg</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/luxembourg",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "There are no restrictions in Luxembourg on the mining of cryptocurrency, provided that the production of such virtual currencies/crypto-assets does not fall\u00a0...",
+            "htmlSnippet": "There are no restrictions in <b>Luxembourg</b> on the mining of <b>cryptocurrency</b>, provided that the production of such virtual currencies/crypto-assets does not fall&nbsp;...",
+            "cacheId": "QX93k1E2a8AJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/luxembourg",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>luxembourg</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Luxembourg chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGFwQlaafdi456sa4XILonX1MJA4XVtL1NZqwRDS6mFixxhgXNUgsTDg",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Jos\u00e9 Pascual",
+                        "url": "Jos\u00e9 Pascual"
+                    },
+                    {
+                        "name": "Bernard Elslander",
+                        "url": "Bernard Elslander"
+                    },
+                    {
+                        "name": "Cl\u00e9ment Petit",
+                        "url": "Cl\u00e9ment Petit"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/TizteHUURyhfpS2A78DEPrMiyd4KuXMl1Z7k6YxN.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Luxembourg chapter written by Jos\u00e9 Pascual - Eversheds Sutherland and Bernard Elslander - Eversheds Sutherland and Cl\u00e9ment Petit - Eversheds Sutherland covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Luxembourg | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Luxembourg chapter written by Jos\u00e9 Pascual - Eversheds Sutherland and Bernard Elslander - Eversheds Sutherland and Cl\u00e9ment Petit - Eversheds Sutherland covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Luxembourg | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/luxembourg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/TizteHUURyhfpS2A78DEPrMiyd4KuXMl1Z7k6YxN.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Banks and Regulation of Cryptocurrencies by Hossein ...",
+            "htmlTitle": "Central Banks and <b>Regulation of Cryptocurrencies</b> by Hossein ...",
+            "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421417",
+            "displayLink": "papers.ssrn.com",
+            "snippet": "Jul 17, 2019 ... Andr\u00e9 Pr\u00fcm. Universite du Luxembourg; European Banking Institute. Date Written: July 17, 2019. Abstract. This paper explores the interface\u00a0...",
+            "htmlSnippet": "Jul 17, 2019 <b>...</b> Andr\u00e9 Pr\u00fcm. Universite du <b>Luxembourg</b>; European Banking Institute. Date Written: July 17, 2019. Abstract. This paper explores the interface&nbsp;...",
+            "formattedUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421417",
+            "htmlFormattedUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421417",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsVrE6hwBO1rUJ5lqnZEO2T6r0WVWJTvSFNRvwmRkrZb9O0Tn-QNc88aft",
+                        "width": "340",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "Central Bank, European Central Bank, Cryptocurrency, Bitcoin, Money, Regulation",
+                        "citation_publication_date": "2019/07/17",
+                        "og:image": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg",
+                        "citation_title": "Central Banks and Regulation of Cryptocurrencies",
+                        "og:image:width": "1200",
+                        "papers_server": "papers.ssrn.com",
+                        "user_name": "Public User",
+                        "og:title": "Central Banks and Regulation of Cryptocurrencies",
+                        "citation_author": "Nabilou, Hossein",
+                        "og:image:height": "630",
+                        "citation_abstract_html_url": "https://papers.ssrn.com/abstract=3421417",
+                        "on_behalf": "False",
+                        "citation_online_date": "2019/07/17",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "static_server": "https://cdn.ssrn.com",
+                        "own_design": "false",
+                        "is_custom": "false",
+                        "citation_pdf_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3421417",
+                        "free_download_available": "true",
+                        "www_server": "www.ssrn.com",
+                        "part_id": "1",
+                        "hq_server": "hq.ssrn.com",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blog / Cryptocurrency and Blockchain Regulation in Luxembourg",
+            "htmlTitle": "Blog / <b>Cryptocurrency</b> and Blockchain <b>Regulation</b> in <b>Luxembourg</b>",
+            "link": "https://sanctionscanner.com/blog/cryptocurrency-and-blockchain-regulation-in-luxembourg-360",
+            "displayLink": "sanctionscanner.com",
+            "snippet": "Mar 5, 2021 ... With the development of cryptocurrency and blockchain technology in Luxembourg, various regulations have occurred. The main emphasis is on\u00a0...",
+            "htmlSnippet": "Mar 5, 2021 <b>...</b> With the development of <b>cryptocurrency</b> and blockchain technology in <b>Luxembourg</b>, various <b>regulations</b> have occurred. The main emphasis is on&nbsp;...",
+            "cacheId": "Wjd9rmuoOMYJ",
+            "formattedUrl": "https://sanctionscanner.com/.../cryptocurrency-and-blockchain-regulation-in- luxembourg-360",
+            "htmlFormattedUrl": "https://sanctionscanner.com/.../<b>cryptocurrency</b>-and-blockchain-<b>regulation</b>-in- <b>luxembourg</b>-360",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThNK7jCCb1yRe85koTIBQvkoOEsO_wMkEFWW5Nsh7xrqFUAy3M1tCqnq4",
+                        "width": "341",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://sanctionscanner.com/Content/Blog/06052021_104655220247In.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency and Blockchain Regulation in Luxembourg",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:url": "/blog/cryptocurrency-and-blockchain-regulation-in-luxembourg-360",
+                        "twitter:image": "https://sanctionscanner.com/Content/Blog/06052021_104655220247In.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sanctionscanner.com/Content/Blog/06052021_104655220247In.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Luxembourg and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Luxembourg</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/luxembourg/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Luxembourg does not regulate cryptocurrencies and in 2018, Luxembourg's\u00a0...",
+            "htmlSnippet": "<b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. <b>Luxembourg</b> does not <b>regulate cryptocurrencies</b> and in 2018, <b>Luxembourg&#39;s</b>&nbsp;...",
+            "cacheId": "qJA6l-iawqIJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/luxembourg/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>luxembourg</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRefqdzuLYFwGNy0TNPf05_j9NU8dpHMed0sHUEaG0KZL4CYtaHf40_anA",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492980-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:21:37+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/luxembourg/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Luxembourg? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492980-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492980-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:15:40+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/guernsey/",
+                        "og:type": "article",
+                        "og:image:alt": "Luxembourg bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Luxembourg and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Luxembourg and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:15:40+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Luxembourg and Cryptocurrency Luxembourg Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Luxembourg does not regulate cryptocurrencies and in 2018, Luxembourg\u2019s Financial Sector Monitoring Commission released a statement warning about the...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/luxembourg/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492980-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto-assets - Key developments, regulatory concerns and ...",
+            "htmlTitle": "Crypto-assets - Key developments, <b>regulatory</b> concerns and ...",
+            "link": "https://www.europarl.europa.eu/RegData/etudes/STUD/2020/648779/IPOL_STU(2020)648779_EN.pdf",
+            "displayLink": "www.europarl.europa.eu",
+            "snippet": "Apr 6, 2020 ... 2018 study Cryptocurrencies and blockchain: legal context and ... Challenge for Regulators\u201d, University of Luxembourg Law Working Paper No.",
+            "htmlSnippet": "Apr 6, 2020 <b>...</b> 2018 study <b>Cryptocurrencies</b> and blockchain: legal context and ... Challenge for Regulators\u201d, University of <b>Luxembourg</b> Law Working Paper No.",
+            "cacheId": "6Wsm6cgUIXIJ",
+            "formattedUrl": "https://www.europarl.europa.eu/.../IPOL_STU(2020)648779_EN.pdf",
+            "htmlFormattedUrl": "https://www.europarl.europa.eu/.../IPOL_STU(2020)648779_EN.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkI9Y0GfZ6cf_MFvLFYtj1gPjRk7MX9ur7j06YGzcynbIhFuS1yavyeNC-",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20200408102707+02'00'",
+                        "creationdate": "D:20200408102038+02'00'",
+                        "creator": "Acrobat PDFMaker 15 for Word",
+                        "sourcemodified": "D:20200408075424",
+                        "author": "Prof. Dr. Robby HOUBEN, Alexander SNYERS",
+                        "subject": "European Parliament, DG IPOL, Policy department A",
+                        "producer": "Adobe PDF Library 15.0",
+                        "company": "European Parliament",
+                        "title": "Crypto-assets - Key developments, regulatory concerns and responses"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///cdea71c3aa1a66bfe01103353e3f9904accc217364bfe554df07e25b437c45a5"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Luxembourg",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Luxembourg</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/luxembourg",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... Regulation of exchanges ... Virtual currency exchange platforms willing to establish in Luxembourg are required to obtain a licence as a payment\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> <b>Regulation</b> of exchanges ... Virtual currency exchange platforms willing to establish in <b>Luxembourg</b> are required to obtain a licence as a payment&nbsp;...",
+            "cacheId": "6o-hcpsxs2EJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual...regulation-review/luxembourg",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual...<b>regulation</b>-review/<b>luxembourg</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "8GtPAwWkJ6W84lC7s92d7g9WZM2sjAGaxYMQK2SA"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "RegTech companies to solve compliance and regulatory issues ...",
+            "htmlTitle": "RegTech companies to solve compliance and <b>regulatory</b> issues ...",
+            "link": "https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Jan 4, 2022 ... RegTech (Regulatory Technology) is more than a buzzword, ... benefits of distributed ledger through Blockchain technology and cryptocurrency.",
+            "htmlSnippet": "Jan 4, 2022 <b>...</b> RegTech (<b>Regulatory</b> Technology) is more than a buzzword, ... benefits of distributed ledger through Blockchain technology and <b>cryptocurrency</b>.",
+            "cacheId": "QzH81G7KFu0J",
+            "formattedUrl": "https://www2.deloitte.com/lu/en/.../regtech-companies-compliance.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/lu/en/.../regtech-companies-compliance.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/lu/Images/promo_images/lu-regtech-new-1x1.jpg"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "231",
+                        "url": "https://www2.deloitte.com/content/dam/Deloitte/lu/Images/promo_images/lu-regtech-new-1x1.jpg",
+                        "height": "231"
+                    }
+                ],
+                "person": [
+                    {
+                        "image": "/content/dam/Deloitte/lu/Images/promo_images/profilepics/huge-francois-kim.jpg",
+                        "jobtitle": "Partner | Fund Registration Services",
+                        "name": "Fran\u00e7ois-Kim Hug\u00e9",
+                        "description": "Fran\u00e7ois-Kim is a partner within the advisory & consulting department. He is currently in charge for running the Fund Registration Services, incl. the KIID Factory and AIFMD Notification Services....",
+                        "telephone": "+352 45145 2483",
+                        "email": "fkhuge@deloitte.lu"
+                    },
+                    {
+                        "image": "/content/dam/Deloitte/lu/Images/promo_images/profilepics/lu-simon-ramos-1x1.jpg",
+                        "jobtitle": "Partner | IM Advisory & Consulting Leader",
+                        "name": "Simon Ramos",
+                        "description": "Simon is a partner within the Luxembourg advisory and consulting practice and has more than 20 years\u2019 experience in the investment management industry. He delivers client solutions across...",
+                        "telephone": "+352 45145 2702",
+                        "email": "siramos@deloitte.lu"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/lu/Images/promo_images/lu-regtech-new-1x1.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "RegTech Universe",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/lu/Images/promo_images/lu-regtech-new-1x1.jpg",
+                        "og:site_name": "Deloitte Luxembourg",
+                        "twitter:url": "https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html",
+                        "og:title": "RegTech Universe",
+                        "og:description": "Discover at a glance the RegTech universe and what solutions this new technology offers to solve compliance and regulatory issues.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/lu/Images/promo_images/lu-regtech-new-1x1.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteLU",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Discover at a glance the RegTech universe and what solutions this new technology offers to solve compliance and regulatory issues.",
+                        "og:url": "https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/lu/Images/promo_images/lu-regtech-new-1x1.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "Analysis RegTech Universe 2021 Take a closer look at who is orbiting in the RegTech space RegTech (Regulatory Technology) is more than a buzzword, it is a very real movement that is already...",
+                        "datemodified": "2022-01-04T16:42:49Z",
+                        "articlesection": "Analysis",
+                        "alternativeheadline": "Take a closer look at who is orbiting in the RegTech space",
+                        "description": "RegTech Universe: Discover at a glance the RegTech companies to solve compliance and regulatory issues (Regulatory Reporting, Risk Management, Identity Management & Control ...)",
+                        "headline": "RegTech Universe 2021",
+                        "datepublished": "2017-01-20T00:00:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A general introduction to the regulation of virtual currencies in ...",
+            "htmlTitle": "A general introduction to the <b>regulation</b> of virtual currencies in ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=8ff2b682-4877-479a-9260-670eb660efc3",
+            "displayLink": "www.lexology.com",
+            "snippet": "Sep 7, 2020 ... ... regulatory frameworks governing virtual currencies in Luxembourg, ... a classification of tokens or cryptocurrencies underlying ICOs as\u00a0...",
+            "htmlSnippet": "Sep 7, 2020 <b>...</b> ... <b>regulatory</b> frameworks governing virtual currencies in <b>Luxembourg</b>, ... a classification of tokens or <b>cryptocurrencies</b> underlying ICOs as&nbsp;...",
+            "cacheId": "hmSjAAiUD58J",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=8ff2b682-4877-479a...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=8ff2b682-4877-479a...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "A general introduction to the regulation of virtual currencies in Luxembourg",
+                        "workarea": "Banking",
+                        "jurisdiction": "Luxembourg",
+                        "dc.date": "2020-09-07",
+                        "firmname": "Schiltz & Schiltz",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=8ff2b682-4877-479a-9260-670eb660efc3",
+                        "og:description": "This article reviews the need-to-know features of the legal and regulatory frameworks governing virtual currencies in Luxembourg, with particular regard to applicable securities and banking laws."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Three key cryptocurrency trends family offices should be aware of ...",
+            "htmlTitle": "Three key <b>cryptocurrency</b> trends family offices should be aware of ...",
+            "link": "https://www.ey.com/en_lu/unlocking-ambitions-of-private-businesses-and-their-owners/three-cryptocurrency-trends",
+            "displayLink": "www.ey.com",
+            "snippet": "Oct 8, 2021 ... Stricter Anti-Money Laundering (AML) and Know Your Client (KYC) regulations are placing increasingly heavy red tape demands on family offices.",
+            "htmlSnippet": "Oct 8, 2021 <b>...</b> Stricter Anti-Money Laundering (AML) and Know Your Client (KYC) <b>regulations</b> are placing increasingly heavy red tape demands on family offices.",
+            "cacheId": "x7s3RMYqn18J",
+            "formattedUrl": "https://www.ey.com/en_lu/unlocking...of.../three-cryptocurrency-trends",
+            "htmlFormattedUrl": "https://www.ey.com/en_lu/unlocking...of.../three-<b>cryptocurrency</b>-trends",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkzYIvq_I8ubJ9i-DiqKOG6aSlgmMCoJtKPwJofuYcz8QY8UbK5zs8lo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/unlocking-ambitions-of-private-businesses-and-their-owners/ey-it-guy-launching-his-first-mining-rig-for-cryptocurrency.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Three key cryptocurrency trends family offices should be aware of",
+                        "twitter:site": "@EYNews",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "More family offices are making crypto assets part of their investment strategy. But embracing the crypto economy also brings risk. Learn more.",
+                        "og:title": "Three key cryptocurrency trends family offices should be aware of",
+                        "og:url": "https://www.ey.com/en_lu/unlocking-ambitions-of-private-businesses-and-their-owners/three-cryptocurrency-trends",
+                        "og:description": "More family offices are making crypto assets part of their investment strategy. But embracing the crypto economy also brings risk. Learn more.",
+                        "twitter:image": "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/unlocking-ambitions-of-private-businesses-and-their-owners/ey-it-guy-launching-his-first-mining-rig-for-cryptocurrency.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/unlocking-ambitions-of-private-businesses-and-their-owners/ey-it-guy-launching-his-first-mining-rig-for-cryptocurrency.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

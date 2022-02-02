@@ -1,0 +1,549 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - JORDAN",
+                "totalResults": "644000",
+                "searchTerms": "JORDAN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - JORDAN",
+                "totalResults": "644000",
+                "searchTerms": "JORDAN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.374054,
+        "formattedSearchTime": "0.37",
+        "totalResults": "644000",
+        "formattedTotalResults": "644,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Jordan and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Jordan</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/jordan/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "The Central Bank of Jordan (CBJ) enacted legislation that prohibits all banks, currency exchange companies, financial entities, and payment service providers\u00a0...",
+            "htmlSnippet": "The Central Bank of <b>Jordan</b> (CBJ) enacted legislation that prohibits all banks, currency exchange companies, financial entities, and payment service providers&nbsp;...",
+            "cacheId": "n6wR98qGrXQJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/jordan/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>jordan</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbMaq9htgOTogIkDQAl__LLc5muN-8WxOmD--9llF1RLbHjC116Zfaa40c",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492735-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T23:02:56+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/jordan/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Jordan? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492735-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492735-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:39+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Jordan?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Jordan and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Jordan and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:39+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Jordan and Cryptocurrency Jordan Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In Jordan, the Government\u2019s unfavorable attitude towards cryptocurrency has fostered a hostile legal environment for the new technology. The Central Bank of...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/jordan/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492735-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The legal status of cryptocurrencies varies substantially from one jurisdiction to another, ... Contentious (interpretation of old laws, but bitcoin is not prohibited\u00a0...",
+            "htmlSnippet": "The legal status of <b>cryptocurrencies</b> varies substantially from one jurisdiction to another, ... Contentious (interpretation of old laws, but bitcoin is not prohibited&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Will the Central Bank of Jordan ever embrace cryptocurrency?...",
+            "htmlTitle": "Will the Central Bank of <b>Jordan</b> ever embrace <b>cryptocurrency</b>?...",
+            "link": "https://www.jordannews.jo/Section-29/Analysis/Will-the-Central-Bank-of-Jordan-ever-embrace-cryptocurrency-4482",
+            "displayLink": "www.jordannews.jo",
+            "snippet": "Jun 21, 2021 ... Cryptocurrencies, which are digital assets designed to operate as a medium of exchange, could help revitalize Jordan's semi-rentier economy,\u00a0...",
+            "htmlSnippet": "Jun 21, 2021 <b>...</b> <b>Cryptocurrencies</b>, which are digital assets designed to operate as a medium of exchange, could help revitalize <b>Jordan&#39;s</b> semi-rentier economy,&nbsp;...",
+            "cacheId": "jmXeEKfgTIMJ",
+            "formattedUrl": "https://www.jordannews.jo/.../Will-the-Central-Bank-of-Jordan-ever-embrace -cryptocurrency-4482",
+            "htmlFormattedUrl": "https://www.<b>jordan</b>news.jo/.../Will-the-Central-Bank-of-<b>Jordan</b>-ever-embrace -<b>cryptocurrency</b>-4482",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyB2C3RoeQlBi-HdnDnj3fwhT6DalRzOr_R4TKesGNOaWLrICoDLARIGn",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://imgy.pro/jordannews/993x560/6202121193516555608616.jpg",
+                        "og:image:width": "993",
+                        "og:type": "article",
+                        "article:section": "Analysis",
+                        "article:published_time": "2021-06-21T19:44:39",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Will the Central Bank of Jordan ever embrace cryptocurrency? - Jordan News\u00a0|\u00a0Latest News from Jordan, MENA",
+                        "og:site_name": "Jordan News\u00a0|\u00a0Latest News from Jordan, MENA",
+                        "og:title": "Will the Central Bank of Jordan ever embrace cryptocurrency? - Jordan News\u00a0|\u00a0Latest News from Jordan, MENA",
+                        "rating": "general",
+                        "og:image:height": "560",
+                        "og:updated_time": "2021-06-21 19:44:39",
+                        "og:description": "Cryptocurrencies, which are digital assets designed to operate as a medium of exchange, could help revitalize Jordan\u2019s semi-rentier economy, which heavily relies on migrant remittances. Such digital assets pave the way for efficient, low-cost cross-border money transfers, which would allow Jordanians abroad to easily transfer money into the Kingdom.",
+                        "twitter:creator": "@JordanNewsDaily",
+                        "twitter:image": "https://imgy.pro/jordannews/993x560/6202121193516555608616.jpg",
+                        "article:tag": "Technology,Bitcoin,cryptocurrency,CBJ,",
+                        "twitter:image:alt": "Will the Central Bank of Jordan ever embrace cryptocurrency?",
+                        "twitter:site": "@JordanNewsDaily",
+                        "article:modified_time": "2021-06-21T19:44:39",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "news_keywords": "Technology,Bitcoin,cryptocurrency,CBJ,",
+                        "twitter:description": "Cryptocurrencies, which are digital assets designed to operate as a medium of exchange, could help revitalize Jordan\u2019s semi-rentier",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.jordannews.jo/Section-29/Analysis/Will-the-Central-Bank-of-Jordan-ever-embrace-cryptocurrency-4482"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://imgy.pro/jordannews/993x560/6202121193516555608616.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies' next stage | Jordan Times",
+            "htmlTitle": "<b>Cryptocurrencies</b>&#39; next stage | <b>Jordan</b> Times",
+            "link": "https://www.jordantimes.com/opinion/aleh-tsyvinski/cryptocurrencies-next-stage",
+            "displayLink": "www.jordantimes.com",
+            "snippet": "Oct 10, 2021 ... But, far from spelling disaster for the crypto industry, regulation is vital to its long-term prospects. The crypto-market's development began\u00a0...",
+            "htmlSnippet": "Oct 10, 2021 <b>...</b> But, far from spelling disaster for the crypto industry, <b>regulation</b> is vital to its long-term prospects. The crypto-market&#39;s development began&nbsp;...",
+            "cacheId": "FHQjFh24USwJ",
+            "formattedUrl": "https://www.jordantimes.com/opinion/aleh.../cryptocurrencies-next-stage",
+            "htmlFormattedUrl": "https://www.<b>jordan</b>times.com/opinion/aleh.../<b>cryptocurrencies</b>-next-stage",
+            "pagemap": {
+                "Item": [
+                    {
+                        "num_replies": "0",
+                        "title": "Cryptocurrencies' next stage",
+                        "encoded": "NEW HAVEN \u2014 Regulators around the world are cracking down on cryptocurrencies. China has banned them. The United States is considering a range of measures aimed at reining them in. The Bank..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "article:published_time": "2021-10-10T23:24:26+03:00",
+                        "og:site_name": "Jordan Times",
+                        "og:image:url": "http://www.jordantimes.com/sites/default/files/styles/medium/public/jordan_times_logo.jpg",
+                        "article:modified_time": "2021-10-10T23:24:26+03:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:title": "Cryptocurrencies' next stage",
+                        "og:url": "http://www.jordantimes.com/opinion/aleh-tsyvinski/cryptocurrencies-next-stage",
+                        "og:updated_time": "2021-10-10T23:24:26+03:00",
+                        "og:description": "NEW HAVEN \u2014 Regulators around the world are cracking down on cryptocurrencies. China has banned them. The United States is considering a range of measures aimed at reining them in. The Bank of England is developing capital requirements for financial institutions that hold them. But, far from spelling disaster for the crypto industry, regulation is vital to its long-term prospects."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulating cryptocurrencies | Deloitte Jordan | ME PoV issue 25",
+            "htmlTitle": "Regulating <b>cryptocurrencies</b> | Deloitte <b>Jordan</b> | ME PoV issue 25",
+            "link": "https://www2.deloitte.com/jo/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Given the increasing demand for, and potential of cryptocurrencies, a number of countries have passed regulations affecting these digital assets.",
+            "htmlSnippet": "Given the increasing demand for, and potential of <b>cryptocurrencies</b>, a number of countries have passed <b>regulations</b> affecting these digital assets.",
+            "cacheId": "9oYxs1YA0pYJ",
+            "formattedUrl": "https://www2.deloitte.com/jo/en/pages/about...are.../cryptocurrencies.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/jo/en/pages/about...are.../<b>cryptocurrencies</b>.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulating cryptocurrencies | Deloitte Jordan | ME PoV issue 25",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "og:site_name": "Deloitte",
+                        "twitter:url": "https://www2.deloitte.com/jo/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html",
+                        "og:title": "Regulating cryptocurrencies | Deloitte Jordan | ME PoV issue 25",
+                        "og:description": "Virtual currency (VC) and digital currency are a new class of digital assets (money) that allow borderless transactions. The number and valuation of virtual currencies has risen to over 1,300 VCs with a total market capitalization of over US$465 billion as of December 2017 (Figure 1).",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@Deloitte",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Virtual currency (VC) and digital currency are a new class of digital assets (money) that allow borderless transactions. The number and valuation of virtual currencies has risen to over 1,300 VCs with a total market capitalization of over US$465 billion as of December 2017 (Figure 1).",
+                        "og:url": "https://www2.deloitte.com/jo/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Digital Currencies: International Actions and Regulations | Perkins ...",
+            "htmlTitle": "Digital Currencies: International Actions and <b>Regulations</b> | Perkins ...",
+            "link": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "AUSTRAC suspended two cryptocurrency exchanges after an investigation found ... Virtual currencies are not legal tender in Jordan and the Central Bank has\u00a0...",
+            "htmlSnippet": "AUSTRAC suspended two <b>cryptocurrency</b> exchanges after an investigation found ... Virtual currencies are not legal tender in <b>Jordan</b> and the Central Bank has&nbsp;...",
+            "cacheId": "UEw8kn0GGWQJ",
+            "formattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- regulations.html",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- <b>regulations</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfw1qAPhUYilP8ZWNa6aHs--yp4VcXc9AeSkT9IBkSdYrU6KHtKMWhoQ",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Perkins Coie LLP",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "msapplication-config": "/images/favicons/browserconfig.xml",
+                        "og:type": "website",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Perkins Coie",
+                        "og:title": "Digital Currencies: International Actions and Regulations",
+                        "apple-mobile-web-app-title": "Perkins Coie LLP",
+                        "og:description": "Last updated: January 2021\nNo Legal Advice or Attorney-Client Relationship: This chart is provided by Perkins Coie LLP\u2019s Blockchain, Digital Assets & Custody industry group for informational purposes ...",
+                        "og:image:secure_url": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable = no, maximum-scale=1.0",
+                        "og:url": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Jordan | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Jordan</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/jordan",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Jordan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Jordan</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "ehN6KYA9g40J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/jordan",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>jordan</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Jordan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Jordan | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Jordan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Jordan | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/jordan"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The debate about cryptocurrency and energy consumption ...",
+            "htmlTitle": "The debate about <b>cryptocurrency</b> and energy consumption ...",
+            "link": "https://techcrunch.com/2021/03/21/the-debate-about-cryptocurrency-and-energy-consumption/",
+            "displayLink": "techcrunch.com",
+            "snippet": "Mar 21, 2021 ... Jordan, in particular, is home to 10 million people. ... Wherever nations and organizations offer the most profitable mining regulations,\u00a0...",
+            "htmlSnippet": "Mar 21, 2021 <b>...</b> <b>Jordan</b>, in particular, is home to 10 million people. ... Wherever nations and organizations offer the most profitable mining <b>regulations</b>,&nbsp;...",
+            "cacheId": "_Wb_TN7NXuwJ",
+            "formattedUrl": "https://techcrunch.com/.../the-debate-about-cryptocurrency-and-energy- consumption/",
+            "htmlFormattedUrl": "https://techcrunch.com/.../the-debate-about-<b>cryptocurrency</b>-and-energy- consumption/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcukKSDwtIzKNOYaSo9r0Mk5Q5tT5pr5VbvGH09SfdbFJJ9O-iGxrutc",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://techcrunch.com/wp-content/uploads/2018/01/bitcoin-mining.jpg?w=534",
+                        "twitter:card": "summary_large_image",
+                        "sailthru.tags": "Crypto Economy",
+                        "og:site_name": "TechCrunch",
+                        "cxenseparse:keywords": "cryptocurrency,crypto economy",
+                        "cxenseparse:url": "https://techcrunch.com/2021/03/21/the-debate-about-cryptocurrency-and-energy-consumption/",
+                        "cxenseparse:image": "https://techcrunch.com/wp-content/uploads/2018/01/bitcoin-mining.jpg?w=534",
+                        "title": "The debate about cryptocurrency and energy consumption \u2013 TechCrunch",
+                        "msapplication-tileimage": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=270",
+                        "og:description": "Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.\u00a0 One such critic, DigiEconomist founder Alex de Vries, said he\u2019s \u201cnever seen anything that is as inefficient a\u2026",
+                        "cxenseparse:news_keywords": "cryptocurrency,crypto economy",
+                        "article:publisher": "https://www.facebook.com/techcrunch",
+                        "twitter:image": "https://techcrunch.com/wp-content/uploads/2018/01/bitcoin-mining.jpg?w=534",
+                        "cxenseparse:modified_time": "2021-03-19T00:31:19Z",
+                        "oath:guce:product-eu": "false",
+                        "oath:guce:consent-host": "guce.techcrunch.com",
+                        "cxenseparse:author": "Leigh Cuen",
+                        "twitter:site": "@techcrunch",
+                        "sailthru.title": "The debate about cryptocurrency and energy consumption",
+                        "og:site": "social.techcrunch.com",
+                        "fb:admins": "8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188",
+                        "cxenseparse:recs:publishtime": "2021-03-21T15:30:50Z",
+                        "sailthru.date": "2021-03-21 08:30:50",
+                        "og:type": "article",
+                        "twitter:title": "The debate about cryptocurrency and energy consumption",
+                        "wp-parsely_version": "2.4.1",
+                        "cxenseparse:title": "The debate about cryptocurrency and energy consumption",
+                        "cxenseparse:pageclass": "article",
+                        "og:title": "The debate about cryptocurrency and energy consumption \u2013 TechCrunch",
+                        "cxenseparse:description": "Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.\u00a0 One such critic, DigiEconomist founder Alex de Vries, said he\u2019s \u201cnever seen anything that is as inefficient as bitcoin.\u201d\u00a0 On the other side of the debate, [\u2026]",
+                        "sailthru.image.thumb": "https://techcrunch.com/wp-content/uploads/2018/01/bitcoin-mining.jpg?w=50",
+                        "fb:pages": "8062627951",
+                        "sailthru.description": "Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.\u00a0 One such critic, DigiEconomist founder Alex de Vries, said he\u2019s \u201cnever seen anything that is as inefficient as bitcoin.\u201d\u00a0 On the other side of the debate, [\u2026]",
+                        "fb:app_id": "187288694643718",
+                        "cxenseparse:posttype": "post",
+                        "viewport": "width=device-width",
+                        "oath:guce:inline-consent": "true",
+                        "cxenseparse:articleid": "2127248",
+                        "twitter:description": "Energy consumption has become the latest flashpoint for cryptocurrency. Critics decry it as an energy hog while proponents hail it for being less intensive than the current global economy.\u00a0 One such critic, DigiEconomist founder Alex de Vries, said he\u2019s \u201cnever seen anything that is as inefficient as bitcoin.\u201d\u00a0 On the other side of the debate, [\u2026]",
+                        "og:url": "https://social.techcrunch.com/2021/03/21/the-debate-about-cryptocurrency-and-energy-consumption/",
+                        "sailthru.author": "David Riggs",
+                        "sailthru.image.full": "https://techcrunch.com/wp-content/uploads/2018/01/bitcoin-mining.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://techcrunch.com/wp-content/uploads/2018/01/bitcoin-mining.jpg?w=534"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Jordan R. Silversmith | BakerHostetler",
+            "htmlTitle": "<b>Jordan</b> R. Silversmith | BakerHostetler",
+            "link": "https://www.bakerlaw.com/JordanRSilversmith",
+            "displayLink": "www.bakerlaw.com",
+            "snippet": "Jordan Silversmith enlists a passion for advocacy to benefit clients of his ... that explained FCPA rules and regulations to Latin American companies.",
+            "htmlSnippet": "<b>Jordan</b> Silversmith enlists a passion for advocacy to benefit clients of his ... that explained FCPA rules and <b>regulations</b> to Latin American companies.",
+            "cacheId": "x8xsWSR9KsUJ",
+            "formattedUrl": "https://www.bakerlaw.com/JordanRSilversmith",
+            "htmlFormattedUrl": "https://www.bakerlaw.com/<b>Jordan</b>RSilversmith",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsmEF3gA_zyiQVc6KuVk1FSajCCJPCA1OLY551CLQLsIjjJ6oWXl4BVoHx",
+                        "width": "307",
+                        "height": "164"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.bakerlaw.com/images/bio/248766_imageprint.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Jordan R. Silversmith",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1.0",
+                        "og:title": "Jordan R. Silversmith",
+                        "twitter:image": "https://www.bakerlaw.com/images/bio/248766_imageprint.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bakerlaw.com/images/bio/248766_imageprint.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

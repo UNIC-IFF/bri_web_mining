@@ -1,0 +1,547 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - JAMAICA",
+                "totalResults": "744000",
+                "searchTerms": "JAMAICA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - JAMAICA",
+                "totalResults": "744000",
+                "searchTerms": "JAMAICA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.396441,
+        "formattedSearchTime": "0.40",
+        "totalResults": "744000",
+        "formattedTotalResults": "744,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Jamaica and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Jamaica</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/jamaica/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Although Jamaica's legal framework lacks cryptocurrency-specific legislation, cryptocurrency is probably regulated by existing banking and securities\u00a0...",
+            "htmlSnippet": "Although <b>Jamaica&#39;s</b> legal framework lacks <b>cryptocurrency</b>-specific legislation, <b>cryptocurrency</b> is probably regulated by existing banking and securities&nbsp;...",
+            "cacheId": "FcLwrEs-9VUJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/jamaica/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>jamaica</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy4vfXcFjCNbbFrPjpGfiNdYADbiQ3kPGN5ewDbhsY2dol_KtlaDPAbnU",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492714-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:19:33+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/jamaica/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Jamaica? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "8 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492714-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492714-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:57+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Jamaica?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Jamaica and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Jamaica and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:05:57+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Jamaica and Cryptocurrency Jamaica Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In Jamaica, cryptocurrency is not explicitly prohibited because it is not specifically addressed in Jamaica\u2019s legislative framework. Nevertheless,...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/jamaica/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492714-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Jamaica | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Jamaica</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/jamaica",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Jamaica for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Jamaica</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "mhl8Aw0ayAEJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/jamaica",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>jamaica</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "Organization": [
+                    {
+                        "name": "Global Legal Insights",
+                        "url": "https://www.globallegalinsights.com/",
+                        "sameAs": "https://twitter.com/GLI_GLG"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Jamaica for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Jamaica | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Jamaica for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Jamaica | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/jamaica"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UNITED STATES - JAMAICA INCOME TAX CONVENTION ...",
+            "htmlTitle": "UNITED STATES - <b>JAMAICA</b> INCOME TAX CONVENTION ...",
+            "link": "https://www.irs.gov/pub/irs-trty/jamaica.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "foreign tax credit for Jamaican income taxes on bauxite profits. ... accordance with international law and the laws of Jamaica is an area within which the.",
+            "htmlSnippet": "foreign tax credit for <b>Jamaican</b> income taxes on bauxite profits. ... accordance with international law and the <b>laws</b> of <b>Jamaica</b> is an area within which the.",
+            "cacheId": "S2uStS4XhOMJ",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/jamaica.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>jamaica</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGzhrTIwaAgDQOvzjZadWrQLtUUODC17eJpwQV7xXaF2vg0l4GMDmiVN0",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802103637-04'00'",
+                        "creationdate": "D:20000322095409Z",
+                        "creator": "Microsoft Word - JAMAICAWEB",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "JAMAICAWEB.PDF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///4c1517419ab31c32cd40704c86158a71e0f2aeff3e817610c6972f64104c1e31"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "On 11 November 2021, Indonesian Ulema Council issued haram fatwa against use of cryptocurrencies as currency including Bitcoin, citing both Islamic laws and\u00a0...",
+            "htmlSnippet": "On 11 November 2021, Indonesian Ulema Council issued haram fatwa against use of <b>cryptocurrencies</b> as currency including Bitcoin, citing both Islamic <b>laws</b> and&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency gets spotlight in infrastructure bill - Jamaica Gleaner",
+            "htmlTitle": "<b>Cryptocurrency</b> gets spotlight in infrastructure bill - <b>Jamaica</b> Gleaner",
+            "link": "https://jamaica-gleaner.com/article/business/20210811/cryptocurrency-gets-spotlight-infrastructure-bill",
+            "displayLink": "jamaica-gleaner.com",
+            "snippet": "Aug 11, 2021 ... It could open the way for tighter regulation of cryptocurrency \u2013 something the Biden administration is moving towards as it also pushes for\u00a0...",
+            "htmlSnippet": "Aug 11, 2021 <b>...</b> It could open the way for tighter <b>regulation of cryptocurrency</b> \u2013 something the Biden administration is moving towards as it also pushes for&nbsp;...",
+            "cacheId": "v7zyjFRZeK4J",
+            "formattedUrl": "https://jamaica-gleaner.com/.../cryptocurrency-gets-spotlight-infrastructure- bill",
+            "htmlFormattedUrl": "https://<b>jamaica</b>-gleaner.com/.../<b>cryptocurrency</b>-gets-spotlight-infrastructure- bill",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdVhljfGbiX8P6EyOVz5PP-BR-9eS20Q0z63cMcewth1OffBoL0icDjEU",
+                        "width": "250",
+                        "height": "188"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://jamaica-gleaner.com/sites/default/files/styles/250px/public/media/article_images/2021/08/11/1413986/5184257.jpg?itok=pY6xs_1C",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency gets spotlight in infrastructure bill",
+                        "article:published_time": "2021-08-11T00:08:06-05:00",
+                        "cxenseparse:recs:modifiedtime": "2021-08-11T00:08:06-05:00",
+                        "article:modified_time": "2021-08-11T00:08:06-05:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=yes",
+                        "twitter:description": "What does bitcoin have to do with roads and bridges? A lot right now in the United States Congress. One way lawmakers propose to pay for the US$1-trillion infrastructure bill the Senate approved on Tuesday is by imposing tax-reporting requirements...",
+                        "og:title": "Cryptocurrency gets spotlight in infrastructure bill",
+                        "og:updated_time": "2021-08-11T00:08:06-05:00",
+                        "og:description": "What does bitcoin have to do with roads and bridges? A lot right now in the United States Congress. One way lawmakers propose to pay for the US$1-trillion infrastructure bill the Senate approved on Tuesday is by imposing tax-reporting requirements..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://jamaica-gleaner.com/sites/default/files/styles/250px/public/media/article_images/2021/08/11/1413986/5184257.jpg?itok=pY6xs_1C"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulatory Framework Exists For Introduction Of Central Bank ...",
+            "htmlTitle": "<b>Regulatory</b> Framework Exists For Introduction Of Central Bank ...",
+            "link": "https://jis.gov.jm/regulatory-framework-exists-for-introduction-of-central-bank-digital-currency/",
+            "displayLink": "jis.gov.jm",
+            "snippet": "Jul 2, 2021 ... It's a liability of the Bank of Jamaica and I want to compare that to cryptocurrencies that exist on the market.",
+            "htmlSnippet": "Jul 2, 2021 <b>...</b> It&#39;s a liability of the Bank of <b>Jamaica</b> and I want to compare that to <b>cryptocurrencies</b> that exist on the market.",
+            "cacheId": "IQYcquxQUQUJ",
+            "formattedUrl": "https://jis.gov.jm/regulatory-framework-exists-for-introduction-of-central- bank-digital-currency/",
+            "htmlFormattedUrl": "https://jis.gov.jm/<b>regulatory</b>-framework-exists-for-introduction-of-central- bank-digital-currency/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrskgMcALDWZ5zKrz9k5HCh3oGvY4NwFgiDKCh1mjCDD_7iJNJJTPZ0WW",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "tec-api-origin": "https://jis.gov.jm",
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-title": "Jamaica Information Service - The Voice of Jamaica",
+                        "mobile-web-app-capable": "yes",
+                        "msapplication-tileimage": "https://jis.gov.jm/media/cropped-favicon-500x500.png",
+                        "tec-api-version": "v1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://jis.gov.jm/media/2021/07/CBDC2-670x450.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to ...",
+            "htmlTitle": "Department of Justice Seizes $2.3 Million in <b>Cryptocurrency</b> Paid to ...",
+            "link": "https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside",
+            "displayLink": "www.justice.gov",
+            "snippet": "Jun 7, 2021 ... Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to the ... Division's Counterintelligence and Export Control Section.",
+            "htmlSnippet": "Jun 7, 2021 <b>...</b> Department of Justice Seizes $2.3 Million in <b>Cryptocurrency</b> Paid to the ... Division&#39;s Counterintelligence and Export <b>Control</b> Section.",
+            "cacheId": "ZYjYBniMOKkJ",
+            "formattedUrl": "https://www.justice.gov/.../department-justice-seizes-23-million- cryptocurrency-paid-ransomware-extortionists-darkside",
+            "htmlFormattedUrl": "https://www.justice.gov/.../department-justice-seizes-23-million- <b>cryptocurrency</b>-paid-ransomware-extortionists-darkside",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShz09gnUqIC5hApYlhj3effRqZnE3PNLfAEDVK3S253G-8Uz1D95Zs7qI",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "Item": [
+                    {
+                        "date": "2021-06-07T00:00:00-04:00",
+                        "title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to the Ransomware Extortionists Darkside"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+                        "og:type": "article",
+                        "twitter:title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to",
+                        "article:published_time": "2021-06-07T14:41:48-04:00",
+                        "handheldfriendly": "true",
+                        "article:modified_time": "2021-06-08T08:42:56-04:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Department of Justice today announced that it has seized 63.7 bitcoins currently valued at over $2.3 million.",
+                        "mobileoptimized": "width",
+                        "og:title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to the Ransomware Extortionists Darkside",
+                        "og:description": "The Department of Justice today announced that it has seized 63.7 bitcoins currently valued at over $2.3 million.",
+                        "twitter:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bank of Jamaica Invites Tech Companies to Test Digital Currency ...",
+            "htmlTitle": "Bank of <b>Jamaica</b> Invites Tech Companies to Test Digital Currency ...",
+            "link": "https://cointelegraph.com/news/bank-of-jamaica-invites-tech-companies-to-test-digital-currency-solutions",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jul 21, 2020 ... Jamaica's central bank has invited technology solution providers to ... the Fintech Regulatory Sandbox recently established by the bank It\u00a0...",
+            "htmlSnippet": "Jul 21, 2020 <b>...</b> <b>Jamaica&#39;s</b> central bank has invited technology solution providers to ... the Fintech <b>Regulatory</b> Sandbox recently established by the bank It&nbsp;...",
+            "cacheId": "VWK26hr-x64J",
+            "formattedUrl": "https://cointelegraph.com/.../bank-of-jamaica-invites-tech-companies-to-test- digital-currency-solutions",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../bank-of-<b>jamaica</b>-invites-tech-companies-to-test- digital-currency-solutions",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzE_dysy1XKlOa3XAgtBSWCSI9DPFG14oRM74RhFNeKbPMqP7WjnU1yd0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80MTk5NmYwY2QxZGY3MjhhMWJkNmVmMmY3MGFlYTE2Mi5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Bank of Jamaica Invites Tech Companies to Test Digital Currency Solutions",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Bank of Jamaica Invites Tech Companies to Test Digital Currency Solutions",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Jamaica\u2019s central bank has invited technology solution providers to develop and test a potential CBDC",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80MTk5NmYwY2QxZGY3MjhhMWJkNmVmMmY3MGFlYTE2Mi5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Jamaica\u2019s central bank has invited technology solution providers to develop and test a potential CBDC",
+                        "og:url": "https://cointelegraph.com/news/bank-of-jamaica-invites-tech-companies-to-test-digital-currency-solutions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80MTk5NmYwY2QxZGY3MjhhMWJkNmVmMmY3MGFlYTE2Mi5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Caribbean Cryptocurrency - Importance, regulations & more ...",
+            "htmlTitle": "Caribbean <b>Cryptocurrency</b> - Importance, <b>regulations</b> &amp; more ...",
+            "link": "https://relocateantigua.com/caribbean-cryptocurrency-bitcoin/",
+            "displayLink": "relocateantigua.com",
+            "snippet": "Currently, cryptocurrencies are not regulated in Jamaica. In 2018 the Bank of Jamaica even warned against the use of virtual currencies and the risk due to\u00a0...",
+            "htmlSnippet": "Currently, <b>cryptocurrencies</b> are not regulated in <b>Jamaica</b>. In 2018 the Bank of <b>Jamaica</b> even warned against the use of virtual currencies and the risk due to&nbsp;...",
+            "cacheId": "BVRpA3XWSAEJ",
+            "formattedUrl": "https://relocateantigua.com/caribbean-cryptocurrency-bitcoin/",
+            "htmlFormattedUrl": "https://relocateantigua.com/caribbean-<b>cryptocurrency</b>-bitcoin/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrlSSTT4lSAacB0RSOL0Hc-McCv17h4AGFCO73lCvLcGdQcLW9EHf5qP8",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://relocateantigua.com/wp-content/uploads/2020/11/Cryptocurrency-and-Bitcoin-in-the-Caribbean.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-11-09T15:47:00+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Relocate Antigua",
+                        "og:title": "Caribbean Cryptocurrency - Importance, regulations & more! - Relocate Antigua Magazine",
+                        "og:image:height": "600",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://relocateantigua.com/wp-content/uploads/2020/12/cropped-Relocate-Antigua-Favicon-1-270x270.png",
+                        "og:description": "Meta-Description Full information on the Caribbean cryptocurrency \u2714\ufe0f Bitcoin Caribbean \u2714\ufe0f Barbados cryptocurrency \u2714\ufe0f Antigua and Barbuda Bitcoin \u2714\ufe0f",
+                        "article:publisher": "https://www.facebook.com/AntiguaRelocate/",
+                        "twitter:data1": "RA Team",
+                        "twitter:data2": "10 minutes",
+                        "article:modified_time": "2021-03-24T14:29:42+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://relocateantigua.com/caribbean-cryptocurrency-bitcoin/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://relocateantigua.com/wp-content/uploads/2020/11/Cryptocurrency-and-Bitcoin-in-the-Caribbean.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bank of Jamaica Reminder Caution on Cryptocurrencies \u00bb Bank of ...",
+            "htmlTitle": "Bank of <b>Jamaica</b> Reminder Caution on <b>Cryptocurrencies</b> \u00bb Bank of ...",
+            "link": "https://boj.org.jm/bank-of-jamaica-reminder-caution-on-cryptocurrencies/",
+            "displayLink": "boj.org.jm",
+            "snippet": "Jul 9, 2021 ... Cryptocurrencies are digital currencies that are not issued or guaranteed by a central bank or a monetary authority. In addition,\u00a0...",
+            "htmlSnippet": "Jul 9, 2021 <b>...</b> <b>Cryptocurrencies</b> are digital currencies that are not issued or guaranteed by a central bank or a monetary authority. In addition,&nbsp;...",
+            "cacheId": "fh21vbZECWoJ",
+            "formattedUrl": "https://boj.org.jm/bank-of-jamaica-reminder-caution-on-cryptocurrencies/",
+            "htmlFormattedUrl": "https://boj.org.jm/bank-of-<b>jamaica</b>-reminder-caution-on-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlOyreR5lVNnN2GHOldVf5pZCWKJ-A1Sa_6ozDrBcIzPhBSAv4JRGGR0I",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "numberofitems": "3",
+                        "og:image": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2020/01/Notices.jpg?strip=all&lossy=1&ssl=1",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-09T20:34:49+00:00",
+                        "og:image:width": "1050",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bank of Jamaica",
+                        "og:title": "Bank of Jamaica Reminder Caution on Cryptocurrencies \u00bb Bank of Jamaica",
+                        "og:image:height": "700",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2019/07/cropped-BOJ-Logo-Fixed-Gator-BLACK-04-Converted-01-e1563563256699-1.png?strip=all&lossy=1&resize=270%2C270&ssl=1",
+                        "og:description": "Cryptocurrencies are digital currencies that are not issued or guaranteed by a central bank or a monetary authority.\u00a0 In addition, cryptocurrencies are not legal tender in Jamaica.",
+                        "twitter:creator": "@CentralBankJA",
+                        "article:publisher": "https://www.facebook.com/CentralBankJA",
+                        "twitter:site": "@CentralBankJA",
+                        "article:modified_time": "2021-11-03T00:38:08+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_GB",
+                        "itemlistorder": "Ascending",
+                        "og:url": "https://boj.org.jm/bank-of-jamaica-reminder-caution-on-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2020/01/Notices.jpg?strip=all&lossy=1&ssl=1"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Notices",
+                        "name": "Notices",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Bank of Jamaica Reminder Caution on Cryptocurrencies",
+                        "name": "Bank of Jamaica Reminder Caution on Cryptocurrencies",
+                        "position": "3"
+                    }
+                ]
+            }
+        }
+    ]
+}

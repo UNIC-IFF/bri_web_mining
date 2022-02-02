@@ -1,0 +1,647 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - GIBRALTAR",
+                "totalResults": "659000",
+                "searchTerms": "GIBRALTAR",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - GIBRALTAR",
+                "totalResults": "659000",
+                "searchTerms": "GIBRALTAR",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.34751,
+        "formattedSearchTime": "0.35",
+        "totalResults": "659000",
+        "formattedTotalResults": "659,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "'Blockchain Rock': Gibraltar moves to become world's first ...",
+            "htmlTitle": "&#39;Blockchain Rock&#39;: <b>Gibraltar</b> moves to become world&#39;s first ...",
+            "link": "https://www.theguardian.com/technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub",
+            "displayLink": "www.theguardian.com",
+            "snippet": "Dec 27, 2021 ... The introduction of crypto regulation is having a similar effect: ... Gibraltar's regulator has so far approved 14 cryptocurrency and\u00a0...",
+            "htmlSnippet": "Dec 27, 2021 <b>...</b> The introduction of crypto <b>regulation</b> is having a similar effect: ... <b>Gibraltar&#39;s</b> regulator has so far approved 14 <b>cryptocurrency</b> and&nbsp;...",
+            "cacheId": "Cn1WtaqPb9cJ",
+            "formattedUrl": "https://www.theguardian.com/.../blockchain-rock-gibraltar-moves-to-become -worlds-first-cryptocurrency-hub",
+            "htmlFormattedUrl": "https://www.theguardian.com/.../blockchain-rock-<b>gibraltar</b>-moves-to-become -worlds-first-<b>cryptocurrency</b>-hub",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu6MBBk1wYEDjjvC0CHkG-Ant3OJlFbrKMMwNlup4gy_9x2xXRbSwuJcA",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i.guim.co.uk/img/media/03c03b89bab4f16a4d9c40884d6cc726a522983e/694_0_2689_1614/master/2689.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a4da76dd4cb97d6925f8d7153e6014",
+                        "twitter:app:id:googleplay": "com.guardian",
+                        "twitter:app:url:iphone": "gnmguardian://technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub?contenttype=Article&source=twitter",
+                        "theme-color": "#052962",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-12-27T08:00:46.000Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "the Guardian",
+                        "twitter:app:url:ipad": "gnmguardian://technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub?contenttype=Article&source=twitter",
+                        "twitter:app:name:googleplay": "The Guardian",
+                        "al:ios:url": "gnmguardian://technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub?contenttype=Article&source=applinks",
+                        "twitter:app:id:iphone": "409128287",
+                        "og:description": "Territory\u2019s financial sector risks reputational damage and diplomatic sanctions if complex regulations of crypto hub fail",
+                        "twitter:creator": "@kalyeena",
+                        "article:publisher": "https://www.facebook.com/theguardian",
+                        "al:ios:app_store_id": "409128287",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://i.guim.co.uk/img/media/03c03b89bab4f16a4d9c40884d6cc726a522983e/694_0_2689_1614/master/2689.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4202ec9612b0a4f5e4d8c41e347ce23f",
+                        "twitter:site": "@guardian",
+                        "article:modified_time": "2021-12-27T10:01:50.000Z",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "al:ios:app_name": "The Guardian",
+                        "og:title": "\u2018Blockchain Rock\u2019: Gibraltar moves to become world\u2019s first cryptocurrency hub",
+                        "og:image:height": "720",
+                        "twitter:app:id:ipad": "409128287",
+                        "article:author": "https://www.theguardian.com/profile/kalyeena-makortoff",
+                        "article:tag": "Cryptocurrencies,Financial sector,Business,E-commerce,Internet,Stock markets,Bitcoin,Doge,Gibraltar,Europe,Tax havens,Blockchain,Technology,Malta",
+                        "fb:app_id": "180444840287",
+                        "twitter:app:url:googleplay": "guardian://www.theguardian.com/technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub",
+                        "twitter:app:name:ipad": "The Guardian",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "og:url": "https://www.theguardian.com/technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub",
+                        "twitter:app:name:iphone": "The Guardian"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.guim.co.uk/img/media/03c03b89bab4f16a4d9c40884d6cc726a522983e/694_0_2689_1614/master/2689.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a4da76dd4cb97d6925f8d7153e6014"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Gibraltar | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Gibraltar</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/gibraltar",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Oct 21, 2021 ... Presently, there are no border restrictions in place on declaring cryptocurrency holdings. Instead, these restrictions are usually in place for\u00a0...",
+            "htmlSnippet": "Oct 21, 2021 <b>...</b> Presently, there are no border restrictions in place on declaring <b>cryptocurrency</b> holdings. Instead, these restrictions are usually in place for&nbsp;...",
+            "cacheId": "LOt9dNnScVUJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/gibraltar",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>gibraltar</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Gibraltar chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1fJ5nkpYdLAxNBbmT-GJ4cv1TxkEaXU-MHY3FvDLe81AvZpuLHxsPxIQ5",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Joey Garcia",
+                        "url": "Joey Garcia"
+                    },
+                    {
+                        "name": "Jonathan Garcia",
+                        "url": "Jonathan Garcia"
+                    },
+                    {
+                        "name": "Jake Collado",
+                        "url": "Jake Collado"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/pnOfQhazkSgpaObdqdTo01RUL5YjUdYhBqJmijt5.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Gibraltar chapter written by Joey Garcia - ISOLAS LLP and Jonathan Garcia - ISOLAS LLP and Jake Collado - ISOLAS LLP covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Gibraltar | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Gibraltar chapter written by Joey Garcia - ISOLAS LLP and Jonathan Garcia - ISOLAS LLP and Jake Collado - ISOLAS LLP covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Gibraltar | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/gibraltar"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/pnOfQhazkSgpaObdqdTo01RUL5YjUdYhBqJmijt5.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Gibraltar I Crypto Regulations",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in <b>Gibraltar</b> I Crypto <b>Regulations</b>",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-gibraltar/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Nov 7, 2018 ... Gibraltar is a global leader in cryptocurrency regulation: while cryptocurrency is not considered legal tender in the country, cryptocurrency\u00a0...",
+            "htmlSnippet": "Nov 7, 2018 <b>...</b> <b>Gibraltar</b> is a global leader in <b>cryptocurrency regulation</b>: while <b>cryptocurrency</b> is not considered legal tender in the country, <b>cryptocurrency</b>&nbsp;...",
+            "cacheId": "NjgxpB7W7tkJ",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations- gibraltar/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>- <b>gibraltar</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTUwAJKWyvB-4d7TLZ8dcmko0Up1s8jfLe0tACaupaFRQJaKGsLcrdAQ",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/11/Copy-of-K-KnowY-YourC-Customer-16.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in Gibraltar",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in Gibraltar",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "Gibraltar is a global leader in cryptocurrency regulation: cryptocurrency is not considered legal tender in the country but cryptocurrency exchanges are legal and operate within a well-defined regulatory framework.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "2 minutes",
+                        "parsely-tags": "cryptocurrency regulations Gibraltarcrypto regulations in Gibraltar aml crypto Gibraltarcryptocurrency exchanges regulations Gibraltar",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-15T10:05:45+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-gibraltar/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/11/Copy-of-K-KnowY-YourC-Customer-16.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gibraltar moves ahead with world's first initial coin offering rules ...",
+            "htmlTitle": "<b>Gibraltar</b> moves ahead with world&#39;s first initial coin offering rules ...",
+            "link": "https://www.reuters.com/article/us-gibraltar-markets-cryptocurrencies/gibraltar-moves-ahead-with-worlds-first-initial-coin-offering-rules-idUSKBN1FT1YN",
+            "displayLink": "www.reuters.com",
+            "snippet": "Feb 9, 2018 ... Gibraltar will introduce the world's first regulations for initial coin offerings with dedicated rules for the cryptocurrency sector whose\u00a0...",
+            "htmlSnippet": "Feb 9, 2018 <b>...</b> <b>Gibraltar</b> will introduce the world&#39;s first <b>regulations</b> for initial coin offerings with dedicated rules for the <b>cryptocurrency</b> sector whose&nbsp;...",
+            "cacheId": "Ur5k-stT36AJ",
+            "formattedUrl": "https://www.reuters.com/...gibraltar...cryptocurrencies/gibraltar-moves-ahead- with-worlds-first-initial-coin-offering-rules-idUSKBN1FT1YN",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>gibraltar</b>...<b>cryptocurrencies</b>/<b>gibraltar</b>-moves-ahead- with-worlds-first-initial-coin-offering-rules-idUSKBN1FT1YN",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUutxSKP7Pcr74u6y26owikRaKC0P9vEveFTottxIaiZWApgH4538_Osk",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20180209&t=2&i=1229809909&r=LYNXMPEE1815Z&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2018-02-09T13:50:11Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "technologyNews;internetNews;innovationIntellectualProperty;RCOMUS_Fintech;consolidated-business;US-The-Wire;top-100-innovators;rcom-eur-markets;nec-transportation;nec-retail;rcom-europe;USWire_EL;innovation;RCOM-fintech-extended;everythingNews;finance-upclose",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Gibraltar will introduce the world's first regulations for initial coin offerings with dedicated rules for the cryptocurrency sector whose fast growth has triggered concern among central bankers.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2018-02-09T13:50:11Z",
+                        "og:article:section": "Future of Money",
+                        "analyticsattributes.articledate": "2018-02-09T13:50:11Z",
+                        "dcsext.dartzone": "reuters.com/business/finance/article",
+                        "author": "Huw Jones",
+                        "analyticsattributes.keywords": "US,GIBRALTAR,MARKETS,CRYPTOCURRENCIES,Corporate Events,Banks (TRBC level 4),European Union,Europe,Financials (Legacy),Financials (TRBC level 1),France,G20,United Kingdom,Government Borrowing Requirement,Gibraltar,Initial Public Offerings,Major News,Government / Politics,Corporate / Market Regulation,Science / Technology,Western Europe",
+                        "og:article:published_time": "2018-02-09T13:42:03Z",
+                        "og:article:tag": "US,GIBRALTAR,MARKETS,CRYPTOCURRENCIES,Corporate Events,Banks (TRBC level 4),European Union,Europe,Financials (Legacy),Financials (TRBC level 1),France,G20,United Kingdom,Government Borrowing Requirement,Gibraltar,Initial Public Offerings,Major News,Government / Politics,Corporate / Market Regulation,Science / Technology,Western Europe",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20180209&t=2&i=1229809909&r=LYNXMPEE1815Z&w=800",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20180209&t=2&i=1229809909&r=LYNXMPEE1815Z&w=800",
+                        "sailthru.author": "Huw Jones",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Gibraltar moves ahead with world's first initial coin offering rules",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "BACT,BNKS,EU,EUROP,FIN,FINS,FR,G20,GB,GBR,GI,IPO,NEWS1,POL,REGS,SCI,WEU",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20180209&t=2&i=1229809909&r=LYNXMPEE1815Z&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;GIBRALTAR;MARKETS;CRYPTOCURRENCIES;Corporate Events;Banks (TRBC level 4);European Union;Europe;Financials (Legacy);Financials (TRBC level 1);France;G20;United Kingdom;Government Borrowing Requirement;Gibraltar;Initial Public Offerings;Major News;Government / Politics;Corporate / Market Regulation;Science / Technology;Western Europe",
+                        "sailthru.title": "Gibraltar moves ahead with world's first initial coin offering rules",
+                        "analyticsattributes.contenttitle": "Gibraltar moves ahead with world's first initial coin offering rules",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-gibraltar-markets-cryptocurrencies-idUSKBN1FT1YN",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Huw Jones",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2018-02-09T13:50:11Z",
+                        "og:type": "article",
+                        "twitter:title": "Gibraltar moves ahead with world's first initial coin offering rules",
+                        "og:title": "Gibraltar moves ahead with world's first initial coin offering rules",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-GIBRALTAR-MARKETS-CRYPTOCURRENCIES",
+                        "analyticsattributes.author": "Huw Jones",
+                        "analyticsattributes.contentchannel": "Business - Finance",
+                        "sailthru.description": "Gibraltar will introduce the world's first regulations for initial coin offerings with dedicated rules for the cryptocurrency sector whose fast growth has triggered concern among central bankers.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Gibraltar will introduce the world's first regulations for initial coin offerings with dedicated rules for the cryptocurrency sector whose fast growth has triggered concern among central bankers.",
+                        "analyticsattributes.topicn2names": "Corporate Events,Banks (TRBC level 4),European Union,Europe,Financials (Legacy),Financials (TRBC level 1),France,G20,United Kingdom,Government Borrowing Requirement,Gibraltar,Initial Public Offerings,Major News,Government / Politics,Corporate / Market Regulation,Science / Technology,Western Europe",
+                        "og:url": "https://www.reuters.com/article/us-gibraltar-markets-cryptocurrencies-idUSKBN1FT1YN"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20180209&t=2&i=1229809909&r=LYNXMPEE1815Z&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Have a Cryptocurrency Company? Bermuda, Malta or Gibraltar ...",
+            "htmlTitle": "Have a <b>Cryptocurrency</b> Company? Bermuda, Malta or <b>Gibraltar</b> ...",
+            "link": "https://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Jul 29, 2018 ... Gibraltar is in the final stages before voting on regulations that, similar to Malta's, would let companies issue and trade digital tokens.",
+            "htmlSnippet": "Jul 29, 2018 <b>...</b> <b>Gibraltar</b> is in the final stages before voting on <b>regulations</b> that, similar to Malta&#39;s, would let companies issue and trade digital tokens.",
+            "formattedUrl": "https://www.nytimes.com/.../cryptocurrency-bermuda-malta-gibraltar.html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../<b>cryptocurrency</b>-bermuda-malta-<b>gibraltar</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQRVBNkm-lMKwqs0V847owklBBYvY52JcQW0UW682jqyAxDveX0arNH6Vu",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static01.nyt.com/images/2018/07/30/business/30crypto/30crypto-facebookJumbo.jpg?year=2018&h=550&w=1050&s=d521a1d4ca68e3735126413869b7f1af873221fe2f15825764621725cf972505&k=ZQJBKqZ0VN",
+                        "nyt_uri": "nyt://article/067ce07f-2b42-5d3a-9cb0-38581b8c4387",
+                        "twitter:app:id:googleplay": "com.nytimes.android",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2018-07-29T20:16:47.000Z",
+                        "pt": "article",
+                        "twitter:url": "https://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html",
+                        "pdate": "20180729",
+                        "articleid": "100000006000558",
+                        "al:android:package": "com.nytimes.android",
+                        "al:ipad:app_store_id": "357066198",
+                        "twitter:app:name:googleplay": "NYTimes",
+                        "og:description": "With their eyes on blockchain jobs and revenue, small countries and territories are competing to become the go-to destinations for entrepreneurs and projects.",
+                        "twitter:image": "https://static01.nyt.com/images/2018/07/30/business/30crypto/30crypto-videoSixteenByNine3000.jpg?year=2018&h=1689&w=3000&s=415204c33efe5114428307313ec44fe44f7b6315445243e4febf116d2681fc11&k=ZQJBKqZ0VN&tw=1",
+                        "pst": "News",
+                        "al:iphone:app_name": "NYTimes",
+                        "article:modified_time": "2018-07-29T20:16:47.000Z",
+                        "news_keywords": "Virtual Currency;Cryptocurrency,Relocation,Regulation and Deregulation,blockchain,Legislation,Bermuda,Gibraltar,Malta,Liechtenstein",
+                        "article:content_tier": "metered",
+                        "msapplication-starturl": "https://www.nytimes.com",
+                        "image": "https://static01.nyt.com/images/2018/07/30/business/30crypto/30crypto-facebookJumbo.jpg?year=2018&h=550&w=1050&s=d521a1d4ca68e3735126413869b7f1af873221fe2f15825764621725cf972505&k=ZQJBKqZ0VN",
+                        "og:type": "article",
+                        "twitter:title": "Have a Cryptocurrency Company? Bermuda, Malta or Gibraltar Wants You (Published 2018)",
+                        "article:section": "Technology",
+                        "cg": "technology",
+                        "pubp_event_id": "pubp://event/0bd19a807ca540a881613e3fb6799185",
+                        "og:title": "Have a Cryptocurrency Company? Bermuda, Malta or Gibraltar Wants You (Published 2018)",
+                        "url": "https://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html",
+                        "article:tag": "Virtual Currency",
+                        "al:iphone:url": "nytimes://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html",
+                        "al:android:url": "nyt://article/067ce07f-2b42-5d3a-9cb0-38581b8c4387",
+                        "twitter:app:url:googleplay": "nyt://article/067ce07f-2b42-5d3a-9cb0-38581b8c4387",
+                        "fb:app_id": "9869919170",
+                        "al:ipad:url": "nytimes://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html",
+                        "byl": "By Nathaniel Popper",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "With their eyes on blockchain jobs and revenue, small countries and territories are competing to become the go-to destinations for entrepreneurs and projects.",
+                        "al:iphone:app_store_id": "284862083",
+                        "al:ipad:app_name": "NYTimes",
+                        "og:url": "https://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html",
+                        "al:android:app_name": "NYTimes",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2018/07/30/business/30crypto/30crypto-facebookJumbo.jpg?year=2018&h=550&w=1050&s=d521a1d4ca68e3735126413869b7f1af873221fe2f15825764621725cf972505&k=ZQJBKqZ0VN"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency in Selected Jurisdictions",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> in Selected Jurisdictions",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2018298388/2018298388.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Regulation of Cryptocurrency in. Selected Jurisdictions. Argentina \u2022 Australia \u2022 Belarus \u2022 Brazil \u2022 Canada. China \u2022 France \u2022 Gibraltar \u2022 Iran \u2022 Israel \u2022\u00a0...",
+            "htmlSnippet": "<b>Regulation of Cryptocurrency</b> in. Selected Jurisdictions. Argentina \u2022 Australia \u2022 Belarus \u2022 Brazil \u2022 Canada. China \u2022 France \u2022 <b>Gibraltar</b> \u2022 Iran \u2022 Israel \u2022&nbsp;...",
+            "cacheId": "ucnl_aYAWVIJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2018298388.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2018298388.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3H1HSx_H_769GeMGUpVySOw10zJ0i1sPV7s91X7khC4_Au07mRkMeycXW",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210607120549-04'00'",
+                        "creationdate": "D:20180611152243-04'00'",
+                        "creator": "Adobe Acrobat Pro DC 15.17.20050",
+                        "author": "Goitom, Hanibal",
+                        "subject": "This report by the Law Library of Congress provides information on the regulation of cryptocurrency in Argentina, Australia, Belarus, Brazil, Canada, China, France, Gibraltar, Iran, Israel, Japan, Jersey, Mexico, and Switzerland.",
+                        "producer": "Adobe Acrobat Pro DC 15.17.20050",
+                        "title": "Regulation of Cryptocurrency in Selected Jurisdictions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///58b7c868836bc1f819c670ec8d555ee0bb68dcc8e2ce02e7faae35d5dea95d64"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency and Initial Coin Offerings (ICOs) in ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> and Initial Coin Offerings (ICOs) in ...",
+            "link": "https://charltonsquantum.com/regulation-cryptocurrency-initial-coin-offerings-ico-gibraltar/",
+            "displayLink": "charltonsquantum.com",
+            "snippet": "Jun 29, 2021 ... Gibraltar is an example of a jurisdiction which has introduced regulations aimed at attracting blockchain and crypto companies.",
+            "htmlSnippet": "Jun 29, 2021 <b>...</b> <b>Gibraltar</b> is an example of a jurisdiction which has introduced <b>regulations</b> aimed at attracting blockchain and crypto companies.",
+            "cacheId": "rnr9uiddgIAJ",
+            "formattedUrl": "https://charltonsquantum.com/regulation-cryptocurrency-initial-coin- offerings-ico-gibraltar/",
+            "htmlFormattedUrl": "https://charltonsquantum.com/<b>regulation</b>-<b>cryptocurrency</b>-initial-coin- offerings-ico-<b>gibraltar</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTol6hatEvZwQLgy-WFjWA_s7jGbhTYi7Np6tcfi6jmXMkBWiHKYim7wS0",
+                        "width": "262",
+                        "height": "192"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "msapplication-tileimage": "https://charltonsquantum.com/wp-content/uploads/2021/09/cropped-5-icon-270x270.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://charltonsquantum.com/legal/our-work/regulation-cryptocurrency-initial-coin-offerings-ico-gibraltar.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Gibraltar | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Gibraltar</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/gibraltar",
+            "displayLink": "iclg.com",
+            "snippet": "1.2 Are there any types of fintech business that are at present prohibited or restricted in your jurisdiction (for example cryptocurrency-based businesses)?.",
+            "htmlSnippet": "1.2 Are there any types of fintech business that are at present prohibited or restricted in your jurisdiction (for example <b>cryptocurrency</b>-based businesses)?.",
+            "cacheId": "UFdZeeUHwAwJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/gibraltar",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>gibraltar</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxNe2Npy5kFsptxNZhjBD3cwe4Dh6hd4iCaxXc8Gt_aaqCB_EaO4I4co",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/3xd48dl2xvGAOYrslNe60Qp8L6P5Bx4skENmwhuG.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Gibraltar of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/3xd48dl2xvGAOYrslNe60Qp8L6P5Bx4skENmwhuG.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "Qs5okEbr8qL7dYng40FonNbJ9wwhXemC43DuB6Vb",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Gibraltar |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Gibraltar |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Gibraltar |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Gibraltar of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/gibraltar",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/3xd48dl2xvGAOYrslNe60Qp8L6P5Bx4skENmwhuG.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gibraltar moves to tighten regulation of cryptocurrencies",
+            "htmlTitle": "<b>Gibraltar</b> moves to tighten <b>regulation of cryptocurrencies</b>",
+            "link": "https://www.internationalinvestment.net/news/4014264/gibraltar-moves-tighten-regulation-cryptocurrencies",
+            "displayLink": "www.internationalinvestment.net",
+            "snippet": "Apr 23, 2020 ... Gibraltar, one of the world's leading jurisdictions for cryptocurrency trading, has said it is working to ensure regulation of\u00a0...",
+            "htmlSnippet": "Apr 23, 2020 <b>...</b> <b>Gibraltar</b>, one of the world&#39;s leading jurisdictions for <b>cryptocurrency</b> trading, has said it is working to ensure <b>regulation of</b>&nbsp;...",
+            "cacheId": "couyF2pbMn4J",
+            "formattedUrl": "https://www.internationalinvestment.net/.../gibraltar-moves-tighten-regulation -cryptocurrencies",
+            "htmlFormattedUrl": "https://www.internationalinvestment.net/.../<b>gibraltar</b>-moves-tighten-<b>regulation</b> -<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStATeaNksC8qSJQk2S9mQH8DumbDWTvruad036W5B5XBXT7D4mHwj9Y3UI",
+                        "width": "285",
+                        "height": "177"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Christopher Copper-Ind"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "International Investment"
+                    }
+                ],
+                "rel": [
+                    {
+                        "rel": "syndication-source",
+                        "url": "https://www.internationalinvestment.net/news/4014264/gibraltar-moves-tighten-regulation-cryptocurrencies"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#283783",
+                        "og:image": "https://image.chitra.live/api/v1/wps/530ff7f/b6d8cbd2-4e0b-45da-b891-23fe2b7b6763/6/Gibraltar-370x229.jpg",
+                        "article:published_time": "2020-04-23T08:45:34+01:00",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "InternationalInvestment",
+                        "handheldfriendly": "True",
+                        "twitter:domain": "//www.internationalinvestment.net/",
+                        "twitter:url": "https://www.internationalinvestment.net/news/4014264/gibraltar-moves-tighten-regulation-cryptocurrencies",
+                        "powered by": "Kreatio Platform",
+                        "og:title": "Gibraltar moves to tighten regulation of cryptocurrencies",
+                        "msapplication-tileimage": "https://www.internationalinvestment.net/png/favicons/mstile-144x144.png?100518",
+                        "og:description": "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide.",
+                        "twitter:creator": "@intlinvestment",
+                        "twitter:image": "https://image.chitra.live/api/v1/wps/530ff7f/b6d8cbd2-4e0b-45da-b891-23fe2b7b6763/6/Gibraltar-370x229.jpg",
+                        "dcsext.topics": "gibraltar;albert-isola;financial-action-task-force;fatf;gibraltar-stock-exchange;gibraltar-financial-services-commission;europe",
+                        "twitter:site": "cover_mag",
+                        "article:modified_time": "2020-04-23T08:45:34+01:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "news_keywords": "Cryptocurrencies,Regulation ,Gibraltar,Albert Isola,Financial Action Task Force,FATF,Gibraltar Stock Exchange,Gibraltar Financial Services Commission,Europe",
+                        "og:url": "https://www.internationalinvestment.net/news/4014264/gibraltar-moves-tighten-regulation-cryptocurrencies",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.chitra.live/api/v1/wps/530ff7f/b6d8cbd2-4e0b-45da-b891-23fe2b7b6763/6/Gibraltar-370x229.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "image": "https://image.chitra.live/api/v1/wps/6b01a31/b6d8cbd2-4e0b-45da-b891-23fe2b7b6763/6/Gibraltar-580x358.jpg",
+                        "articlebody": "Gibraltar, one of the world's leading jurisdictions for cryptocurrency trading, has said it is working to ensure regulation of cryptocurrencies is on a par with that of the wider financial...",
+                        "name": "Gibraltar moves to tighten regulation of cryptocurrencies",
+                        "datepublished": "2020-04-23",
+                        "url": "https://www.www.internationalinvestment.net/news/4014264/gibraltar-moves-tighten-regulation-cryptocurrencies"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bullish Obtains Regulatory License from Gibraltar Financial Services ...",
+            "htmlTitle": "Bullish Obtains <b>Regulatory</b> License from <b>Gibraltar</b> Financial Services ...",
+            "link": "https://bullish.com/bullish-obtains-regulatory-license-from-gibraltar-financial-services-commission/",
+            "displayLink": "bullish.com",
+            "snippet": "Nov 9, 2021 ... GIBRALTAR, November 9, 2021 \u2013 Bullish, a blockchain-based cryptocurrency exchange, announced today that its subsidiary Bullish (GI) Limited\u00a0...",
+            "htmlSnippet": "Nov 9, 2021 <b>...</b> <b>GIBRALTAR</b>, November 9, 2021 \u2013 Bullish, a blockchain-based <b>cryptocurrency</b> exchange, announced today that its subsidiary Bullish (GI) Limited&nbsp;...",
+            "cacheId": "TW0WFTM5suAJ",
+            "formattedUrl": "https://bullish.com/bullish-obtains-regulatory-license-from-gibraltar-financial -services-commission/",
+            "htmlFormattedUrl": "https://bullish.com/bullish-obtains-<b>regulatory</b>-license-from-<b>gibraltar</b>-financial -services-commission/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFVVRdJrrXZSwcZEcW_Qppc5QWuvnodC6cU98YxXoRWpPbE3lnIbUi8OEP",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://bullish.com/wp-content/uploads/2021/10/OpenGraph-1200x627-1.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-09T11:00:48+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bullish",
+                        "og:title": "Bullish Obtains Regulatory License from Gibraltar Financial Services Commission",
+                        "og:image:height": "627",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "GIBRALTAR,\u00a0 November 9, 2021 \u2013 Bullish, a blockchain-based cryptocurrency exchange, announced today that its subsidiary Bullish (GI) Limited has obtained a Distributed Ledger Technology (DLT) license from the Gibraltar Financial Services Commission (GFSC), marking a key milestone ahead of the Bullish exchange launch. \u201cAs the world\u2019s first jurisdiction to enact purpose-built legislation in support of [\u2026]",
+                        "twitter:creator": "@Bullish",
+                        "twitter:data1": "Bullish",
+                        "twitter:data2": "8 minutes",
+                        "twitter:site": "@Bullish",
+                        "article:modified_time": "2021-12-21T03:45:26+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://bullish.com/bullish-obtains-regulatory-license-from-gibraltar-financial-services-commission/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://bullish.com/wp-content/uploads/2021/10/OpenGraph-1200x627-1.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

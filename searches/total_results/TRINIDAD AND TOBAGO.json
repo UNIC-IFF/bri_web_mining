@@ -1,0 +1,525 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - TRINIDAD AND TOBAGO",
+                "totalResults": "354000",
+                "searchTerms": "TRINIDAD AND TOBAGO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - TRINIDAD AND TOBAGO",
+                "totalResults": "354000",
+                "searchTerms": "TRINIDAD AND TOBAGO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.34531,
+        "formattedSearchTime": "0.35",
+        "totalResults": "354000",
+        "formattedTotalResults": "354,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Trinidad and Tobago and Cryptocurrency - Freeman Law",
+            "htmlTitle": "<b>Trinidad and Tobago</b> and <b>Cryptocurrency</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/trinidad-and-tobago/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Trinidad and Tobago Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "<b>Trinidad and Tobago Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "nSRZve_mezQJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/trinidad-and-tobago/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>trinidad-and-tobago</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQexyySDWOIaRJYHl_Mgny0POfPyhk9EJyUir__ckmRTQ0ztMtMmY-LeGE",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396636-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:21:43+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/trinidad-and-tobago/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Trinidad and Tobago? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396636-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396636-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:59+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Stack of Bitcoin Trinidad and Tobago flag. Bitcoin cryptocurrencies concept. BTC background.",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Trinidad and Tobago and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Trinidad and Tobago and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:05:59+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Trinidad and Tobago and Cryptocurrency Trinidad and Tobago Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Compared to the rest of the Caribbean, Trinidad and Tobago is rather far behind in its implementation of digital currency. The Central...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/trinidad-and-tobago/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396636-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Trinidad and ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Trinidad and</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/trinidad-and-tobago",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Trinidad and Tobago for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous\u00a0...",
+            "htmlSnippet": "The <b>Trinidad and Tobago</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous&nbsp;...",
+            "cacheId": "meEgI0XoOvkJ",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws...regulations/trinidad-and-tobago",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>...<b>regulations</b>/<b>trinidad-and-tobago</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Trinidad and Tobago for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Trinidad and Tobago | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Trinidad and Tobago for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Trinidad and Tobago | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/trinidad-and-tobago"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CRYPTOCURRENCIES From The Trinidad and Tobago Securities ...",
+            "htmlTitle": "<b>CRYPTOCURRENCIES</b> From The <b>Trinidad and Tobago</b> Securities ...",
+            "link": "https://ttsec.org.tt/wp-content/uploads/CRYPTOCURRENCIES-PSC-Article-FINAL.pdf",
+            "displayLink": "ttsec.org.tt",
+            "snippet": "CRYPTOCURRENCIES. From The Trinidad and Tobago Securities and Exchange Commission. A cryptocurrency can be defined as \u201ca decentralized digital currency,\u00a0...",
+            "htmlSnippet": "<b>CRYPTOCURRENCIES</b>. From The <b>Trinidad and Tobago</b> Securities and Exchange Commission. A <b>cryptocurrency</b> can be defined as \u201ca decentralized digital currency,&nbsp;...",
+            "cacheId": "Qdpg7mEara8J",
+            "formattedUrl": "https://ttsec.org.tt/wp.../CRYPTOCURRENCIES-PSC-Article-FINAL.pdf",
+            "htmlFormattedUrl": "https://ttsec.org.tt/wp.../<b>CRYPTOCURRENCIES</b>-PSC-Article-FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTer1jFsnsMfHPVny0ovWrFnylJUz5rEeLHK83spxO2xlpwZDiQlQwqrRSb",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190204093936-04'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "creationdate": "D:20190204093936-04'00'",
+                        "author": "John Cozier",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///c8d8107f93003eb7659bd95b33d97b8ae0299152ef0eccbff0ddf65782f70e53"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Trinidad and Tobago warn against the use of cryptocurrencies ...",
+            "htmlTitle": "<b>Trinidad and Tobago</b> warn against the use of <b>cryptocurrencies</b> ...",
+            "link": "https://coingeek.com/trinidad-tobago-warn-use-cryptocurrencies/",
+            "displayLink": "coingeek.com",
+            "snippet": "Jan 30, 2019 ... Trinidad and Tobago nationals have been advised against investing and trading in cryptocurrencies. According to reports, authorities gave\u00a0...",
+            "htmlSnippet": "Jan 30, 2019 <b>...</b> <b>Trinidad and Tobago</b> nationals have been advised against investing and trading in <b>cryptocurrencies</b>. According to reports, authorities gave&nbsp;...",
+            "cacheId": "HamofvJVSoYJ",
+            "formattedUrl": "https://coingeek.com/trinidad-tobago-warn-use-cryptocurrencies/",
+            "htmlFormattedUrl": "https://coingeek.com/<b>trinidad</b>-<b>tobago</b>-warn-use-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_zXizdLN-peitfw8iraKPBL7g9ivT4e5J_GWvHjQ0aXzIq0gjkwRLKQBP",
+                        "width": "320",
+                        "height": "158"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://coingeek.com/wp-content/uploads/2019/01/trinidad-tobago-warn-use-cryptocurrencies.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2019-01-30T09:19:47+00:00",
+                        "og:image:width": "730",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "CoinGeek",
+                        "og:title": "Trinidad and Tobago warn against the use of cryptocurrencies - CoinGeek",
+                        "apple-mobile-web-app-title": "CoinGeek - The Bitcoin Beat",
+                        "og:image:height": "360",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://coingeek.com/wp-content/uploads/2020/06/coingeek-favicon-256x256-1.png",
+                        "og:description": "Trinidad and Tobago authorities gave the warning because many of the virtual currencies promised high returns but end up being fraudulent schemes.",
+                        "twitter:creator": "@realcoingeek",
+                        "article:publisher": "https://www.facebook.com/realcoingeek/",
+                        "twitter:data1": "Dennis Wafula",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@realcoingeek",
+                        "article:modified_time": "2019-01-30T10:09:55+00:00",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://coingeek.com/trinidad-tobago-warn-use-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://coingeek.com/wp-content/uploads/2019/01/trinidad-tobago-warn-use-cryptocurrencies.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In 2018, the Central Bank of Trinidad and Tobago issued a statement that it was willing to work with companies that provided Fintech and virtual currencies,\u00a0...",
+            "htmlSnippet": "In 2018, the Central Bank of <b>Trinidad and Tobago</b> issued a statement that it was willing to work with companies that provided Fintech and virtual currencies,&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "NFTs: Beyond Cryptocurrency and Regulation - M. Hamel-Smith & Co.",
+            "htmlTitle": "NFTs: Beyond <b>Cryptocurrency</b> and <b>Regulation</b> - M. Hamel-Smith &amp; Co.",
+            "link": "http://trinidadlaw.com/nfts-beyond-cryptocurrency-and-regulation/",
+            "displayLink": "trinidadlaw.com",
+            "snippet": "19 Apr NFTs: Beyond Cryptocurrency and Regulation ... and Exchange Commission ('TTSEC'), and the Financial Intelligence Unit of Trinidad and Tobago).",
+            "htmlSnippet": "19 Apr NFTs: Beyond <b>Cryptocurrency</b> and <b>Regulation</b> ... and Exchange Commission (&#39;TTSEC&#39;), and the Financial Intelligence Unit of <b>Trinidad and Tobago</b>).",
+            "cacheId": "PCN6TkBwRBUJ",
+            "formattedUrl": "trinidadlaw.com/nfts-beyond-cryptocurrency-and-regulation/",
+            "htmlFormattedUrl": "<b>trinidad</b>law.com/nfts-beyond-<b>cryptocurrency</b>-and-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRclGkImyawayHtH_qldNfL5T6nO1t4qJjNEyPlJcVbtm24Gcb8ux7r6AY",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://trinidadlaw.com/wp-content/uploads/2020/12/Digitisation-and-FinTech.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-04-19T12:36:19+00:00",
+                        "og:image:width": "413",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "M. Hamel-Smith & Co.",
+                        "og:title": "NFTs: Beyond Cryptocurrency and Regulation - M. Hamel-Smith & Co.",
+                        "og:image:height": "276",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "You may have seen the term \u2018NFT\u2019 in the headlines lately, mostly in relation to the astronomical sums being spent on them. Just last month, a piece of digital artwork sold for a record breaking US69.3 million. What...",
+                        "twitter:data1": "M. Hamel-Smith & Co.",
+                        "twitter:data2": "6 minutes",
+                        "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:url": "http://trinidadlaw.com/nfts-beyond-cryptocurrency-and-regulation/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://trinidadlaw.com/wp-content/uploads/2020/12/Digitisation-and-FinTech.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Custody Regulations from OCC | Deloitte US",
+            "htmlTitle": "<b>Cryptocurrency</b> Custody <b>Regulations</b> from OCC | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "How can banks differentiate their cryptocurrency custody services? ... Teams that have the necessary OCC, Financial Industry Regulatory Authority (FINRA),\u00a0...",
+            "htmlSnippet": "How can banks differentiate their <b>cryptocurrency</b> custody services? ... Teams that have the necessary OCC, Financial Industry <b>Regulatory</b> Authority (FINRA),&nbsp;...",
+            "cacheId": "X8gsEZ2x1BMJ",
+            "formattedUrl": "https://www2.deloitte.com/.../cryptocurrency-custody-regulations-from-occ- deloitte-us.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/.../<b>cryptocurrency</b>-custody-<b>regulations</b>-from-occ- deloitte-us.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Custody Regulations from OCC",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+                        "og:title": "Cryptocurrency Custody Regulations from OCC",
+                        "og:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "BITCOIN AND OTHER CRYPTOCURRENCIES - M. Hamel-Smith ...",
+            "htmlTitle": "BITCOIN AND OTHER <b>CRYPTOCURRENCIES</b> - M. Hamel-Smith ...",
+            "link": "http://trinidadlaw.com/bitcoin-and-other-cryptocurrencies/",
+            "displayLink": "trinidadlaw.com",
+            "snippet": "For example, the Trinidad and Tobago dollar, which is fiat currency, is issued by the Central Bank as dictated by fiscal policy. The Government controls its\u00a0...",
+            "htmlSnippet": "For example, the <b>Trinidad and Tobago</b> dollar, which is fiat currency, is issued by the Central Bank as dictated by fiscal policy. The Government controls its&nbsp;...",
+            "cacheId": "nA4pExSjrdoJ",
+            "formattedUrl": "trinidadlaw.com/bitcoin-and-other-cryptocurrencies/",
+            "htmlFormattedUrl": "<b>trinidad</b>law.com/bitcoin-and-other-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRclGkImyawayHtH_qldNfL5T6nO1t4qJjNEyPlJcVbtm24Gcb8ux7r6AY",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://trinidadlaw.com/wp-content/uploads/2020/12/Digitisation-and-FinTech.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-12-09T23:46:43+00:00",
+                        "og:image:width": "413",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "M. Hamel-Smith & Co.",
+                        "og:title": "BITCOIN AND OTHER CRYPTOCURRENCIES - M. Hamel-Smith & Co.",
+                        "og:image:height": "276",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Bitcoin is back in the news following price surges and the US Congress introducing two new cryptocurrency bills. While the terms \u201cBitcoin\u201d and \u201ccryptocurrency\u201d have become household words, many of us are still intimidated by them. This Article...",
+                        "twitter:data1": "M. Hamel-Smith & Co.",
+                        "twitter:data2": "4 minutes",
+                        "article:modified_time": "2020-12-14T11:54:37+00:00",
+                        "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:url": "http://trinidadlaw.com/bitcoin-and-other-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://trinidadlaw.com/wp-content/uploads/2020/12/Digitisation-and-FinTech.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Is-Cryptocurrency-a-Security.pdf",
+            "htmlTitle": "Is-<b>Cryptocurrency</b>-a-Security.pdf",
+            "link": "https://www.ttsec.org.tt/wp-content/uploads/Is-Cryptocurrency-a-Security.pdf",
+            "displayLink": "www.ttsec.org.tt",
+            "snippet": "Nov 7, 2020 ... fluctuation in the market price, the regulatory and legal ... In previous articles, the Trinidad and Tobago Securities and Exchange\u00a0...",
+            "htmlSnippet": "Nov 7, 2020 <b>...</b> fluctuation in the market price, the <b>regulatory</b> and legal ... In previous articles, the <b>Trinidad and Tobago</b> Securities and Exchange&nbsp;...",
+            "cacheId": "jFTEv3EhLacJ",
+            "formattedUrl": "https://www.ttsec.org.tt/wp-content/.../Is-Cryptocurrency-a-Security.pdf",
+            "htmlFormattedUrl": "https://www.ttsec.org.tt/wp-content/.../Is-<b>Cryptocurrency</b>-a-Security.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpsGxHtZVJu6Nn8mdM5a7GtjL3RMvEc24IWBIe-rDVwYldwUIiHkNsHtc",
+                        "width": "257",
+                        "height": "196"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20201118070804-04'00'",
+                        "creator": "Microsoft\u00ae Word 2019",
+                        "creationdate": "D:20201118070804-04'00'",
+                        "author": "Avis Holder",
+                        "producer": "Microsoft\u00ae Word 2019"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f46c976e12165016d2946a5a67405eebf7c52dce365e4e3781d42bb1cc971f46"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How to meet the crypto regulatory challenge | World Economic Forum",
+            "htmlTitle": "How to meet the crypto <b>regulatory</b> challenge | World Economic Forum",
+            "link": "https://www.weforum.org/agenda/2021/09/meeting-the-crypto-regulatory-challenge/",
+            "displayLink": "www.weforum.org",
+            "snippet": "Sep 2, 2021 ... Gavel and cryptocurrency tokens; government regulation. Crypto regulation needs to acknowledge the unique attributes of digital currencies\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> Gavel and <b>cryptocurrency</b> tokens; government <b>regulation</b>. Crypto <b>regulation</b> needs to acknowledge the unique attributes of digital currencies&nbsp;...",
+            "cacheId": "IgyHyUvKazgJ",
+            "formattedUrl": "https://www.weforum.org/agenda/.../meeting-the-crypto-regulatory-challenge /",
+            "htmlFormattedUrl": "https://www.weforum.org/agenda/.../meeting-the-crypto-<b>regulatory</b>-challenge /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3N9yRTEaXEaUQO_5BPzHHdszSELpXueQeM8HuLEIsbuj6MGiA6nUQi8E",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#2b5797",
+                        "og:image": "https://assets.weforum.org/article/image/responsive_medium_4p89yyOKTT04FohaqUK2wqUOujHK6fAkBN7VSj6pEPY.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "How to meet the crypto regulatory challenge",
+                        "theme-color": "#035b9c",
+                        "og:site_name": "World Economic Forum",
+                        "twitter:url": "https://www.weforum.org/agenda/2021/09/meeting-the-crypto-regulatory-challenge/",
+                        "og:title": "How to meet the crypto regulatory challenge",
+                        "csrf-param": "authenticity_token",
+                        "og:description": "Crypto adoption soared during the pandemic. With the right rules, it could help boost the formal economy and secure financial inclusion on a global scale.",
+                        "fb:pages": "7746841478",
+                        "twitter:image": "https://assets.weforum.org/article/image/responsive_medium_4p89yyOKTT04FohaqUK2wqUOujHK6fAkBN7VSj6pEPY.jpg",
+                        "pocket-site-verification": "0a5ad3db01a37673563584ab440eda",
+                        "fb:app_id": "1085482764806408",
+                        "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                        "twitter:description": "Crypto adoption soared during the pandemic. With the right rules, it could help boost the formal economy and secure financial inclusion on a global scale.",
+                        "csrf-token": "NWkxyVoJ3mA8KJT7PepghIaArmZuNFbsJgJjBhgFjZ1vaPMJ8xu9FxjS6Ds1yDrr09ts6IzUCKgCsj5ZQRHA8Q==",
+                        "og:url": "https://www.weforum.org/agenda/2021/09/meeting-the-crypto-regulatory-challenge/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.weforum.org/article/image/responsive_medium_4p89yyOKTT04FohaqUK2wqUOujHK6fAkBN7VSj6pEPY.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,534 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - EQUATORIAL GUINEA",
+                "totalResults": "286000",
+                "searchTerms": "EQUATORIAL GUINEA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - EQUATORIAL GUINEA",
+                "totalResults": "286000",
+                "searchTerms": "EQUATORIAL GUINEA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.371498,
+        "formattedSearchTime": "0.37",
+        "totalResults": "286000",
+        "formattedTotalResults": "286,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Central African States and Cryptocurrency - Virtual Currency Laws ...",
+            "htmlTitle": "Central African States and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> ...",
+            "link": "https://freemanlaw.com/cryptocurrency/central-african-states/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "The Economic and Monetary Community of Central Africa includes Cameroon, the Central African Republic, Chad, Equatorial Guinea, Gabon, and the Republic of\u00a0...",
+            "htmlSnippet": "The Economic and Monetary Community of Central Africa includes Cameroon, the Central African Republic, Chad, <b>Equatorial Guinea</b>, Gabon, and the Republic of&nbsp;...",
+            "cacheId": "bmRJyvUVOGMJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/central-african-states/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/central-african-states/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWSzY0H1cXBBSqTPGwjVtyHhIYPaOSJQqWB9mAWmo3Fbc2sfiWEUFoE-U",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-22T01:35:36+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/central-african-states/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in the Central African States? Freeman Law can help with digital currencies & tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:41+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/international-tax-treaties/south-africa/",
+                        "og:type": "article",
+                        "og:image:alt": "Central African Republic cryptocurre",
+                        "article:section": "Bitcoin",
+                        "twitter:title": "Central African States and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Central African States and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:56:41+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The Central African States and Cryptocurrency The Central African States Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Within the Central African states, the use of digital currency systems is on the rise.[1] Despite this upward trend, the...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/central-african-states/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Central-African-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Equatorial ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Equatorial</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/equatorial-guinea",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Equatorial Guinea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous\u00a0...",
+            "htmlSnippet": "The <b>Equatorial Guinea</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous&nbsp;...",
+            "cacheId": "Tn4FVySWRYsJ",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws...regulations/equatorial-guinea",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>...<b>regulations</b>/<b>equatorial</b>-<b>guinea</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Equatorial Guinea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Equatorial Guinea | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Equatorial Guinea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Equatorial Guinea | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/equatorial-guinea"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, ... Keywords: cryptocurrency, institutions, financial regulations, ... 2 Equatorial Guinea.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, ... Keywords: <b>cryptocurrency</b>, institutions, financial <b>regulations</b>, ... 2 <b>Equatorial Guinea</b>.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto-currency adoption in Africa: The ups and downs | Africa ...",
+            "htmlTitle": "Crypto-currency adoption in Africa: The ups and downs | Africa ...",
+            "link": "https://www.un.org/africarenewal/magazine/june-2021/crypto-currency-adoption-africa-ups-and-downs",
+            "displayLink": "www.un.org",
+            "snippet": "Jun 10, 2021 ... Africa is booming in terms of cryptocurrency adoption, according to ... Unfortunately, a lack of regulation in some of the countries could\u00a0...",
+            "htmlSnippet": "Jun 10, 2021 <b>...</b> Africa is booming in terms of <b>cryptocurrency</b> adoption, according to ... Unfortunately, a lack of <b>regulation</b> in some of the countries could&nbsp;...",
+            "cacheId": "lkxuXceOSUYJ",
+            "formattedUrl": "https://www.un.org/.../crypto-currency-adoption-africa-ups-and-downs",
+            "htmlFormattedUrl": "https://www.un.org/.../crypto-currency-adoption-africa-ups-and-downs",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2hSwIATtGx1SpoDUDMPXK_Tc_9BFG9RuzWoPjIkKpVcJCx53oZ1omAI",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "Item": [
+                    {
+                        "date": "2021-06-10T00:00:00-04:00",
+                        "title": "Crypto-currency adoption in Africa: The ups and downs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/images/dmitry-demidko-eBWzFKahEaU-unsplash.jpg",
+                        "og:type": "article",
+                        "og:image:alt": "Africa is booming in terms of cryptocurrency adoption",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto-currency adoption in Africa: The ups and downs",
+                        "article:published_time": "2021-06-04T12:57:37-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/june-2021/crypto-currency-adoption-africa-ups-and-downs",
+                        "og:title": "Crypto-currency adoption in Africa: The ups and downs",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2021-07-08T15:47:34-04:00",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/images/dmitry-demidko-eBWzFKahEaU-unsplash.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/images/dmitry-demidko-eBWzFKahEaU-unsplash.jpg",
+                        "twitter:image:alt": "Africa is booming in terms of cryptocurrency adoption, according to the 2020 Geography of Cryptocurrency Report by Chainalysis.",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2021-07-08T15:47:34-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:url": "https://www.un.org/africarenewal/magazine/june-2021/crypto-currency-adoption-africa-ups-and-downs"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/images/dmitry-demidko-eBWzFKahEaU-unsplash.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency regulation in Africa",
+            "htmlTitle": "<b>Cryptocurrency regulation</b> in Africa",
+            "link": "https://cdn.crowdfundinsider.com/wp-content/uploads/2018/08/Middle-Africa-Briefing-EcoBank-Note-Digital-African-crypto-regulation-August-2018.pdf",
+            "displayLink": "cdn.crowdfundinsider.com",
+            "snippet": "Aug 1, 2018 ... Community (CEMAC), Equatorial Guinea's central bank is the Bank of Central. African States (BEAC). Neither the BEAC, nor the Government of\u00a0...",
+            "htmlSnippet": "Aug 1, 2018 <b>...</b> Community (CEMAC), <b>Equatorial Guinea&#39;s</b> central bank is the Bank of Central. African States (BEAC). Neither the BEAC, nor the Government of&nbsp;...",
+            "cacheId": "zv1YSzIEdBwJ",
+            "formattedUrl": "https://cdn.crowdfundinsider.com/.../Middle-Africa-Briefing-EcoBank-Note- Digital-African-crypto-regulation-August-2018.pdf",
+            "htmlFormattedUrl": "https://cdn.crowdfundinsider.com/.../Middle-Africa-Briefing-EcoBank-Note- Digital-African-crypto-<b>regulation</b>-August-2018.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoC1Kwr4ww9Zpp9j_c1BxjzCKiKhRw9KuE-_lWI-nH5o1BVx8_hX_8lIE",
+                        "width": "225",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180801143124+03'00'",
+                        "creationdate": "D:20180801121853+01'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "author": "adownie",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e83835603851726ee355a5f7fcca919d7a86762a796a0ce2753c2e8b283595fa"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chambers and Partners - Comparisons | Global Practice Guides",
+            "htmlTitle": "Chambers and Partners - Comparisons | Global Practice Guides",
+            "link": "https://practiceguides.chambers.com/practice-guides/comparison/640/6892/11260-11264-11274-11280-11287-11292-11295-11299-11302",
+            "displayLink": "practiceguides.chambers.com",
+            "snippet": "Jun 17, 2021 ... The main industries exploring blockchain, cryptocurrencies and smart ... Proposal for a Regulation on Markets in Crypto-assets (MiCA);\u00a0...",
+            "htmlSnippet": "Jun 17, 2021 <b>...</b> The main industries exploring blockchain, <b>cryptocurrencies</b> and smart ... Proposal for a <b>Regulation</b> on Markets in Crypto-assets (MiCA);&nbsp;...",
+            "cacheId": "kBJ-p8o3qxgJ",
+            "formattedUrl": "https://practiceguides.chambers.com/.../11260-11264-11274-11280-11287- 11292-11295-11299-11302",
+            "htmlFormattedUrl": "https://practiceguides.chambers.com/.../11260-11264-11274-11280-11287- 11292-11295-11299-11302",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHpow1BJHo6uHTF_W2pS2V0Aw6TYdkVmNJGZXWyJxLAQpk0SpKqGWDO4o",
+                        "width": "200",
+                        "height": "252"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://chambersandpartners.azureedge.net/practiceguides/Pictures/208/28305.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Equatorial Guinea, Africa | Country Profile | Crisis24",
+            "htmlTitle": "<b>Equatorial Guinea</b>, Africa | Country Profile | Crisis24",
+            "link": "https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/equatorial-guinea",
+            "displayLink": "crisis24.garda.com",
+            "snippet": "Long-serving President Obiang Nguema's constant reshuffling of key government portfolios cements his family's control over the levers of power. President\u00a0...",
+            "htmlSnippet": "Long-serving President Obiang Nguema&#39;s constant reshuffling of key government portfolios cements his family&#39;s <b>control</b> over the levers of power. President&nbsp;...",
+            "cacheId": "zZGtu7M3xxQJ",
+            "formattedUrl": "https://crisis24.garda.com/insights-intelligence/...reports/equatorial-guinea",
+            "htmlFormattedUrl": "https://crisis24.garda.com/insights-intelligence/...reports/<b>equatorial</b>-<b>guinea</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRcCkG38MRq9VIq30vKeAthDKToIvfMdV7JLtSrUOJF-1qWMnlS8-qKcU",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://crisis24.garda.com/themes/custom/crisis24/assets/css/vendor/flag-icon/flags/svg/en/crisis24-equatorial-guinea-flag.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Premi\u00e8re \u00e9dition du cycle des Conf\u00e9rences sous-r\u00e9gionales sur l ...",
+            "htmlTitle": "Premi\u00e8re \u00e9dition du cycle des Conf\u00e9rences sous-r\u00e9gionales sur l ...",
+            "link": "https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/Digital%20Economy%20Development%20C.%20Africa/Rapport%20final%20des%20Travaux_ENGLISH.pdf",
+            "displayLink": "www.itu.int",
+            "snippet": "Address of the Minister of the Republic of Equatorial Guinea . ... V.9 Round Table No.2: \u201cHarmonisation of the ICT regulatory framework in ECCAS\u201d.",
+            "htmlSnippet": "Address of the Minister of the Republic of <b>Equatorial Guinea</b> . ... V.9 Round Table No.2: \u201cHarmonisation of the ICT <b>regulatory</b> framework in ECCAS\u201d.",
+            "cacheId": "PddXdoHwVjMJ",
+            "formattedUrl": "https://www.itu.int/.../Rapport%20final%20des%20Travaux_ENGLISH.pdf",
+            "htmlFormattedUrl": "https://www.itu.int/.../Rapport%20final%20des%20Travaux_ENGLISH.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYxjQIt7_9WG6JEinla8ZBxUWvVxQlXfapxzBM0l3_3AZTGR5TVb1LoZ-7",
+                        "width": "189",
+                        "height": "267"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180601145310+03'00'",
+                        "creationdate": "D:20180531112834+02'00'",
+                        "creator": "Microsoft\u00ae Office Word 2007",
+                        "author": "Zongo, Serge Valery",
+                        "subject": "Palais des Congr\u00e8s de Yaound\u00e9",
+                        "producer": "Microsoft\u00ae Office Word 2007",
+                        "title": "Premi\u00e8re \u00e9dition du cycle des Conf\u00e9rences sous-r\u00e9gionales sur l\u2019\u00e9conomie num\u00e9rique pour les pays de l\u2019Afrique sur le th\u00e8me : \u00ab L\u2019\u00e9conomie num\u00e9rique en Afrique Centrale : Etat des lieux et d\u00e9fis dans un monde globalis\u00e9 \u00bb."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///a5dc70baf3473eed9581f1f6238743ce50e48a5af1a68c5fce0d73fecd2a1e95"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UPDATE 1-Equatorial Guinea punishes Subsea 7 for not hiring ...",
+            "htmlTitle": "UPDATE 1-<b>Equatorial Guinea</b> punishes Subsea 7 for not hiring ...",
+            "link": "https://www.reuters.com/article/equatorialguinea-subsea7-idINL8N1XX36E",
+            "displayLink": "www.reuters.com",
+            "snippet": "Nov 22, 2018 ... Equatorial Guinea has ordered energy companies to stop doing business ... firm failed to comply with laws aimed at creating more local jobs,\u00a0...",
+            "htmlSnippet": "Nov 22, 2018 <b>...</b> <b>Equatorial Guinea</b> has ordered energy companies to stop doing business ... firm failed to comply with <b>laws</b> aimed at creating more local jobs,&nbsp;...",
+            "cacheId": "IEsp_vaHwPQJ",
+            "formattedUrl": "https://www.reuters.com/article/equatorialguinea-subsea7-idINL8N1XX36E",
+            "htmlFormattedUrl": "https://www.reuters.com/article/<b>equatorialguinea</b>-subsea7-idINL8N1XX36E",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2018-11-22T12:05:12Z",
+                        "analyticsattributes.topicchannel": "Markets",
+                        "analyticsattributes.backendchannellist": "rbssEnergyNews;rbssIndustryMaterialsUtilitiesNews;governmentFilingsNews;energySector;industrialsSector;everythingNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Equatorial Guinea has ordered energy companies to stop doing business with oil and gas service firm Subsea 7 because the firm failed to comply with laws aimed at creating more local jobs, the oil minister said on Thursday.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2018-11-22T12:05:12Z",
+                        "og:article:section": "Energy",
+                        "analyticsattributes.articledate": "2018-11-22T12:05:12Z",
+                        "dcsext.dartzone": "reuters.com/sectors/energy/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "EQUATORIALGUINEA,SUBSEA7/ (UPDATE 1),Africa,Airlines (TRBC level 4),Airlines (NEC) (TRBC level 5),Americas,Canada,Central Africa,Company News,Energy (TRBC level 1),Energy - Fossil Fuels (TRBC level 2),Oil & Gas Related Equipment and Services (TRBC level 3),Europe,Oil & Gas Exploration and Production (TRBC level 4),Oil & Gas Exploration and Production (NEC) (TRBC level 5),General News,Equatorial Guinea,Industrials (TRBC level 1),North America,Norway,Nordic States,Oil & Gas (TRBC level 3),Oil Related Services and Equipment (TRBC level 4),Oil Related Services and Equipment (NEC) (TRBC level 5),Oil Related Services (TRBC level 5),Government / Politics,Passenger Transportation Services (TRBC level 3),Oil & Gas Refining and Marketing (TRBC level 4),Oil & Gas Refining and Marketing (NEC) (TRBC level 5),Scandinavia,Transportation (TRBC level 2),United States,Western Europe",
+                        "og:article:published_time": "2018-11-22T12:05:37Z",
+                        "og:article:tag": "EQUATORIALGUINEA,SUBSEA7/ (UPDATE 1),Africa,Airlines (TRBC level 4),Airlines (NEC) (TRBC level 5),Americas,Canada,Central Africa,Company News,Energy (TRBC level 1),Energy - Fossil Fuels (TRBC level 2),Oil & Gas Related Equipment and Services (TRBC level 3),Europe,Oil & Gas Exploration and Production (TRBC level 4),Oil & Gas Exploration and Production (NEC) (TRBC level 5),General News,Equatorial Guinea,Industrials (TRBC level 1),North America,Norway,Nordic States,Oil & Gas (TRBC level 3),Oil Related Services and Equipment (TRBC level 4),Oil Related Services and Equipment (NEC) (TRBC level 5),Oil Related Services (TRBC level 5),Government / Politics,Passenger Transportation Services (TRBC level 3),Oil & Gas Refining and Marketing (TRBC level 4),Oil & Gas Refining and Marketing (NEC) (TRBC level 5),Scandinavia,Transportation (TRBC level 2),United States,Western Europe",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.topicsubchannel": "Sectors",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "energySector",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "UPDATE 1-Equatorial Guinea punishes Subsea 7 for not hiring more locals",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AFR,AIRL,AIRL1,AMERS,CA,CENAFR,CMPNY,ENER,ENFF,ENQSVC,EUROP,EXPRO,EXPRO1,GEN,GQ,INDS,NAMER,NO,NORD,OILG,OILQ,OILQ1,OILRLS,POL,PSSNGR,REFI,REFI1,SCANDV,TRAN,US,WEU",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "EQUATORIALGUINEA;SUBSEA7/ (UPDATE 1);Africa;Airlines (TRBC level 4);Airlines (NEC) (TRBC level 5);Americas;Canada;Central Africa;Company News;Energy (TRBC level 1);Energy - Fossil Fuels (TRBC level 2);Oil & Gas Related Equipment and Services (TRBC level 3);Europe;Oil & Gas Exploration and Production (TRBC level 4);Oil & Gas Exploration and Production (NEC) (TRBC level 5);General News;Equatorial Guinea;Industrials (TRBC level 1);North America;Norway;Nordic States;Oil & Gas (TRBC level 3);Oil Related Services and Equipment (TRBC level 4);Oil Related Services and Equipment (NEC) (TRBC level 5);Oil Related Services (TRBC level 5);Government / Politics;Passenger Transportation Services (TRBC level 3);Oil & Gas Refining and Marketing (TRBC level 4);Oil & Gas Refining and Marketing (NEC) (TRBC level 5);Scandinavia;Transportation (TRBC level 2);United States;Western Europe",
+                        "sailthru.title": "UPDATE 1-Equatorial Guinea punishes Subsea 7 for not hiring more locals",
+                        "analyticsattributes.contenttitle": "UPDATE 1-Equatorial Guinea punishes Subsea 7 for not hiring more locals",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/equatorialguinea-subsea7-idINL8N1XX36E",
+                        "analyticsattributes.channel": "Article - Markets",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2018-11-22T12:05:12Z",
+                        "og:type": "article",
+                        "twitter:title": "UPDATE 1-Equatorial Guinea punishes Subsea 7 for not hiring more locals",
+                        "og:title": "UPDATE 1-Equatorial Guinea punishes Subsea 7 for not hiring more locals",
+                        "analyticsattributes.keywordslug": "EQUATORIALGUINEA-SUBSEA7/ (UPDATE 1)",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "Markets - Sectors",
+                        "sailthru.description": "Equatorial Guinea has ordered energy companies to stop doing business with oil and gas service firm Subsea 7 because the firm failed to comply with laws aimed at creating more local jobs, the oil minister said on Thursday.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Equatorial Guinea has ordered energy companies to stop doing business with oil and gas service firm Subsea 7 because the firm failed to comply with laws aimed at creating more local jobs, the oil minister said on Thursday.",
+                        "analyticsattributes.topicn2names": "Africa,Airlines (TRBC level 4),Airlines (NEC) (TRBC level 5),Americas,Canada,Central Africa,Company News,Energy (TRBC level 1),Energy - Fossil Fuels (TRBC level 2),Oil & Gas Related Equipment and Services (TRBC level 3),Europe,Oil & Gas Exploration and Production (TRBC level 4),Oil & Gas Exploration and Production (NEC) (TRBC level 5),General News,Equatorial Guinea,Industrials (TRBC level 1),North America,Norway,Nordic States,Oil & Gas (TRBC level 3),Oil Related Services and Equipment (TRBC level 4),Oil Related Services and Equipment (NEC) (TRBC level 5),Oil Related Services (TRBC level 5),Government / Politics,Passenger Transportation Services (TRBC level 3),Oil & Gas Refining and Marketing (TRBC level 4),Oil & Gas Refining and Marketing (NEC) (TRBC level 5),Scandinavia,Transportation (TRBC level 2),United States,Western Europe",
+                        "og:url": "https://www.reuters.com/article/equatorialguinea-subsea7-idINL8N1XX36E"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Search results for Legal Reports (Publications of the Law Library of ...",
+            "htmlTitle": "Search results for Legal Reports (Publications of the Law Library of ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/?q=slovakia",
+            "displayLink": "www.loc.gov",
+            "snippet": "Results 1 - 16 of 16 ... ... Ecuador, England and Wales, European Union, Equatorial Guinea, Finland, ... Regulation of cryptocurrency around the world \"Albania,\u00a0...",
+            "htmlSnippet": "Results 1 - 16 of 16 <b>...</b> ... Ecuador, England and Wales, European Union, <b>Equatorial Guinea</b>, Finland, ... <b>Regulation of cryptocurrency</b> around the world &quot;Albania,&nbsp;...",
+            "cacheId": "wwqRzsOEefYJ",
+            "formattedUrl": "https://www.loc.gov/.../publications-of-the-law-library-of-congress/?q...",
+            "htmlFormattedUrl": "https://www.loc.gov/.../publications-of-the-law-library-of-congress/?q...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKF_lgLJynkagFQaDM85O-9NNLQ0w92MK8V0I4pXG7f6BLuH5FcygyWfM",
+                        "width": "116",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2019670409/2019670409.gif#h=150&w=116",
+                        "og:type": "article",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Search results for Legal Reports (Publications of the Law Library of Congress), Slovakia, Available Online",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "Search results 1 - 16 of 16.",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2019670409/2019670409.gif#h=150&w=116",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Search results for Legal Reports (Publications of the Law Library of Congress), Slovakia, Available Online",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/?q=slovakia",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://tile.loc.gov/storage-services/service/ll/llglrd/2016479005/2016479005.gif"
+                    }
+                ]
+            }
+        }
+    ]
+}

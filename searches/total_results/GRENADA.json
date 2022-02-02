@@ -1,0 +1,597 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - GRENADA",
+                "totalResults": "260000",
+                "searchTerms": "GRENADA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - GRENADA",
+                "totalResults": "260000",
+                "searchTerms": "GRENADA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.40397,
+        "formattedSearchTime": "0.40",
+        "totalResults": "260000",
+        "formattedTotalResults": "260,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Grenada and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Grenada</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/grenada/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Grenada Cryptocurrency Laws ... Grenada does not have any specific legislation to regulate cryptocurrencies. It has, however, signed up to participate in the ECCB\u00a0...",
+            "htmlSnippet": "<b>Grenada Cryptocurrency Laws</b> ... <b>Grenada</b> does not have any specific legislation to <b>regulate cryptocurrencies</b>. It has, however, signed up to participate in the ECCB&nbsp;...",
+            "cacheId": "MOZFANQGV0EJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/grenada/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>grenada</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6ClxJmmClBxDODnfjiblIP7eQ5lL_wznXdSfdcCT5gNi3IyzQs0Yn-BQ",
+                        "width": "294",
+                        "height": "171"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_107515611-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:18:59+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/grenada/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Grenada? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_107515611-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_107515611-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:57+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/guernsey/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Grenada?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Grenada and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Grenada and Cryptocurrency",
+                        "og:image:height": "1493",
+                        "og:updated_time": "2022-01-09T18:05:57+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Grenada and Cryptocurrency Grenada\u00a0 Cryptocurrency Laws Grenada does not have any specific legislation to regulate cryptocurrencies. It has, however, signed up to participate in the ECCB pilot, which will test the use of cryptocurrencies alongside the country\u2019s national currency (see ECCB...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/grenada/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_107515611-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto Caribbean: Tron founder to become diplomat for Grenada ...",
+            "htmlTitle": "Crypto Caribbean: Tron founder to become diplomat for <b>Grenada</b> ...",
+            "link": "https://www.aljazeera.com/economy/2021/12/17/bbcrypto-caribbean-tron-founder-to-become-diplomat-for-grenada",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Dec 17, 2021 ... Justin Sun, founder of the Tron cryptocurrency platform, ... you are going to fall into a lot of very strict regulation, and also taxation.",
+            "htmlSnippet": "Dec 17, 2021 <b>...</b> Justin Sun, founder of the Tron <b>cryptocurrency</b> platform, ... you are going to fall into a lot of very strict <b>regulation</b>, and also taxation.",
+            "cacheId": "saiSfzz0W9UJ",
+            "formattedUrl": "https://www.aljazeera.com/.../bbcrypto-caribbean-tron-founder-to-become- diplomat-for-grenada",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../bbcrypto-caribbean-tron-founder-to-become- diplomat-for-<b>grenada</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnUO0BkHPPPrcQ_Og5cZLGrn6idh40sUYx8qnGabPoYdwzjIJtACezi-8",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/12/368038830.jpg?resize=1200%2C630",
+                        "pageauthors": "Olga Kharif",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto Caribbean: Tron founder to become diplomat for Grenada",
+                        "taxonomy-tags": "Economy, News, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/economy/2021/12/17/bbcrypto-caribbean-tron-founder-to-become-diplomat-for-grenada",
+                        "pagesection": "Economy,News,Business and Economy,Crypto",
+                        "og:title": "Crypto Caribbean: Tron founder to become diplomat for Grenada",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2021/12/17/bbcrypto-caribbean-tron-founder-to-become-diplomat-for-grenada",
+                        "source": "Bloomberg",
+                        "og:description": "Diplomatic appointment for Justin Sun signals growing links between crypto innovation and Caribbean nations.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/12/368038830.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Crypto Caribbean: Tron founder to become diplomat for Grenada",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "Diplomatic appointment for Justin Sun signals growing links between crypto innovation and Caribbean nations.",
+                        "og:url": "https://www.aljazeera.com/economy/2021/12/17/bbcrypto-caribbean-tron-founder-to-become-diplomat-for-grenada",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/12/368038830.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Grenada | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Grenada</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/grenada",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Grenada for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Grenada</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "m06XYAMND6MJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/grenada",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>grenada</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Grenada for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Grenada | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Grenada for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Grenada | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/grenada"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "REGULATION OF CRYPTOCURRENCY IN VARIOUS ...",
+            "htmlTitle": "<b>REGULATION OF CRYPTOCURRENCY</b> IN VARIOUS ...",
+            "link": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3841589_code3192158.pdf?abstractid=3841589",
+            "displayLink": "papers.ssrn.com",
+            "snippet": "Apr 1, 2021 ... Caribbean Central Bank), Grenada (ECCB- Eastern Caribbean Central Bank). However, for critical analysis, regulation of cryptocurrency in USA\u00a0...",
+            "htmlSnippet": "Apr 1, 2021 <b>...</b> Caribbean Central Bank), <b>Grenada</b> (ECCB- Eastern Caribbean Central Bank). However, for critical analysis, <b>regulation of cryptocurrency</b> in USA&nbsp;...",
+            "formattedUrl": "https://papers.ssrn.com/sol3/...cfm/SSRN_ID3841589_code3192158.pdf?...",
+            "htmlFormattedUrl": "https://papers.ssrn.com/sol3/...cfm/SSRN_ID3841589_code3192158.pdf?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT38YMhPJz4LCLXPbvOsUnFG-0E-3Z2-aOq3zgIFqSipWucXOgcg1QO8T5K",
+                        "width": "204",
+                        "height": "247"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210412140723+01'00'",
+                        "creationdate": "D:20210412140723+01'00'",
+                        "creator": "Microsoft\u00ae PowerPoint\u00ae for Microsoft 365",
+                        "author": "Anjolaoluwa Adesanya",
+                        "producer": "Microsoft\u00ae PowerPoint\u00ae for Microsoft 365",
+                        "title": "PowerPoint Presentation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///98d5ed7206e99e9a9aff17e06f7e633824c22b23a74ea13204c6821dc477923b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Grenada: Freedom in the World 2021 Country Report | Freedom ...",
+            "htmlTitle": "<b>Grenada</b>: Freedom in the World 2021 Country Report | Freedom ...",
+            "link": "https://freedomhouse.org/country/grenada/freedom-world/2021",
+            "displayLink": "freedomhouse.org",
+            "snippet": "Electoral laws are generally fair, and they are usually implemented impartially by the supervisor of elections, who heads the Parliamentary Elections Office. In\u00a0...",
+            "htmlSnippet": "Electoral <b>laws</b> are generally fair, and they are usually implemented impartially by the supervisor of elections, who heads the Parliamentary Elections Office. In&nbsp;...",
+            "cacheId": "jp7F_XVWkWUJ",
+            "formattedUrl": "https://freedomhouse.org/country/grenada/freedom-world/2021",
+            "htmlFormattedUrl": "https://freedomhouse.org/country/<b>grenada</b>/freedom-world/2021",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrJFkXeQ4U1aavcEaRhLTCrPJpjxnZLLPHZ15UFL_j79wzdPIHX95x17k",
+                        "width": "394",
+                        "height": "128"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freedomhouse.org/sites/default/files/styles/1380x450_fp_and_crop_/public/2020-02/Grenada_Country_portal_shutterstock_604235024-164.jpg?h=c352e97e&itok=b5Dx_c-x",
+                        "og:type": "article",
+                        "og:image:width": "1380",
+                        "og:image:alt": "St George, Grenada. Editorial credit: EQRoy / Shutterstock.com",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Grenada: Freedom in the World 2021 Country Report | Freedom House",
+                        "og:site_name": "Freedom House",
+                        "twitter:site:id": "18270066",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://freedomhouse.org/country/grenada/freedom-world/2021",
+                        "og:title": "Grenada: Freedom in the World 2021 Country Report | Freedom House",
+                        "og:image:height": "450",
+                        "twitter:image:height": "450",
+                        "og:description": "See the Freedom in the World 2021 score and learn about democracy and freedom in Grenada.",
+                        "twitter:creator": "@freedomhouse",
+                        "twitter:image": "https://freedomhouse.org/sites/default/files/styles/1380x450_fp_and_crop_/public/2020-02/Grenada_Country_portal_shutterstock_604235024-164.jpg?h=c352e97e&itok=b5Dx_c-x",
+                        "twitter:image:alt": "St George, Grenada. Editorial credit: EQRoy / Shutterstock.com",
+                        "twitter:site": "@freedomhouse",
+                        "twitter:creator:id": "18270066",
+                        "twitter:image:width": "1380",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "See the Freedom in the World 2021 score and learn about democracy and freedom in Grenada.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://freedomhouse.org/country/grenada/freedom-world/2021"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freedomhouse.org/sites/default/files/styles/1380x450_fp_and_crop_/public/2020-02/Grenada_Country_portal_shutterstock_604235024-164.jpg?h=c352e97e&itok=b5Dx_c-x"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Approaches to Digital Currencies",
+            "htmlTitle": "International Approaches to Digital Currencies",
+            "link": "https://sgp.fas.org/crs/row/R45440.pdf",
+            "displayLink": "sgp.fas.org",
+            "snippet": "Dec 19, 2018 ... cryptocurrency regulation, including a legislative framework for the 116th ... economies (Anguilla, Antigua and Barbuda, Dominica, Grenada,.",
+            "htmlSnippet": "Dec 19, 2018 <b>...</b> <b>cryptocurrency regulation</b>, including a legislative framework for the 116th ... economies (Anguilla, Antigua and Barbuda, Dominica, <b>Grenada</b>,.",
+            "cacheId": "dcscNu64jQsJ",
+            "formattedUrl": "https://sgp.fas.org/crs/row/R45440.pdf",
+            "htmlFormattedUrl": "https://sgp.fas.org/crs/row/R45440.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSapBUOyX2wNn_LmA6pjW4YKe1pw9tPzs7kXmSA-ytKZ9gcOJ88oA3LFJ37",
+                        "width": "340",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20181220153533-05'00'",
+                        "creationdate": "D:20181220153529-05'00'",
+                        "creator": "Microsoft\u00ae Word 2016",
+                        "author": "Rebecca M. Nelson",
+                        "subject": "CRS Report",
+                        "producer": "Microsoft\u00ae Word 2016; modified using iText\u00ae 7.1.2 \u00a92000-2018 iText Group NV (AGPL-version)",
+                        "title": "International Approaches to Digital Currencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///da236b1b702a7dcd087c4cb2cbf694570b9f8aba9f4e121f1ed69afe57ae0479"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Citizenship by Investment for Cryptocurrency investors - Best ...",
+            "htmlTitle": "Citizenship by Investment for <b>Cryptocurrency</b> investors - Best ...",
+            "link": "https://best-citizenships.com/2019/12/12/benefits-of-citizenship-by-investment-for-cryptocurrency-investors/",
+            "displayLink": "best-citizenships.com",
+            "snippet": "Dec 12, 2019 ... Grenada. Grenada does not have any specific legislation to regulate cryptocurrencies. 10. Saint Lucia. Saint Lucia does not have specific\u00a0...",
+            "htmlSnippet": "Dec 12, 2019 <b>...</b> <b>Grenada</b>. <b>Grenada</b> does not have any specific legislation to <b>regulate cryptocurrencies</b>. 10. Saint Lucia. Saint Lucia does not have specific&nbsp;...",
+            "cacheId": "m476COgKb6QJ",
+            "formattedUrl": "https://best-citizenships.com/.../benefits-of-citizenship-by-investment-for- cryptocurrency-investors/",
+            "htmlFormattedUrl": "https://best-citizenships.com/.../benefits-of-citizenship-by-investment-for- <b>cryptocurrency</b>-investors/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQACaVbyafvJOhjPfa3yx-gIg1ezDMgJ72B8AZajlfl2WSLMqAMNm5qEk9o",
+                        "width": "303",
+                        "height": "166"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://best-citizenships.com/wp-content/uploads/2019/02/bitcoin-passport-1000x550-e1550150738535.jpg",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "msapplication-tileimage": "https://best-citizenships.com/wp-content/uploads/2018/11/bc-icon-300x300.png",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://best-citizenships.com/wp-content/uploads/2019/02/bitcoin-passport-1000x550-e1550150738535.jpg"
+                    }
+                ],
+                "blogposting": [
+                    {
+                        "articlebody": "Crypto-currency investors can enjoy wide range of benefits from second passport acquired through citizenship by investment (CBI) schemes. Second passports from tax free countries only costs...",
+                        "url": "https://best-citizenships.com/wp-content/uploads/2019/02/bitcoin-passport-1000x550-e1550150738535.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Justin Sun quits Tron to become WTO ambassador for Grenada",
+            "htmlTitle": "Justin Sun quits Tron to become WTO ambassador for <b>Grenada</b>",
+            "link": "https://www.yahoo.com/finance/news/justin-sun-quits-tron-become-120359474.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Dec 17, 2021 ... Grenada already has crypto pilot programme. Grenada, however, still does not have any specific legislation to regulate cryptocurrencies. It has,\u00a0...",
+            "htmlSnippet": "Dec 17, 2021 <b>...</b> <b>Grenada</b> already has crypto pilot programme. <b>Grenada</b>, however, still does not have any specific legislation to <b>regulate cryptocurrencies</b>. It has,&nbsp;...",
+            "cacheId": "MSGXMEJZ6koJ",
+            "formattedUrl": "https://www.yahoo.com/.../justin-sun-quits-tron-become-120359474.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../justin-sun-quits-tron-become-120359474.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrBx2HiqqUR2u5oMGuaWsrRUKETh31NTAoB2uohVbgON2X3h-0inYAGt4A",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/eb952d65-8770-3210-882b-b45183f37fc5",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/F8ErrEelvW7JNcGQhRY5Iw--~B/aD02ODI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/b00a0863a5d4252d3d409896f66e6d09",
+                        "twitter:title": "Justin Sun quits Tron to become WTO ambassador for Grenada",
+                        "og:type": "article",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Justin Sun quits Tron to become WTO ambassador for Grenada",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "682",
+                        "og:description": "Justin Sun has announced he is stepping down from his role as CEO of the Tron Foundation and is joining the government of Grenada as its new full-time ambassador to the World Trade Organization.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/F8ErrEelvW7JNcGQhRY5Iw--~B/aD02ODI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/b00a0863a5d4252d3d409896f66e6d09",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/F8ErrEelvW7JNcGQhRY5Iw--~B/aD02ODI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/b00a0863a5d4252d3d409896f66e6d09",
+                        "al:android:url": "yfinance://article/eb952d65-8770-3210-882b-b45183f37fc5",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Justin Sun, World Trade Organization, Tron Foundation, Grenada",
+                        "twitter:description": "Justin Sun has announced he is stepping down from his role as CEO of the Tron Foundation and is joining the government of Grenada as its new full-time ambassador to the World Trade Organization.",
+                        "og:url": "https://finance.yahoo.com/news/justin-sun-quits-tron-become-120359474.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/F8ErrEelvW7JNcGQhRY5Iw--~B/aD02ODI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/b00a0863a5d4252d3d409896f66e6d09"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Grenada Appoints Justin Sun as WTO Ambassador: Smart ...",
+            "htmlTitle": "<b>Grenada</b> Appoints Justin Sun as WTO Ambassador: Smart ...",
+            "link": "https://www.techtimes.com/articles/269584/20211220/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.htm",
+            "displayLink": "www.techtimes.com",
+            "snippet": "Dec 20, 2021 ... Grenada Appoints Justin Sun as WTO Ambassador: Smart Regulation for ... We should bear in mind that cryptocurrencies and blockchain are\u00a0...",
+            "htmlSnippet": "Dec 20, 2021 <b>...</b> <b>Grenada</b> Appoints Justin Sun as WTO Ambassador: Smart <b>Regulation</b> for ... We should bear in mind that <b>cryptocurrencies</b> and blockchain are&nbsp;...",
+            "cacheId": "Mwx3z9nAVYAJ",
+            "formattedUrl": "https://www.techtimes.com/.../grenada-appoints-justin-sun-as-wto-ambassador -smart-regulation-for-smart-technology.htm",
+            "htmlFormattedUrl": "https://www.techtimes.com/.../<b>grenada</b>-appoints-justin-sun-as-wto-ambassador -smart-<b>regulation</b>-for-smart-technology.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_ZcVvyQE11cSoeTmdodVbQ9JmVPkMReYmnX2snjAkpGPk_XVchLmN8wq",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "1367",
+                        "url": "https://1734811051.rsc.cdn77.org/data/images/full/398112/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.png",
+                        "height": "911"
+                    }
+                ],
+                "person": [
+                    {
+                        "jobtitle": "Techtimes Contributor",
+                        "datemodified": "2021-12-20T14:11:36-05:00",
+                        "name": "Thomas Ramge"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://1734811051.rsc.cdn77.org/data/images/full/398112/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.png",
+                        "copyright": "2021 Tech Times",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-12-20T10:23:00-05:00",
+                        "fo-verify": "c86da188-5830-479e-8bce-f656c6f3b92c",
+                        "theme-color": "#17aabc",
+                        "og:site_name": "Tech Times",
+                        "twitter:url": "https://www.techtimes.com/articles/269584/20211220/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.htm",
+                        "subject": "techtimes.com",
+                        "bingbot": "index, follow",
+                        "title": "Grenada Appoints Justin Sun as  WTO Ambassador: Smart Regulation for Smart Technology | Tech Times",
+                        "og:description": "As many others, it took me by surprise to learn that Justin Sun has decided to embark on a new career as a diplomat for the Caribbean country of Grenada.",
+                        "twitter:creator": "@TechTimes_News",
+                        "twitter:image": "https://1734811051.rsc.cdn77.org/data/thumbs/full/398112/650/0/0/0/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.png",
+                        "twitter:site": "@TechTimes_News",
+                        "article:modified_time": "2021-12-20T14:11:36-05:00",
+                        "news_keywords": "grenada, appoints, justin, sun, as, wto, ambassador, smart, regulation, for, smart, technology",
+                        "msapplication-tilecolor": "#17aabc",
+                        "og:type": "article",
+                        "twitter:title": "Grenada Appoints Justin Sun as  WTO Ambassador: Smart Regulation for Smart Technology",
+                        "twitter:domain": "techtimes.com",
+                        "author": "Thomas Ramge",
+                        "og:title": "Grenada Appoints Justin Sun as  WTO Ambassador: Smart Regulation for Smart Technology",
+                        "googlebot-news": "noindex, nofollow",
+                        "fb:pages": "628174447211715",
+                        "fb:app_id": "1047242882033344",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "As many others, it took me by surprise to learn that Justin Sun has decided to embark on a new career as a diplomat for the Caribbean country of Grenada.",
+                        "syndication-source": "https://www.techtimes.com/articles/269584/20211220/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.htm",
+                        "og:url": "https://www.techtimes.com/articles/269584/20211220/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.htm"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://1734811051.rsc.cdn77.org/data/images/full/398112/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.png"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "datemodified": "2021-12-20",
+                        "description": "As many others, it took me by surprise to learn that Justin Sun has decided to embark on a new career as a diplomat for the Caribbean country of Grenada.",
+                        "datepublished": "2021-12-20",
+                        "thumbnailurl": "https://1734811051.rsc.cdn77.org/data/images/full/398112/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.png",
+                        "mainentityofpage": "https://www.techtimes.com/articles/269584/20211220/grenada-appoints-justin-sun-as-wto-ambassador-smart-regulation-for-smart-technology.htm"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria follows China's footsteps in piloting digital currency ...",
+            "htmlTitle": "Nigeria follows China&#39;s footsteps in piloting digital currency ...",
+            "link": "https://techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/",
+            "displayLink": "techcrunch.com",
+            "snippet": "Oct 25, 2021 ... Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their\u00a0...",
+            "htmlSnippet": "Oct 25, 2021 <b>...</b> Central banks <b>control</b> the circulation and supply of money globally, but the phenomenal rise of <b>cryptocurrency</b> poses a threat to their&nbsp;...",
+            "cacheId": "G22JEN-1SvYJ",
+            "formattedUrl": "https://techcrunch.com/.../nigeria-follows-chinas-footsteps-in-piloting-digital- currency/",
+            "htmlFormattedUrl": "https://techcrunch.com/.../nigeria-follows-chinas-footsteps-in-piloting-digital- currency/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-_F1v2QkvNLpNRDguGvnXL5jeh_ixMjwUKmHVScIc_dJHjtPat1Swink",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711",
+                        "twitter:card": "summary_large_image",
+                        "sailthru.tags": "africa, Bitcoin, Central Bank of Nigeria, China, Crypto Economy, cryptocurrencies, currency, digital currencies, digital yuan, eNaira, Nigeria",
+                        "og:site_name": "TechCrunch",
+                        "cxenseparse:keywords": "africa,cryptocurrency,government,tc,bitcoin,central bank of nigeria,china,crypto economy,cryptocurrencies,currency,digital currencies,digital yuan,enaira,nigeria",
+                        "cxenseparse:url": "https://techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/",
+                        "cxenseparse:image": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711",
+                        "title": "Nigeria follows China\u2019s footsteps in piloting digital currency \u2013 TechCrunch",
+                        "msapplication-tileimage": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=270",
+                        "og:description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, b\u2026",
+                        "twitter:creator": "@ulonnaya",
+                        "cxenseparse:news_keywords": "africa,cryptocurrency,government,tc,bitcoin,central bank of nigeria,china,crypto economy,cryptocurrencies,currency,digital currencies,digital yuan,enaira,nigeria",
+                        "article:publisher": "https://www.facebook.com/techcrunch",
+                        "twitter:image": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711",
+                        "cxenseparse:modified_time": "2021-10-25T16:21:41Z",
+                        "oath:guce:product-eu": "false",
+                        "oath:guce:consent-host": "guce.techcrunch.com",
+                        "cxenseparse:author": "Tage Kene-Okafor",
+                        "twitter:site": "@techcrunch",
+                        "sailthru.title": "Nigeria follows China\u2019s footsteps in piloting digital currency",
+                        "og:site": "social.techcrunch.com",
+                        "fb:admins": "8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188",
+                        "cxenseparse:recs:publishtime": "2021-10-25T15:03:16Z",
+                        "sailthru.date": "2021-10-25 08:03:16",
+                        "og:type": "article",
+                        "twitter:title": "Nigeria follows China\u2019s footsteps in piloting digital currency",
+                        "wp-parsely_version": "2.4.1",
+                        "cxenseparse:title": "Nigeria follows China's footsteps in piloting digital currency",
+                        "cxenseparse:pageclass": "article",
+                        "og:title": "Nigeria follows China\u2019s footsteps in piloting digital currency \u2013 TechCrunch",
+                        "cxenseparse:description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, buffered by local activity and interest in cryptocurrency \u2014 [\u2026]",
+                        "sailthru.image.thumb": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=50",
+                        "fb:pages": "8062627951",
+                        "sailthru.description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, buffered by local activity and interest in cryptocurrency \u2014 [\u2026]",
+                        "fb:app_id": "187288694643718",
+                        "cxenseparse:posttype": "post",
+                        "viewport": "width=device-width",
+                        "oath:guce:inline-consent": "true",
+                        "cxenseparse:articleid": "2210974",
+                        "twitter:description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, buffered by local activity and interest in cryptocurrency \u2014 [\u2026]",
+                        "og:url": "https://social.techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/",
+                        "sailthru.author": "Tage Kene-Okafor",
+                        "sailthru.image.full": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711"
+                    }
+                ]
+            }
+        }
+    ]
+}

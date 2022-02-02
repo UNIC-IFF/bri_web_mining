@@ -1,0 +1,526 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - LIBERIA",
+                "totalResults": "392000",
+                "searchTerms": "LIBERIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - LIBERIA",
+                "totalResults": "392000",
+                "searchTerms": "LIBERIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.474532,
+        "formattedSearchTime": "0.47",
+        "totalResults": "392000",
+        "formattedTotalResults": "392,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Custody Regulations from OCC | Deloitte US",
+            "htmlTitle": "<b>Cryptocurrency</b> Custody <b>Regulations</b> from OCC | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "How can banks differentiate their cryptocurrency custody services? ... Teams that have the necessary OCC, Financial Industry Regulatory Authority (FINRA),\u00a0...",
+            "htmlSnippet": "How can banks differentiate their <b>cryptocurrency</b> custody services? ... Teams that have the necessary OCC, Financial Industry <b>Regulatory</b> Authority (FINRA),&nbsp;...",
+            "cacheId": "X8gsEZ2x1BMJ",
+            "formattedUrl": "https://www2.deloitte.com/.../cryptocurrency-custody-regulations-from-occ- deloitte-us.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/.../<b>cryptocurrency</b>-custody-<b>regulations</b>-from-occ- deloitte-us.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Custody Regulations from OCC",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+                        "og:title": "Cryptocurrency Custody Regulations from OCC",
+                        "og:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Seward & Kissel LLP",
+            "htmlTitle": "Seward &amp; Kissel LLP",
+            "link": "https://www.sewkis.com/",
+            "displayLink": "www.sewkis.com",
+            "snippet": "... on our Investment Management, Corporate Finance and Capital Markets and Regulatory practices in the context of a collegial, small-office environment.",
+            "htmlSnippet": "... on our Investment Management, Corporate Finance and Capital Markets and <b>Regulatory</b> practices in the context of a collegial, small-office environment.",
+            "cacheId": "rZzWB4wX6bcJ",
+            "formattedUrl": "https://www.sewkis.com/",
+            "htmlFormattedUrl": "https://www.sewkis.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Seward & Kissel LLP",
+                        "og:title": "Seward & Kissel LLP",
+                        "msapplication-tileimage": "https://www.sewkis.com/wp-content/uploads/cropped-site_icon-270x270.png",
+                        "og:description": "Seward & Kissel, founded in 1890, is a leading U.S. law firm with an international reputation for excellence. Our practice primarily focuses on corporate and litigation work for clients seeking legal expertise in the financial services, corporate finance and capital markets areas.",
+                        "twitter:creator": "@sewkis",
+                        "twitter:site": "@sewkis",
+                        "article:modified_time": "2022-01-13T22:10:24+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.sewkis.com/",
+                        "format-detection": "telephone=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Paul Kennedy \u7c21\u4fca\u5091",
+            "htmlTitle": "Paul Kennedy \u7c21\u4fca\u5091",
+            "link": "https://www.sfc.hk/edistributionWeb/gateway/EN/circular/aml/openFile?refNo=13EC8",
+            "displayLink": "www.sfc.hk",
+            "snippet": "Mar 15, 2013 ... Sanctions (Liberia) Regulation 2012 (Repeal) Regulation. (1) United Nations Sanctions (Democratic Republic of the Congo) Regulation 2013.",
+            "htmlSnippet": "Mar 15, 2013 <b>...</b> Sanctions (<b>Liberia</b>) <b>Regulation</b> 2012 (Repeal) <b>Regulation</b>. (1) United Nations Sanctions (Democratic Republic of the Congo) <b>Regulation</b> 2013.",
+            "cacheId": "xH3JddAr0zMJ",
+            "formattedUrl": "https://www.sfc.hk/edistributionWeb/gateway/EN/circular/aml/openFile?...",
+            "htmlFormattedUrl": "https://www.sfc.hk/edistributionWeb/gateway/EN/circular/aml/openFile?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA69mklYA5o1ZP3nncm9v_VvTkr1woBeckzr8hmZCJy5ZrpgoqAvOGvg",
+                        "width": "99",
+                        "height": "102"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20130315180009",
+                        "creator": "Microsoft\u00ae Office Word 2007",
+                        "creationdate": "D:20130315180009",
+                        "author": "myip",
+                        "producer": "Microsoft\u00ae Office Word 2007",
+                        "title": "Paul Kennedy  \u7c21\u4fca\u5091"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f4190482853c8f3d94058abfef308aceec24b869164bb90fd4b13dd9a318f613"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Business Benefit of Using Cryptocurrency | Deloitte US",
+            "htmlTitle": "The Business Benefit of Using <b>Cryptocurrency</b> | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Helping strengthen control over the capital of the enterprise; Managing the risks and opportunities of engaging in digital investments. Crypto may serve as an\u00a0...",
+            "htmlSnippet": "Helping strengthen <b>control</b> over the capital of the enterprise; Managing the risks and opportunities of engaging in digital investments. Crypto may serve as an&nbsp;...",
+            "cacheId": "N1JfjUG3OhwJ",
+            "formattedUrl": "https://www2.deloitte.com/us/en/pages/audit/.../corporates-using-crypto.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/us/en/pages/audit/.../corporates-using-crypto.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The Business Benefit of Using Cryptocurrency",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html",
+                        "og:title": "The Business Benefit of Using Cryptocurrency",
+                        "og:description": "An increasing number of companies worldwide are using digital assets for a host of investment, operational, and transactional purposes. Explore considerations for using cryptocurrency in business.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "An increasing number of companies worldwide are using digital assets for a host of investment, operational, and transactional purposes. Explore considerations for using cryptocurrency in business.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New cryptocurrency regulatory reporting changes | Wolters Kluwer",
+            "htmlTitle": "New <b>cryptocurrency regulatory</b> reporting changes | Wolters Kluwer",
+            "link": "https://www.wolterskluwer.com/en/expert-insights/new-cryptocurrency-regulatory-reporting-changes-five-key-areas-of-focus",
+            "displayLink": "www.wolterskluwer.com",
+            "snippet": "The Infrastructure Act signed into law requires IRS Form 1099-B gross proceeds and cost basis tax reporting for U.S. sales of digital assets.",
+            "htmlSnippet": "The Infrastructure Act signed into law requires IRS Form 1099-B gross proceeds and cost basis tax reporting for U.S. sales of digital assets.",
+            "cacheId": "JMrxKHNFkXQJ",
+            "formattedUrl": "https://www.wolterskluwer.com/.../new-cryptocurrency-regulatory-reporting- changes-five-key-areas-of-focus",
+            "htmlFormattedUrl": "https://www.wolterskluwer.com/.../new-<b>cryptocurrency</b>-<b>regulatory</b>-reporting- changes-five-key-areas-of-focus",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkmqsjNh17bgxrHwCtafN8PLifbR7XCqAPOOv2dJKHAZTmBsLWSRFGKs",
+                        "width": "450",
+                        "height": "112"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.contenthub.wolterskluwer.com/api/public/content/02e5d1de85df4c458c77ada43a909f14?v=7abc17f7",
+                        "twitter:title": "New cryptocurrency regulatory reporting changes \u2013 Five key areas of focus",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=5",
+                        "twitter:description": "The Infrastructure Act signed into law by President Biden requires IRS Form 1099-B gross proceeds and cost basis tax reporting for U.S. sales of digital assets, including cryptocurrencies, effective starting in 2024 for all returns filed.",
+                        "og:title": "New cryptocurrency regulatory reporting changes \u2013 Five key areas of focus",
+                        "og:url": "https://www.wolterskluwer.com/en/expert-insights/new-cryptocurrency-regulatory-reporting-changes-five-key-areas-of-focus",
+                        "og:description": "The Infrastructure Act signed into law by President Biden requires IRS Form 1099-B gross proceeds and cost basis tax reporting for U.S. sales of digital assets, including cryptocurrencies, effective starting in 2024 for all returns filed.",
+                        "twitter:image": "https://assets.contenthub.wolterskluwer.com/api/public/content/02e5d1de85df4c458c77ada43a909f14?v=7abc17f7"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.contenthub.wolterskluwer.com/api/public/content/02e5d1de85df4c458c77ada43a909f14?v=7abc17f7"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Transforming Trade Logistics in Liberia | World Bank Group",
+            "htmlTitle": "Transforming Trade Logistics in <b>Liberia</b> | World Bank Group",
+            "link": "https://olc.worldbank.org/content/transforming-trade-logistics-liberia",
+            "displayLink": "olc.worldbank.org",
+            "snippet": "Nov 13, 2015 ... The project is part of a larger Investment Climate Program meant to sustain and deepen reforms in business regulation, taxation, trade logistics\u00a0...",
+            "htmlSnippet": "Nov 13, 2015 <b>...</b> The project is part of a larger Investment Climate Program meant to sustain and deepen reforms in business <b>regulation</b>, taxation, trade logistics&nbsp;...",
+            "cacheId": "d4piD2cZ6ykJ",
+            "formattedUrl": "https://olc.worldbank.org/content/transforming-trade-logistics-liberia",
+            "htmlFormattedUrl": "https://olc.worldbank.org/content/transforming-trade-logistics-<b>liberia</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPzQIlyhb0Tm-gDAT9N3Bq3W5g6zptdh1dUObAtn2tcRb8A3NMwGee7o",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "image": "https://olc.worldbank.org/sites/default/files/styles/preview_image/public/Transforming_Logistics_Liberia.jpg?itok=PD0-NfAl",
+                        "og:type": "website",
+                        "og:site_name": "olc.worldbank.org",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+                        "mobileoptimized": "width",
+                        "og:title": "Transforming Trade Logistics in Liberia | World Bank Group",
+                        "og:url": "https://olc.worldbank.org/content/transforming-trade-logistics-liberia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://olc.worldbank.org/sites/default/files/Transforming_Logistics_Liberia.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Liberia says lacks cash not will to fight blood diamonds | Reuters",
+            "htmlTitle": "<b>Liberia</b> says lacks cash not will to fight blood diamonds | Reuters",
+            "link": "https://www.reuters.com/article/ozatp-liberia-un-diamonds-20120914-idAFJOE88D01C20120914",
+            "displayLink": "www.reuters.com",
+            "snippet": "Sep 14, 2012 ... Liberia has challenged a United Nations report that questioned its ... efforts to regulate the trade, known as the Kimberley Process.",
+            "htmlSnippet": "Sep 14, 2012 <b>...</b> <b>Liberia</b> has challenged a United Nations report that questioned its ... efforts to <b>regulate</b> the trade, known as the Kimberley Process.",
+            "cacheId": "YvziY-Z8U5UJ",
+            "formattedUrl": "https://www.reuters.com/.../ozatp-liberia-un-diamonds-20120914- idAFJOE88D01C20120914",
+            "htmlFormattedUrl": "https://www.reuters.com/.../ozatp-<b>liberia</b>-un-diamonds-20120914- idAFJOE88D01C20120914",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLvksJKHaVkrZlkG0MG5rLrQxBeTI5wOyqG1_R99ajazi6Ulnv8Y2noTw",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20120914&t=2&i=652859857&r=AJOE88D0WC700&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2012-09-14T11:38:32Z",
+                        "analyticsattributes.backendchannellist": "topNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Liberia has challenged a United Nations report that questioned its commitment to stamp out the trade in blood diamonds, saying it lacked the means not the will to clean up its role in the industry.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2012-09-14T11:38:32Z",
+                        "og:article:section": "Top News",
+                        "analyticsattributes.articledate": "2012-09-14T11:38:32Z",
+                        "dcsext.dartzone": "reuters.com/wiredefault/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "OZATP,LIBERIA,UN,DIAMONDS,20120914,Africa,Overseas Development Aid,Conflicts / War / Peace,Diamond Markets,Diplomacy / Foreign Policy,Emerging Market Countries,Liberia,Mining,Government / Politics,International / National Security,United Nations",
+                        "og:article:published_time": "2012-09-14T11:23:43Z",
+                        "og:article:tag": "OZATP,LIBERIA,UN,DIAMONDS,20120914,Africa,Overseas Development Aid,Conflicts / War / Peace,Diamond Markets,Diplomacy / Foreign Policy,Emerging Market Countries,Liberia,Mining,Government / Politics,International / National Security,United Nations",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20120914&t=2&i=652859857&r=AJOE88D0WC700&w=800",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "topNews",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20120914&t=2&i=652859857&r=AJOE88D0WC700&w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Liberia says lacks cash not will to fight blood diamonds",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AFR,AID,CWP,DIAM,DIP,EMRG,LR,MIN,POL,SECUR,UN1",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20120914&t=2&i=652859857&r=AJOE88D0WC700&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "OZATP;LIBERIA;UN;DIAMONDS;20120914;Africa;Overseas Development Aid;Conflicts / War / Peace;Diamond Markets;Diplomacy / Foreign Policy;Emerging Market Countries;Liberia;Mining;Government / Politics;International / National Security;United Nations",
+                        "sailthru.title": "Liberia says lacks cash not will to fight blood diamonds",
+                        "analyticsattributes.contenttitle": "Liberia says lacks cash not will to fight blood diamonds",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/ozatp-liberia-un-diamonds-20120914-idAFJOE88D01C20120914",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2012-09-14T11:38:32Z",
+                        "og:type": "article",
+                        "twitter:title": "Liberia says lacks cash not will to fight blood diamonds",
+                        "og:title": "Liberia says lacks cash not will to fight blood diamonds",
+                        "dcsext.channellist": "topNews",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "OZATP-LIBERIA-UN-DIAMONDS-20120914",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "-",
+                        "sailthru.description": "Liberia has challenged a United Nations report that questioned its commitment to stamp out the trade in blood diamonds, saying it lacked the means not the will to clean up its role in the industry.",
+                        "fb:app_id": "988502044532272",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Liberia has challenged a United Nations report that questioned its commitment to stamp out the trade in blood diamonds, saying it lacked the means not the will to clean up its role in the industry.",
+                        "analyticsattributes.topicn2names": "Africa,Overseas Development Aid,Conflicts / War / Peace,Diamond Markets,Diplomacy / Foreign Policy,Emerging Market Countries,Liberia,Mining,Government / Politics,International / National Security,United Nations",
+                        "og:url": "https://www.reuters.com/article/ozatp-liberia-un-diamonds-20120914-idAFJOE88D01C20120914"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20120914&t=2&i=652859857&r=AJOE88D0WC700&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulations in US & Abroad",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulations</b> in US &amp; Abroad",
+            "link": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Jan 27, 2021 ... How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "htmlSnippet": "Jan 27, 2021 <b>...</b> How the <b>laws</b> &amp; <b>regulations</b> affecting blockchain technology and <b>cryptocurrencies</b>, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "cacheId": "Mvo5XQTizbcJ",
+            "formattedUrl": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us- global",
+            "htmlFormattedUrl": "https://www.businessinsider.com/blockchain-<b>cryptocurrency</b>-<b>regulations</b>-us- global",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0SsBztfFwqsWxHy5W3WHKbdkxx1gx1y5qYCEP69RFVI0cKCbiKHnV7E",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-01-27",
+                        "og:image": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "og:description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@clusterstock",
+                        "news_keywords": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "sailthru.title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-03-02T21:21:33Z",
+                        "pubdate": "2021-01-27T20:36:11Z",
+                        "sailthru.verticals": "clusterstock, research",
+                        "sailthru.date": "2021-01-27",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "Global Finance Execs' View Of Blockchain Challenges",
+                        "author": "Insider Intelligence",
+                        "tbi-vertical": "Finance",
+                        "og:title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "ia:markup_url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+                        "sailthru.author": "Insider Intelligence",
+                        "sailthru.image.full": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        }
+    ]
+}

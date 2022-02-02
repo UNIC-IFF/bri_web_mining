@@ -1,0 +1,690 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - PARAGUAY",
+                "totalResults": "804000",
+                "searchTerms": "PARAGUAY",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - PARAGUAY",
+                "totalResults": "804000",
+                "searchTerms": "PARAGUAY",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.311477,
+        "formattedSearchTime": "0.31",
+        "totalResults": "804000",
+        "formattedTotalResults": "804,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Paraguay Eyes Crypto Regulations in 2022 | PYMNTS.com",
+            "htmlTitle": "<b>Paraguay</b> Eyes Crypto <b>Regulations</b> in 2022 | PYMNTS.com",
+            "link": "https://www.pymnts.com/blockchain/bitcoin/2021/bitcoin-daily-paraguay-lawmakers-could-approve-crypto-regulations-in-2022-bitcoins-1-controls-most-of-the-cryptocurrencys-wealth/",
+            "displayLink": "www.pymnts.com",
+            "snippet": "Dec 23, 2021 ... Bitcoin Daily: Paraguay Lawmakers Could Approve Crypto Regulations in 2022; Bitcoin's '1%' Controls Most of the Cryptocurrency's Wealth.",
+            "htmlSnippet": "Dec 23, 2021 <b>...</b> Bitcoin Daily: <b>Paraguay</b> Lawmakers Could Approve Crypto <b>Regulations</b> in 2022; Bitcoin&#39;s &#39;1%&#39; Controls Most of the <b>Cryptocurrency&#39;s</b> Wealth.",
+            "cacheId": "1LrdhNkB3w0J",
+            "formattedUrl": "https://www.pymnts.com/.../bitcoin-daily-paraguay-lawmakers-could- approve-crypto-regulations-in-2022-bitcoins-1-controls-most-of-the- ...",
+            "htmlFormattedUrl": "https://www.pymnts.com/.../bitcoin-daily-<b>paraguay</b>-<b>law</b>makers-could- approve-crypto-<b>regulations</b>-in-2022-bitcoins-1-<b>control</b>s-most-of-the- ...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0fRNY-W7J3oHRydSQaT-CsSXsh8DEi_9lFT1HBbCw-cvjchSbo174F4c4",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Bitcoin-Daily-Paraguay-1000x600.jpg",
+                        "article:published_time": "2021-12-23T12:00:11-05:00",
+                        "og:type": "article",
+                        "twitter:title": "Paraguay Eyes Crypto Regulations in 2022",
+                        "twitter:card": "summary_large_image",
+                        "twitter:domain": "https://www.pymnts.com/",
+                        "msvalidate.01": "ED6511722D66805E697F4B337E96D89A",
+                        "og:title": "Paraguay Eyes Crypto Regulations in 2022",
+                        "msapplication-tileimage": "https://securecdn.pymnts.com/wp-content/uploads/2019/04/cropped-512-1-270x270.jpg",
+                        "og:description": "Cryptocurrency in the South American nation of Paraguay could be facing new rules while data shows 1% of Bitcoin owners controls about 27% of the cryptocurrency.",
+                        "twitter:creator": "PYMNTS.com",
+                        "twitter:image": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Bitcoin-Daily-Paraguay-1000x600.jpg",
+                        "twitter:site": "PYMNTS.com",
+                        "article:modified_time": "2021-12-23T00:19:47-05:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes",
+                        "twitter:description": "Cryptocurrency in the South American nation of Paraguay could be facing new rules while data shows 1% of Bitcoin owners controls about 27% of the cryptocurrency.",
+                        "og:url": "https://www.pymnts.com/blockchain/bitcoin/2021/bitcoin-daily-paraguay-lawmakers-could-approve-crypto-regulations-in-2022-bitcoins-1-controls-most-of-the-cryptocurrencys-wealth/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Bitcoin-Daily-Paraguay-1000x600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Paraguay unveils new cryptocurrency law",
+            "htmlTitle": "<b>Paraguay</b> unveils new <b>cryptocurrency law</b>",
+            "link": "https://www.yahoo.com/now/paraguay-unveils-cryptocurrency-law-143911714.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Jul 16, 2021 ... Paraguay unveils new cryptocurrency law \u00b7 Paraguay today is embarking on a historic regulatory journey, assuring our coveted electrical\u00a0...",
+            "htmlSnippet": "Jul 16, 2021 <b>...</b> <b>Paraguay</b> unveils new <b>cryptocurrency law</b> &middot; <b>Paraguay</b> today is embarking on a historic <b>regulatory</b> journey, assuring our coveted electrical&nbsp;...",
+            "cacheId": "FcLrO7DcUpYJ",
+            "formattedUrl": "https://www.yahoo.com/.../paraguay-unveils-cryptocurrency-law-143911714 .html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>paraguay</b>-unveils-<b>cryptocurrency</b>-<b>law</b>-143911714 .html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3I_evHO8w3rDAa8uP8B1uJFtdr7aQfMcTeBAf0GISTWwyEp5S5TfJeJK",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/b7d9c61b-3a24-3029-98e2-cf37f7ff058f",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/XMVq4kvZz_jD_80JPq8vMA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/f82246561557fba1541b5ba976802d67",
+                        "twitter:title": "Paraguay unveils new cryptocurrency law",
+                        "og:type": "article",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Paraguay unveils new cryptocurrency law",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "667",
+                        "og:description": "After a month of anticipation, the finalised details of Paraguay\u2019s new crypto legislation have been revealed as the country moves to become a key player in Latin America\u2019s unfolding crypto race.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/XMVq4kvZz_jD_80JPq8vMA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/f82246561557fba1541b5ba976802d67",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/XMVq4kvZz_jD_80JPq8vMA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/f82246561557fba1541b5ba976802d67",
+                        "al:android:url": "yfinance://article/b7d9c61b-3a24-3029-98e2-cf37f7ff058f",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "National Congress of Paraguay, Paraguay, Fernando Silva Facetti, National Electricity Administration, crypto legislation",
+                        "twitter:description": "After a month of anticipation, the finalised details of Paraguay\u2019s new crypto legislation have been revealed as the country moves to become a key player in Latin America\u2019s unfolding crypto race.",
+                        "og:url": "https://finance.yahoo.com/news/paraguay-unveils-cryptocurrency-law-143911714.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/XMVq4kvZz_jD_80JPq8vMA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/f82246561557fba1541b5ba976802d67"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Paraguay wants to regulate crypto mining and trading, but its ...",
+            "htmlTitle": "<b>Paraguay</b> wants to <b>regulate</b> crypto mining and trading, but its ...",
+            "link": "https://www.businessinsider.in/cryptocurrency/news/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview/articleshow/84408347.cms",
+            "displayLink": "www.businessinsider.in",
+            "snippet": "Jul 15, 2021 ... The hype around Paraguay becoming the second country to legalise Bitcoin has been building since El Salvador announced the cryptocurrency as\u00a0...",
+            "htmlSnippet": "Jul 15, 2021 <b>...</b> The hype around <b>Paraguay</b> becoming the second country to legalise Bitcoin has been building since El Salvador announced the <b>cryptocurrency</b> as&nbsp;...",
+            "cacheId": "jN8DqKB1rqEJ",
+            "formattedUrl": "https://www.businessinsider.in/cryptocurrency/.../paraguay.../84408347.cms",
+            "htmlFormattedUrl": "https://www.businessinsider.in/<b>cryptocurrency</b>/.../<b>paraguay</b>.../84408347.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPgQ1sjgN7arMX50CTmufc419S18VN2RQsj563BO0xxnVDOyZypzxG2vs",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.businessinsider.in/photo/84408347/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview.jpg?imgsize=84184",
+                        "twitter:title": "Paraguay wants to regulate crypto mining and trading, but its proposed laws are nothing like El Salvador",
+                        "og:type": "article",
+                        "og:image:alt": "Paraguay wants to regulate crypto mining and trading, but its proposed laws are nothing like El Salvador",
+                        "website": "https://www.businessinsider.in",
+                        "og:site_name": "Business Insider",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://www.businessinsider.in/cryptocurrency/news/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview/articleshow/84408347.cms",
+                        "og:title": "Paraguay wants to regulate crypto mining and trading, but its proposed laws are nothing like El Salvador",
+                        "og:description": "A leaked version of Paraguay\u2019s upcoming crypto bill may put a stop to speculations about its crypto friendliness. The bill seeks to give crypto mining the",
+                        "twitter:image": "https://www.businessinsider.in/photo/84408347/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview.jpg?imgsize=84184",
+                        "snapchat:sticker": "https://www.businessinsider.in/thumb/msid-84408347,width-1200,height-900,imgsize=84184/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview.jpg",
+                        "snapchat": "biindia",
+                        "twitter:image:alt": "Paraguay wants to regulate crypto mining and trading, but its proposed laws are nothing like El Salvador",
+                        "fb:app_id": "645465345465774",
+                        "news_keywords": "paraguay trading,paraguay cryptocurrency,paraguay crypto mining in india,paraguay crypto mining,Paraguay",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "A leaked version of Paraguay\u2019s upcoming crypto bill may put a stop to speculations about its crypto friendliness. The bill seeks to give crypto mining the",
+                        "mobileoptimized": "320",
+                        "fb:admins": "556964827",
+                        "og:url": "https://www.businessinsider.in/cryptocurrency/news/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview/articleshow/84408347.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.in/photo/84408347/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview.jpg?imgsize=84184"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.in/cryptocurrency/news/paraguay-wants-to-bring-crypto-mining-trading-under-legal-purview/articleshow/84408347.cms",
+                        "name": "Paraguay wants to regulate crypto mining and trading, but its proposed laws are nothing like El Salvador",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba will recognize and regulate cryptocurrency | Fortune",
+            "htmlTitle": "Cuba will recognize and <b>regulate cryptocurrency</b> | Fortune",
+            "link": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+            "displayLink": "fortune.com",
+            "snippet": "Aug 27, 2021 ... ... said Friday it is drafting legislation to regulate cryptocurrency ... countries including Paraguay, Mexico, and Panama have in the past\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> ... said Friday it is drafting legislation to <b>regulate cryptocurrency</b> ... countries including <b>Paraguay</b>, Mexico, and Panama have in the past&nbsp;...",
+            "cacheId": "vzQ35OOmYHEJ",
+            "formattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-regulate-cryptocurrency /",
+            "htmlFormattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-<b>regulate</b>-<b>cryptocurrency</b> /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-oeQq7FuycUaIAek04r3NWd89394Os0Hx4pU41Ve6PZuDNonH0HO1PA",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:height": "619",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Paraguay Audits Local Crypto Industry to Prepare for FATF-Style ...",
+            "htmlTitle": "<b>Paraguay</b> Audits Local Crypto Industry to Prepare for FATF-Style ...",
+            "link": "https://www.coindesk.com/policy/2019/12/24/paraguay-audits-local-crypto-industry-to-prepare-for-fatf-style-regulations/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Dec 24, 2019 ... Never before has this landlocked nation of 6.8 million regulated cryptocurrencies, although its central bank warned the public last June that\u00a0...",
+            "htmlSnippet": "Dec 24, 2019 <b>...</b> Never before has this landlocked nation of 6.8 million <b>regulated cryptocurrencies</b>, although its central bank warned the public last June that&nbsp;...",
+            "cacheId": "PG97m-jnPEoJ",
+            "formattedUrl": "https://www.coindesk.com/.../paraguay-audits-local-crypto-industry-to- prepare-for-fatf-style-regulations/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>paraguay</b>-audits-local-crypto-industry-to- prepare-for-fatf-style-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBv0ZOh6EYCvxrObfTYs1ozVaXYUYyO2g_11rV3bCjsDfAHJ-0vCJahE",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/wsCuPGavdeS8AxZLY-iC1dFMmD0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QX7TKM4NHFE7BAHMNX6QY27ZTE.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2019-12-24T18:45:04Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Paraguay Audits Local Crypto Industry to Prepare for FATF-Style Regulations",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Paraguay Audits Local Crypto Industry to Prepare for FATF-Style Regulations",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Paraguay has conducted a mass audit of local cryptocurrency businesses, paving the way for the country\u2019s first virtual asset regulations in 2020.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Danny Nelson",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/7iNRi9Q77Jbvy_LniFUY6JBN9No=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QX7TKM4NHFE7BAHMNX6QY27ZTE.jpg",
+                        "article:tag": "FATF, Paraguay, SEPRELAD, Cripex",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2019-12-24T18:45:04Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Paraguay has conducted a mass audit of local cryptocurrency businesses, paving the way for the country\u2019s first virtual asset regulations in 2020.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2019/12/24/paraguay-audits-local-crypto-industry-to-prepare-for-fatf-style-regulations/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/wsCuPGavdeS8AxZLY-iC1dFMmD0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QX7TKM4NHFE7BAHMNX6QY27ZTE.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Paraguay | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Paraguay</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/paraguay",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Paraguay for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Paraguay</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "nZ204OrL8-UJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/paraguay",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>paraguay</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Paraguay for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Paraguay | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Paraguay for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Paraguay | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/paraguay"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Paraguay and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Paraguay</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman <b>Law</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/paraguay/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Paraguay? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Paraguay</b>? Freeman <b>Law</b> can help with digital currencies and tax compliance. Schedule a free consultation!",
+            "cacheId": "mZrCRyar6Q8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/paraguay/",
+            "htmlFormattedUrl": "https://freeman<b>law</b>.com/<b>cryptocurrency</b>/<b>paraguay</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-31T21:27:50+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/paraguay/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Paraguay? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:20:18+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Paraguay and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Paraguay and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:20:18+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Paraguay and Cryptocurrency Paraguay Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Virtual currencies are not controlled, supervised, or regulated in Paraguay. The only legal tender issued by the Banco Central del Paraguay (BCP) is Guarani...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/paraguay/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Regulation In Paraguay - Bitcoin Magazine: Bitcoin News ...",
+            "htmlTitle": "Bitcoin <b>Regulation</b> In <b>Paraguay</b> - Bitcoin Magazine: Bitcoin News ...",
+            "link": "https://bitcoinmagazine.com/culture/bitcoin-regulation-in-paraguay",
+            "displayLink": "bitcoinmagazine.com",
+            "snippet": "Aug 5, 2021 ... Sticking To The Regulated Path For Bitcoin In Paraguay ... to clarify the legal status of bitcoin and other cryptocurrencies in his country.",
+            "htmlSnippet": "Aug 5, 2021 <b>...</b> Sticking To The <b>Regulated</b> Path For Bitcoin In <b>Paraguay</b> ... to clarify the legal status of bitcoin and other <b>cryptocurrencies</b> in his country.",
+            "cacheId": "AyGM1TWmG4UJ",
+            "formattedUrl": "https://bitcoinmagazine.com/culture/bitcoin-regulation-in-paraguay",
+            "htmlFormattedUrl": "https://bitcoinmagazine.com/culture/bitcoin-<b>regulation</b>-in-<b>paraguay</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkHthAd86B_ZfBTzjxOhwBgM_ASH33kdsfqHQmwFlAiOXaiLklAmY8T78F",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "article",
+                        "og:image": "https://bitcoinmagazine.com/.image/t_share/MTgyOTM0OTE2ODUyMzYwNjEx/bitcoin-in-paraguay.png",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides",
+                        "sailthru.tags": "China,Regulation,Bitcoin mining,Culture,Paraguay",
+                        "twitter:url": "https://bitcoinmagazine.com/culture/bitcoin-regulation-in-paraguay",
+                        "apple-mobile-web-app-title": "Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides",
+                        "parsely-author": "Peter Chawaga",
+                        "section": "Culture",
+                        "phx:content-item-id": "ci0289ea4ad0002560",
+                        "og:description": "Architects of Paraguay\u2019s Bitcoin legislation argue that its regulatory framework is the best way to foster a mining industry in the country.",
+                        "twitter:image": "https://bitcoinmagazine.com/.image/t_share/MTgyOTM0OTE2ODUyMzYwNjEx/bitcoin-in-paraguay.png",
+                        "phx:content-object-type": "ContentArticle",
+                        "parsely-link": "https://bitcoinmagazine.com/culture/bitcoin-regulation-in-paraguay",
+                        "sailthru.title": "Sticking To The Regulated Path For Bitcoin In Paraguay",
+                        "parsely-image-url": "https://bitcoinmagazine.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTgyOTM0OTE2ODUyMzYwNjEx/bitcoin-in-paraguay.png",
+                        "phx:site-keyword": "bitcoin",
+                        "parsely-section": "Culture",
+                        "dcterms.datecopyrighted": "2022",
+                        "sailthru.date": "2021-08-05T14:54:07Z",
+                        "og:type": "article",
+                        "twitter:domain": "bitcoinmagazine.com",
+                        "parsely-post-id": "ci0289ea4ad0002560",
+                        "handheldfriendly": "True",
+                        "author": "Peter Chawaga",
+                        "og:title": "Sticking To The Regulated Path For Bitcoin In Paraguay",
+                        "pinterest": "nohover",
+                        "published": "2021-08-05T14:54:07Z",
+                        "parsely-title": "Sticking To The Regulated Path For Bitcoin In Paraguay - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides",
+                        "tags": "China, Regulation, Bitcoin mining, Paraguay",
+                        "parsely-pub-date": "2021-08-05T14:54:07Z",
+                        "phx:exclusive-content-type": "free",
+                        "pinterest-rich-pin": "true",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "China,Regulation,Bitcoin mining,Culture,Paraguay",
+                        "sailthru.description": "Architects of Paraguay\u2019s Bitcoin legislation argue that its regulatory framework is the best way to foster a mining industry in the country.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "item-id": "ci0289ea4ad0002560",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Architects of Paraguay\u2019s Bitcoin legislation argue that its regulatory framework is the best way to foster a mining industry in the country.",
+                        "apple-mobile-web-app-capable": "no",
+                        "mobileoptimized": "320",
+                        "og:url": "https://bitcoinmagazine.com/culture/bitcoin-regulation-in-paraguay",
+                        "sailthru.image.full": "https://bitcoinmagazine.com/.image/t_share/MTgyOTM0OTE2ODUyMzYwNjEx/bitcoin-in-paraguay.png",
+                        "sailthru.author": "Peter Chawaga",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://bitcoinmagazine.com/.image/t_share/MTgyOTM0OTE2ODUyMzYwNjEx/bitcoin-in-paraguay.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Paraguay preps for cryptocurrency regulation",
+            "htmlTitle": "<b>Paraguay</b> preps for <b>cryptocurrency regulation</b>",
+            "link": "https://contxto.com/en/paraguay/paraguay-preps-cryptocurrency-regulation/",
+            "displayLink": "contxto.com",
+            "snippet": "Dec 30, 2019 ... What moved the Paraguayan government to look into formalizing cryptocurrencies stemmed from the Financial Action Task Force (FATF). This inter-\u00a0...",
+            "htmlSnippet": "Dec 30, 2019 <b>...</b> What moved the <b>Paraguayan</b> government to look into formalizing <b>cryptocurrencies</b> stemmed from the Financial Action Task Force (FATF). This inter-&nbsp;...",
+            "cacheId": "_7U1T7-FreYJ",
+            "formattedUrl": "https://contxto.com/en/paraguay/paraguay-preps-cryptocurrency-regulation/",
+            "htmlFormattedUrl": "https://contxto.com/en/<b>paraguay</b>/<b>paraguay</b>-preps-<b>cryptocurrency</b>-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCwue5zs1DUcY88Jh6knFEchd-wSbJMVPjjtKs7OOVbbTosqesrjbnw9Y",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://contxto.com/wp-content/uploads/2019/04/272X90-03.png"
+                    },
+                    {
+                        "width": "1300",
+                        "url": "https://i0.wp.com/contxto.com/wp-content/uploads/2019/12/Paraguay_crypto_regulation.jpg?fit=1300%2C677&ssl=1",
+                        "height": "677"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Mariana L\u00f3pez"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Contxto"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i0.wp.com/contxto.com/wp-content/uploads/2019/12/Paraguay_crypto_regulation.jpg?fit=1300%2C677&ssl=1",
+                        "og:type": "article",
+                        "article:published_time": "2019-12-30T14:59:00+00:00",
+                        "og:image:width": "1300",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Contxto",
+                        "og:title": "Paraguay preps for cryptocurrency regulation",
+                        "og:image:height": "677",
+                        "msapplication-tileimage": "https://i0.wp.com/contxto.com/wp-content/uploads/2019/01/cropped-icono-04-1.png?fit=270%2C270&ssl=1",
+                        "og:description": "For Paraguay, mapping out the crypto industry is the first step towards achieving cryptocurrency regulation by mid-2020.",
+                        "twitter:creator": "@contxto_",
+                        "fb:pages": "495342720979440",
+                        "article:publisher": "https://www.facebook.com/Contxto-495342720979440/",
+                        "twitter:site": "@contxto_",
+                        "article:modified_time": "2019-12-30T01:05:27+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://contxto.com/en/paraguay/paraguay-preps-cryptocurrency-regulation/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i0.wp.com/contxto.com/wp-content/uploads/2019/12/Paraguay_crypto_regulation.jpg?fit=1300%2C677&ssl=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "datemodified": "2019-12-29T19:05:27+00:00",
+                        "headline": "Paraguay preps for cryptocurrency regulation",
+                        "datepublished": "2019-12-30T08:59:00+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Here Is Paraguay's New Bitcoin Bill - The Street Crypto: Bitcoin and ...",
+            "htmlTitle": "Here Is <b>Paraguay&#39;s</b> New Bitcoin Bill - The Street Crypto: Bitcoin and ...",
+            "link": "https://www.thestreet.com/crypto/bitcoin/a-bill-to-regulate-bitcoin-in-paraguay-has-been-proposed",
+            "displayLink": "www.thestreet.com",
+            "snippet": "Jul 14, 2021 ... Paraguayan Congressman Carlitos Rejala has created and proposed a bill to ... a bill to regulate Bitcoin and cryptocurrencies in the nation.",
+            "htmlSnippet": "Jul 14, 2021 <b>...</b> <b>Paraguayan</b> Congressman Carlitos Rejala has created and proposed a bill to ... a bill to <b>regulate</b> Bitcoin and <b>cryptocurrencies</b> in the nation.",
+            "cacheId": "irVvlW8lB2oJ",
+            "formattedUrl": "https://www.thestreet.com/.../a-bill-to-regulate-bitcoin-in-paraguay-has-been- proposed",
+            "htmlFormattedUrl": "https://www.thestreet.com/.../a-bill-to-<b>regulate</b>-bitcoin-in-<b>paraguay</b>-has-been- proposed",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKWAZIdHmPZrV2ek3FxRjJGui9Y7uuPYGGHrNm3JZrlumWtL8X-HCotwQ-",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "article",
+                        "og:image": "https://www.thestreet.com/.image/t_share/MTgyNDI2NDcwMDMzOTI1MjUx/visual-stories-micheile-ntikr1fgggi-unsplash.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Street Crypto: Bitcoin and cryptocurrency news, advice, analysis and more",
+                        "twitter:url": "https://www.thestreet.com/crypto/bitcoin/a-bill-to-regulate-bitcoin-in-paraguay-has-been-proposed",
+                        "apple-mobile-web-app-title": "The Street Crypto: Bitcoin and cryptocurrency news, advice, analysis and more",
+                        "parsely-author": "Luke Conway",
+                        "section": "Bitcoin",
+                        "phx:content-item-id": "ci02881bcb40002548",
+                        "twitter:creator": "@@Luke_Conway_",
+                        "og:description": "Paraguayan Congressman Carlitos Rejala has created and proposed a bill to regulate Bitcoin in the nation. Read the full document here.",
+                        "phx:content-object-type": "ContentArticle",
+                        "phx:site-keyword": "crypto",
+                        "modified": "2021-07-15T17:34:38Z",
+                        "dcterms.datecopyrighted": "2022",
+                        "twitter:domain": "www.thestreet.com",
+                        "author": "Luke Conway",
+                        "published": "2021-07-14T19:36:10Z",
+                        "tags": "Cryptocurrency, Paraguay, Carlitos Rejala, Crypto, Latin America, Bitcoin Adoption, Bitcoin",
+                        "parsely-pub-date": "2021-07-14T19:36:10Z",
+                        "parsely-tags": "Paraguay,Cryptocurrency,Latin America,Paraguay,Carlitos Rejala,Crypto,Crypto,Cryptocurrency,Latin America,Bitcoin Adoption,Bitcoin Adoption,Bitcoin,Carlitos Rejala,Bitcoin,Bitcoin",
+                        "item-id": "ci02881bcb40002548",
+                        "mobileoptimized": "320",
+                        "sailthru.image.full": "https://www.thestreet.com/.image/t_share/MTgyNDI2NDcwMDMzOTI1MjUx/visual-stories-micheile-ntikr1fgggi-unsplash.jpg",
+                        "sailthru.author": "Luke Conway",
+                        "format-detection": "telephone=no",
+                        "sailthru.tags": "Paraguay,Cryptocurrency,Latin America,Paraguay,Carlitos Rejala,Crypto,Crypto,Cryptocurrency,Latin America,Bitcoin Adoption,Bitcoin Adoption,Bitcoin,Carlitos Rejala,Bitcoin,Bitcoin",
+                        "twitter:image": "https://www.thestreet.com/.image/t_share/MTgyNDI2NDcwMDMzOTI1MjUx/visual-stories-micheile-ntikr1fgggi-unsplash.jpg",
+                        "twitter:site": "@@rjpiii",
+                        "parsely-link": "https://www.thestreet.com/crypto/bitcoin/a-bill-to-regulate-bitcoin-in-paraguay-has-been-proposed",
+                        "sailthru.title": "Here Is Paraguay's New Bitcoin Bill",
+                        "parsely-image-url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyNDI2NDcwMDMzOTI1MjUx/visual-stories-micheile-ntikr1fgggi-unsplash.jpg",
+                        "parsely-section": "Bitcoin",
+                        "sailthru.date": "2021-07-14T19:36:10Z",
+                        "og:type": "article",
+                        "parsely-post-id": "ci02881bcb40002548",
+                        "handheldfriendly": "True",
+                        "og:title": "Here Is Paraguay's New Bitcoin Bill",
+                        "parsely-title": "Here Is Paraguay's New Bitcoin Bill - The Street Crypto: Bitcoin and cryptocurrency news, advice, analysis and more",
+                        "phx:exclusive-content-type": "free",
+                        "pinterest-rich-pin": "true",
+                        "referrer": "unsafe-url",
+                        "fb:app_id": "1103097776498609",
+                        "sailthru.description": "Paraguayan Congressman Carlitos Rejala has created and proposed a bill to regulate Bitcoin in the nation. Read the full document here.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Paraguayan Congressman Carlitos Rejala has created and proposed a bill to regulate Bitcoin in the nation. Read the full document here.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.thestreet.com/crypto/bitcoin/a-bill-to-regulate-bitcoin-in-paraguay-has-been-proposed"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "name": "Home"
+                    },
+                    {
+                        "name": "Crypto"
+                    },
+                    {
+                        "name": "Bitcoin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.thestreet.com/.image/t_share/MTgyNDI2NDcwMDMzOTI1MjUx/visual-stories-micheile-ntikr1fgggi-unsplash.jpg"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "position": "1"
+                    },
+                    {
+                        "position": "2"
+                    },
+                    {
+                        "position": "3"
+                    }
+                ]
+            }
+        }
+    ]
+}

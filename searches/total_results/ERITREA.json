@@ -1,0 +1,552 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ERITREA",
+                "totalResults": "469000",
+                "searchTerms": "ERITREA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ERITREA",
+                "totalResults": "469000",
+                "searchTerms": "ERITREA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.367332,
+        "formattedSearchTime": "0.37",
+        "totalResults": "469000",
+        "formattedTotalResults": "469,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Eritrea | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Eritrea</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/eritrea",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Eritrea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Eritrea</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "na-sofBhXP8J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/eritrea",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>eritrea</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Eritrea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Eritrea | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Eritrea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Eritrea | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/eritrea"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from nonexistent or partial <b>regulations</b> to prohibitions. Here are the key areas&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+            "htmlTitle": "Africa in the news: Ethiopia, Nigeria, and internet <b>control</b> updates",
+            "link": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/",
+            "displayLink": "www.brookings.edu",
+            "snippet": "Mar 6, 2021 ... ... Nigeria to regulate cryptocurrencies, schoolgirls released amid ... Ethiopian and Eritrean troops carried out multiple war crimes in\u00a0...",
+            "htmlSnippet": "Mar 6, 2021 <b>...</b> ... Nigeria to <b>regulate cryptocurrencies</b>, schoolgirls released amid ... Ethiopian and <b>Eritrean</b> troops carried out multiple war crimes in&nbsp;...",
+            "cacheId": "HukjMxrx3YEJ",
+            "formattedUrl": "https://www.brookings.edu/.../africa-in-the-news-ethiopia-nigeria-and- internet-control-updates/",
+            "htmlFormattedUrl": "https://www.brookings.edu/.../africa-in-the-news-ethiopia-nigeria-and- internet-<b>control</b>-updates/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "fn": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfogikiXnwiYXM2klcsxjtcYDp_81TwJt76s_LAxloef8SVE4pmTbJnnXt",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "400",
+                        "url": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "width": "1030",
+                        "url": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1030&h=580&crop=1",
+                        "height": "580"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "name": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Brookings"
+                    }
+                ],
+                "book": [
+                    {
+                        "url": "R"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/asia-and-africa-in-the-global-economy/"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/made-in-africa/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "article:published_time": "2021-03-06T12:30:08+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Brookings",
+                        "parsely-metadata": "{\"post_id\":1425162,\"contentType\":\"post\",\"program\":[\"Global Economy and Development\"],\"project\":[\"Africa Growth Initiative\"],\"language\":\"en\",\"canonicalContent\":\"https:\\/\\/www.brookings.edu\\/blog\\/africa-in-focus\\/2021\\/03\\/06\\/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates\\/\"}",
+                        "og:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "twitter:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "twitter:text:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "twitter:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:site": "@BrookingsInst",
+                        "article:modified_time": "2021-03-05T21:32:24+00:00",
+                        "twitter:account_id": "151106990",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "wp-parsely_version": "1.10.1",
+                        "twitter:site:id": "151106990",
+                        "author": "Christina Golubski and Leo Holtz",
+                        "og:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "og:image:height": "683",
+                        "fb:pages": "137459917707",
+                        "fb:app_id": "137459917707",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "Investigations into the deteriorating situation in Ethiopia continue On Thursday, March 4, United Nations High Commissioner for Human Rights Michelle Bachelet called for an independent assessment...",
+                        "datemodified": "2021-03-05T16:32:24-05:00",
+                        "author": "Christina Golubski",
+                        "datepublished": "2021-03-06T07:30:08-05:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hanibal Goitom | In Custodia Legis: Law Librarians of Congress",
+            "htmlTitle": "Hanibal Goitom | In Custodia Legis: Law Librarians of Congress",
+            "link": "https://blogs.loc.gov/law/author/hgoi/",
+            "displayLink": "blogs.loc.gov",
+            "snippet": "FALQs: The Controversy Over Marriage and Anti-Conversion Laws in India March ... Our New Reports on Regulation of Cryptocurrency Around the World July 13th,\u00a0...",
+            "htmlSnippet": "FALQs: The Controversy Over Marriage and Anti-Conversion <b>Laws</b> in India March ... Our New Reports on <b>Regulation of Cryptocurrency</b> Around the World July 13th,&nbsp;...",
+            "cacheId": "s1ReGug0T2EJ",
+            "formattedUrl": "https://blogs.loc.gov/law/author/hgoi/",
+            "htmlFormattedUrl": "https://blogs.loc.gov/law/author/hgoi/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5QRJIOdJCwqW-zJ7Fy7k9T2jgDxhChYknPP9ok45eXUniw-3rMn9AiDRo",
+                        "width": "200",
+                        "height": "247"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.type": "webpage",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.subject": "Blogs",
+                        "dc.identifier": "//blogs.loc.gov/law/2021/03/falqs-the-controversy-over-marriage-and-anti-conversion-laws-in-india/",
+                        "dc.language": "eng",
+                        "dc.contributor": "Goitom, Hanibal"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blogs.loc.gov/law/files/2018/07/hgoi-fullsize.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "Cryptocurrency Regulations: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "htmlSnippet": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Eritrea: Law on Issuance of New Currency Notes Enacted | Library of ...",
+            "htmlTitle": "<b>Eritrea</b>: Law on Issuance of New Currency Notes Enacted | Library of ...",
+            "link": "https://www.loc.gov/item/global-legal-monitor/2015-11-10/eritrea-law-on-issuance-of-new-currency-notes-enacted/",
+            "displayLink": "www.loc.gov",
+            "snippet": "(Nov. 10, 2015) On November 4, 2015, the Bank of Eritrea, the country's central bank, issued the Legal Tender Nakfa Currency Notes Regulations to provide\u00a0...",
+            "htmlSnippet": "(Nov. 10, 2015) On November 4, 2015, the Bank of <b>Eritrea</b>, the country&#39;s central bank, issued the Legal Tender Nakfa Currency Notes <b>Regulations</b> to provide&nbsp;...",
+            "cacheId": "za_e11CAi3AJ",
+            "formattedUrl": "https://www.loc.gov/.../eritrea-law-on-issuance-of-new-currency-notes- enacted/",
+            "htmlFormattedUrl": "https://www.loc.gov/.../<b>eritrea</b>-law-on-issuance-of-new-currency-notes- enacted/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Eritrea: Law on Issuance of New Currency Notes Enacted",
+                        "dc.relation.ispartof": "global legal monitor",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "(Nov. 10, 2015) On November 4, 2015, the Bank of Eritrea, the country&#8217;s central bank, issued the Legal Tender Nakfa Currency Notes Regulations&#xA0;to provide for the replacement of the currency&#xA0;notes currently in circulation (the old Nakfa) and to impose limitations on the amount of&#xA0;money individuals may hold in cash.&#xA0;(Legal Notice No. 124/2015 Legal Tender Nakfa [&hellip;]",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "web page",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Eritrea: Law on Issuance of New Currency Notes Enacted",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/global-legal-monitor/2015-11-10/eritrea-law-on-issuance-of-new-currency-notes-enacted/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/global-legal-monitor/2015-11-10/eritrea-law-on-issuance-of-new-currency-notes-enacted/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Eritrea Cryptocurrency Regulation Analysis",
+            "htmlTitle": "<b>Eritrea Cryptocurrency Regulation</b> Analysis",
+            "link": "https://cointobuy.io/countries/eritrea",
+            "displayLink": "cointobuy.io",
+            "snippet": "According to our Eritrea cryptocurrency regulation analysis, crypto-related activity in this country has a 1.0/10 safety rank. The dominant ranking factor\u00a0...",
+            "htmlSnippet": "According to our <b>Eritrea cryptocurrency regulation</b> analysis, crypto-related activity in this country has a 1.0/10 safety rank. The dominant ranking factor&nbsp;...",
+            "cacheId": "7d4mvkXtYZMJ",
+            "formattedUrl": "https://cointobuy.io/countries/eritrea",
+            "htmlFormattedUrl": "https://cointobuy.io/countries/<b>eritrea</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#FFFFFF",
+                        "viewport": "width=device-width,initial-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China: Central Bank Issues New Regulatory Document on ...",
+            "htmlTitle": "China: Central Bank Issues New <b>Regulatory</b> Document on ...",
+            "link": "https://www.loc.gov/item/global-legal-monitor/2021-10-13/china-central-bank-issues-new-regulatory-document-on-cryptocurrency-trading/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Sep 24, 2021 ... ... China's central bank, issued a regulatory document to control the \u201cspeculative risks of cryptocurrency trading\u201d (the term xuni huobi\u00a0...",
+            "htmlSnippet": "Sep 24, 2021 <b>...</b> ... China&#39;s central bank, issued a <b>regulatory</b> document to <b>control</b> the \u201cspeculative risks of <b>cryptocurrency</b> trading\u201d (the term xuni huobi&nbsp;...",
+            "cacheId": "HMoSM0EhAOkJ",
+            "formattedUrl": "https://www.loc.gov/.../china-central-bank-issues-new-regulatory-document- on-cryptocurrency-trading/",
+            "htmlFormattedUrl": "https://www.loc.gov/.../china-central-bank-issues-new-<b>regulatory</b>-document- on-<b>cryptocurrency</b>-trading/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "China: Central Bank Issues New Regulatory Document on Cryptocurrency Trading",
+                        "dc.relation.ispartof": "global legal monitor",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "On September 24, 2021, the People\u2019s Bank of China (PBOC), China\u2019s central bank, issued a regulatory document to control the \u201cspeculative risks of cryptocurrency trading\u201d (the term xuni huobi (virtual currencies) is used in Chinese).The document, titled Circular on Further Preventing and Disposing of Speculative Risks in Virtual Currency Trading (PBOC circular), was jointly issued &hellip;  Continue reading &#8220;China: Central Bank Issues New Regulatory Document on Cryptocurrency Trading&#8221;",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "web page",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "China: Central Bank Issues New Regulatory Document on Cryptocurrency Trading",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/global-legal-monitor/2021-10-13/china-central-bank-issues-new-regulatory-document-on-cryptocurrency-trading/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/global-legal-monitor/2021-10-13/china-central-bank-issues-new-regulatory-document-on-cryptocurrency-trading/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Global Magnitsky Designation | U.S. Department of the Treasury",
+            "htmlTitle": "Global Magnitsky Designation | U.S. Department of the Treasury",
+            "link": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20210823",
+            "displayLink": "home.treasury.gov",
+            "snippet": "Aug 23, 2021 ... ... Shire, Tigray, Ethiopia; Eritrea; DOB 1955; POB Ts'elot, Asmara, Eritrea; nationality Eritrea; Gender Male (individual) [GLOMAG].",
+            "htmlSnippet": "Aug 23, 2021 <b>...</b> ... Shire, Tigray, Ethiopia; <b>Eritrea</b>; DOB 1955; POB Ts&#39;elot, Asmara, <b>Eritrea</b>; nationality <b>Eritrea</b>; Gender Male (individual) [GLOMAG].",
+            "cacheId": "mkN9_RZ_bNoJ",
+            "formattedUrl": "https://home.treasury.gov/policy-issues/financial-sanctions/.../20210823",
+            "htmlFormattedUrl": "https://home.treasury.gov/policy-issues/financial-sanctions/.../20210823",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-91IfwYYNnVbB_SsWhMb954aObHlbTxojgkmXpbpy7fdA3rsWflH3E6el",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1900px",
+                        "og:image:alt": "U.S. Department of the Treasury",
+                        "twitter:card": "summary",
+                        "twitter:title": "Global Magnitsky Designation",
+                        "og:site_name": "U.S. Department of the Treasury",
+                        "handheldfriendly": "true",
+                        "og:title": "Global Magnitsky Designation",
+                        "og:image:height": "950px",
+                        "twitter:image:height": "1080",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2021-08-25",
+                        "twitter:image": "https://home.treasury.gov/system/files/291/treasury-preview-1080x1080.jpg",
+                        "twitter:image:alt": "U.S. Department of the Treasury",
+                        "twitter:site": "@USTreasury",
+                        "twitter:image:width": "1080",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "og:url": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20210823"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine legalizes bitcoin and cryptocurrencies",
+            "htmlTitle": "Ukraine legalizes bitcoin and <b>cryptocurrencies</b>",
+            "link": "https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Sep 9, 2021 ... By 2022, the country plans to open the cryptocurrency market to ... Marxist ways \u2014 passed a law to recognize and regulate cryptocurrencies,\u00a0...",
+            "htmlSnippet": "Sep 9, 2021 <b>...</b> By 2022, the country plans to open the <b>cryptocurrency</b> market to ... Marxist ways \u2014 passed a law to recognize and <b>regulate cryptocurrencies</b>,&nbsp;...",
+            "cacheId": "QPog9M1jeA4J",
+            "formattedUrl": "https://www.cnbc.com/.../ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../ukraine-legalizes-bitcoin-and-<b>cryptocurrencies</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHoCzxHQvYFANJGL2vuiEFPQka0HtgR5xt7yMB60mZZEZCc9iiXjemRjU",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-09-09T04:34:49+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Ukraine is the fifth country in as many weeks to lay down some ground rules for the crypto market, in a sign that governments believe bitcoin is here to stay.",
+                        "twitter:creator": "@KENZIESIGALOS",
+                        "parsely-metadata": "{\"nodeid\":106938986,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106938986",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-09-09T16:47:15+0000",
+                        "news_keywords": "Bitcoin,Cryptocurrency,Technology,Bitcoin/USD Bitstamp,Ukraine,Volodymyr Zelensky,Securities fraud,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Ukraine is the latest country to legalize bitcoin as the cryptocurrency slowly goes global",
+                        "article:section": "Crypto Decoded",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "MacKenzie Sigalos",
+                        "og:title": "Ukraine is the latest country to legalize bitcoin as the cryptocurrency slowly goes global",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679",
+                        "article:tag": "Bitcoin",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Ukraine is the fifth country in as many weeks to lay down some ground rules for the crypto market, in a sign that governments believe bitcoin is here to stay.",
+                        "og:url": "https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679"
+                    }
+                ]
+            }
+        }
+    ]
+}

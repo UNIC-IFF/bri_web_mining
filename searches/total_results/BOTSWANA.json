@@ -1,0 +1,525 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BOTSWANA",
+                "totalResults": "508000",
+                "searchTerms": "BOTSWANA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BOTSWANA",
+                "totalResults": "508000",
+                "searchTerms": "BOTSWANA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.364381,
+        "formattedSearchTime": "0.36",
+        "totalResults": "508000",
+        "formattedTotalResults": "508,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Botswana and Cryptocurrency - Freeman Law",
+            "htmlTitle": "<b>Botswana</b> and <b>Cryptocurrency</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/botswana/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Currently, there are no regulations on cryptocurrencies or the use of blockchain technology in Botswana. According to a 2018 Ecobank study, Botswana's\u00a0...",
+            "htmlSnippet": "Currently, there are no <b>regulations</b> on <b>cryptocurrencies</b> or the use of blockchain technology in <b>Botswana</b>. According to a 2018 Ecobank study, <b>Botswana&#39;s</b>&nbsp;...",
+            "cacheId": "fw6N1X49O1QJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/botswana/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>botswana</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-22T01:34:26+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/botswana/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Botswana Cryptocurrency & Blockchains Laws. Freeman Law, Cryptocurrency & Virtual Currency Attorneys. Schedule a Free Consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:26:48+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Bitcoin",
+                        "twitter:title": "Botswana and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Botswana and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:26:48+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Botswana and Cryptocurrency Botswana Cryptocurrency Law Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Is cryptocurrency legal in Botswana? Currently, there are no regulations on cryptocurrencies or the use of blockchain technology in Botswana. According to a...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/botswana/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Adoption In Botswana",
+            "htmlTitle": "Bitcoin Adoption In <b>Botswana</b>",
+            "link": "https://www.yahoo.com/now/bitcoin-adoption-botswana-120756727.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Jul 26, 2021 ... Bitcoin is not outlawed in Botswana. However, there are no regulations for cryptocurrency dealings. Based on this, the governor of the Bank of\u00a0...",
+            "htmlSnippet": "Jul 26, 2021 <b>...</b> Bitcoin is not outlawed in <b>Botswana</b>. However, there are no <b>regulations</b> for <b>cryptocurrency</b> dealings. Based on this, the governor of the Bank of&nbsp;...",
+            "cacheId": "8u6uR-1gkpQJ",
+            "formattedUrl": "https://www.yahoo.com/now/bitcoin-adoption-botswana-120756727.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/now/bitcoin-adoption-<b>botswana</b>-120756727.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHO9WCwKbdyS7KNeykt37C_tCAGCbWkxOcw68iKDIrZpps0O-aUn37XqQ",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/ca284868-095c-3569-b0f8-d649c0dcf3f1",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/tMENWHzUjSZEBeTt7oHFOA--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/db4b6e2cc7f57d3a44e09882b46509ef",
+                        "twitter:title": "Bitcoin Adoption In Botswana",
+                        "og:type": "article",
+                        "og:image:width": "615",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Bitcoin Adoption In Botswana",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "410",
+                        "og:description": "If you live in Botswana, you would have experienced the challenges of getting Bitcoin, and at one point, you may have had cause to travel to neighboring South Africa to perform Bitcoin transactions.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/tMENWHzUjSZEBeTt7oHFOA--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/db4b6e2cc7f57d3a44e09882b46509ef",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/tMENWHzUjSZEBeTt7oHFOA--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/db4b6e2cc7f57d3a44e09882b46509ef",
+                        "al:android:url": "yfinance://article/ca284868-095c-3569-b0f8-d649c0dcf3f1",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Bitcoin ATM, Bank of Botswana, Botswana, Bitcoin ATM, Botswana, Bitcoin, bitcoin price, President of Botswana, bank of Botswana, Botswana",
+                        "twitter:description": "If you live in Botswana, you would have experienced the challenges of getting Bitcoin, and at one point, you may have had cause to travel to neighboring South Africa to perform Bitcoin transactions.",
+                        "og:url": "https://finance.yahoo.com/news/bitcoin-adoption-botswana-120756727.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/tMENWHzUjSZEBeTt7oHFOA--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/db4b6e2cc7f57d3a44e09882b46509ef"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Botswana Cryptocurrency Regulation: Government Set to Present ...",
+            "htmlTitle": "<b>Botswana Cryptocurrency Regulation</b>: Government Set to Present ...",
+            "link": "https://news.bitcoin.com/botswana-cryptocurrency-regulation-government-set-to-present-virtual-asset-bill-to-parliament/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "3 days ago ... A Botswana government draft document that proposes to regulate new and developing virtual assets businesses, as well as to provide a regulatory\u00a0...",
+            "htmlSnippet": "3 days ago <b>...</b> A <b>Botswana</b> government draft document that proposes to <b>regulate</b> new and developing virtual assets businesses, as well as to provide a <b>regulatory</b>&nbsp;...",
+            "cacheId": "54ZGrQveygIJ",
+            "formattedUrl": "https://news.bitcoin.com/botswana-cryptocurrency-regulation-government-set -to-present-virtual-asset-bill-to-parliament/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>botswana</b>-<b>cryptocurrency</b>-<b>regulation</b>-government-set -to-present-virtual-asset-bill-to-parliament/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShOok4G6wKsHzDUPEADKg9KwKKXW0HpyJ_0h1mwYZqqYqrCtB1QmqM6fU",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/shutterstock_2107968260.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2022-01-22T04:30:21+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Botswana Cryptocurrency Regulation: Government Set to Present Virtual Asset Bill to Parliament \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Botswana government is set to present the Virtual Asset Bill to the country's parliament, a government gazette has shown.",
+                        "twitter:creator": "@https://twitter.com/tem2ra",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Terence Zimwara",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2022-01-21T17:02:57+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/botswana-cryptocurrency-regulation-government-set-to-present-virtual-asset-bill-to-parliament/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Botswana Cryptocurrency Regulation: Government Set to Present Virtual Asset Bill to Parliament"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/shutterstock_2107968260.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "Botswana. \u2022 The Bank of Botswana has not released any regulation on cryptocurrencies or the use of blockchain technology and has reportedly stated that it\u00a0...",
+            "htmlSnippet": "<b>Botswana</b>. \u2022 The Bank of <b>Botswana</b> has not released any <b>regulation</b> on <b>cryptocurrencies</b> or the use of blockchain technology and has reportedly stated that it&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Botswana | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Botswana</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/botswana",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Botswana for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Botswana</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "xJMO8U0t2z8J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/botswana",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>botswana</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Botswana for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Botswana | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Botswana for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Botswana | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/botswana"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "The main Bitcoin countries are Botswana, Ghana, Kenya, Nigeria, South Africa and Zimbabwe, according to gobitcoin.io, a website dedicated to Bitcoin news in\u00a0...",
+            "htmlSnippet": "The main Bitcoin countries are <b>Botswana</b>, Ghana, Kenya, Nigeria, South Africa and Zimbabwe, according to gobitcoin.io, a website dedicated to Bitcoin news in&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How The BitcoinLady Of Botswana Is Empowering Her Community ...",
+            "htmlTitle": "How The BitcoinLady Of <b>Botswana</b> Is Empowering Her Community ...",
+            "link": "https://www.forbes.com/sites/melissarowley/2021/07/20/how-the-bitcoinlady-of-botswana-is-empowering-her-community-through-crypto-and-blockchain-education/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Jul 20, 2021 ... Alakanani Itireleng, the BitcoinLady of Botswana, is building a community ... cryptocurrency and blockchain are improving lives day to day.",
+            "htmlSnippet": "Jul 20, 2021 <b>...</b> Alakanani Itireleng, the BitcoinLady of <b>Botswana</b>, is building a community ... <b>cryptocurrency</b> and blockchain are improving lives day to day.",
+            "cacheId": "WPtT_1lbU64J",
+            "formattedUrl": "https://www.forbes.com/.../how-the-bitcoinlady-of-botswana-is-empowering- her-community-through-crypto-and-blockchain-education/",
+            "htmlFormattedUrl": "https://www.forbes.com/.../how-the-bitcoinlady-of-<b>botswana</b>-is-empowering- her-community-through-crypto-and-blockchain-education/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPMg-E6mxBKnWVaXcQUGDoCpHMv3ThIv5X3H2vGfoCmYRfY6DRwN3Tdx4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=588647136",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Forbes",
+                        "article:id": "blogAndPostId/blog/post/5192-60f7295b8050510006b68032",
+                        "og:description": "Alakanani Itireleng, the BitcoinLady of Botswana, is building a community of bitcoiners in her country, and creating new economic opportunities, where there once were none.",
+                        "twitter:creator": "@MelissaRowley",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/60f72a11891483e4b086f223/0x0.jpg?format=jpg&width=1200&fit=bounds",
+                        "twitter:site": "@forbes",
+                        "news_keywords": "Bitcoin,Botswana,Alakanani Itireleng,Satoshicentre,blockchain,crypto,cryptocurrency,money,Gabarone,technology",
+                        "article:published": "2021-07-20",
+                        "article:channel": "Leadership",
+                        "image": "https://imageio.forbes.com/specials-images/imageserve/60f72a11891483e4b086f223/0x0.jpg?format=jpg&width=1200&fit=bounds",
+                        "article:section": "ForbesWomen",
+                        "og:type": "article",
+                        "twitter:title": "How The BitcoinLady Of Botswana Is Empowering Her Community Through Crypto And Blockchain Education",
+                        "author": "Melissa Jun Rowley",
+                        "article:section_url": "https://www.forbes.com/forbeswomen/",
+                        "og:title": "How The BitcoinLady Of Botswana Is Empowering Her Community Through Crypto And Blockchain Education",
+                        "og:updated_time": "2021-07-21T15:06:53.037-04:00",
+                        "article:author": "Melissa Jun Rowley",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "123694841080850",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1,user-scalable=yes",
+                        "twitter:description": "Alakanani Itireleng, the BitcoinLady of Botswana, is building a community of bitcoiners in her country, and creating new economic opportunities, where there once were none.",
+                        "og:url": "https://www.forbes.com/sites/melissarowley/2021/07/20/how-the-bitcoinlady-of-botswana-is-empowering-her-community-through-crypto-and-blockchain-education/",
+                        "article:modified": "2021-07-21"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/X3-hPqynOGY/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bank of Botswana PRESS RELEASE STATEMENT ON CRYPTO ...",
+            "htmlTitle": "Bank of <b>Botswana</b> PRESS RELEASE STATEMENT ON CRYPTO ...",
+            "link": "https://www.bankofbotswana.bw/sites/default/files/press-release-files/PRESS%20RELEASE%20-%20Statement%20on%20Crypto%20Assets%20%20Participation%20and%20Regulation%20.pdf",
+            "displayLink": "www.bankofbotswana.bw",
+            "snippet": "Nov 10, 2021 ... existence of any regulatory framework for the licensing, control, and protection of ... also known as \u201ccryptocurrency\u201d, is akin to.",
+            "htmlSnippet": "Nov 10, 2021 <b>...</b> existence of any <b>regulatory</b> framework for the licensing, <b>control</b>, and protection of ... also known as \u201c<b>cryptocurrency</b>\u201d, is akin to.",
+            "cacheId": "EevFNENkxCsJ",
+            "formattedUrl": "https://www.bankofbotswana.bw/.../PRESS%20RELEASE%20- %20Statement%20on%20Crypto%20Assets%20%20Participation%20and%...",
+            "htmlFormattedUrl": "https://www.bankof<b>botswana</b>.bw/.../PRESS%20RELEASE%20- %20Statement%20on%20Crypto%20Assets%20%20Participation%20and%...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2NoXsWr1XhJmBsTHwCwxaUsqRH2AT8kKh1bHCLdxSKmOrvqnltNqo31k",
+                        "width": "228",
+                        "height": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20211110170724+02'00'",
+                        "creationdate": "D:20211110170522+02'00'",
+                        "creator": "Microsoft\u00ae Word for Microsoft 365",
+                        "author": "Mosweu Pelontle",
+                        "producer": "Microsoft\u00ae Word for Microsoft 365"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///3897133d6d58b25f62dd0d222cfe8d00bd3e4cdd7baf98a4ce54238e58e276b2"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bank of Botswana warns citizens about risks on crypto assets - Xinhua",
+            "htmlTitle": "Bank of <b>Botswana</b> warns citizens about risks on crypto assets - Xinhua",
+            "link": "http://www.news.cn/english/africa/2021-11/16/c_1310312753.htm",
+            "displayLink": "www.news.cn",
+            "snippet": "Nov 16, 2021 ... There is no specific legal or regulatory framework pertaining to or proscribing investment in crypto assets, such as Bitcoin in Botswana,\u00a0...",
+            "htmlSnippet": "Nov 16, 2021 <b>...</b> There is no specific legal or <b>regulatory</b> framework pertaining to or proscribing investment in crypto assets, such as Bitcoin in <b>Botswana</b>,&nbsp;...",
+            "cacheId": "ZOSSv7SCOIYJ",
+            "formattedUrl": "www.news.cn/english/africa/2021-11/16/c_1310312753.htm",
+            "htmlFormattedUrl": "www.news.cn/english/africa/2021-11/16/c_1310312753.htm",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "renderer": "webkit",
+                        "og:type": "article",
+                        "msapplication-tap-highlight": "no",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no",
+                        "og:title": "Bank of Botswana warns citizens about risks on crypto assets",
+                        "source": "\u65b0\u534e\u793e",
+                        "pageid": "11333.4.0.0.11181608.0.0.0.0.0.113428.1310312753",
+                        "og:url": "http://www.news.cn/english/africa/2021-11/16/c_1310312753.htm",
+                        "publishid": "1310312753.12.30.0",
+                        "format-detection": "telephone=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Botswana (for NURS 456) - U.S. Community Health - Research ...",
+            "htmlTitle": "<b>Botswana</b> (for NURS 456) - U.S. Community Health - Research ...",
+            "link": "https://guides.lib.umich.edu/c.php?g=283201&p=1886598",
+            "displayLink": "guides.lib.umich.edu",
+            "snippet": "Real time news about Botswana (Google News feed) ... Botswana Cryptocurrency Regulation: Government Set to Present Virtual Asset Bill to Parliament\u00a0...",
+            "htmlSnippet": "Real time news about <b>Botswana</b> (Google News feed) ... <b>Botswana Cryptocurrency Regulation</b>: Government Set to Present Virtual Asset Bill to Parliament&nbsp;...",
+            "formattedUrl": "https://guides.lib.umich.edu/c.php?g=283201&p=1886598",
+            "htmlFormattedUrl": "https://guides.lib.umich.edu/c.php?g=283201&amp;p=1886598",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "msapplication-config": "//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "dc.description": "Provides resources (data, reports, and more) related to community health in the United States.",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Research Guides: U.S. Community Health: Botswana (for NURS 456)",
+                        "dc.rights": "Copyright University of Michigan Library 2022",
+                        "dc.date.created": "Nov 2, 2012",
+                        "og:description": "Provides resources (data, reports, and more) related to community health in the United States.",
+                        "dc.publishers": "University of Michigan Library",
+                        "twitter:site": "@springshare",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "dc.creator": "Gurpreet Rana",
+                        "dc.title": "Research Guides: U.S. Community Health: Botswana (for NURS 456)",
+                        "dc.date.modified": "Jan 21, 2022",
+                        "dc.subject": "Course Help, Health Sciences",
+                        "dc.identifier": "https://guides.lib.umich.edu/c.php?g=283201&p=1886598",
+                        "dc.language": "en",
+                        "og:url": "https://guides.lib.umich.edu/c.php?g=283201&p=1886598"
+                    }
+                ]
+            }
+        }
+    ]
+}

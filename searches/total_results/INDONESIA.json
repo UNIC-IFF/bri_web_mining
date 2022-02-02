@@ -1,0 +1,617 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - INDONESIA",
+                "totalResults": "1440000",
+                "searchTerms": "INDONESIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - INDONESIA",
+                "totalResults": "1440000",
+                "searchTerms": "INDONESIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.341202,
+        "formattedSearchTime": "0.34",
+        "totalResults": "1440000",
+        "formattedTotalResults": "1,440,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies \u2013 Indonesia's Current Legal Climate on Crypto ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> \u2013 <b>Indonesia&#39;s</b> Current Legal Climate on Crypto ...",
+            "link": "https://www.bepartners.co.id/news/cryptocurrencies-%E2%80%93-indonesia%E2%80%99s-current-legal-climate-on-crypto-assets",
+            "displayLink": "www.bepartners.co.id",
+            "snippet": "Any activity in regards to cryptocurrency in Indonesia is still heavily regulated and over watched by Indonesia's Commodity Futures Trading Regulatory\u00a0...",
+            "htmlSnippet": "Any activity in regards to <b>cryptocurrency</b> in <b>Indonesia</b> is still heavily <b>regulated</b> and over watched by <b>Indonesia&#39;s</b> Commodity Futures Trading <b>Regulatory</b>&nbsp;...",
+            "cacheId": "eD41sNbpILAJ",
+            "formattedUrl": "https://www.bepartners.co.id/.../cryptocurrencies-\u2013-indonesia\u2019s-current-legal- climate-on-crypto-assets",
+            "htmlFormattedUrl": "https://www.bepartners.co.id/.../<b>cryptocurrencies</b>-\u2013-<b>indonesia</b>\u2019s-current-legal- climate-on-crypto-assets",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_RZAL8C1_t4_zZprQj1MobGA__zI7tDQQf3FZnMhbDxn82CEuuQ5HQ4E",
+                        "width": "296",
+                        "height": "170"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=320, initial-scale=1, maximum-scale=1, min-width=320, user-scalable=no",
+                        "msnbot": "index,follow",
+                        "medium": "medium_type",
+                        "title": "Cryptocurrencies \u2013 Indonesia\u2019s Current Legal Climate on Crypto Assets | Bagus Enrico & Partners",
+                        "distribution": "global",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bepartners.co.id/images/article/20210309_091942_phpmkd7f9_resized.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Indonesia: A Regulatory Guide for Foreign Investors",
+            "htmlTitle": "<b>Cryptocurrency Indonesia</b>: A <b>Regulatory</b> Guide for Foreign Investors",
+            "link": "https://www.cekindo.com/blog/cryptocurrency-indonesia",
+            "displayLink": "www.cekindo.com",
+            "snippet": "Nov 19, 2021 ... Indonesia Recognizes Cryptocurrency as a Trading Commodity Only ... The Ministry of Trade Regulation No. 99 of 2018 formally authorized crypto\u00a0...",
+            "htmlSnippet": "Nov 19, 2021 <b>...</b> <b>Indonesia</b> Recognizes <b>Cryptocurrency</b> as a Trading Commodity Only ... The Ministry of Trade <b>Regulation</b> No. 99 of 2018 formally authorized crypto&nbsp;...",
+            "cacheId": "MK_WrTFkDu0J",
+            "formattedUrl": "https://www.cekindo.com/blog/cryptocurrency-indonesia",
+            "htmlFormattedUrl": "https://www.cekindo.com/blog/<b>cryptocurrency</b>-<b>indonesia</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJmpOlNr27Sz3Iu2e_G2NPRXXFr90z7sLTfVzj8haWtSwzEstXaGPESp8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "a6e8b19dcc5648aba5b6a49b533b6a4a",
+                        "og:image": "https://www.cekindo.com/wp-content/uploads/2021/10/cryptocurrency-in-indonesia-a-regulatory-guide.jpg",
+                        "copyright": "Cekindo Business International",
+                        "article:published_time": "2021-10-27T06:54:23+00:00",
+                        "og:image:width": "640",
+                        "rating": "general",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "distribution": "global",
+                        "msapplication-tileimage": "https://www.cekindo.com/wp-content/uploads/2021/03/favicon-300x300.png",
+                        "og:description": "Cryptocurrency in Indonesia has gained popularity recently and the government is examining its prospect as a potential investment instrument.",
+                        "twitter:data1": "Faisal Abdalla",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2021-11-19T09:10:53+00:00",
+                        "contact": "vietnam@cekindo.com",
+                        "alexaverifyid": "Hqa40Vo2G3CBECG_9pD_sEgTe2o",
+                        "og:type": "article",
+                        "author": "Cekindo Business International, Ltd.",
+                        "og:title": "Cryptocurrency Indonesia: A Regulatory Guide for Foreign Investors",
+                        "og:image:height": "426",
+                        "majestic-site-verification": "MJ12_b997ed28-ccc7-46bf-85b2-cfb8cf4d52dd",
+                        "facebook-domain-verification": "ejcyycb0q7fitt7oidp83ctdobkjh8",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.cekindo.com/blog/cryptocurrency-indonesia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.cekindo.com/wp-content/uploads/2021/10/cryptocurrency-in-indonesia-a-regulatory-guide.jpg"
+                    }
+                ],
+                "itempage": [
+                    {
+                        "significantlink": "Why Should You Establish a PT PMA for Your Business in Yogyakarta?"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Homepage"
+                    },
+                    {
+                        "item": "Blog"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Indonesian Central Bank Prohibits Cryptocurrency as Payment Tool",
+            "htmlTitle": "<b>Indonesian</b> Central Bank Prohibits <b>Cryptocurrency</b> as Payment Tool",
+            "link": "https://www.yahoo.com/now/indonesian-central-bank-prohibits-cryptocurrency-061727801.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Jun 15, 2021 ... Rahul N. ... The governor of Indonesia's central bank will prohibit the use of cryptocurrencies as a payment tool, in yet another move by the\u00a0...",
+            "htmlSnippet": "Jun 15, 2021 <b>...</b> Rahul N. ... The governor of <b>Indonesia&#39;s</b> central bank will prohibit the use of <b>cryptocurrencies</b> as a payment tool, in yet another move by the&nbsp;...",
+            "cacheId": "xLuObWSGjqwJ",
+            "formattedUrl": "https://www.yahoo.com/.../indonesian-central-bank-prohibits-cryptocurrency -061727801.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>indonesian</b>-central-bank-prohibits-<b>cryptocurrency</b> -061727801.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpFRJeqhaePuzgT78V-S3xY89JRXbRpOn8hPvGINUVwc_80rPNmWy0lsQ",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/b6da9a59-20ab-3449-b161-d71f0c510b96",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2",
+                        "twitter:title": "Indonesian Central Bank Prohibits Cryptocurrency as Payment Tool",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Indonesian Central Bank Prohibits Cryptocurrency as Payment Tool",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "720",
+                        "og:description": "The governor of Indonesia\u2019s central bank will prohibit the use of cryptocurrencies as a payment tool, in yet another move by the country to rein in the crypto market.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2",
+                        "al:android:url": "yfinance://article/b6da9a59-20ab-3449-b161-d71f0c510b96",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Bank Indonesia, central bank, financial institutions, payment tool, Governor Warjiyo, Perry Warjiyo, crypto market, Indonesia",
+                        "twitter:description": "The governor of Indonesia\u2019s central bank will prohibit the use of cryptocurrencies as a payment tool, in yet another move by the country to rein in the crypto market.",
+                        "og:url": "https://finance.yahoo.com/news/indonesian-central-bank-prohibits-cryptocurrency-061727801.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency in Indonesia | Alexandria",
+            "htmlTitle": "<b>Cryptocurrency</b> in <b>Indonesia</b> | Alexandria",
+            "link": "https://coinmarketcap.com/alexandria/article/cryptocurrency-in-indonesia",
+            "displayLink": "coinmarketcap.com",
+            "snippet": "Yes, cryptocurrency is legal in Indonesia. Cryptocurrencies were legalized in September 2018, when the\u00a0...",
+            "htmlSnippet": "Yes, <b>cryptocurrency</b> is legal in <b>Indonesia</b>. <b>Cryptocurrencies</b> were legalized in September 2018, when the&nbsp;...",
+            "cacheId": "BfKChNqTPxgJ",
+            "formattedUrl": "https://coinmarketcap.com/alexandria/article/cryptocurrency-in-indonesia",
+            "htmlFormattedUrl": "https://coinmarketcap.com/alexandria/article/<b>cryptocurrency</b>-in-<b>indonesia</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmsT8tZiaBrhnVFXvfq6rYgXqXew6Dy8Omo080bCy9vzgtLLj7Tby2tqY",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://academy-public.coinmarketcap.com/optimized-uploads/e759759578e0488f90f44df969c19775.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:image:alt": "Alexandria",
+                        "theme-color": "#2e2e2e",
+                        "og:type": "article",
+                        "og:site_name": "CoinMarketCap Alexandria",
+                        "og:title": "Cryptocurrency in Indonesia | CoinMarketCap",
+                        "yandex-verification": "7e56260ff92b3c3f",
+                        "twitter:creator": "@CoinMarketCap",
+                        "og:description": "In this piece, CoinMarketCap breaks down Indonesia's attitude towards cryptocurrencies.",
+                        "ahrefs-site-verification": "86f2f08131d8239e3a4d73b0179d556eae74fa62209b410a64ff348f74e711ea",
+                        "next-head-count": "40",
+                        "twitter:site": "@CoinMarketCap",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "naver-site-verification": "e70af2cacdaf993fe72ef9fd208822bbebc2e028",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:url": "https://coinmarketcap.com/alexandria/article/cryptocurrency-in-indonesia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://academy-public.coinmarketcap.com/optimized-uploads/e759759578e0488f90f44df969c19775.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Indonesia Confirms It's Not Imposing Blanket Crypto Ban",
+            "htmlTitle": "<b>Indonesia</b> Confirms It&#39;s Not Imposing Blanket Crypto Ban",
+            "link": "https://www.yahoo.com/finance/news/indonesia-confirms-not-imposing-blanket-094734374.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Sep 27, 2021 ... The Indonesian government has given its residents the green light for cryptocurrency trading, refusing to impose an outright ban on all crypto-\u00a0...",
+            "htmlSnippet": "Sep 27, 2021 <b>...</b> The <b>Indonesian</b> government has given its residents the green light for <b>cryptocurrency</b> trading, refusing to impose an outright ban on all crypto-&nbsp;...",
+            "cacheId": "eiZiuiJWEpEJ",
+            "formattedUrl": "https://www.yahoo.com/.../indonesia-confirms-not-imposing-blanket- 094734374.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>indonesia</b>-confirms-not-imposing-blanket- 094734374.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpFRJeqhaePuzgT78V-S3xY89JRXbRpOn8hPvGINUVwc_80rPNmWy0lsQ",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/bf920c9c-08f1-33be-abe9-a8dafe77b7b9",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2",
+                        "twitter:title": "Indonesia Confirms It\u2019s Not Imposing Blanket Crypto Ban",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Indonesia Confirms It\u2019s Not Imposing Blanket Crypto Ban",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "720",
+                        "og:description": "The Indonesian government has given its residents the green light for cryptocurrency trading, refusing to impose an outright ban on all crypto-related transactions.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2",
+                        "al:android:url": "yfinance://article/bf920c9c-08f1-33be-abe9-a8dafe77b7b9",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Indonesian government, cryptocurrency",
+                        "twitter:description": "The Indonesian government has given its residents the green light for cryptocurrency trading, refusing to impose an outright ban on all crypto-related transactions.",
+                        "og:url": "https://finance.yahoo.com/news/indonesia-confirms-not-imposing-blanket-094734374.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/72fx8LnGZZSZZ4HG3IL5IQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/d094756ef7aa21ba7b840f454e19dad2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency traders protest Indonesia's new futures rules | Reuters",
+            "htmlTitle": "<b>Cryptocurrency</b> traders protest <b>Indonesia&#39;s</b> new futures rules | Reuters",
+            "link": "https://www.reuters.com/article/us-indonesia-crypto-idUKKCN1Q30IM",
+            "displayLink": "www.reuters.com",
+            "snippet": "Feb 13, 2019 ... To encourage trade and protect customers, the Commodity Futures Trading Regulatory Agency, know as Bappebti, last week issued a regulation that\u00a0...",
+            "htmlSnippet": "Feb 13, 2019 <b>...</b> To encourage trade and protect customers, the Commodity Futures Trading <b>Regulatory</b> Agency, know as Bappebti, last week issued a <b>regulation</b> that&nbsp;...",
+            "cacheId": "rfiH_Aral6oJ",
+            "formattedUrl": "https://www.reuters.com/article/us-indonesia-crypto-idUKKCN1Q30IM",
+            "htmlFormattedUrl": "https://www.reuters.com/article/us-<b>indonesia</b>-crypto-idUKKCN1Q30IM",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2019-02-14T05:53:13Z",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "analyticsattributes.backendchannellist": "internetNews;technologyNews;technologyNewsMolt;UK-The-Wire;everythingNews;UKWire_EL",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Indonesian cryptocurrency traders are complaining that the government's new rules on futures trading, which require high minimum capital for traders, will hinder development of the young but growing market.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2019-02-14T05:53:13Z",
+                        "og:article:section": "Technology News",
+                        "analyticsattributes.articledate": "2019-02-14T05:53:13Z",
+                        "dcsext.dartzone": "reuters.com/tech/article",
+                        "author": "Tabita Diela",
+                        "analyticsattributes.keywords": "US,INDONESIA,CRYPTO,ASEAN Countries,Asia / Pacific,Banks (TRBC level 4),Cryptocurrencies,Derivatives,Emerging Market Countries,Securities & Commodity Exchanges (TRBC level 5),Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5),Indonesia,Investment Banking & Investment Services (TRBC level 3),Corporate / Market Regulation,Reuters Top News",
+                        "og:article:published_time": "2019-02-14T05:54:42Z",
+                        "og:article:tag": "US,INDONESIA,CRYPTO,ASEAN Countries,Asia / Pacific,Banks (TRBC level 4),Cryptocurrencies,Derivatives,Emerging Market Countries,Securities & Commodity Exchanges (TRBC level 5),Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5),Indonesia,Investment Banking & Investment Services (TRBC level 3),Corporate / Market Regulation,Reuters Top News",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.topicsubchannel": "Technology",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "technologyNews",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Tabita Diela",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Cryptocurrency traders protest Indonesia's new futures rules",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "ASEAN,ASIA,BNKS,CRYCUR,DRV,EMRG,EXCA,FNMKT1,ID,INVBIS,REGS,TOPNWS",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;INDONESIA;CRYPTO;ASEAN Countries;Asia / Pacific;Banks (TRBC level 4);Cryptocurrencies;Derivatives;Emerging Market Countries;Securities & Commodity Exchanges (TRBC level 5);Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5);Indonesia;Investment Banking & Investment Services (TRBC level 3);Corporate / Market Regulation;Reuters Top News",
+                        "sailthru.title": "Cryptocurrency traders protest Indonesia's new futures rules",
+                        "analyticsattributes.contenttitle": "Cryptocurrency traders protest Indonesia's new futures rules",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-indonesia-crypto-idUKKCN1Q30IM",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Tabita Diela",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2019-02-14T05:53:13Z",
+                        "og:type": "article",
+                        "twitter:title": "Cryptocurrency traders protest Indonesia's new futures rules",
+                        "og:title": "Cryptocurrency traders protest Indonesia's new futures rules",
+                        "analyticsattributes.keywordslug": "US-INDONESIA-CRYPTO",
+                        "analyticsattributes.author": "Tabita Diela",
+                        "analyticsattributes.contentchannel": "Technology - Technology",
+                        "sailthru.description": "Indonesian cryptocurrency traders are complaining that the government's new rules on futures trading, which require high minimum capital for traders, will hinder development of the young but growing market.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Indonesian cryptocurrency traders are complaining that the government's new rules on futures trading, which require high minimum capital for traders, will hinder development of the young but growing market.",
+                        "analyticsattributes.topicn2names": "ASEAN Countries,Asia / Pacific,Banks (TRBC level 4),Cryptocurrencies,Derivatives,Emerging Market Countries,Securities & Commodity Exchanges (TRBC level 5),Financial & Commodity Market Operators & Service Providers (NEC) (TRBC level 5),Indonesia,Investment Banking & Investment Services (TRBC level 3),Corporate / Market Regulation,Reuters Top News",
+                        "og:url": "https://www.reuters.com/article/us-indonesia-crypto-idUKKCN1Q30IM"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Indonesia to regulate cryptocurrencies and not prohibit it like China ...",
+            "htmlTitle": "<b>Indonesia</b> to <b>regulate cryptocurrencies</b> and not prohibit it like China ...",
+            "link": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/indonesia-to-regulate-cryptocurrencies-and-not-prohibit-it-like-china/articleshow/86581176.cms",
+            "displayLink": "timesofindia.indiatimes.com",
+            "snippet": "Sep 28, 2021 ... Currently Bitcoin, Ethereum and Dogecoin are legalized assets and commodities in Indonesia which can be traded by the citizens but can't be used\u00a0...",
+            "htmlSnippet": "Sep 28, 2021 <b>...</b> Currently Bitcoin, Ethereum and Dogecoin are legalized assets and commodities in <b>Indonesia</b> which can be traded by the citizens but can&#39;t be used&nbsp;...",
+            "cacheId": "XwXqkJizsxAJ",
+            "formattedUrl": "https://timesofindia.indiatimes.com/.../cryptocurrency/.../indonesia...regulate- cryptocurrencies.../86581176.cms",
+            "htmlFormattedUrl": "https://timesofindia.indiatimes.com/.../<b>cryptocurrency</b>/.../<b>indonesia</b>...<b>regulate</b>- <b>cryptocurrencies</b>.../86581176.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8fpZb19rQ-EnkAh-_xtzJN909MYu8HBEeEend2FL8EmK4z0GRepP3PTI",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "600",
+                        "url": "https://static.toiimg.com/photo/msid-58127550/toilogo.jpg",
+                        "height": "60"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Times of India",
+                        "url": "https://timesofindia.indiatimes.com"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.toiimg.com/thumb/msid-86581194,width-1070,height-580,imgsize-115716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                        "twitter:title": "Indonesia to regulate cryptocurrencies and not prohibit it like China - Times of India",
+                        "og:image:width": "1070",
+                        "theme-color": "#af2c2c",
+                        "og:type": "article",
+                        "og:site_name": "The Times of India",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/indonesia-to-regulate-cryptocurrencies-and-not-prohibit-it-like-china/articleshow/86581176.cms",
+                        "the times of india": "app-id=427589329,app-argument=https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/indonesia-to-regulate-cryptocurrencies-and-not-prohibit-it-like-china/articleshow/86581176.cms",
+                        "og:title": "Indonesia to regulate cryptocurrencies and not prohibit it like China - Times of India",
+                        "og:image:height": "580",
+                        "y_key": "b1abb36a8d5c19c9",
+                        "og:description": "Cryptocurrency News: The Indonesian minister for trade, Muhammad Luthfi confirmed to the local media Berita Satu about tightening cryptocurrencies regulations rather than .",
+                        "fb:pages": "26781952138",
+                        "twitter:image": "https://static.toiimg.com/thumb/msid-86581194,width-1070,height-580,imgsize-115716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                        "fb:app_id": "117787264903013",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                        "news_keywords": "Business news, India business news, Financial news, Business news today, stock marketmuhammad luthfi,luno indonesia,cryptocurrencies,berita satu",
+                        "twitter:description": "Cryptocurrency News: The Indonesian minister for trade, Muhammad Luthfi confirmed to the local media Berita Satu about tightening cryptocurrencies regulations rather than .",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobileoptimized": "width",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/indonesia-to-regulate-cryptocurrencies-and-not-prohibit-it-like-china/articleshow/86581176.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.toiimg.com/thumb/msid-86581194,width-1070,height-580,imgsize-115716,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Business",
+                        "url": "https://timesofindia.indiatimes.com/business"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "News",
+                        "name": "News",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Business News",
+                        "name": "Business News",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Cryptocurrency News",
+                        "name": "Cryptocurrency News",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the <b>Law</b> ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the <b>Law</b> Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications...law.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications...<b>law</b>.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Indonesia: 3 Important Regulations To Know",
+            "htmlTitle": "<b>Cryptocurrency Indonesia</b>: 3 Important <b>Regulations</b> To Know",
+            "link": "https://www.permitindo.com/news/cryptocurrency-in-indonesia",
+            "displayLink": "www.permitindo.com",
+            "snippet": "Nov 4, 2020 ... The Central Bank of Indonesia had to issue a press release in 2018, asserting that virtual currencies, including bitcoin, are not recognised as\u00a0...",
+            "htmlSnippet": "Nov 4, 2020 <b>...</b> The Central Bank of <b>Indonesia</b> had to issue a press release in 2018, asserting that virtual currencies, including bitcoin, are not recognised as&nbsp;...",
+            "cacheId": "07yKu7ZyZL0J",
+            "formattedUrl": "https://www.permitindo.com/news/cryptocurrency-in-indonesia",
+            "htmlFormattedUrl": "https://www.permitindo.com/news/<b>cryptocurrency</b>-in-<b>indonesia</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEVb5FgP0TJX5ZsQpUlHTx4PkVr1tCpUULgCe66aaBU4ms2SixIJ5EsBHK",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i0.wp.com/www.permitindo.com/wp-content/uploads/2020/11/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg",
+                        "og:type": "article",
+                        "article:section": "Companies",
+                        "og:image:width": "640",
+                        "og:image:alt": "cryptocurrency indonesia",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Indonesia: 3 Important Regulations To Know",
+                        "og:site_name": "Permitindo",
+                        "og:title": "Cryptocurrency Indonesia: 3 Important Regulations To Know",
+                        "og:image:height": "427",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Time to read",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2021-06-17T04:54:10+00:00",
+                        "og:description": "Is cryptocurrency legal in Indonesia? What should foreign investors know about it? Learn more about the regulations of cryptocurrency Indonesia.",
+                        "og:image:secure_url": "https://i0.wp.com/www.permitindo.com/wp-content/uploads/2020/11/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg",
+                        "twitter:image": "https://i0.wp.com/www.permitindo.com/wp-content/uploads/2020/11/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg",
+                        "twitter:data1": "Deny Setiyadi",
+                        "article:tag": "Business",
+                        "twitter:data2": "5 minutes",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Is cryptocurrency legal in Indonesia? What should foreign investors know about it? Learn more about the regulations of cryptocurrency Indonesia.",
+                        "og:locale": "en_GB",
+                        "og:url": "https://www.permitindo.com/news/cryptocurrency-in-indonesia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i0.wp.com/www.permitindo.com/wp-content/uploads/2020/11/andre-francois-mckenzie-JrjhtBJ-pGU-unsplash.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Global Cryptocurrency Regulatory Landscape - Technology ...",
+            "htmlTitle": "Global <b>Cryptocurrency Regulatory</b> Landscape - Technology ...",
+            "link": "https://www.mondaq.com/india/fin-tech/1044546/global-cryptocurrency-regulatory-landscape",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Mar 9, 2021 ... However, in 2019, the Indonesian government published regulations to regulate trading of crypto assets as commodities under the supervision\u00a0...",
+            "htmlSnippet": "Mar 9, 2021 <b>...</b> However, in 2019, the <b>Indonesian</b> government published <b>regulations</b> to <b>regulate</b> trading of crypto assets as commodities under the supervision&nbsp;...",
+            "cacheId": "txX2FcdrPu4J",
+            "formattedUrl": "https://www.mondaq.com/.../global-cryptocurrency-regulatory-landscape",
+            "htmlFormattedUrl": "https://www.mondaq.com/.../global-<b>cryptocurrency</b>-<b>regulatory</b>-landscape",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Global Cryptocurrency Regulatory Landscape - Technology - Worldwide",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "In this note, we have discussed three categories of countries on the basis of their approach to regulating cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,514 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - UAE",
+                "totalResults": "852000",
+                "searchTerms": "UAE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - UAE",
+                "totalResults": "852000",
+                "searchTerms": "UAE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.332691,
+        "formattedSearchTime": "0.33",
+        "totalResults": "852000",
+        "formattedTotalResults": "852,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Future of Crypto Assets Regulation in the UAE - Lexology",
+            "htmlTitle": "The Future of Crypto Assets <b>Regulation</b> in the <b>UAE</b> - Lexology",
+            "link": "https://www.lexology.com/library/detail.aspx?g=88c0f35c-7ea5-439b-90d7-df3fe4f70586",
+            "displayLink": "www.lexology.com",
+            "snippet": "Oct 27, 2021 ... Presently, there is no express prohibition against crypto assets in the UAE, but it is regulated in 'Onshore' UAE, the ADGM and very recently\u00a0...",
+            "htmlSnippet": "Oct 27, 2021 <b>...</b> Presently, there is no express prohibition against crypto assets in the <b>UAE</b>, but it is <b>regulated</b> in &#39;Onshore&#39; <b>UAE</b>, the ADGM and very recently&nbsp;...",
+            "cacheId": "IwuQHVPGa7kJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=88c0f35c-7ea5-439b...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=88c0f35c-7ea5-439b...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "The Future of Crypto Assets Regulation in the UAE",
+                        "workarea": "Banking",
+                        "jurisdiction": "United Arab Emirates",
+                        "dc.date": "2021-10-27",
+                        "firmname": "Hadef & Partners",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=88c0f35c-7ea5-439b-90d7-df3fe4f70586",
+                        "og:description": "The rapidly evolving crypto-sphere continually gives rise to new terminology which can be confusing- crypto assets, security tokens, non-fungible\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Future of Cryptocurrencies in the UAE \u2013 D'Andrea & Partners ...",
+            "htmlTitle": "The Future of <b>Cryptocurrencies</b> in the <b>UAE</b> \u2013 D&#39;Andrea &amp; Partners ...",
+            "link": "https://www.dandreapartners.com/the-future-of-cryptocurrencies-in-the-uae/",
+            "displayLink": "www.dandreapartners.com",
+            "snippet": "Aug 9, 2021 ... The regulation of cryptocurrencies in Dubai is carried out by the FRSA (Financial Services Regulatory Authority), SCA (Securities and\u00a0...",
+            "htmlSnippet": "Aug 9, 2021 <b>...</b> The <b>regulation of cryptocurrencies</b> in Dubai is carried out by the FRSA (Financial Services <b>Regulatory</b> Authority), SCA (Securities and&nbsp;...",
+            "cacheId": "MYkusMJ1g-MJ",
+            "formattedUrl": "https://www.dandreapartners.com/the-future-of-cryptocurrencies-in-the-uae/",
+            "htmlFormattedUrl": "https://www.dandreapartners.com/the-future-of-<b>cryptocurrencies</b>-in-the-<b>uae</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2EI_kQ6XDXy8XGTqAEQ1yDPkLHyJ9y2N7wePrLkZGcQ9eUncap8OCHvnu",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tileimage": "https://www.dandreapartners.com/wp-content/uploads/2019/02/cropped-DP-logo-270x270.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.dandreapartners.com/wp-content/uploads/2019/02/WechatIMG438.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: United Arab Emirates",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>United Arab Emirates</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/united-arab-emirates",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... While the UAE Central Bank continues to maintain that cryptoassets are not legal tender in the UAE, the overhauled Stored Value Facilities (SVF)\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> While the <b>UAE</b> Central Bank continues to maintain that cryptoassets are not legal tender in the <b>UAE</b>, the overhauled Stored Value Facilities (SVF)&nbsp;...",
+            "cacheId": "zVxtl5ZYn2gJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual...regulation.../united-arab-emirates",
+            "htmlFormattedUrl": "https://the<b>law</b>reviews.co.uk/title/the-virtual...<b>regulation</b>.../<b>united-arab-emirates</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "lBEuZLmyn921V1MM2JezLmlYiMAddqLy1lQxIDl4"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UAE announces new regulations for licensing crypto assets ...",
+            "htmlTitle": "<b>UAE</b> announces new <b>regulations</b> for licensing crypto assets ...",
+            "link": "https://www.keystonelaw.com/me/keynotes/uae-announces-new-regulations-for-licensing-crypto-assets/",
+            "displayLink": "www.keystonelaw.com",
+            "snippet": "Providers who wish to offer crypto assets within the UAE must be licensed by the SCA. As a part of that process, applicants must demonstrate strict compliance\u00a0...",
+            "htmlSnippet": "Providers who wish to offer crypto assets within the <b>UAE</b> must be licensed by the SCA. As a part of that process, applicants must demonstrate strict compliance&nbsp;...",
+            "cacheId": "_Ne1wjzDKTMJ",
+            "formattedUrl": "https://www.keystonelaw.com/.../uae-announces-new-regulations-for- licensing-crypto-assets/",
+            "htmlFormattedUrl": "https://www.keystone<b>law</b>.com/.../<b>uae</b>-announces-new-<b>regulations</b>-for- licensing-crypto-assets/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGCnkqz90y_oxJbkqj__llt-Kw01Qj1XBiuzCg1oVUP4mbTp8H47JXc8_Z",
+                        "width": "225",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.keystonelaw.com/me/wp-content/uploads/sites/4/2020/09/Khaled-Shivji-300-x-300.jpg",
+                        "og:type": "article",
+                        "og:image:width": "300",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Keystone Law Dubai",
+                        "og:title": "UAE announces new regulations for licensing crypto assets : Keystone Law Dubai",
+                        "og:image:height": "299",
+                        "twitter:label1": "Est. reading time",
+                        "og:description": "The Securities and Commodities Authorities in the UAE announces new regulations for licensing crypto assets",
+                        "twitter:data1": "4 minutes",
+                        "article:modified_time": "2021-10-04T08:40:31+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.keystonelaw.com/me/keynotes/uae-announces-new-regulations-for-licensing-crypto-assets/",
+                        "apple-touch-fullscreen": "YES",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.keystonelaw.com/me/wp-content/uploads/sites/4/2020/09/Khaled-Shivji-300-x-300.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dubai Financial Services Authority Moves into the \u201cCrypto\u201d Space ...",
+            "htmlTitle": "Dubai Financial Services Authority Moves into the \u201cCrypto\u201d Space ...",
+            "link": "https://www.gibsondunn.com/dubai-financial-services-authority-moves-into-crypto-space-and-establishes-regulatory-framework-for-investment-tokens/",
+            "displayLink": "www.gibsondunn.com",
+            "snippet": "Nov 15, 2021 ... Dubai Financial Services Authority Moves into the \u201cCrypto\u201d Space and Establishes Regulatory Framework for \u201cInvestment Tokens\u201d ... On October 25,\u00a0...",
+            "htmlSnippet": "Nov 15, 2021 <b>...</b> Dubai Financial Services Authority Moves into the \u201cCrypto\u201d Space and Establishes <b>Regulatory</b> Framework for \u201cInvestment Tokens\u201d ... On October 25,&nbsp;...",
+            "cacheId": "CSZe_UZdOoEJ",
+            "formattedUrl": "https://www.gibsondunn.com/dubai-financial-services-authority-moves-into- crypto-space-and-establishes-regulatory-framework-for-investment-tokens/",
+            "htmlFormattedUrl": "https://www.gibsondunn.com/dubai-financial-services-authority-moves-into- crypto-space-and-establishes-<b>regulatory</b>-framework-for-investment-tokens/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHAh8XK1IGHQjDG0iU_-cm9XQredANZTJiD2qAglBr0bkf_M0gBqfemg",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.gibsondunn.com/wp-content/uploads/2019/10/2018-11-29-Cryptocurrency-and-Bitcoin-Initial-Coin-Offerings.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-15T05:19:06+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Gibson Dunn",
+                        "og:title": "Dubai Financial Services Authority Moves into the \u201cCrypto\u201d Space and Establishes Regulatory Framework for \u201cInvestment Tokens\u201d",
+                        "og:image:height": "627",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://www.gibsondunn.com/wp-content/uploads/2017/03/cropped-favicon_fullsize-270x270.png",
+                        "og:description": "On October 25, 2021, the Dubai Financial Services Authority (\u201cDFSA\u201d) updated its Rulebook for \"crypto\" based investments by launching a regulatory framework for \"Investment Tokens,\" which are defined as either a \u201cSecurity Token\u201d or a \u201cDerivative Token.\u201d",
+                        "twitter:creator": "@gibsondunn",
+                        "twitter:data1": "Richard Manfredi",
+                        "twitter:data2": "7 minutes",
+                        "twitter:site": "@gibsondunn",
+                        "article:modified_time": "2021-11-15T05:43:30+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.gibsondunn.com/dubai-financial-services-authority-moves-into-crypto-space-and-establishes-regulatory-framework-for-investment-tokens/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gibsondunn.com/wp-content/uploads/2019/10/2018-11-29-Cryptocurrency-and-Bitcoin-Initial-Coin-Offerings.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "7.3 of the Regulatory Framework for Stored Values and an Electronic Payment System, issued by the Central Bank of the United Arab Emirates in January 2017, all\u00a0...",
+            "htmlSnippet": "7.3 of the <b>Regulatory</b> Framework for Stored Values and an Electronic Payment System, issued by the Central Bank of the <b>United Arab Emirates</b> in January 2017, all&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The United Arab Emirates chase crypto and blockchain adoption",
+            "htmlTitle": "The <b>United Arab Emirates</b> chase crypto and blockchain adoption",
+            "link": "https://cointelegraph.com/news/the-united-arab-emirates-chase-crypto-and-blockchain-adoption",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Feb 23, 2021 ... The aforementioned regulations are quite in-depth and seem to help to position the UAE as a leader in the cryptocurrency adoption space. Not\u00a0...",
+            "htmlSnippet": "Feb 23, 2021 <b>...</b> The aforementioned <b>regulations</b> are quite in-depth and seem to help to position the <b>UAE</b> as a leader in the <b>cryptocurrency</b> adoption space. Not&nbsp;...",
+            "cacheId": "QmCuylFPLqMJ",
+            "formattedUrl": "https://cointelegraph.com/.../the-united-arab-emirates-chase-crypto-and- blockchain-adoption",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../the-<b>united-arab-emirates</b>-chase-crypto-and- blockchain-adoption",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKFw15OwuJIBZXnnX-S2SKGXpgVD94ByaPLLuOZK1A1klZGzU_EYp1WlTz",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDIvMzY2YzJiMjItMGFiOC00MjRlLWExZjYtZmNhY2I3ZTUxOGU4LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The United Arab Emirates chase crypto and blockchain adoption",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "The United Arab Emirates chase crypto and blockchain adoption",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Dubai and the United Arab Emirates are embracing crypto",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDIvMzY2YzJiMjItMGFiOC00MjRlLWExZjYtZmNhY2I3ZTUxOGU4LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Dubai and the United Arab Emirates are embracing crypto",
+                        "og:url": "https://cointelegraph.com/news/the-united-arab-emirates-chase-crypto-and-blockchain-adoption"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDIvMzY2YzJiMjItMGFiOC00MjRlLWExZjYtZmNhY2I3ZTUxOGU4LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New UAE cybercrime law: Dh1 million fine, 5-year jail for ...",
+            "htmlTitle": "New <b>UAE</b> cybercrime <b>law</b>: Dh1 million fine, 5-year jail for ...",
+            "link": "https://www.khaleejtimes.com/legal/new-uae-cybercrime-law-dh1-million-fine-5-year-jail-for-cryptocurrency-scams",
+            "displayLink": "www.khaleejtimes.com",
+            "snippet": "Dec 30, 2021 ... \u201cEven the Central Bank of the UAE does not recognize cryptocurrencies as a legal tender. However, they can be traded on various crypto exchange\u00a0...",
+            "htmlSnippet": "Dec 30, 2021 <b>...</b> \u201cEven the Central Bank of the <b>UAE</b> does not recognize <b>cryptocurrencies</b> as a legal tender. However, they can be traded on various crypto exchange&nbsp;...",
+            "formattedUrl": "https://www.khaleejtimes.com/.../new-uae-cybercrime-law-dh1-million-fine-5 -year-jail-for-cryptocurrency-scams",
+            "htmlFormattedUrl": "https://www.khaleejtimes.com/.../new-<b>uae</b>-cybercrime-<b>law</b>-dh1-million-fine-5 -year-jail-for-<b>cryptocurrency</b>-scams",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXsgkd_oWGXcQ6ic4bK_cLM7txQ9zeruybLH-6YjdoAQyZbnxynA_Sr9I",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.khaleejtimes.com?uuid=62652f96-4b58-42cf-a5aa-722d5f881e6b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.87144&x=0&y=0.06428&width=1200&height=675",
+                        "copyright": "2022 Galadari Printing and Publishing LLC. All rights reserved.",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "New UAE cybercrime law: Dh1 million fine, 5-year jail for cryptocurrency scams",
+                        "og:type": "article",
+                        "og:site_name": "Khaleej Times",
+                        "twitter:domain": "https://www.khaleejtimes.com",
+                        "twitter:url": "https://www.khaleejtimes.com/legal/new-uae-cybercrime-law-dh1-million-fine-5-year-jail-for-cryptocurrency-scams",
+                        "author": "Dhanusha Gokulan",
+                        "og:title": "New UAE cybercrime law: Dh1 million fine, 5-year jail for cryptocurrency scams",
+                        "distribution": "global",
+                        "fb:pages": "211983032863",
+                        "og:description": "The new Online Security Law takes effect from January 2, 2022",
+                        "twitter:image": "https://image.khaleejtimes.com?uuid=62652f96-4b58-42cf-a5aa-722d5f881e6b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.87144&x=0&y=0.06428&width=1200&height=675",
+                        "fb:app_id": "103101790033337",
+                        "twitter:site": "@khaleejtimes",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, user-scalable=no",
+                        "news_keywords": "uae, dubai, abu dhabi, cybercrime, New UAE law,  cryptocurrency scams, crime",
+                        "twitter:description": "The new Online Security Law takes effect from January 2, 2022",
+                        "og:locale": "en",
+                        "og:url": "https://www.khaleejtimes.com/legal/new-uae-cybercrime-law-dh1-million-fine-5-year-jail-for-cryptocurrency-scams"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.khaleejtimes.com/?uuid=62652f96-4b58-42cf-a5aa-722d5f881e6b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.87144&x=0&y=0.06428&width=1200&height=675"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UAE cryptocurrency: Legal and Regulatory Framework | Asia ...",
+            "htmlTitle": "<b>UAE cryptocurrency</b>: Legal and <b>Regulatory</b> Framework | Asia ...",
+            "link": "https://law.asia/uae-cryptocurrency-and-legal-framework/",
+            "displayLink": "law.asia",
+            "snippet": "Jul 13, 2018 ... The Financial Services Regulatory Authority (FSRA) \u2013 which is the financial regulator of the Abu Dhabi Global Markets (ADGM), a free zone in Abu\u00a0...",
+            "htmlSnippet": "Jul 13, 2018 <b>...</b> The Financial Services <b>Regulatory</b> Authority (FSRA) \u2013 which is the financial regulator of the <b>Abu Dhabi</b> Global Markets (ADGM), a free zone in <b>Abu</b>&nbsp;...",
+            "cacheId": "b1XE-GZXMycJ",
+            "formattedUrl": "https://law.asia/uae-cryptocurrency-and-legal-framework/",
+            "htmlFormattedUrl": "https://<b>law</b>.asia/<b>uae</b>-<b>cryptocurrency</b>-and-legal-framework/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoug9Ml-jr35JyjOPYibKlmJcTWBH1uszMb3WMVWCzcrUYsXwsHDq9uuP",
+                        "width": "281",
+                        "height": "180"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://law.asia/wp-content/uploads/2020/10/LAWDOTASIA-LOGO-e1602207738884-1.png"
+                    },
+                    {
+                        "width": "600",
+                        "url": "https://law.asia/wp-content/uploads/2018/07/Adil-Shafi-Partner-at-Anjarwalla-Collins-Haidermota-in-Dubai-Kajal-Patel-Associate-at-Anjarwalla-Khanna-Advocates-in-Mombasa-Kenya.jpg",
+                        "height": "384"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Vantage Asia Editor"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Law.asia"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://law.asia/wp-content/uploads/2018/07/Adil-Shafi-Partner-at-Anjarwalla-Collins-Haidermota-in-Dubai-Kajal-Patel-Associate-at-Anjarwalla-Khanna-Advocates-in-Mombasa-Kenya.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2018-07-13T04:34:52+00:00",
+                        "og:image:width": "600",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Law.asia",
+                        "tec-api-origin": "https://law.asia",
+                        "author": "Vantage Asia Editor",
+                        "og:title": "Cryptocurrency laws and regulations in UAE",
+                        "og:image:height": "384",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "In a bid to become a pioneer in blockchain technology, the UAE has launched the UAE cryptocurrency and bitcoin legality in UAE",
+                        "twitter:creator": "@ablj_insights",
+                        "article:publisher": "https://www.facebook.com/AsiaBusinessLaw/",
+                        "twitter:data1": "Vantage Asia Editor",
+                        "twitter:data2": "8 minutes",
+                        "twitter:site": "@ablj_insights",
+                        "article:modified_time": "2019-06-13T07:59:51+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://law.asia/uae-cryptocurrency-and-legal-framework/",
+                        "tec-api-version": "v1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://law.asia/wp-content/uploads/2018/07/Adil-Shafi-Partner-at-Anjarwalla-Collins-Haidermota-in-Dubai-Kajal-Patel-Associate-at-Anjarwalla-Khanna-Advocates-in-Mombasa-Kenya.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "article": [
+                    {
+                        "datemodified": "2019-06-13T15:59:51+08:00",
+                        "headline": "Cryptocurrency laws and regulations in UAE",
+                        "datepublished": "2018-07-13T12:34:52+00:00"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Practitioners' perspectives",
+                        "name": "Practitioners' perspectives",
+                        "position": "2"
+                    },
+                    {
+                        "item": "https://law.asia/uae-cryptocurrency-and-legal-framework/",
+                        "name": "Cryptocurrency laws and regulations in UAE",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cybersecurity: Trends and developments in the UAE | Global law firm",
+            "htmlTitle": "Cybersecurity: Trends and developments in the <b>UAE</b> | Global <b>law</b> firm",
+            "link": "https://www.nortonrosefulbright.com/en-us/knowledge/publications/0af40b6f/cybersecurity-trends-and-developments-in-the-uae",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "Developing Data Privacy Legislation in the UAE; Increased Regulatory Scrutiny ... Face of Fraud and Cyber-Attacks in Light of the Rise in Cryptocurrencies\u00a0...",
+            "htmlSnippet": "Developing Data Privacy Legislation in the <b>UAE</b>; Increased <b>Regulatory</b> Scrutiny ... Face of Fraud and Cyber-Attacks in Light of the Rise in <b>Cryptocurrencies</b>&nbsp;...",
+            "cacheId": "ow9GYelUfVsJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../cybersecurity-trends-and- developments-in-the-uae",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../cybersecurity-trends-and- developments-in-the-<b>uae</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRebAwXnjsJCjqmoE6jh1T3sEs404BDTEaWVNvUiHnuPB47CIbwadyqt0c",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.nortonrosefulbright.com/-/media/images/nrf/hero/cybersecurity-circuit-board-lock/dubai-skyline-sunset.jpg?revision=&revision=",
+                        "og:type": "article",
+                        "og:title": "Cybersecurity: Trends and developments in the UAE",
+                        "dc.format": "text/html",
+                        "dc.date.created": "03/31/2021 17:22:04",
+                        "og:description": "The UAE data protection landscape has seen several develop\u00acments over the last 12\u201318 months which are set to continue.",
+                        "nrf-mac": "NRFPRDCD2",
+                        "dc.source": "https://www.nortonrosefulbright.com/en-us/knowledge/publications/2021",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "dc.title": "Cybersecurity: Trends and developments in the UAE",
+                        "dc.date.modified": "06/28/2021 08:07:33",
+                        "dc.language": "en-US",
+                        "og:url": "https://www.nortonrosefulbright.com/en-us/knowledge/publications/0af40b6f/cybersecurity-trends-and-developments-in-the-uae"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nortonrosefulbright.com/-/media/images/nrf/hero/cybersecurity-circuit-board-lock/dubai-skyline-sunset.jpg?revision=&revision="
+                    }
+                ]
+            }
+        }
+    ]
+}

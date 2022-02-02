@@ -1,0 +1,638 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - PERU",
+                "totalResults": "979000",
+                "searchTerms": "PERU",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - PERU",
+                "totalResults": "979000",
+                "searchTerms": "PERU",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.36731,
+        "formattedSearchTime": "0.37",
+        "totalResults": "979000",
+        "formattedTotalResults": "979,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Peru \u2013 There has been no specific legislation in Peru related to cryptocurrencies and no supervision is provided by the.",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Peru</b> \u2013 There has been no specific legislation in <b>Peru</b> related to <b>cryptocurrencies</b> and no supervision is provided by the.",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peru introduces its first cryptocurrency regulation - Times of India",
+            "htmlTitle": "<b>Peru</b> introduces its first <b>cryptocurrency regulation</b> - Times of India",
+            "link": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/peru-introduces-its-first-cryptocurrency-regulation/articleshow/88751092.cms",
+            "displayLink": "timesofindia.indiatimes.com",
+            "snippet": "Jan 7, 2022 ... A new legislation called Crypto Asset Marketing Framework was introduced in the Peruvian Congress, on December 20, 2021.",
+            "htmlSnippet": "Jan 7, 2022 <b>...</b> A new legislation called Crypto Asset Marketing Framework was introduced in the <b>Peruvian</b> Congress, on December 20, 2021.",
+            "cacheId": "5Dsu3JE6nhwJ",
+            "formattedUrl": "https://timesofindia.indiatimes.com/.../cryptocurrency/.../peru... cryptocurrency-regulation/.../88751092.cms",
+            "htmlFormattedUrl": "https://timesofindia.indiatimes.com/.../<b>cryptocurrency</b>/.../<b>peru</b>... <b>cryptocurrency</b>-<b>regulation</b>/.../88751092.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzUSlp5ec2GFKK9o9L2mdAc-Y2tTnhoPF0axHnA7z87TIQS64Ijr6N2GMX",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "600",
+                        "url": "https://static.toiimg.com/photo/msid-58127550/toilogo.jpg",
+                        "height": "60"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Times of India",
+                        "url": "https://timesofindia.indiatimes.com"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.toiimg.com/thumb/msid-88751094,width-1070,height-580,imgsize-113894,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                        "twitter:title": "Peru introduces its first cryptocurrency regulation - Times of India",
+                        "og:image:width": "1070",
+                        "theme-color": "#af2c2c",
+                        "og:type": "article",
+                        "og:site_name": "The Times of India",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/peru-introduces-its-first-cryptocurrency-regulation/articleshow/88751092.cms",
+                        "the times of india": "app-id=427589329,app-argument=https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/peru-introduces-its-first-cryptocurrency-regulation/articleshow/88751092.cms",
+                        "og:title": "Peru introduces its first cryptocurrency regulation - Times of India",
+                        "og:image:height": "580",
+                        "y_key": "b1abb36a8d5c19c9",
+                        "og:description": "Cryptocurrency News: A new legislation called Crypto Asset Marketing Framework was introduced in the Peruvian Congress, on December 20, 2021. The draft aims to regulate th",
+                        "fb:pages": "26781952138",
+                        "twitter:image": "https://static.toiimg.com/thumb/msid-88751094,width-1070,height-580,imgsize-113894,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                        "fb:app_id": "117787264903013",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                        "news_keywords": "Business news, India business news, Financial news, Business news today, stock marketperuvian congress,cryptocurrency news,cryptocurrency business,crypto news,crypto asset management",
+                        "twitter:description": "Cryptocurrency News: A new legislation called Crypto Asset Marketing Framework was introduced in the Peruvian Congress, on December 20, 2021. The draft aims to regulate th",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobileoptimized": "width",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/peru-introduces-its-first-cryptocurrency-regulation/articleshow/88751092.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.toiimg.com/thumb/msid-88751094,width-1070,height-580,imgsize-113894,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Business",
+                        "url": "https://timesofindia.indiatimes.com/business"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "News",
+                        "name": "News",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Business News",
+                        "name": "Business News",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Cryptocurrency News",
+                        "name": "Cryptocurrency News",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Draft Law Presented in Peru \u2013 Regulation Bitcoin ...",
+            "htmlTitle": "<b>Cryptocurrency</b> Draft Law Presented in <b>Peru</b> \u2013 <b>Regulation</b> Bitcoin ...",
+            "link": "https://news.bitcoin.com/cryptocurrency-draft-law-presented-in-peru/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Jan 5, 2022 ... Peru Launches First Cryptocurrency Regulation Attempt ... A new piece of draft legislation called \u201cCryptoasset Marketing Framework\u201d has been\u00a0...",
+            "htmlSnippet": "Jan 5, 2022 <b>...</b> <b>Peru</b> Launches First <b>Cryptocurrency Regulation</b> Attempt ... A new piece of draft legislation called \u201cCryptoasset Marketing Framework\u201d has been&nbsp;...",
+            "cacheId": "lrsYUAp3CBkJ",
+            "formattedUrl": "https://news.bitcoin.com/cryptocurrency-draft-law-presented-in-peru/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>cryptocurrency</b>-draft-law-presented-in-<b>peru</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQB5NZwgAszjLIzNYewHVlWeM_pdVKJlXNYuG0oJ-NGWPjz-RTA0x1vVsFp",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/shutterstock_776497828.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2022-01-05T10:30:30+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Cryptocurrency Draft Law Presented in Peru \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "A draft of a new crypto asset trading law was introduced in Peru in December, seeking to regulate the crypto interactions in the country.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Sergio Goschenko",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2022-01-05T05:29:55+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/cryptocurrency-draft-law-presented-in-peru/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Cryptocurrency Draft Law Presented in Peru"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/shutterstock_776497828.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peru and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Peru</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/peru/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Peru Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Unidad de Inteligencia Financiera del Per\u00fa (UIF)\u00a0...",
+            "htmlSnippet": "<b>Peru Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. Unidad de Inteligencia Financiera del <b>Per\u00fa</b> (UIF)&nbsp;...",
+            "cacheId": "zKAYlfvq04EJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/peru/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>peru</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrrmgKG1n0tHaY0K8cU-fNlSuYQjufIUWPmkLCUldSXa__ThqdijX0MJmi",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://img.youtube.com/vi/wr3-z8dpqN0/maxresdefault.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "1280",
+                        "article:published_time": "2021-05-31T21:26:56+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/peru/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Peru? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://img.youtube.com/vi/wr3-z8dpqN0/maxresdefault.jpg",
+                        "twitter:image": "http://img.youtube.com/vi/wr3-z8dpqN0/maxresdefault.jpg",
+                        "profile:last_name": "Freeman",
+                        "twitter:player": "https://youtu.be/wr3-z8dpqN0",
+                        "article:modified_time": "2022-01-09T17:56:21+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Peru and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Peru and Cryptocurrency",
+                        "og:image:height": "720",
+                        "og:updated_time": "2022-01-09T17:56:21+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "og:video": "https://youtu.be/wr3-z8dpqN0",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Peru and Cryptocurrency Peru Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Unidad de Inteligencia Financiera del Per\u00fa (UIF) superintendent Sergio Espinosa, a Peruvian regulator authority representative, said on October 26 that Peru is open...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/peru/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://img.youtube.com/vi/wr3-z8dpqN0/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peru is studying crypto exchanges to figure out future laws",
+            "htmlTitle": "<b>Peru</b> is studying crypto exchanges to figure out future <b>laws</b>",
+            "link": "https://cointelegraph.com/news/peru-is-studying-crypto-exchanges-to-figure-out-future-laws",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Oct 28, 2020 ... A recent glimpse into Peruvian crypto regulation came from the Congress of the Republic of Peru, who promulgated a law on October 22 that\u00a0...",
+            "htmlSnippet": "Oct 28, 2020 <b>...</b> A recent glimpse into <b>Peruvian</b> crypto <b>regulation</b> came from the Congress of the Republic of <b>Peru</b>, who promulgated a law on October 22 that&nbsp;...",
+            "cacheId": "rwz74kwXXSEJ",
+            "formattedUrl": "https://cointelegraph.com/.../peru-is-studying-crypto-exchanges-to-figure-out -future-laws",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>peru</b>-is-studying-crypto-exchanges-to-figure-out -future-<b>laws</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqVfFruRN2-_G0XGib_T-I8gWy_spD3CelhGKzeA2xmvSoK5qGPFb-WBU",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTAvZTc1YWIxNjAtMDEwYy00MzYwLWI2MGItMDczZWI1NTMzZGNkLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Peru is studying crypto exchanges to figure out future laws",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Peru is studying crypto exchanges to figure out future laws",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Superintendent of the Financial Intelligence Unit of Peru still considers national crypto industry as a virgin land yet to be explored",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTAvZTc1YWIxNjAtMDEwYy00MzYwLWI2MGItMDczZWI1NTMzZGNkLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Superintendent of the Financial Intelligence Unit of Peru still considers national crypto industry as a virgin land yet to be explored",
+                        "og:url": "https://cointelegraph.com/news/peru-is-studying-crypto-exchanges-to-figure-out-future-laws"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTAvZTc1YWIxNjAtMDEwYy00MzYwLWI2MGItMDczZWI1NTMzZGNkLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peru launches a bill to regulate cryptocurrencies - The Rio Times",
+            "htmlTitle": "<b>Peru</b> launches a bill to <b>regulate cryptocurrencies</b> - The Rio Times",
+            "link": "https://www.riotimesonline.com/brazil-news/technology/peru-launches-a-bill-to-regulate-cryptocurrencies/",
+            "displayLink": "www.riotimesonline.com",
+            "snippet": "Jan 4, 2022 ... Peru joins countries seeking to regulate cryptocurrencies. Lawmaker Jos\u00e9 El\u00edas \u00c1valos of the Podemos Per\u00fa party has submitted.",
+            "htmlSnippet": "Jan 4, 2022 <b>...</b> <b>Peru</b> joins countries seeking to <b>regulate cryptocurrencies</b>. Lawmaker Jos\u00e9 El\u00edas \u00c1valos of the Podemos <b>Per\u00fa</b> party has submitted.",
+            "cacheId": "Uby0KH4o3-EJ",
+            "formattedUrl": "https://www.riotimesonline.com/.../peru-launches-a-bill-to-regulate- cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.riotimesonline.com/.../<b>peru</b>-launches-a-bill-to-<b>regulate</b>- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Juan Martinez"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk0sWIlrZuLbaNvrlJBfUjqFArbWsdQ1RjU_elTi9Y_GhHZY0mLr5DcvNJ",
+                        "width": "218",
+                        "height": "150"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2021/07/Rio-Times-logo-375x69-1.png"
+                    },
+                    {
+                        "width": "1200",
+                        "url": "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2022/01/Peru-crpto.jpg",
+                        "height": "630"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Juan Martinez"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Rio Times"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://riotimes-11af1.kxcdn.com/wp-content/uploads/2022/01/Peru-crpto.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2022-01-04T16:58:30+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Rio Times",
+                        "og:title": "Peru launches a bill to regulate cryptocurrencies - The Rio Times",
+                        "og:image:height": "630",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Peru joins countries seeking to regulate cryptocurrencies. Lawmaker Jos\u00e9 El\u00edas \u00c1valos of the Podemos Per\u00fa party has submitted",
+                        "twitter:creator": "@TheRioTimes",
+                        "article:publisher": "https://www.facebook.com/RioTimes/",
+                        "twitter:data1": "Juan Martinez",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@TheRioTimes",
+                        "article:modified_time": "2022-01-04T17:40:34+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.riotimesonline.com/brazil-news/technology/peru-launches-a-bill-to-regulate-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///7ae5b52b01b37efb4547c3493f75abf51dc034326bb6f1ff6fc97348065716ba"
+                    }
+                ],
+                "article": [
+                    {
+                        "datemodified": "2022-01-04T14:40:34-03:00",
+                        "headline": "Peru launches a bill to regulate cryptocurrencies",
+                        "datepublished": "2022-01-04T13:58:30-03:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peru proposes a bill to regulate Bitcoin and other cryptocurrencies ...",
+            "htmlTitle": "<b>Peru</b> proposes a bill to <b>regulate</b> Bitcoin and other <b>cryptocurrencies</b> ...",
+            "link": "https://finbold.com/peru-proposes-a-bill-to-regulate-bitcoin-and-other-cryptocurrencies/",
+            "displayLink": "finbold.com",
+            "snippet": "A bill aimed at providing a legal foundation for the cryptocurrency market has been submitted to the Peruvian Congress, which will now debate the plenary\u00a0...",
+            "htmlSnippet": "A bill aimed at providing a legal foundation for the <b>cryptocurrency</b> market has been submitted to the <b>Peruvian</b> Congress, which will now debate the plenary&nbsp;...",
+            "cacheId": "IQ_2q6dGtoIJ",
+            "formattedUrl": "https://finbold.com/peru-proposes-a-bill-to-regulate-bitcoin-and-other- cryptocurrencies/",
+            "htmlFormattedUrl": "https://finbold.com/<b>peru</b>-proposes-a-bill-to-<b>regulate</b>-bitcoin-and-other- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0z9cJ_epidEdXRbQOk6kELhfORJ2c1pbXUTOdI43i7F9zAtoL80lHQZt_",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://finbold.com/wp-content/uploads/2022/01/Peru-proposes-a-bill-to-regulate-Bitcoin-and-other-cryptocurrencies.jpg",
+                        "article:published_time": "2022-01-04T09:23:00+00:00",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#000000",
+                        "og:site_name": "Finbold",
+                        "apple-mobile-web-app-title": "Finbold - Finance in Bold",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "A bill aimed at providing a legal foundation for the cryptocurrency market has been submitted in the Peruvian Congress.",
+                        "twitter:creator": "@JordanMajor_",
+                        "article:publisher": "https://www.facebook.com/Finboldcom-Finance-in-Bold-107262680810883",
+                        "twitter:data1": "Jordan Major",
+                        "twitter:data2": "2 minutes",
+                        "pocket-site-verification": "4d3490e8fdf60fbeff6af7342d119a",
+                        "twitter:site": "@finbold",
+                        "article:modified_time": "2022-01-04T09:31:43+00:00",
+                        "application-name": "Finbold",
+                        "og:type": "article",
+                        "msvalidate.01": "54945BCF4FBE6257E27C528288340838",
+                        "og:title": "Peru proposes a bill to regulate Bitcoin and other cryptocurrencies | Finbold",
+                        "og:image:height": "667",
+                        "msapplication-navbutton-color": "#000000",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://finbold.com/peru-proposes-a-bill-to-regulate-bitcoin-and-other-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://finbold.com/wp-content/uploads/2022/01/Peru-proposes-a-bill-to-regulate-Bitcoin-and-other-cryptocurrencies.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: emerging rules lead the way in Latin America ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: emerging rules lead the way in Latin America ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63-8e02-380e8b90cc33",
+            "displayLink": "www.lexology.com",
+            "snippet": "Oct 28, 2020 ... To date, there has been no specific legislation in Peru on supplying or promoting cryptocurrencies or virtual currencies, or tokens.",
+            "htmlSnippet": "Oct 28, 2020 <b>...</b> To date, there has been no specific legislation in <b>Peru</b> on supplying or promoting <b>cryptocurrencies</b> or virtual currencies, or tokens.",
+            "cacheId": "qdukZadyXSsJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrencies: emerging rules lead the way in Latin America",
+                        "workarea": "Banking",
+                        "jurisdiction": "USA",
+                        "dc.date": "2020-10-28",
+                        "firmname": "Garrigues",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63-8e02-380e8b90cc33",
+                        "og:description": "We are seeing a proliferation of cryptocurrencies throughout the world and Latin America is no exception. Here the legislation on cryptocurrencies is\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peru's central bank joins global push to develop a digital currency ...",
+            "htmlTitle": "<b>Peru&#39;s</b> central bank joins global push to develop a digital currency ...",
+            "link": "https://www.reuters.com/world/americas/perus-central-bank-joins-global-push-develop-digital-currency-2021-11-16/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Nov 16, 2021 ... Peru is joining the global push to develop a central bank digital currency (CBDC), central bank President Julio Velarde said on Tuesday,\u00a0...",
+            "htmlSnippet": "Nov 16, 2021 <b>...</b> <b>Peru</b> is joining the global push to develop a central bank digital currency (CBDC), central bank President Julio Velarde said on Tuesday,&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../perus-central-bank-joins-global-push-develop- digital-currency-2021-11-16/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>perus</b>-central-bank-joins-global-push-develop- digital-currency-2021-11-16/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQvsLdfNKDw44H9vupTEFL6BcoMOc4_IMk2uYO9mpWNAuB32i8Cm5e5I",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/8ZW9G-duYO7Mlc3Z8yFHNQoqc6c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KTVZHUZ3RZII3NZS5EJFH6ZUFA.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-11-16T18:57:21Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "World",
+                        "og:description": "Peru is joining the global push to develop a central bank digital currency (CBDC), central bank President Julio Velarde said on Tuesday, as policymakers worldwide seek to keep pace with fast-spreading cryptocurrencies.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/8ZW9G-duYO7Mlc3Z8yFHNQoqc6c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KTVZHUZ3RZII3NZS5EJFH6ZUFA.jpg",
+                        "twitter:image:alt": "Julio Velarde, president of the Central Bank of Peru, speaks during an interview with Reuters at Central Bank headquarters in Lima, Peru April 30, 2018. REUTERS/Mariana Bazo",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-11-16T18:57:50.644Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Americas",
+                        "twitter:title": "Peru's central bank joins global push to develop a digital currency",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/business/futureofmoney/article",
+                        "og:title": "Peru's central bank joins global push to develop a digital currency",
+                        "dcsext.channellist": "World;Technology",
+                        "og:article:published_time": "2021-11-16T18:57:21Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Reuters",
+                        "article:tag": "EF:BUSINESS-FUTURE-OF-MONEY,BISV,BISV08,BNKS,BSVC,CEN,CRYCUR,FIN,FINS,FINS08,FRX,AMERS,PE,EMRG,LATAM,SAMER",
+                        "analyticsattributes.topicsubchannel": "Americas",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Peru is joining the global push to develop a central bank digital currency (CBDC), central bank President Julio Velarde said on Tuesday, as policymakers worldwide seek to keep pace with fast-spreading cryptocurrencies.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/world/americas/perus-central-bank-joins-global-push-develop-digital-currency-2021-11-16/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/8ZW9G-duYO7Mlc3Z8yFHNQoqc6c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KTVZHUZ3RZII3NZS5EJFH6ZUFA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Peru | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Peru</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/peru",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Peru for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Peru</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "33eXMCGXQVMJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/peru",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>peru</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Peru for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Peru | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Peru for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Peru | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/peru"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        }
+    ]
+}
