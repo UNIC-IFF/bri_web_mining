@@ -1,0 +1,499 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - DENMARK",
+                "totalResults": "660000",
+                "searchTerms": "DENMARK",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - DENMARK",
+                "totalResults": "660000",
+                "searchTerms": "DENMARK",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.513685,
+        "formattedSearchTime": "0.51",
+        "totalResults": "660000",
+        "formattedTotalResults": "660,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Denmark and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Denmark</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/denmark/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Depending on their characteristics, cryptocurrencies in Denmark may be subject to \u201clegislation on alternative investment funds, prospectuses, and money\u00a0...",
+            "htmlSnippet": "Depending on their characteristics, <b>cryptocurrencies</b> in <b>Denmark</b> may be subject to \u201clegislation on alternative investment funds, prospectuses, and money&nbsp;...",
+            "cacheId": "-5SXhX2SVs4J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/denmark/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>denmark</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmAQkJWRzl5yhVmFDerDyed0PBednC7qxoCTouhBCFZ5CPMa9ZGArnxqU",
+                        "width": "294",
+                        "height": "172"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Denmark-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:31:37+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/denmark/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Denmark? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Denmark-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Denmark-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:15:39+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/international-tax-treaties/denmark-2/",
+                        "og:type": "article",
+                        "og:image:alt": "denmark cryptocurrency",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Denmark and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Denmark and Cryptocurrency",
+                        "og:image:height": "1498",
+                        "og:updated_time": "2022-01-09T18:15:39+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Denmark and Cryptocurrency Denmark Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In Denmark, parties in cryptocurrency transactions must resolve whether their asset is classified as a form of payment (currency), a capital asset (investment),...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/denmark/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Denmark-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Denmark",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Denmark</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/denmark",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... Fraud is illegal under the Danish Criminal Code regardless of whether virtual currencies are not directly regulated elsewhere in the Danish\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> Fraud is illegal under the <b>Danish</b> Criminal Code regardless of whether virtual currencies are not directly <b>regulated</b> elsewhere in the <b>Danish</b>&nbsp;...",
+            "cacheId": "xT1b2CM1nKYJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../denmark",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>denmark</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "cUNWNiSY0wRJPeBwE4UaDzpgnXBb6idHxas0Fed3"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Denmark \u2013 The Danish Financial Supervisory Authority. (FSA) is the main supervisory authority in Denmark. Cryptocurrency regulation is\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Denmark</b> \u2013 The <b>Danish</b> Financial Supervisory Authority. (FSA) is the main supervisory authority in <b>Denmark</b>. <b>Cryptocurrency regulation</b> is&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CONVENTION WITH DENMARK RELATING TO DOUBLE ...",
+            "htmlTitle": "CONVENTION WITH <b>DENMARK</b> RELATING TO DOUBLE ...",
+            "link": "https://www.irs.gov/pub/irs-trty/denmark.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "other allowance accorded by the laws of the respective countries. ... its taxes of the amount of tax paid to Denmark with respect to income from sources\u00a0...",
+            "htmlSnippet": "other allowance accorded by the <b>laws</b> of the respective countries. ... its taxes of the amount of tax paid to <b>Denmark</b> with respect to income from sources&nbsp;...",
+            "cacheId": "A7d8MXpOioQJ",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/denmark.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>denmark</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMtOxGNySXtWH4taFaz1sJtz9Hrq0x20A17tDackpsRnqDspxtLjcO_wNw",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802093031-04'00'",
+                        "creationdate": "D:19991028084347Z",
+                        "creator": "Microsoft Word - DENMARKWEB",
+                        "subject": "US TREATY - DENMARK (CAT. #28404Q)",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "PUB 3460 (REV. 7-1999)"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///808eee59d6001975f85cfff67410527f192fa48cbe0008f9c6205c2a87a40bce"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin ban upheld at Denmark's biggest bank amid growing client ...",
+            "htmlTitle": "Bitcoin ban upheld at <b>Denmark&#39;s</b> biggest bank amid growing client ...",
+            "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-ban-upheld-at-denmark-s-biggest-bank-amid-growing-client-demand-11624014116408.html",
+            "displayLink": "www.livemint.com",
+            "snippet": "Jun 18, 2021 ... Home / Markets / Cryptocurrency / Bitcoin ban upheld at Denmark's ... and regulation in crypto trading, in a statement on its website.",
+            "htmlSnippet": "Jun 18, 2021 <b>...</b> Home / Markets / <b>Cryptocurrency</b> / Bitcoin ban upheld at <b>Denmark&#39;s</b> ... and <b>regulation</b> in crypto trading, in a statement on its website.",
+            "cacheId": "XLqxO9_d68wJ",
+            "formattedUrl": "https://www.livemint.com/.../cryptocurrency/bitcoin-ban-upheld-at-denmark- s-biggest-bank-amid-growing-client-demand-11624014116408.html",
+            "htmlFormattedUrl": "https://www.livemint.com/.../<b>cryptocurrency</b>/bitcoin-ban-upheld-at-<b>denmark</b>- s-biggest-bank-amid-growing-client-demand-11624014116408.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfFMCiAZypH9-ZYwMulb1GKV9Ji04__NdGjFRNaEuMHhKQqSAse7W3DrfZ",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.livemint.com/img/2021/06/18/600x338/2021-06-17T104234Z_2_LYNXNPEH5G0L2_RTROPTP_3_CRYPTO-CURRENCY-BRITAIN_1624014481072_1624014488329.JPG",
+                        "theme-color": "#ffffff",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-18T16:39:45+05:30",
+                        "og:site_name": "mint",
+                        "twitter:url": "https://www.livemint.com/market/cryptocurrency/bitcoin-ban-upheld-at-denmark-s-biggest-bank-amid-growing-client-demand-11624014116408.html",
+                        "section": "Markets",
+                        "og:description": "Danske, which is still being investigated for money laundering in the U.S. and Europe, is particularly sensitive to the risk of crypto assets being used for financial crime",
+                        "twitter:creator": "@mint",
+                        "last-modified": "2021-06-18T16:40:24+05:30",
+                        "twitter:site": "@mint",
+                        "article:modified_time": "2021-06-18T16:40:24+05:30",
+                        "news_keywords": "Danske Bank,Denmark bank,Bitcoin ban,Bitcoin ban news,Bitcoin news",
+                        "last-modified-date": "Fri, Jun 18, 2021",
+                        "storyid": "11624014116408",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin ban upheld at Denmark\u2019s biggest bank amid growing client demand",
+                        "article:section": "Markets",
+                        "twitter:domain": "livemint.com",
+                        "cxenseparse:pageclass": "story",
+                        "og:title": "Bitcoin ban upheld at Denmark\u2019s biggest bank amid growing client demand",
+                        "screen-name": "story",
+                        "tweetmeme-title": "Bitcoin ban upheld at Denmark\u2019s biggest bank amid growing client demand",
+                        "fb:pages": "170844986298918",
+                        "twitter:image:src": "https://images.livemint.com/img/2021/06/18/600x338/2021-06-17T104234Z_2_LYNXNPEH5G0L2_RTROPTP_3_CRYPTO-CURRENCY-BRITAIN_1624014481072_1624014488329.JPG",
+                        "referrer": "no-referrer-when-downgrade",
+                        "viewport": "width=device-width, user-scalable=yes",
+                        "twitter:description": "Danske, which is still being investigated for money laundering in the U.S. and Europe, is particularly sensitive to the risk of crypto assets being used for financial crime",
+                        "og:url": "https://www.livemint.com/market/cryptocurrency/bitcoin-ban-upheld-at-denmark-s-biggest-bank-amid-growing-client-demand-11624014116408.html",
+                        "last-modified-time": "2021-06-18T16:40:24+05:30"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.livemint.com/img/2021/06/18/600x338/2021-06-17T104234Z_2_LYNXNPEH5G0L2_RTROPTP_3_CRYPTO-CURRENCY-BRITAIN_1624014481072_1624014488329.JPG"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Latest News on Denmark | Cointelegraph",
+            "htmlTitle": "Latest News on <b>Denmark</b> | Cointelegraph",
+            "link": "https://cointelegraph.com/tags/denmark",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Bitcoin in not regulated in Denmark. Danish authorities allow the usage of Bitcoin as a payment tool, as an asset and as a good.",
+            "htmlSnippet": "Bitcoin in not <b>regulated</b> in <b>Denmark</b>. <b>Danish</b> authorities allow the usage of Bitcoin as a payment tool, as an asset and as a good.",
+            "cacheId": "68lXUgisBF4J",
+            "formattedUrl": "https://cointelegraph.com/tags/denmark",
+            "htmlFormattedUrl": "https://cointelegraph.com/tags/<b>denmark</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6X8zS0Ybfbr_iNp8C_Wfv31pupaXX8KVRDABlq0rYspVjcTeLiilgrmg",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png",
+                        "theme-color": "#ffffff",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Latest News on Denmark | Cointelegraph",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Latest News on Denmark | Cointelegraph",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Read the latest news on Denmark to learn more about the country, cryptocurrency regulations and recent events with our Denmark news section.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Read the latest news on Denmark to learn more about the country, cryptocurrency regulations and recent events with our Denmark news section.",
+                        "og:url": "https://cointelegraph.com/tags/denmark"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A general introduction to the regulation of virtual currencies in ...",
+            "htmlTitle": "A general introduction to the <b>regulation</b> of virtual currencies in ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=05d8ab60-c609-489b-8f9a-ef84d04566ca",
+            "displayLink": "www.lexology.com",
+            "snippet": "Sep 7, 2020 ... Danish financial regulation is influenced by both national and ... consider cryptocurrencies to be currencies or commodities for regulatory\u00a0...",
+            "htmlSnippet": "Sep 7, 2020 <b>...</b> <b>Danish</b> financial <b>regulation</b> is influenced by both national and ... consider <b>cryptocurrencies</b> to be currencies or commodities for <b>regulatory</b>&nbsp;...",
+            "cacheId": "yu8b8fZV40wJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=05d8ab60-c609-489b...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=05d8ab60-c609-489b...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "A general introduction to the regulation of virtual currencies in Denmark",
+                        "workarea": "Banking",
+                        "jurisdiction": "Denmark",
+                        "dc.date": "2020-09-07",
+                        "firmname": "Bech-Bruun",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=05d8ab60-c609-489b-8f9a-ef84d04566ca",
+                        "og:description": "This article reviews the need-to-know features of the legal and regulatory frameworks governing virtual currencies in Denmark, with particular regard to applicable securities and banking laws."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Denmark's Authorities: Bitcoin is Not Regulated Here",
+            "htmlTitle": "<b>Denmark&#39;s</b> Authorities: Bitcoin is Not <b>Regulated</b> Here",
+            "link": "https://www.coindesk.com/markets/2013/12/17/denmarks-authorities-bitcoin-is-not-regulated-here/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Dec 17, 2013 ... Thus, cryptocurrencies cannot be subjected to the country's standard financial regulation. According to the FSA, doing business with bitcoin and\u00a0...",
+            "htmlSnippet": "Dec 17, 2013 <b>...</b> Thus, <b>cryptocurrencies</b> cannot be subjected to the country&#39;s standard financial <b>regulation</b>. According to the FSA, doing business with bitcoin and&nbsp;...",
+            "cacheId": "nx7RakZetZ0J",
+            "formattedUrl": "https://www.coindesk.com/.../denmarks-authorities-bitcoin-is-not-regulated- here/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>denmarks</b>-authorities-bitcoin-is-not-<b>regulated</b>- here/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo63D1l68WESPjcF7ghQsY4_XcuAePKOO7nYOH8ZOwBpHlXw2BKRlR1xY",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/k3m4XX78mpQLrUumnGIRwurrNIE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/S74EENWXNZG7TISQHKH47DOWLM.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2013-12-17T18:00:37Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Denmark\u2019s Financial Supervisory Authority issued a statement on virtual currency \u2013 and surprisingly, it\u2019s not all bad news.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/rrKfWVdGp6Olw5MEqYgOXpz71OY=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/S74EENWXNZG7TISQHKH47DOWLM.jpg",
+                        "twitter:image:alt": "Denmark",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2013-12-17T18:00:37Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Denmark",
+                        "og:type": "article",
+                        "article:section": "Markets",
+                        "twitter:title": "Denmark's Authorities: Bitcoin is Not Regulated Here",
+                        "og:title": "Denmark's Authorities: Bitcoin is Not Regulated Here",
+                        "og:image:height": "628",
+                        "article:author": "Grace Caffyn",
+                        "article:tag": "Zerocoin, Europe, Litecoin, Denmark, FSA, Regulation, News",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Denmark\u2019s Financial Supervisory Authority issued a statement on virtual currency \u2013 and surprisingly, it\u2019s not all bad news.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2013/12/17/denmarks-authorities-bitcoin-is-not-regulated-here/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/S74EENWXNZG7TISQHKH47DOWLM.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Exchanges in Denmark to Fall Under AML Rules",
+            "htmlTitle": "<b>Cryptocurrency</b> Exchanges in <b>Denmark</b> to Fall Under AML Rules",
+            "link": "https://news.bloomberglaw.com/securities-law/cryptocurrency-exchanges-in-denmark-to-fall-under-aml-rules/",
+            "displayLink": "news.bloomberglaw.com",
+            "snippet": "Nov 22, 2019 ... ... that offer trading between cryptocurrencies and regular money will now have to follow the country's anti-money laundering regulations.",
+            "htmlSnippet": "Nov 22, 2019 <b>...</b> ... that offer trading between <b>cryptocurrencies</b> and regular money will now have to follow the country&#39;s anti-money laundering <b>regulations</b>.",
+            "cacheId": "jyia7m8ir0AJ",
+            "formattedUrl": "https://news.bloomberglaw.com/.../cryptocurrency-exchanges-in-denmark-to- fall-under-aml-rules/",
+            "htmlFormattedUrl": "https://news.bloomberglaw.com/.../<b>cryptocurrency</b>-exchanges-in-<b>denmark</b>-to- fall-under-aml-rules/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://aboutblaw.com/Q2V",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Exchanges in Denmark to Fall Under AML Rules",
+                        "og:title": "Cryptocurrency Exchanges in Denmark to Fall Under AML Rules",
+                        "og:description": "Exchanges and brokerages in Denmark that offer trading between cryptocurrencies and regular money will now have to follow the country\u2019s anti-money laundering regulations.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://aboutblaw.com/Q2V",
+                        "twitter:site": "@BLaw",
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                        "twitter:description": "Exchanges and brokerages in Denmark that offer trading between cryptocurrencies and regular money will now have to follow the country\u2019s anti-money laundering regulations.",
+                        "csrf-token": "frZJtAdM-1lioobRbSQJVwfyGgyVRunjBc60",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://news.bloomberglaw.com/securities-law/cryptocurrency-exchanges-in-denmark-to-fall-under-aml-rules"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://aboutblaw.com/Q2V"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,544 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - UZBEKISTAN",
+                "totalResults": "523000",
+                "searchTerms": "UZBEKISTAN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - UZBEKISTAN",
+                "totalResults": "523000",
+                "searchTerms": "UZBEKISTAN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.336245,
+        "formattedSearchTime": "0.34",
+        "totalResults": "523000",
+        "formattedTotalResults": "523,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Uzbekistan legalises licencing for cryptocurrencies exchanges ...",
+            "htmlTitle": "<b>Uzbekistan</b> legalises licencing for <b>cryptocurrencies</b> exchanges ...",
+            "link": "https://www.engage.hoganlovells.com/knowledgeservices/news/uzbekistan-legalises-licencing-for-cryptocurrencies-exchanges",
+            "displayLink": "www.engage.hoganlovells.com",
+            "snippet": "A decree signed by the president of Uzbekistan, Shavkat Mirziyoyev, earlier this week has introduced licensing for cryptocurrency exchanges and set the\u00a0...",
+            "htmlSnippet": "A decree signed by the president of <b>Uzbekistan</b>, Shavkat Mirziyoyev, earlier this week has introduced licensing for <b>cryptocurrency</b> exchanges and set the&nbsp;...",
+            "formattedUrl": "https://www.engage.hoganlovells.com/.../uzbekistan-legalises-licencing-for- cryptocurrencies-exchanges",
+            "htmlFormattedUrl": "https://www.engage.hoganlovells.com/.../<b>uzbekistan</b>-legalises-licencing-for- <b>cryptocurrencies</b>-exchanges",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFmObXBm0bQH1kw7g_QII6y4Igouf7i2UijBueM3rCkGFeTaxZsFwwpII3",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.engage.hoganlovells.com/knowledgeservices/contentImage.action?contentId=2445&attId=2334512&nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&fromSocialSharing=1",
+                        "og:type": "article",
+                        "og:image:width": "512",
+                        "og:image:alt": "uzbekistan_1346512682",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Uzbekistan legalises licencing for cryptocurrencies exchanges",
+                        "theme-color": "#ffffff",
+                        "twitter:url": "https://www.engage.hoganlovells.com/knowledgeservices/news/uzbekistan-legalises-licencing-for-cryptocurrencies-exchanges",
+                        "og:title": "Uzbekistan legalises licencing for cryptocurrencies exchanges",
+                        "og:image:height": "384",
+                        "title": "Uzbekistan legalises licencing for cryptocurrencies exchanges",
+                        "msapplication-tileimage": "./flag/flag_4054.gif",
+                        "og:description": "A presidential decree&nbsp;has introduced licensing for cryptocurrency exchanges and set requirements they have to meet to operate in the country",
+                        "twitter:image": "https://www.engage.hoganlovells.com/knowledgeservices/contentImage.action?contentId=2445&attId=2334512&nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&fromSocialSharing=1",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "twitter:description": "A presidential decree&nbsp;has introduced licensing for cryptocurrency exchanges and set requirements they have to meet to operate in the country",
+                        "og:url": "https://www.engage.hoganlovells.com/knowledgeservices/news/uzbekistan-legalises-licencing-for-cryptocurrencies-exchanges",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.engage.hoganlovells.com/knowledgeservices/contentImage.action?contentId=2445&attId=2334512&nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&fromSocialSharing=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency In Uzbekistan - Technology - Uzbekistan",
+            "htmlTitle": "<b>Cryptocurrency</b> In <b>Uzbekistan</b> - Technology - <b>Uzbekistan</b>",
+            "link": "https://www.mondaq.com/fin-tech/1119464/cryptocurrency-in-uzbekistan",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Oct 11, 2021 ... Under the Rules of crypto-exchange trading, residents of Uzbekistan cannot buy digital currency. They are only allowed to sell crypto assets and\u00a0...",
+            "htmlSnippet": "Oct 11, 2021 <b>...</b> Under the Rules of crypto-exchange trading, residents of <b>Uzbekistan</b> cannot buy digital currency. They are only allowed to sell crypto assets and&nbsp;...",
+            "cacheId": "L8XmMocxKQ4J",
+            "formattedUrl": "https://www.mondaq.com/fin-tech/1119464/cryptocurrency-in-uzbekistan",
+            "htmlFormattedUrl": "https://www.mondaq.com/fin-tech/1119464/<b>cryptocurrency</b>-in-<b>uzbekistan</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Cryptocurrency In Uzbekistan - Technology - Uzbekistan",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "The capital that rotates in the cryptocurrency is estimated at billions of dollars. Each country has separate legal base that makes it unprofitable to invest in cryptocurrencies. Uzbekistan was not an exception."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uzbekistan Allows Residents to Trade Cryptocurrencies on Local ...",
+            "htmlTitle": "<b>Uzbekistan</b> Allows Residents to Trade <b>Cryptocurrencies</b> on Local ...",
+            "link": "https://news.bitcoin.com/uzbekistan-allows-residents-to-trade-cryptocurrencies-on-local-exchanges/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Nov 26, 2021 ... According to the new regulations, residents of Uzbekistan can buy, sell, and exchange crypto assets domestically for their national currency\u00a0...",
+            "htmlSnippet": "Nov 26, 2021 <b>...</b> According to the new <b>regulations</b>, residents of <b>Uzbekistan</b> can buy, sell, and exchange crypto assets domestically for their national currency&nbsp;...",
+            "cacheId": "XpgBTptlkT0J",
+            "formattedUrl": "https://news.bitcoin.com/uzbekistan-allows-residents-to-trade- cryptocurrencies-on-local-exchanges/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>uzbekistan</b>-allows-residents-to-trade- <b>cryptocurrencies</b>-on-local-exchanges/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPlemi1um60Bl625jH--w65oiUfZWMTyAJz5_sjkdsw-rIpaMboWDwZkE",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/11/shutterstock_1504756634_c.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-26T07:00:07+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Uzbekistan Allows Residents to Trade Cryptocurrencies on Local Exchanges \u2013 Exchanges Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Changes to the rules governing activities of crypto exchanges in Uzbekistan now allow residents to trade coins on licensed platforms.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-11-25T15:47:28+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/uzbekistan-allows-residents-to-trade-cryptocurrencies-on-local-exchanges/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Uzbekistan Allows Residents to Trade Cryptocurrencies on Local Exchanges"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/11/shutterstock_1504756634_c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency In Uzbekistan: Legal Or Not? - Technology ...",
+            "htmlTitle": "<b>Cryptocurrency</b> In <b>Uzbekistan</b>: Legal Or Not? - Technology ...",
+            "link": "https://www.mondaq.com/fin-tech/1109612/cryptocurrency-in-uzbekistan-legal-or-not",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Sep 8, 2021 ... Under the Rules of crypto-exchange trading, residents of Uzbekistan cannot buy digital currency. They are only allowed to sell crypto assets and\u00a0...",
+            "htmlSnippet": "Sep 8, 2021 <b>...</b> Under the Rules of crypto-exchange trading, residents of <b>Uzbekistan</b> cannot buy digital currency. They are only allowed to sell crypto assets and&nbsp;...",
+            "cacheId": "ivFySs1KqaMJ",
+            "formattedUrl": "https://www.mondaq.com/fin.../cryptocurrency-in-uzbekistan-legal-or-not",
+            "htmlFormattedUrl": "https://www.mondaq.com/fin.../<b>cryptocurrency</b>-in-<b>uzbekistan</b>-legal-or-not",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Cryptocurrency In Uzbekistan: Legal Or Not? - Technology - Uzbekistan",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "The capital that rotates in the cryptocurrency is estimated at billions of dollars. Each country has separate legal base that make it unprofitable to invest in cryptocurrencies. Uzbekistan was not an exception..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Uzbekistan | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Uzbekistan</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/uzbekistan",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Uzbekistan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Uzbekistan</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "IwYUuwU3owgJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/uzbekistan",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>uzbekistan</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Uzbekistan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Uzbekistan | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Uzbekistan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Uzbekistan | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/uzbekistan"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The regulatory policy of cryptocurrencies in Uzbekistan \u2013 Uzbekistan ...",
+            "htmlTitle": "The <b>regulatory</b> policy of <b>cryptocurrencies</b> in <b>Uzbekistan</b> \u2013 <b>Uzbekistan</b> ...",
+            "link": "http://uzbekistanlawblog.com/the-regulatory-policy-of-cryptocurrencies-in-uzbekistan/",
+            "displayLink": "uzbekistanlawblog.com",
+            "snippet": "Jul 12, 2021 ... Cryptocurrency exchanges are expected to be allowed in Uzbekistan. The relevant draft resolution has been posted on the portal for discussion of\u00a0...",
+            "htmlSnippet": "Jul 12, 2021 <b>...</b> <b>Cryptocurrency</b> exchanges are expected to be allowed in <b>Uzbekistan</b>. The relevant draft resolution has been posted on the portal for discussion of&nbsp;...",
+            "cacheId": "giz2xaOZZo0J",
+            "formattedUrl": "uzbekistanlawblog.com/the-regulatory-policy-of-cryptocurrencies-in- uzbekistan/",
+            "htmlFormattedUrl": "<b>uzbekistan</b>lawblog.com/the-<b>regulatory</b>-policy-of-<b>cryptocurrencies</b>-in- <b>uzbekistan</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_HlvAcxBjPfLdQaus4MfZDUhOn6WYmz19KbIBQ8eVszx0xBLpbJWVnP4",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "msapplication-tileimage": "http://uzbekistanlawblog.com/wp-content/uploads/2020/11/cropped-icon-270x270.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://uzbekistanlawblog.com/wp-content/uploads/2021/07/shutterstock_728436097_1600-945x945.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uzbek presidential agency proposes legalizing domestic crypto ...",
+            "htmlTitle": "<b>Uzbek</b> presidential agency proposes legalizing domestic crypto ...",
+            "link": "https://cointelegraph.com/news/uzbek-presidential-agency-proposes-legalizing-domestic-crypto-trading",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Apr 30, 2021 ... In January 2020, Uzbekistan debuted its first regulated cryptocurrency exchange, Uznex, which is only open to non-residents.",
+            "htmlSnippet": "Apr 30, 2021 <b>...</b> In January 2020, <b>Uzbekistan</b> debuted its first <b>regulated cryptocurrency</b> exchange, Uznex, which is only open to non-residents.",
+            "cacheId": "yH0hTzYUvEgJ",
+            "formattedUrl": "https://cointelegraph.com/.../uzbek-presidential-agency-proposes-legalizing- domestic-crypto-trading",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>uzbek</b>-presidential-agency-proposes-legalizing- domestic-crypto-trading",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmLBIlZv3OJ6QYiIImSqs4IGFdAtsJqmKK9I8d-geF53bRwDVafpokHXi6",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvODg2NGZjMjktOWFhYi00NDE4LTkwMDgtYjVhNWMxYjY3MjhjLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Uzbek presidential agency proposes legalizing domestic crypto trading",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Uzbek presidential agency proposes legalizing domestic crypto trading",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The National Agency for Project Management under the President of the Republic of Uzbekistan has proposed to allow residents to buy crypto on regulated exchanges.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvODg2NGZjMjktOWFhYi00NDE4LTkwMDgtYjVhNWMxYjY3MjhjLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The National Agency for Project Management under the President of the Republic of Uzbekistan has proposed to allow residents to buy crypto on regulated exchanges.",
+                        "og:url": "https://cointelegraph.com/news/uzbek-presidential-agency-proposes-legalizing-domestic-crypto-trading"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvODg2NGZjMjktOWFhYi00NDE4LTkwMDgtYjVhNWMxYjY3MjhjLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "You Can Sell It, You Can't Buy It: Rules of Cryptocurrency Trading in ...",
+            "htmlTitle": "You Can Sell It, You Can&#39;t Buy It: Rules of <b>Cryptocurrency</b> Trading in ...",
+            "link": "https://cabar.asia/en/you-can-sell-it-you-can-t-buy-it-rules-of-cryptocurrency-trading-in-uzbekistan",
+            "displayLink": "cabar.asia",
+            "snippet": "May 25, 2021 ... CABAR.asia has collected all you need to know about transactions in cryptocurrency and mining in Uzbekistan. What documents regulate\u00a0...",
+            "htmlSnippet": "May 25, 2021 <b>...</b> CABAR.asia has collected all you need to know about transactions in <b>cryptocurrency</b> and mining in <b>Uzbekistan</b>. What documents <b>regulate</b>&nbsp;...",
+            "cacheId": "Lo1vnlLa5fcJ",
+            "formattedUrl": "https://cabar.asia/.../you-can-sell-it-you-can-t-buy-it-rules-of-cryptocurrency- trading-in-uzbekistan",
+            "htmlFormattedUrl": "https://cabar.asia/.../you-can-sell-it-you-can-t-buy-it-rules-of-<b>cryptocurrency</b>- trading-in-<b>uzbekistan</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFNFy1Z6Y2Cy5UnPLtJi8rZRYgWuhJemMchebgTbQYUGrDYx0lo_O6cvQ8",
+                        "width": "308",
+                        "height": "164"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cabar.asia/wp-content/uploads/2021/05/Picture36.png",
+                        "og:image:width": "1024",
+                        "article:published_time": "2021-05-25T09:40:43+06:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "CABAR.asia",
+                        "twitter:url": "https://cabar.asia/en/you-can-sell-it-you-can-t-buy-it-rules-of-cryptocurrency-trading-in-uzbekistan",
+                        "twitter:image:height": "683",
+                        "msapplication-tileimage": "https://cabar.asia/wp-content/uploads/2021/05/Picture36.png",
+                        "og:description": "There are no unified rules of digital money market regulation. Each country decides itself on how to take this type of asset, how to impose taxes on transactions in cryptocurrencies, and the electricity rates for mining farms. Follow us on\u00a0LinkedIn CABAR.asia has collected all you need to know about transactions in cryptocurrency and mining in...",
+                        "twitter:image:alt": "service1",
+                        "article:modified_time": "2021-05-31T11:25:28+06:00",
+                        "twitter:image:width": "1024",
+                        "profile:first_name": "CABAR.asia",
+                        "og:image:alt": "service1",
+                        "og:type": "article",
+                        "article:section": "en",
+                        "twitter:title": "You Can Sell It, You Can\u2019t Buy It: Rules of Cryptocurrency Trading in Uzbekistan",
+                        "profile:username": "CABAR.asia",
+                        "og:title": "You Can Sell It, You Can\u2019t Buy It: Rules of Cryptocurrency Trading in Uzbekistan",
+                        "og:image:height": "683",
+                        "og:updated_time": "2021-05-31T11:25:28+06:00",
+                        "article:author": "https://cabar.asia/en/author/admin",
+                        "article:tag": "cryptocurrency",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "There are no unified rules of digital money market regulation. Each country decides itself on how to take this type of asset, how to impose taxes on transactions in cryptocurrencies, and the electricity rates for mining farms. Follow us on\u00a0LinkedIn CABAR.asia has collected all you need to know...",
+                        "og:locale": "en_gb",
+                        "og:url": "https://cabar.asia/en/you-can-sell-it-you-can-t-buy-it-rules-of-cryptocurrency-trading-in-uzbekistan"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cabar.asia/wp-content/uploads/2021/05/Picture36.png"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Main",
+                        "name": "Main",
+                        "position": "1"
+                    },
+                    {
+                        "item": "en",
+                        "name": "en",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "From Kazakhstan to Uzbekistan: How Cryptocurrencies Are ...",
+            "htmlTitle": "From Kazakhstan to <b>Uzbekistan</b>: How <b>Cryptocurrencies</b> Are ...",
+            "link": "https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 15, 2018 ... The country's president, Shavkat Mirziyoyev, has signed a law legalizing the activities of crypto exchanges, which came into force on Sept. 2.",
+            "htmlSnippet": "Sep 15, 2018 <b>...</b> The country&#39;s president, Shavkat Mirziyoyev, has signed a law legalizing the activities of crypto exchanges, which came into force on Sept. 2.",
+            "cacheId": "EnQ2riWF3X8J",
+            "formattedUrl": "https://cointelegraph.com/.../from-kazakhstan-to-uzbekistan-how- cryptocurrencies-are-regulated-in-central-asia",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../from-kazakhstan-to-<b>uzbekistan</b>-how- <b>cryptocurrencies</b>-are-<b>regulated</b>-in-central-asia",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzJuf5J-RQv1MZtTTWqtY492M9PoPCLP8xraJVakTqEl4a0msUcXhzCByB",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjI5OTM2MzkyYTZkMzE5ZDFkZjMwNGIzNjk1NDY2OC5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Uzbekistan\u2019s pro-crypto laws, Kazakhstan\u2019s blockchain plans and more.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjI5OTM2MzkyYTZkMzE5ZDFkZjMwNGIzNjk1NDY2OC5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Uzbekistan\u2019s pro-crypto laws, Kazakhstan\u2019s blockchain plans and more.",
+                        "og:url": "https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjI5OTM2MzkyYTZkMzE5ZDFkZjMwNGIzNjk1NDY2OC5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Book/Printed Material Regulation of cryptocurrency around the world ... United Kingdom, United States, Uzbekistan, Venezuela, Vietnam, Zimbabwe.",
+            "htmlSnippet": "Book/Printed Material <b>Regulation of cryptocurrency</b> around the world ... United Kingdom, United States, <b>Uzbekistan</b>, Venezuela, Vietnam, Zimbabwe.",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        }
+    ]
+}

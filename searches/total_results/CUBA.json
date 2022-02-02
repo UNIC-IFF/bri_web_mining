@@ -1,0 +1,675 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CUBA",
+                "totalResults": "1600000",
+                "searchTerms": "CUBA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CUBA",
+                "totalResults": "1600000",
+                "searchTerms": "CUBA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.333093,
+        "formattedSearchTime": "0.33",
+        "totalResults": "1600000",
+        "formattedTotalResults": "1,600,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba to Recognize -- And Regulate -- Cryptocurrencies - Bloomberg",
+            "htmlTitle": "<b>Cuba</b> to Recognize -- And <b>Regulate</b> -- <b>Cryptocurrencies</b> - Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2021-08-27/cuba-to-recognize-and-regulate-cryptocurrencies",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Aug 28, 2021 ... Havana (AP) -- Cuba's government said Thursday it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island.",
+            "htmlSnippet": "Aug 28, 2021 <b>...</b> Havana (AP) -- <b>Cuba&#39;s</b> government said Thursday it will recognize \u2014 and <b>regulate</b> \u2014 <b>cryptocurrencies</b> for payments on the island.",
+            "cacheId": "ROphTHnQO5YJ",
+            "formattedUrl": "https://www.bloomberg.com/.../cuba-to-recognize-and-regulate- cryptocurrencies",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>cuba</b>-to-recognize-and-<b>regulate</b>- <b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKYnEisQNbDb1akzW5V7z7_jbFnWQ-oo9nWIsWKhbc5GYic26VhPilvRw",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7z8fsmBrME/v0/1200x798.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Cuba,Cryptocurrency,Government,Havana,Donald John Trump,El Salvador,Bitcoin,Blockchain,Regulation,Politics,markets,business,cryptocurrencies",
+                        "lotame-bbg-topic": "cryptocurrency",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "ap",
+                        "og:description": "The Central Bank will set rules for such currencies and determine how to license providers of related services within Cuba.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7z8fsmBrME/v0/1200x798.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@markets",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-08-27/cuba-to-recognize-and-regulate-cryptocurrencies",
+                        "iso-8601-publish-date": "2021-08-27T01:07:37.395Z",
+                        "sailthru.title": "Cuba to Recognize and Regulate Crypto on the Island",
+                        "checksum": "8369cd8249134411bc69518a33aca332",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7z8fsmBrME/v0/1200x798.jpg",
+                        "parsely-section": "markets",
+                        "article:content_tier": "metered",
+                        "fb:status": "The Central Bank will set rules for such currencies and determine how to license providers of related services within Cuba.",
+                        "sailthru.date": "2021-08-27T01:07:37.395Z",
+                        "og:type": "article",
+                        "twitter:title": "Cuba to Recognize and\u00a0Regulate Crypto on the Island",
+                        "parsely-post-id": "QYH4GP3V7U9T02",
+                        "og:title": "Cuba to Recognize and\u00a0Regulate Crypto on the Island",
+                        "parsely-title": "Cuba to Recognize -- And Regulate -- Cryptocurrencies",
+                        "parsely-pub-date": "2021-08-27T01:07:37.395Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-08-27/cuba-to-recognize-and-regulate-cryptocurrencies?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Cuba,Cryptocurrency,Government,Havana,Donald John Trump,El Salvador,Bitcoin,Blockchain,Regulation,Politics,Secondary Brand: markets,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "The Central Bank will set rules for such currencies and determine how to license providers of related services within Cuba.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "The Central Bank will set rules for such currencies and determine how to license providers of related services within Cuba.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-08-27/cuba-to-recognize-and-regulate-cryptocurrencies",
+                        "validatedat": "2022-01-25T02:08:09.969Z",
+                        "al:android:app_name": "Bloomberg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7z8fsmBrME/v0/1200x798.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba will recognize and regulate cryptocurrency | Fortune",
+            "htmlTitle": "<b>Cuba</b> will recognize and <b>regulate cryptocurrency</b> | Fortune",
+            "link": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+            "displayLink": "fortune.com",
+            "snippet": "Aug 27, 2021 ... Subscribe to Fortune Daily to get essential business stories straight to your inbox each morning. Cuba's government said Thursday in its\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> Subscribe to Fortune Daily to get essential business stories straight to your inbox each morning. <b>Cuba&#39;s</b> government said Thursday in its&nbsp;...",
+            "cacheId": "vzQ35OOmYHEJ",
+            "formattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-regulate-cryptocurrency /",
+            "htmlFormattedUrl": "https://fortune.com/2021/.../<b>cuba</b>-will-recognize-and-<b>regulate</b>-<b>cryptocurrency</b> /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-oeQq7FuycUaIAek04r3NWd89394Os0Hx4pU41Ve6PZuDNonH0HO1PA",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:height": "619",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba's central bank now recognizes cryptocurrencies such as bitcoin",
+            "htmlTitle": "<b>Cuba&#39;s</b> central bank now recognizes <b>cryptocurrencies</b> such as bitcoin",
+            "link": "https://www.cnbc.com/2021/08/27/cubas-central-bank-now-recognizes-cryptocurrencies-like-bitcoin.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Aug 27, 2021 ... Cuba will now recognize and regulate cryptocurrencies such as bitcoin, citing \u201creasons of socioeconomic interest.\u201d Resolution 215, which was\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> <b>Cuba</b> will now recognize and <b>regulate cryptocurrencies</b> such as bitcoin, citing \u201creasons of socioeconomic interest.\u201d Resolution 215, which was&nbsp;...",
+            "cacheId": "aOAesns0VdYJ",
+            "formattedUrl": "https://www.cnbc.com/.../cubas-central-bank-now-recognizes- cryptocurrencies-like-bitcoin.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../<b>cubas</b>-central-bank-now-recognizes- <b>cryptocurrencies</b>-like-bitcoin.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM395kWCflo9NCfyuR2vkE6g9-g-mJGO_XFTkYoZWpY0pCDpMpOVf6v2Y",
+                        "width": "276",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106910035-1626177480909-gettyimages-1233929408-AFP_9ER3N8.jpeg?v=1627050044",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-08-27T18:55:17+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/08/27/cubas-central-bank-now-recognizes-cryptocurrencies-like-bitcoin.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Cuba will now recognize and regulate cryptocurrencies such as bitcoin, in a move being billed as historic for the island nation.",
+                        "twitter:creator": "@KENZIESIGALOS",
+                        "parsely-metadata": "{\"nodeid\":106934337,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106910035-1626177480909-gettyimages-1233929408-AFP_9ER3N8.jpeg?v=1627050044\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106934337",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-08-27T20:20:58+0000",
+                        "news_keywords": "Joe Biden,Donald Trump,United States,Cuba,Bitcoin,Cryptocurrency,Cybersecurity,Technology,Bitcoin/USD Bitstamp,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Cuba's central bank now recognizes cryptocurrencies such as bitcoin",
+                        "article:section": "Crypto Decoded",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "MacKenzie Sigalos",
+                        "og:title": "Cuba's central bank now recognizes cryptocurrencies such as bitcoin",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106910035-1626177480909-gettyimages-1233929408-AFP_9ER3N8.jpeg?v=1627050044",
+                        "article:tag": "Joe Biden",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Cuba will now recognize and regulate cryptocurrencies such as bitcoin, in a move being billed as historic for the island nation.",
+                        "og:url": "https://www.cnbc.com/2021/08/27/cubas-central-bank-now-recognizes-cryptocurrencies-like-bitcoin.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106910035-1626177480909-gettyimages-1233929408-AFP_9ER3N8.jpeg?v=1627050044"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba to recognise, regulate cryptocurrency | Crypto News | Al Jazeera",
+            "htmlTitle": "<b>Cuba</b> to recognise, <b>regulate cryptocurrency</b> | Crypto News | Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2021/8/27/cuba-to-recognise-regulate-cryptocurrency-govt-resolution",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Aug 27, 2021 ... Cuba to recognise, regulate cryptocurrency ... Popularity of the digital currency has grown in Cuba, in part because of restrictions on\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> <b>Cuba</b> to recognise, <b>regulate cryptocurrency</b> ... Popularity of the digital currency has grown in <b>Cuba</b>, in part because of restrictions on&nbsp;...",
+            "cacheId": "1TKCOw3-HUQJ",
+            "formattedUrl": "https://www.aljazeera.com/.../cuba-to-recognise-regulate-cryptocurrency-govt -resolution",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>cuba</b>-to-recognise-<b>regulate</b>-<b>cryptocurrency</b>-govt -resolution",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGkGVa7lrc8SrzN24jU_V5fJzBKryuNHQjrLzmjCYiu2IU5Sz2CphHaMdE",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/08/AP21089552118817.jpg?resize=1200%2C630",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba to recognise, regulate cryptocurrency",
+                        "taxonomy-tags": "Economy, News, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/news/2021/8/27/cuba-to-recognise-regulate-cryptocurrency-govt-resolution",
+                        "pagesection": "Economy,News,Business and Economy,Crypto",
+                        "og:title": "Cuba to recognise, regulate cryptocurrency",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2021/8/27/cuba-to-recognise-regulate-cryptocurrency-govt-resolution",
+                        "source": "News Agencies",
+                        "og:description": "Popularity of the digital currency has grown in Cuba, in part because of restrictions on remittances from the US.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/08/AP21089552118817.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Cuba to recognise, regulate cryptocurrency",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "Popularity of the digital currency has grown in Cuba, in part because of restrictions on remittances from the US.",
+                        "og:url": "https://www.aljazeera.com/news/2021/8/27/cuba-to-recognise-regulate-cryptocurrency-govt-resolution",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/08/AP21089552118817.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba's cryptocurrency regulations take effect",
+            "htmlTitle": "<b>Cuba&#39;s cryptocurrency regulations</b> take effect",
+            "link": "https://cointelegraph.com/news/cuba-s-cryptocurrency-regulations-take-effect",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 16, 2021 ... Cuba's cryptocurrency regulations take effect ... Crypto is now a legal method of payment for commercial transactions in the Island nation.",
+            "htmlSnippet": "Sep 16, 2021 <b>...</b> <b>Cuba&#39;s cryptocurrency regulations</b> take effect ... Crypto is now a legal method of payment for commercial transactions in the Island nation.",
+            "cacheId": "fzCrWFW6TdoJ",
+            "formattedUrl": "https://cointelegraph.com/.../cuba-s-cryptocurrency-regulations-take-effect",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>cuba</b>-s-<b>cryptocurrency</b>-<b>regulations</b>-take-effect",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_ypdLwsXo1NXtzMOe2qwVgz0wYzWG2yZx9M0pwcsGbpaVgbyzXbRDZCs",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvNThjZTQ1YmYtNzA1Mi00NzJkLTgwNmQtMGEyZjY5OTRhMDE0LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba's cryptocurrency regulations take effect",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Cuba's cryptocurrency regulations take effect",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Cuba's central bank has also instituted a regulatory regime for crypto exchanges and other cryptocurrency businesses operating in the country.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvNThjZTQ1YmYtNzA1Mi00NzJkLTgwNmQtMGEyZjY5OTRhMDE0LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Cuba's central bank has also instituted a regulatory regime for crypto exchanges and other cryptocurrency businesses operating in the country.",
+                        "og:url": "https://cointelegraph.com/news/cuba-s-cryptocurrency-regulations-take-effect"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvNThjZTQ1YmYtNzA1Mi00NzJkLTgwNmQtMGEyZjY5OTRhMDE0LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba to recognize -- and regulate -- cryptocurrencies - ABC News",
+            "htmlTitle": "<b>Cuba</b> to recognize -- and <b>regulate</b> -- <b>cryptocurrencies</b> - ABC News",
+            "link": "https://abcnews.go.com/International/wireStory/cuba-recognize-regulate-cryptocurrencies-79670715",
+            "displayLink": "abcnews.go.com",
+            "snippet": "Aug 26, 2021 ... Cuba to recognize -- and regulate -- cryptocurrencies ... A closer look at the falling value of cryptocurrency and what sparked the latest plunge.",
+            "htmlSnippet": "Aug 26, 2021 <b>...</b> <b>Cuba</b> to recognize -- and <b>regulate</b> -- <b>cryptocurrencies</b> ... A closer look at the falling value of <b>cryptocurrency</b> and what sparked the latest plunge.",
+            "cacheId": "LLFk_30ul2QJ",
+            "formattedUrl": "https://abcnews.go.com/.../cuba-recognize-regulate-cryptocurrencies- 79670715",
+            "htmlFormattedUrl": "https://abcnews.go.com/.../<b>cuba</b>-recognize-<b>regulate</b>-<b>cryptocurrencies</b>- 79670715",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HHU8FTtmySjGHx382iX6n8jNx_2xgp8hu0E4bgbg3Qke3gUeSqo3vqkf",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s.abcnews.com/images/International/WireAP_1edde5e2aa4c407bba61054b5c613062_16x9_992.jpg",
+                        "twitter:app:url:iphone": "abcnewsiphone://link/story,",
+                        "twitter:app:id:googleplay": "com.abc.abcnews",
+                        "copyright": "2022 ABC News Internet Ventures. All rights reserved.",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "ABC News",
+                        "twitter:url": "https://abcnews.go.com/International/wireStory/cuba-recognize-regulate-cryptocurrencies-79670715",
+                        "twitter:app:url:ipad": "abcnewsipad://link/story,",
+                        "twitter:image:height": "360",
+                        "al:ipad:app_store_id": "380520716",
+                        "twitter:app:name:googleplay": "ABC News",
+                        "twitter:app:id:iphone": "300255638",
+                        "og:description": "Cuba\u2019s government says it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island",
+                        "twitter:creator": "ABC News",
+                        "twitter:image": "https://s.abcnews.com/images/International/WireAP_1edde5e2aa4c407bba61054b5c613062_16x9_992.jpg",
+                        "lastpublisheddate": "2021-08-27T11:35:46Z",
+                        "al:iphone:app_name": "ABC News - Breaking US & World News",
+                        "twitter:site": "@ABC",
+                        "twitter:image:width": "640",
+                        "fb:admins": "704409894",
+                        "article:content_tier": "free",
+                        "fb_title": "Cuba to recognize -- and regulate -- cryptocurrencies",
+                        "og:type": "article",
+                        "twitter:title": "Cuba to recognize -- and regulate -- cryptocurrencies",
+                        "author": "ABC News",
+                        "og:title": "Cuba to recognize -- and regulate -- cryptocurrencies",
+                        "twitter:app:id:ipad": "306934135",
+                        "fb:pages": "86680728811",
+                        "al:iphone:url": "abcnewsiphone://link/story,",
+                        "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/International/wireStory/cuba-recognize-regulate-cryptocurrencies-79670715",
+                        "fb:app_id": "4942312939",
+                        "twitter:app:url:googleplay": "https://abcnews.go.com/International/wireStory/cuba-recognize-regulate-cryptocurrencies-79670715",
+                        "al:ipad:url": "abcnewsipad://link/story,",
+                        "twitter:app:name:ipad": "ABC News",
+                        "twitter:description": "Cuba\u2019s government says it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island",
+                        "al:iphone:app_store_id": "300255638",
+                        "al:ipad:app_name": "ABC News for ipad",
+                        "og:url": "https://abcnews.go.com/International/wireStory/cuba-recognize-regulate-cryptocurrencies-79670715",
+                        "twitter:app:name:iphone": "ABC News",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.abcnews.com/images/International/WireAP_1edde5e2aa4c407bba61054b5c613062_16x9_992.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba becomes the latest country to authorise and regulate ...",
+            "htmlTitle": "<b>Cuba</b> becomes the latest country to authorise and <b>regulate</b> ...",
+            "link": "https://www.euronews.com/next/2021/08/27/cuba-becomes-the-latest-country-to-authorise-and-regulate-cryptocurrencies-like-bitcoin",
+            "displayLink": "www.euronews.com",
+            "snippet": "Aug 27, 2021 ... Cuba becomes the latest country to authorise and regulate cryptocurrencies like Bitcoin.",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> <b>Cuba</b> becomes the latest country to authorise and <b>regulate cryptocurrencies</b> like Bitcoin.",
+            "cacheId": "jRw5SXLnPs0J",
+            "formattedUrl": "https://www.euronews.com/.../cuba-becomes-the-latest-country-to-authorise- and-regulate-cryptocurrencies-like-bitcoin",
+            "htmlFormattedUrl": "https://www.euronews.com/.../<b>cuba</b>-becomes-the-latest-country-to-authorise- and-<b>regulate</b>-<b>cryptocurrencies</b>-like-bitcoin",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/06/01/19/68/1000x563_cmsv2_83607d86-aaab-5dc0-98aa-29e14293c352-6011968.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2021-08-27 13:46:20",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "The decision to regulate cryptocurrencies in Cuba comes as El Salvador makes history when its Bitcoin law comes into effect on September 7.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"embargo\",\"bitcoin\",\"economic-crisis\",\"cuba\",\"cryptocurrency\",\"blockchain\"],\"nws_id\":\"1644824\",\"nwsctr_id\":\"6011968\",\"themes\":\"money,business\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Cuba becomes the latest country to authorise and regulate cryptocurrencies like Bitcoin",
+                        "article:modified_time": "2021-08-27 13:49:51",
+                        "article:theme": "money",
+                        "og:image:alt": "Cuba becomes the latest country to authorise and regulate cryptocurrencies like Bitcoin",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2021-08-27 13:49:51",
+                        "fb:pages": "101402598109",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2021-08-27 13:49:51",
+                        "date.created": "2021-08-27 13:46:20",
+                        "eventid": "1644824",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://static.euronews.com/favicons/mstile-144x144.png",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Embargo,Bitcoin,Economic crisis,Cuba,cryptocurrency,blockchain",
+                        "storyid": "6011968",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "Cuba to authorise and regulate the use of cryptos for payments",
+                        "article:vertical": "next",
+                        "og:title": "Cuba to authorise and regulate the use of cryptos for payments",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "The decision to regulate cryptocurrencies in Cuba comes as El Salvador makes history when its Bitcoin law comes into effect on September 7.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2021-08-27 13:46:20",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2021/08/27/cuba-becomes-the-latest-country-to-authorise-and-regulate-cryptocurrencies-like-bitcoin",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/06/01/19/68/1000x563_cmsv2_83607d86-aaab-5dc0-98aa-29e14293c352-6011968.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba says it will recognize, regulate cryptocurrencies | TheHill",
+            "htmlTitle": "<b>Cuba</b> says it will recognize, <b>regulate cryptocurrencies</b> | TheHill",
+            "link": "https://thehill.com/policy/finance/569682-cuba-says-it-will-recognize-regulate-cryptocurrencies",
+            "displayLink": "thehill.com",
+            "snippet": "Aug 27, 2021 ... The Cuban government said Thursday that it will begin to allow citizens to use cryptocurrencies, while imposing regulations for the\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> The <b>Cuban</b> government said Thursday that it will begin to allow citizens to use <b>cryptocurrencies</b>, while imposing <b>regulations</b> for the&nbsp;...",
+            "cacheId": "cj4sMyXdX2MJ",
+            "formattedUrl": "https://thehill.com/.../569682-cuba-says-it-will-recognize-regulate- cryptocurrencies",
+            "htmlFormattedUrl": "https://thehill.com/.../569682-<b>cuba</b>-says-it-will-recognize-<b>regulate</b>- <b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjE9le3PaXlb6ZpMAtk-Moq6hYFPSK_I-VxuNLqbTpDjNegO9n7IPtkJjM",
+                        "width": "292",
+                        "height": "173"
+                    }
+                ],
+                "Item": [
+                    {
+                        "has_creator": "Lexi Lonas"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://thehill.com/sites/default/files/article_images/bitcoin_053021getty_cryptocurrency.jpg",
+                        "apple-itunes-app": "app-id=360124019",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-08-27T09:56:28-04:00",
+                        "og:site_name": "TheHill",
+                        "twitter:url": "https://thehill.com/policy/finance/569682-cuba-says-it-will-recognize-regulate-cryptocurrencies",
+                        "dcterms.title": "Cuba says it will recognize, regulate cryptocurrencies",
+                        "og:description": "The Cuban government said Thursday that it will begin to allow citizens to use cryptocurrencies, while imposing regulations for the currencies.",
+                        "article:modified_time": "2021-08-27T11:40:42-04:00",
+                        "fb:admins": "581787871",
+                        "og:type": "article",
+                        "twitter:title": "Cuba says it will recognize, regulate cryptocurrencies",
+                        "author": "Lexi Lonas",
+                        "dcterms.type": "Text",
+                        "og:title": "Cuba says it will recognize, regulate cryptocurrencies",
+                        "dcterms.creator": "Lexi Lonas",
+                        "dcterms.description": "The Cuban government said Thursday that it will begin to allow citizens to use cryptocurrencies, while imposing regulations for the currencies.",
+                        "dcterms.date": "2021-08-27T09:56-04:00",
+                        "og:updated_time": "2021-08-27T11:40:42-04:00",
+                        "fb:pages": "7533944086, 2064147433830888",
+                        "fb:app_id": "566538590082898",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1, user-scalable=0",
+                        "twitter:description": "The Cuban government said Thursday that it will begin to allow citizens to use cryptocurrencies, while imposing regulations for the currencies.",
+                        "apple-mobile-web-app-capable": "yes",
+                        "dcterms.format": "text/html",
+                        "og:url": "https://thehill.com/policy/finance/569682-cuba-says-it-will-recognize-regulate-cryptocurrencies",
+                        "dcterms.identifier": "https://thehill.com/policy/finance/569682-cuba-says-it-will-recognize-regulate-cryptocurrencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thehill.com/sites/default/files/article_images/bitcoin_053021getty_cryptocurrency.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba to Recognize -- and Regulate -- Cryptocurrencies ...",
+            "htmlTitle": "<b>Cuba</b> to Recognize -- and <b>Regulate</b> -- <b>Cryptocurrencies</b> ...",
+            "link": "https://www.usnews.com/news/technology/articles/2021-08-26/cuba-to-recognize-and-regulate-cryptocurrencies",
+            "displayLink": "www.usnews.com",
+            "snippet": "Aug 26, 2021 ... HAVANA (AP) \u2014 Cuba's government said Thursday it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island.",
+            "htmlSnippet": "Aug 26, 2021 <b>...</b> HAVANA (AP) \u2014 <b>Cuba&#39;s</b> government said Thursday it will recognize \u2014 and <b>regulate</b> \u2014 <b>cryptocurrencies</b> for payments on the island.",
+            "cacheId": "fglsbxeEDDEJ",
+            "formattedUrl": "https://www.usnews.com/.../cuba-to-recognize-and-regulate-cryptocurrencies",
+            "htmlFormattedUrl": "https://www.usnews.com/.../<b>cuba</b>-to-recognize-and-<b>regulate</b>-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTznFtTPEJBN_hw4ISCto-TlrXVVfpLOPHbwcuRej2CWDhjKmgdbEuJwNY",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "preview": "HAVANA (AP) \u2014 Cuba's government said Thursday it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island. A resolution published in the Official Gazette said the Central Bank will set rules for such currencies and determine how to license providers of related services within ...",
+                        "og:image": "https://www.usnews.com/dims4/USNEWS/06b2710/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fe2%2F146842d0a54d63fc13d925ec559afe%2Fmedia%3A1edde5e2aa4c407bba61054b5c613062Cuba_Cryptocurrency_13951.jpg",
+                        "sailthru.date": "2021-08-26T21:07Z",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba to Recognize -- and Regulate -- Cryptocurrencies",
+                        "og:site_name": "US News & World Report",
+                        "msvalidate.01": "A8E47FA91124063A4A9C78AD5273DC0F",
+                        "og:title": "Cuba to Recognize -- and Regulate -- Cryptocurrencies",
+                        "vertical": "News",
+                        "optimizely": "Optimizely is supported by this application but is not enabled for this page.",
+                        "fb:pages": "5834919267",
+                        "og:description": "Cuba\u2019s government says it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island.",
+                        "og:image:secure_url": "https://www.usnews.com/dims4/USNEWS/06b2710/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fe2%2F146842d0a54d63fc13d925ec559afe%2Fmedia%3A1edde5e2aa4c407bba61054b5c613062Cuba_Cryptocurrency_13951.jpg",
+                        "twitter:image": "https://www.usnews.com/dims4/USNEWS/06b2710/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fe2%2F146842d0a54d63fc13d925ec559afe%2Fmedia%3A1edde5e2aa4c407bba61054b5c613062Cuba_Cryptocurrency_13951.jpg",
+                        "site": "news",
+                        "fb:app_id": "130063997038366",
+                        "twitter:site": "@USNews",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "zone": "technology/articles",
+                        "twitter:description": "Cuba\u2019s government says it will recognize \u2014 and regulate \u2014 cryptocurrencies for payments on the island.",
+                        "og:url": "//www.usnews.com/news/technology/articles/2021-08-26/cuba-to-recognize-and-regulate-cryptocurrencies",
+                        "sailthru.author": "Associated Press"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.usnews.com/dims4/USNEWS/06b2710/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fe2%2F146842d0a54d63fc13d925ec559afe%2Fmedia%3A1edde5e2aa4c407bba61054b5c613062Cuba_Cryptocurrency_13951.jpg"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Technology News",
+                        "name": "Technology News",
+                        "position": "3"
+                    },
+                    {
+                        "item": "News",
+                        "name": "News",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba authorizes and seeks to regulate cryptocurrency use | Reuters",
+            "htmlTitle": "<b>Cuba</b> authorizes and seeks to <b>regulate cryptocurrency</b> use | Reuters",
+            "link": "https://www.reuters.com/article/fintech-crypto-cuba/cuba-authorizes-and-seeks-to-regulate-cryptocurrency-use-idUSL8N2PY5HD",
+            "displayLink": "www.reuters.com",
+            "snippet": "Aug 27, 2021 ... Cuba said this week it would authorize and regulate the use of cryptocurrency, a move that could help the Communist-run country skirt U.S.\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> <b>Cuba</b> said this week it would authorize and <b>regulate</b> the use of <b>cryptocurrency</b>, a move that could help the Communist-run country skirt U.S.&nbsp;...",
+            "cacheId": "JtFHBfooUb8J",
+            "formattedUrl": "https://www.reuters.com/...cuba/cuba-authorizes-and-seeks-to-regulate- cryptocurrency-use-idUSL8N2PY5HD",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>cuba</b>/<b>cuba</b>-authorizes-and-seeks-to-<b>regulate</b>- <b>cryptocurrency</b>-use-idUSL8N2PY5HD",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2021-08-27T22:56:51Z",
+                        "analyticsattributes.topicchannel": "Markets",
+                        "analyticsattributes.backendchannellist": "usDollarRpt;governmentFilingsNews;marketsNews;rbssFinancialServicesAndRealEstateNews;rbssTechMediaTelecomNews;technology-media-telco-SP;americasRegulatoryNews;financialsSector;healthcareSector;technologySector;consolidated-business;everythingNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Cuba said this week it would authorize and regulate the use of cryptocurrency, a move that could help the Communist-run country skirt U.S. sanctions that have complicated transactions through the international banking system.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2021-08-27T22:56:51Z",
+                        "og:article:section": "US Dollar Report",
+                        "analyticsattributes.articledate": "2021-08-27T22:56:51Z",
+                        "dcsext.dartzone": "reuters.com/markets/currencies/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "FINTECH,CRYPTO/CUBA (PIX),Americas,Corporate Events,Banking & Investment Services (TRBC level 2),Caribbean,Cryptocurrencies,Cuba,Financials (Legacy),Financials (TRBC level 1),Currencies / Foreign Exchange Markets,General News,South America / Central America,Economic News,Government / Politics,Picture Available,Corporate / Market Regulation,Technology (TRBC level 1),Technology / Media / Telecoms",
+                        "og:article:published_time": "2021-08-27T22:57:18Z",
+                        "og:article:tag": "FINTECH,CRYPTO/CUBA (PIX),Americas,Corporate Events,Banking & Investment Services (TRBC level 2),Caribbean,Cryptocurrencies,Cuba,Financials (Legacy),Financials (TRBC level 1),Currencies / Foreign Exchange Markets,General News,South America / Central America,Economic News,Government / Politics,Picture Available,Corporate / Market Regulation,Technology (TRBC level 1),Technology / Media / Telecoms",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.topicsubchannel": "Currencies",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "usDollarRpt",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Cuba authorizes and seeks to regulate cryptocurrency use",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AMERS,BACT,BISV,CARIBN,CRYCUR,CU,FIN,FINS,FRX,GEN,LATAM,MCE,POL,PXP,REGS,TECH,TMT",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "FINTECH;CRYPTO/CUBA (PIX);Americas;Corporate Events;Banking & Investment Services (TRBC level 2);Caribbean;Cryptocurrencies;Cuba;Financials (Legacy);Financials (TRBC level 1);Currencies / Foreign Exchange Markets;General News;South America / Central America;Economic News;Government / Politics;Picture Available;Corporate / Market Regulation;Technology (TRBC level 1);Technology / Media / Telecoms",
+                        "sailthru.title": "Cuba authorizes and seeks to regulate cryptocurrency use",
+                        "analyticsattributes.contenttitle": "Cuba authorizes and seeks to regulate cryptocurrency use",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/fintech-crypto-cuba-idUSL8N2PY5HD",
+                        "analyticsattributes.channel": "Finance",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2021-08-27T22:56:51Z",
+                        "og:type": "article",
+                        "twitter:title": "Cuba authorizes and seeks to regulate cryptocurrency use",
+                        "og:title": "Cuba authorizes and seeks to regulate cryptocurrency use",
+                        "analyticsattributes.keywordslug": "FINTECH-CRYPTO/CUBA (PIX)",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "Markets - Currencies",
+                        "sailthru.description": "Cuba said this week it would authorize and regulate the use of cryptocurrency, a move that could help the Communist-run country skirt U.S. sanctions that have complicated transactions through the international banking system.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Cuba said this week it would authorize and regulate the use of cryptocurrency, a move that could help the Communist-run country skirt U.S. sanctions that have complicated transactions through the international banking system.",
+                        "analyticsattributes.topicn2names": "Americas,Corporate Events,Banking & Investment Services (TRBC level 2),Caribbean,Cryptocurrencies,Cuba,Financials (Legacy),Financials (TRBC level 1),Currencies / Foreign Exchange Markets,General News,South America / Central America,Economic News,Government / Politics,Picture Available,Corporate / Market Regulation,Technology (TRBC level 1),Technology / Media / Telecoms",
+                        "og:url": "https://www.reuters.com/article/fintech-crypto-cuba-idUSL8N2PY5HD"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        }
+    ]
+}

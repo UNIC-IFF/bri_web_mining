@@ -1,0 +1,580 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ICELAND",
+                "totalResults": "929000",
+                "searchTerms": "ICELAND",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ICELAND",
+                "totalResults": "929000",
+                "searchTerms": "ICELAND",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.450832,
+        "formattedSearchTime": "0.45",
+        "totalResults": "929000",
+        "formattedTotalResults": "929,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Iceland | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Iceland</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/iceland",
+            "displayLink": "iclg.com",
+            "snippet": "Cryptocurrency and cryptoassets are not heavily regulated in Iceland. However, the Money Laundering Act conforms to the European Union's 4th Anti-Money\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrency</b> and cryptoassets are not heavily <b>regulated</b> in <b>Iceland</b>. However, the Money Laundering Act conforms to the European Union&#39;s 4<sup>th</sup> Anti-Money&nbsp;...",
+            "cacheId": "TBFLUC6F_nsJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/iceland",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>iceland</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyB99w9_xeqQO0tcnXWX1c9Rpc7603wRJdeLKscN7BaJWDHGma_krTeYI",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/AZ09jRtJk9kctc0scJFxmVe4T3eJQfgbRmoU7fYN.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Iceland of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/AZ09jRtJk9kctc0scJFxmVe4T3eJQfgbRmoU7fYN.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "o7Q1pGyJyC452k4D4KuNJLd64Qac5bHiEXNcwmNj",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Iceland |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Iceland |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Iceland |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Iceland of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/iceland",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/AZ09jRtJk9kctc0scJFxmVe4T3eJQfgbRmoU7fYN.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Iceland Fights Back, Opening the First Official Cryptocurrency ...",
+            "htmlTitle": "<b>Iceland</b> Fights Back, Opening the First Official <b>Cryptocurrency</b> ...",
+            "link": "https://www.aprenergy.com/iceland-fights-back-opening-first-official-cryptocurrency-exchange/",
+            "displayLink": "www.aprenergy.com",
+            "snippet": "Oct 12, 2018 ... ... and financial-stability, Iceland regulates cryptocurrency exchanges. ... that Iceland is the first country to create a regulatory body.",
+            "htmlSnippet": "Oct 12, 2018 <b>...</b> ... and financial-stability, <b>Iceland</b> regulates <b>cryptocurrency</b> exchanges. ... that <b>Iceland</b> is the first country to create a <b>regulatory</b> body.",
+            "cacheId": "aS1LYXu1bYIJ",
+            "formattedUrl": "https://www.aprenergy.com/iceland-fights-back-opening-first-official- cryptocurrency-exchange/",
+            "htmlFormattedUrl": "https://www.aprenergy.com/<b>iceland</b>-fights-back-opening-first-official- <b>cryptocurrency</b>-exchange/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRspLcm-wcIwdnKrIelZtqb-Puu1I6YJt1hqfAHSSeuZxzIAZl4XzBSjE0",
+                        "width": "265",
+                        "height": "190"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.aprenergy.com/wp-content/uploads/2018/10/article2.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "article:section": "Alternative Fuels",
+                        "article:published_time": "2018-10-12T19:28:40+00:00",
+                        "og:image:width": "374",
+                        "twitter:card": "summary",
+                        "twitter:title": "Iceland Fights Back, Opening the First Official Cryptocurrency Exchange | APR",
+                        "og:site_name": "APR",
+                        "og:title": "Iceland Fights Back, Opening the First Official Cryptocurrency Exchange | APR",
+                        "og:image:height": "268",
+                        "og:updated_time": "2018-10-12T19:30:52+00:00",
+                        "og:description": "In the midst of concerns over extreme Bitcoin electricity usage, crypto-money laundering/crime and financial-stability, Iceland regulates cryptocurrency exchanges.",
+                        "twitter:creator": "@APREnergy",
+                        "article:publisher": "https://www.facebook.com/APREnergy",
+                        "twitter:image": "https://www.aprenergy.com/wp-content/uploads/2018/10/article2.jpg",
+                        "dc.date.issued": "2018-10-12T19:28:40+00:00",
+                        "twitter:site": "@APREnergy",
+                        "article:modified_time": "2018-10-12T19:30:52+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "In the midst of concerns over extreme Bitcoin electricity usage, crypto-money laundering/crime and financial-stability, Iceland regulates cryptocurrency exchanges.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.aprenergy.com/iceland-fights-back-opening-first-official-cryptocurrency-exchange/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aprenergy.com/wp-content/uploads/2018/10/article2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Avoiding Liability: Changing the Regulatory Structure of ...",
+            "htmlTitle": "Avoiding Liability: Changing the <b>Regulatory</b> Structure of ...",
+            "link": "https://ilr.law.uiowa.edu/print/volume-104-issue-2/avoiding-liability-changing-the-regulatory-structure-of-cryptocurrencies-to-better-ensure-legal-use/",
+            "displayLink": "ilr.law.uiowa.edu",
+            "snippet": "While the country has not officially declared cryptocurrencies illegal, the country has stated \u201cthat Icelandic currency cannot leave the country and that\u00a0...",
+            "htmlSnippet": "While the country has not officially declared <b>cryptocurrencies</b> illegal, the country has stated \u201cthat <b>Icelandic</b> currency cannot leave the country and that&nbsp;...",
+            "cacheId": "ETX3WyuATL0J",
+            "formattedUrl": "https://ilr.law.uiowa.edu/.../avoiding-liability-changing-the-regulatory- structure-of-cryptocurrencies-to-better-ensure-legal-use/",
+            "htmlFormattedUrl": "https://ilr.law.uiowa.edu/.../avoiding-liability-changing-the-<b>regulatory</b>- structure-of-<b>cryptocurrencies</b>-to-better-ensure-legal-use/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkCB03Av2j7R4-7OSrxIE8_5GjB-Zub8xm8fSPB_gUQNG_ZvknbosLvmE",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ilr.law.uiowa.edu//_resources/themes/iowa-law-review/dist/images/og-image2.png",
+                        "og:type": "website",
+                        "og:image:width": "1200",
+                        "og:site_name": "Iowa Law Review",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Avoiding Liability: Changing the Regulatory Structure of Cryptocurrencies to Better Ensure Legal Use",
+                        "og:image:height": "630",
+                        "og:url": "https://ilr.law.uiowa.edu/print/volume-104-issue-2/avoiding-liability-changing-the-regulatory-structure-of-cryptocurrencies-to-better-ensure-legal-use/",
+                        "og:description": "By Allison M. Lovell"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ilr.law.uiowa.edu//_resources/themes/iowa-law-review/dist/images/og-image2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Iceland and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Iceland</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/iceland/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Iceland Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. The current state of cryptocurrency regulation\u00a0...",
+            "htmlSnippet": "<b>Iceland Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. The current state of <b>cryptocurrency regulation</b>&nbsp;...",
+            "cacheId": "VCIaonhXAAwJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/iceland/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>iceland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwEpRqIDIxEEZLOrPACc44-1ze47tT08WDiK1h4OJK-soKQ9LS3rbCotmd",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492605-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T21:30:58+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/iceland/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Iceland? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492605-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492605-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:33+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/international-tax-treaties/iceland-2/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Iceland?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Iceland and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Iceland and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:33+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Iceland and Cryptocurrency Iceland Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology The current state of cryptocurrency regulation in Iceland is unclear due to the residual effect of legislation adopted in the wake of Iceland\u2019s 2008 financial...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/iceland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492605-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "From Iceland \u2014 Central Bank Warns Against Use Of Cryptocurrencies",
+            "htmlTitle": "From <b>Iceland</b> \u2014 Central Bank Warns Against Use Of <b>Cryptocurrencies</b>",
+            "link": "https://grapevine.is/news/2021/02/11/central-bank-warns-against-use-of-cryptocurrencies/",
+            "displayLink": "grapevine.is",
+            "snippet": "Feb 11, 2021 ... The Icelandic Central Bank has warned against the use of cryptocurrencies, R\u00daV reports, due to the lack of regulatory protection.",
+            "htmlSnippet": "Feb 11, 2021 <b>...</b> The <b>Icelandic</b> Central Bank has warned against the use of <b>cryptocurrencies</b>, R\u00daV reports, due to the lack of <b>regulatory</b> protection.",
+            "cacheId": "VSZLGATXIIoJ",
+            "formattedUrl": "https://grapevine.is/.../central-bank-warns-against-use-of-cryptocurrencies/",
+            "htmlFormattedUrl": "https://grapevine.is/.../central-bank-warns-against-use-of-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url_text": "John Pearson",
+                        "fn": "John Pearson",
+                        "url": "https://grapevine.is/author/john-pearson/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_oNsLGalwlJx-ZxWtxYhnMz4D0RQC_4wSNgPCuLy7jB5fdmtHYeswNc",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "1efca426c37f463a86ce298770d2c12d",
+                        "og:image": "https://i0.wp.com/grapevine.is/wp-content/uploads/2021/02/thought-catalog-i0tdrp0fj6y-unsplash-1-scaled-e1613056271479.jpg?fit=1200%2C899&quality=99&ssl=1",
+                        "og:type": "article",
+                        "article:published_time": "2021-02-11T15:22:32+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Reykjavik Grapevine",
+                        "author": "grapevine.is",
+                        "og:title": "From Iceland \u2014 Central Bank Warns Against Use Of Cryptocurrencies",
+                        "og:image:height": "899",
+                        "og:description": "The Icelandic Central Bank has warned against the use of cryptocurrencies, R\u00daV reports, due to the lack of regulatory protection....",
+                        "twitter:creator": "@johnpearson@grapevine.is",
+                        "fb:pages": "8969907778",
+                        "article:publisher": "https://www.facebook.com/ReykjavikGrapevine",
+                        "referrer": "origin-when-cross-origin",
+                        "fb:app_id": "744574268888971",
+                        "twitter:site": "@rvkgrapevine",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://grapevine.is/news/2021/02/11/central-bank-warns-against-use-of-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i0.wp.com/grapevine.is/wp-content/uploads/2021/02/thought-catalog-i0tdrp0fj6y-unsplash-1-scaled-e1613056271479.jpg?fit=1200%2C899&quality=99&ssl=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Exploring cryptocurrency and blockchain in Iceland | Penn Today",
+            "htmlTitle": "Exploring <b>cryptocurrency</b> and blockchain in <b>Iceland</b> | Penn Today",
+            "link": "https://penntoday.upenn.edu/news/exploring-cryptocurrency-and-blockchain-iceland",
+            "displayLink": "penntoday.upenn.edu",
+            "snippet": "Sep 30, 2019 ... On its face, Iceland seems an ideal setting for the fast-growing cryptocurrency industry. The country uses 100% renewable energy that's\u00a0...",
+            "htmlSnippet": "Sep 30, 2019 <b>...</b> On its face, <b>Iceland</b> seems an ideal setting for the fast-growing <b>cryptocurrency</b> industry. The country uses 100% renewable energy that&#39;s&nbsp;...",
+            "cacheId": "2qIl5ITHBy4J",
+            "formattedUrl": "https://penntoday.upenn.edu/.../exploring-cryptocurrency-and-blockchain- iceland",
+            "htmlFormattedUrl": "https://penntoday.upenn.edu/.../exploring-<b>cryptocurrency</b>-and-blockchain- <b>iceland</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQRFH5zVJOCwzhUdMSAHc-gjEq-baqoBQ9ZxtuKmy29tW41mINVXDwISc",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://penntoday.upenn.edu/sites/default/files/2019-09/adsc06170.jpg",
+                        "og:image:width": "1300",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Exploring cryptocurrency and blockchain in Iceland | Penn Today",
+                        "og:site_name": "Penn Today",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://penntoday.upenn.edu/news/exploring-cryptocurrency-and-blockchain-iceland",
+                        "og:title": "Exploring cryptocurrency and blockchain in Iceland | Penn Today",
+                        "og:image:height": "865",
+                        "fb:pages": "98508878775",
+                        "og:description": "A virtual reality film, photo series, and soundscape from Penn and Rutgers document the effect this fast-growing tech industry is having on the country\u2019s natural resources and people.",
+                        "og:image:secure_url": "https://penntoday.upenn.edu/sites/default/files/2019-09/adsc06170.jpg",
+                        "twitter:image": "https://penntoday.upenn.edu/sites/default/files/2019-09/adsc06170.jpg",
+                        "twitter:site": "@penn_today",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A virtual reality film, photo series, and soundscape from Penn and Rutgers document the effect this fast-growing tech industry is having on the country\u2019s natural resources and people.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://penntoday.upenn.edu/news/exploring-cryptocurrency-and-blockchain-iceland"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://penntoday.upenn.edu/sites/default/files/2019-09/adsc06170.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What You Need to Know About Cryptocurrency in Iceland",
+            "htmlTitle": "What You Need to Know About <b>Cryptocurrency</b> in <b>Iceland</b>",
+            "link": "https://swappagency.com/2021/06/14/what-you-need-to-know-about-cryptocurrency-in-iceland/",
+            "displayLink": "swappagency.com",
+            "snippet": "Jun 14, 2021 ... Cryptocurrencies may not be recognised as legal tender in Iceland, but it's not illegal to trade in them. The government has officially\u00a0...",
+            "htmlSnippet": "Jun 14, 2021 <b>...</b> <b>Cryptocurrencies</b> may not be recognised as legal tender in <b>Iceland</b>, but it&#39;s not illegal to trade in them. The government has officially&nbsp;...",
+            "cacheId": "90gGsTiNO8UJ",
+            "formattedUrl": "https://swappagency.com/.../what-you-need-to-know-about-cryptocurrency- in-iceland/",
+            "htmlFormattedUrl": "https://swappagency.com/.../what-you-need-to-know-about-<b>cryptocurrency</b>- in-<b>iceland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTknf3H3odDD8cfNAf-IVZeNS7btieBByBWV7nJ2QANT-Rx7l2LL_H8YQg",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://swappagency.com/wp-content/uploads/Image-1-Unsplash-2.webp",
+                        "og:type": "article",
+                        "og:image:width": "900",
+                        "article:published_time": "2021-06-14T13:13:07",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "What You Need to Know About Cryptocurrency | Swapp Agency",
+                        "og:title": "What You Need to Know About Cryptocurrency | Swapp Agency",
+                        "og:image:height": "601",
+                        "msapplication-tileimage": "https://swappagency.com/wp-content/uploads/time-300x300.png",
+                        "og:description": "Learn everything you need to know about cryptocurrencies in Iceland. Crypto Mining, local regulations, Bitcoin, Litecoin, Ethereum & more. Learn more!",
+                        "article:author": "Chris SEO",
+                        "twitter:image": "https://swappagency.com/wp-content/uploads/Image-1-Unsplash-2.webp",
+                        "framework": "Redux 4.3.3",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Learn everything you need to know about cryptocurrencies in Iceland. Crypto Mining, local regulations, Bitcoin, Litecoin, Ethereum & more. Learn more!",
+                        "og:url": "https://swappagency.com/2021/06/14/what-you-need-to-know-about-cryptocurrency-in-iceland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://swappagency.com/wp-content/uploads/Image-1-Unsplash-2.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Latest News on Iceland | Cointelegraph",
+            "htmlTitle": "Latest News on <b>Iceland</b> | Cointelegraph",
+            "link": "https://cointelegraph.com/tags/iceland",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Iceland has strict currency exchange regulations. This fact led to the establishment of Auroracoin \u2014 Iceland's cryptocurrency that was delivered only to\u00a0...",
+            "htmlSnippet": "<b>Iceland</b> has strict currency exchange <b>regulations</b>. This fact led to the establishment of Auroracoin \u2014 <b>Iceland&#39;s cryptocurrency</b> that was delivered only to&nbsp;...",
+            "cacheId": "4YG0T7YWkFAJ",
+            "formattedUrl": "https://cointelegraph.com/tags/iceland",
+            "htmlFormattedUrl": "https://cointelegraph.com/tags/<b>iceland</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6X8zS0Ybfbr_iNp8C_Wfv31pupaXX8KVRDABlq0rYspVjcTeLiilgrmg",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "Article": [
+                    {
+                        "datePublished": "2015-05-04",
+                        "description": "Read the latest news on Iceland to learn more about the country, cryptocurrency regulations and recent events with our Iceland news section.",
+                        "dateModified": "2018-08-00",
+                        "mainEntityOfPage": "https://cointelegraph.com/tags/iceland",
+                        "headline": "Latest News on Iceland | Cointelegraph"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png",
+                        "theme-color": "#ffffff",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Latest News on Iceland | Cointelegraph",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Latest News on Iceland | Cointelegraph",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Read the latest news on Iceland to learn more about the country, cryptocurrency regulations and recent events with our Iceland news section.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Read the latest news on Iceland to learn more about the country, cryptocurrency regulations and recent events with our Iceland news section.",
+                        "og:url": "https://cointelegraph.com/tags/iceland"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Not Supervised By Financial Supervisory Authority",
+            "htmlTitle": "<b>Cryptocurrency</b> Not Supervised By Financial Supervisory Authority",
+            "link": "https://www.icelandreview.com/business/cryptocurrency-not-supervised-by-financial-supervisory-authority/",
+            "displayLink": "www.icelandreview.com",
+            "snippet": "Feb 12, 2021 ... When asked about cryptocurrency supervision, The Central Bank of Iceland's Financial Supervisory Authority replied that as cryptocurrencies aren\u00a0...",
+            "htmlSnippet": "Feb 12, 2021 <b>...</b> When asked about <b>cryptocurrency</b> supervision, The Central Bank of <b>Iceland&#39;s</b> Financial Supervisory Authority replied that as <b>cryptocurrencies</b> aren&nbsp;...",
+            "cacheId": "B4AC7HNWooUJ",
+            "formattedUrl": "https://www.icelandreview.com/.../cryptocurrency-not-supervised-by- financial-supervisory-authority/",
+            "htmlFormattedUrl": "https://www.<b>iceland</b>review.com/.../<b>cryptocurrency</b>-not-supervised-by- financial-supervisory-authority/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qK5jfzRzCsasqhIiUtsRrafqqZKkSAo5hix4Y4KzTWS4s174oyiM5lw",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.icelandreview.com/wp-content/uploads/2019/01/sedlab001-e1548157975480.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-02-12T11:30:43+00:00",
+                        "og:image:width": "860",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Iceland Review",
+                        "og:title": "Cryptocurrency Not Supervised By Financial Supervisory Authority",
+                        "og:image:height": "566",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.icelandreview.com/wp-content/uploads/2018/06/ir-270x270.png",
+                        "og:description": "The Central Bank of Iceland\u2019s Financial Supervisory Authority has no supervision over cryptocurrency mined in Iceland, Fr\u00e9ttabla\u00f0i\u00f0 reports. A considerable portion of the world\u2019s supply of bitcoin, or up to 8%, is mined in data centres in Iceland. The Financial Supervisory Authority has no information on and does not supervise cryptocurrency mined in Icelandic data [\u2026]",
+                        "twitter:creator": "@iceland_review",
+                        "article:publisher": "https://www.facebook.com/icelandreview/",
+                        "twitter:data1": "Gr\u00e9ta Sigr\u00ed\u00f0ur Einarsd\u00f3ttir",
+                        "twitter:data2": "1 minute",
+                        "facebook-domain-verification": "ewkiyojw4jaak6qbm084k9388ardzp",
+                        "twitter:site": "@iceland_review",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.icelandreview.com/business/cryptocurrency-not-supervised-by-financial-supervisory-authority/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.icelandreview.com/wp-content/uploads/2019/01/sedlab001-e1548157975480.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

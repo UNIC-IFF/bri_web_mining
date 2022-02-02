@@ -1,0 +1,547 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ESWATINI",
+                "totalResults": "102000",
+                "searchTerms": "ESWATINI",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ESWATINI",
+                "totalResults": "102000",
+                "searchTerms": "ESWATINI",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.281235,
+        "formattedSearchTime": "0.28",
+        "totalResults": "102000",
+        "formattedTotalResults": "102,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Swaziland and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "Swaziland and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/swaziland/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "To implement safe cryptocurrency regulations, the fintech division within the banking industry regulator was assigned to monitor other countries to learn how to\u00a0...",
+            "htmlSnippet": "To implement safe <b>cryptocurrency regulations</b>, the fintech division within the banking industry regulator was assigned to monitor other countries to learn how to&nbsp;...",
+            "cacheId": "nuDQpJNToC8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/swaziland/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/swaziland/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZhyNxRAlV2Wi5uJXTXgZb5buQi8luVoXpm8iOGUW68JZ9rPLoMJise0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396524-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T23:13:23+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/swaziland/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Swaziland ? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396524-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396524-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:43+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Stack of Bitcoin Swaziland flag. Bitcoin cryptocurrencies concept. BTC background.",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Swaziland and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Swaziland and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:43+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Swaziland and Cryptocurrency Swaziland Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Eswatini, formerly known as Swaziland, has a cryptocurrency legal framework that is somewhat undeveloped. Eswatini is a small country and is Africa\u2019s last...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/swaziland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_212396524-862x575.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "Eswatini (formerly known as Swaziland) . ... the regulation of cryptocurrency in Ghana in the future. After a preliminary review of the.",
+            "htmlSnippet": "<b>Eswatini</b> (formerly known as Swaziland) . ... the <b>regulation of cryptocurrency</b> in Ghana in the future. After a preliminary review of the.",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Zambia warns against cryptocurrency, bitcoin use \u2014 Quartz Africa",
+            "htmlTitle": "Zambia warns against <b>cryptocurrency</b>, bitcoin use \u2014 Quartz Africa",
+            "link": "https://qz.com/africa/1428250/zambia-warns-against-cryptocurrency-bitcoin-use/",
+            "displayLink": "qz.com",
+            "snippet": "Oct 18, 2018 ... In a recent report by Ecobank on the state of cryptocurrency regulation in sub-Saharan Africa, only South Africa and eSwatini (formerly\u00a0...",
+            "htmlSnippet": "Oct 18, 2018 <b>...</b> In a recent report by Ecobank on the state of <b>cryptocurrency regulation</b> in sub-Saharan Africa, only South Africa and <b>eSwatini</b> (formerly&nbsp;...",
+            "cacheId": "x8aBhbTd31YJ",
+            "formattedUrl": "https://qz.com/africa/.../zambia-warns-against-cryptocurrency-bitcoin-use/",
+            "htmlFormattedUrl": "https://qz.com/africa/.../zambia-warns-against-<b>cryptocurrency</b>-bitcoin-use/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCywV9c8j1KEsUFxN-8mYuDDZ85EGEaABD1jWOZSYHtU8NgW_SojG0iL5",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cms.qz.com/wp-content/uploads/2018/10/RTS22A3Q-e1539871731658.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+                        "msapplication-square70x70logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=70&h=70&crop=1",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#f9f9f9",
+                        "og:site_name": "Quartz",
+                        "twitter:url": "https://qz.com/africa/1428250/zambia-warns-against-cryptocurrency-bitcoin-use/",
+                        "msapplication-tooltip": "Stories of innovation across the continent\u2019s wide-ranging economies",
+                        "apple-mobile-web-app-title": "Quartz Africa",
+                        "msapplication-wide310x150logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=310&h=150&crop=1",
+                        "msapplication-tileimage": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=144&h=144&crop=1",
+                        "og:description": "Zambia, like many other African governments, has adopted an inconclusive stance on cryptocurrency regulation.",
+                        "twitter:creator": "@TheYomiKazeem",
+                        "twitter:image": "https://cms.qz.com/wp-content/uploads/2018/10/RTS22A3Q-e1539871731658.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+                        "article:publisher": "https://www.facebook.com/quartznews",
+                        "twitter:site": "@qz",
+                        "cxenseparse:author": "Yomi Kazeem",
+                        "msapplication-square310x310logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=310&h=310&crop=1",
+                        "news_keywords": "bitcoin,cryptocurrency,zambia",
+                        "cxenseparse:recs:publishtime": "2018-10-18T14:10:20.000Z",
+                        "application-name": "Quartz Africa",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "msapplication-window": "width=1024;height=768",
+                        "cxenseparse:pageclass": "article",
+                        "author": "Yomi Kazeem",
+                        "og:title": "Zambia is the latest African country to kick against cryptocurrencies",
+                        "msapplication-square150x150logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=150&h=150&crop=1",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "og:url": "https://qz.com/africa/1428250/zambia-warns-against-cryptocurrency-bitcoin-use/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cms.qz.com/wp-content/uploads/2018/10/RTS22A3Q-e1539871731658.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin and eSwatini Income Tax Order 1975 (King's Order in ...",
+            "htmlTitle": "Bitcoin and <b>eSwatini</b> Income Tax Order 1975 (King&#39;s Order in ...",
+            "link": "https://researchspace.ukzn.ac.za/handle/10413/19741",
+            "displayLink": "researchspace.ukzn.ac.za",
+            "snippet": "Furthermore, brief lessons from the United Kingdom and the United States of America's position on the tax treatment and regulation of the Cryptocurrency\u00a0...",
+            "htmlSnippet": "Furthermore, brief lessons from the United Kingdom and the United States of America&#39;s position on the tax treatment and <b>regulation</b> of the <b>Cryptocurrency</b>&nbsp;...",
+            "cacheId": "yysIs0qGBewJ",
+            "formattedUrl": "https://researchspace.ukzn.ac.za/handle/10413/19741",
+            "htmlFormattedUrl": "https://researchspace.ukzn.ac.za/handle/10413/19741",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEetxtOJjkj3KMtYst-urHTh7jD9S118bHZ6RjbO2-12PUgzpqnWUnfU",
+                        "width": "237",
+                        "height": "97"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "Thesis",
+                        "dc.description": "Master\u2019s Degree. University of KwaZulu-Natal, Durban.",
+                        "citation_title": "Bitcoin and eSwatini Income Tax Order 1975 (King's Order in Council No. 21 of 1975)",
+                        "citation_author": "Maphalala, Phesheya Sipho.",
+                        "citation_date": "2019",
+                        "citation_abstract_html_url": "https://researchspace.ukzn.ac.za/handle/10413/19741",
+                        "dcterms.created": "2019",
+                        "dcterms.issued": "2019",
+                        "dc.contributor": "Schembri, Christopher Carmelo.",
+                        "dcterms.dateaccepted": "2021-08-16T11:18:38Z",
+                        "citation_dissertation_name": "Bitcoin and eSwatini Income Tax Order 1975 (King's Order in Council No. 21 of 1975)",
+                        "dc.type": "Thesis",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.creator": "Maphalala, Phesheya Sipho.",
+                        "citation_language": "en",
+                        "dc.title": "Bitcoin and eSwatini Income Tax Order 1975 (King's Order in Council No. 21 of 1975)",
+                        "dc.identifier": "https://researchspace.ukzn.ac.za/handle/10413/19741",
+                        "dc.subject": "Bitcoin.",
+                        "citation_pdf_url": "https://researchspace.ukzn.ac.za/bitstream/10413/19741/1/Maphalala_Phesheya_Sipho_2019.pdf",
+                        "dc.language": "en",
+                        "dcterms.abstract": "Bitcoin usage and growth has gradually had an impact on the virtual world and financial markets of mostly South Africa, which has resulted in the Cryptocurrency being gradually adopted by emaSwati. The central bank of eSwatini has therefore noted that there have been reported cases of Bitcoin usage in the kingdom of eSwatini. However, with this growth the eSwatini Revenue Services has not made any statement or pronounciation on the possible tax treatment of the Cryptocurrency whilst on the other hand the central bank of eSwatini has begun the process of conducting research on how to regulate Cryptocurrencies in eSwatini. This situation in eSwatini has therefore presented us with a gap in literature and therefore an opportunity to conduct this study ensued on how Bitcoin can be treated for Income Tax purposes by the eSwatini Income Tax Order. This study has been conducted by focusing mainly on the direct tax consequences of the Cryptocurrency in eSwatini and South Africa, which may arise, and an examination of",
+                        "dcterms.available": "2021-08-16T11:18:38Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://researchspace.ukzn.ac.za/themes/UKZN//images/UKZN_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What To Consider When Investing In Cryptocurrencies \u2013 Central Bank",
+            "htmlTitle": "What To Consider When Investing In <b>Cryptocurrencies</b> \u2013 Central Bank",
+            "link": "https://www.centralbank.org.sz/what-to-consider-when-investing-in-cryptocurrencies/",
+            "displayLink": "www.centralbank.org.sz",
+            "snippet": "Dec 22, 2021 ... At present, cryptocurrencies are not regulated by either the Central Bank of Eswatini nor the Financial Services Regulatory Authority.",
+            "htmlSnippet": "Dec 22, 2021 <b>...</b> At present, <b>cryptocurrencies</b> are not <b>regulated</b> by either the Central Bank of <b>Eswatini</b> nor the Financial Services <b>Regulatory</b> Authority.",
+            "cacheId": "zSCjC8N7JWwJ",
+            "formattedUrl": "https://www.centralbank.org.sz/what-to-consider-when-investing-in- cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.centralbank.org.sz/what-to-consider-when-investing-in- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh5cRWJFMBGkEzUcmodO_aJ-qM9DutZE7IT0BMlZy8FpahWwj5uERWgFl3",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.centralbank.org.sz/wp-content/uploads/2022/01/3E5A3943g-min.jpg",
+                        "og:type": "article",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:title": "What To Consider When Investing In Cryptocurrencies",
+                        "og:url": "https://centralbank.org.sz/what-to-consider-when-investing-in-cryptocurrencies/",
+                        "msapplication-tileimage": "https://www.centralbank.org.sz/wp-content/uploads/2021/04/cropped-Artboard-1-201-min-1-270x270.png",
+                        "og:description": "Overview Cryptocurrencies have attracted enormous attention over the past months and generated much excitement including from investors with limited knowledge of financial products. Cryptocurrencies are digital [\u2026]",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.centralbank.org.sz/wp-content/uploads/2022/01/3E5A3943g-min.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Politics of Cryptocurrency Regulation in Nigeria | The Republic",
+            "htmlTitle": "The Politics of <b>Cryptocurrency Regulation</b> in Nigeria | The Republic",
+            "link": "https://republic.com.ng/april-may-2021/politics-of-crypto-reg-nigeria/",
+            "displayLink": "republic.com.ng",
+            "snippet": "May 24, 2021 ... In analysing the regulation of cryptocurrencies in Nigeria, must consider what regulation will look like and for whom. Read more.",
+            "htmlSnippet": "May 24, 2021 <b>...</b> In analysing the <b>regulation of cryptocurrencies</b> in Nigeria, must consider what <b>regulation</b> will look like and for whom. Read more.",
+            "cacheId": "-bXoBUNXRLUJ",
+            "formattedUrl": "https://republic.com.ng/april-may-2021/politics-of-crypto-reg-nigeria/",
+            "htmlFormattedUrl": "https://republic.com.ng/april-may-2021/politics-of-crypto-reg-nigeria/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Osivue Itseumah"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY7sXRxGIwN24mQ6PGpsq1BgC3-ABCBNX8pHtKBjtPtcO-1HcM7-zssPzt",
+                        "width": "269",
+                        "height": "187"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://republic.com.ng/wp-content/uploads/2017/01/THE-REPUBLIC-WEB-LOGO.png"
+                    },
+                    {
+                        "width": "2560",
+                        "url": "https://republic.com.ng/wp-content/uploads/2021/05/Itseumah-photo-2-1-scaled.jpg",
+                        "height": "1707"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Osivue Itseumah"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Republic",
+                        "url": "https://republic.com.ng/wp-content/uploads/2017/01/THE-REPUBLIC-WEB-LOGO.png"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i2.wp.com/republic.com.ng/wp-content/uploads/2021/05/IMG_9666.jpg?fit=960%2C668&ssl=1",
+                        "article:published_time": "2021-05-24T10:33:08+00:00",
+                        "og:image:width": "960",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Republic",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Estimated reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://republic.com.ng/wp-content/uploads/2017/01/cropped-Screen-Shot-2017-01-21-at-16.19.57-300x300.png",
+                        "og:description": "Banks vs Bitcoin",
+                        "twitter:creator": "@republicjournal",
+                        "article:publisher": "https://www.facebook.com/republicjournal/",
+                        "twitter:image": "https://republic.com.ng/wp-content/uploads/2021/05/IMG_9666.jpg",
+                        "twitter:data1": "Osivue Itseumah",
+                        "twitter:data2": "11 minutes",
+                        "pocket-site-verification": "6ebfeed2cb5b08266822fea027c7ee",
+                        "twitter:site": "@republicjournal",
+                        "article:modified_time": "2021-05-25T08:49:59+00:00",
+                        "og:type": "article",
+                        "twitter:title": "The Politics of Cryptocurrency Regulation in Nigeria",
+                        "og:title": "The Politics of Cryptocurrency Regulation in Nigeria",
+                        "og:image:height": "668",
+                        "facebook-domain-verification": "0voyd909nu8o98gywj87wjxm0krn6b",
+                        "framework": "Redux 4.3.7",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Banks vs Bitcoin",
+                        "og:locale": "en_GB",
+                        "og:url": "https://republic.com.ng/april-may-2021/politics-of-crypto-reg-nigeria/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i2.wp.com/republic.com.ng/wp-content/uploads/2021/05/IMG_9666.jpg?fit=960%2C668&ssl=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UNIVERSITY OF KWAZULU-NATAL SCHOOL OF LAW HOWARD ...",
+            "htmlTitle": "UNIVERSITY OF KWAZULU-NATAL SCHOOL OF LAW HOWARD ...",
+            "link": "https://ukzn-dspace.ukzn.ac.za/bitstream/handle/10413/19741/Maphalala_Phesheya_Sipho_2019.pdf?sequence=1&isAllowed=y",
+            "displayLink": "ukzn-dspace.ukzn.ac.za",
+            "snippet": "on the direct tax consequences of the Cryptocurrency in eSwatini and South ... because they have more advanced regulations in relation to Cryptocurrency and\u00a0...",
+            "htmlSnippet": "on the direct tax consequences of the <b>Cryptocurrency</b> in <b>eSwatini</b> and South ... because they have more advanced <b>regulations</b> in relation to <b>Cryptocurrency</b> and&nbsp;...",
+            "cacheId": "f45_18JJXrgJ",
+            "formattedUrl": "https://ukzn-dspace.ukzn.ac.za/.../Maphalala_Phesheya_Sipho_2019.pdf?...",
+            "htmlFormattedUrl": "https://ukzn-dspace.ukzn.ac.za/.../Maphalala_Phesheya_Sipho_2019.pdf?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ67vBqOyvhHQTwVl6TEFbLxMIittP6AZjcJwEYqjoCZMuB3b0JrD0rBA",
+                        "width": "397",
+                        "height": "127"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210814075636+02'00'",
+                        "creationdate": "D:20210524181913+02'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "author": "Student",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f802f4a68d5aab4d640ad954d02b1b17f5a862d6ef5866cb0e323b3d310bbf11"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Making sense of bitcoin, cryptocurrency and blockchain",
+            "htmlTitle": "Making sense of bitcoin, <b>cryptocurrency</b> and blockchain",
+            "link": "https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html",
+            "displayLink": "www.pwc.com",
+            "snippet": "A cryptocurrency is a medium of exchange, such as the US dollar, but is digital and uses encryption techniques to control the creation of monetary units and\u00a0...",
+            "htmlSnippet": "A <b>cryptocurrency</b> is a medium of exchange, such as the US dollar, but is digital and uses encryption techniques to <b>control</b> the creation of monetary units and&nbsp;...",
+            "cacheId": "2nO0Ff9vTxAJ",
+            "formattedUrl": "https://www.pwc.com/us/en/.../bitcoin-blockchain-cryptocurrency.html",
+            "htmlFormattedUrl": "https://www.pwc.com/us/en/.../bitcoin-blockchain-<b>cryptocurrency</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSm0Mbe95gaB-xFknC-QDNkIi5pMWY6v09hlwkDBeexHCWFbjha3r8oYg",
+                        "width": "150",
+                        "height": "100"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.pwc.com/us/en/deals/publications/assets/how-blockchain-can-upend-ma-and-other-deals.jpg",
+                        "og:type": "article",
+                        "og:site_name": "PwC",
+                        "pwctag": "Publication||, Publication||, Financial services institute||, Financial services||, FSI library||, tracking||, omg||",
+                        "pwcselectednav": "3",
+                        "author": "PricewaterhouseCoopers",
+                        "pwccountry": "us",
+                        "pwchidelevel": "0,2",
+                        "og:title": "Making sense of bitcoin, cryptocurrency and blockchain",
+                        "og:description": "Understand how Blockchain works, what cryptocurrency is and the potential blockchain applications beyond Bitcoin and cryptocurrency to improve business processes.",
+                        "pwclocale": "en_us",
+                        "pwctitle": "Making sense of bitcoin, cryptocurrency and blockchain",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "pwcreleasedate": "2016-02-22T19:23:00.000-03:00",
+                        "pwclang": "en",
+                        "og:url": "https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html",
+                        "pwcgeo.default": "US",
+                        "pwclastmodifieddate": "2022-01-17T18:54:45.158Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.pwc.com/us/en/the-new-equation/content/images/tne-thumb.jpg.pwcimage.150.100.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "cbe to allow cryptocurrency if\u2026",
+            "htmlTitle": "cbe to allow <b>cryptocurrency</b> if\u2026",
+            "link": "http://www.times.co.sz/business/122004-cbe-to-allow-cryptocurrency-if%E2%80%A6.html",
+            "displayLink": "www.times.co.sz",
+            "snippet": "Jan 24, 2019 ... This question arises from Central Bank of Eswatini's (CBE) disclosure ... a regulation framework or allow cryptocurrency in the near future,\u00a0...",
+            "htmlSnippet": "Jan 24, 2019 <b>...</b> This question arises from Central Bank of <b>Eswatini&#39;s</b> (CBE) disclosure ... a <b>regulation</b> framework or allow <b>cryptocurrency</b> in the near future,&nbsp;...",
+            "cacheId": "suY7G8z_a_IJ",
+            "formattedUrl": "www.times.co.sz/business/122004-cbe-to-allow-cryptocurrency-if\u2026.html",
+            "htmlFormattedUrl": "www.times.co.sz/business/122004-cbe-to-allow-<b>cryptocurrency</b>-if\u2026.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt38p02M3-cVP2M7941h4YrWQ6vZPd6hjAGtz_OgdD7WJ2RVzK-7Fi4N4",
+                        "width": "166",
+                        "height": "78"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "generation-time": "0s"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.times.co.sz/themes/tpl_4003/img/t4_header.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

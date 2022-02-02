@@ -1,0 +1,615 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SOUTH AFRICA",
+                "totalResults": "11000000",
+                "searchTerms": "SOUTH AFRICA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SOUTH AFRICA",
+                "totalResults": "11000000",
+                "searchTerms": "SOUTH AFRICA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.383371,
+        "formattedSearchTime": "0.38",
+        "totalResults": "11000000",
+        "formattedTotalResults": "11,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "South Africa approach to bitcoin regulation is unique in Africa ...",
+            "htmlTitle": "<b>South Africa</b> approach to bitcoin <b>regulation</b> is unique in Africa ...",
+            "link": "https://qz.com/africa/2021680/south-africa-approach-to-bitcoin-regulation-is-unique-in-africa/",
+            "displayLink": "qz.com",
+            "snippet": "Jun 17, 2021 ... South Africa is officially embracing cryptocurrency trade and investment laws, with its financial and capital markets regulators predicting\u00a0...",
+            "htmlSnippet": "Jun 17, 2021 <b>...</b> <b>South Africa</b> is officially embracing <b>cryptocurrency</b> trade and investment <b>laws</b>, with its financial and capital markets regulators predicting&nbsp;...",
+            "cacheId": "lusA87r3NVMJ",
+            "formattedUrl": "https://qz.com/africa/.../south-africa-approach-to-bitcoin-regulation-is-unique -in-africa/",
+            "htmlFormattedUrl": "https://qz.com/<b>africa</b>/.../<b>south</b>-<b>africa</b>-approach-to-bitcoin-<b>regulation</b>-is-unique -in-<b>africa</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQShHo_L66_BPEfB0K8CcxZFr1Tal5VdTKzwKmAqOmf6IX8ZJHN1Wz1lg4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cms.qz.com/wp-content/uploads/2021/06/2021-05-19T155114Z_2006599035_RC23JN96GAUV_RTRMADP_3_INVESTEC-PRPTY-RESULTS-e1623868108439.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+                        "msapplication-square70x70logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=70&h=70&crop=1",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#f9f9f9",
+                        "og:site_name": "Quartz",
+                        "twitter:url": "https://qz.com/africa/2021680/south-africa-approach-to-bitcoin-regulation-is-unique-in-africa/",
+                        "msapplication-tooltip": "Stories of innovation across the continent\u2019s wide-ranging economies",
+                        "apple-mobile-web-app-title": "Quartz Africa",
+                        "msapplication-wide310x150logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=310&h=150&crop=1",
+                        "msapplication-tileimage": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=144&h=144&crop=1",
+                        "og:description": "South Africa is officially embracing cryptocurrency trade and investment laws, with its financial and capital markets regulators predicting an increase of crypto activity in the country.",
+                        "twitter:image": "https://cms.qz.com/wp-content/uploads/2021/06/2021-05-19T155114Z_2006599035_RC23JN96GAUV_RTRMADP_3_INVESTEC-PRPTY-RESULTS-e1623868108439.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+                        "article:publisher": "https://www.facebook.com/quartznews",
+                        "twitter:site": "@qz",
+                        "cxenseparse:author": "Tawanda Karombo",
+                        "msapplication-square310x310logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=310&h=310&crop=1",
+                        "news_keywords": "Africa,edited by Oliver Staley,South Africa,Kenya,bitcoin,banks,cryptocurrency,nigeria,cryptocurrencies,future of finance,mpesa,digital currencies,localbitcoins,pesalink,African banks",
+                        "cxenseparse:recs:publishtime": "2021-06-17T07:00:33.000Z",
+                        "application-name": "Quartz Africa",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "msapplication-window": "width=1024;height=768",
+                        "cxenseparse:pageclass": "article",
+                        "author": "Tawanda Karombo",
+                        "og:title": "In crypto, South Africa is forging a different path than the rest of Africa",
+                        "msapplication-square150x150logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=150&h=150&crop=1",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "og:url": "https://qz.com/africa/2021680/south-africa-approach-to-bitcoin-regulation-is-unique-in-africa/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cms.qz.com/wp-content/uploads/2021/06/2021-05-19T155114Z_2006599035_RC23JN96GAUV_RTRMADP_3_INVESTEC-PRPTY-RESULTS-e1623868108439.jpg?quality=75&strip=all&w=1600&h=900&crop=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "After Crypto Scams, Regulatory Clock Ticking in South Africa ...",
+            "htmlTitle": "After Crypto Scams, <b>Regulatory</b> Clock Ticking in <b>South Africa</b> ...",
+            "link": "https://www.bloomberg.com/news/articles/2021-06-29/regulatory-clock-ticks-for-cryptocurrency-assets-in-south-africa",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Jun 30, 2021 ... Regulators in South Africa will first move to establish know-your-customer rules for crypto exchanges and create systems for the surveillance of\u00a0...",
+            "htmlSnippet": "Jun 30, 2021 <b>...</b> Regulators in <b>South Africa</b> will first move to establish know-your-customer rules for crypto exchanges and create systems for the surveillance of&nbsp;...",
+            "cacheId": "uNWcgBRRIgoJ",
+            "formattedUrl": "https://www.bloomberg.com/.../regulatory-clock-ticks-for-cryptocurrency- assets-in-south-africa",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>regulatory</b>-clock-ticks-for-<b>cryptocurrency</b>- assets-in-<b>south</b>-<b>africa</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l3vrm37oPB7prwU4Wm1UdVKSOO6Yc3OFub8NbFocn73ziX1IbUF5OdV3",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i46BPBmxlaZs/v2/1200x675.png",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Cryptocurrency,Regulation,South Africa,Bitcoin,Banking,PRUDENTIAL FINANCIAL INC,Capital Requirements,Blockchain,Africa,Money Laundering,technology,business,cryptocurrencies",
+                        "lotame-bbg-topic": "government,bitcoin,regulation,cryptocurrency,personal-finance,emerging-markets,well-spent,brics,emerging-markets-economics,future-innovation",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Roxanne Henderson",
+                        "og:description": "South Africa is moving with more urgency to stiffen oversight of cryptocurrency assets after a proliferation of scams.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i46BPBmxlaZs/v2/1200x675.png",
+                        "parsely-type": "post",
+                        "twitter:site": "@technology",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-06-29/regulatory-clock-ticks-for-cryptocurrency-assets-in-south-africa",
+                        "iso-8601-publish-date": "2021-06-29T21:00:00.003Z",
+                        "sailthru.title": "South Africa Moves to Tighten Crypto Regulation After Scams",
+                        "checksum": "eaf4238281c9c68b5fbbaae2204a333d",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i46BPBmxlaZs/v2/1200x675.png",
+                        "parsely-section": "technology",
+                        "article:content_tier": "metered",
+                        "fb:status": "South Africa is moving with more urgency to stiffen oversight of cryptocurrency assets after a proliferation of scams.",
+                        "sailthru.date": "2021-06-29T21:00:00.003Z",
+                        "og:type": "article",
+                        "twitter:title": "South Africa Moves to Tighten Crypto Regulation After Scams",
+                        "parsely-post-id": "QVF3VCT1UM0W01",
+                        "og:title": "South Africa Moves to Tighten Crypto Regulation After Scams",
+                        "parsely-title": "After Crypto Scams, Regulatory Clock Ticking in South Africa",
+                        "parsely-pub-date": "2021-06-29T21:00:00.003Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-06-29/regulatory-clock-ticks-for-cryptocurrency-assets-in-south-africa?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "finance,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Cryptocurrency,Regulation,South Africa,Bitcoin,Banking,PRUDENTIAL FINANCIAL INC,Capital Requirements,Blockchain,Africa,Money Laundering,Secondary Brand: technology,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "South Africa is moving with more urgency to stiffen oversight of cryptocurrency assets after a proliferation of scams.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "South Africa is moving with more urgency to stiffen oversight of cryptocurrency assets after a proliferation of scams.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-06-29/regulatory-clock-ticks-for-cryptocurrency-assets-in-south-africa",
+                        "validatedat": "2022-01-24T08:26:40.693Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Roxanne Henderson,Prinesha Naidoo",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i46BPBmxlaZs/v2/1200x675.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in <b>Africa</b>",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "reportedly the third largest holder of bitcoin in the world. 7. South Africa. Regulatory environment. \u2022 In December 2014, the South African Reserve Bank (SARB)\u00a0...",
+            "htmlSnippet": "reportedly the third largest holder of bitcoin in the world. 7. <b>South Africa</b>. <b>Regulatory</b> environment. \u2022 In December 2014, the <b>South African</b> Reserve Bank (SARB)&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Africa Plans Regulations for Cryptocurrency, Bitcoin (BTC ...",
+            "htmlTitle": "<b>South Africa</b> Plans <b>Regulations</b> for <b>Cryptocurrency</b>, Bitcoin (BTC ...",
+            "link": "https://www.bloomberg.com/news/articles/2021-12-10/crypto-rules-planned-to-protect-vulnerable-in-south-africa",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Dec 10, 2021 ... South Africa's financial regulator is planning to unveil a regulatory framework covering cryptocurrencies early next year to help protect\u00a0...",
+            "htmlSnippet": "Dec 10, 2021 <b>...</b> <b>South Africa&#39;s</b> financial regulator is planning to unveil a <b>regulatory</b> framework covering <b>cryptocurrencies</b> early next year to help protect&nbsp;...",
+            "cacheId": "WUKU1Y12PQ8J",
+            "formattedUrl": "https://www.bloomberg.com/.../crypto-rules-planned-to-protect-vulnerable-in -south-africa",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../crypto-rules-planned-to-protect-vulnerable-in -<b>south</b>-<b>africa</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQAY-vJeKc72SAJCgmsC4zYGJCEvJpuZPDv881pjkNLF55jhaVYS5JO7g",
+                        "width": "296",
+                        "height": "170"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE31JZSRAqWo/v1/1200x689.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Cryptocurrency,South Africa,Regulation,Ethereum,Litecoin,Currency,Reserve Bank,Retail,Finance,Government,markets,business,cryptocurrencies",
+                        "lotame-bbg-topic": "regulation,cryptocurrency,government,emerging-markets,brics,emerging-markets-economics,future-innovation",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Adelaide Changole",
+                        "og:description": "South Africa\u2019s financial regulator is planning to unveil a regulatory framework covering cryptocurrencies early next year to help protect vulnerable members of the society from highly risky assets.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE31JZSRAqWo/v1/1200x689.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@markets",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-12-10/crypto-rules-planned-to-protect-vulnerable-in-south-africa",
+                        "iso-8601-publish-date": "2021-12-10T13:16:10.439Z",
+                        "sailthru.title": "Crypto Rules Planned to Protect Vulnerable in South Africa",
+                        "checksum": "18f0aa4f952bfa05facb3833fcfc7094",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE31JZSRAqWo/v1/1200x689.jpg",
+                        "parsely-section": "markets",
+                        "article:content_tier": "metered",
+                        "fb:status": "South Africa\u2019s financial regulator is planning to unveil a regulatory framework covering cryptocurrencies early next year to help protect vulnerable members of the society from highly risky assets.",
+                        "sailthru.date": "2021-12-10T13:16:10.439Z",
+                        "og:type": "article",
+                        "twitter:title": "Crypto Rules Planned to Protect Vulnerable in South Africa",
+                        "parsely-post-id": "R3W5JNT0AFB401",
+                        "og:title": "Crypto Rules Planned to Protect Vulnerable in South Africa",
+                        "parsely-title": "South Africa Plans Regulations for Cryptocurrency, Bitcoin (BTC USD)",
+                        "parsely-pub-date": "2021-12-10T13:16:10.439Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-12-10/crypto-rules-planned-to-protect-vulnerable-in-south-africa?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "finance,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Cryptocurrency,South Africa,Regulation,Ethereum,Litecoin,Currency,Reserve Bank,Retail,Finance,Government,Secondary Brand: markets,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "South Africa\u2019s financial regulator is planning to unveil a regulatory framework covering cryptocurrencies early next year to help protect vulnerable members of the society from highly risky assets.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "South Africa\u2019s financial regulator is planning to unveil a regulatory framework covering cryptocurrencies early next year to help protect vulnerable members of the society from highly risky assets.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-12-10/crypto-rules-planned-to-protect-vulnerable-in-south-africa",
+                        "validatedat": "2022-01-24T10:47:51.991Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Adelaide Changole,Loni Prinsloo",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE31JZSRAqWo/v1/1200x689.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Poor regulation pushing South Africa's crypto firms to relocate ...",
+            "htmlTitle": "Poor <b>regulation</b> pushing <b>South Africa&#39;s</b> crypto firms to relocate ...",
+            "link": "https://www.aljazeera.com/economy/2021/3/9/bpoor-regulation-pushing-south-africas-crypto-firms-to-relocate",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Mar 9, 2021 ... The world's biggest cryptocurrency scam of last year was a jolt to South Africa's regulator \u2014 and not everyone will wait to see how it\u00a0...",
+            "htmlSnippet": "Mar 9, 2021 <b>...</b> The world&#39;s biggest <b>cryptocurrency</b> scam of last year was a jolt to <b>South Africa&#39;s</b> regulator \u2014 and not everyone will wait to see how it&nbsp;...",
+            "cacheId": "d3MYvP7s4k4J",
+            "formattedUrl": "https://www.aljazeera.com/.../bpoor-regulation-pushing-south-africas-crypto- firms-to-relocate",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../bpoor-<b>regulation</b>-pushing-<b>south</b>-<b>africas</b>-crypto- firms-to-relocate",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmZmvs5IIkn1rxRZQ2BIc9bKI9IZn4yMzr6sTDy3Ee5IIvK9kzzhlSCEg",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/03/369278873.jpg?resize=1200%2C630",
+                        "pageauthors": "Loni Prinsloo and Roxanne Henderson",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Poor regulation pushing South Africa\u2019s crypto firms to relocate",
+                        "taxonomy-tags": "Economy, News, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/economy/2021/3/9/bpoor-regulation-pushing-south-africas-crypto-firms-to-relocate",
+                        "pagesection": "Economy,News,Business and Economy,Crypto",
+                        "og:title": "Poor regulation pushing South Africa\u2019s crypto firms to relocate",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2021/3/9/bpoor-regulation-pushing-south-africas-crypto-firms-to-relocate",
+                        "source": "Bloomberg",
+                        "og:description": "Financial hubs like Singapore and UK are redrawing rules to lure crypto firms as digital currencies go mainstream.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/03/369278873.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Poor regulation pushing South Africa\u2019s crypto firms to relocate",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "Financial hubs like Singapore and UK are redrawing rules to lure crypto firms as digital currencies go mainstream.",
+                        "og:url": "https://www.aljazeera.com/economy/2021/3/9/bpoor-regulation-pushing-south-africas-crypto-firms-to-relocate",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/03/369278873.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "<b>Africa</b> could be the next frontier for <b>cryptocurrency</b> | <b>Africa</b> Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "Those guidelines could be a slippery slope to regulation. The Sunday Times of South Africa reported in March that 27,500 individuals, including South Africans,\u00a0...",
+            "htmlSnippet": "Those guidelines could be a slippery slope to <b>regulation</b>. The Sunday Times of <b>South Africa</b> reported in March that 27,500 individuals, including <b>South Africans</b>,&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/africarenewal/.../africa-could-be-next-frontier- cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/<b>africa</b>renewal/.../<b>africa</b>-could-be-next-frontier- <b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The regulation of cryptocurrencies in the context of South Africa's ...",
+            "htmlTitle": "The <b>regulation of cryptocurrencies</b> in the context of <b>South Africa&#39;s</b> ...",
+            "link": "https://researchspace.ukzn.ac.za/xmlui/handle/10413/18713",
+            "displayLink": "researchspace.ukzn.ac.za",
+            "snippet": "Cryptocurrencies are not issued nor controlled by a central regulatory authority, hence, they are not considered to be legal tender in South Africa. Currently,\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrencies</b> are not issued nor controlled by a central <b>regulatory</b> authority, hence, they are not considered to be legal tender in <b>South Africa</b>. Currently,&nbsp;...",
+            "cacheId": "45Rpyc-9NboJ",
+            "formattedUrl": "https://researchspace.ukzn.ac.za/xmlui/handle/10413/18713",
+            "htmlFormattedUrl": "https://researchspace.ukzn.ac.za/xmlui/handle/10413/18713",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoFZhn3mkIJZplVHYmolL_vwgGGyXcfPGhHP_kDHsFPcfGVaAOPoaZA",
+                        "width": "237",
+                        "height": "97"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "Thesis",
+                        "dc.description": "Masters Degree. University of KwaZulu-Natal, Durban.",
+                        "citation_title": "The regulation of cryptocurrencies in the context of South Africa\u2019s financial sector.",
+                        "citation_author": "Sadhaseevan, Lucrecia.",
+                        "citation_date": "2019",
+                        "citation_abstract_html_url": "https://researchspace.ukzn.ac.za/handle/10413/18713",
+                        "dcterms.created": "2019",
+                        "dcterms.issued": "2019",
+                        "dc.contributor": "Swales, Lee Jay Edwin.",
+                        "dcterms.dateaccepted": "2020-10-22T13:57:04Z",
+                        "citation_dissertation_name": "The regulation of cryptocurrencies in the context of South Africa\u2019s financial sector.",
+                        "dc.type": "Thesis",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.creator": "Sadhaseevan, Lucrecia.",
+                        "citation_language": "en",
+                        "dc.title": "The regulation of cryptocurrencies in the context of South Africa\u2019s financial sector.",
+                        "dc.identifier": "https://researchspace.ukzn.ac.za/handle/10413/18713",
+                        "dc.subject": "Cryptocurrencies.",
+                        "citation_pdf_url": "https://researchspace.ukzn.ac.za/bitstream/10413/18713/1/Sadhaseevan_Lucrecia_2019.pdf",
+                        "dc.language": "en",
+                        "dcterms.abstract": "This research critically analyses a significant yet, uncertain area of law in South Africa - the regulation of cryptocurrencies. Cryptocurrencies are digital representations of value supported by cryptography and function within a global computerised ledger system called the blockchain. Cryptocurrencies are multifaceted with its use extending beyond an alternative payment method. Cryptocurrencies are not issued nor controlled by a central regulatory authority, hence, they are not considered to be legal tender in South Africa.  \r\nCurrently, as at September 2019, cryptocurrencies are not directly regulated in South Africa. South African financial regulators, particularly the South African Reserve Bank and the South African National Treasury caution users about the risks associated with cryptocurrencies and vigorously indicate that citizens have no recourse to South African authorities. On the other hand, the South African Revenue Service indicates that citizens must declare their cryptocurrency gains and losses",
+                        "dcterms.available": "2020-10-22T13:57:04Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://researchspace.ukzn.ac.za/xmlui/themes/UKZN//images/UKZN_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Africa Proposes Strict Crypto Regulatory Framework - CoinDesk",
+            "htmlTitle": "<b>South Africa</b> Proposes Strict Crypto <b>Regulatory</b> Framework - CoinDesk",
+            "link": "https://www.coindesk.com/policy/2020/04/17/south-africa-proposes-strict-crypto-regulatory-framework/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Apr 16, 2020 ... South Africa's financial regulators recommended that cryptocurrency be used for domestic payment purposes, but that it not be treated as\u00a0...",
+            "htmlSnippet": "Apr 16, 2020 <b>...</b> <b>South Africa&#39;s</b> financial regulators recommended that <b>cryptocurrency</b> be used for domestic payment purposes, but that it not be treated as&nbsp;...",
+            "cacheId": "hquMLqgSiUYJ",
+            "formattedUrl": "https://www.coindesk.com/.../south-africa-proposes-strict-crypto-regulatory- framework/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>south</b>-<b>africa</b>-proposes-strict-crypto-<b>regulatory</b>- framework/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqSKHmpYAf5FUZA5DQxDEtXOvZ9ZPVQjbX-bdM2QgHJ4YQ40Trai_kR36P",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/3mzLb0WFIOHXM-hiWB_275QnIs0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4XPCX3J3YVBLVEXTN4WJSB6KKA.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2020-04-17T06:30:00Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "South Africa\u2019s financial regulators recommended that cryptocurrency be used for domestic payment purposes, but that it not be treated as legal tender or allowed as a settlement tool.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/MoEShScW-pGn7okg0KEEIuTJZkA=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4XPCX3J3YVBLVEXTN4WJSB6KKA.jpg",
+                        "twitter:image:alt": "South Africa, Cape Town",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2020-04-17T06:30:00Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "South Africa, Cape Town",
+                        "og:type": "article",
+                        "article:section": "Policy",
+                        "twitter:title": "South Africa Proposes Strict Crypto Regulatory Framework",
+                        "og:title": "South Africa Proposes Strict Crypto Regulatory Framework",
+                        "og:image:height": "628",
+                        "article:author": "Danny Nelson",
+                        "article:tag": "South Africa, Regulations",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "South Africa\u2019s financial regulators recommended that cryptocurrency be used for domestic payment purposes, but that it not be treated as legal tender or allowed as a settlement tool.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2020/04/17/south-africa-proposes-strict-crypto-regulatory-framework/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/3mzLb0WFIOHXM-hiWB_275QnIs0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4XPCX3J3YVBLVEXTN4WJSB6KKA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Global Cryptocurrency Regulatory Landscape - Technology ...",
+            "htmlTitle": "Global <b>Cryptocurrency Regulatory</b> Landscape - Technology ...",
+            "link": "https://www.mondaq.com/india/fin-tech/1044546/global-cryptocurrency-regulatory-landscape",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Mar 9, 2021 ... Countries that have regulated cryptocurrency: ... South Africa is another country where cryptocurrency has been proposed to be regulated\u00a0...",
+            "htmlSnippet": "Mar 9, 2021 <b>...</b> Countries that have <b>regulated cryptocurrency</b>: ... <b>South Africa</b> is another country where <b>cryptocurrency</b> has been proposed to be <b>regulated</b>&nbsp;...",
+            "cacheId": "txX2FcdrPu4J",
+            "formattedUrl": "https://www.mondaq.com/.../global-cryptocurrency-regulatory-landscape",
+            "htmlFormattedUrl": "https://www.mondaq.com/.../global-<b>cryptocurrency</b>-<b>regulatory</b>-landscape",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Global Cryptocurrency Regulatory Landscape - Technology - Worldwide",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "In this note, we have discussed three categories of countries on the basis of their approach to regulating cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why it would be in everybody's interests to regulate cryptocurrencies",
+            "htmlTitle": "Why it would be in everybody&#39;s interests to <b>regulate cryptocurrencies</b>",
+            "link": "https://theconversation.com/why-it-would-be-in-everybodys-interests-to-regulate-cryptocurrencies-91168",
+            "displayLink": "theconversation.com",
+            "snippet": "Feb 11, 2018 ... South Africa, like many other developing countries, offers zero protection to investors in initial coin offerings. These different responses are\u00a0...",
+            "htmlSnippet": "Feb 11, 2018 <b>...</b> <b>South Africa</b>, like many other developing countries, offers zero protection to investors in initial coin offerings. These different responses are&nbsp;...",
+            "cacheId": "8z2t4IUyrYEJ",
+            "formattedUrl": "https://theconversation.com/why-it-would-be-in-everybodys-interests-to- regulate-cryptocurrencies-91168",
+            "htmlFormattedUrl": "https://theconversation.com/why-it-would-be-in-everybodys-interests-to- <b>regulate</b>-<b>cryptocurrencies</b>-91168",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "role": "Visiting Researcher in International Political Economy, University of the Witwatersrand",
+                        "fn": "Desn\u00e9 Masie"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxFMCb9tn_tihgdr3G4bJUZM6u23NTJn2SonXYpVnGN2v3tdGczY1qA8",
+                        "width": "320",
+                        "height": "157"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Visiting Researcher in International Political Economy, University of the Witwatersrand"
+                    },
+                    {
+                        "image": "https://cdn.theconversation.com/avatars/252408/width170/image-20180206-88795-o429yy.jpg",
+                        "name": "Desn\u00e9 Masie"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.theconversation.com/files/205238/original/file-20180207-74506-nil6pg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+                        "theme-color": "#d8352a",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Conversation",
+                        "current-region": "us",
+                        "og:description": "While sovereign governments need to develop coherent frameworks to regulate cryptocurrency, permanent solutions will be found through international co-operation.",
+                        "twitter:creator": "@desnemasie",
+                        "article:publisher": "https://facebook.com/ConversationAfrica",
+                        "institution": "University of the Witwatersrand",
+                        "twitter:site": "@TC_Africa",
+                        "news_keywords": "Bitcoin, Blockchain, China, Commodities, Cryptocurrency, Cryptomarkets, Initial coin offering, Japan, Nonprofit oversight, P&S, Property, Regulation, South Africa, Technology, United States",
+                        "searchtype": "analysis",
+                        "csrf-token": "eWJ0joK7edLfgWDiRInKEI0eP2r7iX0WoqsqrNmny2xO9V-ko0HSKLzdbpqvYLBx76NdflfdqxsifGO9YSlf2g",
+                        "pubdate": "20180211",
+                        "og:type": "article",
+                        "author": "Desn\u00e9 Masie",
+                        "og:title": "Why it would be in everybody's interests to regulate cryptocurrencies",
+                        "og:updated_time": "2021-06-23T09:40:20Z",
+                        "csrf-param": "authenticity_token",
+                        "msapplication-navbutton-color": "#d8352a",
+                        "fb:pages": "755360694556328",
+                        "fb:app_id": "127105130696839",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "original-source": "https://theconversation.com/why-it-would-be-in-everybodys-interests-to-regulate-cryptocurrencies-91168",
+                        "og:url": "http://theconversation.com/why-it-would-be-in-everybodys-interests-to-regulate-cryptocurrencies-91168",
+                        "commissioning-region": "africa"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.theconversation.com/files/205238/original/file-20180207-74506-nil6pg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+                    }
+                ],
+                "article": [
+                    {
+                        "image": "https://images.theconversation.com/files/205238/original/file-20180207-74506-nil6pg.jpg?ixlib=rb-1.1.0&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+                        "articlebody": "There are growing calls for regulation of the cryptocurrency market, which is rapidly approaching a market capitalisation of $1 trillion. But there\u2019s little agreement about the forms this...",
+                        "name": "Why it would be in everybody\u2019s interests to regulate cryptocurrencies",
+                        "datepublished": "2018-02-11T08:17:05Z"
+                    }
+                ]
+            }
+        }
+    ]
+}

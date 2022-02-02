@@ -1,0 +1,583 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - LAOS",
+                "totalResults": "585000",
+                "searchTerms": "LAOS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - LAOS",
+                "totalResults": "585000",
+                "searchTerms": "LAOS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.320615,
+        "formattedSearchTime": "0.32",
+        "totalResults": "585000",
+        "formattedTotalResults": "585,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Despite Crime Concerns, Laos Authorizes Cryptocurrency Trial ...",
+            "htmlTitle": "Despite Crime Concerns, <b>Laos</b> Authorizes <b>Cryptocurrency</b> Trial ...",
+            "link": "https://thediplomat.com/2021/09/despite-crime-concerns-laos-authorizes-cryptocurrency-trial/",
+            "displayLink": "thediplomat.com",
+            "snippet": "Sep 16, 2021 ... The government of Laos has authorized six companies to trial mining and trading cryptocurrencies, the Laotian Times reported yesterday,\u00a0...",
+            "htmlSnippet": "Sep 16, 2021 <b>...</b> The government of <b>Laos</b> has authorized six companies to trial mining and trading <b>cryptocurrencies</b>, the <b>Laotian</b> Times reported yesterday,&nbsp;...",
+            "cacheId": "DBrJDuOprhQJ",
+            "formattedUrl": "https://thediplomat.com/.../despite-crime-concerns-laos-authorizes- cryptocurrency-trial/",
+            "htmlFormattedUrl": "https://thediplomat.com/.../despite-crime-concerns-<b>laos</b>-authorizes- <b>cryptocurrency</b>-trial/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRros1-0zou1u0O8gQY2TqQoDl8bXgVJNKf-KZfwNtzrblammRnoBvzFGwn",
+                        "width": "278",
+                        "height": "181"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "600",
+                        "url": "https://thediplomat.com/wp-content/themes/td_theme_v3/assets/logo/diplomat_logo_amp.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "representativeofpage": "true",
+                        "description": "Credit: Depositphotos",
+                        "url": "https://thediplomat.com/wp-content/uploads/2021/09/sizes/td-story-s-2/thediplomat_2021-09-16-3.jpg"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Diplomat",
+                        "url": "The Diplomat"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://thediplomat.com/wp-content/uploads/2021/09/sizes/td-story-s-2/thediplomat_2021-09-16-3.jpg",
+                        "twitter:title": "Despite Crime Concerns, Laos Authorizes Cryptocurrency Trial",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://thediplomat.com/2021/09/despite-crime-concerns-laos-authorizes-cryptocurrency-trial/",
+                        "og:title": "Despite Crime Concerns, Laos Authorizes Cryptocurrency Trial",
+                        "og:description": "But little good will come from authorizing the mining and trading of the volatile digital currencies.",
+                        "twitter:image": "https://thediplomat.com/wp-content/uploads/2021/09/sizes/td-story-s-2/thediplomat_2021-09-16-3.jpg",
+                        "url": "https://thediplomat.com/2021/09/despite-crime-concerns-laos-authorizes-cryptocurrency-trial/",
+                        "article:tag": "Economy",
+                        "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width",
+                        "news_keywords": "Economy,Southeast Asia,Laos,China and cryptocurrency,Cryptocurrencies,Cryptocurrencies in Asia,Cryptocurrencies Laos,Laos drug trafficking,Laos economy,Laos organized crime",
+                        "twitter:description": "But little good will come from authorizing the mining and trading of the volatile digital currencies.",
+                        "og:url": "https://thediplomat.com/2021/09/despite-crime-concerns-laos-authorizes-cryptocurrency-trial/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thediplomat.com/wp-content/uploads/2021/09/sizes/td-story-s-2/thediplomat_2021-09-16-3.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "articlebody": "AdvertisementThe government of Laos has authorized six companies to trial mining and trading cryptocurrencies, the Laotian Times reported yesterday, despite its stated concerns that such currencies...",
+                        "datemodified": "2021-09-16T17:03:38Z",
+                        "keywords": "ASEAN Beat",
+                        "articlesection": "ASEAN Beat",
+                        "description": "But little good will come from authorizing the mining and trading of the volatile digital currencies.",
+                        "headline": "Despite Crime Concerns, Laos Authorizes Cryptocurrency Trial",
+                        "datepublished": "September 16, 2021",
+                        "mainentityofpage": "https://thediplomat.com/2021/09/despite-crime-concerns-laos-authorizes-cryptocurrency-trial/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Laos Licenses 2 Cryptocurrency Trading Platforms \u2013 Regulation ...",
+            "htmlTitle": "<b>Laos</b> Licenses 2 <b>Cryptocurrency</b> Trading Platforms \u2013 <b>Regulation</b> ...",
+            "link": "https://news.bitcoin.com/laos-licenses-2-cryptocurrency-trading-platforms/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "4 days ago ... The central bank of Laos has issued licenses to two cryptocurrency trading platforms. Lao Digital Assets Exchange (LDX) and Bitqik are now\u00a0...",
+            "htmlSnippet": "4 days ago <b>...</b> The central bank of <b>Laos</b> has issued licenses to two <b>cryptocurrency</b> trading platforms. <b>Lao</b> Digital Assets Exchange (LDX) and Bitqik are now&nbsp;...",
+            "cacheId": "gErkfomvVJYJ",
+            "formattedUrl": "https://news.bitcoin.com/laos-licenses-2-cryptocurrency-trading-platforms/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>laos</b>-licenses-2-<b>cryptocurrency</b>-trading-platforms/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIV3k_yO-USx5dQSGKle7_tpMfGVPPnv6EeJx0i9sQySYjYmNLqYBI-gk",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/laos.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2022-01-21T11:00:22+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Laos Licenses 2 Cryptocurrency Trading Platforms \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The central bank of Laos has issued licenses to two cryptocurrency trading platforms: Lao Digital Assets Exchange (LDX) and Bitqik.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2022-01-20T22:37:24+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/laos-licenses-2-cryptocurrency-trading-platforms/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Laos Licenses 2 Cryptocurrency Trading Platforms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/laos.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency and blockchain regulation in Lao PDR - Lexology",
+            "htmlTitle": "<b>Cryptocurrency</b> and blockchain <b>regulation</b> in <b>Lao</b> PDR - Lexology",
+            "link": "https://www.lexology.com/library/detail.aspx?g=b5c48c0f-1e10-4967-8009-821bd4dc6923",
+            "displayLink": "www.lexology.com",
+            "snippet": "Nov 15, 2021 ... Following the recent Lao PDR government announcement authorising six Lao companies to undertake cryptocurrency trade and mining operations\u00a0...",
+            "htmlSnippet": "Nov 15, 2021 <b>...</b> Following the recent <b>Lao</b> PDR government announcement authorising six <b>Lao</b> companies to undertake <b>cryptocurrency</b> trade and mining operations&nbsp;...",
+            "cacheId": "293OQLe0JwYJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=b5c48c0f-1e10-4967...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=b5c48c0f-1e10-4967...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency and blockchain regulation in Lao PDR",
+                        "workarea": "Banking",
+                        "jurisdiction": "Laos",
+                        "dc.date": "2021-11-15",
+                        "firmname": "McDonald Patafta & Associates Lawyers",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=b5c48c0f-1e10-4967-8009-821bd4dc6923",
+                        "og:description": "The rise of cryptocurrency has placed the decentralised system of finance in the spotlight with the recent record high in the price of Bitcoin\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Laos pushes into crypto as it authorises mining and trading ...",
+            "htmlTitle": "<b>Laos</b> pushes into crypto as it authorises mining and trading ...",
+            "link": "https://www.ft.com/content/3a820200-0128-42b3-be6c-f5abd6381efa",
+            "displayLink": "www.ft.com",
+            "snippet": "Sep 15, 2021 ... Laos has authorised the mining and trading of cryptocurrencies, in a policy shift by the debt-laden south-east Asian nation that positions\u00a0...",
+            "htmlSnippet": "Sep 15, 2021 <b>...</b> <b>Laos</b> has authorised the mining and trading of <b>cryptocurrencies</b>, in a policy shift by the debt-laden south-east Asian nation that positions&nbsp;...",
+            "formattedUrl": "https://www.ft.com/content/3a820200-0128-42b3-be6c-f5abd6381efa",
+            "htmlFormattedUrl": "https://www.ft.com/content/3a820200-0128-42b3-be6c-f5abd6381efa",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWrPj9_yzfbaUux3B6ONs0zJmvcLzqBuU4VBdOfVSl1lrGaITqBAPGhyY",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53b46ee8-f2e5-4280-a629-176e01ee37bf.jpg?source=next-opengraph&fit=scale-down&width=900",
+                        "apple-itunes-app": "app-id=1200842933, app-argument=https://www.ft.com/content/3a820200-0128-42b3-be6c-f5abd6381efa",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-15T23:00:44.710Z",
+                        "og:title": "Laos pushes into crypto as it authorises mining and trading",
+                        "fb:pages": "8860325749",
+                        "og:description": "Policy shift comes just a month after central bank issued warning against cryptocurrencies",
+                        "article:author": "John Reed",
+                        "twitter:site": "@FinancialTimes",
+                        "article:modified_time": "2021-09-15T23:00:44.710Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.ft.com/content/3a820200-0128-42b3-be6c-f5abd6381efa"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53b46ee8-f2e5-4280-a629-176e01ee37bf.jpg?source=next-opengraph&fit=scale-down&width=900"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Laos issues new regulations to govern cryptocurrency",
+            "htmlTitle": "<b>Laos</b> issues new <b>regulations</b> to govern <b>cryptocurrency</b>",
+            "link": "https://www.nst.com.my/world/region/2021/11/745801/laos-issues-new-regulations-govern-cryptocurrency",
+            "displayLink": "www.nst.com.my",
+            "snippet": "Nov 15, 2021 ... Under the new regulations, cryptocurrency mining operations must use no less than 10 megawatts of electricity, with 115kV or 230 kV of power\u00a0...",
+            "htmlSnippet": "Nov 15, 2021 <b>...</b> Under the new <b>regulations</b>, <b>cryptocurrency</b> mining operations must use no less than 10 megawatts of electricity, with 115kV or 230 kV of power&nbsp;...",
+            "cacheId": "iagUptafsmsJ",
+            "formattedUrl": "https://www.nst.com.my/.../laos-issues-new-regulations-govern- cryptocurrency",
+            "htmlFormattedUrl": "https://www.nst.com.my/.../<b>laos</b>-issues-new-<b>regulations</b>-govern- <b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkkXzy6S9m7zAt-yo_dI3UU9dTuZC626LMVjnKk4lDpCXVnaXpnFP4jDg",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.nst.com.my/images/articles/teen18_NSTfield_image_socialmedia.var_1637032458.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-16T11:14:21+08:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Laos issues new regulations to govern cryptocurrency | New Straits Times",
+                        "og:site_name": "NST Online",
+                        "og:title": "Laos issues new regulations to govern cryptocurrency | New Straits Times",
+                        "section": "region",
+                        "numberofwords": "518",
+                        "og:description": "LAOS has issued new regulations to govern cryptocurrency mining operations and trading platforms in the country.",
+                        "article:author": "New Straits Times",
+                        "twitter:image": "https://assets.nst.com.my/images/articles/teen18_NSTfield_image_socialmedia.var_1637032458.jpg",
+                        "twitter:site": "@NST_Online",
+                        "article:modified_time": "2021-11-16T11:14:21+08:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "csrf-token": "vqh7WMJbdDC32eCHNfXNMeNv4F6brKIqx65vZe4m",
+                        "google-signin-scope": "profile email",
+                        "og:url": "https://www.nst.com.my/world/region/2021/11/745801/laos-issues-new-regulations-govern-cryptocurrency",
+                        "google-signin-client_id": "700069321358-1t3lj52il4lrfcbffo31qbj78b46dind.apps.googleusercontent.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.nst.com.my/images/articles/teen18_NSTfield_image_socialmedia.var_1637032458.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bank of Laos Warns Public Against Use of Cryptocurrencies",
+            "htmlTitle": "Bank of <b>Laos</b> Warns Public Against Use of <b>Cryptocurrencies</b>",
+            "link": "https://laotiantimes.com/2018/08/31/bank-laos-warns-cryptocurrencies/",
+            "displayLink": "laotiantimes.com",
+            "snippet": "Aug 31, 2018 ... A source at the Bank of Laos told the Laotian Times in a telephone interview that while there is no regulation governing the use of\u00a0...",
+            "htmlSnippet": "Aug 31, 2018 <b>...</b> A source at the Bank of <b>Laos</b> told the <b>Laotian</b> Times in a telephone interview that while there is no <b>regulation</b> governing the use of&nbsp;...",
+            "cacheId": "KobwO-u62BMJ",
+            "formattedUrl": "https://laotiantimes.com/2018/08/31/bank-laos-warns-cryptocurrencies/",
+            "htmlFormattedUrl": "https://<b>laotian</b>times.com/2018/08/31/bank-<b>laos</b>-warns-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "imageobject": [
+                    {
+                        "url": "https://laotiantimes.com/wp-content/uploads/2019/09/logo-300x62.png"
+                    },
+                    {
+                        "width": "1200",
+                        "url": "https://laotiantimes-com.laocdn.com/2018/08/Bank-of-Laos-Warns-Against-Cryptocurrency.jpg",
+                        "height": "627"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Jasmina Yap"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Laotian Times"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://laotiantimes-com.laocdn.com/2018/08/Bank-of-Laos-Warns-Against-Cryptocurrency.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2018-08-31T08:02:49+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary",
+                        "og:site_name": "Laotian Times",
+                        "author": "Jasmina Yap",
+                        "og:title": "Bank of Laos Warns Public Against Use of Cryptocurrencies",
+                        "og:image:height": "627",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "ia:markup_url": "https://laotiantimes.com/2018/08/31/bank-laos-warns-cryptocurrencies/?ia_markup=1",
+                        "og:description": "The Bank of Laos has issued a notice warning the public against the use of Cryptocurrencies including Bitcoin, Ethereum, and Litecoin",
+                        "fb:pages": "1115859858459975",
+                        "twitter:data1": "Jasmina Yap",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2018-08-31T08:14:39+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://laotiantimes.com/2018/08/31/bank-laos-warns-cryptocurrencies/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "datepublished": "1535732642"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "article": [
+                    {
+                        "datemodified": "2018-08-31T15:14:39+07:00",
+                        "headline": "Bank of Laos Warns Public Against Use of Cryptocurrencies",
+                        "datepublished": "2018-08-31T15:02:49+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lao central bank issues licenses for cryptocurrency exchange ...",
+            "htmlTitle": "<b>Lao</b> central bank issues licenses for <b>cryptocurrency</b> exchange ...",
+            "link": "http://www.xinhuanet.com/english/asiapacific/20220119/d58d9ca2cd7848e5bb18646f6993a63d/c.html",
+            "displayLink": "www.xinhuanet.com",
+            "snippet": "6 days ago ... LDX and Bitqik are now the only licensed and regulated institutions in Laos that can offer full brokerage and trading services in\u00a0...",
+            "htmlSnippet": "6 days ago <b>...</b> LDX and Bitqik are now the only licensed and <b>regulated</b> institutions in <b>Laos</b> that can offer full brokerage and trading services in&nbsp;...",
+            "cacheId": "de2u3Q6Lv58J",
+            "formattedUrl": "www.xinhuanet.com/english/asiapacific/20220119/.../c.html",
+            "htmlFormattedUrl": "www.xinhuanet.com/english/asiapacific/20220119/.../c.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdAzYCH7-I3YLtREiSXYu1iJpd_POfkLX429FRDDzgbsyB_oGNBvaFK7o",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "renderer": "webkit",
+                        "msapplication-tap-highlight": "no",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no",
+                        "og:title": "Lao central bank issues licenses for cryptocurrency exchange platforms",
+                        "templateid": "44c498dd91eb428489e2a58fbb1cfe7f",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.xinhuanet.com/english/asiapacific/20220119/d58d9ca2cd7848e5bb18646f6993a63d/zxcode_20220119d58d9ca2cd7848e5bb18646f6993a63d.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Government Issues Regulations for Cryptocurrency Miners and ...",
+            "htmlTitle": "Government Issues <b>Regulations</b> for <b>Cryptocurrency</b> Miners and ...",
+            "link": "https://laotiantimes.com/2021/11/15/government-issues-regulations-for-cryptocurrency-miners-and-platforms-in-laos/",
+            "displayLink": "laotiantimes.com",
+            "snippet": "Nov 15, 2021 ... The notice states that companies mining or operating cryptocurrency trade platforms are required to be wholly Lao-owned with stable financial\u00a0...",
+            "htmlSnippet": "Nov 15, 2021 <b>...</b> The notice states that companies mining or operating <b>cryptocurrency</b> trade platforms are required to be wholly <b>Lao</b>-owned with stable financial&nbsp;...",
+            "cacheId": "FYrrAUxDjqkJ",
+            "formattedUrl": "https://laotiantimes.com/.../government-issues-regulations-for-cryptocurrency -miners-and-platforms-in-laos/",
+            "htmlFormattedUrl": "https://<b>laotian</b>times.com/.../government-issues-<b>regulations</b>-for-<b>cryptocurrency</b> -miners-and-platforms-in-<b>laos</b>/",
+            "pagemap": {
+                "imageobject": [
+                    {
+                        "url": "https://laotiantimes.com/wp-content/uploads/2019/09/logo-300x62.png"
+                    },
+                    {
+                        "width": "1200",
+                        "url": "https://laotiantimes-com.laocdn.com/2021/11/Laos-issues-regulations-for-cryptocurrency-mining-and-trading.jpg",
+                        "height": "627"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Phayboune Thanabouasy"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Laotian Times"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://laotiantimes-com.laocdn.com/2021/11/Laos-issues-regulations-for-cryptocurrency-mining-and-trading.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-15T08:00:28+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary",
+                        "og:site_name": "Laotian Times",
+                        "author": "Phayboune Thanabouasy",
+                        "og:title": "Government Issues Regulations for Cryptocurrency Miners and Platforms in Laos - Laotian Times",
+                        "og:image:height": "627",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "ia:markup_url": "https://laotiantimes.com/2021/11/15/government-issues-regulations-for-cryptocurrency-miners-and-platforms-in-laos/?ia_markup=1",
+                        "og:description": "The government of Laos has issued new regulations governing cryptocurrency mining operations and trading platforms.",
+                        "fb:pages": "1115859858459975",
+                        "twitter:data1": "Phayboune Thanabouasy",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2021-11-24T07:10:19+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://laotiantimes.com/2021/11/15/government-issues-regulations-for-cryptocurrency-miners-and-platforms-in-laos/"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "article": [
+                    {
+                        "datemodified": "2021-11-24T14:10:19+07:00",
+                        "headline": "Government Issues Regulations for Cryptocurrency Miners and Platforms in Laos",
+                        "datepublished": "2021-11-15T15:00:28+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Mainland Southeast Asia \u2013 Tilleke ...",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in Mainland Southeast Asia \u2013 Tilleke ...",
+            "link": "https://www.tilleke.com/insights/cryptocurrency-regulations-mainland-southeast-asia/",
+            "displayLink": "www.tilleke.com",
+            "snippet": "382/BOL, dated October 30, 2018, which prohibits financial institutions in Laos from engaging in cryptocurrency-related activities or helping their clients to\u00a0...",
+            "htmlSnippet": "382/BOL, dated October 30, 2018, which prohibits financial institutions in <b>Laos</b> from engaging in <b>cryptocurrency</b>-related activities or helping their clients to&nbsp;...",
+            "cacheId": "jtAIgSnJu6kJ",
+            "formattedUrl": "https://www.tilleke.com/.../cryptocurrency-regulations-mainland-southeast- asia/",
+            "htmlFormattedUrl": "https://www.tilleke.com/.../<b>cryptocurrency</b>-<b>regulations</b>-mainland-southeast- asia/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1gv3_a6RynlcVL1OREux2ONkjynJEiek1eJ-NilYFzpMgdWR0KEciKA",
+                        "width": "300",
+                        "height": "136"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Tilleke & Gibbins",
+                        "article:modified_time": "2021-01-12T03:11:58+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "og:title": "Cryptocurrency Regulations in Mainland Southeast Asia - Tilleke & Gibbins",
+                        "og:locale": "en_US",
+                        "twitter:label1": "Est. reading time",
+                        "og:url": "https://www.tilleke.com/insights/cryptocurrency-regulations-mainland-southeast-asia/",
+                        "msapplication-tileimage": "https://www.tilleke.com/wp-content/uploads/2020/08/cropped-favicon-1-270x270.png",
+                        "og:description": "Introduction",
+                        "twitter:data1": "7 minutes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.tilleke.com/wp-content/uploads/2020/10/White_TG_stylized_transparent_resized-300x136.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Norway considers Bitcoin mining ban while Laos embraces it",
+            "htmlTitle": "Norway considers Bitcoin mining ban while <b>Laos</b> embraces it",
+            "link": "https://forkast.news/norway-banning-bitcoin-mining-while-laos-embraces-it/",
+            "displayLink": "forkast.news",
+            "snippet": "Nov 22, 2021 ... Norway considers banning Bitcoin mining while Laos embraces it ... China by issuing new regulations on cryptocurrency mining and exchanges.",
+            "htmlSnippet": "Nov 22, 2021 <b>...</b> Norway considers banning Bitcoin mining while <b>Laos</b> embraces it ... China by issuing new <b>regulations</b> on <b>cryptocurrency</b> mining and exchanges.",
+            "cacheId": "N5UZ44NPgxsJ",
+            "formattedUrl": "https://forkast.news/norway-banning-bitcoin-mining-while-laos-embraces-it/",
+            "htmlFormattedUrl": "https://forkast.news/norway-banning-bitcoin-mining-while-<b>laos</b>-embraces-it/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqkl8Ysmzv-egu1po6YT_cjqXLRddQD8S_ZRgpEUc-LmUAB6ooKBdOIvU",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://forkast.news/wp-content/uploads/2021/11/mining-2.png",
+                        "og:image:width": "1167",
+                        "article:published_time": "2021-11-22T18:20:00+08:00",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Forkast",
+                        "apple-mobile-web-app-title": "forkast.news",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Time to read",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "https://forkast.news/wp-content/uploads/2021/07/cropped-Forkast-Logo-GradientBG-cicle-270x270.png",
+                        "og:description": "The Scandinavian country is concerned with potential environmental harm, while the debt-laden SE Asia nation seeks to regulate.",
+                        "twitter:creator": "@timmyhmshen",
+                        "article:publisher": "https://www.facebook.com/forkast.news",
+                        "og:image:secure_url": "https://forkast.news/wp-content/uploads/2021/11/mining-2.png",
+                        "twitter:image": "https://forkast.news/wp-content/uploads/2021/11/mining-2.png",
+                        "twitter:data1": "Timmy Shen",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@forkast_news",
+                        "article:modified_time": "2021-11-24T18:35:21+08:00",
+                        "application-name": "forkast.news",
+                        "msapplication-tilecolor": "#8e00ff",
+                        "og:type": "article",
+                        "og:image:alt": "mining",
+                        "twitter:title": "Norway considers Bitcoin mining ban while Laos embraces it",
+                        "og:title": "Norway considers Bitcoin mining ban while Laos embraces it",
+                        "og:image:height": "773",
+                        "og:updated_time": "2021-11-24T18:35:21+08:00",
+                        "article:tag": "Mining",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The Scandinavian country is concerned with potential environmental harm, while the debt-laden SE Asia nation seeks to regulate.",
+                        "og:locale": "en_US",
+                        "og:url": "https://forkast.news/norway-banning-bitcoin-mining-while-laos-embraces-it/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://forkast.news/wp-content/uploads/2021/11/mining-2.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

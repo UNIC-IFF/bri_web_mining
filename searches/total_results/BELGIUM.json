@@ -1,0 +1,498 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BELGIUM",
+                "totalResults": "633000",
+                "searchTerms": "BELGIUM",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BELGIUM",
+                "totalResults": "633000",
+                "searchTerms": "BELGIUM",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.290027,
+        "formattedSearchTime": "0.29",
+        "totalResults": "633000",
+        "formattedTotalResults": "633,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Belgium",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Belgium</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/belgium",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... This regulation prohibits the 'distribution, in Belgium, as a professional activity, to one or several retail customers of a financial product\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> This <b>regulation</b> prohibits the &#39;distribution, in <b>Belgium</b>, as a professional activity, to one or several retail customers of a financial product&nbsp;...",
+            "cacheId": "-aC0eHBhA7AJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../belgium",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>belgium</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "q2TSSWnSwbuuhnBUG1m9LhpBfg0zNeJwUwXaDmkZ"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Belgium and Cryptocurrency - Vitural Currecy Laws | Freeman Law",
+            "htmlTitle": "<b>Belgium</b> and <b>Cryptocurrency</b> - Vitural Currecy <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/belgium/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Belgium Cryptocurrency Laws \u00b7 Cryptocurrencies remain unregulated in Belgium. \u00b7 For tax purposes, the Special Tax Inspectorate (STI) in Belgium generally treats\u00a0...",
+            "htmlSnippet": "<b>Belgium Cryptocurrency Laws</b> &middot; <b>Cryptocurrencies</b> remain unregulated in <b>Belgium</b>. &middot; For tax purposes, the Special Tax Inspectorate (STI) in <b>Belgium</b> generally treats&nbsp;...",
+            "cacheId": "sYKWlqLrs8QJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/belgium/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>belgium</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRU8V2ASK0D3CDT6oJ08ZR7G1DvTRcFdpL2ZHkqHwzL5emdU86FBKEhasM",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491616-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-12-16T06:08:31+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/belgium/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Belgium Cryptocurrency & Blockchains Laws. Freeman Law, Cryptocurrency & Virtual Currency Attorneys. Schedule a Free Consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491616-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491616-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2021-10-24T23:04:47+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/digital-currency-transmission-laws-state-by-state/",
+                        "og:type": "article",
+                        "og:image:alt": "Belgium Cryptocurrency Laws",
+                        "article:section": "Bitcoin",
+                        "twitter:title": "Belgium and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Belgium and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2021-10-24T23:04:47+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Belgium and Cryptocurrency Belgium Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Cryptocurrencies remain unregulated in Belgium. \u00a0The National Bank of Belgium (Banque Nationale de Belgique, BNB) and the Financial Services and Markets...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/belgium/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491616-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UNITED STATES - BELGIUM INCOME TAX CONVENTION ...",
+            "htmlTitle": "UNITED STATES - <b>BELGIUM</b> INCOME TAX CONVENTION ...",
+            "link": "https://www.irs.gov/pub/irs-trty/belgium.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "the internal tax laws of the two countries and to take into account other recent tax ... of Belgium, a variety of income taxes and also prepayments,\u00a0...",
+            "htmlSnippet": "the internal tax <b>laws</b> of the two countries and to take into account other recent tax ... of <b>Belgium</b>, a variety of income taxes and also prepayments,&nbsp;...",
+            "cacheId": "paeNhyeW8mkJ",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/belgium.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>belgium</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMdwhDR7NWViVcLyTCW5AApsy2S--EYpwqFKWSTxVoT9XuDM0LJXH9Clg",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802082516-04'00'",
+                        "creationdate": "D:19990817112556Z",
+                        "creator": "Microsoft Word - BELGIUMWEB",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "BELGIUMWEB.PDF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f19dcc20010f48dd00dd8df2835a7fd49b2c6b989427a1b5bedc5c2db7793bbd"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Belgium | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Belgium</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/belgium",
+            "displayLink": "iclg.com",
+            "snippet": "Cryptocurrencies and more broadly cryptoassets are currently not regulated under Belgian law. No licence is required to issue cryptocurrencies and they are\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrencies</b> and more broadly cryptoassets are currently not <b>regulated</b> under <b>Belgian</b> law. No licence is required to issue <b>cryptocurrencies</b> and they are&nbsp;...",
+            "cacheId": "HzWwl9w7x9gJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/belgium",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>belgium</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi_UA3feYpHC305NRAdLJYxlrz_R15EaGQnMWL-yMptbK5_4OatKaytngm",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/3Kkndx9vpiH95UkkilULX7hT2zuNL8pmRO58iTKk.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Belgium of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/3Kkndx9vpiH95UkkilULX7hT2zuNL8pmRO58iTKk.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "b1ThaCaYJtwYpFpm2MQMD819Zq5j2zEFzH4wUwdd",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Belgium |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Belgium |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Belgium |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Belgium of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/belgium",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/3Kkndx9vpiH95UkkilULX7hT2zuNL8pmRO58iTKk.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Belgium \u2013 Cryptocurrencies: recent tax developments",
+            "htmlTitle": "<b>Belgium</b> \u2013 <b>Cryptocurrencies</b>: recent tax developments",
+            "link": "https://www.twobirds.com/en/news/articles/2021/belgium/belgium-cryptocurrencies-recent-tax-developments",
+            "displayLink": "www.twobirds.com",
+            "snippet": "Corporate and institutional investors \u2013 Any Belgian company that generates an income/gain (or a loss) from trading and/or exchanging cryptocurrencies will be\u00a0...",
+            "htmlSnippet": "Corporate and institutional investors \u2013 Any <b>Belgian</b> company that generates an income/gain (or a loss) from trading and/or exchanging <b>cryptocurrencies</b> will be&nbsp;...",
+            "cacheId": "eikqVrgSmqwJ",
+            "formattedUrl": "https://www.twobirds.com/.../belgium/belgium-cryptocurrencies-recent-tax- developments",
+            "htmlFormattedUrl": "https://www.twobirds.com/.../<b>belgium</b>/<b>belgium</b>-<b>cryptocurrencies</b>-recent-tax- developments",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNIez0Yg_Ol3N5HyhfuD0Te2oZIXBAKUZceqbKFuaqn6L9XxduIqKHZQLZ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "scitemid": "{CABF77C4-66EE-4277-9CC9-E361F48221BD}",
+                        "og:image": "http://www.twobirds.com/~/media/images/bird-and-bird/social-media-sharing-images/b-and-b-social-media.png",
+                        "og:site_name": "Bird & Bird",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width",
+                        "og:title": "Belgium \u2013 Cryptocurrencies: recent tax developments",
+                        "og:url": "http://www.twobirds.com/en/news/articles/2021/belgium/belgium-cryptocurrencies-recent-tax-developments",
+                        "twitter:account_id": "1525696538",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.twobirds.com/~/media/images/bird-and-bird/social-media-sharing-images/b-and-b-social-media.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Belgium has, however, fostered a strong fintech community involved in digital assets and blockchain. Gains on cryptocurrencies are taxable by\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Belgium</b> has, however, fostered a strong fintech community involved in digital assets and blockchain. Gains on <b>cryptocurrencies</b> are taxable by&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Latest News on Belgium | Cointelegraph",
+            "htmlTitle": "Latest News on <b>Belgium</b> | Cointelegraph",
+            "link": "https://cointelegraph.com/tags/belgium",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Belgium has Bitcoin taxes, at 33 percent on any cryptocurrency income. Belgian authorities proposed legislation for cryptocurrency transactions control, but\u00a0...",
+            "htmlSnippet": "<b>Belgium</b> has Bitcoin taxes, at 33 percent on any <b>cryptocurrency</b> income. <b>Belgian</b> authorities proposed legislation for <b>cryptocurrency</b> transactions <b>control</b>, but&nbsp;...",
+            "cacheId": "zWE0pWJ576cJ",
+            "formattedUrl": "https://cointelegraph.com/tags/belgium",
+            "htmlFormattedUrl": "https://cointelegraph.com/tags/<b>belgium</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6X8zS0Ybfbr_iNp8C_Wfv31pupaXX8KVRDABlq0rYspVjcTeLiilgrmg",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png",
+                        "theme-color": "#ffffff",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Latest News on Belgium | Cointelegraph",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Latest News on Belgium | Cointelegraph",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Read the latest news on Belgium to learn more about the country, cryptocurrency regulations and recent news with our Belgium news section.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Read the latest news on Belgium to learn more about the country, cryptocurrency regulations and recent news with our Belgium news section.",
+                        "og:url": "https://cointelegraph.com/tags/belgium"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3.cointelegraph.com/storage/uploads/view/c6c580810575311bb52a64622466fff3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies and blockchain",
+            "htmlTitle": "<b>Cryptocurrencies</b> and blockchain",
+            "link": "https://www.europarl.europa.eu/cmsdata/150761/TAX3%20Study%20on%20cryptocurrencies%20and%20blockchain.pdf",
+            "displayLink": "www.europarl.europa.eu",
+            "snippet": "regulatory perimeter and criminal organisations to use cryptocurrencies to ... See: A. SNYERS and K. PAUWELS, \u201cICOs in Belgium: down the rabbit hole into\u00a0...",
+            "htmlSnippet": "<b>regulatory</b> perimeter and criminal organisations to use <b>cryptocurrencies</b> to ... See: A. SNYERS and K. PAUWELS, \u201cICOs in <b>Belgium</b>: down the rabbit hole into&nbsp;...",
+            "formattedUrl": "https://www.europarl.europa.eu/.../ TAX3%20Study%20on%20cryptocurrencies%20and%20blockchain.pdf",
+            "htmlFormattedUrl": "https://www.europarl.europa.eu/.../ TAX3%20Study%20on%20<b>cryptocurrencies</b>%20and%20blockchain.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkaVdy0p3KIwSZYHo2NnfFlot_ECpYxTNCFzEK1RdBNPCNHqwdyL3CZVaE",
+                        "width": "254",
+                        "height": "199"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180704144225+02'00'",
+                        "creationdate": "D:20180704143415+02'00'",
+                        "creator": "Acrobat PDFMaker 15 for Word",
+                        "sourcemodified": "D:20180704122614",
+                        "author": "Prof. Dr. Robby HOUBEN, Alexander SNYERS (University of Antwerp, Research Group Business & Law, Belgium)",
+                        "subject": "European Parliament, DG IPOL, Policy department A",
+                        "producer": "Adobe PDF Library 15.0",
+                        "company": "European Parliament",
+                        "title": "Cryptocurrencies and blockchain"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///77339d2ce6710276f31718b77c9f444ba3f6afd5f6b92fa464ff09ac0c3dd799"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased ... or regulation on the taxation of cryptoassets in Belgium,\u00a0...",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased ... or <b>regulation</b> on the taxation of cryptoassets in <b>Belgium</b>,&nbsp;...",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Belgium | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Belgium</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/belgium",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Belgium for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Belgium</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "2LQ4BhYlV8MJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/belgium",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>belgium</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Belgium for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Belgium | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Belgium for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Belgium | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/belgium"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

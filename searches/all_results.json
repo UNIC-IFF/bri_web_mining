@@ -1,0 +1,4658 @@
+{
+  "USA": {
+    "total_results": "2,630,000",
+    "positive": {
+      "recognizes": 383000,
+      "allows": 593000,
+      "issues": 560000,
+      "classifies": 110000
+    },
+    "negative": {
+      "does not allow": 560000,
+      "has forbidden": 415000,
+      "restricts": 441000,
+      "bans": 434000
+    },
+    "score_ratio": -0.11027027027027027,
+    "norm": 1.329277566539924,
+    "ss_pow": -0.14657979652656458,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1850000,
+    "positive_total": 1646000,
+    "negative_total": 1850000,
+    "country_hits": 2630000
+  },
+  "AFGHANISTAN": {
+    "total_results": "2,380,000",
+    "positive": {
+      "recognizes": 205000,
+      "allows": 338000,
+      "issues": 290000,
+      "classifies": 71200
+    },
+    "negative": {
+      "does not allow": 326000,
+      "has forbidden": 264000,
+      "restricts": 249000,
+      "bans": 275000
+    },
+    "score_ratio": -0.18833034111310593,
+    "norm": 0.847983193277311,
+    "ss_pow": -0.1597009640480968,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1114000,
+    "positive_total": 904200,
+    "negative_total": 1114000,
+    "country_hits": 2380000
+  },
+  "ALBANIA": {
+    "total_results": "679,000",
+    "positive": {
+      "recognizes": 56400,
+      "allows": 112000,
+      "issues": 99800,
+      "classifies": 27700
+    },
+    "negative": {
+      "does not allow": 101000,
+      "has forbidden": 103000,
+      "restricts": 107000,
+      "bans": 102000
+    },
+    "score_ratio": -0.28353510895883777,
+    "norm": 1.0440353460972018,
+    "ss_pow": -0.296020675612548,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 413000,
+    "positive_total": 295900,
+    "negative_total": 413000,
+    "country_hits": 679000
+  },
+  "ALGERIA": {
+    "total_results": "727,000",
+    "positive": {
+      "recognizes": 58200,
+      "allows": 114000,
+      "issues": 101000,
+      "classifies": 22100
+    },
+    "negative": {
+      "does not allow": 122000,
+      "has forbidden": 90700,
+      "restricts": 98400,
+      "bans": 92700
+    },
+    "score_ratio": -0.26869737493808815,
+    "norm": 0.9616231086657496,
+    "ss_pow": -0.25838560497829083,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 403800,
+    "positive_total": 295300,
+    "negative_total": 403800,
+    "country_hits": 727000
+  },
+  "ANDORRA": {
+    "total_results": "341,000",
+    "positive": {
+      "recognizes": 22500,
+      "allows": 71400,
+      "issues": 70200,
+      "classifies": 6810
+    },
+    "negative": {
+      "does not allow": 65000,
+      "has forbidden": 56800,
+      "restricts": 60500,
+      "bans": 76500
+    },
+    "score_ratio": -0.33960587326120556,
+    "norm": 1.2601466275659825,
+    "ss_pow": -0.42795319589170866,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 258800,
+    "positive_total": 170910,
+    "negative_total": 258800,
+    "country_hits": 341000
+  },
+  "ANGOLA": {
+    "total_results": "431,000",
+    "positive": {
+      "recognizes": 21000,
+      "allows": 71600,
+      "issues": 64300,
+      "classifies": 6950
+    },
+    "negative": {
+      "does not allow": 62700,
+      "has forbidden": 62200,
+      "restricts": 64800,
+      "bans": 67200
+    },
+    "score_ratio": -0.3622031919034644,
+    "norm": 0.9762180974477959,
+    "ss_pow": -0.3535893108895189,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 256900,
+    "positive_total": 163850,
+    "negative_total": 256900,
+    "country_hits": 431000
+  },
+  "ANTIGUA and BARBUDA": {
+    "total_results": "217,000",
+    "positive": {
+      "recognizes": 10900,
+      "allows": 14900,
+      "issues": 16200,
+      "classifies": 3880
+    },
+    "negative": {
+      "does not allow": 16100,
+      "has forbidden": 6930,
+      "restricts": 10500,
+      "bans": 7720
+    },
+    "score_ratio": 0.10091543156059285,
+    "norm": 0.40152073732718896,
+    "ss_pow": 0.04051963848790072,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 45880,
+    "positive_total": 45880,
+    "negative_total": 41250,
+    "country_hits": 217000
+  },
+  "ARGENTINA": {
+    "total_results": "681,000",
+    "positive": {
+      "recognizes": 234000,
+      "allows": 316000,
+      "issues": 294000,
+      "classifies": 91500
+    },
+    "negative": {
+      "does not allow": 322000,
+      "has forbidden": 234000,
+      "restricts": 290000,
+      "bans": 264000
+    },
+    "score_ratio": -0.1572072072072072,
+    "norm": 3.0036710719530104,
+    "ss_pow": -0.47219874059081113,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1110000,
+    "positive_total": 935500,
+    "negative_total": 1110000,
+    "country_hits": 681000
+  },
+  "ARMENIA": {
+    "total_results": "831,000",
+    "positive": {
+      "recognizes": 95200,
+      "allows": 115000,
+      "issues": 104000,
+      "classifies": 41600
+    },
+    "negative": {
+      "does not allow": 111000,
+      "has forbidden": 98400,
+      "restricts": 109000,
+      "bans": 95900
+    },
+    "score_ratio": -0.14120202751629254,
+    "norm": 0.9267148014440433,
+    "ss_pow": -0.13085400889325738,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 414300,
+    "positive_total": 355800,
+    "negative_total": 414300,
+    "country_hits": 831000
+  },
+  "AUSTRALIA": {
+    "total_results": "3,930,000",
+    "positive": {
+      "recognizes": 413000,
+      "allows": 524000,
+      "issues": 543000,
+      "classifies": 122000
+    },
+    "negative": {
+      "does not allow": 595000,
+      "has forbidden": 358000,
+      "restricts": 431000,
+      "bans": 429000
+    },
+    "score_ratio": -0.11638168781025923,
+    "norm": 0.8689567430025446,
+    "ss_pow": -0.10113065238474181,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1813000,
+    "positive_total": 1602000,
+    "negative_total": 1813000,
+    "country_hits": 3930000
+  },
+  "AUSTRIA": {
+    "total_results": "559,000",
+    "positive": {
+      "recognizes": 140000,
+      "allows": 251000,
+      "issues": 208000,
+      "classifies": 52100
+    },
+    "negative": {
+      "does not allow": 210000,
+      "has forbidden": 189000,
+      "restricts": 184000,
+      "bans": 212000
+    },
+    "score_ratio": -0.1810062893081761,
+    "norm": 2.5869409660107334,
+    "ss_pow": -0.4682525849169114,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 795000,
+    "positive_total": 651100,
+    "negative_total": 795000,
+    "country_hits": 559000
+  },
+  "AZERBAIJAN": {
+    "total_results": "647,000",
+    "positive": {
+      "recognizes": 106000,
+      "allows": 164000,
+      "issues": 142000,
+      "classifies": 40200
+    },
+    "negative": {
+      "does not allow": 168000,
+      "has forbidden": 127000,
+      "restricts": 144000,
+      "bans": 130000
+    },
+    "score_ratio": -0.20527240773286468,
+    "norm": 1.5783616692426585,
+    "ss_pow": -0.3239941001187039,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 569000,
+    "positive_total": 452200,
+    "negative_total": 569000,
+    "country_hits": 647000
+  },
+  "BAHAMAS": {
+    "total_results": "749,000",
+    "positive": {
+      "recognizes": 94500,
+      "allows": 121000,
+      "issues": 111000,
+      "classifies": 35000
+    },
+    "negative": {
+      "does not allow": 118000,
+      "has forbidden": 84300,
+      "restricts": 99600,
+      "bans": 92400
+    },
+    "score_ratio": -0.08318539183362922,
+    "norm": 1.0090787716955942,
+    "ss_pow": -0.08394061301449529,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 394300,
+    "positive_total": 361500,
+    "negative_total": 394300,
+    "country_hits": 749000
+  },
+  "BAHRAIN": {
+    "total_results": "458,000",
+    "positive": {
+      "recognizes": 118000,
+      "allows": 165000,
+      "issues": 166000,
+      "classifies": 48400
+    },
+    "negative": {
+      "does not allow": 170000,
+      "has forbidden": 142000,
+      "restricts": 167000,
+      "bans": 153000
+    },
+    "score_ratio": -0.2129746835443038,
+    "norm": 2.465938864628821,
+    "ss_pow": -0.5251825493339229,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 632000,
+    "positive_total": 497400,
+    "negative_total": 632000,
+    "country_hits": 458000
+  },
+  "BANGLADESH": {
+    "total_results": "5,560,000",
+    "positive": {
+      "recognizes": 121000,
+      "allows": 191000,
+      "issues": 191000,
+      "classifies": 49700
+    },
+    "negative": {
+      "does not allow": 195000,
+      "has forbidden": 140000,
+      "restricts": 163000,
+      "bans": 188000
+    },
+    "score_ratio": -0.19431486880466473,
+    "norm": 0.22278776978417267,
+    "ss_pow": -0.04329097625689536,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 686000,
+    "positive_total": 552700,
+    "negative_total": 686000,
+    "country_hits": 5560000
+  },
+  "BARBADOS": {
+    "total_results": "559,000",
+    "positive": {
+      "recognizes": 67400,
+      "allows": 141000,
+      "issues": 127000,
+      "classifies": 25800
+    },
+    "negative": {
+      "does not allow": 130000,
+      "has forbidden": 104000,
+      "restricts": 134000,
+      "bans": 114000
+    },
+    "score_ratio": -0.25062240663900415,
+    "norm": 1.508407871198569,
+    "ss_pow": -0.37804081087300234,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 482000,
+    "positive_total": 361200,
+    "negative_total": 482000,
+    "country_hits": 559000
+  },
+  "BELARUS": {
+    "total_results": "1,010,000",
+    "positive": {
+      "recognizes": 202000,
+      "allows": 244000,
+      "issues": 268000,
+      "classifies": 80700
+    },
+    "negative": {
+      "does not allow": 234000,
+      "has forbidden": 216000,
+      "restricts": 233000,
+      "bans": 233000
+    },
+    "score_ratio": -0.1324235807860262,
+    "norm": 1.6937623762376237,
+    "ss_pow": -0.22429407886203467,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 916000,
+    "positive_total": 794700,
+    "negative_total": 916000,
+    "country_hits": 1010000
+  },
+  "BELGIUM": {
+    "total_results": "633,000",
+    "positive": {
+      "recognizes": 146000,
+      "allows": 221000,
+      "issues": 217000,
+      "classifies": 58000
+    },
+    "negative": {
+      "does not allow": 242000,
+      "has forbidden": 207000,
+      "restricts": 201000,
+      "bans": 192000
+    },
+    "score_ratio": -0.2375296912114014,
+    "norm": 2.344391785150079,
+    "ss_pow": -0.5568626568052444,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 842000,
+    "positive_total": 642000,
+    "negative_total": 842000,
+    "country_hits": 633000
+  },
+  "BELIZE": {
+    "total_results": "447,000",
+    "positive": {
+      "recognizes": 38500,
+      "allows": 49300,
+      "issues": 50900,
+      "classifies": 14000
+    },
+    "negative": {
+      "does not allow": 49100,
+      "has forbidden": 40700,
+      "restricts": 43000,
+      "bans": 42600
+    },
+    "score_ratio": -0.12941847206385404,
+    "norm": 0.7340044742729307,
+    "ss_pow": -0.09499373754843515,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 175400,
+    "positive_total": 152700,
+    "negative_total": 175400,
+    "country_hits": 447000
+  },
+  "BENIN": {
+    "total_results": "390,000",
+    "positive": {
+      "recognizes": 16200,
+      "allows": 64000,
+      "issues": 69400,
+      "classifies": 6060
+    },
+    "negative": {
+      "does not allow": 57700,
+      "has forbidden": 53900,
+      "restricts": 58000,
+      "bans": 55500
+    },
+    "score_ratio": -0.30848511772545534,
+    "norm": 0.9763076923076923,
+    "ss_pow": -0.3011763933978061,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 225100,
+    "positive_total": 155660,
+    "negative_total": 225100,
+    "country_hits": 390000
+  },
+  "BERMUDAS": {
+    "total_results": "604,000",
+    "positive": {
+      "recognizes": 316,
+      "allows": 494,
+      "issues": 654,
+      "classifies": 17
+    },
+    "negative": {
+      "does not allow": 492,
+      "has forbidden": 249,
+      "restricts": 296,
+      "bans": 304
+    },
+    "score_ratio": 0.09453072248480757,
+    "norm": 0.004672185430463576,
+    "ss_pow": 0.00044166506432471346,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1481,
+    "positive_total": 1481,
+    "negative_total": 1341,
+    "country_hits": 604000
+  },
+  "BHUTAN": {
+    "total_results": "425,000",
+    "positive": {
+      "recognizes": 37600,
+      "allows": 87000,
+      "issues": 88900,
+      "classifies": 11200
+    },
+    "negative": {
+      "does not allow": 86000,
+      "has forbidden": 82500,
+      "restricts": 84200,
+      "bans": 85100
+    },
+    "score_ratio": -0.33481349911190056,
+    "norm": 1.3235294117647058,
+    "ss_pow": -0.4431355135304566,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 337800,
+    "positive_total": 224700,
+    "negative_total": 337800,
+    "country_hits": 425000
+  },
+  "BOLIVIA": {
+    "total_results": "597,000",
+    "positive": {
+      "recognizes": 79000,
+      "allows": 99300,
+      "issues": 94700,
+      "classifies": 35700
+    },
+    "negative": {
+      "does not allow": 109000,
+      "has forbidden": 85600,
+      "restricts": 89500,
+      "bans": 88400
+    },
+    "score_ratio": -0.1712751677852349,
+    "norm": 1.141038525963149,
+    "ss_pow": -0.19543156498375547,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 372500,
+    "positive_total": 308700,
+    "negative_total": 372500,
+    "country_hits": 597000
+  },
+  "BOSNIA": {
+    "total_results": "602,000",
+    "positive": {
+      "recognizes": 59400,
+      "allows": 70000,
+      "issues": 67500,
+      "classifies": 19800
+    },
+    "negative": {
+      "does not allow": 67000,
+      "has forbidden": 46900,
+      "restricts": 52900,
+      "bans": 62000
+    },
+    "score_ratio": -0.052884615384615384,
+    "norm": 0.7400332225913622,
+    "ss_pow": -0.03913637234858165,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 228800,
+    "positive_total": 216700,
+    "negative_total": 228800,
+    "country_hits": 602000
+  },
+  "BOTSWANA": {
+    "total_results": "508,000",
+    "positive": {
+      "recognizes": 54600,
+      "allows": 96200,
+      "issues": 119000,
+      "classifies": 14700
+    },
+    "negative": {
+      "does not allow": 111000,
+      "has forbidden": 83700,
+      "restricts": 89900,
+      "bans": 89400
+    },
+    "score_ratio": -0.2393048128342246,
+    "norm": 1.296259842519685,
+    "ss_pow": -0.3102012189986947,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 374000,
+    "positive_total": 284500,
+    "negative_total": 374000,
+    "country_hits": 508000
+  },
+  "BRAZIL": {
+    "total_results": "14,000,000",
+    "positive": {
+      "recognizes": 304000,
+      "allows": 368000,
+      "issues": 394000,
+      "classifies": 88200
+    },
+    "negative": {
+      "does not allow": 360000,
+      "has forbidden": 275000,
+      "restricts": 295000,
+      "bans": 311000
+    },
+    "score_ratio": -0.06994359387590653,
+    "norm": 0.17108571428571429,
+    "ss_pow": -0.01196634971796938,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1241000,
+    "positive_total": 1154200,
+    "negative_total": 1241000,
+    "country_hits": 14000000
+  },
+  "BRUNEI": {
+    "total_results": "406,000",
+    "positive": {
+      "recognizes": 21400,
+      "allows": 67700,
+      "issues": 75700,
+      "classifies": 7270
+    },
+    "negative": {
+      "does not allow": 69500,
+      "has forbidden": 58900,
+      "restricts": 57500,
+      "bans": 70100
+    },
+    "score_ratio": -0.3278515625,
+    "norm": 1.05435960591133,
+    "ss_pow": -0.3456734442349138,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 256000,
+    "positive_total": 172070,
+    "negative_total": 256000,
+    "country_hits": 406000
+  },
+  "BULGARIA": {
+    "total_results": "929,000",
+    "positive": {
+      "recognizes": 83100,
+      "allows": 153000,
+      "issues": 146000,
+      "classifies": 27900
+    },
+    "negative": {
+      "does not allow": 143000,
+      "has forbidden": 118000,
+      "restricts": 125000,
+      "bans": 140000
+    },
+    "score_ratio": -0.22053231939163498,
+    "norm": 1.007534983853606,
+    "ss_pow": -0.22219402685744924,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 526000,
+    "positive_total": 410000,
+    "negative_total": 526000,
+    "country_hits": 929000
+  },
+  "BURKINA FASO": {
+    "total_results": "784,000",
+    "positive": {
+      "recognizes": 37800,
+      "allows": 70600,
+      "issues": 77700,
+      "classifies": 16400
+    },
+    "negative": {
+      "does not allow": 72600,
+      "has forbidden": 82200,
+      "restricts": 71000,
+      "bans": 72000
+    },
+    "score_ratio": -0.32001343183344527,
+    "norm": 0.6381377551020408,
+    "ss_pow": -0.20421265299269475,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 297800,
+    "positive_total": 202500,
+    "negative_total": 297800,
+    "country_hits": 784000
+  },
+  "BURUNDI": {
+    "total_results": "387,000",
+    "positive": {
+      "recognizes": 34400,
+      "allows": 50300,
+      "issues": 57600,
+      "classifies": 7600
+    },
+    "negative": {
+      "does not allow": 52600,
+      "has forbidden": 50800,
+      "restricts": 50200,
+      "bans": 49800
+    },
+    "score_ratio": -0.26302851524090465,
+    "norm": 0.9129198966408268,
+    "ss_pow": -0.24012396494731683,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 203400,
+    "positive_total": 149900,
+    "negative_total": 203400,
+    "country_hits": 387000
+  },
+  "CAMBODIA": {
+    "total_results": "591,000",
+    "positive": {
+      "recognizes": 86100,
+      "allows": 142000,
+      "issues": 137000,
+      "classifies": 25200
+    },
+    "negative": {
+      "does not allow": 140000,
+      "has forbidden": 113000,
+      "restricts": 117000,
+      "bans": 132000
+    },
+    "score_ratio": -0.22250996015936256,
+    "norm": 1.5098138747884942,
+    "ss_pow": -0.33594862512724066,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 502000,
+    "positive_total": 390300,
+    "negative_total": 502000,
+    "country_hits": 591000
+  },
+  "CAMEROON": {
+    "total_results": "569,000",
+    "positive": {
+      "recognizes": 56300,
+      "allows": 104000,
+      "issues": 96600,
+      "classifies": 17400
+    },
+    "negative": {
+      "does not allow": 96000,
+      "has forbidden": 84600,
+      "restricts": 91500,
+      "bans": 85100
+    },
+    "score_ratio": -0.2320828667413214,
+    "norm": 1.109841827768014,
+    "ss_pow": -0.25757527301782857,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 357200,
+    "positive_total": 274300,
+    "negative_total": 357200,
+    "country_hits": 569000
+  },
+  "CANADA": {
+    "total_results": "3,880,000",
+    "positive": {
+      "recognizes": 384000,
+      "allows": 532000,
+      "issues": 561000,
+      "classifies": 134000
+    },
+    "negative": {
+      "does not allow": 639000,
+      "has forbidden": 418000,
+      "restricts": 428000,
+      "bans": 428000
+    },
+    "score_ratio": -0.1578672242550967,
+    "norm": 0.9082474226804124,
+    "ss_pow": -0.14338249955540225,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1913000,
+    "positive_total": 1611000,
+    "negative_total": 1913000,
+    "country_hits": 3880000
+  },
+  "CAPE VERDE": {
+    "total_results": "431,000",
+    "positive": {
+      "recognizes": 28600,
+      "allows": 0,
+      "issues": 36700,
+      "classifies": 14800
+    },
+    "negative": {
+      "does not allow": 37800,
+      "has forbidden": 31400,
+      "restricts": 33400,
+      "bans": 32800
+    },
+    "score_ratio": -0.40841949778434267,
+    "norm": 0.5,
+    "ss_pow": -0.20420974889217133,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 135400,
+    "positive_total": 80100,
+    "negative_total": 135400,
+    "country_hits": 431000
+  },
+  "CAYMAN ISLANDS": {
+    "total_results": "642,000",
+    "positive": {
+      "recognizes": 52700,
+      "allows": 69000,
+      "issues": 63000,
+      "classifies": 22200
+    },
+    "negative": {
+      "does not allow": 79600,
+      "has forbidden": 51000,
+      "restricts": 55700,
+      "bans": 59700
+    },
+    "score_ratio": -0.1589430894308943,
+    "norm": 0.7054517133956386,
+    "ss_pow": -0.1121266747714206,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 246000,
+    "positive_total": 206900,
+    "negative_total": 246000,
+    "country_hits": 642000
+  },
+  "CHILE": {
+    "total_results": "550,000",
+    "positive": {
+      "recognizes": 123000,
+      "allows": 221000,
+      "issues": 181000,
+      "classifies": 49000
+    },
+    "negative": {
+      "does not allow": 190000,
+      "has forbidden": 177000,
+      "restricts": 174000,
+      "bans": 199000
+    },
+    "score_ratio": -0.22432432432432434,
+    "norm": 2.389090909090909,
+    "ss_pow": -0.535931203931204,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 740000,
+    "positive_total": 574000,
+    "negative_total": 740000,
+    "country_hits": 550000
+  },
+  "CHINA": {
+    "total_results": "10,300,000",
+    "positive": {
+      "recognizes": 566000,
+      "allows": 669000,
+      "issues": 701000,
+      "classifies": 151000
+    },
+    "negative": {
+      "does not allow": 657000,
+      "has forbidden": 555000,
+      "restricts": 538000,
+      "bans": 614000
+    },
+    "score_ratio": -0.11717428087986463,
+    "norm": 0.43213592233009707,
+    "ss_pow": -0.05063521594138616,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 2364000,
+    "positive_total": 2087000,
+    "negative_total": 2364000,
+    "country_hits": 10300000
+  },
+  "COLOMBIA": {
+    "total_results": "688,000",
+    "positive": {
+      "recognizes": 170000,
+      "allows": 319000,
+      "issues": 269000,
+      "classifies": 59900
+    },
+    "negative": {
+      "does not allow": 315000,
+      "has forbidden": 203000,
+      "restricts": 221000,
+      "bans": 264000
+    },
+    "score_ratio": -0.18454636091724824,
+    "norm": 2.646656976744186,
+    "ss_pow": -0.4884309136543857,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1003000,
+    "positive_total": 817900,
+    "negative_total": 1003000,
+    "country_hits": 688000
+  },
+  "COMOROS": {
+    "total_results": "158,000",
+    "positive": {
+      "recognizes": 4360,
+      "allows": 5710,
+      "issues": 5520,
+      "classifies": 2080
+    },
+    "negative": {
+      "does not allow": 5570,
+      "has forbidden": 4180,
+      "restricts": 4660,
+      "bans": 4410
+    },
+    "score_ratio": -0.06110520722635494,
+    "norm": 0.23094936708860758,
+    "ss_pow": -0.014112208934744885,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 18820,
+    "positive_total": 17670,
+    "negative_total": 18820,
+    "country_hits": 158000
+  },
+  "DEMOCRATIC REPUBLIC OF CONGO": {
+    "total_results": "769,000",
+    "positive": {
+      "recognizes": 106000,
+      "allows": 146000,
+      "issues": 168000,
+      "classifies": 40300
+    },
+    "negative": {
+      "does not allow": 165000,
+      "has forbidden": 150000,
+      "restricts": 144000,
+      "bans": 150000
+    },
+    "score_ratio": -0.24417077175697866,
+    "norm": 1.3905071521456438,
+    "ss_pow": -0.3395212044730004,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 609000,
+    "positive_total": 460300,
+    "negative_total": 609000,
+    "country_hits": 769000
+  },
+  "REPUBLIC OF CONGO": {
+    "total_results": "709,000",
+    "positive": {
+      "recognizes": 95700,
+      "allows": 179000,
+      "issues": 144000,
+      "classifies": 35300
+    },
+    "negative": {
+      "does not allow": 147000,
+      "has forbidden": 5,
+      "restricts": 154000,
+      "bans": 151000
+    },
+    "score_ratio": 0.004394273127753304,
+    "norm": 1.2778631875881523,
+    "ss_pow": 0.005615279866163798,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 454000,
+    "positive_total": 454000,
+    "negative_total": 452005,
+    "country_hits": 709000
+  },
+  "COSTA RICA": {
+    "total_results": "841,000",
+    "positive": {
+      "recognizes": 166000,
+      "allows": 252000,
+      "issues": 230000,
+      "classifies": 66200
+    },
+    "negative": {
+      "does not allow": 233000,
+      "has forbidden": 216000,
+      "restricts": 209000,
+      "bans": 212000
+    },
+    "score_ratio": -0.17908045977011494,
+    "norm": 1.8837098692033294,
+    "ss_pow": -0.3373356294504353,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 870000,
+    "positive_total": 714200,
+    "negative_total": 870000,
+    "country_hits": 841000
+  },
+  "COTE d' IVOIRE": {
+    "total_results": "302,000",
+    "positive": {
+      "recognizes": 5990,
+      "allows": 7510,
+      "issues": 8560,
+      "classifies": 1890
+    },
+    "negative": {
+      "does not allow": 7150,
+      "has forbidden": 4110,
+      "restricts": 6580,
+      "bans": 4320
+    },
+    "score_ratio": 0.07473903966597077,
+    "norm": 0.152682119205298,
+    "ss_pow": 0.011411314963569246,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 23950,
+    "positive_total": 23950,
+    "negative_total": 22160,
+    "country_hits": 302000
+  },
+  "CROATIA": {
+    "total_results": "745,000",
+    "positive": {
+      "recognizes": 118000,
+      "allows": 191000,
+      "issues": 168000,
+      "classifies": 50100
+    },
+    "negative": {
+      "does not allow": 166000,
+      "has forbidden": 144000,
+      "restricts": 180000,
+      "bans": 151000
+    },
+    "score_ratio": -0.17769110764430576,
+    "norm": 1.5679194630872484,
+    "ss_pow": -0.27860534609303833,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 641000,
+    "positive_total": 527100,
+    "negative_total": 641000,
+    "country_hits": 745000
+  },
+  "CUBA": {
+    "total_results": "1,600,000",
+    "positive": {
+      "recognizes": 149000,
+      "allows": 213000,
+      "issues": 201000,
+      "classifies": 57600
+    },
+    "negative": {
+      "does not allow": 211000,
+      "has forbidden": 181000,
+      "restricts": 226000,
+      "bans": 215000
+    },
+    "score_ratio": -0.25498199279711886,
+    "norm": 0.9085,
+    "ss_pow": -0.23165114045618249,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 833000,
+    "positive_total": 620600,
+    "negative_total": 833000,
+    "country_hits": 1600000
+  },
+  "CYPRUS": {
+    "total_results": "2,130,000",
+    "positive": {
+      "recognizes": 166000,
+      "allows": 210000,
+      "issues": 188000,
+      "classifies": 46100
+    },
+    "negative": {
+      "does not allow": 206000,
+      "has forbidden": 174000,
+      "restricts": 181000,
+      "bans": 191000
+    },
+    "score_ratio": -0.1886968085106383,
+    "norm": 0.6394835680751174,
+    "ss_pow": -0.12066850839077016,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 752000,
+    "positive_total": 610100,
+    "negative_total": 752000,
+    "country_hits": 2130000
+  },
+  "CZECH REPUBLIC": {
+    "total_results": "1,080,000",
+    "positive": {
+      "recognizes": 112000,
+      "allows": 196000,
+      "issues": 179000,
+      "classifies": 42300
+    },
+    "negative": {
+      "does not allow": 165000,
+      "has forbidden": 178000,
+      "restricts": 154000,
+      "bans": 165000
+    },
+    "score_ratio": -0.20045317220543807,
+    "norm": 1.1030555555555555,
+    "ss_pow": -0.2211109852299429,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 662000,
+    "positive_total": 529300,
+    "negative_total": 662000,
+    "country_hits": 1080000
+  },
+  "DENMARK": {
+    "total_results": "660,000",
+    "positive": {
+      "recognizes": 189000,
+      "allows": 226000,
+      "issues": 230000,
+      "classifies": 68500
+    },
+    "negative": {
+      "does not allow": 274000,
+      "has forbidden": 188000,
+      "restricts": 224000,
+      "bans": 196000
+    },
+    "score_ratio": -0.19104308390022676,
+    "norm": 2.4174242424242425,
+    "ss_pow": -0.46183218236789664,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 882000,
+    "positive_total": 713500,
+    "negative_total": 882000,
+    "country_hits": 660000
+  },
+  "DJIBOUTI": {
+    "total_results": "352,000",
+    "positive": {
+      "recognizes": 11200,
+      "allows": 14100,
+      "issues": 12800,
+      "classifies": 5160
+    },
+    "negative": {
+      "does not allow": 12900,
+      "has forbidden": 10100,
+      "restricts": 13000,
+      "bans": 13900
+    },
+    "score_ratio": -0.13306613226452907,
+    "norm": 0.2646590909090909,
+    "ss_pow": -0.03521716159591911,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 49900,
+    "positive_total": 43260,
+    "negative_total": 49900,
+    "country_hits": 352000
+  },
+  "DOMINICA": {
+    "total_results": "254,000",
+    "positive": {
+      "recognizes": 7150,
+      "allows": 7860,
+      "issues": 9650,
+      "classifies": 2750
+    },
+    "negative": {
+      "does not allow": 8370,
+      "has forbidden": 5370,
+      "restricts": 6860,
+      "bans": 6290
+    },
+    "score_ratio": 0.01897117840204305,
+    "norm": 0.2137795275590551,
+    "ss_pow": 0.004055649556027313,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 27410,
+    "positive_total": 27410,
+    "negative_total": 26890,
+    "country_hits": 254000
+  },
+  "DOMINICAN REPUBLIC": {
+    "total_results": "725,000",
+    "positive": {
+      "recognizes": 74400,
+      "allows": 123000,
+      "issues": 127000,
+      "classifies": 29100
+    },
+    "negative": {
+      "does not allow": 134000,
+      "has forbidden": 130000,
+      "restricts": 120000,
+      "bans": 122000
+    },
+    "score_ratio": -0.30138339920948615,
+    "norm": 1.1855172413793102,
+    "ss_pow": -0.3572952160283494,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 506000,
+    "positive_total": 353500,
+    "negative_total": 506000,
+    "country_hits": 725000
+  },
+  "ECUADOR": {
+    "total_results": "739,000",
+    "positive": {
+      "recognizes": 109000,
+      "allows": 185000,
+      "issues": 178000,
+      "classifies": 45300
+    },
+    "negative": {
+      "does not allow": 187000,
+      "has forbidden": 183000,
+      "restricts": 180000,
+      "bans": 181000
+    },
+    "score_ratio": -0.2923392612859097,
+    "norm": 1.6891745602165087,
+    "ss_pow": -0.49381204311664556,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 731000,
+    "positive_total": 517300,
+    "negative_total": 731000,
+    "country_hits": 739000
+  },
+  "EGYPT": {
+    "total_results": "578,000",
+    "positive": {
+      "recognizes": 226000,
+      "allows": 266000,
+      "issues": 259000,
+      "classifies": 78300
+    },
+    "negative": {
+      "does not allow": 287000,
+      "has forbidden": 225000,
+      "restricts": 275000,
+      "bans": 260000
+    },
+    "score_ratio": -0.20792741165234002,
+    "norm": 3.2461937716262974,
+    "ss_pow": -0.6749726686562034,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1047000,
+    "positive_total": 829300,
+    "negative_total": 1047000,
+    "country_hits": 578000
+  },
+  "EL SALVADOR": {
+    "total_results": "1,280,000",
+    "positive": {
+      "recognizes": 195000,
+      "allows": 378000,
+      "issues": 335000,
+      "classifies": 54400
+    },
+    "negative": {
+      "does not allow": 365000,
+      "has forbidden": 210000,
+      "restricts": 275000,
+      "bans": 308000
+    },
+    "score_ratio": -0.1689119170984456,
+    "norm": 1.6565625,
+    "ss_pow": -0.27981314766839377,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1158000,
+    "positive_total": 962400,
+    "negative_total": 1158000,
+    "country_hits": 1280000
+  },
+  "EQUATORIAL GUINEA": {
+    "total_results": "286,000",
+    "positive": {
+      "recognizes": 19700,
+      "allows": 34100,
+      "issues": 35900,
+      "classifies": 6620
+    },
+    "negative": {
+      "does not allow": 34700,
+      "has forbidden": 31600,
+      "restricts": 38100,
+      "bans": 33900
+    },
+    "score_ratio": -0.3035430224150398,
+    "norm": 0.8203496503496504,
+    "ss_pow": -0.24901141230425397,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 138300,
+    "positive_total": 96320,
+    "negative_total": 138300,
+    "country_hits": 286000
+  },
+  "ERITREA": {
+    "total_results": "469,000",
+    "positive": {
+      "recognizes": 20000,
+      "allows": 23700,
+      "issues": 23900,
+      "classifies": 7750
+    },
+    "negative": {
+      "does not allow": 22100,
+      "has forbidden": 18700,
+      "restricts": 19100,
+      "bans": 20400
+    },
+    "score_ratio": -0.06164383561643835,
+    "norm": 0.3318763326226013,
+    "ss_pow": -0.020458130093174053,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 80300,
+    "positive_total": 75350,
+    "negative_total": 80300,
+    "country_hits": 469000
+  },
+  "ESTONIA": {
+    "total_results": "900,000",
+    "positive": {
+      "recognizes": 96300,
+      "allows": 158000,
+      "issues": 166000,
+      "classifies": 40900
+    },
+    "negative": {
+      "does not allow": 187000,
+      "has forbidden": 118000,
+      "restricts": 131000,
+      "bans": 130000
+    },
+    "score_ratio": -0.18515901060070672,
+    "norm": 1.1413333333333333,
+    "ss_pow": -0.2113281507656066,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 566000,
+    "positive_total": 461200,
+    "negative_total": 566000,
+    "country_hits": 900000
+  },
+  "ESWATINI": {
+    "total_results": "102,000",
+    "positive": {
+      "recognizes": 6330,
+      "allows": 6590,
+      "issues": 6600,
+      "classifies": 2190
+    },
+    "negative": {
+      "does not allow": 8480,
+      "has forbidden": 5970,
+      "restricts": 6010,
+      "bans": 5700
+    },
+    "score_ratio": -0.17010703363914373,
+    "norm": 0.46931372549019607,
+    "ss_pow": -0.07983356568927265,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 26160,
+    "positive_total": 21710,
+    "negative_total": 26160,
+    "country_hits": 102000
+  },
+  "ETHIOPIA": {
+    "total_results": "982,000",
+    "positive": {
+      "recognizes": 160000,
+      "allows": 219000,
+      "issues": 213000,
+      "classifies": 51300
+    },
+    "negative": {
+      "does not allow": 217000,
+      "has forbidden": 186000,
+      "restricts": 185000,
+      "bans": 187000
+    },
+    "score_ratio": -0.16993548387096774,
+    "norm": 1.444297352342159,
+    "ss_pow": -0.24543736942382235,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 775000,
+    "positive_total": 643300,
+    "negative_total": 775000,
+    "country_hits": 982000
+  },
+  "FIJI": {
+    "total_results": "502,000",
+    "positive": {
+      "recognizes": 32600,
+      "allows": 87200,
+      "issues": 82400,
+      "classifies": 13400
+    },
+    "negative": {
+      "does not allow": 83000,
+      "has forbidden": 67000,
+      "restricts": 89100,
+      "bans": 75100
+    },
+    "score_ratio": -0.31381285805219605,
+    "norm": 1.0553784860557769,
+    "ss_pow": -0.3311913390359631,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 314200,
+    "positive_total": 215600,
+    "negative_total": 314200,
+    "country_hits": 502000
+  },
+  "FINLAND": {
+    "total_results": "494,000",
+    "positive": {
+      "recognizes": 118000,
+      "allows": 193000,
+      "issues": 181000,
+      "classifies": 45100
+    },
+    "negative": {
+      "does not allow": 190000,
+      "has forbidden": 141000,
+      "restricts": 142000,
+      "bans": 158000
+    },
+    "score_ratio": -0.14881141045958796,
+    "norm": 2.364574898785425,
+    "ss_pow": -0.3518757258255965,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 631000,
+    "positive_total": 537100,
+    "negative_total": 631000,
+    "country_hits": 494000
+  },
+  "FRANCE": {
+    "total_results": "1,400,000",
+    "positive": {
+      "recognizes": 294000,
+      "allows": 407000,
+      "issues": 408000,
+      "classifies": 118000
+    },
+    "negative": {
+      "does not allow": 462000,
+      "has forbidden": 315000,
+      "restricts": 321000,
+      "bans": 348000
+    },
+    "score_ratio": -0.15145228215767634,
+    "norm": 1.9092857142857143,
+    "ss_pow": -0.2891656787196206,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1446000,
+    "positive_total": 1227000,
+    "negative_total": 1446000,
+    "country_hits": 1400000
+  },
+  "GABON": {
+    "total_results": "411,000",
+    "positive": {
+      "recognizes": 16100,
+      "allows": 56000,
+      "issues": 56300,
+      "classifies": 5140
+    },
+    "negative": {
+      "does not allow": 58000,
+      "has forbidden": 51000,
+      "restricts": 53300,
+      "bans": 54700
+    },
+    "score_ratio": -0.38460829493087556,
+    "norm": 0.8528953771289538,
+    "ss_pow": -0.328030636751993,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 217000,
+    "positive_total": 133540,
+    "negative_total": 217000,
+    "country_hits": 411000
+  },
+  "GAMBIA": {
+    "total_results": "587,000",
+    "positive": {
+      "recognizes": 16200,
+      "allows": 18400,
+      "issues": 18600,
+      "classifies": 5380
+    },
+    "negative": {
+      "does not allow": 17400,
+      "has forbidden": 14300,
+      "restricts": 16500,
+      "bans": 14300
+    },
+    "score_ratio": -0.06272,
+    "norm": 0.20626916524701874,
+    "ss_pow": -0.012937202044293016,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 62500,
+    "positive_total": 58580,
+    "negative_total": 62500,
+    "country_hits": 587000
+  },
+  "GEORGIA": {
+    "total_results": "651,000",
+    "positive": {
+      "recognizes": 221000,
+      "allows": 306000,
+      "issues": 303000,
+      "classifies": 83800
+    },
+    "negative": {
+      "does not allow": 336000,
+      "has forbidden": 266000,
+      "restricts": 305000,
+      "bans": 311000
+    },
+    "score_ratio": -0.2497536945812808,
+    "norm": 3.2746543778801844,
+    "ss_pow": -0.8178570293523416,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1218000,
+    "positive_total": 913800,
+    "negative_total": 1218000,
+    "country_hits": 651000
+  },
+  "GERMANY": {
+    "total_results": "1,860,000",
+    "positive": {
+      "recognizes": 303000,
+      "allows": 471000,
+      "issues": 475000,
+      "classifies": 112000
+    },
+    "negative": {
+      "does not allow": 519000,
+      "has forbidden": 373000,
+      "restricts": 395000,
+      "bans": 367000
+    },
+    "score_ratio": -0.17714631197097944,
+    "norm": 1.6209677419354838,
+    "ss_pow": -0.2871484573077973,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1654000,
+    "positive_total": 1361000,
+    "negative_total": 1654000,
+    "country_hits": 1860000
+  },
+  "GHANA": {
+    "total_results": "1,060,000",
+    "positive": {
+      "recognizes": 107000,
+      "allows": 183000,
+      "issues": 157000,
+      "classifies": 32100
+    },
+    "negative": {
+      "does not allow": 198000,
+      "has forbidden": 134000,
+      "restricts": 151000,
+      "bans": 165000
+    },
+    "score_ratio": -0.26064814814814813,
+    "norm": 1.0633018867924529,
+    "ss_pow": -0.2771476677148847,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 648000,
+    "positive_total": 479100,
+    "negative_total": 648000,
+    "country_hits": 1060000
+  },
+  "GIBRALTAR": {
+    "total_results": "659,000",
+    "positive": {
+      "recognizes": 65400,
+      "allows": 92700,
+      "issues": 83800,
+      "classifies": 16700
+    },
+    "negative": {
+      "does not allow": 93300,
+      "has forbidden": 52600,
+      "restricts": 57900,
+      "bans": 70400
+    },
+    "score_ratio": -0.05689277899343545,
+    "norm": 0.8084977238239757,
+    "ss_pow": -0.04599768231821306,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 274200,
+    "positive_total": 258600,
+    "negative_total": 274200,
+    "country_hits": 659000
+  },
+  "GREECE": {
+    "total_results": "630,000",
+    "positive": {
+      "recognizes": 224000,
+      "allows": 318000,
+      "issues": 267000,
+      "classifies": 82900
+    },
+    "negative": {
+      "does not allow": 293000,
+      "has forbidden": 232000,
+      "restricts": 248000,
+      "bans": 234000
+    },
+    "score_ratio": -0.11429990069513406,
+    "norm": 3.014126984126984,
+    "ss_pow": -0.3445144149682382,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1007000,
+    "positive_total": 891900,
+    "negative_total": 1007000,
+    "country_hits": 630000
+  },
+  "GRENADA": {
+    "total_results": "260,000",
+    "positive": {
+      "recognizes": 9080,
+      "allows": 11400,
+      "issues": 9430,
+      "classifies": 3700
+    },
+    "negative": {
+      "does not allow": 10800,
+      "has forbidden": 9100,
+      "restricts": 7570,
+      "bans": 9180
+    },
+    "score_ratio": -0.08294679399727149,
+    "norm": 0.2702307692307692,
+    "ss_pow": -0.022414775947108827,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 36650,
+    "positive_total": 33610,
+    "negative_total": 36650,
+    "country_hits": 260000
+  },
+  "GUATEMALA": {
+    "total_results": "641,000",
+    "positive": {
+      "recognizes": 101000,
+      "allows": 191000,
+      "issues": 172000,
+      "classifies": 39000
+    },
+    "negative": {
+      "does not allow": 178000,
+      "has forbidden": 162000,
+      "restricts": 187000,
+      "bans": 186000
+    },
+    "score_ratio": -0.29453015427769985,
+    "norm": 1.8970358814352575,
+    "ss_pow": -0.5587342708294587,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 713000,
+    "positive_total": 503000,
+    "negative_total": 713000,
+    "country_hits": 641000
+  },
+  "GUINEA": {
+    "total_results": "1,450,000",
+    "positive": {
+      "recognizes": 120000,
+      "allows": 178000,
+      "issues": 177000,
+      "classifies": 43000
+    },
+    "negative": {
+      "does not allow": 158000,
+      "has forbidden": 151000,
+      "restricts": 142000,
+      "bans": 161000
+    },
+    "score_ratio": -0.15359477124183007,
+    "norm": 0.7793103448275862,
+    "ss_pow": -0.11969799414018482,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 612000,
+    "positive_total": 518000,
+    "negative_total": 612000,
+    "country_hits": 1450000
+  },
+  "GUINEA-BISSAU": {
+    "total_results": "259,000",
+    "positive": {
+      "recognizes": 4560,
+      "allows": 5830,
+      "issues": 7060,
+      "classifies": 1630
+    },
+    "negative": {
+      "does not allow": 6090,
+      "has forbidden": 3640,
+      "restricts": 5030,
+      "bans": 4820
+    },
+    "score_ratio": -0.02553626149131767,
+    "norm": 0.14926640926640927,
+    "ss_pow": -0.00381170605889707,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 19580,
+    "positive_total": 19080,
+    "negative_total": 19580,
+    "country_hits": 259000
+  },
+  "GUYANA": {
+    "total_results": "490,000",
+    "positive": {
+      "recognizes": 23200,
+      "allows": 34300,
+      "issues": 32200,
+      "classifies": 8290
+    },
+    "negative": {
+      "does not allow": 35000,
+      "has forbidden": 20500,
+      "restricts": 25100,
+      "bans": 21200
+    },
+    "score_ratio": -0.03742632612966601,
+    "norm": 0.407734693877551,
+    "ss_pow": -0.01526001162744076,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 101800,
+    "positive_total": 97990,
+    "negative_total": 101800,
+    "country_hits": 490000
+  },
+  "HAITI": {
+    "total_results": "303,000",
+    "positive": {
+      "recognizes": 104000,
+      "allows": 171000,
+      "issues": 138000,
+      "classifies": 40400
+    },
+    "negative": {
+      "does not allow": 157000,
+      "has forbidden": 148000,
+      "restricts": 136000,
+      "bans": 138000
+    },
+    "score_ratio": -0.2169257340241796,
+    "norm": 3.4072607260726073,
+    "ss_pow": -0.7391225340150596,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 579000,
+    "positive_total": 453400,
+    "negative_total": 579000,
+    "country_hits": 303000
+  },
+  "HONG KONG": {
+    "total_results": "8,520,000",
+    "positive": {
+      "recognizes": 317000,
+      "allows": 468000,
+      "issues": 440000,
+      "classifies": 102000
+    },
+    "negative": {
+      "does not allow": 395000,
+      "has forbidden": 297000,
+      "restricts": 381000,
+      "bans": 374000
+    },
+    "score_ratio": -0.082930200414651,
+    "norm": 0.3255868544600939,
+    "ss_pow": -0.027000983092751393,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1447000,
+    "positive_total": 1327000,
+    "negative_total": 1447000,
+    "country_hits": 8520000
+  },
+  "HONDURAS": {
+    "total_results": "654,000",
+    "positive": {
+      "recognizes": 111000,
+      "allows": 168000,
+      "issues": 149000,
+      "classifies": 30300
+    },
+    "negative": {
+      "does not allow": 161000,
+      "has forbidden": 145000,
+      "restricts": 143000,
+      "bans": 165000
+    },
+    "score_ratio": -0.25358306188925084,
+    "norm": 1.6396024464831804,
+    "ss_pow": -0.41577540866031143,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 614000,
+    "positive_total": 458300,
+    "negative_total": 614000,
+    "country_hits": 654000
+  },
+  "HUNGARY": {
+    "total_results": "1,700,000",
+    "positive": {
+      "recognizes": 120000,
+      "allows": 178000,
+      "issues": 190000,
+      "classifies": 43200
+    },
+    "negative": {
+      "does not allow": 198000,
+      "has forbidden": 152000,
+      "restricts": 157000,
+      "bans": 165000
+    },
+    "score_ratio": -0.20952380952380953,
+    "norm": 0.707764705882353,
+    "ss_pow": -0.1482935574229692,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 672000,
+    "positive_total": 531200,
+    "negative_total": 672000,
+    "country_hits": 1700000
+  },
+  "ICELAND": {
+    "total_results": "929,000",
+    "positive": {
+      "recognizes": 161000,
+      "allows": 224000,
+      "issues": 197000,
+      "classifies": 54700
+    },
+    "negative": {
+      "does not allow": 239000,
+      "has forbidden": 179000,
+      "restricts": 181000,
+      "bans": 195000
+    },
+    "score_ratio": -0.19811083123425693,
+    "norm": 1.540043057050592,
+    "ss_pow": -0.30509921016883895,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 794000,
+    "positive_total": 636700,
+    "negative_total": 794000,
+    "country_hits": 929000
+  },
+  "INDIA": {
+    "total_results": "8,250,000",
+    "positive": {
+      "recognizes": 566000,
+      "allows": 627000,
+      "issues": 624000,
+      "classifies": 131000
+    },
+    "negative": {
+      "does not allow": 653000,
+      "has forbidden": 469000,
+      "restricts": 567000,
+      "bans": 625000
+    },
+    "score_ratio": -0.1581676750216076,
+    "norm": 0.5166060606060606,
+    "ss_pow": -0.08171037950813233,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 2314000,
+    "positive_total": 1948000,
+    "negative_total": 2314000,
+    "country_hits": 8250000
+  },
+  "INDONESIA": {
+    "total_results": "1,440,000",
+    "positive": {
+      "recognizes": 258000,
+      "allows": 352000,
+      "issues": 328000,
+      "classifies": 78000
+    },
+    "negative": {
+      "does not allow": 393000,
+      "has forbidden": 237000,
+      "restricts": 243000,
+      "bans": 330000
+    },
+    "score_ratio": -0.15544472152950956,
+    "norm": 1.5409722222222222,
+    "ss_pow": -0.23953599796804284,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1203000,
+    "positive_total": 1016000,
+    "negative_total": 1203000,
+    "country_hits": 1440000
+  },
+  "IRAN": {
+    "total_results": "3,250,000",
+    "positive": {
+      "recognizes": 230000,
+      "allows": 362000,
+      "issues": 357000,
+      "classifies": 95300
+    },
+    "negative": {
+      "does not allow": 359000,
+      "has forbidden": 260000,
+      "restricts": 318000,
+      "bans": 301000
+    },
+    "score_ratio": -0.15646203554119548,
+    "norm": 0.7022461538461539,
+    "ss_pow": -0.10987486268174475,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1238000,
+    "positive_total": 1044300,
+    "negative_total": 1238000,
+    "country_hits": 3250000
+  },
+  "IRAQ": {
+    "total_results": "964,000",
+    "positive": {
+      "recognizes": 202000,
+      "allows": 217000,
+      "issues": 248000,
+      "classifies": 68800
+    },
+    "negative": {
+      "does not allow": 239000,
+      "has forbidden": 190000,
+      "restricts": 197000,
+      "bans": 197000
+    },
+    "score_ratio": -0.10595382746051032,
+    "norm": 1.6170124481327801,
+    "ss_pow": -0.17132865793095797,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 823000,
+    "positive_total": 735800,
+    "negative_total": 823000,
+    "country_hits": 964000
+  },
+  "IRELAND": {
+    "total_results": "742,000",
+    "positive": {
+      "recognizes": 270000,
+      "allows": 397000,
+      "issues": 341000,
+      "classifies": 96200
+    },
+    "negative": {
+      "does not allow": 341000,
+      "has forbidden": 246000,
+      "restricts": 360000,
+      "bans": 286000
+    },
+    "score_ratio": -0.10446066504460665,
+    "norm": 3.149865229110512,
+    "ss_pow": -0.3290370166337664,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1233000,
+    "positive_total": 1104200,
+    "negative_total": 1233000,
+    "country_hits": 742000
+  },
+  "ISRAEL": {
+    "total_results": "750,000",
+    "positive": {
+      "recognizes": 299000,
+      "allows": 358000,
+      "issues": 361000,
+      "classifies": 93100
+    },
+    "negative": {
+      "does not allow": 384000,
+      "has forbidden": 268000,
+      "restricts": 277000,
+      "bans": 336000
+    },
+    "score_ratio": -0.1216600790513834,
+    "norm": 3.1681333333333335,
+    "ss_pow": -0.3854353517786562,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1265000,
+    "positive_total": 1111100,
+    "negative_total": 1265000,
+    "country_hits": 750000
+  },
+  "ITALY": {
+    "total_results": "1,000,000",
+    "positive": {
+      "recognizes": 248000,
+      "allows": 360000,
+      "issues": 357000,
+      "classifies": 97100
+    },
+    "negative": {
+      "does not allow": 377000,
+      "has forbidden": 256000,
+      "restricts": 330000,
+      "bans": 305000
+    },
+    "score_ratio": -0.16238170347003156,
+    "norm": 2.3301,
+    "ss_pow": -0.3783656072555205,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1268000,
+    "positive_total": 1062100,
+    "negative_total": 1268000,
+    "country_hits": 1000000
+  },
+  "JAMAICA": {
+    "total_results": "744,000",
+    "positive": {
+      "recognizes": 121000,
+      "allows": 168000,
+      "issues": 178000,
+      "classifies": 38700
+    },
+    "negative": {
+      "does not allow": 167000,
+      "has forbidden": 151000,
+      "restricts": 142000,
+      "bans": 158000
+    },
+    "score_ratio": -0.18171521035598706,
+    "norm": 1.5103494623655913,
+    "ss_pow": -0.27445347026481537,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 618000,
+    "positive_total": 505700,
+    "negative_total": 618000,
+    "country_hits": 744000
+  },
+  "JAPAN": {
+    "total_results": "2,110,000",
+    "positive": {
+      "recognizes": 367000,
+      "allows": 561000,
+      "issues": 543000,
+      "classifies": 116000
+    },
+    "negative": {
+      "does not allow": 519000,
+      "has forbidden": 370000,
+      "restricts": 384000,
+      "bans": 463000
+    },
+    "score_ratio": -0.0858294930875576,
+    "norm": 1.5748815165876777,
+    "ss_pow": -0.13517128224168432,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1736000,
+    "positive_total": 1587000,
+    "negative_total": 1736000,
+    "country_hits": 2110000
+  },
+  "JORDAN": {
+    "total_results": "644,000",
+    "positive": {
+      "recognizes": 261000,
+      "allows": 416000,
+      "issues": 368000,
+      "classifies": 98700
+    },
+    "negative": {
+      "does not allow": 359000,
+      "has forbidden": 279000,
+      "restricts": 303000,
+      "bans": 347000
+    },
+    "score_ratio": -0.11203416149068322,
+    "norm": 3.7759316770186335,
+    "ss_pow": -0.42303333928089193,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1288000,
+    "positive_total": 1143700,
+    "negative_total": 1288000,
+    "country_hits": 644000
+  },
+  "KAZAKHSTAN": {
+    "total_results": "1,110,000",
+    "positive": {
+      "recognizes": 91700,
+      "allows": 156000,
+      "issues": 131000,
+      "classifies": 25800
+    },
+    "negative": {
+      "does not allow": 151000,
+      "has forbidden": 106000,
+      "restricts": 125000,
+      "bans": 149000
+    },
+    "score_ratio": -0.2382297551789077,
+    "norm": 0.8427927927927928,
+    "ss_pow": -0.20077832069357493,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 531000,
+    "positive_total": 404500,
+    "negative_total": 531000,
+    "country_hits": 1110000
+  },
+  "KENYA": {
+    "total_results": "662,000",
+    "positive": {
+      "recognizes": 168000,
+      "allows": 245000,
+      "issues": 236000,
+      "classifies": 50700
+    },
+    "negative": {
+      "does not allow": 246000,
+      "has forbidden": 186000,
+      "restricts": 182000,
+      "bans": 224000
+    },
+    "score_ratio": -0.16503579952267303,
+    "norm": 2.322809667673716,
+    "ss_pow": -0.3833467506435262,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 838000,
+    "positive_total": 699700,
+    "negative_total": 838000,
+    "country_hits": 662000
+  },
+  "KIRIBATI": {
+    "total_results": "123,000",
+    "positive": {
+      "recognizes": 5220,
+      "allows": 7360,
+      "issues": 5100,
+      "classifies": 1420
+    },
+    "negative": {
+      "does not allow": 5830,
+      "has forbidden": 2850,
+      "restricts": 4410,
+      "bans": 4070
+    },
+    "score_ratio": 0.10157068062827225,
+    "norm": 0.2947967479674797,
+    "ss_pow": 0.029942706338058143,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 19100,
+    "positive_total": 19100,
+    "negative_total": 17160,
+    "country_hits": 123000
+  },
+  "SOUTH KOREA": {
+    "total_results": "5,160,000",
+    "positive": {
+      "recognizes": 367000,
+      "allows": 539000,
+      "issues": 500000,
+      "classifies": 111000
+    },
+    "negative": {
+      "does not allow": 487000,
+      "has forbidden": 400000,
+      "restricts": 404000,
+      "bans": 391000
+    },
+    "score_ratio": -0.0980975029726516,
+    "norm": 0.6199612403100775,
+    "ss_pow": -0.0608166496142466,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1682000,
+    "positive_total": 1517000,
+    "negative_total": 1682000,
+    "country_hits": 5160000
+  },
+  "KUWAIT": {
+    "total_results": "359,000",
+    "positive": {
+      "recognizes": 64800,
+      "allows": 118000,
+      "issues": 135000,
+      "classifies": 26400
+    },
+    "negative": {
+      "does not allow": 117000,
+      "has forbidden": 99300,
+      "restricts": 104000,
+      "bans": 111000
+    },
+    "score_ratio": -0.2019476002782286,
+    "norm": 2.16016713091922,
+    "ss_pow": -0.43624056828904256,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 431300,
+    "positive_total": 344200,
+    "negative_total": 431300,
+    "country_hits": 359000
+  },
+  "KYRGYZSTAN": {
+    "total_results": "562,000",
+    "positive": {
+      "recognizes": 51800,
+      "allows": 65000,
+      "issues": 57600,
+      "classifies": 13900
+    },
+    "negative": {
+      "does not allow": 65400,
+      "has forbidden": 47000,
+      "restricts": 51600,
+      "bans": 57300
+    },
+    "score_ratio": -0.149118843199277,
+    "norm": 0.7288256227758008,
+    "ss_pow": -0.10868163376232005,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 221300,
+    "positive_total": 188300,
+    "negative_total": 221300,
+    "country_hits": 562000
+  },
+  "LAOS": {
+    "total_results": "585,000",
+    "positive": {
+      "recognizes": 37800,
+      "allows": 94900,
+      "issues": 89900,
+      "classifies": 9720
+    },
+    "negative": {
+      "does not allow": 86600,
+      "has forbidden": 70500,
+      "restricts": 73000,
+      "bans": 98500
+    },
+    "score_ratio": -0.2930006086427267,
+    "norm": 0.9588376068376069,
+    "ss_pow": -0.2809400023929543,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 328600,
+    "positive_total": 232320,
+    "negative_total": 328600,
+    "country_hits": 585000
+  },
+  "LATVIA": {
+    "total_results": "630,000",
+    "positive": {
+      "recognizes": 39800,
+      "allows": 82000,
+      "issues": 81900,
+      "classifies": 12900
+    },
+    "negative": {
+      "does not allow": 81800,
+      "has forbidden": 73300,
+      "restricts": 76700,
+      "bans": 74300
+    },
+    "score_ratio": -0.29238810846128716,
+    "norm": 0.8296825396825397,
+    "ss_pow": -0.2425893084011346,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 306100,
+    "positive_total": 216600,
+    "negative_total": 306100,
+    "country_hits": 630000
+  },
+  "LEBANON": {
+    "total_results": "879,000",
+    "positive": {
+      "recognizes": 165000,
+      "allows": 247000,
+      "issues": 223000,
+      "classifies": 64800
+    },
+    "negative": {
+      "does not allow": 244000,
+      "has forbidden": 214000,
+      "restricts": 220000,
+      "bans": 227000
+    },
+    "score_ratio": -0.22674033149171272,
+    "norm": 1.8257110352673493,
+    "ss_pow": -0.4139623253445968,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 905000,
+    "positive_total": 699800,
+    "negative_total": 905000,
+    "country_hits": 879000
+  },
+  "LESOTHO": {
+    "total_results": "236,000",
+    "positive": {
+      "recognizes": 10600,
+      "allows": 19800,
+      "issues": 17700,
+      "classifies": 4020
+    },
+    "negative": {
+      "does not allow": 17100,
+      "has forbidden": 9870,
+      "restricts": 10900,
+      "bans": 12500
+    },
+    "score_ratio": 0.03357636224098235,
+    "norm": 0.43427966101694915,
+    "ss_pow": 0.014581531212196106,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 52120,
+    "positive_total": 52120,
+    "negative_total": 50370,
+    "country_hits": 236000
+  },
+  "LIBERIA": {
+    "total_results": "392,000",
+    "positive": {
+      "recognizes": 23000,
+      "allows": 62600,
+      "issues": 69000,
+      "classifies": 5930
+    },
+    "negative": {
+      "does not allow": 65400,
+      "has forbidden": 62300,
+      "restricts": 65100,
+      "bans": 64700
+    },
+    "score_ratio": -0.3765825242718447,
+    "norm": 1.0664030612244897,
+    "ss_pow": -0.4015887566871409,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 257500,
+    "positive_total": 160530,
+    "negative_total": 257500,
+    "country_hits": 392000
+  },
+  "LIBYA": {
+    "total_results": "1,050,000",
+    "positive": {
+      "recognizes": 128000,
+      "allows": 190000,
+      "issues": 173000,
+      "classifies": 39800
+    },
+    "negative": {
+      "does not allow": 181000,
+      "has forbidden": 150000,
+      "restricts": 154000,
+      "bans": 157000
+    },
+    "score_ratio": -0.17320872274143304,
+    "norm": 1.116952380952381,
+    "ss_pow": -0.19346589526776445,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 642000,
+    "positive_total": 530800,
+    "negative_total": 642000,
+    "country_hits": 1050000
+  },
+  "LIECHTENSTEIN": {
+    "total_results": "504,000",
+    "positive": {
+      "recognizes": 23400,
+      "allows": 66300,
+      "issues": 71400,
+      "classifies": 5220
+    },
+    "negative": {
+      "does not allow": 68400,
+      "has forbidden": 54500,
+      "restricts": 69700,
+      "bans": 62900
+    },
+    "score_ratio": -0.34904109589041094,
+    "norm": 0.8369444444444445,
+    "ss_pow": -0.29212800608828005,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 255500,
+    "positive_total": 166320,
+    "negative_total": 255500,
+    "country_hits": 504000
+  },
+  "LITHUANIA": {
+    "total_results": "818,000",
+    "positive": {
+      "recognizes": 80000,
+      "allows": 139000,
+      "issues": 147000,
+      "classifies": 29300
+    },
+    "negative": {
+      "does not allow": 154000,
+      "has forbidden": 119000,
+      "restricts": 130000,
+      "bans": 116000
+    },
+    "score_ratio": -0.23834296724470136,
+    "norm": 1.1177261613691931,
+    "ss_pow": -0.2664021698677634,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 519000,
+    "positive_total": 395300,
+    "negative_total": 519000,
+    "country_hits": 818000
+  },
+  "LUXEMBOURG": {
+    "total_results": "746,000",
+    "positive": {
+      "recognizes": 70600,
+      "allows": 133000,
+      "issues": 126000,
+      "classifies": 21800
+    },
+    "negative": {
+      "does not allow": 135000,
+      "has forbidden": 96700,
+      "restricts": 106000,
+      "bans": 106000
+    },
+    "score_ratio": -0.20802343926076178,
+    "norm": 1.065817694369973,
+    "ss_pow": -0.22171506240781727,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 443700,
+    "positive_total": 351400,
+    "negative_total": 443700,
+    "country_hits": 746000
+  },
+  "MADAGASCAR": {
+    "total_results": "433,000",
+    "positive": {
+      "recognizes": 33800,
+      "allows": 71400,
+      "issues": 85200,
+      "classifies": 9480
+    },
+    "negative": {
+      "does not allow": 77500,
+      "has forbidden": 67400,
+      "restricts": 78800,
+      "bans": 67300
+    },
+    "score_ratio": -0.313127147766323,
+    "norm": 1.1336720554272517,
+    "ss_pow": -0.3549834972183202,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 291000,
+    "positive_total": 199880,
+    "negative_total": 291000,
+    "country_hits": 433000
+  },
+  "MALAWI": {
+    "total_results": "498,000",
+    "positive": {
+      "recognizes": 29200,
+      "allows": 70000,
+      "issues": 70700,
+      "classifies": 8600
+    },
+    "negative": {
+      "does not allow": 77400,
+      "has forbidden": 78700,
+      "restricts": 63900,
+      "bans": 62400
+    },
+    "score_ratio": -0.36791784702549574,
+    "norm": 0.9255020080321286,
+    "ss_pow": -0.3405087062129538,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 282400,
+    "positive_total": 178500,
+    "negative_total": 282400,
+    "country_hits": 498000
+  },
+  "MALAYSIA": {
+    "total_results": "635,000",
+    "positive": {
+      "recognizes": 193000,
+      "allows": 326000,
+      "issues": 294000,
+      "classifies": 86200
+    },
+    "negative": {
+      "does not allow": 288000,
+      "has forbidden": 223000,
+      "restricts": 228000,
+      "bans": 251000
+    },
+    "score_ratio": -0.09171717171717171,
+    "norm": 2.9751181102362203,
+    "ss_pow": -0.2728694185954028,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 990000,
+    "positive_total": 899200,
+    "negative_total": 990000,
+    "country_hits": 635000
+  },
+  "MALDIVES": {
+    "total_results": "764,000",
+    "positive": {
+      "recognizes": 66400,
+      "allows": 136000,
+      "issues": 124000,
+      "classifies": 24800
+    },
+    "negative": {
+      "does not allow": 123000,
+      "has forbidden": 103000,
+      "restricts": 111000,
+      "bans": 132000
+    },
+    "score_ratio": -0.2511727078891258,
+    "norm": 1.0735602094240837,
+    "ss_pow": -0.26964902488306414,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 469000,
+    "positive_total": 351200,
+    "negative_total": 469000,
+    "country_hits": 764000
+  },
+  "MALI": {
+    "total_results": "703,000",
+    "positive": {
+      "recognizes": 99100,
+      "allows": 173000,
+      "issues": 161000,
+      "classifies": 33700
+    },
+    "negative": {
+      "does not allow": 141000,
+      "has forbidden": 154000,
+      "restricts": 140000,
+      "bans": 141000
+    },
+    "score_ratio": -0.18958333333333333,
+    "norm": 1.483357041251778,
+    "ss_pow": -0.2812197724039829,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 576000,
+    "positive_total": 466800,
+    "negative_total": 576000,
+    "country_hits": 703000
+  },
+  "MALTA": {
+    "total_results": "718,000",
+    "positive": {
+      "recognizes": 97900,
+      "allows": 141000,
+      "issues": 151000,
+      "classifies": 30100
+    },
+    "negative": {
+      "does not allow": 135000,
+      "has forbidden": 88700,
+      "restricts": 96600,
+      "bans": 90200
+    },
+    "score_ratio": 0.02261904761904762,
+    "norm": 1.1566852367688023,
+    "ss_pow": 0.02616311845072291,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 420000,
+    "positive_total": 420000,
+    "negative_total": 410500,
+    "country_hits": 718000
+  },
+  "MARSHALL ISLANDS": {
+    "total_results": "773,000",
+    "positive": {
+      "recognizes": 182000,
+      "allows": 219000,
+      "issues": 235000,
+      "classifies": 67100
+    },
+    "negative": {
+      "does not allow": 208000,
+      "has forbidden": 187000,
+      "restricts": 208000,
+      "bans": 236000
+    },
+    "score_ratio": -0.16197854588796187,
+    "norm": 1.994954721862872,
+    "ss_pow": -0.32313986495967145,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 839000,
+    "positive_total": 703100,
+    "negative_total": 839000,
+    "country_hits": 773000
+  },
+  "MAURITANIA": {
+    "total_results": "387,000",
+    "positive": {
+      "recognizes": 13900,
+      "allows": 15400,
+      "issues": 16400,
+      "classifies": 4180
+    },
+    "negative": {
+      "does not allow": 16200,
+      "has forbidden": 9940,
+      "restricts": 12500,
+      "bans": 11900
+    },
+    "score_ratio": -0.013058963197467353,
+    "norm": 0.25948320413436693,
+    "ss_pow": -0.003388581613151606,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 50540,
+    "positive_total": 49880,
+    "negative_total": 50540,
+    "country_hits": 387000
+  },
+  "MAURITIUS": {
+    "total_results": "600,000",
+    "positive": {
+      "recognizes": 60900,
+      "allows": 123000,
+      "issues": 118000,
+      "classifies": 21900
+    },
+    "negative": {
+      "does not allow": 118000,
+      "has forbidden": 99200,
+      "restricts": 99700,
+      "bans": 110000
+    },
+    "score_ratio": -0.24150855001171234,
+    "norm": 1.2511666666666668,
+    "ss_pow": -0.30216744748965413,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 426900,
+    "positive_total": 323800,
+    "negative_total": 426900,
+    "country_hits": 600000
+  },
+  "MEXICO": {
+    "total_results": "855,000",
+    "positive": {
+      "recognizes": 347000,
+      "allows": 388000,
+      "issues": 427000,
+      "classifies": 94300
+    },
+    "negative": {
+      "does not allow": 448000,
+      "has forbidden": 358000,
+      "restricts": 331000,
+      "bans": 380000
+    },
+    "score_ratio": -0.17185234014502307,
+    "norm": 3.243625730994152,
+    "ss_pow": -0.5574246724259562,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1517000,
+    "positive_total": 1256300,
+    "negative_total": 1517000,
+    "country_hits": 855000
+  },
+  "MICRONESIA": {
+    "total_results": "245,000",
+    "positive": {
+      "recognizes": 5720,
+      "allows": 7360,
+      "issues": 8320,
+      "classifies": 2380
+    },
+    "negative": {
+      "does not allow": 7310,
+      "has forbidden": 3580,
+      "restricts": 4420,
+      "bans": 3680
+    },
+    "score_ratio": 0.20142977291841885,
+    "norm": 0.17457142857142857,
+    "ss_pow": 0.035163883215186834,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 23780,
+    "positive_total": 23780,
+    "negative_total": 18990,
+    "country_hits": 245000
+  },
+  "MOLDOVA": {
+    "total_results": "311,000",
+    "positive": {
+      "recognizes": 25300,
+      "allows": 28000,
+      "issues": 25200,
+      "classifies": 6770
+    },
+    "negative": {
+      "does not allow": 25800,
+      "has forbidden": 23200,
+      "restricts": 22200,
+      "bans": 18700
+    },
+    "score_ratio": -0.05150166852057842,
+    "norm": 0.5632475884244373,
+    "ss_pow": -0.029008190594050555,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 89900,
+    "positive_total": 85270,
+    "negative_total": 89900,
+    "country_hits": 311000
+  },
+  "MONACO": {
+    "total_results": "672,000",
+    "positive": {
+      "recognizes": 113000,
+      "allows": 169000,
+      "issues": 166000,
+      "classifies": 35000
+    },
+    "negative": {
+      "does not allow": 161000,
+      "has forbidden": 156000,
+      "restricts": 145000,
+      "bans": 141000
+    },
+    "score_ratio": -0.19900497512437812,
+    "norm": 1.6160714285714286,
+    "ss_pow": -0.32160625444207536,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 603000,
+    "positive_total": 483000,
+    "negative_total": 603000,
+    "country_hits": 672000
+  },
+  "MONGOLIA": {
+    "total_results": "634,000",
+    "positive": {
+      "recognizes": 57300,
+      "allows": 97100,
+      "issues": 99400,
+      "classifies": 18400
+    },
+    "negative": {
+      "does not allow": 111000,
+      "has forbidden": 94700,
+      "restricts": 95800,
+      "bans": 87400
+    },
+    "score_ratio": -0.3000771406531242,
+    "norm": 1.042744479495268,
+    "ss_pow": -0.3129037818387703,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 388900,
+    "positive_total": 272200,
+    "negative_total": 388900,
+    "country_hits": 634000
+  },
+  "MONTENEGRO": {
+    "total_results": "419,000",
+    "positive": {
+      "recognizes": 30200,
+      "allows": 75400,
+      "issues": 75100,
+      "classifies": 11300
+    },
+    "negative": {
+      "does not allow": 89300,
+      "has forbidden": 70700,
+      "restricts": 72000,
+      "bans": 75800
+    },
+    "score_ratio": -0.3762183235867446,
+    "norm": 1.1928400954653937,
+    "ss_pow": -0.4487683010230428,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 307800,
+    "positive_total": 192000,
+    "negative_total": 307800,
+    "country_hits": 419000
+  },
+  "MOROCCO": {
+    "total_results": "1,170,000",
+    "positive": {
+      "recognizes": 117000,
+      "allows": 163000,
+      "issues": 165000,
+      "classifies": 35600
+    },
+    "negative": {
+      "does not allow": 174000,
+      "has forbidden": 150000,
+      "restricts": 141000,
+      "bans": 159000
+    },
+    "score_ratio": -0.2298076923076923,
+    "norm": 0.9441025641025641,
+    "ss_pow": -0.2169620315581854,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 624000,
+    "positive_total": 480600,
+    "negative_total": 624000,
+    "country_hits": 1170000
+  },
+  "MOZAMBIQUE": {
+    "total_results": "599,000",
+    "positive": {
+      "recognizes": 64100,
+      "allows": 121000,
+      "issues": 117000,
+      "classifies": 24100
+    },
+    "negative": {
+      "does not allow": 118000,
+      "has forbidden": 107000,
+      "restricts": 105000,
+      "bans": 106000
+    },
+    "score_ratio": -0.2518348623853211,
+    "norm": 1.2724540901502503,
+    "ss_pow": -0.32044830068462726,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 436000,
+    "positive_total": 326200,
+    "negative_total": 436000,
+    "country_hits": 599000
+  },
+  "MYANMAR": {
+    "total_results": "1,200,000",
+    "positive": {
+      "recognizes": 189000,
+      "allows": 302000,
+      "issues": 251000,
+      "classifies": 59200
+    },
+    "negative": {
+      "does not allow": 254000,
+      "has forbidden": 249000,
+      "restricts": 230000,
+      "bans": 248000
+    },
+    "score_ratio": -0.1832823649337411,
+    "norm": 1.4851666666666667,
+    "ss_pow": -0.2722048589874278,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 981000,
+    "positive_total": 801200,
+    "negative_total": 981000,
+    "country_hits": 1200000
+  },
+  "NAMIBIA": {
+    "total_results": "584,000",
+    "positive": {
+      "recognizes": 52200,
+      "allows": 102000,
+      "issues": 102000,
+      "classifies": 12300
+    },
+    "negative": {
+      "does not allow": 102000,
+      "has forbidden": 90100,
+      "restricts": 99900,
+      "bans": 94300
+    },
+    "score_ratio": -0.3049443437742687,
+    "norm": 1.1212328767123287,
+    "ss_pow": -0.3419136238071766,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 386300,
+    "positive_total": 268500,
+    "negative_total": 386300,
+    "country_hits": 584000
+  },
+  "NAURU": {
+    "total_results": "113,000",
+    "positive": {
+      "recognizes": 2450,
+      "allows": 4290,
+      "issues": 5110,
+      "classifies": 1330
+    },
+    "negative": {
+      "does not allow": 4070,
+      "has forbidden": 2440,
+      "restricts": 2680,
+      "bans": 2220
+    },
+    "score_ratio": 0.13429438543247343,
+    "norm": 0.21761061946902654,
+    "ss_pow": 0.02922388440517276,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 13180,
+    "positive_total": 13180,
+    "negative_total": 11410,
+    "country_hits": 113000
+  },
+  "NEPAL": {
+    "total_results": "936,000",
+    "positive": {
+      "recognizes": 85600,
+      "allows": 154000,
+      "issues": 176000,
+      "classifies": 38400
+    },
+    "negative": {
+      "does not allow": 154000,
+      "has forbidden": 140000,
+      "restricts": 130000,
+      "bans": 157000
+    },
+    "score_ratio": -0.21858864027538727,
+    "norm": 1.1057692307692308,
+    "ss_pow": -0.2417085926122071,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 581000,
+    "positive_total": 454000,
+    "negative_total": 581000,
+    "country_hits": 936000
+  },
+  "NETHERLANDS": {
+    "total_results": "677,000",
+    "positive": {
+      "recognizes": 191000,
+      "allows": 302000,
+      "issues": 262000,
+      "classifies": 63000
+    },
+    "negative": {
+      "does not allow": 316000,
+      "has forbidden": 192000,
+      "restricts": 222000,
+      "bans": 219000
+    },
+    "score_ratio": -0.1380400421496312,
+    "norm": 2.610044313146233,
+    "ss_pow": -0.36029062699911124,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 949000,
+    "positive_total": 818000,
+    "negative_total": 949000,
+    "country_hits": 677000
+  },
+  "NEW ZEALAND": {
+    "total_results": "4,920,000",
+    "positive": {
+      "recognizes": 254000,
+      "allows": 391000,
+      "issues": 406000,
+      "classifies": 112000
+    },
+    "negative": {
+      "does not allow": 440000,
+      "has forbidden": 269000,
+      "restricts": 325000,
+      "bans": 289000
+    },
+    "score_ratio": -0.12093726379440665,
+    "norm": 0.5052845528455284,
+    "ss_pow": -0.06110773125871848,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1323000,
+    "positive_total": 1163000,
+    "negative_total": 1323000,
+    "country_hits": 4920000
+  },
+  "NICARAGUA": {
+    "total_results": "600,000",
+    "positive": {
+      "recognizes": 79500,
+      "allows": 136000,
+      "issues": 136000,
+      "classifies": 29200
+    },
+    "negative": {
+      "does not allow": 138000,
+      "has forbidden": 114000,
+      "restricts": 112000,
+      "bans": 124000
+    },
+    "score_ratio": -0.21987704918032788,
+    "norm": 1.4478333333333333,
+    "ss_pow": -0.31834532103825136,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 488000,
+    "positive_total": 380700,
+    "negative_total": 488000,
+    "country_hits": 600000
+  },
+  "NIGER": {
+    "total_results": "554,000",
+    "positive": {
+      "recognizes": 41500,
+      "allows": 86700,
+      "issues": 90200,
+      "classifies": 16200
+    },
+    "negative": {
+      "does not allow": 82500,
+      "has forbidden": 92900,
+      "restricts": 80500,
+      "bans": 85600
+    },
+    "score_ratio": -0.31303074670571013,
+    "norm": 1.0398916967509024,
+    "ss_pow": -0.32551807432700286,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 341500,
+    "positive_total": 234600,
+    "negative_total": 341500,
+    "country_hits": 554000
+  },
+  "NIGERIA": {
+    "total_results": "1,100,000",
+    "positive": {
+      "recognizes": 235000,
+      "allows": 387000,
+      "issues": 357000,
+      "classifies": 74300
+    },
+    "negative": {
+      "does not allow": 351000,
+      "has forbidden": 253000,
+      "restricts": 273000,
+      "bans": 312000
+    },
+    "score_ratio": -0.11412952060555089,
+    "norm": 2.0384545454545453,
+    "ss_pow": -0.23264784004893338,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1189000,
+    "positive_total": 1053300,
+    "negative_total": 1189000,
+    "country_hits": 1100000
+  },
+  "NORTH MACEDONIA": {
+    "total_results": "447,000",
+    "positive": {
+      "recognizes": 75700,
+      "allows": 110000,
+      "issues": 112000,
+      "classifies": 23500
+    },
+    "negative": {
+      "does not allow": 110000,
+      "has forbidden": 95800,
+      "restricts": 121000,
+      "bans": 103000
+    },
+    "score_ratio": -0.2526756630991159,
+    "norm": 1.680089485458613,
+    "ss_pow": -0.42451772480410743,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 429800,
+    "positive_total": 321200,
+    "negative_total": 429800,
+    "country_hits": 447000
+  },
+  "NORWAY": {
+    "total_results": "635,000",
+    "positive": {
+      "recognizes": 172000,
+      "allows": 225000,
+      "issues": 238000,
+      "classifies": 58400
+    },
+    "negative": {
+      "does not allow": 258000,
+      "has forbidden": 192000,
+      "restricts": 190000,
+      "bans": 192000
+    },
+    "score_ratio": -0.16658653846153845,
+    "norm": 2.4022047244094487,
+    "ss_pow": -0.400174969715324,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 832000,
+    "positive_total": 693400,
+    "negative_total": 832000,
+    "country_hits": 635000
+  },
+  "OMAN": {
+    "total_results": "254,000",
+    "positive": {
+      "recognizes": 55500,
+      "allows": 112000,
+      "issues": 119000,
+      "classifies": 22300
+    },
+    "negative": {
+      "does not allow": 117000,
+      "has forbidden": 99600,
+      "restricts": 93300,
+      "bans": 94700
+    },
+    "score_ratio": -0.23677706376668314,
+    "norm": 2.808661417322835,
+    "ss_pow": -0.6650266035084715,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 404600,
+    "positive_total": 308800,
+    "negative_total": 404600,
+    "country_hits": 254000
+  },
+  "PAKISTAN": {
+    "total_results": "720,000",
+    "positive": {
+      "recognizes": 290000,
+      "allows": 401000,
+      "issues": 364000,
+      "classifies": 94700
+    },
+    "negative": {
+      "does not allow": 365000,
+      "has forbidden": 284000,
+      "restricts": 280000,
+      "bans": 389000
+    },
+    "score_ratio": -0.12769347496206374,
+    "norm": 3.4273611111111113,
+    "ss_pow": -0.43765165022761765,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1318000,
+    "positive_total": 1149700,
+    "negative_total": 1318000,
+    "country_hits": 720000
+  },
+  "PANAMA": {
+    "total_results": "831,000",
+    "positive": {
+      "recognizes": 93300,
+      "allows": 168000,
+      "issues": 164000,
+      "classifies": 27400
+    },
+    "negative": {
+      "does not allow": 149000,
+      "has forbidden": 119000,
+      "restricts": 141000,
+      "bans": 130000
+    },
+    "score_ratio": -0.1601113172541744,
+    "norm": 1.19338146811071,
+    "ss_pow": -0.1910738788459263,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 539000,
+    "positive_total": 452700,
+    "negative_total": 539000,
+    "country_hits": 831000
+  },
+  "PAPUA NEW GUINEA": {
+    "total_results": "606,000",
+    "positive": {
+      "recognizes": 36500,
+      "allows": 98300,
+      "issues": 82200,
+      "classifies": 9700
+    },
+    "negative": {
+      "does not allow": 78500,
+      "has forbidden": 65600,
+      "restricts": 73500,
+      "bans": 74300
+    },
+    "score_ratio": -0.223364165810209,
+    "norm": 0.8557755775577558,
+    "ss_pow": -0.19114959800193793,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 291900,
+    "positive_total": 226700,
+    "negative_total": 291900,
+    "country_hits": 606000
+  },
+  "PARAGUAY": {
+    "total_results": "804,000",
+    "positive": {
+      "recognizes": 62200,
+      "allows": 118000,
+      "issues": 107000,
+      "classifies": 20700
+    },
+    "negative": {
+      "does not allow": 118000,
+      "has forbidden": 93500,
+      "restricts": 101000,
+      "bans": 138000
+    },
+    "score_ratio": -0.3165371809100999,
+    "norm": 0.9432835820895522,
+    "ss_pow": -0.29858432587340766,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 450500,
+    "positive_total": 307900,
+    "negative_total": 450500,
+    "country_hits": 804000
+  },
+  "PERU": {
+    "total_results": "979,000",
+    "positive": {
+      "recognizes": 153000,
+      "allows": 219000,
+      "issues": 182000,
+      "classifies": 54100
+    },
+    "negative": {
+      "does not allow": 193000,
+      "has forbidden": 180000,
+      "restricts": 197000,
+      "bans": 177000
+    },
+    "score_ratio": -0.1859437751004016,
+    "norm": 1.384167517875383,
+    "ss_pow": -0.25737733364510135,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 747000,
+    "positive_total": 608100,
+    "negative_total": 747000,
+    "country_hits": 979000
+  },
+  "PHILIPPINES": {
+    "total_results": "537,000",
+    "positive": {
+      "recognizes": 199000,
+      "allows": 368000,
+      "issues": 293000,
+      "classifies": 83500
+    },
+    "negative": {
+      "does not allow": 302000,
+      "has forbidden": 224000,
+      "restricts": 236000,
+      "bans": 252000
+    },
+    "score_ratio": -0.0695266272189349,
+    "norm": 3.6452513966480447,
+    "ss_pow": -0.25344203497405043,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1014000,
+    "positive_total": 943500,
+    "negative_total": 1014000,
+    "country_hits": 537000
+  },
+  "POLAND": {
+    "total_results": "708,000",
+    "positive": {
+      "recognizes": 191000,
+      "allows": 270000,
+      "issues": 296000,
+      "classifies": 74400
+    },
+    "negative": {
+      "does not allow": 267000,
+      "has forbidden": 233000,
+      "restricts": 235000,
+      "bans": 317000
+    },
+    "score_ratio": -0.2096958174904943,
+    "norm": 2.6601694915254237,
+    "ss_pow": -0.5578264161886962,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1052000,
+    "positive_total": 831400,
+    "negative_total": 1052000,
+    "country_hits": 708000
+  },
+  "PORTUGAL": {
+    "total_results": "677,000",
+    "positive": {
+      "recognizes": 220000,
+      "allows": 247000,
+      "issues": 262000,
+      "classifies": 69500
+    },
+    "negative": {
+      "does not allow": 264000,
+      "has forbidden": 222000,
+      "restricts": 234000,
+      "bans": 229000
+    },
+    "score_ratio": -0.15858798735511065,
+    "norm": 2.581240768094535,
+    "ss_pow": -0.40935377829107217,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 949000,
+    "positive_total": 798500,
+    "negative_total": 949000,
+    "country_hits": 677000
+  },
+  "QATAR": {
+    "total_results": "2,320,000",
+    "positive": {
+      "recognizes": 154000,
+      "allows": 246000,
+      "issues": 236000,
+      "classifies": 73200
+    },
+    "negative": {
+      "does not allow": 241000,
+      "has forbidden": 195000,
+      "restricts": 211000,
+      "bans": 220000
+    },
+    "score_ratio": -0.18200692041522493,
+    "norm": 0.6793965517241379,
+    "ss_pow": -0.12365487412003341,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 867000,
+    "positive_total": 709200,
+    "negative_total": 867000,
+    "country_hits": 2320000
+  },
+  "ROMANIA": {
+    "total_results": "1,520,000",
+    "positive": {
+      "recognizes": 80500,
+      "allows": 130000,
+      "issues": 127000,
+      "classifies": 34100
+    },
+    "negative": {
+      "does not allow": 126000,
+      "has forbidden": 108000,
+      "restricts": 113000,
+      "bans": 111000
+    },
+    "score_ratio": -0.188646288209607,
+    "norm": 0.5457894736842105,
+    "ss_pow": -0.10296115835440128,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 458000,
+    "positive_total": 371600,
+    "negative_total": 458000,
+    "country_hits": 1520000
+  },
+  "RUSSIA": {
+    "total_results": "3,070,000",
+    "positive": {
+      "recognizes": 339000,
+      "allows": 577000,
+      "issues": 469000,
+      "classifies": 103000
+    },
+    "negative": {
+      "does not allow": 483000,
+      "has forbidden": 395000,
+      "restricts": 391000,
+      "bans": 415000
+    },
+    "score_ratio": -0.1163895486935867,
+    "norm": 1.0332247557003258,
+    "ss_pow": -0.12025656301500229,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1684000,
+    "positive_total": 1488000,
+    "negative_total": 1684000,
+    "country_hits": 3070000
+  },
+  "RWANDA": {
+    "total_results": "607,000",
+    "positive": {
+      "recognizes": 56300,
+      "allows": 109000,
+      "issues": 103000,
+      "classifies": 20800
+    },
+    "negative": {
+      "does not allow": 100000,
+      "has forbidden": 98200,
+      "restricts": 102000,
+      "bans": 91300
+    },
+    "score_ratio": -0.26155810983397193,
+    "norm": 1.1212520593080726,
+    "ss_pow": -0.29327256928006806,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 391500,
+    "positive_total": 289100,
+    "negative_total": 391500,
+    "country_hits": 607000
+  },
+  "SAINT KITTS AND NEVIS": {
+    "total_results": "332,000",
+    "positive": {
+      "recognizes": 7600,
+      "allows": 11300,
+      "issues": 11300,
+      "classifies": 2770
+    },
+    "negative": {
+      "does not allow": 11900,
+      "has forbidden": 6430,
+      "restricts": 7250,
+      "bans": 6530
+    },
+    "score_ratio": 0.026084319077949652,
+    "norm": 0.19602409638554216,
+    "ss_pow": 0.005113155077087239,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 32970,
+    "positive_total": 32970,
+    "negative_total": 32110,
+    "country_hits": 332000
+  },
+  "SAINT LUCIA": {
+    "total_results": "515,000",
+    "positive": {
+      "recognizes": 37500,
+      "allows": 80100,
+      "issues": 93300,
+      "classifies": 12600
+    },
+    "negative": {
+      "does not allow": 80200,
+      "has forbidden": 73700,
+      "restricts": 74700,
+      "bans": 72700
+    },
+    "score_ratio": -0.25821440424825753,
+    "norm": 1.0190291262135922,
+    "ss_pow": -0.26312799873686515,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 301300,
+    "positive_total": 223500,
+    "negative_total": 301300,
+    "country_hits": 515000
+  },
+  "SAINT VINCENT AND THE GRENADINES": {
+    "total_results": "360,000",
+    "positive": {
+      "recognizes": 5580,
+      "allows": 8850,
+      "issues": 7530,
+      "classifies": 1890
+    },
+    "negative": {
+      "does not allow": 8690,
+      "has forbidden": 2920,
+      "restricts": 4030,
+      "bans": 3790
+    },
+    "score_ratio": 0.18532494758909854,
+    "norm": 0.12022222222222222,
+    "ss_pow": 0.02228017703237829,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 23850,
+    "positive_total": 23850,
+    "negative_total": 19430,
+    "country_hits": 360000
+  },
+  "SAMOA": {
+    "total_results": "549,000",
+    "positive": {
+      "recognizes": 34700,
+      "allows": 62800,
+      "issues": 55900,
+      "classifies": 10700
+    },
+    "negative": {
+      "does not allow": 66400,
+      "has forbidden": 54600,
+      "restricts": 53700,
+      "bans": 64400
+    },
+    "score_ratio": -0.3136762860727729,
+    "norm": 0.7344262295081967,
+    "ss_pow": -0.2303720920665611,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 239100,
+    "positive_total": 164100,
+    "negative_total": 239100,
+    "country_hits": 549000
+  },
+  "SAN MARINO": {
+    "total_results": "422,000",
+    "positive": {
+      "recognizes": 90800,
+      "allows": 149000,
+      "issues": 156000,
+      "classifies": 39600
+    },
+    "negative": {
+      "does not allow": 157000,
+      "has forbidden": 140000,
+      "restricts": 163000,
+      "bans": 164000
+    },
+    "score_ratio": -0.3022435897435897,
+    "norm": 2.51042654028436,
+    "ss_pow": -0.7587603293231255,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 624000,
+    "positive_total": 435400,
+    "negative_total": 624000,
+    "country_hits": 422000
+  },
+  "SAO TOME AND PRINCIPE": {
+    "total_results": "288,000",
+    "positive": {
+      "recognizes": 4720,
+      "allows": 6450,
+      "issues": 8210,
+      "classifies": 1920
+    },
+    "negative": {
+      "does not allow": 6410,
+      "has forbidden": 3960,
+      "restricts": 6000,
+      "bans": 4350
+    },
+    "score_ratio": 0.027230046948356807,
+    "norm": 0.14590277777777777,
+    "ss_pow": 0.003972939488784559,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 21300,
+    "positive_total": 21300,
+    "negative_total": 20720,
+    "country_hits": 288000
+  },
+  "SAUDI ARABIA": {
+    "total_results": "4,180,000",
+    "positive": {
+      "recognizes": 205000,
+      "allows": 343000,
+      "issues": 310000,
+      "classifies": 79100
+    },
+    "negative": {
+      "does not allow": 292000,
+      "has forbidden": 292000,
+      "restricts": 286000,
+      "bans": 287000
+    },
+    "score_ratio": -0.19006050129645635,
+    "norm": 0.5009808612440192,
+    "ss_pow": -0.09521667362796873,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1157000,
+    "positive_total": 937100,
+    "negative_total": 1157000,
+    "country_hits": 4180000
+  },
+  "SENEGAL": {
+    "total_results": "436,000",
+    "positive": {
+      "recognizes": 5,
+      "allows": 71000,
+      "issues": 78500,
+      "classifies": 19100
+    },
+    "negative": {
+      "does not allow": 70200,
+      "has forbidden": 73000,
+      "restricts": 65300,
+      "bans": 64900
+    },
+    "score_ratio": -0.383302852962692,
+    "norm": 1.0137729357798164,
+    "ss_pow": -0.3885820585407676,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 273400,
+    "positive_total": 168605,
+    "negative_total": 273400,
+    "country_hits": 436000
+  },
+  "SERBIA": {
+    "total_results": "933,000",
+    "positive": {
+      "recognizes": 95700,
+      "allows": 150000,
+      "issues": 151000,
+      "classifies": 30100
+    },
+    "negative": {
+      "does not allow": 160000,
+      "has forbidden": 147000,
+      "restricts": 138000,
+      "bans": 156000
+    },
+    "score_ratio": -0.2898502495840266,
+    "norm": 1.1016077170418006,
+    "ss_pow": -0.3193012717282557,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 601000,
+    "positive_total": 426800,
+    "negative_total": 601000,
+    "country_hits": 933000
+  },
+  "SEYCHELLES": {
+    "total_results": "518,000",
+    "positive": {
+      "recognizes": 35300,
+      "allows": 42700,
+      "issues": 42800,
+      "classifies": 7070
+    },
+    "negative": {
+      "does not allow": 42100,
+      "has forbidden": 31400,
+      "restricts": 37400,
+      "bans": 34000
+    },
+    "score_ratio": -0.11752933057280883,
+    "norm": 0.5265830115830116,
+    "ss_pow": -0.06188894884236499,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 144900,
+    "positive_total": 127870,
+    "negative_total": 144900,
+    "country_hits": 518000
+  },
+  "SIERRA LEONE": {
+    "total_results": "479,000",
+    "positive": {
+      "recognizes": 45600,
+      "allows": 102000,
+      "issues": 95700,
+      "classifies": 15500
+    },
+    "negative": {
+      "does not allow": 101000,
+      "has forbidden": 90900,
+      "restricts": 89300,
+      "bans": 87800
+    },
+    "score_ratio": -0.2986449864498645,
+    "norm": 1.3106471816283924,
+    "ss_pow": -0.3914182097979643,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 369000,
+    "positive_total": 258800,
+    "negative_total": 369000,
+    "country_hits": 479000
+  },
+  "SINGAPORE": {
+    "total_results": "2,260,000",
+    "positive": {
+      "recognizes": 352000,
+      "allows": 444000,
+      "issues": 434000,
+      "classifies": 93900
+    },
+    "negative": {
+      "does not allow": 469000,
+      "has forbidden": 282000,
+      "restricts": 354000,
+      "bans": 363000
+    },
+    "score_ratio": -0.0981607629427793,
+    "norm": 1.235353982300885,
+    "ss_pow": -0.12126328940705554,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1468000,
+    "positive_total": 1323900,
+    "negative_total": 1468000,
+    "country_hits": 2260000
+  },
+  "SLOVAKIA": {
+    "total_results": "546,000",
+    "positive": {
+      "recognizes": 61400,
+      "allows": 79700,
+      "issues": 81400,
+      "classifies": 31200
+    },
+    "negative": {
+      "does not allow": 76100,
+      "has forbidden": 72400,
+      "restricts": 65000,
+      "bans": 67000
+    },
+    "score_ratio": -0.09554367201426026,
+    "norm": 0.9783882783882784,
+    "ss_pow": -0.09347880877292643,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 280500,
+    "positive_total": 253700,
+    "negative_total": 280500,
+    "country_hits": 546000
+  },
+  "SLOVENIA": {
+    "total_results": "594,000",
+    "positive": {
+      "recognizes": 55200,
+      "allows": 122000,
+      "issues": 108000,
+      "classifies": 15500
+    },
+    "negative": {
+      "does not allow": 106000,
+      "has forbidden": 89100,
+      "restricts": 93500,
+      "bans": 94600
+    },
+    "score_ratio": -0.21529227557411273,
+    "norm": 1.1513468013468013,
+    "ss_pow": -0.24787607283692878,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 383200,
+    "positive_total": 300700,
+    "negative_total": 383200,
+    "country_hits": 594000
+  },
+  "SOLOMON ISLANDS": {
+    "total_results": "704,000",
+    "positive": {
+      "recognizes": 124000,
+      "allows": 145000,
+      "issues": 133000,
+      "classifies": 39000
+    },
+    "negative": {
+      "does not allow": 152000,
+      "has forbidden": 134000,
+      "restricts": 129000,
+      "bans": 131000
+    },
+    "score_ratio": -0.19230769230769232,
+    "norm": 1.4019886363636365,
+    "ss_pow": -0.2696131993006993,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 546000,
+    "positive_total": 441000,
+    "negative_total": 546000,
+    "country_hits": 704000
+  },
+  "SOMALIA": {
+    "total_results": "656,000",
+    "positive": {
+      "recognizes": 68300,
+      "allows": 78100,
+      "issues": 82200,
+      "classifies": 25800
+    },
+    "negative": {
+      "does not allow": 91100,
+      "has forbidden": 70100,
+      "restricts": 74200,
+      "bans": 72600
+    },
+    "score_ratio": -0.17402597402597403,
+    "norm": 0.8573170731707317,
+    "ss_pow": -0.14919543870763383,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 308000,
+    "positive_total": 254400,
+    "negative_total": 308000,
+    "country_hits": 656000
+  },
+  "SOUTH AFRICA": {
+    "total_results": "11,000,000",
+    "positive": {
+      "recognizes": 359000,
+      "allows": 451000,
+      "issues": 479000,
+      "classifies": 114000
+    },
+    "negative": {
+      "does not allow": 570000,
+      "has forbidden": 376000,
+      "restricts": 392000,
+      "bans": 393000
+    },
+    "score_ratio": -0.18948584633160023,
+    "norm": 0.2849090909090909,
+    "ss_pow": -0.053986240218475916,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1731000,
+    "positive_total": 1403000,
+    "negative_total": 1731000,
+    "country_hits": 11000000
+  },
+  "SPAIN": {
+    "total_results": "807,000",
+    "positive": {
+      "recognizes": 275000,
+      "allows": 369000,
+      "issues": 339000,
+      "classifies": 87600
+    },
+    "negative": {
+      "does not allow": 384000,
+      "has forbidden": 288000,
+      "restricts": 337000,
+      "bans": 308000
+    },
+    "score_ratio": -0.1870918754745634,
+    "norm": 2.9586121437422555,
+    "ss_pow": -0.5535322947745571,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1317000,
+    "positive_total": 1070600,
+    "negative_total": 1317000,
+    "country_hits": 807000
+  },
+  "SRI LANKA": {
+    "total_results": "1,350,000",
+    "positive": {
+      "recognizes": 127000,
+      "allows": 198000,
+      "issues": 209000,
+      "classifies": 43900
+    },
+    "negative": {
+      "does not allow": 197000,
+      "has forbidden": 155000,
+      "restricts": 208000,
+      "bans": 191000
+    },
+    "score_ratio": -0.23049267643142476,
+    "norm": 0.9843703703703703,
+    "ss_pow": -0.22689016126645953,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 751000,
+    "positive_total": 577900,
+    "negative_total": 751000,
+    "country_hits": 1350000
+  },
+  "SUDAN": {
+    "total_results": "1,060,000",
+    "positive": {
+      "recognizes": 141000,
+      "allows": 174000,
+      "issues": 185000,
+      "classifies": 51800
+    },
+    "negative": {
+      "does not allow": 188000,
+      "has forbidden": 184000,
+      "restricts": 161000,
+      "bans": 163000
+    },
+    "score_ratio": -0.207183908045977,
+    "norm": 1.1771698113207547,
+    "ss_pow": -0.24389064194317933,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 696000,
+    "positive_total": 551800,
+    "negative_total": 696000,
+    "country_hits": 1060000
+  },
+  "SOUTH SUDAN": {
+    "total_results": "932,000",
+    "positive": {
+      "recognizes": 155000,
+      "allows": 200000,
+      "issues": 202000,
+      "classifies": 52600
+    },
+    "negative": {
+      "does not allow": 207000,
+      "has forbidden": 184000,
+      "restricts": 187000,
+      "bans": 177000
+    },
+    "score_ratio": -0.19258278145695365,
+    "norm": 1.4641630901287555,
+    "ss_pow": -0.28197260040360406,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 755000,
+    "positive_total": 609600,
+    "negative_total": 755000,
+    "country_hits": 932000
+  },
+  "SURINAME": {
+    "total_results": "215,000",
+    "positive": {
+      "recognizes": 9000,
+      "allows": 12000,
+      "issues": 10700,
+      "classifies": 3550
+    },
+    "negative": {
+      "does not allow": 12600,
+      "has forbidden": 7900,
+      "restricts": 10300,
+      "bans": 8990
+    },
+    "score_ratio": -0.11409901985423473,
+    "norm": 0.3490232558139535,
+    "ss_pow": -0.039823211394705925,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 39790,
+    "positive_total": 35250,
+    "negative_total": 39790,
+    "country_hits": 215000
+  },
+  "SWEDEN": {
+    "total_results": "664,000",
+    "positive": {
+      "recognizes": 218000,
+      "allows": 254000,
+      "issues": 269000,
+      "classifies": 74000
+    },
+    "negative": {
+      "does not allow": 232000,
+      "has forbidden": 183000,
+      "restricts": 192000,
+      "bans": 196000
+    },
+    "score_ratio": 0.014723926380368098,
+    "norm": 2.4367469879518073,
+    "ss_pow": 0.03587848325818612,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 815000,
+    "positive_total": 815000,
+    "negative_total": 803000,
+    "country_hits": 664000
+  },
+  "SWITZERLAND": {
+    "total_results": "750,000",
+    "positive": {
+      "recognizes": 204000,
+      "allows": 342000,
+      "issues": 327000,
+      "classifies": 72500
+    },
+    "negative": {
+      "does not allow": 356000,
+      "has forbidden": 247000,
+      "restricts": 239000,
+      "bans": 283000
+    },
+    "score_ratio": -0.15955555555555556,
+    "norm": 2.760666666666667,
+    "ss_pow": -0.44047970370370376,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1125000,
+    "positive_total": 945500,
+    "negative_total": 1125000,
+    "country_hits": 750000
+  },
+  "SYRIA": {
+    "total_results": "1,210,000",
+    "positive": {
+      "recognizes": 166000,
+      "allows": 198000,
+      "issues": 189000,
+      "classifies": 64600
+    },
+    "negative": {
+      "does not allow": 216000,
+      "has forbidden": 160000,
+      "restricts": 168000,
+      "bans": 161000
+    },
+    "score_ratio": -0.12397163120567375,
+    "norm": 1.0930578512396694,
+    "ss_pow": -0.1355081648203505,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 705000,
+    "positive_total": 617600,
+    "negative_total": 705000,
+    "country_hits": 1210000
+  },
+  "TAIWAN": {
+    "total_results": "761,000",
+    "positive": {
+      "recognizes": 261000,
+      "allows": 369000,
+      "issues": 337000,
+      "classifies": 78700
+    },
+    "negative": {
+      "does not allow": 332000,
+      "has forbidden": 288000,
+      "restricts": 249000,
+      "bans": 269000
+    },
+    "score_ratio": -0.08110720562390158,
+    "norm": 2.869513797634691,
+    "ss_pow": -0.23273824562537962,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1138000,
+    "positive_total": 1045700,
+    "negative_total": 1138000,
+    "country_hits": 761000
+  },
+  "TAJIKISTAN": {
+    "total_results": "254,000",
+    "positive": {
+      "recognizes": 20500,
+      "allows": 60700,
+      "issues": 59700,
+      "classifies": 5670
+    },
+    "negative": {
+      "does not allow": 62900,
+      "has forbidden": 58400,
+      "restricts": 65800,
+      "bans": 53700
+    },
+    "score_ratio": -0.39132059800664454,
+    "norm": 1.5250787401574804,
+    "ss_pow": -0.5967947246056453,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 240800,
+    "positive_total": 146570,
+    "negative_total": 240800,
+    "country_hits": 254000
+  },
+  "TANZANIA": {
+    "total_results": "611,000",
+    "positive": {
+      "recognizes": 72800,
+      "allows": 114000,
+      "issues": 101000,
+      "classifies": 23200
+    },
+    "negative": {
+      "does not allow": 95900,
+      "has forbidden": 80600,
+      "restricts": 82800,
+      "bans": 83400
+    },
+    "score_ratio": -0.0925007295010213,
+    "norm": 1.069885433715221,
+    "ss_pow": -0.09896518310117451,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 342700,
+    "positive_total": 311000,
+    "negative_total": 342700,
+    "country_hits": 611000
+  },
+  "THAILAND": {
+    "total_results": "721,000",
+    "positive": {
+      "recognizes": 250000,
+      "allows": 342000,
+      "issues": 298000,
+      "classifies": 84700
+    },
+    "negative": {
+      "does not allow": 348000,
+      "has forbidden": 246000,
+      "restricts": 289000,
+      "bans": 267000
+    },
+    "score_ratio": -0.15243478260869564,
+    "norm": 2.946879334257975,
+    "ss_pow": -0.4492069106916722,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1150000,
+    "positive_total": 974700,
+    "negative_total": 1150000,
+    "country_hits": 721000
+  },
+  "TOGO": {
+    "total_results": "259,000",
+    "positive": {
+      "recognizes": 12400,
+      "allows": 19100,
+      "issues": 19900,
+      "classifies": 6080
+    },
+    "negative": {
+      "does not allow": 17100,
+      "has forbidden": 14700,
+      "restricts": 15500,
+      "bans": 14400
+    },
+    "score_ratio": -0.06839546191247974,
+    "norm": 0.4601544401544402,
+    "ss_pow": -0.03147247548544145,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 61700,
+    "positive_total": 57480,
+    "negative_total": 61700,
+    "country_hits": 259000
+  },
+  "TONGA": {
+    "total_results": "494,000",
+    "positive": {
+      "recognizes": 31100,
+      "allows": 74200,
+      "issues": 71800,
+      "classifies": 7320
+    },
+    "negative": {
+      "does not allow": 77400,
+      "has forbidden": 67400,
+      "restricts": 66900,
+      "bans": 66800
+    },
+    "score_ratio": -0.3378096947935368,
+    "norm": 0.937085020242915,
+    "ss_pow": -0.3165564046838543,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 278500,
+    "positive_total": 184420,
+    "negative_total": 278500,
+    "country_hits": 494000
+  },
+  "TUNISIA": {
+    "total_results": "680,000",
+    "positive": {
+      "recognizes": 57600,
+      "allows": 105000,
+      "issues": 114000,
+      "classifies": 21000
+    },
+    "negative": {
+      "does not allow": 102000,
+      "has forbidden": 97400,
+      "restricts": 106000,
+      "bans": 101000
+    },
+    "score_ratio": -0.2677165354330709,
+    "norm": 1.035294117647059,
+    "ss_pow": -0.2771653543307087,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 406400,
+    "positive_total": 297600,
+    "negative_total": 406400,
+    "country_hits": 680000
+  },
+  "TURKEY": {
+    "total_results": "779,000",
+    "positive": {
+      "recognizes": 269000,
+      "allows": 340000,
+      "issues": 305000,
+      "classifies": 85400
+    },
+    "negative": {
+      "does not allow": 315000,
+      "has forbidden": 265000,
+      "restricts": 259000,
+      "bans": 283000
+    },
+    "score_ratio": -0.10926916221033868,
+    "norm": 2.723234916559692,
+    "ss_pow": -0.2975655978344191,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1122000,
+    "positive_total": 999400,
+    "negative_total": 1122000,
+    "country_hits": 779000
+  },
+  "TURKMENISTAN": {
+    "total_results": "222,000",
+    "positive": {
+      "recognizes": 13700,
+      "allows": 20600,
+      "issues": 18800,
+      "classifies": 4550
+    },
+    "negative": {
+      "does not allow": 19900,
+      "has forbidden": 15900,
+      "restricts": 17600,
+      "bans": 16100
+    },
+    "score_ratio": -0.17050359712230215,
+    "norm": 0.5727477477477477,
+    "ss_pow": -0.09765555123468792,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 69500,
+    "positive_total": 57650,
+    "negative_total": 69500,
+    "country_hits": 222000
+  },
+  "TUVALU": {
+    "total_results": "121,000",
+    "positive": {
+      "recognizes": 3030,
+      "allows": 5920,
+      "issues": 4810,
+      "classifies": 1320
+    },
+    "negative": {
+      "does not allow": 6700,
+      "has forbidden": 2340,
+      "restricts": 3780,
+      "bans": 3850
+    },
+    "score_ratio": -0.09538092381523695,
+    "norm": 0.26239669421487605,
+    "ss_pow": -0.02502763910027912,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 16670,
+    "positive_total": 15080,
+    "negative_total": 16670,
+    "country_hits": 121000
+  },
+  "UAE": {
+    "total_results": "852,000",
+    "positive": {
+      "recognizes": 212000,
+      "allows": 323000,
+      "issues": 304000,
+      "classifies": 76800
+    },
+    "negative": {
+      "does not allow": 365000,
+      "has forbidden": 260000,
+      "restricts": 270000,
+      "bans": 317000
+    },
+    "score_ratio": -0.2443894389438944,
+    "norm": 2.497417840375587,
+    "ss_pow": -0.6103425448178621,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1212000,
+    "positive_total": 915800,
+    "negative_total": 1212000,
+    "country_hits": 852000
+  },
+  "UGANDA": {
+    "total_results": "774,000",
+    "positive": {
+      "recognizes": 82500,
+      "allows": 118000,
+      "issues": 106000,
+      "classifies": 35000
+    },
+    "negative": {
+      "does not allow": 111000,
+      "has forbidden": 84500,
+      "restricts": 117000,
+      "bans": 101000
+    },
+    "score_ratio": -0.17412333736396615,
+    "norm": 0.975452196382429,
+    "ss_pow": -0.16984899187311944,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 413500,
+    "positive_total": 341500,
+    "negative_total": 413500,
+    "country_hits": 774000
+  },
+  "UK": {
+    "total_results": "10,300,000",
+    "positive": {
+      "recognizes": 483000,
+      "allows": 653000,
+      "issues": 673000,
+      "classifies": 130000
+    },
+    "negative": {
+      "does not allow": 630000,
+      "has forbidden": 419000,
+      "restricts": 559000,
+      "bans": 556000
+    },
+    "score_ratio": -0.10397412199630314,
+    "norm": 0.3983495145631068,
+    "ss_pow": -0.0414180410243526,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 2164000,
+    "positive_total": 1939000,
+    "negative_total": 2164000,
+    "country_hits": 10300000
+  },
+  "UKRAINE": {
+    "total_results": "10,100,000",
+    "positive": {
+      "recognizes": 211000,
+      "allows": 326000,
+      "issues": 289000,
+      "classifies": 83400
+    },
+    "negative": {
+      "does not allow": 303000,
+      "has forbidden": 300000,
+      "restricts": 253000,
+      "bans": 10
+    },
+    "score_ratio": 0.0587090389267649,
+    "norm": 0.1747930693069307,
+    "ss_pow": 0.010261933110069309,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 909400,
+    "positive_total": 909400,
+    "negative_total": 856010,
+    "country_hits": 10100000
+  },
+  "URUGUAY": {
+    "total_results": "645,000",
+    "positive": {
+      "recognizes": 71400,
+      "allows": 154000,
+      "issues": 126000,
+      "classifies": 22000
+    },
+    "negative": {
+      "does not allow": 139000,
+      "has forbidden": 115000,
+      "restricts": 125000,
+      "bans": 116000
+    },
+    "score_ratio": -0.24565656565656566,
+    "norm": 1.3463565891472868,
+    "ss_pow": -0.3307413358390103,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 495000,
+    "positive_total": 373400,
+    "negative_total": 495000,
+    "country_hits": 645000
+  },
+  "UZBEKISTAN": {
+    "total_results": "523,000",
+    "positive": {
+      "recognizes": 56500,
+      "allows": 70200,
+      "issues": 68000,
+      "classifies": 14900
+    },
+    "negative": {
+      "does not allow": 68200,
+      "has forbidden": 59900,
+      "restricts": 46500,
+      "bans": 56600
+    },
+    "score_ratio": -0.09342560553633218,
+    "norm": 0.84282982791587,
+    "ss_pow": -0.0787418870371228,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 231200,
+    "positive_total": 209600,
+    "negative_total": 231200,
+    "country_hits": 523000
+  },
+  "VANUATU": {
+    "total_results": "342,000",
+    "positive": {
+      "recognizes": 16600,
+      "allows": 23500,
+      "issues": 20600,
+      "classifies": 4900
+    },
+    "negative": {
+      "does not allow": 21400,
+      "has forbidden": 12200,
+      "restricts": 14600,
+      "bans": 17200
+    },
+    "score_ratio": 0.003048780487804878,
+    "norm": 0.3830409356725146,
+    "ss_pow": 0.001167807730708886,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 65600,
+    "positive_total": 65600,
+    "negative_total": 65400,
+    "country_hits": 342000
+  },
+  "VENEZUELA": {
+    "total_results": "1,070,000",
+    "positive": {
+      "recognizes": 190000,
+      "allows": 302000,
+      "issues": 294000,
+      "classifies": 61800
+    },
+    "negative": {
+      "does not allow": 348000,
+      "has forbidden": 250000,
+      "restricts": 286000,
+      "bans": 252000
+    },
+    "score_ratio": -0.25369718309859157,
+    "norm": 1.854018691588785,
+    "ss_pow": -0.4703593194682112,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 1136000,
+    "positive_total": 847800,
+    "negative_total": 1136000,
+    "country_hits": 1070000
+  },
+  "VIETNAM": {
+    "total_results": "4,860,000",
+    "positive": {
+      "recognizes": 253000,
+      "allows": 301000,
+      "issues": 270000,
+      "classifies": 79700
+    },
+    "negative": {
+      "does not allow": 274000,
+      "has forbidden": 207000,
+      "restricts": 253000,
+      "bans": 224000
+    },
+    "score_ratio": -0.05668058455114822,
+    "norm": 0.38306584362139917,
+    "ss_pow": -0.021712395938039638,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 958000,
+    "positive_total": 903700,
+    "negative_total": 958000,
+    "country_hits": 4860000
+  },
+  "YEMEN": {
+    "total_results": "796,000",
+    "positive": {
+      "recognizes": 123000,
+      "allows": 162000,
+      "issues": 154000,
+      "classifies": 44800
+    },
+    "negative": {
+      "does not allow": 152000,
+      "has forbidden": 134000,
+      "restricts": 144000,
+      "bans": 137000
+    },
+    "score_ratio": -0.14673721340388007,
+    "norm": 1.3201005025125627,
+    "ss_pow": -0.19370786915175525,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 567000,
+    "positive_total": 483800,
+    "negative_total": 567000,
+    "country_hits": 796000
+  },
+  "ZAMBIA": {
+    "total_results": "432,000",
+    "positive": {
+      "recognizes": 27300,
+      "allows": 40700,
+      "issues": 32800,
+      "classifies": 7200
+    },
+    "negative": {
+      "does not allow": 34800,
+      "has forbidden": 24100,
+      "restricts": 24500,
+      "bans": 25800
+    },
+    "score_ratio": -0.01098901098901099,
+    "norm": 0.5027777777777778,
+    "ss_pow": -0.005525030525030525,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 109200,
+    "positive_total": 108000,
+    "negative_total": 109200,
+    "country_hits": 432000
+  },
+  "ZIMBABWE": {
+    "total_results": "1,510,000",
+    "positive": {
+      "recognizes": 108000,
+      "allows": 181000,
+      "issues": 158000,
+      "classifies": 34000
+    },
+    "negative": {
+      "does not allow": 181000,
+      "has forbidden": 161000,
+      "restricts": 165000,
+      "bans": 179000
+    },
+    "score_ratio": -0.2988338192419825,
+    "norm": 0.7728476821192053,
+    "ss_pow": -0.23095302453999575,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 686000,
+    "positive_total": 481000,
+    "negative_total": 686000,
+    "country_hits": 1510000
+  },
+  "TRINIDAD AND TOBAGO": {
+    "total_results": "354,000",
+    "positive": {
+      "recognizes": 31200,
+      "allows": 48800,
+      "issues": 36700,
+      "classifies": 8060
+    },
+    "negative": {
+      "does not allow": 49000,
+      "has forbidden": 23800,
+      "restricts": 33200,
+      "bans": 33100
+    },
+    "score_ratio": -0.10309130122214234,
+    "norm": 0.7453672316384181,
+    "ss_pow": -0.07684087779795051,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 139100,
+    "positive_total": 124760,
+    "negative_total": 139100,
+    "country_hits": 354000
+  },
+  "CURACAO": {
+    "total_results": "503,000",
+    "positive": {
+      "recognizes": 13000,
+      "allows": 16400,
+      "issues": 16300,
+      "classifies": 3750
+    },
+    "negative": {
+      "does not allow": 16500,
+      "has forbidden": 9990,
+      "restricts": 12300,
+      "bans": 9610
+    },
+    "score_ratio": 0.021233569261880688,
+    "norm": 0.1945328031809145,
+    "ss_pow": 0.004130625750049752,
+    "hq": "regulation of cryptocurrencies",
+    "pragmatic_actions": "(cryptocurrencies OR blockchain regulation OR mining OR cryptocurrencies as property OR crypto assets OR stablecoins OR CBDCs OR tokens OR ICOs OR cryptocurrencies as security OR cryptocurrency trading OR Bitcoin OR blockchain OR Bitcoin as legal tender OR NFTs)",
+    "max": 49450,
+    "positive_total": 49450,
+    "negative_total": 48400,
+    "country_hits": 503000
+  }
+}

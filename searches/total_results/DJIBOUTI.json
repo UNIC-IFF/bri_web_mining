@@ -1,0 +1,581 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - DJIBOUTI",
+                "totalResults": "352000",
+                "searchTerms": "DJIBOUTI",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - DJIBOUTI",
+                "totalResults": "352000",
+                "searchTerms": "DJIBOUTI",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.43473,
+        "formattedSearchTime": "0.43",
+        "totalResults": "352000",
+        "formattedTotalResults": "352,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Djibouti | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Djibouti</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/djibouti",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Djibouti for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Djibouti</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "B61C56jK8CAJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/djibouti",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>djibouti</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Djibouti for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Djibouti | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Djibouti for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Djibouti | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/djibouti"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Djibouti Customs, Currency & Airport Tax regulations details",
+            "htmlTitle": "<b>Djibouti</b> Customs, Currency &amp; Airport Tax <b>regulations</b> details",
+            "link": "https://www.iatatravelcentre.com/dj-Djibouti-customs-currency-airport-tax-regulations-details.htm",
+            "displayLink": "www.iatatravelcentre.com",
+            "snippet": "Currency Import regulations: Local currency (Djibouti Franc-DJF) and foreign currencies: up to a maximum of USD 5,000.- or equivalent. Currency Export\u00a0...",
+            "htmlSnippet": "Currency Import <b>regulations</b>: Local currency (<b>Djibouti</b> Franc-DJF) and foreign currencies: up to a maximum of USD 5,000.- or equivalent. Currency Export&nbsp;...",
+            "cacheId": "8VOYsveQtM0J",
+            "formattedUrl": "https://www.iatatravelcentre.com/dj-Djibouti-customs-currency-airport-tax- regulations-details.htm",
+            "htmlFormattedUrl": "https://www.iatatravelcentre.com/dj-<b>Djibouti</b>-customs-currency-airport-tax- <b>regulations</b>-details.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYHpZoYJToNRYEzR_sH6lQCZ3a7sRH9OtKbS7ArUzbppOx10nOk7zMuA",
+                        "width": "134",
+                        "height": "90"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iatatravelcentre.com/static/images/logos/iata-print.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulation",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulation</b>",
+            "link": "https://www.lw.com/thoughtLeadership/gli2021-blockchain-crypto-not-in-kansas-anymore-",
+            "displayLink": "www.lw.com",
+            "snippet": "regulations impacting virtual currency exchanges operating in the EU. U.S. regulators ... GLI \u2013 Blockchain & Cryptocurrency Regulation 2021, 3rd Edition.",
+            "htmlSnippet": "<b>regulations</b> impacting virtual currency exchanges operating in the EU. U.S. regulators ... GLI \u2013 Blockchain &amp; <b>Cryptocurrency Regulation</b> 2021, 3rd Edition.",
+            "cacheId": "HiYJKhPPcvEJ",
+            "formattedUrl": "https://www.lw.com/.../gli2021-blockchain-crypto-not-in-kansas-anymore-",
+            "htmlFormattedUrl": "https://www.lw.com/.../gli2021-blockchain-crypto-not-in-kansas-anymore-",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVvbjnx8uy1vqhnpsE39Oh9jAUq-5tglkg-sr5UkaAEPUGPK60__wn6Sy",
+                        "width": "178",
+                        "height": "282"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210316124634-04'00'",
+                        "creationdate": "D:20210316124634-04'00'",
+                        "creator": "Nitro Pro"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///881876a144eefaec0c1c58d495fd173f877a416b53b92cedb0c675effa4937e8"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Oct 21, 2021 ... Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation,\u00a0...",
+            "htmlSnippet": "Oct 21, 2021 <b>...</b> Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 covers government attitude and definition, <b>cryptocurrency regulation</b>, sales <b>regulation</b>,&nbsp;...",
+            "cacheId": "r9voBECz-nwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/.../blockchain-laws-and-regulations",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/.../blockchain-<b>laws</b>-and-<b>regulations</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "\u00a3 350.00",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSEXypzfKs7vsrQHQttOcTeIAqC3ci_4aH1FB3vfFjqi1S8iM2lYN3hcRu",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulations in US & Abroad",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulations</b> in US &amp; Abroad",
+            "link": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Jan 27, 2021 ... How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "htmlSnippet": "Jan 27, 2021 <b>...</b> How the <b>laws</b> &amp; <b>regulations</b> affecting blockchain technology and <b>cryptocurrencies</b>, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "cacheId": "Mvo5XQTizbcJ",
+            "formattedUrl": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us- global",
+            "htmlFormattedUrl": "https://www.businessinsider.com/blockchain-<b>cryptocurrency</b>-<b>regulations</b>-us- global",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0SsBztfFwqsWxHy5W3WHKbdkxx1gx1y5qYCEP69RFVI0cKCbiKHnV7E",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-01-27",
+                        "og:image": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "og:description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@clusterstock",
+                        "news_keywords": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "sailthru.title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-03-02T21:21:33Z",
+                        "pubdate": "2021-01-27T20:36:11Z",
+                        "sailthru.verticals": "clusterstock, research",
+                        "sailthru.date": "2021-01-27",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "Global Finance Execs' View Of Blockchain Challenges",
+                        "author": "Insider Intelligence",
+                        "tbi-vertical": "Finance",
+                        "og:title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "ia:markup_url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+                        "sailthru.author": "Insider Intelligence",
+                        "sailthru.image.full": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto-currencies: a bubble or the emergence of a new paradigm in ...",
+            "htmlTitle": "Crypto-currencies: a bubble or the emergence of a new paradigm in ...",
+            "link": "https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance",
+            "displayLink": "research-center.amundi.com",
+            "snippet": "Mar 24, 2021 ... It is up to regulators to find an appropriate regulatory framework to take advantage of the development of these assets without putting\u00a0...",
+            "htmlSnippet": "Mar 24, 2021 <b>...</b> It is up to regulators to find an appropriate <b>regulatory</b> framework to take advantage of the development of these assets without putting&nbsp;...",
+            "cacheId": "uXZ3Ow-U99oJ",
+            "formattedUrl": "https://research-center.amundi.com/.../crypto-currencies-bubble-or- emergence-new-paradigm-decentralised-finance",
+            "htmlFormattedUrl": "https://research-center.amundi.com/.../crypto-currencies-bubble-or- emergence-new-paradigm-decentralised-finance",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWjHq62xBCHA-otKZKiI3_IRYw6U1jo65djPriwEHZmTyYVQrXwGbWSsym",
+                        "width": "388",
+                        "height": "130"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.amundi.com/sites/default/files/2021-03/2021.03---Cryptocurrencies---Vignette_0.jpg",
+                        "og:type": "article",
+                        "og:image:alt": "crypto vignette",
+                        "article:published_time": "2021-03-24T16:00:00+0100",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto-currencies: a bubble or the emergence of a new paradigm in decentralised finance?",
+                        "og:site_name": "Amundi Research center",
+                        "og:image:url": "https://static.amundi.com/sites/default/files/2021-03/2021.03---Cryptocurrencies---Vignette_0.jpg",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance",
+                        "og:title": "Crypto-currencies: a bubble or the emergence of a new paradigm in decentralised finance? | Amundi Research center",
+                        "og:description": "The proliferation of crypto-currencies (CCs) and the popularity of these assets among investors has led us to question their nature, function, valuation and potential development. CCs are at the crossroads of technological innovation, finance and monetary policy.",
+                        "article:author": "Amundi",
+                        "twitter:image": "https://static.amundi.com/sites/default/files/2021-03/2021.03---Cryptocurrencies---Vignette_0.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The proliferation of crypto-currencies (CCs) and the popularity of these assets among investors has led us to question their nature, function, valuation and potential development. CCs are at the crossroads of technological innovation, finance and monetary policy.",
+                        "mobileoptimized": "width",
+                        "video:actor": "Amundi",
+                        "og:url": "https://research-center.amundi.com/article/crypto-currencies-bubble-or-emergence-new-paradigm-decentralised-finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.amundi.com/sites/default/files/2021-03/2021.03---Cryptocurrencies---Vignette_0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Security Implications of Extraterritorial Application of U.S. Law on ...",
+            "htmlTitle": "Security Implications of Extraterritorial Application of U.S. Law on ...",
+            "link": "https://www.manatt.com/insights/newsletters/privacy-and-data-security/security-implications-of-extraterritorial-applicat",
+            "displayLink": "www.manatt.com",
+            "snippet": "Oct 22, 2020 ... For many individuals, a primary appeal of cryptocurrencies is that they could be fully anonymous, self-regulated and decentralized: Because\u00a0...",
+            "htmlSnippet": "Oct 22, 2020 <b>...</b> For many individuals, a primary appeal of <b>cryptocurrencies</b> is that they could be fully anonymous, self-<b>regulated</b> and decentralized: Because&nbsp;...",
+            "cacheId": "IaS5xByyVIoJ",
+            "formattedUrl": "https://www.manatt.com/.../security-implications-of-extraterritorial-applicat",
+            "htmlFormattedUrl": "https://www.manatt.com/.../security-implications-of-extraterritorial-applicat",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4YseQkkS6hlsj78VAJ9xhqlqzyeLTdfume5wOedsB7Mm8R9WM_CPqCro",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.manatt.com/Manatt/media/Media/Images/Manatt-Logo-300x300.png",
+                        "theme-color": "#F00BA4",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "og:site_name": "Manatt",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Security Implications of Extraterritorial Application of U.S. Law on Cryptocurrency Markets",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://manatt.com/insights/newsletters/privacy-and-data-security/security-implications-of-extraterritorial-applicat",
+                        "og:description": "Recent action from the DOJ and the CFTC serves as a reminder that the U.S. government expects cryptocurrency wallets to comply with the BSA/AML/KYC.",
+                        "twitter:image": "https://www.manatt.com/Manatt/media/Media/Images/Manatt-Logo-300x300.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.manatt.com/Manatt/media/Media/Images/Manatt-Logo-300x300.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Djibouti Signs the ICSID Convention: The Big Question is Why ...",
+            "htmlTitle": "<b>Djibouti</b> Signs the ICSID Convention: The Big Question is Why ...",
+            "link": "http://arbitrationblog.kluwerarbitration.com/2019/05/30/djibouti-signs-the-icsid-convention-the-big-question-is-why/",
+            "displayLink": "arbitrationblog.kluwerarbitration.com",
+            "snippet": "May 30, 2019 ... When in February 2018, the Government of Djibouti seized control of the Doraleh Container Terminal SA, DP World filed claims with the LCIA.",
+            "htmlSnippet": "May 30, 2019 <b>...</b> When in February 2018, the Government of <b>Djibouti</b> seized <b>control</b> of the Doraleh Container Terminal SA, DP World filed claims with the LCIA.",
+            "cacheId": "XJZ-y1lo9h8J",
+            "formattedUrl": "arbitrationblog.kluwerarbitration.com/.../djibouti-signs-the-icsid-convention- the-big-question-is-why/",
+            "htmlFormattedUrl": "arbitrationblog.kluwerarbitration.com/.../<b>djibouti</b>-signs-the-icsid-convention- the-big-question-is-why/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url_text": "Damien Charlotin",
+                        "fn": "Damien Charlotin",
+                        "url": "http://arbitrationblog.kluwerarbitration.com/author/damien-charlotin/"
+                    },
+                    {
+                        "url_text": "Andre Luis Monteiro",
+                        "fn": "Andre Luis Monteiro",
+                        "url": "http://arbitrationblog.kluwerarbitration.com/author/almonteir/"
+                    },
+                    {
+                        "url_text": "Kishan Gupta",
+                        "fn": "Kishan Gupta",
+                        "photo": "http://0.gravatar.com/avatar/082fcadd5114fe3aedf92d655402016c?s=76&d=mm&r=g",
+                        "url": "http://www.rmlnluseal.home.blog/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmCXoxptK-hYPJ-Ljq5eebH72QycIBwt_tbZrioCWp6q4c2_tSjkAM_dCN",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Uche Ewelukwa Ofodile"
+                    },
+                    {
+                        "name": "Damien Charlotin"
+                    },
+                    {
+                        "name": "Andre Luis Monteiro"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://wolterskluwerblogs.com/arbitration/wp-content/uploads/sites/48/2017/01/Wolters-Social-media-Arb-vierkant_2.png",
+                        "msapplication-config": "/arbitration/wp-content/uploads/sites/48/fbrfg/browserconfig.xml?v=QE5rwmrPl2",
+                        "og:type": "article",
+                        "article:published_time": "2019-05-30T08:00:19+00:00",
+                        "og:image:width": "512",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Kluwer Arbitration Blog",
+                        "og:title": "Djibouti Signs the ICSID Convention: The Big Question is Why? - Kluwer Arbitration Blog",
+                        "og:image:height": "256",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "On April 12, 2019, the Republic of Djibouti (\u201cDjibouti\u201d) signed the Convention on the Settlement of Investment Disputes between States and Nationals of Other States (\u201cICSID Convention\u201d or \u201cConvention\u201d). To date, the Convention has been signed by 163 countries and ratified by 154 countries. Why is Djibouti signing the ICSID Convention at a time when... Continue reading",
+                        "twitter:data1": "Uche Ewelukwa Ofodile",
+                        "twitter:data2": "6 minutes",
+                        "article:modified_time": "2019-05-30T07:01:30+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "http://arbitrationblog.kluwerarbitration.com/2019/05/30/djibouti-signs-the-icsid-convention-the-big-question-is-why/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "datemodified": "2019-05-30T09:05:46+02:00",
+                        "maincontentofpage": "Africa, Arbitration, Djibouti, ICSID, ICSID Arbitration, ICSID Convention, ICSID Procedure, International arbitration, Investment Arbitration Djibouti Signs the ICSID Convention: The Big Question...",
+                        "datepublished": "2019-05-30T11:14:38+02:00"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://wolterskluwerblogs.com/arbitration/wp-content/uploads/sites/48/2017/01/Wolters-Social-media-Arb-vierkant_2.png"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "wpheader": [
+                    {
+                        "headline": "Kluwer Arbitration Blog"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "On April 12, 2019, the Republic of Djibouti (\u201cDjibouti\u201d) signed the Convention on the Settlement of Investment Disputes between States and Nationals of Other States (\u201cICSID Convention\u201d...",
+                        "datemodified": "2019-05-30T09:01:30+02:00",
+                        "articlesection": "Africa",
+                        "name": "Djibouti Signs the ICSID Convention: The Big Question is Why?",
+                        "interactioncount": "1",
+                        "headline": "Djibouti Signs the ICSID Convention: The Big Question is Why?",
+                        "url": "Djibouti Signs the ICSID Convention: The Big Question is Why?",
+                        "datepublished": "2019-05-30T10:00:19+02:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        }
+    ]
+}

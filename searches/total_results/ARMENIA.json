@@ -1,0 +1,518 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ARMENIA",
+                "totalResults": "831000",
+                "searchTerms": "ARMENIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ARMENIA",
+                "totalResults": "831000",
+                "searchTerms": "ARMENIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.416724,
+        "formattedSearchTime": "0.42",
+        "totalResults": "831000",
+        "formattedTotalResults": "831,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Government of the Republic of Armenia",
+            "htmlTitle": "The Government of the Republic of <b>Armenia</b>",
+            "link": "https://www.gov.am/en/",
+            "displayLink": "www.gov.am",
+            "snippet": "The 20th session of the Armenian-Russian inter-governmental commission on economic cooperation chaired by Deputy Prime Minister of Armenia Mher Grigoryan and\u00a0...",
+            "htmlSnippet": "The 20th session of the <b>Armenian</b>-Russian inter-governmental commission on economic cooperation chaired by Deputy Prime Minister of <b>Armenia</b> Mher Grigoryan and&nbsp;...",
+            "cacheId": "lrNf6HQPu0UJ",
+            "formattedUrl": "https://www.gov.am/en/",
+            "htmlFormattedUrl": "https://www.gov.am/en/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw1rpJGSP5y5Dwr6zybf-rQo2spsFkLa8SB7QxRu8eyf3MgnMzgykNuaI_",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "//www.gov.am/images/fb_logo.jpg",
+                        "author": "Helix Consulting LLC"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gov.am/new_images/gov_building.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "(PDF) Cryptocurrency regulation in the BriCs Countries and the ...",
+            "htmlTitle": "(PDF) <b>Cryptocurrency regulation</b> in the BriCs Countries and the ...",
+            "link": "https://www.researchgate.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union",
+            "displayLink": "www.researchgate.net",
+            "snippet": "Aug 3, 2021 ... Legal Regulation of Cryptocurrencies in the Eurasian Economic Union ... Central Bank of Armenia, following the experiences of the EEU\u00a0...",
+            "htmlSnippet": "Aug 3, 2021 <b>...</b> Legal <b>Regulation of Cryptocurrencies</b> in the Eurasian Economic Union ... Central Bank of <b>Armenia</b>, following the experiences of the EEU&nbsp;...",
+            "formattedUrl": "https://www.researchgate.net/.../331172100_Cryptocurrency_regulation_in_ the_BriCs_Countries_and_the_eurasian_economic_union",
+            "htmlFormattedUrl": "https://www.researchgate.net/.../331172100_<b>Cryptocurrency</b>_<b>regulation</b>_in_ the_BriCs_Countries_and_the_eurasian_economic_union",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpyFP_rBN4EWzE6w4zNQMZpemfbC2mgSHQPeZkhEbJfTEvtf0VH3kNO1V_",
+                        "width": "188",
+                        "height": "268"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i1.rgstatic.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union/links/5c6ad427a6fdcc404ebac505/largepreview.png",
+                        "citation_publication_date": "2019/02/17",
+                        "twitter:card": "summary",
+                        "citation_title": "Cryptocurrency regulation in the BriCs Countries and the eurasian economic union",
+                        "og:site_name": "ResearchGate",
+                        "twitter:url": "https://www.researchgate.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union",
+                        "citation_publisher": "Tyumen State University",
+                        "citation_journal_title": "BRICS Law Journal",
+                        "msapplication-tileimage": "https://www.researchgate.net/mstile-144x144.png",
+                        "twitter:creator": "@ResearchGate",
+                        "og:description": "PDF | This article presents the results of a comparative analysis of the legislative approaches to the regulation of cryptocurrencies in the BRICS... | Find, read and cite all the research you need on ResearchGate",
+                        "citation_issn": "2409-9058",
+                        "twitter:site": "@ResearchGate",
+                        "og:site": "ResearchGate",
+                        "citation_fulltext_html_url": "https://www.researchgate.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union",
+                        "citation_lastpage": "81",
+                        "application-name": "ResearchGate",
+                        "msapplication-tilecolor": "#00ccbb",
+                        "og:type": "website",
+                        "rg-request-token": "aad-1NZd3PfTu+ehY3CMWrwlO7SnIAqER0RHYFHHF7VsuSaxTjceGJX3Cjc5QaIQFwALTHzwjp5UT6E3yRF80t3H2AE4t0L1x+jtEMkZ35f06CpRicUEXnQLZVRHRqMkq3GDux0Tv8Z8ZS9DQUOnmOIyWC2/zjqFazke4jeaHaz1aDxRRjKnnppSAr73kBsBXWjpCr11pcRuuCxAibAFDr412GErky8E/D0hT4gBEQj/59Hnm1Qg/figGL1Sg4/QzKiqSCPBBBdaIrfy31Z2uV0YP2onKHOIABrkfQ==",
+                        "og:title": "(PDF) Cryptocurrency regulation in the BriCs Countries and the eurasian economic union",
+                        "citation_author": "M. Chudinovskikh",
+                        "citation_abstract_html_url": "https://www.researchgate.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union",
+                        "citation_issue": "1",
+                        "referrer": "origin",
+                        "citation_firstpage": "63",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "citation_doi": "10.21684/2412-2343-2019-6-1-63-81",
+                        "rg:id": "PB:331172100",
+                        "dc.identifier": "http://dx.doi.org/10.21684/2412-2343-2019-6-1-63-81",
+                        "citation_volume": "6",
+                        "og:url": "https://www.researchgate.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union",
+                        "gs_meta_revision": "1.1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i1.rgstatic.net/publication/331172100_Cryptocurrency_regulation_in_the_BriCs_Countries_and_the_eurasian_economic_union/links/5c6ad427a6fdcc404ebac505/largepreview.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FATF Recommendations",
+            "htmlTitle": "FATF Recommendations",
+            "link": "https://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html",
+            "displayLink": "www.fatf-gafi.org",
+            "snippet": "Translations of the FATF Recommendations \u00b7 Arabic - translated by MENAFATF \u00b7 Armenian - translated by the Central Bank of Armenia \u00b7 Chinese - translated by the\u00a0...",
+            "htmlSnippet": "Translations of the FATF Recommendations &middot; Arabic - translated by MENAFATF &middot; <b>Armenian</b> - translated by the Central Bank of <b>Armenia</b> &middot; Chinese - translated by the&nbsp;...",
+            "cacheId": "cgP9KUUAR9oJ",
+            "formattedUrl": "https://www.fatf-gafi.org/publications/.../fatf-recommendations.html",
+            "htmlFormattedUrl": "https://www.fatf-gafi.org/publications/.../fatf-recommendations.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxddhwuF7ZHhJHlUC7Yw7p9PMebX839ybMoJ7jcVaTrG1M9hBogJXkrWRq",
+                        "width": "189",
+                        "height": "267"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "document type": "Recommendations",
+                        "dc.title": "The FATF Recommendations",
+                        "topic": "1489",
+                        "region": "FATF",
+                        "dc.keywords": "Recommendations; Standards, FATF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.fatf-gafi.org/media/fatf/content/images/Front%20FATF%20Recommendations.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nation State Involvement in Cryptocurrency and the Impact to ...",
+            "htmlTitle": "Nation State Involvement in <b>Cryptocurrency</b> and the Impact to ...",
+            "link": "https://digitalcommons.lasalle.edu/cgi/viewcontent.cgi?article=1048&context=ecf_capstones",
+            "displayLink": "digitalcommons.lasalle.edu",
+            "snippet": "regulation of cryptocurrency and sanctions, and how certain countries have ... conference in Armenia in November 2018 where Iran signed a trilateral\u00a0...",
+            "htmlSnippet": "<b>regulation of cryptocurrency</b> and sanctions, and how certain countries have ... conference in <b>Armenia</b> in November 2018 where Iran signed a trilateral&nbsp;...",
+            "formattedUrl": "https://digitalcommons.lasalle.edu/cgi/viewcontent.cgi?article=1048...",
+            "htmlFormattedUrl": "https://digitalcommons.lasalle.edu/cgi/viewcontent.cgi?article=1048...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuHU-tQbZ1Ogn723Smogwp7TltXrAtBbztzMNQ5Ie2aARMSlGKMSYOn-I",
+                        "width": "221",
+                        "height": "228"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20191121143555-08'00'",
+                        "creationdate": "D:20191121143555-08'00'",
+                        "creator": "Appligent AppendPDF Pro 6.3",
+                        "author": "Thomas Clautice",
+                        "producer": "Prince 12.5 (www.princexml.com)",
+                        "appligent": "AppendPDF Pro 6.3 Linux 64 bit Aug 30 2019 Library 15.0.4",
+                        "title": "Nation State Involvement in Cryptocurrency and the Impact to Economic Sanctions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///c454b61745873ebd32182a453ea758e70cc3757b0bf83839072af8988c9a3e32"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulations in US & Abroad",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulations</b> in US &amp; Abroad",
+            "link": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Jan 27, 2021 ... How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "htmlSnippet": "Jan 27, 2021 <b>...</b> How the <b>laws</b> &amp; <b>regulations</b> affecting blockchain technology and <b>cryptocurrencies</b>, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "cacheId": "Mvo5XQTizbcJ",
+            "formattedUrl": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us- global",
+            "htmlFormattedUrl": "https://www.businessinsider.com/blockchain-<b>cryptocurrency</b>-<b>regulations</b>-us- global",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0SsBztfFwqsWxHy5W3WHKbdkxx1gx1y5qYCEP69RFVI0cKCbiKHnV7E",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-01-27",
+                        "og:image": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "og:description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@clusterstock",
+                        "news_keywords": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "sailthru.title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-03-02T21:21:33Z",
+                        "pubdate": "2021-01-27T20:36:11Z",
+                        "sailthru.verticals": "clusterstock, research",
+                        "sailthru.date": "2021-01-27",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "Global Finance Execs' View Of Blockchain Challenges",
+                        "author": "Insider Intelligence",
+                        "tbi-vertical": "Finance",
+                        "og:title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "ia:markup_url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+                        "sailthru.author": "Insider Intelligence",
+                        "sailthru.image.full": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Business Benefit of Using Cryptocurrency | Deloitte US",
+            "htmlTitle": "The Business Benefit of Using <b>Cryptocurrency</b> | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Helping strengthen control over the capital of the enterprise; Managing the risks and opportunities of engaging in digital investments. Crypto may serve as an\u00a0...",
+            "htmlSnippet": "Helping strengthen <b>control</b> over the capital of the enterprise; Managing the risks and opportunities of engaging in digital investments. Crypto may serve as an&nbsp;...",
+            "cacheId": "N1JfjUG3OhwJ",
+            "formattedUrl": "https://www2.deloitte.com/us/en/pages/audit/.../corporates-using-crypto.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/us/en/pages/audit/.../corporates-using-crypto.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The Business Benefit of Using Cryptocurrency",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html",
+                        "og:title": "The Business Benefit of Using Cryptocurrency",
+                        "og:description": "An increasing number of companies worldwide are using digital assets for a host of investment, operational, and transactional purposes. Explore considerations for using cryptocurrency in business.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "An increasing number of companies worldwide are using digital assets for a host of investment, operational, and transactional purposes. Explore considerations for using cryptocurrency in business.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "State of Oregon warns investors about cryptocurrencies, NFTs",
+            "htmlTitle": "State of Oregon warns investors about <b>cryptocurrencies</b>, NFTs",
+            "link": "https://www.oregon.gov/newsroom/pages/newsdetail.aspx?newsid=64783",
+            "displayLink": "www.oregon.gov",
+            "snippet": "4 days ago ... Salem, OR\u2014The Oregon Division of Financial Regulation is warning Oregonians to use caution when investing in cryptocurrencies,\u00a0...",
+            "htmlSnippet": "4 days ago <b>...</b> Salem, OR\u2014The Oregon Division of Financial <b>Regulation</b> is warning Oregonians to use caution when investing in <b>cryptocurrencies</b>,&nbsp;...",
+            "cacheId": "BU2FjtDJnpUJ",
+            "formattedUrl": "https://www.oregon.gov/newsroom/pages/newsdetail.aspx?newsid=64783",
+            "htmlFormattedUrl": "https://www.oregon.gov/newsroom/pages/newsdetail.aspx?newsid=64783",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKKhKrPOhn2lDCwzWSIBmginw9jaXvFJygc9mmy8QKiBt1pjohSY2CFF-J",
+                        "width": "220",
+                        "height": "220"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "NewsDetail : State of Oregon Newsroom",
+                        "msapplication-tilecolor": "#344032",
+                        "msapplication-square70x70logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=01_04_2022_A",
+                        "theme-color": "#222222",
+                        "msapplication-wide310x150logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=01_04_2022_A",
+                        "progid": "SharePoint.WebPartPage.Document",
+                        "msapplication-tileimage": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=01_04_2022_A",
+                        "msapplication-square150x150logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=01_04_2022_A",
+                        "msapplication-navbutton-color": "#344032",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+                        "msapplication-square310x310logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=01_04_2022_A"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.oregon.gov/_layouts/15/OID.SharePoint.Newsroom/stateseal_color.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Armenian Central Bank Says Stay Away from Bitcoin - CoinDesk",
+            "htmlTitle": "<b>Armenian</b> Central Bank Says Stay Away from Bitcoin - CoinDesk",
+            "link": "https://www.coindesk.com/markets/2015/12/16/armenian-central-bank-says-stay-away-from-bitcoin/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Dec 16, 2015 ... \"According to Armenian legislation, virtual currencies, including bitcoins are not considered electronic money. This in view, the regulator\u00a0...",
+            "htmlSnippet": "Dec 16, 2015 <b>...</b> &quot;According to <b>Armenian</b> legislation, virtual currencies, including bitcoins are not considered electronic money. This in view, the regulator&nbsp;...",
+            "cacheId": "aQGvgl63cTsJ",
+            "formattedUrl": "https://www.coindesk.com/.../armenian-central-bank-says-stay-away-from- bitcoin/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>armenian</b>-central-bank-says-stay-away-from- bitcoin/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaIs3cyUbcJiMATadg2s8XYlwnXqi5OWTrPWaTTpoM71sbsNXA3DiSRWYo",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/XYVXx4LguX6CazesB3P1gtpZRnc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YVJQWUZCDJAOBEC3CLNYRSYBOU.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2015-12-16T12:00:42Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Armenian Central Bank Says Stay Away from Bitcoin",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Armenian Central Bank Says Stay Away from Bitcoin",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The Central Bank of the Republic of Armenia has advised its citizens not to use digital currencies such as bitcoin.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Stan Higgins",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/ti3RcSdaX3HRnl0_R-QscibKPr8=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YVJQWUZCDJAOBEC3CLNYRSYBOU.jpg",
+                        "article:tag": "Central Bank, Regulation, News, Armenia",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2015-12-16T12:00:42Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Central Bank of the Republic of Armenia has advised its citizens not to use digital currencies such as bitcoin.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2015/12/16/armenian-central-bank-says-stay-away-from-bitcoin/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/XYVXx4LguX6CazesB3P1gtpZRnc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YVJQWUZCDJAOBEC3CLNYRSYBOU.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,541 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CYPRUS",
+                "totalResults": "2130000",
+                "searchTerms": "CYPRUS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CYPRUS",
+                "totalResults": "2130000",
+                "searchTerms": "CYPRUS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.387811,
+        "formattedSearchTime": "0.39",
+        "totalResults": "2130000",
+        "formattedTotalResults": "2,130,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Cyprus | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Cyprus</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cyprus",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The first step towards the regulation of cryptocurrencies was taken through the amendment of the AML Law, wherein \u201cCrypto-Assets\u201d have been defined, as per the\u00a0...",
+            "htmlSnippet": "The first step towards the <b>regulation of cryptocurrencies</b> was taken through the amendment of the AML Law, wherein \u201cCrypto-Assets\u201d have been defined, as per the&nbsp;...",
+            "cacheId": "A6SRV9kiUFYJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/cyprus",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>cyprus</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Cyprus chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHgZL-cKds3B5M56hblCepIG30azqOrM8l3ABQwPwcU0oaRIvPU0ZK84",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Akis Papakyriacou",
+                        "url": "Akis Papakyriacou"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/bsl76MnRi9OA0GxymKEluSyDFEMoAiNea7Moaqm6.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Cyprus chapter written by Akis Papakyriacou - Akis Papakyriacou LLC covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Cyprus | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Cyprus chapter written by Akis Papakyriacou - Akis Papakyriacou LLC covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Cyprus | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/cyprus"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/bsl76MnRi9OA0GxymKEluSyDFEMoAiNea7Moaqm6.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Clarity on crypto assets regulation in Cyprus | International Financial ...",
+            "htmlTitle": "Clarity on crypto assets <b>regulation</b> in <b>Cyprus</b> | International Financial ...",
+            "link": "https://www.iflr.com/article/b1t5vvtzzt3q77/clarity-on-crypto-assets-regulation-in-cyprus",
+            "displayLink": "www.iflr.com",
+            "snippet": "Aug 18, 2021 ... Exchange between crypto assets;; The management, transfer, transfer, retention, and/or safekeeping, including custody, of cryptocurrencies or\u00a0...",
+            "htmlSnippet": "Aug 18, 2021 <b>...</b> Exchange between crypto assets;; The management, transfer, transfer, retention, and/or safekeeping, including custody, of <b>cryptocurrencies</b> or&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/article/.../clarity-on-crypto-assets-regulation-in-cyprus",
+            "htmlFormattedUrl": "https://www.iflr.com/article/.../clarity-on-crypto-assets-<b>regulation</b>-in-<b>cyprus</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96fv7MONrTmyeqLuh9m-4Wgdr3-2WH3_w7vWoE6yjR4SkVP4ARPsHzNk",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-ff34359861b0afa34d01ba1d2616d851/Media/images/international-tax-review/2-lorraine/bitcoin-3319215_1280.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Clarity on crypto assets regulation in Cyprus",
+                        "msapplication-square70x70logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "Clarity on crypto assets regulation in Cyprus",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "Clarity on crypto assets regulation in Cyprus",
+                        "og:description": "Ioannis Sidiropoulos of Elias Neocleous &amp; Co discusses the initiatives Cyprus is introducing to bring clarity to crypto assets regulation",
+                        "msapplication-square150x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://www.iflr.com/Media/images/international-tax-review/2-lorraine/bitcoin-3319215_1280.jpg",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "twitter:description": "Ioannis Sidiropoulos of Elias Neocleous &amp; Co discusses the initiatives Cyprus is introducing to bring clarity to crypto assets regulation",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iflr.com/Media/images/international-tax-review/2-lorraine/bitcoin-3319215_1280.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus' finance ministry recommends 'capacity building' for crypto",
+            "htmlTitle": "<b>Cyprus</b>&#39; finance ministry recommends &#39;capacity building&#39; for crypto",
+            "link": "https://cointelegraph.com/news/cyprus-finance-ministry-recommends-capacity-building-for-crypto",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Dec 14, 2021 ... Cyprus is moving to regulate the cryptocurrency industry, with the country's finance ministry releasing a national risk assessment on\u00a0...",
+            "htmlSnippet": "Dec 14, 2021 <b>...</b> <b>Cyprus</b> is moving to <b>regulate</b> the <b>cryptocurrency</b> industry, with the country&#39;s finance ministry releasing a national risk assessment on&nbsp;...",
+            "cacheId": "lAdEdVmXBjkJ",
+            "formattedUrl": "https://cointelegraph.com/.../cyprus-finance-ministry-recommends-capacity- building-for-crypto",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>cyprus</b>-finance-ministry-recommends-capacity- building-for-crypto",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0IG9MUYZ5ulEcsnuBHpgVKi8MEXb_MW9YIKmem10BlTT0no5RoChmh6Pc",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "NewsArticle": [
+                    {
+                        "datePublished": "2021-12-14T14:39:25Z",
+                        "wordCount": "3677",
+                        "description": "Cyprus is moving to regulate the cryptocurrency industry, with the country\u2019s finance ministry releasing a national risk assessment on crypto.",
+                        "dateModified": "2021-12-14T14:39:25Z",
+                        "headline": "Cyprus\u2019 finance ministry recommends \u2018capacity building\u2019 for crypto",
+                        "articleSection": "Latest News"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvYzRkMDM3YTctZGNmNy00MTVmLWExMmUtZTNlNmY1NGU5ZjdiLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cyprus\u2019 finance ministry recommends \u2018capacity building\u2019 for crypto",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Cyprus\u2019 finance ministry recommends \u2018capacity building\u2019 for crypto",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Cyprus is moving to regulate the cryptocurrency industry, with the country\u2019s finance ministry releasing a national risk assessment on crypto.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvYzRkMDM3YTctZGNmNy00MTVmLWExMmUtZTNlNmY1NGU5ZjdiLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Cyprus is moving to regulate the cryptocurrency industry, with the country\u2019s finance ministry releasing a national risk assessment on crypto.",
+                        "og:url": "https://cointelegraph.com/news/cyprus-finance-ministry-recommends-capacity-building-for-crypto"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvYzRkMDM3YTctZGNmNy00MTVmLWExMmUtZTNlNmY1NGU5ZjdiLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CYSEC Issues First Ever Cryptocurrency Regulations - Cyprus",
+            "htmlTitle": "CYSEC Issues First Ever <b>Cryptocurrency Regulations</b> - <b>Cyprus</b>",
+            "link": "https://www.mondaq.com/cyprus/fin-tech/1013960/cysec-issues-first-ever-cryptocurrency-regulations",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Dec 9, 2020 ... The new rules laid down in Circular C417 are designed to ensure that Cyprus Investment Firms (CIFs), make provision to cover investments in\u00a0...",
+            "htmlSnippet": "Dec 9, 2020 <b>...</b> The new rules laid down in Circular C417 are designed to ensure that <b>Cyprus</b> Investment Firms (CIFs), make provision to cover investments in&nbsp;...",
+            "cacheId": "tgj1tgJS5C4J",
+            "formattedUrl": "https://www.mondaq.com/cyprus/.../cysec-issues-first-ever-cryptocurrency- regulations",
+            "htmlFormattedUrl": "https://www.mondaq.com/<b>cyprus</b>/.../cysec-issues-first-ever-<b>cryptocurrency</b>- <b>regulations</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "CYSEC Issues First Ever Cryptocurrency Regulations - Technology - Cyprus",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "The Cyprus Securities and Exchange Commission (CySEC) last week issued its first regulations regarding cryptocurrency."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus introduces first steps towards Crypto-Asset regulation ...",
+            "htmlTitle": "<b>Cyprus</b> introduces first steps towards Crypto-Asset <b>regulation</b> ...",
+            "link": "https://www.legal500.com/developments/thought-leadership/cyprus-introduces-first-steps-towards-crypto-asset-regulation-through-aml-law-amendments/",
+            "displayLink": "www.legal500.com",
+            "snippet": "Jun 25, 2021 ... The Cyprus Securities and Exchange Commission (\u201cCYSEC\u201d) has been designated as the competent supervisory authority for matters relating to\u00a0...",
+            "htmlSnippet": "Jun 25, 2021 <b>...</b> The <b>Cyprus</b> Securities and Exchange Commission (\u201cCYSEC\u201d) has been designated as the competent supervisory authority for matters relating to&nbsp;...",
+            "cacheId": "TYbJCNp65LkJ",
+            "formattedUrl": "https://www.legal500.com/.../cyprus-introduces-first-steps-towards-crypto- asset-regulation-through-aml-law-amendments/",
+            "htmlFormattedUrl": "https://www.legal500.com/.../<b>cyprus</b>-introduces-first-steps-towards-crypto- asset-<b>regulation</b>-through-aml-law-amendments/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "st:robots": "follow, index",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tileimage": "https://www.legal500.com/developments/wp-content/uploads/sites/19/2019/09/cropped-L500-no-other-text-black.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto assets regulation: latest Updates from the Republic of Cyprus ...",
+            "htmlTitle": "Crypto assets <b>regulation</b>: latest Updates from the Republic of <b>Cyprus</b> ...",
+            "link": "https://www.grantthornton.com.cy/insights/Distributedledgertechnology/crypto-assets-regulation-latest-updates-from-the-republic-of-cyprus/",
+            "displayLink": "www.grantthornton.com.cy",
+            "snippet": "Sep 28, 2021 ... Cryptocurrencies and distributed ledger technologies (DLTs) continue to change the world. We are at the stage of forming complex concepts of\u00a0...",
+            "htmlSnippet": "Sep 28, 2021 <b>...</b> <b>Cryptocurrencies</b> and distributed ledger technologies (DLTs) continue to change the world. We are at the stage of forming complex concepts of&nbsp;...",
+            "cacheId": "nNZII4mehDgJ",
+            "formattedUrl": "https://www.grantthornton.com.cy/.../crypto-assets-regulation-latest-updates- from-the-republic-of-cyprus/",
+            "htmlFormattedUrl": "https://www.grantthornton.com.cy/.../crypto-assets-<b>regulation</b>-latest-updates- from-the-republic-of-<b>cyprus</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mEznRbhrGWFTbnWPf5dpheYdVQUzVe8UPWGljYHSwJ-7MEHMaRe8CcTh",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.grantthornton.com.cy/globalassets/1.-member-firms/cyprus/photos/crypto.png",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto assets regulation: latest Updates from the Republic of Cyprus",
+                        "og:site_name": "Cyprus",
+                        "og:title": "Crypto assets regulation: latest Updates from the Republic of Cyprus",
+                        "og:description": "Cryptocurrencies and distributed ledger technologies (DLTs) continue to change the world. We are at the stage of forming complex concepts of regulation for cryptocurrencies and blockchain. Therefore, today it is extremely important to understand all the intricacies of regulation from the usage of crypto assets.",
+                        "twitter:image": "https://www.grantthornton.com.cy/globalassets/1.-member-firms/cyprus/photos/crypto.png",
+                        "twitter:site": "@grantthorntoncy",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                        "twitter:description": "Cryptocurrencies and distributed ledger technologies (DLTs) continue to change the world. We are at the stage of forming complex concepts of regulation for cryptocurrencies and blockchain. Therefore, today it is extremely important to understand all the intricacies of regulation from the usage of crypto assets.",
+                        "og:url": "https://www.grantthornton.com.cy/insights/Distributedledgertechnology/crypto-assets-regulation-latest-updates-from-the-republic-of-cyprus/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.grantthornton.com.cy/globalassets/1.-member-firms/cyprus/photos/crypto.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Immigration, Tax, Corporate & Regulatory aspects of ...",
+            "htmlTitle": "Immigration, Tax, Corporate &amp; <b>Regulatory</b> aspects of ...",
+            "link": "https://pahalaw.com/immigration-tax-corporate-regulatory-aspects-of-cryptocurrencies-in-cyprus/",
+            "displayLink": "pahalaw.com",
+            "snippet": "Aug 17, 2021 ... Immigration, Tax, Corporate & Regulatory aspects of cryptocurrencies in Cyprus ... Cyprus as a full member of the EU is indeed a favorable\u00a0...",
+            "htmlSnippet": "Aug 17, 2021 <b>...</b> Immigration, Tax, Corporate &amp; <b>Regulatory</b> aspects of <b>cryptocurrencies</b> in <b>Cyprus</b> ... <b>Cyprus</b> as a full member of the EU is indeed a favorable&nbsp;...",
+            "cacheId": "xjhG6a7SxLsJ",
+            "formattedUrl": "https://pahalaw.com/immigration-tax-corporate-regulatory-aspects-of- cryptocurrencies-in-cyprus/",
+            "htmlFormattedUrl": "https://pahalaw.com/immigration-tax-corporate-<b>regulatory</b>-aspects-of- <b>cryptocurrencies</b>-in-<b>cyprus</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjpe-vlBzg24EjYkQtpbh8x0KbvySi9gns95wqrOizYcbm86-_U7CwVAQC",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://pahalaw.com/wp-content/uploads/2021/08/dreamstime_m_107256220-e1618472859289-1200x720-1.jpg",
+                        "og:type": "article",
+                        "article:section": "Crypto-Assets",
+                        "article:published_time": "2021-08-17T12:42:34+03:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Immigration, Tax, Corporate & Regulatory aspects of cryptocurrencies in Cyprus - PAHA LAW",
+                        "og:site_name": "PAHA LAW",
+                        "og:title": "Immigration, Tax, Corporate & Regulatory aspects of cryptocurrencies in Cyprus - PAHA LAW",
+                        "og:image:height": "720",
+                        "og:updated_time": "2021-09-22T10:29:01+03:00",
+                        "og:description": "Cyprus as a full member of the EU is indeed a favorable jurisdiction to set up a Company for the purpose of such trading activities including crypto currencies due to its low corporate tax, being 12,5% on gross income annually. Companies can further take advantage of key features of the Income Tax Department if they \u2026",
+                        "twitter:creator": "@infopahalaw",
+                        "article:publisher": "http://www.facebook.com/pages/Parparinos-Hadjipanayis-LLC/1568600466713699",
+                        "og:image:secure_url": "https://pahalaw.com/wp-content/uploads/2021/08/dreamstime_m_107256220-e1618472859289-1200x720-1.jpg",
+                        "twitter:image": "https://pahalaw.com/wp-content/uploads/2021/08/dreamstime_m_107256220-e1618472859289-1200x720-1.jpg",
+                        "article:tag": "bank account",
+                        "twitter:site": "@infopahalaw",
+                        "article:modified_time": "2021-09-22T10:29:01+03:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "twitter:description": "Cyprus as a full member of the EU is indeed a favorable jurisdiction to set up a Company for the purpose of such trading activities including crypto currencies due to its low corporate tax, being 12,5% on gross income annually. Companies can further take advantage of key features of the Income Tax Department if they [\u2026]",
+                        "og:locale": "en_US",
+                        "og:url": "https://pahalaw.com/immigration-tax-corporate-regulatory-aspects-of-cryptocurrencies-in-cyprus/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pahalaw.com/wp-content/uploads/2021/08/dreamstime_m_107256220-e1618472859289-1200x720-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: the first regulations from CySEC | Boccadutri",
+            "htmlTitle": "<b>Cryptocurrencies</b>: the first <b>regulations</b> from CySEC | Boccadutri",
+            "link": "https://www.boccadutri.com/cryptocurrencies-the-first-regulations-from-cysec/",
+            "displayLink": "www.boccadutri.com",
+            "snippet": "Apr 27, 2021 ... The new rules set out in C417 are designed to protect the clients of Cypriot investment firms (CIFs) to ensure that they are provided coverage\u00a0...",
+            "htmlSnippet": "Apr 27, 2021 <b>...</b> The new rules set out in C417 are designed to protect the clients of <b>Cypriot</b> investment firms (CIFs) to ensure that they are provided coverage&nbsp;...",
+            "cacheId": "s-fOKHBm_7MJ",
+            "formattedUrl": "https://www.boccadutri.com/cryptocurrencies-the-first-regulations-from- cysec/",
+            "htmlFormattedUrl": "https://www.boccadutri.com/<b>cryptocurrencies</b>-the-first-<b>regulations</b>-from- cysec/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn_pZ5zKSyY16aVaZzCrJEB1WuJWvXfNrUaNsXq9VFlzmn5lLCibM3mWQ",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.boccadutri.com/wp-content/uploads/2021/04/Cryptocurrencies-the-first-regulations-from-CySEC.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-04-27T12:02:25+02:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Boccadutri",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Time to read",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "CySEC, one of the world's leading financial regulators, issued its first cryptocurrency regulations at the end of November, specifically addressing the compliance of Cypriot Investment Firms (CIFs)",
+                        "twitter:creator": "@BoccadutriLaw",
+                        "article:publisher": "https://www.facebook.com/boccadutri.law/",
+                        "og:image:secure_url": "https://www.boccadutri.com/wp-content/uploads/2021/04/Cryptocurrencies-the-first-regulations-from-CySEC.jpg",
+                        "twitter:image": "https://www.boccadutri.com/wp-content/uploads/2021/04/Cryptocurrencies-the-first-regulations-from-CySEC.jpg",
+                        "twitter:data1": "Calogero Boccadutri",
+                        "twitter:data2": "4 minutes",
+                        "twitter:site": "@BoccadutriLaw",
+                        "article:modified_time": "2021-05-27T12:21:17+02:00",
+                        "og:type": "article",
+                        "article:section": "Forex Litigation",
+                        "og:image:alt": "Cryptocurrencies the first regulations from CySEC",
+                        "twitter:title": "Cryptocurrencies: the first regulations from CySEC | Boccadutri",
+                        "og:title": "Cryptocurrencies: the first regulations from CySEC | Boccadutri",
+                        "og:image:height": "630",
+                        "og:updated_time": "2021-05-27T12:21:17+02:00",
+                        "facebook-domain-verification": "s37n5gz3v74nyzmgpn1t2v81bx39az",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "CySEC, one of the world's leading financial regulators, issued its first cryptocurrency regulations at the end of November, specifically addressing the compliance of Cypriot Investment Firms (CIFs)",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.boccadutri.com/cryptocurrencies-the-first-regulations-from-cysec/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.boccadutri.com/wp-content/uploads/2021/04/Cryptocurrencies-the-first-regulations-from-CySEC.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CBC Statement regarding cryptocurrencies ... - Central Bank of Cyprus",
+            "htmlTitle": "CBC Statement regarding cryptocurrencies ... - Central Bank of Cyprus",
+            "link": "https://www.centralbank.cy/en/announcements/cbc-statement-regarding-cryptocurrencies-virtual-currencies-28-04-2021",
+            "displayLink": "www.centralbank.cy",
+            "snippet": "Apr 28, 2021 ... CBC Statement regarding cryptocurrencies / virtual currencies \u00b7 extreme price volatility \u00b7 absence of legal protection due to lack of regulation\u00a0...",
+            "htmlSnippet": "Apr 28, 2021 <b>...</b> CBC Statement regarding <b>cryptocurrencies</b> / virtual currencies &middot; extreme price volatility &middot; absence of legal protection due to lack of <b>regulation</b>&nbsp;...",
+            "cacheId": "3ISfnQl7Cu8J",
+            "formattedUrl": "https://www.centralbank.cy/.../cbc-statement-regarding-cryptocurrencies- virtual-currencies-28-04-2021",
+            "htmlFormattedUrl": "https://www.centralbank.cy/.../cbc-statement-regarding-<b>cryptocurrencies</b>- virtual-currencies-28-04-2021",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQESeKEVNb4vA_ZApPgqIJModao12U-nrR1JHwzlz5RQmrsQ6VFPsxnCj8",
+                        "width": "222",
+                        "height": "95"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "www.centralbank.cy",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "author": "DW Dynamic Works Ltd",
+                        "og:title": "Central Bank of Cyprus - CBC Statement regarding cryptocurrencies / virtual currencies",
+                        "og:url": "https://www.centralbank.cy/en/announcements/cbc-statement-regarding-cryptocurrencies-virtual-currencies-28-04-2021",
+                        "msapplication-tileimage": "/images/favicon/ms-icon-144x144.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.centralbank.cy/images/central-bank-of-cyprus-en.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyprus securities watchdog issues first cryptocurrency regulations",
+            "htmlTitle": "<b>Cyprus</b> securities watchdog issues first <b>cryptocurrency regulations</b>",
+            "link": "https://kyc360.riskscreen.com/news/cysec-issues-first-cryptocurrency-regulations/",
+            "displayLink": "kyc360.riskscreen.com",
+            "snippet": "Dec 4, 2020 ... The new rules laid down in Circular C417 are designed to ensure that Cyprus Investment Firms (CIFs), make provision to cover investments in\u00a0...",
+            "htmlSnippet": "Dec 4, 2020 <b>...</b> The new rules laid down in Circular C417 are designed to ensure that <b>Cyprus</b> Investment Firms (CIFs), make provision to cover investments in&nbsp;...",
+            "cacheId": "5r9ikwIGC1wJ",
+            "formattedUrl": "https://kyc360.riskscreen.com/.../cysec-issues-first-cryptocurrency-regulations /",
+            "htmlFormattedUrl": "https://kyc360.riskscreen.com/.../cysec-issues-first-<b>cryptocurrency</b>-<b>regulations</b> /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp8zs6MsD3Xy_IsEQEmuUIQvAJbMRRJiqVMyCa86U5qkbfD6afhzrfUH8V",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://kyc360.riskscreen.com/wp-content/uploads/2020/12/shutterstock_792719404.jpg",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary",
+                        "og:site_name": "KYC360",
+                        "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                        "msapplication-tileimage": "https://kyc360.riskscreen.com/wp-content/uploads/2018/02/cropped-NewLogoTransparent-Circle-270x270.png",
+                        "og:description": "The Cyprus Securities and Exchange Commission (CySEC) last week issued its first regulations regarding cryptocurrency.",
+                        "twitter:creator": "@KYC360",
+                        "article:publisher": "https://www.facebook.com/KYC360",
+                        "og:image:secure_url": "https://kyc360.riskscreen.com/wp-content/uploads/2020/12/shutterstock_792719404.jpg",
+                        "twitter:image": "https://kyc360.riskscreen.com/wp-content/uploads/2020/12/shutterstock_792719404-1024x683.jpg",
+                        "twitter:site": "@KYC360",
+                        "dc.source": "https://kyc360.riskscreen.com/",
+                        "dc.description": "The Cyprus Securities and Exchange Commission (CySEC) last week issued its first regulations regarding cryptocurrency.",
+                        "og:type": "article",
+                        "og:image:alt": "Cyprus crypto",
+                        "twitter:title": "Cyprus securities watchdog issues first cryptocurrency regulations",
+                        "og:title": "Cyprus securities watchdog issues first cryptocurrency regulations",
+                        "og:image:height": "800",
+                        "article:author": "https://www.facebook.com/KYC360",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The Cyprus Securities and Exchange Commission (CySEC) last week issued its first regulations regarding cryptocurrency.",
+                        "dc.relation": "https://kyc360.riskscreen.com/news/cysec-issues-first-cryptocurrency-regulations/",
+                        "dc.title": "Cyprus securities watchdog issues first cryptocurrency regulations",
+                        "og:locale": "en_GB",
+                        "dc.language": "en_GB",
+                        "og:url": "https://kyc360.riskscreen.com/news/cysec-issues-first-cryptocurrency-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://kyc360.riskscreen.com/wp-content/uploads/2020/12/shutterstock_792719404.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

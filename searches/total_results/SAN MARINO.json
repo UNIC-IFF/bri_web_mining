@@ -1,0 +1,605 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SAN MARINO",
+                "totalResults": "422000",
+                "searchTerms": "SAN MARINO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SAN MARINO",
+                "totalResults": "422000",
+                "searchTerms": "SAN MARINO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.352333,
+        "formattedSearchTime": "0.35",
+        "totalResults": "422000",
+        "formattedTotalResults": "422,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Republic of San Marino Issues Regulatory Policies on Tokens ...",
+            "htmlTitle": "Republic of <b>San Marino</b> Issues <b>Regulatory</b> Policies on Tokens ...",
+            "link": "https://cointelegraph.com/news/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jun 7, 2019 ... San Marino officials have issued a governmental decree setting forth regulations for blockchain in business, seeking to provide regulatory\u00a0...",
+            "htmlSnippet": "Jun 7, 2019 <b>...</b> <b>San Marino</b> officials have issued a governmental decree setting forth <b>regulations</b> for blockchain in business, seeking to provide <b>regulatory</b>&nbsp;...",
+            "cacheId": "oukVOUw-0xwJ",
+            "formattedUrl": "https://cointelegraph.com/.../republic-of-san-marino-issues-regulatory- policies-on-tokens-token-offerings",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../republic-of-<b>san</b>-<b>marino</b>-issues-<b>regulatory</b>- policies-on-tokens-token-offerings",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQijF-R5Bs4Ps9veZIQq8zzpqWx0EorY4m1c8bkj2Cq15DLZqkIOrhjEET3",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hY2Y1ZDE5ZDE5Nzk3MTE3OTA5ZTllNWQyZGU4ZWJkMC5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Republic of San Marino Issues Regulatory Policies on Tokens, Token Offerings",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Republic of San Marino Issues Regulatory Policies on Tokens, Token Offerings",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "San Marino officials have issued a governmental decree setting forth regulations for blockchain in business, seeking to provide regulatory certainty for ICOs.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hY2Y1ZDE5ZDE5Nzk3MTE3OTA5ZTllNWQyZGU4ZWJkMC5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "San Marino officials have issued a governmental decree setting forth regulations for blockchain in business, seeking to provide regulatory certainty for ICOs.",
+                        "og:url": "https://cointelegraph.com/news/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hY2Y1ZDE5ZDE5Nzk3MTE3OTA5ZTllNWQyZGU4ZWJkMC5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "San Marino Republic adopts blockchain to become the first carbon ...",
+            "htmlTitle": "<b>San Marino</b> Republic adopts blockchain to become the first carbon ...",
+            "link": "https://www.dnv.com/news/san-marino-republic-adopts-blockchain-to-become-the-first-carbon-neutral-country--154173",
+            "displayLink": "www.dnv.com",
+            "snippet": "Jul 22, 2019 ... \"San Marino Low Carbon Ecosystem\" was proposed by DNV GL, in collaboration with VeChain; it aims to reduce CO2 emissions and, subsequently,\u00a0...",
+            "htmlSnippet": "Jul 22, 2019 <b>...</b> &quot;<b>San Marino</b> Low Carbon Ecosystem&quot; was proposed by DNV GL, in collaboration with VeChain; it aims to reduce CO2 emissions and, subsequently,&nbsp;...",
+            "cacheId": "TuYpOiSj4wUJ",
+            "formattedUrl": "https://www.dnv.com/.../san-marino-republic-adopts-blockchain-to-become- the-first-carbon-neutral-country--154173",
+            "htmlFormattedUrl": "https://www.dnv.com/.../<b>san</b>-<b>marino</b>-republic-adopts-blockchain-to-become- the-first-carbon-neutral-country--154173",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq19SgKB5BIGm5WF30pVDhk5NNi_IWxVjc0cy5kb3xtGLIEAEGtRa_mv8",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.dnv.com/Images/SanMarino_blockchain1000x500_tcm8-154171.jpg",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary",
+                        "og:site_name": "DNV",
+                        "subject": "Business Assurance",
+                        "og:description": "San Marino, July 22nd 2019 - A Memorandum of Understanding has been signed between the Republic of San Marino Secretary of State for Industry, Trade, Business, Cooperation and Telecommunications, Republic of San Marino Innovation Institute S.p.A, DNV GL Business Assurance Group AS and VeChain Foundation Limited.",
+                        "twitter:image": "https://www.dnv.com/Images/SanMarino_blockchain1000x500_tcm8-154171.jpg",
+                        "og:image:secure_url": "https://www.dnv.com/Images/SanMarino_blockchain1000x500_tcm8-154171.jpg",
+                        "twitter:site": "@DNV_Group",
+                        "publish_time": "2019-07-22T12:57:03Z",
+                        "kwids": "294,132242,430,459,132241,136374,313",
+                        "publication": "dnv.com",
+                        "cookieconsent": "OneTrust",
+                        "refid": "154173",
+                        "publicationid": "8",
+                        "sector": "Other sectors,Automotive and aerospace,Food and beverage,Finance,Government,Healthcare",
+                        "twitter:title": "San Marino Republic adopts blockchain to become the first carbon neutral country.",
+                        "og:image:url": "https://www.dnv.com/Images/SanMarino_blockchain1000x500_tcm8-154171.jpg",
+                        "author": "Paola Gennari",
+                        "og:title": "San Marino Republic adopts blockchain to become the first carbon neutral country.",
+                        "contextpublicationid": "8",
+                        "og:image:height": "500",
+                        "viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "San Marino, July 22nd 2019 - A Memorandum of Understanding has been signed between the Republic of San Marino Secretary of State for Industry, Trade, Business, Cooperation and Telecommunications, Republic of San Marino Innovation Institute S.p.A, DNV GL Business Assurance Group AS and VeChain Foundation Limited.",
+                        "pubid": "8",
+                        "content_types": "News",
+                        "og:url": "https://www.dnv.com/news/san-marino-republic-adopts-blockchain-to-become-the-first-carbon-neutral-country--154173",
+                        "ba": "assurance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.dnv.com/Images/SanMarino_blockchain1000x500_tcm8-154171.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | San Marino | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>San Marino</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/san-marino",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The San Marino for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>San Marino</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "QpBpuajOVPwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/san-marino",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>san</b>-<b>marino</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The San Marino for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | San Marino | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The San Marino for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | San Marino | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/san-marino"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "San Marino Approves Blockchain & Cryptocurrency Regulation",
+            "htmlTitle": "<b>San Marino</b> Approves Blockchain &amp; <b>Cryptocurrency Regulation</b>",
+            "link": "https://coinidol.com/san-marino-regulation/",
+            "displayLink": "coinidol.com",
+            "snippet": "Jun 10, 2019 ... The Most Serene Republic of San Marino, a country located on the Italian Peninsula, has finally approved the cryptocurrency and blockchain\u00a0...",
+            "htmlSnippet": "Jun 10, 2019 <b>...</b> The Most Serene Republic of <b>San Marino</b>, a country located on the Italian Peninsula, has finally approved the <b>cryptocurrency</b> and blockchain&nbsp;...",
+            "cacheId": "ekf6TM41E7sJ",
+            "formattedUrl": "https://coinidol.com/san-marino-regulation/",
+            "htmlFormattedUrl": "https://coinidol.com/<b>san</b>-<b>marino</b>-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6Ii_X8bbtVGygDEvEu5ZyOcsL8lnYedPCfNT1ActHmtqej7_XhLX9jeKH",
+                        "width": "284",
+                        "height": "177"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://coinidol.com/upload/iblock/091/09168fcba50e31d92ce08dadbd04a3b5.png",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "San Marino Approves Blockchain & Cryptocurrency Regulation",
+                        "twitter:site": "https://twitter.com/coinidol",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Most Serene Republic of San Marino, a country located on the Italian Peninsula, has finally approved the cryptocurrency and blockchain regulations that will be governing all the innovations and operations related to this technology. A new committee was also formed so as to develop the country\u2019s position as the globe-top hub for innovative technologies. The country is preferably placed to become a worldwide hub.",
+                        "og:title": "San Marino Approves Blockchain & Cryptocurrency Regulation",
+                        "og:url": "https://coinidol.com/san-marino-regulation/",
+                        "og:description": "The Most Serene Republic of San Marino, a country located on the Italian Peninsula, has finally approved the cryptocurrency and blockchain regulations that will be governing all the innovations and operations related to this technology. A new committee was also formed so as to develop the country\u2019s position as the globe-top hub for innovative technologies. The country is preferably placed to become a worldwide hub.",
+                        "mavalidation": "86c8606bf474d2e8cd0c877a293f9e72",
+                        "twitter:image:src": "https://coinidol.com/upload/iblock/091/09168fcba50e31d92ce08dadbd04a3b5.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://coinidol.com/upload/iblock/091/09168fcba50e31d92ce08dadbd04a3b5.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "San Marino issues its \"cryptocurrency\": Titano - The Cryptonomist",
+            "htmlTitle": "<b>San Marino</b> issues its &quot;<b>cryptocurrency</b>&quot;: Titano - The Cryptonomist",
+            "link": "https://en.cryptonomist.ch/2020/06/17/san-marino-cryptocurrency-titano/",
+            "displayLink": "en.cryptonomist.ch",
+            "snippet": "Jun 17, 2020 ... It was already in the air and now the Republic of San Marino is apparently accelerating the issuance of its \"cryptocurrency\".",
+            "htmlSnippet": "Jun 17, 2020 <b>...</b> It was already in the air and now the Republic of <b>San Marino</b> is apparently accelerating the issuance of its &quot;<b>cryptocurrency</b>&quot;.",
+            "cacheId": "a7A35QyDwD0J",
+            "formattedUrl": "https://en.cryptonomist.ch/2020/06/17/san-marino-cryptocurrency-titano/",
+            "htmlFormattedUrl": "https://en.cryptonomist.ch/2020/06/17/<b>san</b>-<b>marino</b>-<b>cryptocurrency</b>-titano/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "https://en.cryptonomist.ch/author/eleonora-spagnolo/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR_wDCpLf2Ue61kXvLefC1XSC4QymW0ezpYERc1_P4GKcrp_SvxVZeB3Z",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Eleonora Spagnolo",
+                        "description": "Journalist passionate about the web and the digital world. She graduated with honours in Multimedia Publishing at the University La Sapienza in Rome and completed a master's degree in Web and..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://en.cryptonomist.ch/wp-content/uploads/2020/06/san-marino.jpg",
+                        "theme-color": "#4d265f",
+                        "article:published_time": "2020-06-17T08:50:01+00:00",
+                        "og:image:width": "1140",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Cryptonomist",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://en.cryptonomist.ch/wp-content/uploads/2019/05/cropped-fav-270x270.png",
+                        "og:description": "It will be more of an electronic currency, deposited on a special card",
+                        "twitter:creator": "@https://twitter.com/ele_l23",
+                        "article:publisher": "https://www.facebook.com/cryptonomist.ch/",
+                        "twitter:data1": "Eleonora Spagnolo",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@cryptonomist_",
+                        "article:modified_time": "2020-06-19T13:33:41+00:00",
+                        "msapplication-tilecolor": "#4d265f",
+                        "og:type": "article",
+                        "og:title": "San Marino issues its \"cryptocurrency\": Titano - The Cryptonomist",
+                        "og:image:height": "760",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "It will be more of an electronic currency, deposited on a special card",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://en.cryptonomist.ch/2020/06/17/san-marino-cryptocurrency-titano/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://en.cryptonomist.ch/wp-content/uploads/2020/06/san-marino.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "SAN MARINO",
+            "htmlTitle": "<b>SAN MARINO</b>",
+            "link": "https://www.interpol.int/en/Who-we-are/Member-countries/Europe/SAN-MARINO",
+            "displayLink": "www.interpol.int",
+            "snippet": "Tackling organized crime in San Marino. San Marino is a small country landlocked inside the Adriatic side of central Italy. This ancient Republic is one of\u00a0...",
+            "htmlSnippet": "Tackling organized crime in <b>San Marino</b>. <b>San Marino</b> is a small country landlocked inside the Adriatic side of central Italy. This ancient Republic is one of&nbsp;...",
+            "cacheId": "kN4LExBDgsYJ",
+            "formattedUrl": "https://www.interpol.int/en/Who-we-are/Member.../SAN-MARINO",
+            "htmlFormattedUrl": "https://www.interpol.int/en/Who-we-are/Member.../<b>SAN</b>-<b>MARINO</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn0puUb_G_OwGBItLkVo3U_Vr2_fdK6biIfqPsmAYsR3UYAe7cyYt3Gas1",
+                        "width": "276",
+                        "height": "182"
+                    }
+                ],
+                "BreadcrumbList": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "twitter:title": "SAN MARINO",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "twitter:description": "How INTERPOL supports San Marino to tackle international crime.",
+                        "og:title": "SAN MARINO",
+                        "og:description": "How INTERPOL supports San Marino to tackle international crime."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.interpol.int/var/interpol/storage/images/6/5/1/7/237156-1-eng-GB/Principal-photo-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, ... Keywords: cryptocurrency, institutions, financial regulations, ... 2 San Marino.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, ... Keywords: <b>cryptocurrency</b>, institutions, financial <b>regulations</b>, ... 2 <b>San Marino</b>.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Republic of San Marino ready to become a world blockchain hub",
+            "htmlTitle": "Republic of <b>San Marino</b> ready to become a world blockchain hub",
+            "link": "https://en.cryptonomist.ch/2019/06/07/republic-san-marino-blockchain-hub/",
+            "displayLink": "en.cryptonomist.ch",
+            "snippet": "Jun 7, 2019 ... San Marino, one of the oldest republics in the world, today announced its growing commitment to innovation and regulation in the blockchain\u00a0...",
+            "htmlSnippet": "Jun 7, 2019 <b>...</b> <b>San Marino</b>, one of the oldest republics in the world, today announced its growing commitment to innovation and <b>regulation</b> in the blockchain&nbsp;...",
+            "cacheId": "iAbAtTyzU8oJ",
+            "formattedUrl": "https://en.cryptonomist.ch/2019/06/.../republic-san-marino-blockchain-hub/",
+            "htmlFormattedUrl": "https://en.cryptonomist.ch/2019/06/.../republic-<b>san</b>-<b>marino</b>-blockchain-hub/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "https://en.cryptonomist.ch/author/michele-porta/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Tz2YS1e5NNkETqHq9MHQptUun8wySu3FSVY_DLCUt5JdJJeIXb6iGTM",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Michele Porta"
+                    }
+                ],
+                "Article": [
+                    {
+                        "datePublished": "2019-06-07T14:56:25Z",
+                        "wordCount": "343",
+                        "inLanguage": "en-US",
+                        "dateModified": "2019-06-07T14:56:25Z",
+                        "headline": "Republic of San Marino ready to become a world blockchain hub",
+                        "articleSection": "Blockchain",
+                        "commentCount": "0",
+                        "thumbnailUrl": "https://en.cryptonomist.ch/wp-content/uploads/2019/06/san-marino-blockchain-hub-amazix.jpeg.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://en.cryptonomist.ch/wp-content/uploads/2019/06/san-marino-blockchain-hub-amazix.jpeg.jpg",
+                        "theme-color": "#4d265f",
+                        "article:published_time": "2019-06-07T14:56:25+00:00",
+                        "og:image:width": "1080",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Cryptonomist",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://en.cryptonomist.ch/wp-content/uploads/2019/05/cropped-fav-270x270.png",
+                        "og:description": "San Marino, one of the oldest republics in the world, today announced its growing commitment to innovation and regulation in the blockchain space.",
+                        "twitter:creator": "@cryptonomist_",
+                        "article:publisher": "https://www.facebook.com/cryptonomist.ch/",
+                        "twitter:data1": "Michele Porta",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@cryptonomist_",
+                        "msapplication-tilecolor": "#4d265f",
+                        "og:type": "article",
+                        "og:title": "Republic of San Marino ready to become a world blockchain hub",
+                        "og:image:height": "720",
+                        "article:author": "https://www.facebook.com/michele.porta1",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://en.cryptonomist.ch/2019/06/07/republic-san-marino-blockchain-hub/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://en.cryptonomist.ch/wp-content/uploads/2019/06/san-marino-blockchain-hub-amazix.jpeg.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "San Marino adopts NFT vaccine passports - Coin Rivet",
+            "htmlTitle": "<b>San Marino</b> adopts NFT vaccine passports - Coin Rivet",
+            "link": "https://coinrivet.com/san-marino-adopts-nft-vaccine-passports/",
+            "displayLink": "coinrivet.com",
+            "snippet": "Jul 5, 2021 ... The new San Marino Digital Covid Certificate paves the way for ... find out more information about Bitcoin or cryptocurrencies in general,\u00a0...",
+            "htmlSnippet": "Jul 5, 2021 <b>...</b> The new <b>San Marino</b> Digital Covid Certificate paves the way for ... find out more information about Bitcoin or <b>cryptocurrencies</b> in general,&nbsp;...",
+            "cacheId": "u_eUBd4QuDUJ",
+            "formattedUrl": "https://coinrivet.com/san-marino-adopts-nft-vaccine-passports/",
+            "htmlFormattedUrl": "https://coinrivet.com/<b>san</b>-<b>marino</b>-adopts-nft-vaccine-passports/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToLD-C5L6h7I7eL7MCZRjcNsFHdSBq9s5h9s6t392KBpf5puCJ4lG6edC7",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://d1mjtvp3d1g20r.cloudfront.net/2021/07/05092008/sara-groblechner-LqzESpNy9cY-unsplash-1024x683.jpg",
+                        "theme-color": "#ffffff",
+                        "article:published_time": "2021-07-05T09:20:53+01:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Coin Rivet",
+                        "og:description": "The tiny principality of San Marino has turned to blockchain technology to pioneer digitised Covid-19 vaccine passports. Each passport takes the form of a non-Fungible Token (NFT). This digital asset then incorporates the use of two QR codes to verify the asset-owner\u2019s vaccination record in VeChain\u2019s blockchain ledger; allowing an immutable, secure, and seamless proof of vaccination status. The San Marino General Council passed the legislation on July 1. The certificates will be issued upon personal request, in a paper or digital format, by facilities authorised by the San Marino health authorities. Renato Grottola, Director at DNV (partnered firm) said the technology was creating confidence in returning to normal life. \u201c[The] Covid Certificate is an extremely portable certificate,\u201d he said.",
+                        "twitter:creator": "@CoinRivet",
+                        "article:publisher": "https://www.facebook.com/CoinRivetNews/",
+                        "og:image:secure_url": "https://d1mjtvp3d1g20r.cloudfront.net/2021/07/05092008/sara-groblechner-LqzESpNy9cY-unsplash-1024x683.jpg",
+                        "twitter:image": "https://d1mjtvp3d1g20r.cloudfront.net/2021/07/05092008/sara-groblechner-LqzESpNy9cY-unsplash.jpg",
+                        "twitter:site": "@CoinRivet",
+                        "article:modified_time": "2021-08-12T09:51:46+01:00",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "article:section": "NFTs",
+                        "twitter:title": "San Marino adopts NFT vaccine passports - Coin Rivet",
+                        "og:title": "San Marino adopts NFT vaccine passports - Coin Rivet",
+                        "og:image:height": "683",
+                        "og:updated_time": "2021-08-12T09:51:46+01:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The tiny principality of San Marino has turned to blockchain technology to pioneer digitised Covid-19 vaccine passports. Each passport takes the form of a non-Fungible Token (NFT). This digital asset then incorporates the use of two QR codes to verify the asset-owner\u2019s vaccination record in VeChain\u2019s blockchain ledger; allowing an immutable, secure, and seamless proof of vaccination status. The San Marino General Council passed the legislation on July 1. The certificates will be issued upon personal request, in a paper or digital format, by facilities authorised by the San Marino health authorities. Renato Grottola, Director at DNV (partnered firm) said the technology was creating confidence in returning to normal life. \u201c[The] Covid Certificate is an extremely portable certificate,\u201d he said.",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_GB",
+                        "og:url": "https://coinrivet.com/san-marino-adopts-nft-vaccine-passports/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://d1mjtvp3d1g20r.cloudfront.net/2021/07/05092008/sara-groblechner-LqzESpNy9cY-unsplash-1024x683.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin: Which countries could follow El Salvador in making ...",
+            "htmlTitle": "Bitcoin: Which countries could follow El Salvador in making ...",
+            "link": "https://www.euronews.com/next/2021/06/12/bitcoin-is-el-salvador-the-first-domino-to-fall-as-latin-america-embraces-cryptocurrencies",
+            "displayLink": "www.euronews.com",
+            "snippet": "Jun 12, 2021 ... Bitcoin: What El Salvador's new cryptocurrency law means for Latin America and the ... introduce favourable laws towards cryptocurrencies.",
+            "htmlSnippet": "Jun 12, 2021 <b>...</b> Bitcoin: What El Salvador&#39;s new <b>cryptocurrency</b> law means for Latin America and the ... introduce favourable <b>laws</b> towards <b>cryptocurrencies</b>.",
+            "cacheId": "6ydnP5u5r2sJ",
+            "formattedUrl": "https://www.euronews.com/.../bitcoin-is-el-salvador-the-first-domino-to-fall- as-latin-america-embraces-cryptocurrencies",
+            "htmlFormattedUrl": "https://www.euronews.com/.../bitcoin-is-el-salvador-the-first-domino-to-fall- as-latin-america-embraces-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/05/74/86/68/1000x563_cmsv2_6d07c09c-9cc4-5cb3-8901-5eb9c98a3c29-5748668.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2021-06-12 12:47:27",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "El Salvador\u2019s decision to make Bitcoin an official currency is a watershed for crypto - and it\u2019s setting off a chain reaction in Latin America.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"inflation\",\"bitcoin\",\"economic-crisis\",\"el-salvador\",\"cryptocurrency\",\"blockchain\"],\"nws_id\":1547266,\"nwsctr_id\":5748668,\"themes\":\"money\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"technical_tags\":\"next.next-best-of-2021,next\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Bitcoin: Which countries could follow El Salvador in making cryptocurrency legal tender?",
+                        "article:modified_time": "2021-12-17 17:25:40",
+                        "article:theme": "money",
+                        "og:image:alt": "Bitcoin: Which countries could follow El Salvador in making cryptocurrency legal tender?",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2021-12-17 17:25:40",
+                        "fb:pages": "101402598109",
+                        "article:author": "David Walsh",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "date.modified": "2021-12-17 17:25:40",
+                        "date.created": "2021-06-12 12:47:27",
+                        "eventid": "1547266",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Inflation,Bitcoin,Economic crisis,El Salvador,cryptocurrency,blockchain",
+                        "storyid": "5748668",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "Why is Bitcoin booming in Latin America?",
+                        "article:vertical": "next",
+                        "og:title": "Why is Bitcoin booming in Latin America?",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "El Salvador\u2019s decision to make Bitcoin an official currency is a watershed for crypto - and it\u2019s setting off a chain reaction in Latin America.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2021-06-12 12:47:27",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2021/06/12/bitcoin-is-el-salvador-the-first-domino-to-fall-as-latin-america-embraces-cryptocurrencies",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/05/74/86/68/1000x563_cmsv2_6d07c09c-9cc4-5cb3-8901-5eb9c98a3c29-5748668.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

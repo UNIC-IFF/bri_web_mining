@@ -1,0 +1,532 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - AUSTRIA",
+                "totalResults": "559000",
+                "searchTerms": "AUSTRIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - AUSTRIA",
+                "totalResults": "559000",
+                "searchTerms": "AUSTRIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.428813,
+        "formattedSearchTime": "0.43",
+        "totalResults": "559000",
+        "formattedTotalResults": "559,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Austria | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Austria</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/austria",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "While Austrian law does not prohibit cryptocurrencies, the FMA has warned investors of the risks of cryptocurrencies, stating that virtual currencies like\u00a0...",
+            "htmlSnippet": "While <b>Austrian</b> law does not prohibit <b>cryptocurrencies</b>, the FMA has warned investors of the risks of <b>cryptocurrencies</b>, stating that virtual currencies like&nbsp;...",
+            "cacheId": "xbQTrwOjJ4YJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/austria",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>austria</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Austria chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDz9mUkKNleVjag4s4nGjmnAXXpfwGshuiVZKxlnsRPTd424QopVA37J4",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Ursula Rath",
+                        "url": "Ursula Rath"
+                    },
+                    {
+                        "name": "Thomas Kulnigg",
+                        "url": "Thomas Kulnigg"
+                    },
+                    {
+                        "name": "Dominik Tyrybon",
+                        "url": "Dominik Tyrybon"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/QpTYkMfVCMOpgFaJHmzg7S3RMuRrqQ02vJABCxsC.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Austria chapter written by Ursula Rath - Schoenherr and Thomas Kulnigg - Schoenherr and Dominik Tyrybon - Schoenherr covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Austria | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Austria chapter written by Ursula Rath - Schoenherr and Thomas Kulnigg - Schoenherr and Dominik Tyrybon - Schoenherr covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Austria | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/austria"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/QpTYkMfVCMOpgFaJHmzg7S3RMuRrqQ02vJABCxsC.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Austria Planning New Regulations for Cryptocurrency, ICOs ...",
+            "htmlTitle": "<b>Austria</b> Planning New <b>Regulations</b> for <b>Cryptocurrency</b>, ICOs ...",
+            "link": "https://www.coindesk.com/markets/2018/02/23/austria-planning-new-regulations-for-cryptocurrency-icos/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Feb 23, 2018 ... Austria is drawing up cryptocurrency regulations, using as a model existing rules for the trading of gold and derivatives.",
+            "htmlSnippet": "Feb 23, 2018 <b>...</b> <b>Austria</b> is drawing up <b>cryptocurrency regulations</b>, using as a model existing rules for the trading of gold and derivatives.",
+            "cacheId": "eusa8xmngU0J",
+            "formattedUrl": "https://www.coindesk.com/.../austria-planning-new-regulations-for- cryptocurrency-icos/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>austria</b>-planning-new-<b>regulations</b>-for- <b>cryptocurrency</b>-icos/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR839jMrAq1-cUNgOd6Ub8pOszhTDbgettoT2qIGAcpFkQVG4w6Di1HIYW_",
+                        "width": "302",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/T4-owDcQq0-xfFwUj9tDzWYhuL0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FXKZV2CJPVF4XOCTVDDP6GK2LA.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2018-02-23T19:00:44Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Austria Planning New Regulations for Cryptocurrency, ICOs",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Austria Planning New Regulations for Cryptocurrency, ICOs",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Austria is drawing up cryptocurrency regulations, using as a model existing rules for the trading of gold and derivatives.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Annaliese Milano",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/ONFLUZx8q4ot26Z3-NFr1Ve2UoI=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FXKZV2CJPVF4XOCTVDDP6GK2LA.jpg",
+                        "article:tag": "Derivatives, Crime, Money Laundering, Europe, Gold, Austria, Regulation, News, Anti-Money Laundering, Legal",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2018-02-23T19:00:44Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Austria is drawing up cryptocurrency regulations, using as a model existing rules for the trading of gold and derivatives.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2018/02/23/austria-planning-new-regulations-for-cryptocurrency-icos/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/FXKZV2CJPVF4XOCTVDDP6GK2LA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Austria and Cryptocurrency - Vitural Currecy Laws | Freeman Law",
+            "htmlTitle": "<b>Austria</b> and <b>Cryptocurrency</b> - Vitural Currecy <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/austria/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Austria Cryptocurrency Laws ... Austria has not currently adopted specific legislation with respect to cryptocurrency-related business activities. Under current\u00a0...",
+            "htmlSnippet": "<b>Austria Cryptocurrency Laws</b> ... <b>Austria</b> has not currently adopted specific legislation with respect to <b>cryptocurrency</b>-related business activities. Under current&nbsp;...",
+            "cacheId": "EMRJp0oIGugJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/austria/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>austria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd0JR4i5In--M_9QnckkKsbETucOmH2LnYKFaNtGMVjcIHtofKPXqe2BPK",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491503-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-12-16T06:03:17+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/austria/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Austria Cryptocurrency & Blockchains Laws. Freeman Law, Cryptocurrency & Virtual Currency Attorneys. Schedule a Free Consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491503-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491503-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:19:33+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "og:image:alt": "Austria Cryptocurrency Laws",
+                        "article:section": "Anti-Money Laundering",
+                        "twitter:title": "Austria and Cryptocurrency",
+                        "og:title": "Austria and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:19:33+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Austria and Cryptocurrency Austria Cryptocurrency Laws Austria has not currently adopted specific legislation with respect to cryptocurrency-related business activities. \u00a0Under current legislation, cryptocurrencies do not constitute legal tender for purposes of Austrian law. Anti-Money Laundering...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/austria/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419491503-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lexology Getting the Deal Through: Cryptoassets & Blockchain ...",
+            "htmlTitle": "Lexology Getting the Deal Through: Cryptoassets &amp; Blockchain ...",
+            "link": "https://www.schoenherr.eu/content/lexology-getting-the-deal-through-cryptoassets-blockchain-2021-austria/",
+            "displayLink": "www.schoenherr.eu",
+            "snippet": "Feb 3, 2021 ... There are no general restrictions on owning or possessing cryptocurrency in Austria. However, using cryptocurrency in commercial transactions\u00a0...",
+            "htmlSnippet": "Feb 3, 2021 <b>...</b> There are no general restrictions on owning or possessing <b>cryptocurrency</b> in <b>Austria</b>. However, using <b>cryptocurrency</b> in commercial transactions&nbsp;...",
+            "cacheId": "GfZJVu_EuP8J",
+            "formattedUrl": "https://www.schoenherr.eu/.../lexology-getting-the-deal-through-cryptoassets- blockchain-2021-austria/",
+            "htmlFormattedUrl": "https://www.schoenherr.eu/.../lexology-getting-the-deal-through-cryptoassets- blockchain-2021-<b>austria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_gMbEn1mm9yOokIyyiaxrRQMfyBiASPspjGGWc_ZBn4YUzEdjG_jUoJQ",
+                        "width": "301",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.schoenherr.eu/media/pzhoyvcx/ursula-rath-thomas-kulnigg-lexology-gtdt-cryptoassets-blockchain-2021-austria.jpg?anchor=center&mode=crop&width=450&height=250&rnd=132568216983830000",
+                        "theme-color": "#000",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:url": "https://www.schoenherr.eu/content/lexology-getting-the-deal-through-cryptoassets-blockchain-2021-austria/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.schoenherr.eu/media/pzhoyvcx/ursula-rath-thomas-kulnigg-lexology-gtdt-cryptoassets-blockchain-2021-austria.jpg?anchor=center&mode=crop&width=450&height=250&rnd=132568216983830000"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual Currency Regulation In 2020: Shedding Light On Austria's ...",
+            "htmlTitle": "Virtual Currency <b>Regulation</b> In 2020: Shedding Light On <b>Austria&#39;s</b> ...",
+            "link": "https://www.mondaq.com/austria/fin-tech/1011212/virtual-currency-regulation-in-2020-shedding-light-on-austria39s-blockchain-landscape",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Dec 1, 2020 ... Austria's Regulatory Framework ... Austrian law neither bans nor restricts blockchain technology, but rather seeks to adequately regulate it. In\u00a0...",
+            "htmlSnippet": "Dec 1, 2020 <b>...</b> <b>Austria&#39;s Regulatory</b> Framework ... <b>Austrian</b> law neither bans nor restricts blockchain technology, but rather seeks to adequately <b>regulate</b> it. In&nbsp;...",
+            "cacheId": "O2lCD33RxiQJ",
+            "formattedUrl": "https://www.mondaq.com/austria/.../virtual-currency-regulation-in-2020- shedding-light-on-austria39s-blockchain-landscape",
+            "htmlFormattedUrl": "https://www.mondaq.com/<b>austria</b>/.../virtual-currency-<b>regulation</b>-in-2020- shedding-light-on-<b>austria</b>39s-blockchain-landscape",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Virtual Currency Regulation In 2020: Shedding Light On Austria's Blockchain Landscape - Technology - Austria",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "The recent presentation of the draft Electronic Securities Act (Gesetz \u00fcber elektronische Wertpapiere, eWpG) by German lawmakers."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Austria to tax crypto same as stocks and bonds",
+            "htmlTitle": "<b>Austria</b> to tax crypto same as stocks and bonds",
+            "link": "https://www.yahoo.com/now/austria-tax-crypto-same-stocks-122250884.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Nov 12, 2021 ... Austrian authorities say they want to apply capital gains tax to ... the regulation of cryptocurrencies compared to traditional stocks and\u00a0...",
+            "htmlSnippet": "Nov 12, 2021 <b>...</b> <b>Austrian</b> authorities say they want to apply capital gains tax to ... the <b>regulation of cryptocurrencies</b> compared to traditional stocks and&nbsp;...",
+            "cacheId": "rXagcV2WgyEJ",
+            "formattedUrl": "https://www.yahoo.com/.../austria-tax-crypto-same-stocks-122250884.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>austria</b>-tax-crypto-same-stocks-122250884.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaDVfAkYFqdL7AaZPSTIxFamgPTTDixIGw9Gf_IqRb1VgrxE3HPvLx9UmM",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/d507ff73-57cb-3ca6-86ca-343e7bd990fe",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/BDRZ..QWtMFtYjLOzRZ1Bg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/97d06354170efc1c494f9680a9ac4ed8",
+                        "twitter:title": "Austria to tax crypto same as stocks and bonds",
+                        "og:type": "article",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Austria to tax crypto same as stocks and bonds",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "683",
+                        "og:description": "Austrian authorities say they want to apply capital gains tax to Bitcoin and other digital currencies in order to make them more accessible for investors.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/BDRZ..QWtMFtYjLOzRZ1Bg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/97d06354170efc1c494f9680a9ac4ed8",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/BDRZ..QWtMFtYjLOzRZ1Bg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/97d06354170efc1c494f9680a9ac4ed8",
+                        "al:android:url": "yfinance://article/d507ff73-57cb-3ca6-86ca-343e7bd990fe",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "capital gains tax, traditional bonds, tax rules, tax framework, digital currencies, Austrian authorities, tax reform",
+                        "twitter:description": "Austrian authorities say they want to apply capital gains tax to Bitcoin and other digital currencies in order to make them more accessible for investors.",
+                        "og:url": "https://finance.yahoo.com/news/austria-tax-crypto-same-stocks-122250884.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/BDRZ..QWtMFtYjLOzRZ1Bg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/97d06354170efc1c494f9680a9ac4ed8"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain 2021 - Austria | Global Practice Guides | Chambers and ...",
+            "htmlTitle": "Blockchain 2021 - <b>Austria</b> | Global Practice Guides | Chambers and ...",
+            "link": "https://practiceguides.chambers.com/practice-guides/blockchain-2021/austria/trends-and-developments",
+            "displayLink": "practiceguides.chambers.com",
+            "snippet": "Jun 17, 2021 ... ... using blockchain technology or cryptocurrencies. Austria has amended the existing national AML laws in order to transpose the 5th AMLD.",
+            "htmlSnippet": "Jun 17, 2021 <b>...</b> ... using blockchain technology or <b>cryptocurrencies</b>. <b>Austria</b> has amended the existing national AML <b>laws</b> in order to transpose the 5th AMLD.",
+            "cacheId": "2vxZwq8NRskJ",
+            "formattedUrl": "https://practiceguides.chambers.com/.../austria/trends-and-developments",
+            "htmlFormattedUrl": "https://practiceguides.chambers.com/.../<b>austria</b>/trends-and-developments",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzhpxSNrq4RgEQc_XOIP0cZfxo49rPxsxKI3TTQNbZ9G4VvpY58iZaYa0",
+                        "width": "200",
+                        "height": "230"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "image": "https://chambersandpartners.azureedge.net/practiceguides/Pictures/208/28255.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://chambersandpartners.azureedge.net/practiceguides/Pictures/208/28256.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Financial Technology Law Review: Austria",
+            "htmlTitle": "The Financial Technology Law Review: <b>Austria</b>",
+            "link": "https://thelawreviews.co.uk/title/the-financial-technology-law-review/austria",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Apr 26, 2021 ... Cryptocurrencies, initial coin offerings (ICO) and security tokens. There is no specific regulation of blockchain technology in Austria.",
+            "htmlSnippet": "Apr 26, 2021 <b>...</b> <b>Cryptocurrencies</b>, initial coin offerings (ICO) and security tokens. There is no specific <b>regulation</b> of blockchain technology in <b>Austria</b>.",
+            "cacheId": "veg99zT9bJcJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-financial-technology-law.../austria",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-financial-technology-law.../<b>austria</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "Ld7yBe6myXjjDuI5qiXpOJIhpaLY2qAS6zY7WTFD"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Austria Plans to Tax Cryptocurrencies Like Stocks, Vows Equal ...",
+            "htmlTitle": "<b>Austria</b> Plans to Tax <b>Cryptocurrencies</b> Like Stocks, Vows Equal ...",
+            "link": "https://news.bitcoin.com/austria-plans-to-tax-cryptocurrencies-like-stocks-vows-equal-treatment/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Nov 11, 2021 ... In the latter case, Austrian taxpayers should refer to the general tax regulations and report crypto gains as income from speculative\u00a0...",
+            "htmlSnippet": "Nov 11, 2021 <b>...</b> In the latter case, <b>Austrian</b> taxpayers should refer to the general tax <b>regulations</b> and report crypto gains as income from speculative&nbsp;...",
+            "cacheId": "-pjS8Dr2Ql0J",
+            "formattedUrl": "https://news.bitcoin.com/austria-plans-to-tax-cryptocurrencies-like-stocks- vows-equal-treatment/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>austria</b>-plans-to-tax-<b>cryptocurrencies</b>-like-stocks- vows-equal-treatment/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9QXmP4YTvpwk9_pnPHd28MFL8esZ3OYKagNiy4EEg9A5xMKoaCxWIm7z0",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/11/shutterstock_1190810059.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-12T00:00:16+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Austria Plans to Tax Cryptocurrencies Like Stocks, Vows Equal Treatment \u2013 Taxes Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Authorities in Austria have indicated their intention to tax gains from digital asset investments just like those from stocks and bonds.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-11-11T19:07:46+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/austria-plans-to-tax-cryptocurrencies-like-stocks-vows-equal-treatment/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Austria Plans to Tax Cryptocurrencies Like Stocks, Vows Equal Treatment"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/11/shutterstock_1190810059.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

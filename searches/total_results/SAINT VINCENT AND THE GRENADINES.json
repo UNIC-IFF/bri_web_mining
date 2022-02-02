@@ -1,0 +1,508 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SAINT VINCENT AND THE GRENADINES",
+                "totalResults": "360000",
+                "searchTerms": "SAINT VINCENT AND THE GRENADINES",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SAINT VINCENT AND THE GRENADINES",
+                "totalResults": "360000",
+                "searchTerms": "SAINT VINCENT AND THE GRENADINES",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.346231,
+        "formattedSearchTime": "0.35",
+        "totalResults": "360000",
+        "formattedTotalResults": "360,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Saint Vincent and the Grenadines - United States Department of State",
+            "htmlTitle": "<b>Saint Vincent and the Grenadines</b> - United States Department of State",
+            "link": "https://www.state.gov/reports/2021-investment-climate-statements/saint-vincent-and-the-grenadines/",
+            "displayLink": "www.state.gov",
+            "snippet": "There are no limits on foreign control in St. Vincent and the Grenadines, ... does not have any specific legislation to regulate cryptocurrencies.",
+            "htmlSnippet": "There are no limits on foreign <b>control</b> in <b>St</b>. <b>Vincent and the Grenadines</b>, ... does not have any specific legislation to <b>regulate cryptocurrencies</b>.",
+            "cacheId": "L54FHpWlGagJ",
+            "formattedUrl": "https://www.state.gov/reports/2021.../saint-vincent-and-the-grenadines/",
+            "htmlFormattedUrl": "https://www.state.gov/reports/2021.../<b>saint</b>-<b>vincent-and-the-grenadines</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "United States Department of State",
+                        "og:title": "Saint Vincent and the Grenadines - United States Department of State",
+                        "og:image:height": "675",
+                        "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-270x270.png",
+                        "twitter:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "msapplication-tap-highlight": "no",
+                        "article:modified_time": "2021-07-19T20:57:43+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.state.gov/reports/2021-investment-climate-statements/saint-vincent-and-the-grenadines/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Saint Vincent and the Grenadines and Cryptocurrency - Freeman Law",
+            "htmlTitle": "<b>Saint Vincent and the Grenadines</b> and <b>Cryptocurrency</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/saint-vincent-the-grenadines/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "The government of Saint Vincent and the Grenadines has not passed any legislation that specifically deals with cryptocurrency. However, Saint Vincent and the\u00a0...",
+            "htmlSnippet": "The government of <b>Saint Vincent and the Grenadines</b> has not passed any legislation that specifically deals with <b>cryptocurrency</b>. However, <b>Saint Vincent and the</b>&nbsp;...",
+            "cacheId": "gOAhnkQnFYcJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/saint-vincent-the-grenadines/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>saint</b>-<b>vincent</b>-the-<b>grenadines</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:34:49+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/saint-vincent-the-grenadines/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Saint Vincent? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:59+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/saint-kitts-nevis/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Saint Vincent and the Grenadines and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Saint Vincent and the Grenadines and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:05:59+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Saint Vincent and the Grenadines and Cryptocurrency Saint Vincent and The Grenadines Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology The government of Saint Vincent and the Grenadines has not passed any legislation that specifically deals with...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/saint-vincent-the-grenadines/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Saint Vincent ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Saint Vincent</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/saint-vincent-and-the-grenadines",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Saint Vincent and the Grenadines for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in\u00a0...",
+            "htmlSnippet": "The <b>Saint Vincent and the Grenadines</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in&nbsp;...",
+            "cacheId": "l2xbTFhPSUEJ",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws...regulations/saint-vincent-and-the -grenadines",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>...<b>regulations</b>/<b>saint</b>-<b>vincent-and-the -grenadines</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Saint Vincent and the Grenadines for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Saint Vincent and the Grenadines | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Saint Vincent and the Grenadines for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Saint Vincent and the Grenadines | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/saint-vincent-and-the-grenadines"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Are Regulatory Changes on the Horizon for Saint Vincent & the ...",
+            "htmlTitle": "Are <b>Regulatory</b> Changes on the Horizon for <b>Saint Vincent</b> &amp; the ...",
+            "link": "https://www.financemagnates.com/forex/analysis/are-regulatory-changes-on-the-horizon-for-saint-vincent-the-grenadines/",
+            "displayLink": "www.financemagnates.com",
+            "snippet": "Jul 8, 2020 ... There might be some big changes coming in terms of forex regulation for Saint Vincent and the Grenadines, Finance Magnates has learned.",
+            "htmlSnippet": "Jul 8, 2020 <b>...</b> There might be some big changes coming in terms of forex <b>regulation</b> for <b>Saint Vincent and the Grenadines</b>, Finance Magnates has learned.",
+            "cacheId": "bndYmBH_qOAJ",
+            "formattedUrl": "https://www.financemagnates.com/.../are-regulatory-changes-on-the-horizon- for-saint-vincent-the-grenadines/",
+            "htmlFormattedUrl": "https://www.financemagnates.com/.../are-<b>regulatory</b>-changes-on-the-horizon- for-<b>saint</b>-<b>vincent</b>-the-<b>grenadines</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZtEExeX6QTazSvMMOelhD0tBuyL7iEdoQYLYOC5PeTDkR9NSdNlj9HSPO",
+                        "width": "333",
+                        "height": "151"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.financemagnates.com/wp-content/uploads/2020/07/Saint-Vincent-header-07.06.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Are Regulatory Changes on the Horizon for Saint Vincent & the Grenadines?",
+                        "article:published_time": "2020-07-08T08:34:41+00:00",
+                        "og:site_name": "Financial and Business News | Finance Magnates",
+                        "apple-mobile-web-app-title": "Are Regulatory Changes on the Horizon for Saint Vincent & the Grenadines?",
+                        "og:title": "Are Regulatory Changes on the Horizon for Saint Vincent & the Grenadines?",
+                        "title": "Are Regulatory Changes on the Horizon for Saint Vincent & the Grenadines?",
+                        "og:description": "There might be some big changes coming in terms of forex regulation for Saint Vincent and the Grenadines, Finance Magnates has learned.",
+                        "twitter:image": "https://www.financemagnates.com/wp-content/uploads/2020/07/Saint-Vincent-header-07.06.jpg",
+                        "twitter:site": "@financemagnates",
+                        "article:modified_time": "2021-03-16T12:38:34+00:00",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                        "twitter:description": "There might be some big changes coming in terms of forex regulation for Saint Vincent and the Grenadines, Finance Magnates has learned.",
+                        "og:url": "https://www.financemagnates.com/forex/analysis/are-regulatory-changes-on-the-horizon-for-saint-vincent-the-grenadines/",
+                        "google-signin-client_id": "446430125344-moa2cm18di4hqr6jt05lf9pghb3a973h.apps.googleusercontent.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.financemagnates.com/wp-content/uploads/2020/07/Saint-Vincent-header-07.06.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Oct 21, 2021 ... Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency ... Saint Vincent and the Grenadines\u00a0...",
+            "htmlSnippet": "Oct 21, 2021 <b>...</b> Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 covers government attitude and definition, <b>cryptocurrency</b> ... <b>Saint Vincent and the Grenadines</b>&nbsp;...",
+            "cacheId": "r9voBECz-nwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/.../blockchain-laws-and-regulations",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/.../blockchain-<b>laws</b>-and-<b>regulations</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "\u00a3 350.00",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSEXypzfKs7vsrQHQttOcTeIAqC3ci_4aH1FB3vfFjqi1S8iM2lYN3hcRu",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cyber-related Designations and Designations Updates | U.S. ...",
+            "htmlTitle": "Cyber-related Designations and Designations Updates | U.S. ...",
+            "link": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20211108",
+            "displayLink": "home.treasury.gov",
+            "snippet": "Nov 8, 2021 ... CHATEX, Estonia; Latvia; Saint Vincent and the Grenadines; Website chatex.com; Digital Currency Address - XBT 3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n\u00a0...",
+            "htmlSnippet": "Nov 8, 2021 <b>...</b> CHATEX, Estonia; Latvia; <b>Saint Vincent and the Grenadines</b>; Website chatex.com; Digital Currency Address - XBT 3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n&nbsp;...",
+            "cacheId": "Fq4mn7U4tKIJ",
+            "formattedUrl": "https://home.treasury.gov/policy-issues/financial-sanctions/.../20211108",
+            "htmlFormattedUrl": "https://home.treasury.gov/policy-issues/financial-sanctions/.../20211108",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-91IfwYYNnVbB_SsWhMb954aObHlbTxojgkmXpbpy7fdA3rsWflH3E6el",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1900px",
+                        "og:image:alt": "U.S. Department of the Treasury",
+                        "twitter:card": "summary",
+                        "twitter:title": "Cyber-related Designations and Designations Updates",
+                        "og:site_name": "U.S. Department of the Treasury",
+                        "handheldfriendly": "true",
+                        "og:title": "Cyber-related Designations and Designations Updates",
+                        "og:image:height": "950px",
+                        "twitter:image:height": "1080",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2021-11-12",
+                        "twitter:image": "https://home.treasury.gov/system/files/291/treasury-preview-1080x1080.jpg",
+                        "twitter:image:alt": "U.S. Department of the Treasury",
+                        "twitter:site": "@USTreasury",
+                        "twitter:image:width": "1080",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "og:url": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20211108"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ADVISORY: Foreign Exchange (FOREX) Trading and ...",
+            "htmlTitle": "ADVISORY: Foreign Exchange (FOREX) Trading and ...",
+            "link": "http://svgfiu.com/images/pdf/PressReleases/ADVISORY.pdf",
+            "displayLink": "svgfiu.com",
+            "snippet": "It is advised however, that there is no regulation in place for Foreign Exchange (Forex) Trading and Cryptocurrency offerings in St. Vincent and the. Grenadines\u00a0...",
+            "htmlSnippet": "It is advised however, that there is no <b>regulation</b> in place for Foreign Exchange (Forex) Trading and <b>Cryptocurrency</b> offerings in <b>St</b>. <b>Vincent</b> and the. <b>Grenadines</b>&nbsp;...",
+            "cacheId": "95vvOwF3Z7oJ",
+            "formattedUrl": "svgfiu.com/images/pdf/PressReleases/ADVISORY.pdf",
+            "htmlFormattedUrl": "svgfiu.com/images/pdf/PressReleases/ADVISORY.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "moddate": "D:20180620154057-04'00'",
+                        "creationdate": "D:20180614165717-04'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "author": "Geshell Peters",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Trust, regulation, and initial coin offerings: An in- ternational ...",
+            "htmlTitle": "Trust, <b>regulation</b>, and initial coin offerings: An in- ternational ...",
+            "link": "https://www.aeaweb.org/conference/2020/preliminary/paper/446Hy4R9",
+            "displayLink": "www.aeaweb.org",
+            "snippet": "ICOs generally issue a token (or cryptocurrency), which can serve as a means of payment for the en- ... Saint Vincent and the Grenadines. 7.58. Singapore.",
+            "htmlSnippet": "ICOs generally issue a token (or <b>cryptocurrency</b>), which can serve as a means of payment for the en- ... <b>Saint Vincent and the Grenadines</b>. 7.58. Singapore.",
+            "cacheId": "gd7ysUp4cIUJ",
+            "formattedUrl": "https://www.aeaweb.org/conference/2020/preliminary/paper/446Hy4R9",
+            "htmlFormattedUrl": "https://www.aeaweb.org/conference/2020/preliminary/paper/446Hy4R9",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTXZI5HZOGQzzQMRfWAN5-TbwmsbJDIzMgVe9Fxj1syga8NQ5L_8bkGLeZ",
+                        "width": "284",
+                        "height": "177"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20191225212052+01'00'",
+                        "creator": "LaTeX with hyperref package",
+                        "creationdate": "D:20191225212052+01'00'",
+                        "fullbanner": "This is MiKTeX-pdfTeX 2.9.5800 (1.40.16)",
+                        "producer": "medialab"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e11f82af645ce82660058f68a245b6bf5afab2b8b399e4f88ac421074e5f5651"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World",
+            "link": "https://jolt.richmond.edu/files/2021/02/Bull_cryptocurrency-world-survey.pdf",
+            "displayLink": "jolt.richmond.edu",
+            "snippet": "laws to bring cryptocurrency transactions and institutions that ... Saint Vincent and the Grenadines does not have any specific legislation to regulate.",
+            "htmlSnippet": "<b>laws</b> to bring <b>cryptocurrency</b> transactions and institutions that ... <b>Saint Vincent and the Grenadines</b> does not have any specific legislation to <b>regulate</b>.",
+            "formattedUrl": "https://jolt.richmond.edu/files/2021/.../Bull_cryptocurrency-world-survey.pdf",
+            "htmlFormattedUrl": "https://jolt.richmond.edu/files/2021/.../Bull_<b>cryptocurrency</b>-world-survey.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1foJ6KNQry54P3OF5oMsOufbLIAkZmTFLCRLx7CQc65eOYAjrRjX0_pY",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180612125833-04'00'",
+                        "creationdate": "D:20180611153612-04'00'",
+                        "creator": "Adobe Acrobat Pro DC 15.17.20050",
+                        "author": "Global Legal Research Directorate staff, Law Library of Congress",
+                        "subject": "This report by the Law Library of Congress provides information on the regulation of cryptocurrency around the world.",
+                        "producer": "Adobe Acrobat Pro DC 15.17.20050",
+                        "title": "Regulation of Crytocurrency Around the World"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///4fb0c3de60d9807280b9bd74fbd7b876d381046e9c455a4932a763d3d4c6c65a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Handbook of Blockchain, Digital Finance, and Inclusion, Volume 1 ...",
+            "htmlTitle": "Handbook of Blockchain, Digital Finance, and Inclusion, Volume 1 ...",
+            "link": "https://www.elsevier.com/books/handbook-of-blockchain-digital-finance-and-inclusion-volume-1/lee-kuo-chuen/978-0-12-810441-5",
+            "displayLink": "www.elsevier.com",
+            "snippet": "Aug 3, 2017 ... Cryptocurrency, FinTech, InsurTech, and Regulation \u00b7 Editors: David Lee Kuo Chuen, Robert Deng \u00b7 Paperback ISBN: 9780128104415 \u00b7 eBook ISBN:\u00a0...",
+            "htmlSnippet": "Aug 3, 2017 <b>...</b> <b>Cryptocurrency</b>, FinTech, InsurTech, and <b>Regulation</b> &middot; Editors: David Lee Kuo Chuen, Robert Deng &middot; Paperback ISBN: 9780128104415 &middot; eBook ISBN:&nbsp;...",
+            "cacheId": "bKKd2kUr8IAJ",
+            "formattedUrl": "https://www.elsevier.com/books/handbook-of.../978-0-12-810441-5",
+            "htmlFormattedUrl": "https://www.elsevier.com/books/handbook-of.../978-0-12-810441-5",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780128104415.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "referrer": "unsafe-url",
+                        "next-head-count": "2",
+                        "audience": "<P>Upper-division undergraduates, graduate students, and professionals working in financial institutions and financial technology worldwide</P>",
+                        "thumbnail": "https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780128104415.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "author": "Elsevier",
+                        "last-modified-date": "2020-09-14 09:58:29",
+                        "msapplication-tileimage": "//design.elsevier.com/public/icon-set/elsevier/favicon-32px.svg",
+                        "asssetid": "154908"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780128104415.jpg",
+                        "width": "198",
+                        "type": "1",
+                        "height": "244"
+                    }
+                ]
+            }
+        }
+    ]
+}

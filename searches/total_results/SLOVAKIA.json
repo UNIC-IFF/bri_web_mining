@@ -1,0 +1,523 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SLOVAKIA",
+                "totalResults": "546000",
+                "searchTerms": "SLOVAKIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SLOVAKIA",
+                "totalResults": "546000",
+                "searchTerms": "SLOVAKIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.390659,
+        "formattedSearchTime": "0.39",
+        "totalResults": "546000",
+        "formattedTotalResults": "546,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency license in Slovakia | Cryptocurrency exchange ...",
+            "htmlTitle": "<b>Cryptocurrency</b> license in <b>Slovakia</b> | <b>Cryptocurrency</b> exchange ...",
+            "link": "https://prifinance.com/en/cryptocurrency-license/slovakia/",
+            "displayLink": "prifinance.com",
+            "snippet": "Features of cryptocurrency regulation and licensing in Slovakia ... At the same time, non-fiat money is not regulated at all in the Slovak legislation, and their\u00a0...",
+            "htmlSnippet": "Features of <b>cryptocurrency regulation</b> and licensing in <b>Slovakia</b> ... At the same time, non-fiat money is not <b>regulated</b> at all in the <b>Slovak</b> legislation, and their&nbsp;...",
+            "cacheId": "nUVtKSjhNs8J",
+            "formattedUrl": "https://prifinance.com/en/cryptocurrency-license/slovakia/",
+            "htmlFormattedUrl": "https://prifinance.com/en/<b>cryptocurrency</b>-license/<b>slovakia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi9QmEbcWElsNLSR7uufUJGipaOILJofeJcKekEE2M3fj6MjNUtnZEfRc",
+                        "width": "200",
+                        "height": "82"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "/bitrix/templates/prifinance/img/logo_en.png",
+                        "og:type": "website",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency license in Slovakia | Cryptocurrency exchange licensing in Slovakia",
+                        "og:url": "https://prifinance.com/en/cryptocurrency-license/slovakia/",
+                        "og:description": "Slovakia is one of the countries that recognize bitcoin and other cryptocurrencies. According to the European Parliament, it is used to finance terrorists, and the turnover of non-fiat currencies is becoming more serious even in countries that directly issue licenses to exchange cryptocurrencies",
+                        "facebook-domain-verification": "x7zorz2zhvirflgeenjn7jkxlc5sw3",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://prifinance.com/local/templates/prifinance/img/logo_en.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slovakia and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Slovakia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/slovakia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Slovakia and Cryptocurrency. Slovakia Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "<b>Slovakia</b> and <b>Cryptocurrency</b>. <b>Slovakia Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "dSOq1dQ6HZoJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/slovakia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>slovakia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:42:30+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/slovakia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Slovakia Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:36+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Slovakia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Slovakia and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:06:36+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Slovakia and Cryptocurrency Slovakia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology On March 23, 2018, the Ministry of Finance published guidance explaining that revenues stemming from cryptocurrencies must be taxed and that any type of...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/slovakia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Three key cryptocurrency trends family offices should be aware of ...",
+            "htmlTitle": "Three key <b>cryptocurrency</b> trends family offices should be aware of ...",
+            "link": "https://www.ey.com/en_sk/unlocking-ambitions-of-private-businesses-and-their-owners/three-cryptocurrency-trends",
+            "displayLink": "www.ey.com",
+            "snippet": "Oct 8, 2021 ... Online as well as offline fraud can present a significant risk. Stricter Anti-Money Laundering (AML) and Know Your Client (KYC) regulations are\u00a0...",
+            "htmlSnippet": "Oct 8, 2021 <b>...</b> Online as well as offline fraud can present a significant risk. Stricter Anti-Money Laundering (AML) and Know Your Client (KYC) <b>regulations</b> are&nbsp;...",
+            "cacheId": "DRigCD9bCccJ",
+            "formattedUrl": "https://www.ey.com/en_sk/unlocking.../three-cryptocurrency-trends",
+            "htmlFormattedUrl": "https://www.ey.com/en_sk/unlocking.../three-<b>cryptocurrency</b>-trends",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkzYIvq_I8ubJ9i-DiqKOG6aSlgmMCoJtKPwJofuYcz8QY8UbK5zs8lo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/unlocking-ambitions-of-private-businesses-and-their-owners/ey-it-guy-launching-his-first-mining-rig-for-cryptocurrency.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Three key cryptocurrency trends family offices should be aware of",
+                        "twitter:site": "@EYNews",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "More family offices are making crypto assets part of their investment strategy. But embracing the crypto economy also brings risk. Learn more.",
+                        "og:title": "Three key cryptocurrency trends family offices should be aware of",
+                        "og:url": "https://www.ey.com/en_sk/unlocking-ambitions-of-private-businesses-and-their-owners/three-cryptocurrency-trends",
+                        "og:description": "More family offices are making crypto assets part of their investment strategy. But embracing the crypto economy also brings risk. Learn more.",
+                        "twitter:image": "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/unlocking-ambitions-of-private-businesses-and-their-owners/ey-it-guy-launching-his-first-mining-rig-for-cryptocurrency.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/unlocking-ambitions-of-private-businesses-and-their-owners/ey-it-guy-launching-his-first-mining-rig-for-cryptocurrency.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Slovakia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Slovakia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/slovakia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Slovakia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Slovakia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "8ys4FUpWC5oJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/slovakia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>slovakia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Slovakia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Slovakia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Slovakia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Slovakia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/slovakia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased exponentially. ... Ministry of Finance of the Slovak Republic.",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased exponentially. ... Ministry of Finance of the <b>Slovak</b> Republic.",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How are cryptocurrencies regulated in Slovakia?",
+            "htmlTitle": "How are <b>cryptocurrencies regulated</b> in <b>Slovakia</b>?",
+            "link": "https://blockpit.io/en/blog/crypto-taxation-regulations-slovakia/",
+            "displayLink": "blockpit.io",
+            "snippet": "Feb 1, 2021 ... How are cryptocurrencies regulated in Slovakia? ... For private individuals profits made from cryptocurrencies are taxable. Thus, income from the\u00a0...",
+            "htmlSnippet": "Feb 1, 2021 <b>...</b> How are <b>cryptocurrencies regulated</b> in <b>Slovakia</b>? ... For private individuals profits made from <b>cryptocurrencies</b> are taxable. Thus, income from the&nbsp;...",
+            "cacheId": "RVfIJ7d_xyEJ",
+            "formattedUrl": "https://blockpit.io/en/blog/crypto-taxation-regulations-slovakia/",
+            "htmlFormattedUrl": "https://blockpit.io/en/blog/crypto-taxation-<b>regulations</b>-<b>slovakia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2Qfdzbg4soABwjL5qf3-2qkArVy6ptJo25lNeqF7hBPdO4N5JIKlP9Obn",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2019-01-24_92eba6a8-5d44-478e-8cf9-eb3011169d13.png",
+                        "og:type": "article",
+                        "article:section": "Tax and Regulations",
+                        "og:image:width": "1000",
+                        "og:image:alt": "How are cryptocurrencies regulated in Slovakia?",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "How are cryptocurrencies regulated in Slovakia?",
+                        "og:site_name": "Blockpit",
+                        "og:title": "How are cryptocurrencies regulated in Slovakia?",
+                        "og:image:height": "563",
+                        "og:image:type": "image/png",
+                        "og:updated_time": "2021-09-22T15:09:41+02:00",
+                        "msapplication-tileimage": "https://blockpit.b-cdn.net/wp-content/uploads/2021/10/blockpit-favicon-300x300.png",
+                        "og:description": "How are cryptocurrencies taxed and what regulations apply to businesses? This blog gives you insights on the legal framework in Slovakia.",
+                        "og:image:secure_url": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2019-01-24_92eba6a8-5d44-478e-8cf9-eb3011169d13.png",
+                        "twitter:image": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2019-01-24_92eba6a8-5d44-478e-8cf9-eb3011169d13.png",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "How are cryptocurrencies taxed and what regulations apply to businesses? This blog gives you insights on the legal framework in Slovakia.",
+                        "og:locale": "en_US",
+                        "og:url": "https://blockpit.io/en/blog/crypto-taxation-regulations-slovakia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blockpit.b-cdn.net/wp-content/uploads/2021/09/blog_2019-01-24_92eba6a8-5d44-478e-8cf9-eb3011169d13.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The legal status of cryptocurrencies varies substantially from one jurisdiction to another, ... Contentious (interpretation of old laws, but bitcoin is not prohibited\u00a0...",
+            "htmlSnippet": "The legal status of <b>cryptocurrencies</b> varies substantially from one jurisdiction to another, ... Contentious (interpretation of old laws, but bitcoin is not prohibited&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The EU and Slovakia are adopting legislation on cryptocurrencies",
+            "htmlTitle": "The EU and <b>Slovakia</b> are adopting legislation on <b>cryptocurrencies</b>",
+            "link": "https://dollero.tech/en/dollero-news/275-200924-the-eu-and-slovakia-are-adopting-legislation-on-cryptocurrencies",
+            "displayLink": "dollero.tech",
+            "snippet": "The new legislation will not bypass Slovakia either. On September 17, the Slovak parliament passed a collection of laws that also regulate the cryptocurrency\u00a0...",
+            "htmlSnippet": "The new legislation will not bypass <b>Slovakia</b> either. On September 17, the <b>Slovak</b> parliament passed a collection of <b>laws</b> that also <b>regulate</b> the <b>cryptocurrency</b>&nbsp;...",
+            "cacheId": "Z--BhUf7-DAJ",
+            "formattedUrl": "https://dollero.tech/.../275-200924-the-eu-and-slovakia-are-adopting- legislation-on-cryptocurrencies",
+            "htmlFormattedUrl": "https://dollero.tech/.../275-200924-the-eu-and-<b>slovakia</b>-are-adopting- legislation-on-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVS1x3OANwFTITecB66Aswyt1UGAjlDumVudwqAkqRmxg_fkODX9H8bgkk",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://dollero.tech/uploads/articles/cover_image_275.png",
+                        "theme-color": "#22ACAE",
+                        "og:image:alt": "The EU and Slovakia are adopting legislation on cryptocurrencies",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "The EU and Slovakia are adopting legislation on cryptocurrencies",
+                        "og:site_name": "Dollero Technology",
+                        "og:title": "The EU and Slovakia are adopting legislation on cryptocurrencies",
+                        "dollero technology": "Dollero technology",
+                        "og:updated_time": "1641958060",
+                        "og:description": "New legislation concerning cryptocurrencies and companies operating in this market is coming to the EU and thus to Slovakia. Will it help the market or rather harm it?",
+                        "twitter:creator": "@DolleroTech",
+                        "twitter:image": "https://dollero.tech/uploads/articles/cover_image_275.png",
+                        "fb:app_id": "1356233341146527",
+                        "twitter:site": "@DolleroTech",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+                        "twitter:description": "New legislation concerning cryptocurrencies and companies operating in this market is coming to the EU and thus to Slovakia. Will it help the market or rather harm it?",
+                        "og:url": "https://dollero.tech/en/dollero-news/275-200924-the-eu-and-slovakia-are-adopting-legislation-on-cryptocurrencies",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://dollero.tech/uploads/articles/cover_image_275.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Digital Currencies: International Actions and Regulations | Perkins ...",
+            "htmlTitle": "Digital Currencies: International Actions and <b>Regulations</b> | Perkins ...",
+            "link": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "Cryptocurrency exchanges in Australia are already required to comply with new anti-money laundering and counter terrorist financing rules under AUSTRAC, the\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrency</b> exchanges in Australia are already required to comply with new anti-money laundering and counter terrorist financing rules under AUSTRAC, the&nbsp;...",
+            "cacheId": "UEw8kn0GGWQJ",
+            "formattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- regulations.html",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- <b>regulations</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfw1qAPhUYilP8ZWNa6aHs--yp4VcXc9AeSkT9IBkSdYrU6KHtKMWhoQ",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Perkins Coie LLP",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "msapplication-config": "/images/favicons/browserconfig.xml",
+                        "og:type": "website",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Perkins Coie",
+                        "og:title": "Digital Currencies: International Actions and Regulations",
+                        "apple-mobile-web-app-title": "Perkins Coie LLP",
+                        "og:description": "Last updated: January 2021\nNo Legal Advice or Attorney-Client Relationship: This chart is provided by Perkins Coie LLP\u2019s Blockchain, Digital Assets & Custody industry group for informational purposes ...",
+                        "og:image:secure_url": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable = no, maximum-scale=1.0",
+                        "og:url": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

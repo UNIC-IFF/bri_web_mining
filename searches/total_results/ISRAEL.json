@@ -1,0 +1,530 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ISRAEL",
+                "totalResults": "750000",
+                "searchTerms": "ISRAEL",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ISRAEL",
+                "totalResults": "750000",
+                "searchTerms": "ISRAEL",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.35429,
+        "formattedSearchTime": "0.35",
+        "totalResults": "750000",
+        "formattedTotalResults": "750,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Israel and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Israel</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/israel/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Israel Cryptocurrency Laws ... Israel's Supervision on Financial Services (Regulated Financial Services) Law 5776-2016 requires persons engaging in providing\u00a0...",
+            "htmlSnippet": "<b>Israel Cryptocurrency Laws</b> ... <b>Israel&#39;s</b> Supervision on Financial Services (<b>Regulated</b> Financial Services) Law 5776-2016 requires persons engaging in providing&nbsp;...",
+            "cacheId": "56kT-QeGrSAJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/israel/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>israel</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWRzLADyZp-4vKpN-8fzy6oM8vjPV8u09ExJ7NYn9CA68Bx4B560MIBLCY",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_23262322-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T23:02:23+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/israel/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Israel? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_23262322-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_23262322-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:20:13+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Israel?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Israel and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Israel and Cryptocurrency",
+                        "og:image:height": "1435",
+                        "og:updated_time": "2022-01-09T18:20:13+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Israel and Cryptocurrency Israel Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Israel\u2019s Supervision on Financial Services (Regulated Financial Services) Law 5776-2016 requires persons engaging in providing services involving \u201cfinancial...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/israel/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_23262322-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Israel reportedly adopts new AML rules for crypto",
+            "htmlTitle": "<b>Israel</b> reportedly adopts new AML rules for crypto",
+            "link": "https://cointelegraph.com/news/israel-reportedly-adopts-new-aml-rules-for-crypto",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Nov 16, 2021 ... Israel has reportedly enacted new regulations related to the cryptocurrency industry in order to combat illegal activities such a money\u00a0...",
+            "htmlSnippet": "Nov 16, 2021 <b>...</b> <b>Israel</b> has reportedly enacted new <b>regulations</b> related to the <b>cryptocurrency</b> industry in order to combat illegal activities such a money&nbsp;...",
+            "cacheId": "b3cyQ-LArAAJ",
+            "formattedUrl": "https://cointelegraph.com/.../israel-reportedly-adopts-new-aml-rules-for- crypto",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>israel</b>-reportedly-adopts-new-aml-rules-for- crypto",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMqUFsLzeH5TyiZHvIw9KA5n6YDfpPkFNft5q1hlMHf6ak1jECzLmChMo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTEvNzkzYWU1YTItODNhMC00ZDBhLWFkMjgtMDU2MjcyNDMwZTA4LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Israel reportedly adopts new AML rules for crypto",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Israel reportedly adopts new AML rules for crypto",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Israel has reportedly enacted new regulations related to the cryptocurrency industry in order to combat illegal activities like money laundering and terrorism financing.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTEvNzkzYWU1YTItODNhMC00ZDBhLWFkMjgtMDU2MjcyNDMwZTA4LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Israel has reportedly enacted new regulations related to the cryptocurrency industry in order to combat illegal activities like money laundering and terrorism financing.",
+                        "og:url": "https://cointelegraph.com/news/israel-reportedly-adopts-new-aml-rules-for-crypto"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTEvNzkzYWU1YTItODNhMC00ZDBhLWFkMjgtMDU2MjcyNDMwZTA4LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Israel Securities Authority :: Warning to Investors Regarding ...",
+            "htmlTitle": "<b>Israel</b> Securities Authority :: Warning to Investors Regarding ...",
+            "link": "https://www.isa.gov.il/sites/ISAEng/Pages/unregulated-investments.aspx",
+            "displayLink": "www.isa.gov.il",
+            "snippet": "Cyber-attacks against unregulated trading platforms and digital wallets are a common occurrence. \u2022 Regulatory risks, where future regulation of cryptocurrencies\u00a0...",
+            "htmlSnippet": "Cyber-attacks against unregulated trading platforms and digital wallets are a common occurrence. \u2022 <b>Regulatory</b> risks, where future <b>regulation of cryptocurrencies</b>&nbsp;...",
+            "cacheId": "AhEGuhILCPsJ",
+            "formattedUrl": "https://www.isa.gov.il/sites/ISAEng/Pages/unregulated-investments.aspx",
+            "htmlFormattedUrl": "https://www.isa.gov.il/sites/ISAEng/Pages/un<b>regulated</b>-investments.aspx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ56ObXW9mHBido-kvHsP1Qyq9HCWiS91nIQufCR6BwISpNFrc7-mrUaA",
+                        "width": "161",
+                        "height": "86"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.isa.gov.il/_layouts/15/images/isa.website/logo_final.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Israel's new regulations regarding cryptocurrency | Craig Lebrau ...",
+            "htmlTitle": "<b>Israel&#39;s</b> new <b>regulations</b> regarding <b>cryptocurrency</b> | Craig Lebrau ...",
+            "link": "https://blogs.timesofisrael.com/israels-new-regulations-regarding-cryptocurrency/",
+            "displayLink": "blogs.timesofisrael.com",
+            "snippet": "Dec 1, 2021 ... Israeli authorities are ramping up their control on illicit activities and are currently working on moving a bill that will require Israelis to\u00a0...",
+            "htmlSnippet": "Dec 1, 2021 <b>...</b> <b>Israeli</b> authorities are ramping up their <b>control</b> on illicit activities and are currently working on moving a bill that will require Israelis to&nbsp;...",
+            "cacheId": "tsOJ6-u0m4gJ",
+            "formattedUrl": "https://blogs.timesofisrael.com/israels-new-regulations-regarding- cryptocurrency/",
+            "htmlFormattedUrl": "https://blogs.timesof<b>israel</b>.com/<b>israels</b>-new-<b>regulations</b>-regarding- <b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE0-euNqJ4lH00bn5WghDh-Lzs5mN1ZmBMXsSbmgcQSWCx4WoEPZjMpGsc",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://static.timesofisrael.com/blogs/uploads/users/author_portrait1627391744-400x400.jpeg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "og:image:width": "400",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Israel\u2019s new regulations regarding cryptocurrency",
+                        "og:title": "Israel\u2019s new regulations regarding cryptocurrency",
+                        "og:image:height": "400",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://static.timesofisrael.com/www/images/toi_icon_144.png",
+                        "og:description": "From the blog of Craig Lebrau at The Times of Israel",
+                        "outbrain:site": "www",
+                        "article:author": "https://blogs.timesofisrael.com/author/craig-lebrau/",
+                        "article:publisher": "https://www.facebook.com/timesofisrael",
+                        "twitter:image": "https://static.timesofisrael.com/blogs/uploads/users/author_portrait1627391744-400x400.jpeg",
+                        "twitter:data1": "Craig Lebrau",
+                        "twitter:data2": "4 minutes",
+                        "fb:app_id": "123142304440875",
+                        "twitter:site": "timesofisrael",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "From the blog of Craig Lebrau at The Times of Israel",
+                        "og:url": "https://blogs.timesofisrael.com/israels-new-regulations-regarding-cryptocurrency/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.timesofisrael.com/blogs/uploads/users/author_portrait1627391744-400x400.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Israel charts path to a 'safe' cryptocurrency future | The FCPA Blog",
+            "htmlTitle": "<b>Israel</b> charts path to a &#39;safe&#39; <b>cryptocurrency</b> future | The FCPA Blog",
+            "link": "https://fcpablog.com/2019/03/22/israel-charts-path-to-a-safe-cryptocurrency-future/",
+            "displayLink": "fcpablog.com",
+            "snippet": "Mar 22, 2019 ... The new regulations impose disclosure requirements for crypto offerings that qualify as securities and call for the establishment of regulatory\u00a0...",
+            "htmlSnippet": "Mar 22, 2019 <b>...</b> The new <b>regulations</b> impose disclosure requirements for crypto offerings that qualify as securities and call for the establishment of <b>regulatory</b>&nbsp;...",
+            "cacheId": "YzkckJBiu0YJ",
+            "formattedUrl": "https://fcpablog.com/.../israel-charts-path-to-a-safe-cryptocurrency-future/",
+            "htmlFormattedUrl": "https://fcpablog.com/.../<b>israel</b>-charts-path-to-a-safe-<b>cryptocurrency</b>-future/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewfB7ipnZrX4738iABluPpVRSh-hyX7kzgpLf4iTINPrLh_xSuX2G4Xx3",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "person": [
+                    {
+                        "image": "https://fcpablog.com/wp-content/uploads/2019/12/sofcpablogsdadsf4sadf4.png",
+                        "name": "Selva Ozelli",
+                        "description": "Selva Ozelli, Esq., CPA is an international tax attorney and CPA who frequently writes about tax, legal and accounting issues for Tax Notes, Bloomberg BNA, other publications and the OECD.",
+                        "url": "Selva Ozelli"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://fcpablog.com/wp-content/uploads/2020/02/FCPA-Logo-Thumbnail.png",
+                        "og:type": "article",
+                        "og:image:width": "500",
+                        "article:published_time": "2019-03-22T12:18:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Israel charts path to a \u2018safe\u2019 cryptocurrency future | The FCPA Blog",
+                        "og:title": "Israel charts path to a \u2018safe\u2019 cryptocurrency future | The FCPA Blog",
+                        "og:image:height": "500",
+                        "msapplication-tileimage": "https://fcpablog.com/wp-content/uploads/2019/10/cropped-Favicon-1-270x270.png",
+                        "og:description": "Former Israeli Prime Minister Ehud Barak and current PM Benjamin Netanyahu believe that blockchain is a potentially a game-changing technology. They expect it to disrupt big sectors of the economy -- healthcare, banking, insurance, and cybersecurity among them.",
+                        "article:author": "Selva Ozelli",
+                        "twitter:image": "https://fcpablog.com/wp-content/uploads/2020/02/FCPA-Logo-Thumbnail.png",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Former Israeli Prime Minister Ehud Barak and current PM Benjamin Netanyahu believe that blockchain is a potentially a game-changing technology. They expect it to disrupt big sectors of the economy -- healthcare, banking, insurance, and cybersecurity among them.",
+                        "og:url": "https://fcpablog.com/2019/03/22/israel-charts-path-to-a-safe-cryptocurrency-future/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "author": "Selva Ozelli",
+                        "about": "Post Tags: cryptocurrencies, Israel",
+                        "datepublished": "March 22, 2019"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fcpablog.com/wp-content/uploads/2020/02/FCPA-Logo-Thumbnail.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Israeli Regulator Says Cryptocurrency Is A Security Subject To The ...",
+            "htmlTitle": "<b>Israeli</b> Regulator Says <b>Cryptocurrency</b> Is A Security Subject To The ...",
+            "link": "https://www.mondaq.com/fin-tech/1031864/israeli-regulator-says-cryptocurrency-is-a-security-subject-to-the-israeli-securities-law",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Feb 2, 2021 ... Israel: Israeli Regulator Says Cryptocurrency Is A Security Subject To The Israeli Securities Law ... The Israeli Securities Authority issued an\u00a0...",
+            "htmlSnippet": "Feb 2, 2021 <b>...</b> <b>Israel</b>: <b>Israeli</b> Regulator Says <b>Cryptocurrency</b> Is A Security Subject To The <b>Israeli</b> Securities Law ... The <b>Israeli</b> Securities Authority issued an&nbsp;...",
+            "cacheId": "mS3s4WwhI1gJ",
+            "formattedUrl": "https://www.mondaq.com/.../israeli-regulator-says-cryptocurrency-is-a- security-subject-to-the-israeli-securities-law",
+            "htmlFormattedUrl": "https://www.mondaq.com/.../<b>israeli</b>-regulator-says-<b>cryptocurrency</b>-is-a- security-subject-to-the-<b>israeli</b>-securities-law",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Israeli Regulator Says Cryptocurrency Is A Security Subject To The Israeli Securities Law - Technology - Israel",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "The Israeli Securities Authority issued an advance ruling paper, finding that cryptocurrency is a security subject to the Israeli Securities Law"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... The regulatory regime surrounding cryptocurrencies is ... Israel \u2013 The Israeli Securities Authority has ruled that cryptocurrency is a\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> The <b>regulatory</b> regime surrounding <b>cryptocurrencies</b> is ... <b>Israel</b> \u2013 The <b>Israeli</b> Securities Authority has ruled that <b>cryptocurrency</b> is a&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Israeli Bill Would Force Crypto Investors to Report Holdings Above ...",
+            "htmlTitle": "<b>Israeli</b> Bill Would Force Crypto Investors to Report Holdings Above ...",
+            "link": "https://www.coindesk.com/policy/2021/07/28/israeli-bill-would-force-crypto-investors-to-report-holdings-above-61k/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jul 28, 2021 ... The Israeli Bitcoin Association is opposing the proposed reporting requirement, calling it discriminatory. \u00b7 UPDATE (AUG. \u00b7 Israel's Ministry of\u00a0...",
+            "htmlSnippet": "Jul 28, 2021 <b>...</b> The <b>Israeli</b> Bitcoin Association is opposing the proposed reporting requirement, calling it discriminatory. &middot; UPDATE (AUG. &middot; <b>Israel&#39;s</b> Ministry of&nbsp;...",
+            "cacheId": "I4Ev0MmfcWIJ",
+            "formattedUrl": "https://www.coindesk.com/.../israeli-bill-would-force-crypto-investors-to- report-holdings-above-61k/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>israeli</b>-bill-would-force-crypto-investors-to- report-holdings-above-61k/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvzaQHy35dZILNpmvvlbfRex_OeeHmRYf2cHRCaN3ZTZQXoN40wtvePt-d",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/pbCu9U1xcd2NZ2zipRW8jJVDQlY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IFOV2SGHQBFNLCCDWCDCGAKEG4.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-28T17:48:49Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Israeli Bill Would Force Crypto Investors to Report Holdings Above $61K",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Israeli Bill Would Force Crypto Investors to Report Holdings Above $61K",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The Israeli Bitcoin Association is opposing the proposed reporting requirement, calling it discriminatory.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Sandali Handagama",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/RUxWUQtzIyFqkmVr4n8FjKyv1dI=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IFOV2SGHQBFNLCCDWCDCGAKEG4.jpg",
+                        "article:tag": "Tax, Israel, Bitcoin, Anti-Money Laundering, Virtual Currencies, Israeli Tax Authority, Global Macro",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-07-28T17:48:49Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Israeli Bitcoin Association is opposing the proposed reporting requirement, calling it discriminatory.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/07/28/israeli-bill-would-force-crypto-investors-to-report-holdings-above-61k/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/pbCu9U1xcd2NZ2zipRW8jJVDQlY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IFOV2SGHQBFNLCCDWCDCGAKEG4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency tokens are securities not assets, rules Israel ...",
+            "htmlTitle": "<b>Cryptocurrency</b> tokens are securities not assets, rules <b>Israel</b> ...",
+            "link": "https://www.calcalistech.com/ctech/articles/0,7340,L-3885473,00.html",
+            "displayLink": "www.calcalistech.com",
+            "snippet": "Jan 3, 2021 ... According to a position paper published by the ISA on Sunday following an approach by Israeli company Kirobo, the ISA ruled that the tokens the\u00a0...",
+            "htmlSnippet": "Jan 3, 2021 <b>...</b> According to a position paper published by the ISA on Sunday following an approach by <b>Israeli</b> company Kirobo, the ISA ruled that the tokens the&nbsp;...",
+            "cacheId": "0C8Tr5f40m8J",
+            "formattedUrl": "https://www.calcalistech.com/ctech/articles/0,7340,L-3885473,00.html",
+            "htmlFormattedUrl": "https://www.calcalistech.com/ctech/articles/0,7340,L-3885473,00.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBPLu19U7APa9k9nQQgiKdsLmnwWpemzehwIxG6m_ZM5K43JjYVFIsXAay",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images1.calcalist.co.il/PicServer3/2020/06/29/1001121/2-lm.jpg",
+                        "theme-color": "#000000",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency tokens are securities not assets, rules Israel Securities Authority | Ctech",
+                        "msvalidate.01": "B611EAE80B7E0EF53636E9A6A3E2F026",
+                        "twitter:url": "https://m.calcalistech.com/Article.aspx?guid=3885473",
+                        "og:title": "Cryptocurrency tokens are securities not assets, rules Israel Securities Authority | Ctech",
+                        "title": "Cryptocurrency tokens are securities not assets, rules Israel Securities Authority | Ctech",
+                        "og:description": "Israeli startup Kirobo unsuccessfully tried to convince the ISA that it will be issuing a utility token rather than a security token and therefore should not be subject to the same regulations",
+                        "twitter:image": "https://images1.calcalist.co.il/PicServer3/2020/06/29/1001121/2-lm.jpg",
+                        "publicationdate": "03/01/2021 19:41:39",
+                        "twitter:site": "@Calcalistech",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "twitter:description": "Israeli startup Kirobo unsuccessfully tried to convince the ISA that it will be issuing a utility token rather than a security token and therefore should not be subject to the same regulations",
+                        "og:url": "https://m.calcalistech.com/Article.aspx?guid=3885473"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images1.calcalist.co.il/PicServer3/2020/06/29/1001121/2-lm.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Challenges of Dealing With Cryptocurrencies in Israel",
+            "htmlTitle": "Challenges of Dealing With <b>Cryptocurrencies</b> in <b>Israel</b>",
+            "link": "https://www.coindesk.com/markets/2021/08/05/challenges-of-dealing-with-cryptocurrencies-in-israel/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Aug 5, 2021 ... The difficulties began with a decision by the Israeli tax authorities in 2017 to define cryptocurrencies as \"assets.",
+            "htmlSnippet": "Aug 5, 2021 <b>...</b> The difficulties began with a decision by the <b>Israeli</b> tax authorities in 2017 to define <b>cryptocurrencies</b> as &quot;assets.",
+            "cacheId": "-0kzo4_dwV0J",
+            "formattedUrl": "https://www.coindesk.com/.../challenges-of-dealing-with-cryptocurrencies-in- israel/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../challenges-of-dealing-with-<b>cryptocurrencies</b>-in- <b>israel</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjo0m-k8ce0JS_dePDmfupfdkhE_FpD3AKXaOLlyrX0mYk9HL63DNxBQ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/6naKkTnNEaRwvzWVSYwPEVg5wgU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/D4HT5V7AQZDJ7CPW24EP2FM72Q.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-08-05T17:55:46Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Challenges of Dealing With Cryptocurrencies in Israel",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Challenges of Dealing With Cryptocurrencies in Israel",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "A mix of high taxes, burdensome regulation and an antagonistic banking sector makes starting a crypto business in the Holy Land unviable.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Lior Yaffe",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/Ods7r-jne6xvBnNrQAAfJvXyfeE=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/D4HT5V7AQZDJ7CPW24EP2FM72Q.jpg",
+                        "article:tag": "Israel, Opinion, Mass Adoption",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-08-05T17:55:46Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A mix of high taxes, burdensome regulation and an antagonistic banking sector makes starting a crypto business in the Holy Land unviable.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2021/08/05/challenges-of-dealing-with-cryptocurrencies-in-israel/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/6naKkTnNEaRwvzWVSYwPEVg5wgU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/D4HT5V7AQZDJ7CPW24EP2FM72Q.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

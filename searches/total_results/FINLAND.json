@@ -1,0 +1,537 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - FINLAND",
+                "totalResults": "494000",
+                "searchTerms": "FINLAND",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - FINLAND",
+                "totalResults": "494000",
+                "searchTerms": "FINLAND",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.328053,
+        "formattedSearchTime": "0.33",
+        "totalResults": "494000",
+        "formattedTotalResults": "494,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Finland \u2013 In May 2019, Finland's Financial Supervisory \u00b7 Authority (FSA) began regulating virtual currency exchange providers, wallets, and\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Finland</b> \u2013 In May 2019, <b>Finland&#39;s</b> Financial Supervisory &middot; Authority (FSA) began regulating virtual currency exchange providers, wallets, and&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Finland and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Finland</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/finland/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Finland and Cryptocurrency. Finland Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. It is legal in\u00a0...",
+            "htmlSnippet": "<b>Finland</b> and <b>Cryptocurrency</b>. <b>Finland Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. It is legal in&nbsp;...",
+            "cacheId": "1RMsCrL27woJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/finland/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>finland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:33:03+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/finland/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Finland? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:01+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/digital-currency-transmission-laws-state-by-state/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Finland and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Finland and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:06:01+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Finland and Cryptocurrency Finland Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology It is legal in Finland to buy, sell and use cryptocurrency. \u00a0On October 4, 2018 the Government of Finland released the\u00a0Government Proposal 167/2018\u00a0(\u201cHE...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/finland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Countries Where Bitcoin Is Legal and Illegal",
+            "htmlTitle": "Countries Where Bitcoin Is Legal and Illegal",
+            "link": "https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Many countries are beginning to regulate Bitcoin, while several have ... The cryptocurrency Bitcoin has raised financial concerns for governments worldwide.",
+            "htmlSnippet": "Many countries are beginning to <b>regulate</b> Bitcoin, while several have ... The <b>cryptocurrency</b> Bitcoin has raised financial concerns for governments worldwide.",
+            "cacheId": "2bqDRj05V94J",
+            "formattedUrl": "https://www.investopedia.com/.../countries-where-bitcoin-legal-illegal.asp",
+            "htmlFormattedUrl": "https://www.investopedia.com/.../countries-where-bitcoin-legal-illegal.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBqoxwPgM-6WR5zyWSh4QX3V1LbOEeo_12x5CecH3nCC0L1uViVvIrz2A3",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/mDK66qNcGXEtsmdBtylavSZbNbg=/1500x1000/filters:fill(auto,1)/GettyImages-959997240-588c76a6e2b647f28f0f7620835aac0c.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/1.204.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "investing,cryptocurrency,bitcoin",
+                        "og:site_name": "Investopedia",
+                        "emailt1": "Investing",
+                        "msapplication-wide310x150logo": "/static/1.204.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/1.204.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "Many countries are beginning to regulate Bitcoin, while several have banned it from use. Find out more about Bitcoin's legality worldwide.",
+                        "twitter:image": "https://www.investopedia.com/thmb/mDK66qNcGXEtsmdBtylavSZbNbg=/1500x1000/filters:fill(auto,1)/GettyImages-959997240-588c76a6e2b647f28f0f7620835aac0c.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/1.204.0/icons/favicons/mstile-310x310.png",
+                        "sailthru.title": "Countries Where Bitcoin Is Legal and Illegal",
+                        "emailcontenttype": "STRUCTUREDCONTENT",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "sailthru.date": "2022-01-21T00:35:43.523Z",
+                        "og:type": "article",
+                        "twitter:title": "Countries Where Bitcoin Is Legal and Illegal",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "Countries Where Bitcoin Is Legal and Illegal",
+                        "msapplication-square150x150logo": "/static/1.204.0/icons/favicons/mstile-150x150.png",
+                        "sailthru.image.thumb": "https://www.investopedia.com/thmb/9MQ6dcQDlR8ZbPvKNpnaW7UiNGw=/255x165/filters:no_upscale()/GettyImages-959997240-588c76a6e2b647f28f0f7620835aac0c.jpg",
+                        "fb:app_id": "659054097907801",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Many countries are beginning to regulate Bitcoin, while several have banned it from use. Find out more about Bitcoin's legality worldwide.",
+                        "og:url": "https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp",
+                        "sailthru.author": "Prableen Bajpai"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/mDK66qNcGXEtsmdBtylavSZbNbg=/1500x1000/filters:fill(auto,1)/GettyImages-959997240-588c76a6e2b647f28f0f7620835aac0c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Finland Begins Regulating Crypto Service Providers \u2013 Bitcoin News",
+            "htmlTitle": "<b>Finland</b> Begins Regulating Crypto Service Providers \u2013 Bitcoin News",
+            "link": "https://news.bitcoin.com/finland-regulating-cryptocurrency/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Apr 27, 2019 ... Finland's president has approved a law to regulate cryptocurrency service providers including exchanges, custodian wallet providers,\u00a0...",
+            "htmlSnippet": "Apr 27, 2019 <b>...</b> <b>Finland&#39;s</b> president has approved a law to <b>regulate cryptocurrency</b> service providers including exchanges, custodian wallet providers,&nbsp;...",
+            "cacheId": "tGhkS9JNBCYJ",
+            "formattedUrl": "https://news.bitcoin.com/finland-regulating-cryptocurrency/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>finland</b>-regulating-<b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAJT5NCXvjewUAIsyaY2-k-7InACJLU-Xu3bnnWofKV54Qrooh-MYYtCc",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2019/04/tv0vdwY1-finland-law-1.png",
+                        "og:type": "article",
+                        "article:published_time": "2019-04-28T03:05:36+00:00",
+                        "og:image:width": "1520",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Finland Begins Regulating Crypto Service Providers \u2013 Bitcoin News",
+                        "og:image:height": "1024",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Finland's president has approved a law to regulate cryptocurrency service providers including exchanges, custodian wallet providers, and issuers of cryptocurrencies. The law will enter into force next week. Crypto service providers will need to register with the country\u2019s Financial Supervisory Authority and meet statutory requirements.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2019-05-10T01:53:37+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/finland-regulating-cryptocurrency/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Finland Begins Regulating Crypto Service Providers"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2019/04/tv0vdwY1-finland-law-1.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FinTech in Finland: overview | Practical Law",
+            "htmlTitle": "FinTech in <b>Finland</b>: overview | Practical Law",
+            "link": "https://uk.practicallaw.thomsonreuters.com/w-014-8780",
+            "displayLink": "uk.practicallaw.thomsonreuters.com",
+            "snippet": "Oct 1, 2019 ... It is regulated by the Finnish Act on the Financial Supervisory ... Digital currencies (cryptocurrencies such as Bitcoin or Ethereum).",
+            "htmlSnippet": "Oct 1, 2019 <b>...</b> It is <b>regulated</b> by the <b>Finnish</b> Act on the Financial Supervisory ... Digital currencies (<b>cryptocurrencies</b> such as Bitcoin or Ethereum).",
+            "cacheId": "mK_MRRpQ8AAJ",
+            "formattedUrl": "https://uk.practicallaw.thomsonreuters.com/w-014-8780",
+            "htmlFormattedUrl": "https://uk.practicallaw.thomsonreuters.com/w-014-8780",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVJX5JXqtzLfwMrae1Y51Lr_Lb-dLh0j3fK5w12qg0GgDe503ME0yuhUeo",
+                        "width": "308",
+                        "height": "164"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://s1-uk.practicallaw.thomsonreuters.com/permalink/plcuk_oglogo.png",
+                        "og:type": "Website",
+                        "og:image:width": "1000",
+                        "og:site_name": "Practical Law",
+                        "og:title": "FinTech in Finland: overview  | Practical Law",
+                        "og:image:height": "394",
+                        "og:image:type": "image/png",
+                        "og:url": "http://uk.practicallaw.thomsonreuters.com/w-014-8780?transitionType=Default&contextData=%28sc.Default%29",
+                        "og:description": "FinTech in Finland: overview  | Practical Law",
+                        "og:image:secure_url": "https://s1-uk.practicallaw.thomsonreuters.com/permalink/plcuk_oglogo.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://s1-uk.practicallaw.thomsonreuters.com/permalink/plcuk_oglogo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Upcoming Cryptocurrency Providers Act of Finland | Nordic Law",
+            "htmlTitle": "Upcoming <b>Cryptocurrency</b> Providers Act of <b>Finland</b> | Nordic Law",
+            "link": "https://nordiclaw.fi/upcoming-cryptocurrency-providers-act-of-finland/",
+            "displayLink": "nordiclaw.fi",
+            "snippet": "Jan 14, 2019 ... Currently it is legal in Finland to buy, sell and use cryptocurrency, as there are no laws forbidding such activities.",
+            "htmlSnippet": "Jan 14, 2019 <b>...</b> Currently it is legal in <b>Finland</b> to buy, sell and use <b>cryptocurrency</b>, as there are no <b>laws</b> forbidding such activities.",
+            "cacheId": "o9Ck4wQk4IAJ",
+            "formattedUrl": "https://nordiclaw.fi/upcoming-cryptocurrency-providers-act-of-finland/",
+            "htmlFormattedUrl": "https://nordiclaw.fi/upcoming-<b>cryptocurrency</b>-providers-act-of-<b>finland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLR2v6zc7sef7pqo5WsLsXuuZwOsBzG2KbiQ3SuUZietRkvpRGI0uz6vQ",
+                        "width": "258",
+                        "height": "195"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://nordiclaw.fi/wp-content/uploads/2018/10/artikkelit.png",
+                        "og:type": "article",
+                        "article:published_time": "2019-01-14T12:55:59+00:00",
+                        "og:image:width": "629",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Nordic Law",
+                        "og:title": "Upcoming Cryptocurrency Providers Act of Finland | Nordic Law",
+                        "og:image:height": "475",
+                        "msapplication-tileimage": "https://nordiclaw.fi/wp-content/uploads/2018/11/cropped-nordic-law-favicon-270x270.png",
+                        "og:description": "The CPA is expected to enter into force during the year 2019. If you have any questions in preparing for the Act and its requirements, we are happy to help.",
+                        "twitter:creator": "@NordicLaw_fi",
+                        "article:publisher": "https://www.facebook.com/nordiclaw/",
+                        "twitter:site": "@NordicLaw_fi",
+                        "article:modified_time": "2019-11-06T13:44:33+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "og:locale": "en_US",
+                        "og:url": "https://nordiclaw.fi/upcoming-cryptocurrency-providers-act-of-finland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nordiclaw.fi/wp-content/uploads/2018/10/artikkelit.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TAX CONVENTION WITH THE REPUBLIC OF FINLAND Convention ...",
+            "htmlTitle": "TAX CONVENTION WITH THE REPUBLIC OF <b>FINLAND</b> Convention ...",
+            "link": "https://www.irs.gov/pub/irs-trty/finland.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "The convention would replace the existing income tax treaty with Finland that ... tax a person who is treated as a resident under its taxation laws (except\u00a0...",
+            "htmlSnippet": "The convention would replace the existing income tax treaty with <b>Finland</b> that ... tax a person who is treated as a resident under its taxation <b>laws</b> (except&nbsp;...",
+            "cacheId": "5OAQCJFsyqUJ",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/finland.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>finland</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVAmJQZMvdq9OJ6T2mG7KXaa9sO9v9vbKqnKKMnf1ZhMlgi6Ibpe6n6Gj_",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802100721-04'00'",
+                        "creationdate": "D:19991105083102Z",
+                        "creator": "Microsoft Word - FINLANDWEB",
+                        "subject": "US TREATY - FINLAND(CAT. # 28411F)",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "PUB3462 (REV.7-1999)"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///bd313a7eb7c9d40a07f732040691921626f1373b471ca02c4e3856815c36528a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency license in Finland | Licenses for a crypto trading ...",
+            "htmlTitle": "<b>Cryptocurrency</b> license in <b>Finland</b> | Licenses for a crypto trading ...",
+            "link": "https://prifinance.com/en/cryptocurrency-license/finland/",
+            "displayLink": "prifinance.com",
+            "snippet": "The Finnish government and the country's Central Bank attribute cryptocurrencies to high-risk assets and do not rank them as \u201creal\u201d money.",
+            "htmlSnippet": "The <b>Finnish</b> government and the country&#39;s Central Bank attribute <b>cryptocurrencies</b> to high-risk assets and do not rank them as \u201creal\u201d money.",
+            "cacheId": "ToUGdUGM-_MJ",
+            "formattedUrl": "https://prifinance.com/en/cryptocurrency-license/finland/",
+            "htmlFormattedUrl": "https://prifinance.com/en/<b>cryptocurrency</b>-license/<b>finland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi9QmEbcWElsNLSR7uufUJGipaOILJofeJcKekEE2M3fj6MjNUtnZEfRc",
+                        "width": "200",
+                        "height": "82"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "/bitrix/templates/prifinance/img/logo_en.png",
+                        "og:type": "website",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency license in Finland | Licenses for a crypto trading exchange in Finland",
+                        "og:url": "https://prifinance.com/en/cryptocurrency-license/finland/",
+                        "og:description": "The Finnish government and the country's Central Bank attribute cryptocurrencies to high-risk assets and do not rank them as \u201creal\u201d money. The exchange operations, cryptocurrency trading are classified as private contracts (as contracts for price differences) and are subject to capital gains taxes.",
+                        "facebook-domain-verification": "x7zorz2zhvirflgeenjn7jkxlc5sw3",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://prifinance.com/local/templates/prifinance/img/logo_en.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Uses More Electricity Than Many Countries. How Is That ...",
+            "htmlTitle": "Bitcoin Uses More Electricity Than Many Countries. How Is That ...",
+            "link": "https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Sep 3, 2021 ... The most popular cryptocurrency wastes energy by design. ... more than is used by Finland, a nation of about 5.5 million.",
+            "htmlSnippet": "Sep 3, 2021 <b>...</b> The most popular <b>cryptocurrency</b> wastes energy by design. ... more than is used by <b>Finland</b>, a nation of about 5.5 million.",
+            "formattedUrl": "https://www.nytimes.com/.../2021/.../bitcoin-carbon-footprint-electricity.html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../2021/.../bitcoin-carbon-footprint-electricity.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIfD5qMMb-Qnn6VNQltjGsCZua2j2s9jR2XkofXT2ltV9HxXImdUy65Vot",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static01.nyt.com/images/2021/08/31/climate/00cli-bitcoin-promo/00cli-bitcoin-promo-facebookJumbo.jpg",
+                        "nyt_uri": "nyt://interactive/c5494f8d-0935-5138-9497-7b82b280eb61",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-09-03T09:00:04.000Z",
+                        "twitter:url": "https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html",
+                        "pdate": "20210903",
+                        "articleid": "100000007949000",
+                        "og:description": "The most popular cryptocurrency wastes energy by design. Why is that, and could it ever be greener?",
+                        "twitter:image": "https://static01.nyt.com/images/2021/08/31/climate/00cli-bitcoin-promo/00cli-bitcoin-promo-videoSixteenByNineJumbo1600.jpg",
+                        "twitter:site": "@nytimes",
+                        "article:modified_time": "2021-10-07T15:07:56.512Z",
+                        "news_keywords": "Bitcoin,Electric power,Greenhouse gas,Virtual Currency;Cryptocurrency,Mobile Commerce",
+                        "article:content_tier": "metered",
+                        "image": "https://static01.nyt.com/images/2021/08/31/climate/00cli-bitcoin-promo/00cli-bitcoin-promo-facebookJumbo.jpg",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?",
+                        "article:section": "Climate",
+                        "cg": "climate",
+                        "pubp_event_id": "pubp://event/aff81ed1a4fe4e609c9ded7f7289596b",
+                        "og:title": "Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?",
+                        "slack-app-id": "A0121HXPPTQ",
+                        "article:tag": "Bitcoin (Currency)",
+                        "fb:app_id": "9869919170",
+                        "byl": "By Jon Huang, Claire O\u2019Neill and Hiroko Tabuchi",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The most popular cryptocurrency wastes energy by design. Why is that, and could it ever be greener?",
+                        "og:url": "https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2021/08/31/climate/00cli-bitcoin-promo/00cli-bitcoin-promo-facebookJumbo.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

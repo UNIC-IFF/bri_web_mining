@@ -1,0 +1,763 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - HAITI",
+                "totalResults": "303000",
+                "searchTerms": "HAITI",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - HAITI",
+                "totalResults": "303000",
+                "searchTerms": "HAITI",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.345629,
+        "formattedSearchTime": "0.35",
+        "totalResults": "303000",
+        "formattedTotalResults": "303,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Haiti and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Haiti</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/haiti/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Haiti Cryptocurrency Laws ... Haiti became the homeland of groundbreaking educational projects. The \u201cCryptocurrency for Haiti\u201d and the \u201cHaiti Blockchain Alliance\u201d\u00a0...",
+            "htmlSnippet": "<b>Haiti Cryptocurrency Laws</b> ... <b>Haiti</b> became the homeland of groundbreaking educational projects. The \u201c<b>Cryptocurrency</b> for <b>Haiti</b>\u201d and the \u201c<b>Haiti</b> Blockchain Alliance\u201d&nbsp;...",
+            "cacheId": "hnoXcaNuePkJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/haiti/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>haiti</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-12T18:01:04+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/haiti/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Haiti? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:28+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Haiti and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Haiti and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:56:28+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Haiti and Cryptocurrency Haiti Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Haiti has not currently enacted regulations or legislation specifically regulating cryptocurrency yet.\u00a0Therefore, the legal status of cryptocurrency in Haiti is...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/haiti/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulation in the Caribbean: Is It the Perfect ...",
+            "htmlTitle": "<b>Cryptocurrency Regulation</b> in the Caribbean: Is It the Perfect ...",
+            "link": "https://coincentral.com/cryptocurrency-regulation-in-the-caribbean-is-it-the-perfect-sandbox/",
+            "displayLink": "coincentral.com",
+            "snippet": "Feb 2, 2020 ... The legal status of cryptocurrency in Haiti is controversial. Cointobuy's analysis tool has ranked Haiti 208 out of 249 countries in terms of\u00a0...",
+            "htmlSnippet": "Feb 2, 2020 <b>...</b> The legal status of <b>cryptocurrency</b> in <b>Haiti</b> is controversial. Cointobuy&#39;s analysis tool has ranked <b>Haiti</b> 208 out of 249 countries in terms of&nbsp;...",
+            "cacheId": "FqsJvahkpjQJ",
+            "formattedUrl": "https://coincentral.com/cryptocurrency-regulation-in-the-caribbean-is-it-the- perfect-sandbox/",
+            "htmlFormattedUrl": "https://coincentral.com/<b>cryptocurrency</b>-<b>regulation</b>-in-the-caribbean-is-it-the- perfect-sandbox/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Alex Moskov"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShjoXPAJC3V-uaZqqpfAzhjgUXKebKDEX3P5rGt7_JBW0CAYJq6SqxYvKB",
+                        "width": "312",
+                        "height": "162"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/coin-central-logo-2018-v3.png",
+                        "url": "https://coincentral.com/"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/coincentral-main-menu-search-eyeglass-mobile.png"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/coin-central-logo-2018-v3.png",
+                        "url": "https://coincentral.com/"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/coincentral-main-menu-search-eyeglass.png"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/coincentral-main-menu-hamburger-X.png"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2020/02/bahamas-867x450.png"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2022/01/Sunny-Aggarwal-Osmosis.png",
+                        "height": "1000"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2017/08/How-to-Buy-Ethereum_2000x1000-3.jpg",
+                        "height": "1000"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "1122",
+                        "url": "https://coincentral.com/wp-content/uploads/2020/05/alex-mashinsky-celsius.png",
+                        "height": "627"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/gold-bars-getting-started.png"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2022/01/Sunny-Aggarwal-Osmosis.png",
+                        "height": "1000"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/bb-plugin/cache/Sunny-Aggarwal-Osmosis-572x360-panorama.png",
+                        "url": "https://coincentral.com/osmosis-sunny-aggarwal/"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2022/01/Sunny-Aggarwal-Osmosis.png",
+                        "height": "1000"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/bb-plugin/cache/Sunny-Aggarwal-Osmosis-368x260-landscape.png",
+                        "url": "https://coincentral.com/osmosis-sunny-aggarwal/"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/gold-bars-getting-started.png"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2022/01/deadfellaz-guide.png",
+                        "height": "1000"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/bb-plugin/cache/deadfellaz-guide-368x260-landscape.png",
+                        "url": "https://coincentral.com/deadfellaz-guide/"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2022/01/What-is-Art-Blocks.png",
+                        "height": "1000"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/bb-plugin/cache/What-is-Art-Blocks-368x260-landscape.png",
+                        "url": "https://coincentral.com/art-blocks-guide/"
+                    },
+                    {
+                        "url": "https://coincentral.com/wp-content/uploads/2017/07/cropped-CoinCentral-logo-light.png"
+                    },
+                    {
+                        "width": "2000",
+                        "url": "https://coincentral.com/wp-content/uploads/2022/01/The-Sandbox-crypto-1.png",
+                        "height": "1000"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/bb-plugin/cache/The-Sandbox-crypto-1-368x260-landscape.png",
+                        "url": "https://coincentral.com/the-sandbox-crypto-metaverse-guide/"
+                    },
+                    {
+                        "image": "https://coincentral.com/wp-content/uploads/2018/06/coin-central-logo-2018-v3.png",
+                        "url": "https://coincentral.com/"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    },
+                    {
+                        "name": "Alex Moskov",
+                        "url": "https://coincentral.com/author/alexmoskov/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    },
+                    {
+                        "name": "CoinCentral"
+                    }
+                ],
+                "interactioncounter": [
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "https://schema.org/CommentAction"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://coincentral.com/wp-content/uploads/2020/02/bahamas.png",
+                        "article:published_time": "2020-02-02T15:57:34-05:00",
+                        "og:image:width": "2000",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#f8c75c",
+                        "og:site_name": "CoinCentral",
+                        "msapplication-tileimage": "https://coincentral.com/wp-content/uploads/2018/06/cropped-coin-central-icon-270x270.png",
+                        "og:description": "The Caribbean is often hailed for its weather and favorable tax structure. Cryptocurrency regulation in the Caribbean, however, is a developing art.",
+                        "twitter:creator": "@AlexMoskov",
+                        "og:image:secure_url": "https://coincentral.com/wp-content/uploads/2020/02/bahamas.png",
+                        "twitter:image": "https://coincentral.com/wp-content/uploads/2020/02/bahamas.png",
+                        "article:modified_time": "2021-10-02T15:08:35-04:00",
+                        "og:type": "article",
+                        "article:section": "Articles",
+                        "twitter:title": "Cryptocurrency Regulation in the Caribbean: Is It the Perfect Sandbox?",
+                        "og:title": "Cryptocurrency Regulation in the Caribbean: Is It the Perfect Sandbox?",
+                        "og:image:height": "1038",
+                        "og:updated_time": "2021-10-02T15:08:35-04:00",
+                        "article:author": "https://www.facebook.com/moskovalex",
+                        "article:tag": "caribbean",
+                        "facebook-domain-verification": "2or19poj8ox9ud1exqwy25q3ib3b94",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The Caribbean is often hailed for its weather and favorable tax structure. Cryptocurrency regulation in the Caribbean, however, is a developing art.",
+                        "og:locale": "en_US",
+                        "og:url": "https://coincentral.com/cryptocurrency-regulation-in-the-caribbean-is-it-the-perfect-sandbox/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "maincontentofpage": "\u2190ALLCoinCentral Daily All CoinCentral articles, guides, news, press releases and reviews.ARTICLESCoinCentral Articles All CoinCentral Articles.GUIDESCoinCentral Guides All CoinCentral Guides.NEWS..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://coincentral.com/wp-content/uploads/2020/02/bahamas.png"
+                    }
+                ],
+                "blogposting": [
+                    {
+                        "datemodified": "2022-01-21",
+                        "headline": "Osmosis Founder Sunny Aggarwal on DeFi Innovation, Cosmos, & More",
+                        "datepublished": "2022-01-21"
+                    },
+                    {
+                        "datemodified": "2022-01-21",
+                        "headline": "Osmosis Founder Sunny Aggarwal on DeFi Innovation, Cosmos, & More",
+                        "datepublished": "2022-01-21"
+                    },
+                    {
+                        "datemodified": "2022-01-17",
+                        "headline": "What is DeadFellaz: A Guide on the Ambitious NFT Brand and Collection",
+                        "datepublished": "2022-01-17"
+                    },
+                    {
+                        "datemodified": "2022-01-17",
+                        "headline": "What is Art Blocks? A Guide on the NFT Art Pioneer",
+                        "datepublished": "2022-01-17"
+                    },
+                    {
+                        "datemodified": "2022-01-05",
+                        "headline": "What is The Sandbox: A Guide to the Growing Crypto Metaverse",
+                        "datepublished": "2022-01-05"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CHAIN REACTION: BLOCKCHAIN ENTERS THE MAINSTREAM",
+            "htmlTitle": "CHAIN REACTION: BLOCKCHAIN ENTERS THE MAINSTREAM",
+            "link": "https://www.lw.com/thoughtLeadership/gbbc-report-blockchain-enters-mainstream",
+            "displayLink": "www.lw.com",
+            "snippet": "blockchain innovation and regulation advanced ... of cryptocurrencies, digital assets, and blockchain ... control over which entities join the networks.",
+            "htmlSnippet": "blockchain innovation and <b>regulation</b> advanced ... of <b>cryptocurrencies</b>, digital assets, and blockchain ... <b>control</b> over which entities join the networks.",
+            "cacheId": "jk0q3YvrmdYJ",
+            "formattedUrl": "https://www.lw.com/.../gbbc-report-blockchain-enters-mainstream",
+            "htmlFormattedUrl": "https://www.lw.com/.../gbbc-report-blockchain-enters-mainstream",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUSQ25rhY89_GXt2PN5s8vu6mnRmvirdHFRzzJkKG7e-grv-5lAF8kWYhy",
+                        "width": "279",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20200120111338-05'00'",
+                        "creationdate": "D:20200120111317-05'00'",
+                        "creator": "Adobe InDesign 15.0 (Macintosh)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f6ff4903ccf5926f1ab6c7c7216bb206b815289891772ec86d17f5902de14cf1"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, whereas financial openness ... 1 Haiti. 2. Bangladesh. 0 Central African Republic. 2 Honduras.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, whereas financial openness ... 1 <b>Haiti</b>. 2. Bangladesh. 0 Central African Republic. 2 Honduras.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain blossoms in Haiti | VentureBeat",
+            "htmlTitle": "Blockchain blossoms in <b>Haiti</b> | VentureBeat",
+            "link": "https://venturebeat.com/2019/06/30/blockchain-blossoms-in-haiti/",
+            "displayLink": "venturebeat.com",
+            "snippet": "Jun 30, 2019 ... Other promising initiatives that aim to educate Haitian businesses about the potential of blockchain include Cryptocurrency for Haiti and\u00a0...",
+            "htmlSnippet": "Jun 30, 2019 <b>...</b> Other promising initiatives that aim to educate <b>Haitian</b> businesses about the potential of blockchain include <b>Cryptocurrency</b> for <b>Haiti</b> and&nbsp;...",
+            "cacheId": "xu4BC34Sl5UJ",
+            "formattedUrl": "https://venturebeat.com/2019/06/30/blockchain-blossoms-in-haiti/",
+            "htmlFormattedUrl": "https://venturebeat.com/2019/06/30/blockchain-blossoms-in-<b>haiti</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXs9VL1UvEhW9CCft1PBCLEp-h6ivKHIajyax4G8YZjesgo_V2WY0O_XQ",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://venturebeat.com/wp-content/uploads/2019/06/Haiti.jpg?w=1200&strip=all",
+                        "article:published_time": "2019-06-30T17:25:57+00:00",
+                        "og:image:width": "2121",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "VentureBeat",
+                        "parsely-author": "Sheikh Irfan Mohammed, Bloccelerate VC",
+                        "og:description": "Haiti is a hotbed of applied blockchain projects, projects that are expanding our understanding of the technology\u2019s potential.",
+                        "twitter:creator": "@venturebeat",
+                        "article:publisher": "https://www.facebook.com/venturebeat/",
+                        "twitter:image": "https://venturebeat.com/wp-content/uploads/2019/06/Haiti.jpg?w=1200&strip=all",
+                        "parsely-type": "post",
+                        "twitter:site": "@venturebeat",
+                        "article:modified_time": "2019-11-14T06:43:19+00:00",
+                        "parsely-link": "http://venturebeat.com/2019/06/30/blockchain-blossoms-in-haiti/",
+                        "parsely-image-url": "https://venturebeat.com/wp-content/uploads/2019/06/Haiti.jpg?resize=285%2C180&strip=all",
+                        "parsely-section": "Business",
+                        "og:type": "article",
+                        "twitter:title": "Blockchain blossoms in Haiti\u00a0",
+                        "og:title": "Blockchain blossoms in Haiti\u00a0",
+                        "og:image:height": "1414",
+                        "ia:markup_url": "https://venturebeat.com/2019/06/30/blockchain-blossoms-in-haiti/?ia_markup=1",
+                        "fb:pages": "7419689078",
+                        "parsely-title": "Blockchain blossoms in Haiti\u00a0",
+                        "parsely-pub-date": "2019-06-30T17:25:57Z",
+                        "parsely-tags": "blockchain,category-/finance/investing/currencies & foreign exchange,crypto,haiti",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://venturebeat.com/2019/06/30/blockchain-blossoms-in-haiti/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://venturebeat.com/wp-content/uploads/2019/06/Haiti.jpg?w=1200&strip=all"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin's Risk and Reward for Black Investors | Time",
+            "htmlTitle": "Bitcoin&#39;s Risk and Reward for Black Investors | Time",
+            "link": "https://time.com/6106706/bitcoin-black-investors/",
+            "displayLink": "time.com",
+            "snippet": "Oct 15, 2021 ... Contrary to the image associated with cryptocurrency since it entered mainstream ... is not a person who hates central banks or regulation.",
+            "htmlSnippet": "Oct 15, 2021 <b>...</b> Contrary to the image associated with <b>cryptocurrency</b> since it entered mainstream ... is not a person who hates central banks or <b>regulation</b>.",
+            "cacheId": "w4oJNc3OUdQJ",
+            "formattedUrl": "https://time.com/6106706/bitcoin-black-investors/",
+            "htmlFormattedUrl": "https://time.com/6106706/bitcoin-black-investors/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXRY023GHreoUBTdq_Otp5cpOBZnKYp2M_Ika4fbvLfsuxY72NFlnNmAfF",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pinterest:description": "Why Black Bitcoiners seem certain that crypto represents keys to a car bound for somewhere better.",
+                        "og:image": "https://api.time.com/wp-content/uploads/2021/10/bitcoin-black-investors-1-socialcrop.jpg?quality=85",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Inside the World of Black Bitcoin, Where Crypto Is About Making More Than Just Money",
+                        "og:image:width": "1024",
+                        "og:site_name": "Time",
+                        "recaptcha-key": "6LfZrtgZAAAAAJ8n221oa1YgG6cVvoOPgamCm6oT",
+                        "twitter:url": "https://time.com/6106706/bitcoin-black-investors/",
+                        "og:title": "Inside the World of Black Bitcoin, Where Crypto Is About Making More Than Just Money",
+                        "og:image:height": "576",
+                        "og:description": "\u201cWe can operate on an even playing field in the digital world\u201d",
+                        "fb:pages": "10606591490",
+                        "twitter:image": "https://api.time.com/wp-content/uploads/2021/10/bitcoin-black-investors-1-socialcrop.jpg?quality=85&crop=2px%2C19px%2C2398px%2C1197px&resize=1024%2C512&strip",
+                        "fb:app_id": "53177223193",
+                        "twitter:site": "@TIME",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1",
+                        "twitter:description": "\u201cWe can operate on an even playing field in the digital world\u201d",
+                        "pinterest:media": "https://api.time.com/wp-content/uploads/2021/10/bitcoin-black-investors-1-socialcrop.jpg?quality=85",
+                        "article:content_tier": "free",
+                        "og:url": "https://time.com/6106706/bitcoin-black-investors/",
+                        "pinterest:url": "https://time.com/6106706/bitcoin-black-investors/",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://api.time.com/wp-content/uploads/2021/10/bitcoin-black-investors-1-socialcrop.jpg?quality=85"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "As MiamiCoin Crypto Continues to Grow, Miami Gets 30%",
+            "htmlTitle": "As MiamiCoin Crypto Continues to Grow, Miami Gets 30%",
+            "link": "https://www.governing.com/finance/as-miamicoin-crypto-continues-to-grow-miami-gets-30",
+            "displayLink": "www.governing.com",
+            "snippet": "Aug 12, 2021 ... The new cryptocurrency, which just kicked off last week, ... up their community by rewarding them with a Little Haiti Coin cryptocurrency.",
+            "htmlSnippet": "Aug 12, 2021 <b>...</b> The new <b>cryptocurrency</b>, which just kicked off last week, ... up their community by rewarding them with a Little <b>Haiti</b> Coin <b>cryptocurrency</b>.",
+            "cacheId": "5KekZQArUacJ",
+            "formattedUrl": "https://www.governing.com/.../as-miamicoin-crypto-continues-to-grow- miami-gets-30",
+            "htmlFormattedUrl": "https://www.governing.com/.../as-miamicoin-crypto-continues-to-grow- miami-gets-30",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSllsS0ioX1E4VekMjy6WRn09jB-TBNPBp88X36hqLY4ftmoGeVwxce2fUw",
+                        "width": "390",
+                        "height": "129"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "article:published_time": "2021-08-12T20:57:36.239",
+                        "article:section": "The Future of Finance",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "As MiamiCoin Crypto Continues to Grow, Miami Gets 30%",
+                        "brightspot.cached": "false",
+                        "og:site_name": "Governing",
+                        "og:title": "As MiamiCoin Crypto Continues to Grow, Miami Gets 30%",
+                        "og:description": "The new cryptocurrency, which just kicked off last week, has generated nearly $1 million for the city. The creator of the new coin has said that using MiamiCoin could help incentivize civic engagement.",
+                        "article:tag": "Cryptocurrency",
+                        "fb:app_id": "314190606794339",
+                        "article:modified_time": "2021-08-12T20:57:36.239",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+                        "twitter:description": "The new cryptocurrency, which just kicked off last week, has generated nearly $1 million for the city. The creator of the new coin has said that using MiamiCoin could help incentivize civic engagement.",
+                        "brightspot.contentid": "0000017b-3c23-dd39-af7b-3db3ba450001",
+                        "og:url": "https://www.governing.com/finance/as-miamicoin-crypto-continues-to-grow-miami-gets-30"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://erepublic.brightspotcdn.com/21/02/426383744f01b6a02fec2a0f7c3f/gov20-blue-rev-rgb.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Haiti",
+            "htmlTitle": "<b>Haiti</b>",
+            "link": "https://www.interpol.int/en/Who-we-are/Member-countries/Americas/HAITI",
+            "displayLink": "www.interpol.int",
+            "snippet": "NCBs contribute national crime data to our global databases, in accordance with their respective national laws, and cooperate on cross-border investigations\u00a0...",
+            "htmlSnippet": "NCBs contribute national crime data to our global databases, in accordance with their respective national <b>laws</b>, and cooperate on cross-border investigations&nbsp;...",
+            "cacheId": "kVTUBqjiK1IJ",
+            "formattedUrl": "https://www.interpol.int/en/Who-we-are/Member-countries/.../HAITI",
+            "htmlFormattedUrl": "https://www.interpol.int/en/Who-we-are/Member-countries/.../<b>HAITI</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "twitter:title": "Haiti",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "og:title": "Haiti"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Press Briefing by Press Secretary Jen Psaki, September 29, 2021 ...",
+            "htmlTitle": "Press Briefing by Press Secretary Jen Psaki, September 29, 2021 ...",
+            "link": "https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/29/press-briefing-by-press-secretary-jen-psaki-september-29-2021/",
+            "displayLink": "www.whitehouse.gov",
+            "snippet": "Sep 29, 2021 ... But beyond that, obviously, the regulation of cryptocurrencies is up to the ... Q On Haiti, I just need a reaction to Haiti's Prime Minister\u00a0...",
+            "htmlSnippet": "Sep 29, 2021 <b>...</b> But beyond that, obviously, the <b>regulation of cryptocurrencies</b> is up to the ... Q On <b>Haiti</b>, I just need a reaction to <b>Haiti&#39;s</b> Prime Minister&nbsp;...",
+            "cacheId": "t3vcvUZ7nqAJ",
+            "formattedUrl": "https://www.whitehouse.gov/.../press-briefing-by-press-secretary-jen-psaki- september-29-2021/",
+            "htmlFormattedUrl": "https://www.whitehouse.gov/.../press-briefing-by-press-secretary-jen-psaki- september-29-2021/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3uyPhjBII2dknIczGPDIGAZ-0GLB6yu539Y5-xQsiZQcmFJL9DA0C3tRE",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "The White House",
+                        "og:image": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-29T23:00:00+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The White House",
+                        "og:title": "Press Briefing by Press Secretary Jen Psaki, September 29, 2021 | The White House",
+                        "apple-mobile-web-app-title": "The White House",
+                        "og:image:height": "630",
+                        "google": "notranslate",
+                        "og:description": "James S. Brady Press Briefing Room 2:41 P.M. EDT MS. PSAKI:\u00a0 Okay.\u00a0 Jonathan, second day in a row -- nothing at the top. Q\u00a0\u00a0\u00a0 All",
+                        "twitter:creator": "@whitehouse",
+                        "article:publisher": "https://www.facebook.com/WhiteHouse/",
+                        "twitter:site": "@whitehouse",
+                        "article:modified_time": "2021-09-29T22:51:00+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/29/press-briefing-by-press-secretary-jen-psaki-september-29-2021/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "35 West | Center for Strategic and International Studies",
+            "htmlTitle": "35 West | Center for Strategic and International Studies",
+            "link": "https://www.csis.org/podcasts/35-west-0",
+            "displayLink": "www.csis.org",
+            "snippet": "... a spike in global demand for mineral resources and lack of proper regulation on the industry, ... Best of 35 West: Venezuela's Cryptocurrency Experiment.",
+            "htmlSnippet": "... a spike in global demand for mineral resources and lack of proper <b>regulation</b> on the industry, ... Best of 35 West: Venezuela&#39;s <b>Cryptocurrency</b> Experiment.",
+            "cacheId": "YvDH-B1tIM0J",
+            "formattedUrl": "https://www.csis.org/podcasts/35-west-0",
+            "htmlFormattedUrl": "https://www.csis.org/podcasts/35-west-0",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Pb5R4SfwUnOI5FcuefFHDbC0RrJAaQQ40UFbz_yoqWXkRVeLA6VtKTip",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/podcast/190906_Web_banner_35West_0.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "35 West",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.csis.org/podcasts/35-west-0",
+                        "og:title": "35 West",
+                        "msapplication-tileimage": "/sites/all/themes/csis_theme/images/favicon-144.png",
+                        "fb:pages": "118399079197",
+                        "og:description": "The CSIS Americas Program podcast looks at the politics and policies of the 35 countries in the Western Hemisphere. It especially focuses on U.S. engagement with the region, whether on trade, diplomacy, or security issues like drugs and terrorism. Guests include top policymakers from the U.S. and other countries. 35 West is produced by Laurel Weibezahn.",
+                        "twitter:creator": "@csis",
+                        "twitter:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/podcast/190906_Web_banner_35West_0.jpg?itok=L6QCPBQv",
+                        "fb:app_id": "290775511405435",
+                        "twitter:creator:id": "272019676",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The CSIS Americas Program podcast looks at the politics and policies of the 35 countries in the Western Hemisphere. It especially focuses on U.S. engagement with the region, whether on trade,",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.csis.org/podcasts/35-west-0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/podcast/190906_Web_banner_35West_0.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

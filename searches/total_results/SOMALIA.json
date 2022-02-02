@@ -1,0 +1,500 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SOMALIA",
+                "totalResults": "656000",
+                "searchTerms": "SOMALIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SOMALIA",
+                "totalResults": "656000",
+                "searchTerms": "SOMALIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.345817,
+        "formattedSearchTime": "0.35",
+        "totalResults": "656000",
+        "formattedTotalResults": "656,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Somalia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Somalia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/somalia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Somalia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Somalia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "_0mOaai91pAJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/somalia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>somalia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Somalia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Somalia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Somalia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Somalia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/somalia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Terrorist Use of Cryptocurrencies: Technical and Organizational ...",
+            "htmlTitle": "Terrorist Use of <b>Cryptocurrencies</b>: Technical and Organizational ...",
+            "link": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR3000/RR3026/RAND_RR3026.pdf",
+            "displayLink": "www.rand.org",
+            "snippet": "analysis suggests that regulation and oversight of cryptocurrencies, ... business\u201d and \u201cthe Al-Qaeda affiliate in Somalia, Al-Shabaab, created.",
+            "htmlSnippet": "analysis suggests that <b>regulation</b> and oversight of <b>cryptocurrencies</b>, ... business\u201d and \u201cthe Al-Qaeda affiliate in <b>Somalia</b>, Al-Shabaab, created.",
+            "formattedUrl": "https://www.rand.org/content/dam/rand/pubs/.../RAND_RR3026.pdf",
+            "htmlFormattedUrl": "https://www.rand.org/content/dam/rand/pubs/.../RAND_RR3026.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAw84xGUxv1atF7ZGM1WaVEJZ_hNvzx2wkm1XVjbHSl0NCbIkW3yUTgIs",
+                        "width": "283",
+                        "height": "178"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190320134159-04'00'",
+                        "creationdate": "D:20190320103152-04'00'",
+                        "creator": "Adobe InDesign CC 14.0 (Macintosh)",
+                        "author": "Cynthia Dion-Schwarz, David Manheim, Patrick B. Johnston",
+                        "subject": "Terrorist organizations might increase use of digital cryptocurrencies to support their activities. RAND researchers consider the needs of such groups and the advantages and disadvantages of the cryptocurrency technologies available to them.",
+                        "producer": "Acrobat Distiller 11.0 (Macintosh)",
+                        "title": "Terrorist Use of Cryptocurrencies: Technical and Organizational Barriers and Future Threats"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///cf7aa9121fbe0f71211d10be6bae5806e1ad4cf2a3f64061cdab397721086ea8"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FinCEN Guidance, FIN-2019-G001, May 9, 2019",
+            "htmlTitle": "FinCEN Guidance, FIN-2019-G001, May 9, 2019",
+            "link": "https://www.fincen.gov/sites/default/files/2019-05/FinCEN%20Guidance%20CVC%20FINAL%20508.pdf",
+            "displayLink": "www.fincen.gov",
+            "snippet": "May 9, 2019 ... as \u201cdigital currency,\u201d \u201ccryptocurrency,\u201d \u201ccryptoasset,\u201d \u201cdigital asset,\u201d etc.) is not dispositive of its regulatory treatment under the BSA.",
+            "htmlSnippet": "May 9, 2019 <b>...</b> as \u201cdigital currency,\u201d \u201c<b>cryptocurrency</b>,\u201d \u201ccryptoasset,\u201d \u201cdigital asset,\u201d etc.) is not dispositive of its <b>regulatory</b> treatment under the BSA.",
+            "cacheId": "sdz1QxEoyDAJ",
+            "formattedUrl": "https://www.fincen.gov/.../ FinCEN%20Guidance%20CVC%20FINAL%20508.pdf",
+            "htmlFormattedUrl": "https://www.fincen.gov/.../ FinCEN%20Guidance%20CVC%20FINAL%20508.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtO13w45zSeT8MdhdhahPWp7uvDPl4jDGfa5N9XeylruWq0lN4MzHKqia1",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190509131231-04'00'",
+                        "creationdate": "D:20190509110254-04'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "subject": "Application of FinCEN\u2019s Regulations to Certain Business Models Involving Convertible Virtual Currencies",
+                        "producer": "Adobe PDF Library 15.0",
+                        "title": "FinCEN Guidance, FIN-2019-G001, May 9, 2019"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///474ae2e23b36ce0b37a4bc0bae6bcf19305e8e831c579495eca91714c89163bd"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "A comparative summary of the reception and regulation of Blockchain and Cryptocurrency in Africa. 2018 Baker McKenzie, Johannesburg\u00a0...",
+            "htmlSnippet": "A comparative summary of the reception and <b>regulation</b> of Blockchain and <b>Cryptocurrency</b> in Africa. 2018 Baker McKenzie, Johannesburg&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Countering the use of cryptocurrencies to finance terrorism in the ...",
+            "htmlTitle": "Countering the use of <b>cryptocurrencies</b> to finance terrorism in the ...",
+            "link": "https://www.un.org/counterterrorism/events/coutering-use-of-cryptocurrencies-to-finance-terrorism-in-Middle%20East",
+            "displayLink": "www.un.org",
+            "snippet": "Sep 23, 2021 ... Countering the use of cryptocurrencies to finance terrorism in the Middle East ... control mechanisms relevant to cryptocurrency regulation,\u00a0...",
+            "htmlSnippet": "Sep 23, 2021 <b>...</b> Countering the use of <b>cryptocurrencies</b> to finance terrorism in the Middle East ... <b>control</b> mechanisms relevant to <b>cryptocurrency regulation</b>,&nbsp;...",
+            "cacheId": "IgoLMWDlDlAJ",
+            "formattedUrl": "https://www.un.org/.../coutering-use-of-cryptocurrencies-to-finance-terrorism -in-Middle%20East",
+            "htmlFormattedUrl": "https://www.un.org/.../coutering-use-of-<b>cryptocurrencies</b>-to-finance-terrorism -in-Middle%20East",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi2Z8axcnkPZznahq925CA-XjWy8hGS17vczekDdJNxYM8toxXJUU2HPQ",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/counterterrorism/sites/www.un.org.counterterrorism/files/images/9.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "Cryptocurrency Regulations: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "htmlSnippet": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "Interest in cryptocurrency, a form of digital currency, ... may be powerless to regulate cryptocurrency, the Nigerian central bank indicated recently.",
+            "htmlSnippet": "Interest in <b>cryptocurrency</b>, a form of digital currency, ... may be powerless to <b>regulate cryptocurrency</b>, the Nigerian central bank indicated recently.",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The case for a financial digital asset framework for cryptocurrencies ...",
+            "htmlTitle": "The case for a financial digital asset framework for <b>cryptocurrencies</b> ...",
+            "link": "https://www.atlanticcouncil.org/blogs/geotech-cues/the-case-for-a-financial-digital-asset-framework-for-cryptocurrencies/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Aug 24, 2021 ... Clear jurisdictional boundaries, legislation on core principles of financial digital assets from Congress, and a flexible regulatory policy are\u00a0...",
+            "htmlSnippet": "Aug 24, 2021 <b>...</b> Clear jurisdictional boundaries, legislation on core principles of financial digital assets from Congress, and a flexible <b>regulatory</b> policy are&nbsp;...",
+            "cacheId": "vEDdgKisJ-cJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../the-case-for-a-financial-digital-asset- framework-for-cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../the-case-for-a-financial-digital-asset- framework-for-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7RbwcoUS0T1nuj4KjcApvIWKq_s1wZIQK-lfVTu8ZynXzD-BTZLPZt2YY",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/08/executium-rmXvTWIDw04-unsplash-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-08-24T15:45:12+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "The case for a financial digital asset framework for cryptocurrencies",
+                        "og:image:height": "1703",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Clear jurisdictional boundaries, legislation on core principles of financial digital assets from Congress, and a flexible regulatory policy are all crucial for the effective governance of digital assets.",
+                        "twitter:data1": "kjivnani",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-08-24T15:50:54+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/geotech-cues/the-case-for-a-financial-digital-asset-framework-for-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/08/executium-rmXvTWIDw04-unsplash-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Somalia Issues First License to Mobile Money Service",
+            "htmlTitle": "<b>Somalia</b> Issues First License to Mobile Money Service",
+            "link": "https://www.voanews.com/a/africa_somalia-issues-first-license-mobile-money-service/6202644.html",
+            "displayLink": "www.voanews.com",
+            "snippet": "Feb 27, 2021 ... Mobile money services emerged 10 years ago but were never regulated. The new regulation formalizes digital transactions as the primary payment\u00a0...",
+            "htmlSnippet": "Feb 27, 2021 <b>...</b> Mobile money services emerged 10 years ago but were never <b>regulated</b>. The new <b>regulation</b> formalizes digital transactions as the primary payment&nbsp;...",
+            "cacheId": "bopeyiiSNyAJ",
+            "formattedUrl": "https://www.voanews.com/a/africa_somalia-issues-first.../6202644.html",
+            "htmlFormattedUrl": "https://www.voanews.com/a/africa_<b>somalia</b>-issues-first.../6202644.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzz4FzEEei1B8GhCeDWvXCCVW7dQLdV6ZwLVKrtU4eTv0lNmNKEksEDDM",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "apple-itunes-app": "app-id=632618796, app-argument=//6202644.ltr",
+                        "og:image": "https://gdb.voanews.com/40A1637C-4A32-47C1-A167-4C097A0CFC26_w1200_r1.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "VOA",
+                        "msvalidate.01": "3286EE554B6F672A6F2E608C02343C0E",
+                        "author": "Harun Maruf",
+                        "apple-mobile-web-app-title": "VOA",
+                        "og:title": "Somalia Issues First License to Mobile Money Service",
+                        "og:image:height": "675",
+                        "title": "Somalia Issues First License to Mobile Money Service\u00a0",
+                        "msapplication-tileimage": "/Content/responsive/VOA/img/webApp/ico-144x144.png",
+                        "fb:pages": "36235438073",
+                        "og:description": "Central bank decision formalizes long-unregulated digital transactions, further integrates country\u2019s financial system with international norms",
+                        "article:publisher": "https://www.facebook.com/voiceofamerica",
+                        "twitter:image": "https://gdb.voanews.com/40A1637C-4A32-47C1-A167-4C097A0CFC26_w1200_r1.jpg",
+                        "fb:app_id": "362002700549372",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@voanews",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Central bank decision formalizes long-unregulated digital transactions, further integrates country\u2019s financial system with international norms",
+                        "og:url": "https://www.voanews.com/a/africa_somalia-issues-first-license-mobile-money-service/6202644.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://gdb.voanews.com/40A1637C-4A32-47C1-A167-4C097A0CFC26_w1200_r1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from nonexistent or partial <b>regulations</b> to prohibitions. Here are the key areas&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

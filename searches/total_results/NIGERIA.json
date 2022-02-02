@@ -1,0 +1,603 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NIGERIA",
+                "totalResults": "1100000",
+                "searchTerms": "NIGERIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NIGERIA",
+                "totalResults": "1100000",
+                "searchTerms": "NIGERIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.308397,
+        "formattedSearchTime": "0.31",
+        "totalResults": "1100000",
+        "formattedTotalResults": "1,100,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria needs to regulate cryptocurrencies, not ban them: vice ...",
+            "htmlTitle": "<b>Nigeria</b> needs to <b>regulate cryptocurrencies</b>, not ban them: vice ...",
+            "link": "https://www.reuters.com/article/us-nigeria-crypto-currency/nigeria-needs-to-regulate-cryptocurrencies-not-ban-them-vice-president-idUSKBN2AQ25U",
+            "displayLink": "www.reuters.com",
+            "snippet": "Feb 26, 2021 ... ABUJA (Reuters) - Nigeria's central bank and securities regulator need to find ways to regulate cryptocurrencies rather than prohibiting\u00a0...",
+            "htmlSnippet": "Feb 26, 2021 <b>...</b> ABUJA (Reuters) - <b>Nigeria&#39;s</b> central bank and securities regulator need to find ways to <b>regulate cryptocurrencies</b> rather than prohibiting&nbsp;...",
+            "cacheId": "BsfMm_qWQOAJ",
+            "formattedUrl": "https://www.reuters.com/...nigeria.../nigeria-needs-to-regulate- cryptocurrencies-not-ban-them-vice-president-idUSKBN2AQ25U",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>nigeria</b>.../<b>nigeria</b>-needs-to-<b>regulate</b>- <b>cryptocurrencies</b>-not-ban-them-vice-president-idUSKBN2AQ25U",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUpEbTZTjuvSJplpKhTB2BFAEhde9N9qykFZWcHPh2w5cGx-TtJVkaJo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20210226&t=2&i=1553045722&r=LYNXMPEH1P12L&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2021-02-26T14:43:00Z",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "analyticsattributes.backendchannellist": "technologyNews;innovationIntellectualProperty;consolidated-business;US-The-Wire;top-100-innovators;africa-news;rcom-emerging-markets;funds-news;USWire_EL;everythingNews;innovation;investing",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Nigeria's central bank and securities regulator need to find ways to regulate cryptocurrencies rather than prohibiting their use, Vice President Yemi Osinbajo said on Friday, urging them to come up with a regime that would support growth and innovation.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2021-02-26T14:43:00Z",
+                        "og:article:section": "Technology News",
+                        "analyticsattributes.articledate": "2021-02-26T14:43:00Z",
+                        "dcsext.dartzone": "reuters.com/technology/article",
+                        "author": "Chijioke Ohuocha",
+                        "analyticsattributes.keywords": "US,NIGERIA,CRYPTO,CURRENCY,Africa,Banks (TRBC level 4),Banks (NEC) (TRBC level 5),Central Bank of Nigeria,Central Banks / Central Bank Events,Cryptocurrencies,Emerging Market Countries,Currencies / Foreign Exchange Markets,Funds,Investment Banking & Investment Services (TRBC level 3),Company Management Issues,Money Markets,Nigeria,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,West Africa",
+                        "og:article:published_time": "2021-02-26T14:47:15Z",
+                        "og:article:tag": "US,NIGERIA,CRYPTO,CURRENCY,Africa,Banks (TRBC level 4),Banks (NEC) (TRBC level 5),Central Bank of Nigeria,Central Banks / Central Bank Events,Cryptocurrencies,Emerging Market Countries,Currencies / Foreign Exchange Markets,Funds,Investment Banking & Investment Services (TRBC level 3),Company Management Issues,Money Markets,Nigeria,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,West Africa",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20210226&t=2&i=1553045722&r=LYNXMPEH1P12L&w=800",
+                        "analyticsattributes.topicsubchannel": "Technology",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20210226&t=2&i=1553045722&r=LYNXMPEH1P12L&w=800",
+                        "sailthru.author": "Chijioke Ohuocha",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Nigeria needs to regulate cryptocurrencies, not ban them: vice president",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AFR,BNKS,BNKS1,CBNG,CEN,CRYCUR,EMRG,FRX,FUND,INVBIS,MAN,MMT,NG,PLCY,POL,REGS,WAFR",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20210226&t=2&i=1553045722&r=LYNXMPEH1P12L&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;NIGERIA;CRYPTO;CURRENCY;Africa;Banks (TRBC level 4);Banks (NEC) (TRBC level 5);Central Bank of Nigeria;Central Banks / Central Bank Events;Cryptocurrencies;Emerging Market Countries;Currencies / Foreign Exchange Markets;Funds;Investment Banking & Investment Services (TRBC level 3);Company Management Issues;Money Markets;Nigeria;Monetary / Fiscal Policy / Policy Makers;Government / Politics;Corporate / Market Regulation;West Africa",
+                        "sailthru.title": "Nigeria needs to regulate cryptocurrencies, not ban them: vice president",
+                        "analyticsattributes.contenttitle": "Nigeria needs to regulate cryptocurrencies, not ban them: vice president",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-nigeria-crypto-currency-idUSKBN2AQ25U",
+                        "analyticsattributes.channel": "Article - News",
+                        "og:article:author": "Chijioke Ohuocha",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2021-02-26T14:43:00Z",
+                        "og:type": "article",
+                        "twitter:title": "Nigeria needs to regulate cryptocurrencies, not ban them: vice president",
+                        "og:title": "Nigeria needs to regulate cryptocurrencies, not ban them: vice president",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-NIGERIA-CRYPTO-CURRENCY",
+                        "analyticsattributes.author": "Chijioke Ohuocha",
+                        "analyticsattributes.contentchannel": "Technology - Technology",
+                        "sailthru.description": "Nigeria's central bank and securities regulator need to find ways to regulate cryptocurrencies rather than prohibiting their use, Vice President Yemi Osinbajo said on Friday, urging them to come up with a regime that would support growth and innovation.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Nigeria's central bank and securities regulator need to find ways to regulate cryptocurrencies rather than prohibiting their use, Vice President Yemi Osinbajo said on Friday, urging them to come up with a regime that would support growth and innovation.",
+                        "analyticsattributes.topicn2names": "Africa,Banks (TRBC level 4),Banks (NEC) (TRBC level 5),Central Bank of Nigeria,Central Banks / Central Bank Events,Cryptocurrencies,Emerging Market Countries,Currencies / Foreign Exchange Markets,Funds,Investment Banking & Investment Services (TRBC level 3),Company Management Issues,Money Markets,Nigeria,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,West Africa",
+                        "og:url": "https://www.reuters.com/article/us-nigeria-crypto-currency-idUSKBN2AQ25U"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20210226&t=2&i=1553045722&r=LYNXMPEH1P12L&w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Is Cryptocurrency Legal In Nigeria? \u2013 Actions Towards The ...",
+            "htmlTitle": "Is <b>Cryptocurrency</b> Legal In <b>Nigeria</b>? \u2013 Actions Towards The ...",
+            "link": "https://www.mondaq.com/nigeria/fin-tech/1105924/is-cryptocurrency-legal-in-nigeria-actions-towards-the-regulations-of-cryptocurrency-in-nigeria",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Aug 27, 2021 ... Engaging in cryptocurrency transactions does not constitute illegal activities, but what the user does with the cryptocurrency in the\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> Engaging in <b>cryptocurrency</b> transactions does not constitute illegal activities, but what the user does with the <b>cryptocurrency</b> in the&nbsp;...",
+            "cacheId": "_NzL3X7LVsoJ",
+            "formattedUrl": "https://www.mondaq.com/nigeria/.../is-cryptocurrency-legal-in-nigeria- actions-towards-the-regulations-of-cryptocurrency-in-nigeria",
+            "htmlFormattedUrl": "https://www.mondaq.com/<b>nigeria</b>/.../is-<b>cryptocurrency</b>-legal-in-<b>nigeria</b>- actions-towards-the-<b>regulations-of-cryptocurrency</b>-in-<b>nigeria</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Is Cryptocurrency Legal In Nigeria? \u2013 Actions Towards The Regulations Of Cryptocurrency In Nigeria - Technology - Nigeria",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "While banks and other financial institutions are prohibited from dealing in cryptocurrencies in Nigeria, cryptocurrency has not been termed illegal, but it is unregulated."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria's SEC Puts Plans to Regulate Crypto on Hold in Light of ...",
+            "htmlTitle": "<b>Nigeria&#39;s</b> SEC Puts Plans to <b>Regulate</b> Crypto on Hold in Light of ...",
+            "link": "https://www.coindesk.com/markets/2021/02/12/nigerias-sec-puts-plans-to-regulate-crypto-on-hold-in-light-of-central-bank-ban/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Feb 12, 2021 ... The regulatory body released a statement officially confirming any plans to regulate the cryptocurrencies are now on hold following a Central\u00a0...",
+            "htmlSnippet": "Feb 12, 2021 <b>...</b> The <b>regulatory</b> body released a statement officially confirming any plans to <b>regulate</b> the <b>cryptocurrencies</b> are now on hold following a Central&nbsp;...",
+            "cacheId": "q7S6Ed0uZRwJ",
+            "formattedUrl": "https://www.coindesk.com/.../nigerias-sec-puts-plans-to-regulate-crypto-on- hold-in-light-of-central-bank-ban/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>nigerias</b>-sec-puts-plans-to-<b>regulate</b>-crypto-on- hold-in-light-of-central-bank-ban/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo30UzqEjrIuufaWTC6RnbRZZNjgDTeF22mNmTF0lOvsyaik3iZ15YEEQ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/6XZWNvAR-rzmqt927HQOxK8S0WQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5DYSZVTOTNBABK4ZC5K3CXJYOI.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-02-12T11:41:08Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Nigeria\u2019s SEC Puts Plans to Regulate Crypto on Hold in Light of Central Bank Ban",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Nigeria\u2019s SEC Puts Plans to Regulate Crypto on Hold in Light of Central Bank Ban",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The Nigerian cryptocurrency community has been turning to peer-to-peer exchange platforms to continue trading.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Tanzeel Akhtar",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/El-DWqvgoJb-KdGob9gsjPhzqpw=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5DYSZVTOTNBABK4ZC5K3CXJYOI.jpg",
+                        "article:tag": "Regulation, Nigeria, Securities and Exchange Commission, CoinFlash, Central Bank of Nigeria",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-02-12T11:41:08Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Nigerian cryptocurrency community has been turning to peer-to-peer exchange platforms to continue trading.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2021/02/12/nigerias-sec-puts-plans-to-regulate-crypto-on-hold-in-light-of-central-bank-ban/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/6XZWNvAR-rzmqt927HQOxK8S0WQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5DYSZVTOTNBABK4ZC5K3CXJYOI.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria's securities watchdog puts cryptocurrency regulation on hold ...",
+            "htmlTitle": "<b>Nigeria&#39;s</b> securities watchdog puts <b>cryptocurrency regulation</b> on hold ...",
+            "link": "https://www.reuters.com/article/nigeria-regulation-crypto-currency-idAFL8N2KI5HC",
+            "displayLink": "www.reuters.com",
+            "snippet": "Feb 12, 2021 ... ABUJA, Feb 12 (Reuters) - Nigeria's securities regulator has suspended a planned assessment of cryptocurrency and its dealers after the\u00a0...",
+            "htmlSnippet": "Feb 12, 2021 <b>...</b> ABUJA, Feb 12 (Reuters) - <b>Nigeria&#39;s</b> securities regulator has suspended a planned assessment of <b>cryptocurrency</b> and its dealers after the&nbsp;...",
+            "cacheId": "34istijcmbMJ",
+            "formattedUrl": "https://www.reuters.com/.../nigeria-regulation-crypto-currency- idAFL8N2KI5HC",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>nigeria</b>-<b>regulation</b>-crypto-currency- idAFL8N2KI5HC",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2021-02-12T17:15:54Z",
+                        "analyticsattributes.backendchannellist": "nigeriaNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Nigeria's securities regulator has suspended a planned assessment of cryptocurrency and its dealers after the central bank ordered lenders to close accounts of individuals and entities transacting in or operating in the asset, it said.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2021-02-12T17:15:54Z",
+                        "og:article:section": "Nigeria News",
+                        "analyticsattributes.articledate": "2021-02-12T17:15:54Z",
+                        "dcsext.dartzone": "reuters.com/wiredefault/article",
+                        "author": "Chijioke Ohuocha",
+                        "analyticsattributes.keywords": "NIGERIA,REGULATION/CRYPTO,CURRENCY,Africa,Corporate Events,Banking & Investment Services (TRBC level 2),Banks (TRBC level 4),Banking Services (TRBC level 3),Central Banks / Central Bank Events,Cryptocurrencies,Emerging Market Countries,Financials (Legacy),Financials (TRBC level 1),Currencies / Foreign Exchange Markets,Funds,General News,Investment Banking & Investment Services (TRBC level 3),Investment Management & Fund Operators (TRBC level 4),Economic News,Money Markets,Nigeria,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,West Africa",
+                        "og:article:published_time": "2021-02-12T17:18:21Z",
+                        "fb:pages": "114050161948682",
+                        "og:article:tag": "NIGERIA,REGULATION/CRYPTO,CURRENCY,Africa,Corporate Events,Banking & Investment Services (TRBC level 2),Banks (TRBC level 4),Banking Services (TRBC level 3),Central Banks / Central Bank Events,Cryptocurrencies,Emerging Market Countries,Financials (Legacy),Financials (TRBC level 1),Currencies / Foreign Exchange Markets,Funds,General News,Investment Banking & Investment Services (TRBC level 3),Investment Management & Fund Operators (TRBC level 4),Economic News,Money Markets,Nigeria,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,West Africa",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "nigeriaNews",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Chijioke Ohuocha",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Nigeria's securities watchdog puts cryptocurrency regulation on hold",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AFR,BACT,BISV,BNKS,BSVC,CEN,CRYCUR,EMRG,FIN,FINS,FRX,FUND,GEN,INVBIS,INVM,MCE,MMT,NG,PLCY,POL,REGS,WAFR",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "NIGERIA;REGULATION/CRYPTO;CURRENCY;Africa;Corporate Events;Banking & Investment Services (TRBC level 2);Banks (TRBC level 4);Banking Services (TRBC level 3);Central Banks / Central Bank Events;Cryptocurrencies;Emerging Market Countries;Financials (Legacy);Financials (TRBC level 1);Currencies / Foreign Exchange Markets;Funds;General News;Investment Banking & Investment Services (TRBC level 3);Investment Management & Fund Operators (TRBC level 4);Economic News;Money Markets;Nigeria;Monetary / Fiscal Policy / Policy Makers;Government / Politics;Corporate / Market Regulation;West Africa",
+                        "sailthru.title": "Nigeria's securities watchdog puts cryptocurrency regulation on hold",
+                        "analyticsattributes.contenttitle": "Nigeria's securities watchdog puts cryptocurrency regulation on hold",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/nigeria-regulation-crypto-currency-idAFL8N2KI5HC",
+                        "og:article:author": "Chijioke Ohuocha",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2021-02-12T17:15:54Z",
+                        "og:type": "article",
+                        "twitter:title": "Nigeria's securities watchdog puts cryptocurrency regulation on hold",
+                        "og:title": "Nigeria's securities watchdog puts cryptocurrency regulation on hold",
+                        "dcsext.channellist": "nigeriaNews",
+                        "analyticsattributes.keywordslug": "NIGERIA-REGULATION/CRYPTO-CURRENCY",
+                        "analyticsattributes.author": "Chijioke Ohuocha",
+                        "analyticsattributes.contentchannel": "-",
+                        "sailthru.description": "Nigeria's securities regulator has suspended a planned assessment of cryptocurrency and its dealers after the central bank ordered lenders to close accounts of individuals and entities transacting in or operating in the asset, it said.",
+                        "fb:app_id": "988502044532272",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Nigeria's securities regulator has suspended a planned assessment of cryptocurrency and its dealers after the central bank ordered lenders to close accounts of individuals and entities transacting in or operating in the asset, it said.",
+                        "analyticsattributes.topicn2names": "Africa,Corporate Events,Banking & Investment Services (TRBC level 2),Banks (TRBC level 4),Banking Services (TRBC level 3),Central Banks / Central Bank Events,Cryptocurrencies,Emerging Market Countries,Financials (Legacy),Financials (TRBC level 1),Currencies / Foreign Exchange Markets,Funds,General News,Investment Banking & Investment Services (TRBC level 3),Investment Management & Fund Operators (TRBC level 4),Economic News,Money Markets,Nigeria,Monetary / Fiscal Policy / Policy Makers,Government / Politics,Corporate / Market Regulation,West Africa",
+                        "og:url": "https://www.reuters.com/article/nigeria-regulation-crypto-currency-idAFL8N2KI5HC"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Nigeria",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Nigeria</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/nigeria",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... The Banking sector is primarily regulated by CBN. ... According to the CBN, cryptocurrencies are issued by unregulated and unlicensed entities,\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> The Banking sector is primarily regulated by CBN. ... According to the CBN, <b>cryptocurrencies</b> are issued by unregulated and unlicensed entities,&nbsp;...",
+            "cacheId": "EL7STDSkQ7wJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../nigeria",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>nigeria</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "rlIcBDNBnXHWXsSrAWSqyjfrqeAGDd6J3B2Y2yMM"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Out of control and rising: why bitcoin has Nigeria's government in a ...",
+            "htmlTitle": "Out of <b>control</b> and rising: why bitcoin has <b>Nigeria&#39;s</b> government in a ...",
+            "link": "https://www.theguardian.com/technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic",
+            "displayLink": "www.theguardian.com",
+            "snippet": "Jul 31, 2021 ... In February, the government took fright and banned cryptocurrency transactions through licensed banks. In late July, it announced a pilot scheme\u00a0...",
+            "htmlSnippet": "Jul 31, 2021 <b>...</b> In February, the government took fright and banned <b>cryptocurrency</b> transactions through licensed banks. In late July, it announced a pilot scheme&nbsp;...",
+            "cacheId": "yUf_fI3oAh0J",
+            "formattedUrl": "https://www.theguardian.com/.../out-of-control-and-rising-why-bitcoin-has- nigerias-government-in-a-panic",
+            "htmlFormattedUrl": "https://www.theguardian.com/.../out-of-<b>control</b>-and-rising-why-bitcoin-has- <b>nigerias</b>-government-in-a-panic",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSttCClsBYqMDKK32jqgDFVGd9X1CV__cpjq5FYXa0_tfBRh0zLTr60LD4R",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i.guim.co.uk/img/media/5e4e654e79b737902da661e5d51134eca7e674a1/0_306_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=0a3bc6e4a0b690ef72e6fc15a2c41f66",
+                        "twitter:app:id:googleplay": "com.guardian",
+                        "twitter:app:url:iphone": "gnmguardian://technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic?contenttype=Article&source=twitter",
+                        "theme-color": "#052962",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-07-31T15:00:32.000Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "the Guardian",
+                        "twitter:app:url:ipad": "gnmguardian://technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic?contenttype=Article&source=twitter",
+                        "twitter:app:name:googleplay": "The Guardian",
+                        "al:ios:url": "gnmguardian://technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic?contenttype=Article&source=applinks",
+                        "twitter:app:id:iphone": "409128287",
+                        "og:description": "As leaders around the world grapple with cryptocurrencies, what happened when the African country tried to ban them?",
+                        "article:publisher": "https://www.facebook.com/theguardian",
+                        "al:ios:app_store_id": "409128287",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://i.guim.co.uk/img/media/5e4e654e79b737902da661e5d51134eca7e674a1/0_306_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&s=3a5dc042dce423f2b8fa6fff67e8546d",
+                        "twitter:site": "@guardian",
+                        "article:modified_time": "2021-07-31T15:00:32.000Z",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "al:ios:app_name": "The Guardian",
+                        "og:title": "Out of control and rising: why bitcoin has Nigeria\u2019s government in a panic",
+                        "og:image:height": "720",
+                        "twitter:app:id:ipad": "409128287",
+                        "article:author": "https://www.theguardian.com/profile/emmanuel-akinwotu",
+                        "article:tag": "Cryptocurrencies,Bitcoin,Nigeria,Technology,Business,Africa,E-commerce",
+                        "fb:app_id": "180444840287",
+                        "twitter:app:url:googleplay": "guardian://www.theguardian.com/technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic",
+                        "twitter:app:name:ipad": "The Guardian",
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "og:url": "http://www.theguardian.com/technology/2021/jul/31/out-of-control-and-rising-why-bitcoin-has-nigerias-government-in-a-panic",
+                        "twitter:app:name:iphone": "The Guardian"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.guim.co.uk/img/media/5e4e654e79b737902da661e5d51134eca7e674a1/0_306_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=0a3bc6e4a0b690ef72e6fc15a2c41f66"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Response to Regulatory Directive on Cryptocurrencies",
+            "htmlTitle": "Response to <b>Regulatory</b> Directive on <b>Cryptocurrencies</b>",
+            "link": "https://www.cbn.gov.ng/out/2021/ccd/cbn%20press%20release%20crypto%2007022021.pdf",
+            "displayLink": "www.cbn.gov.ng",
+            "snippet": "Feb 7, 2021 ... The attention of the Central Bank of Nigeria (CBN) has been drawn to various comments and reactions following our recent reminder to Deposit\u00a0...",
+            "htmlSnippet": "Feb 7, 2021 <b>...</b> The attention of the Central Bank of <b>Nigeria</b> (CBN) has been drawn to various comments and reactions following our recent reminder to Deposit&nbsp;...",
+            "cacheId": "7O5iJVghVaEJ",
+            "formattedUrl": "https://www.cbn.gov.ng/.../cbn%20press%20release%20crypto%2007022021 .pdf",
+            "htmlFormattedUrl": "https://www.cbn.gov.ng/.../cbn%20press%20release%20crypto%2007022021 .pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQd2BJopoLtiV8lN4w1q3nBM03d1BNRySOM__vQSXD6RWr4VuIOoYcz3wX",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210207181738+00'00'",
+                        "creator": "Microsoft Word",
+                        "creationdate": "D:20210207181738+00'00'",
+                        "author": "CBNUser"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///1859f2ecac83541687c4f3f9c2af064527914e9cc1e9156b32b14c1ec3327d09"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria's crackdown on Bitcoin echoes global crypto conundrum ...",
+            "htmlTitle": "<b>Nigeria&#39;s</b> crackdown on Bitcoin echoes global crypto conundrum ...",
+            "link": "https://www.aljazeera.com/economy/2021/3/25/nigerias-crackdown-on-bitcoin-echoes-global-crypto-conundrum",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Mar 25, 2021 ... The backlash against a Nigerian central bank directive on cryptocurrencies echoes a dilemma facing governments around the world: how to regulate\u00a0...",
+            "htmlSnippet": "Mar 25, 2021 <b>...</b> The backlash against a <b>Nigerian</b> central bank directive on <b>cryptocurrencies</b> echoes a dilemma facing governments around the world: how to <b>regulate</b>&nbsp;...",
+            "cacheId": "xysDdAZgNi8J",
+            "formattedUrl": "https://www.aljazeera.com/.../nigerias-crackdown-on-bitcoin-echoes-global- crypto-conundrum",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>nigerias</b>-crackdown-on-bitcoin-echoes-global- crypto-conundrum",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTjq0gKiuHvIxAsKvXNpy-9H3y6-UBh5EWRaqZI7PZQnS4Tu_fXngSjQs",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/03/2020-09-08T054641Z_1365493869_RC25UI96F3ZD_RTRMADP_3_CRYPTO-CURRENCIES-AFRICA.jpg?resize=1200%2C630",
+                        "pageauthors": "Torinmo Salau",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Nigeria\u2019s crackdown on Bitcoin echoes global crypto conundrum",
+                        "taxonomy-tags": "Economy, News, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/economy/2021/3/25/nigerias-crackdown-on-bitcoin-echoes-global-crypto-conundrum",
+                        "author": "Torinmo Salau",
+                        "pagesection": "Economy,News,Business and Economy,Crypto",
+                        "og:title": "Nigeria\u2019s crackdown on Bitcoin echoes global crypto conundrum",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2021/3/25/nigerias-crackdown-on-bitcoin-echoes-global-crypto-conundrum",
+                        "source": "Al Jazeera",
+                        "og:description": "Governments around the world are grappling with how to regulate cryptocurrencies without stifling crypto innovations.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/03/2020-09-08T054641Z_1365493869_RC25UI96F3ZD_RTRMADP_3_CRYPTO-CURRENCIES-AFRICA.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Nigeria\u2019s crackdown on Bitcoin echoes global crypto conundrum",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "Governments around the world are grappling with how to regulate cryptocurrencies without stifling crypto innovations.",
+                        "og:url": "https://www.aljazeera.com/economy/2021/3/25/nigerias-crackdown-on-bitcoin-echoes-global-crypto-conundrum",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/03/2020-09-08T054641Z_1365493869_RC25UI96F3ZD_RTRMADP_3_CRYPTO-CURRENCIES-AFRICA.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: Why <b>Nigeria</b> is a global leader in Bitcoin trade ...",
+            "link": "https://www.bbc.com/news/world-africa-56169917",
+            "displayLink": "www.bbc.com",
+            "snippet": "Feb 28, 2021 ... In an effort to regulate the market, Nigeria's central bank banned banks from facilitating cryptocurrency-related transactions in 2017,\u00a0...",
+            "htmlSnippet": "Feb 28, 2021 <b>...</b> In an effort to <b>regulate</b> the market, <b>Nigeria&#39;s</b> central bank banned banks from facilitating <b>cryptocurrency</b>-related transactions in 2017,&nbsp;...",
+            "cacheId": "LfYAnXPamM4J",
+            "formattedUrl": "https://www.bbc.com/news/world-africa-56169917",
+            "htmlFormattedUrl": "https://www.bbc.com/news/world-africa-56169917",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzCjN4xHVfCudDTK3m4PbM30CIx7hpurdCi6nLv22q-vqr7i3MuOucss",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg",
+                        "theme-color": "#FFFFFF",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "BBC News",
+                        "cleartype": "on",
+                        "msapplication-tileimage": "BBC News",
+                        "og:description": "A devaluing currency and hard economic conditions make cryptocurrencies attractive despite the risks.",
+                        "twitter:creator": "@BBCWorld",
+                        "twitter:image:alt": "Bitcoin has jumped above $17,000 (\u00a312,800) to hit a three-year high.",
+                        "twitter:site": "@BBCWorld",
+                        "fb:admins": "100004154058350",
+                        "application-name": "BBC News",
+                        "msapplication-tilecolor": "#bb1919",
+                        "og:image:alt": "Bitcoin has jumped above $17,000 (\u00a312,800) to hit a three-year high.",
+                        "og:type": "article",
+                        "article:section": "Africa",
+                        "twitter:title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade",
+                        "twitter:domain": "www.bbc.com",
+                        "og:title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade",
+                        "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+                        "article:author": "https://www.facebook.com/bbcnews",
+                        "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg",
+                        "fb:app_id": "1609039196070050",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A devaluing currency and hard economic conditions make cryptocurrencies attractive despite the risks.",
+                        "og:locale": "en_GB",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.bbc.com/news/world-africa-56169917"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria Delays Plans to Regulate Bitcoin (BTC USD ...",
+            "htmlTitle": "<b>Nigeria</b> Delays Plans to <b>Regulate</b> Bitcoin (BTC USD ...",
+            "link": "https://www.bloomberg.com/news/articles/2021-02-12/nigeria-delays-plans-to-regulate-cryptocurrencies-and-dealers",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Feb 11, 2021 ... Nigeria's Securities and Exchange Commission has suspended previously announced plans to regulate cryptocurrencies, until those dealing in\u00a0...",
+            "htmlSnippet": "Feb 11, 2021 <b>...</b> <b>Nigeria&#39;s</b> Securities and Exchange Commission has suspended previously announced plans to <b>regulate cryptocurrencies</b>, until those dealing in&nbsp;...",
+            "cacheId": "x2uC5y9732kJ",
+            "formattedUrl": "https://www.bloomberg.com/.../nigeria-delays-plans-to-regulate- cryptocurrencies-and-dealers",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>nigeria</b>-delays-plans-to-<b>regulate</b>- <b>cryptocurrencies</b>-and-dealers",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP0r7pwiwmXKyViVIxsvCpb718IXNyoLG_JxmRlsc1mgFNXE67ogTn-Pph",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNRV9BfwZHls/v0/1200x900.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Nigeria,Cryptocurrency,US Securities and Exchange Commission,Regulation,Banking,Finance,Government,Emerging Markets Economics,Emerging Markets,Africa,technology,business,cryptocurrencies",
+                        "lotame-bbg-topic": "regulation,cryptocurrency,government,emerging-markets-economics,emerging-markets,future-innovation",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Emele Onu",
+                        "og:description": "Nigeria\u2019s Securities and Exchange Commission has suspended previously announced plans to regulate cryptocurrencies, until those dealing in them are able to open bank accounts in the West African nation.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNRV9BfwZHls/v0/1200x900.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@technology",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-02-12/nigeria-delays-plans-to-regulate-cryptocurrencies-and-dealers",
+                        "iso-8601-publish-date": "2021-02-12T07:21:53.814Z",
+                        "sailthru.title": "Nigeria Delays Plans to Regulate Cryptocurrencies and Dealers",
+                        "checksum": "904c92880b9ae55d6cc9c0d557360f40",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNRV9BfwZHls/v0/1200x900.jpg",
+                        "parsely-section": "technology",
+                        "article:content_tier": "metered",
+                        "fb:status": "Nigeria\u2019s Securities and Exchange Commission has suspended previously announced plans to regulate cryptocurrencies, until those dealing in them are able to open bank accounts in the West African nation.",
+                        "sailthru.date": "2021-02-12T07:21:53.814Z",
+                        "og:type": "article",
+                        "twitter:title": "Nigeria Delays Plans to Regulate Cryptocurrencies and Dealers",
+                        "parsely-post-id": "QOEK1CT0G1L001",
+                        "og:title": "Nigeria Delays Plans to Regulate Cryptocurrencies and Dealers",
+                        "parsely-title": "Nigeria Delays Plans to Regulate Bitcoin (BTC USD) Cryptocurrencies and Dealers",
+                        "parsely-pub-date": "2021-02-12T07:21:53.814Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-02-12/nigeria-delays-plans-to-regulate-cryptocurrencies-and-dealers?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "finance,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Nigeria,Cryptocurrency,US Securities and Exchange Commission,Regulation,Banking,Finance,Government,Emerging Markets Economics,Emerging Markets,Africa,Secondary Brand: technology,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "Nigeria\u2019s Securities and Exchange Commission has suspended previously announced plans to regulate cryptocurrencies, until those dealing in them are able to open bank accounts in the West African nation.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "Nigeria\u2019s Securities and Exchange Commission has suspended previously announced plans to regulate cryptocurrencies, until those dealing in them are able to open bank accounts in the West African nation.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-02-12/nigeria-delays-plans-to-regulate-cryptocurrencies-and-dealers",
+                        "validatedat": "2022-01-21T16:17:51.339Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Emele Onu",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNRV9BfwZHls/v0/1200x900.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

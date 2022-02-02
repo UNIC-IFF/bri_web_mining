@@ -1,0 +1,564 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SAINT KITTS AND NEVIS",
+                "totalResults": "332000",
+                "searchTerms": "SAINT KITTS AND NEVIS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SAINT KITTS AND NEVIS",
+                "totalResults": "332000",
+                "searchTerms": "SAINT KITTS AND NEVIS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.359942,
+        "formattedSearchTime": "0.36",
+        "totalResults": "332000",
+        "formattedTotalResults": "332,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Saint Kitts and Nevis and Cryptocurrency - Virtual Currency Laws",
+            "htmlTitle": "<b>Saint Kitts and Nevis</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/saint-kitts-nevis/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Although Saint Kitts and Nevis have not passed any particular legislation regarding cryptocurrency, the country is nevertheless participating in the ECCB pilot\u00a0...",
+            "htmlSnippet": "Although <b>Saint Kitts and Nevis</b> have not passed any particular legislation regarding <b>cryptocurrency</b>, the country is nevertheless participating in the ECCB pilot&nbsp;...",
+            "cacheId": "YigoEU51KrUJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/saint-kitts-nevis/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>saint</b>-<b>kitts</b>-<b>nevis</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:33:11+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/saint-kitts-nevis/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Saint Kitts and Nevi ? Freeman Law can help with digital currencies & tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:26:37+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/saint-lucia/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Saint Kitts and Nevis and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Saint Kitts and Nevis and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:26:37+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Saint Kitts and Nevis and Cryptocurrency Saint Kitts and Nevis Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Although Saint Kitts and Nevis have not passed any particular legislation regarding cryptocurrency, the country is nevertheless...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/saint-kitts-nevis/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tax Friendly Saint Kitts and Nevis Approves Progressive Crypto Bill ...",
+            "htmlTitle": "Tax Friendly <b>Saint Kitts and Nevis</b> Approves Progressive Crypto Bill ...",
+            "link": "https://news.bitcoin.com/saint-kitts-tax-crypto-bill/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Feb 6, 2020 ... The island country of Saint Kitts and Nevis, located in the West Indies, recently passed a bill that legalizes digital currency assets like\u00a0...",
+            "htmlSnippet": "Feb 6, 2020 <b>...</b> The island country of <b>Saint Kitts and Nevis</b>, located in the West Indies, recently passed a bill that legalizes digital currency assets like&nbsp;...",
+            "cacheId": "e3TUr_QVwjsJ",
+            "formattedUrl": "https://news.bitcoin.com/saint-kitts-tax-crypto-bill/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>saint</b>-<b>kitts</b>-tax-crypto-bill/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8asueoYrvJZ0aJ792S4tRYc6lEe4rYPBp3oW8pPES7MuQHXJWqNWMK9F5",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2020/02/1k77pRDW-hhshhshhshh99.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-02-07T04:15:33+00:00",
+                        "og:image:width": "1520",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Tax Friendly Saint Kitts and Nevis Approves Progressive Crypto Bill, Lenient Capital Gains Exemption \u2013 News Bitcoin News",
+                        "og:image:height": "1024",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The island country of Saint Kitts and Nevis recently passed a bill that recognizes and legalizes digital currency assets like bitcoin.",
+                        "twitter:creator": "@https://twitter.com/jamieCrypto",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Jamie Redman",
+                        "twitter:data2": "4 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2020-02-07T05:11:06+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/saint-kitts-tax-crypto-bill/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Tax Friendly Saint Kitts and Nevis Approves Progressive Crypto Bill, Lenient Capital Gains Exemption"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2020/02/1k77pRDW-hhshhshhshh99.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "... Poland, Portugal, Qatar, Republic of the Congo, Romania, Russian Federation, Saint Kitts and Nevis, Saint Lucia, Samoa, Saudia Arabia, Senegal, Serbia,\u00a0...",
+            "htmlSnippet": "... Poland, Portugal, Qatar, Republic of the Congo, Romania, Russian Federation, <b>Saint Kitts and Nevis</b>, Saint Lucia, Samoa, Saudia Arabia, Senegal, Serbia,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Saint Kitts and ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Saint Kitts and</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/saint-kitts-and-nevis",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Saint Kitts and Nevis for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous\u00a0...",
+            "htmlSnippet": "The <b>Saint Kitts and Nevis</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous&nbsp;...",
+            "cacheId": "d5VkZ8i_PRcJ",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws...regulations/saint-kitts-and-nevis",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>...<b>regulations</b>/<b>saint</b>-<b>kitts-and-nevis</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Saint Kitts and Nevis for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Saint Kitts and Nevis | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Saint Kitts and Nevis for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Saint Kitts and Nevis | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/saint-kitts-and-nevis"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Saint Kitts and Nevis Invites Crypto Investors To Acquire Citizenship ...",
+            "htmlTitle": "<b>Saint Kitts and Nevis</b> Invites Crypto Investors To Acquire Citizenship ...",
+            "link": "https://www.ntltrust.com/news-/news-ntl/saint-kitts-and-nevis-invites-crypto-investors-to-acquire-citizenship-by-investment",
+            "displayLink": "www.ntltrust.com",
+            "snippet": "Sep 14, 2021 ... Yes, cryptocurrency investments are completely legal. This is confirmed by the special Bill on Virtual Assets. The amendment to the law makes\u00a0...",
+            "htmlSnippet": "Sep 14, 2021 <b>...</b> Yes, <b>cryptocurrency</b> investments are completely legal. This is confirmed by the special Bill on Virtual Assets. The amendment to the law makes&nbsp;...",
+            "cacheId": "h0y9qUpbaFsJ",
+            "formattedUrl": "https://www.ntltrust.com/.../saint-kitts-and-nevis-invites-crypto-investors-to- acquire-citizenship-by-investment",
+            "htmlFormattedUrl": "https://www.ntltrust.com/.../<b>saint</b>-<b>kitts-and-nevis</b>-invites-crypto-investors-to- acquire-citizenship-by-investment",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0mdgJ1LkByZq9Vz-9gEUMDdYPbe60ZoEg8fDpqMrbEnMd_ohQ2oFtzNIh",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://static1.squarespace.com/static/55c48e13e4b09e7cf2404af2/t/6140b66e3bcd72396eed2bca/1631630959012/saint-kitts-and-nevis-offers-crypto-investors-to-acquire-citizenship-by-investment-ntl-trust.jpg?format=1500w",
+                        "og:type": "article",
+                        "og:image:width": "1500",
+                        "twitter:title": "Saint Kitts and Nevis Invites Crypto Investors To Acquire Citizenship by Investment \u2014 NTL Trust",
+                        "twitter:card": "summary",
+                        "og:site_name": "NTL Trust",
+                        "twitter:url": "https://www.ntltrust.com/news-/news-ntl/saint-kitts-and-nevis-invites-crypto-investors-to-acquire-citizenship-by-investment",
+                        "og:title": "Saint Kitts and Nevis Invites Crypto Investors To Acquire Citizenship by Investment \u2014 NTL Trust",
+                        "og:image:height": "2249",
+                        "yandex-verification": "2d9aa42e0b3159fd",
+                        "og:latitude": "40.7207559",
+                        "og:description": "Saint Kitts and Nevis is a small Caribbean country with a citizenship by investment program since 1984. The Federation keeps up with the times and world trends. Therefore, crypto investors can acquire citizenship and a passport by investing in cryptocurrency.",
+                        "twitter:image": "http://static1.squarespace.com/static/55c48e13e4b09e7cf2404af2/t/6140b66e3bcd72396eed2bca/1631630959012/saint-kitts-and-nevis-offers-crypto-investors-to-acquire-citizenship-by-investment-ntl-trust.jpg?format=1500w",
+                        "og:longitude": "-74.00076130000002",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Saint Kitts and Nevis is a small Caribbean country with a citizenship by investment program since 1984. The Federation keeps up with the times and world trends. Therefore, crypto investors can acquire citizenship and a passport by investing in cryptocurrency.",
+                        "og:url": "https://www.ntltrust.com/news-/news-ntl/saint-kitts-and-nevis-invites-crypto-investors-to-acquire-citizenship-by-investment"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static1.squarespace.com/static/55c48e13e4b09e7cf2404af2/t/6140b66e3bcd72396eed2bca/1631630959012/saint-kitts-and-nevis-offers-crypto-investors-to-acquire-citizenship-by-investment-ntl-trust.jpg?format=1500w"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "St Kitts and Nevis becomes leading nation in Caribbean for crypto ...",
+            "htmlTitle": "<b>St Kitts and Nevis</b> becomes leading nation in Caribbean for crypto ...",
+            "link": "https://www.grcworldforums.com/cryptocurrency/st-kitts-and-nevis-becomes-leading-nation-in-caribbean-for-crypto-banking-as-market-soars/3058.article",
+            "displayLink": "www.grcworldforums.com",
+            "snippet": "Oct 25, 2021 ... More broadly, the cryptocurrency market is witnessing a significant recovery as it passes the $2.5 trillion mark and continues its upward\u00a0...",
+            "htmlSnippet": "Oct 25, 2021 <b>...</b> More broadly, the <b>cryptocurrency</b> market is witnessing a significant recovery as it passes the $2.5 trillion mark and continues its upward&nbsp;...",
+            "cacheId": "bUQA9NZfUbUJ",
+            "formattedUrl": "https://www.grcworldforums.com/cryptocurrency/st-kitts-and-nevis.../3058. article",
+            "htmlFormattedUrl": "https://www.grcworldforums.com/<b>cryptocurrency</b>/<b>st</b>-<b>kitts-and-nevis</b>.../3058. article",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs19ddYv6hEasafPzK6qXN6dd6VysodkTQTfjKhjmbDZ-icrzlSFmB5Lez",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://d6t93aut4ltrr.cloudfront.net/Pictures/1024x536/4/0/3/5403_stockmarkettradingcryptobanking_736153.jpg",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "GRC World Forums",
+                        "primarynavigation": "Cryptocurrency ,Threats ,Financial Crime",
+                        "msapplication-tileimage": "/magazine/dest/graphics/favicons/mstile-144x144.png",
+                        "og:description": "The dual-island nation of St Kitts and Nevis has quickly become a leading nation in the Caribbean region for crypto-literate banking.",
+                        "momentlocaleformat": "MMM DD, YYYY",
+                        "twitter:image:alt": "stock-market-trading crypto banking",
+                        "pubdate": "Mon, 25 Oct 2021 09:48 GMT",
+                        "showwallpaper": "true",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "Article",
+                        "og:image:alt": "stock-market-trading crypto banking",
+                        "twitter:title": "St Kitts and Nevis becomes leading nation in Caribbean for ...",
+                        "blockthis": "blockGA",
+                        "momentlocale": "en-gb",
+                        "og:title": "St Kitts and Nevis becomes leading nation in Caribbean for crypto-banking as market soars",
+                        "momentrelativeformat": "YYYY,MM,DD",
+                        "og:image:height": "536",
+                        "momentnowdate": "2022-01-24 14:56:26.744",
+                        "momentrelative": "false",
+                        "momentrelativemorethan": "10",
+                        "twitter:image:src": "https://d6t93aut4ltrr.cloudfront.net/Pictures/1120xAny/4/0/3/5403_stockmarkettradingcryptobanking_736153.jpg",
+                        "navcode": "52",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The dual-island nation of St Kitts and Nevis has quickly become a leading nation in the Caribbean region for crypto-literate banking.",
+                        "og:url": "https://www.grcworldforums.com/cryptocurrency/st-kitts-and-nevis-becomes-leading-nation-in-caribbean-for-crypto-banking-as-market-soars/3058.article"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://d6t93aut4ltrr.cloudfront.net/Pictures/1024x536/4/0/3/5403_stockmarkettradingcryptobanking_736153.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "News | Second passport | JH Marlin Attorneys at Law",
+            "htmlTitle": "News | Second passport | JH Marlin Attorneys at Law",
+            "link": "https://jhmarlin.com/news-citizenship-passport-and-second-passport-llc-ibc-trust-in-nevis/",
+            "displayLink": "jhmarlin.com",
+            "snippet": "St Kitts and Nevis News Second passport & Citizenship. ... JH Marlin Law can provide a regulatory overview of cryptocurrencies in St.Christopher & Nevis and\u00a0...",
+            "htmlSnippet": "<b>St Kitts and Nevis</b> News Second passport &amp; Citizenship. ... JH Marlin Law can provide a <b>regulatory</b> overview of <b>cryptocurrencies</b> in St.Christopher &amp; Nevis and&nbsp;...",
+            "cacheId": "YdvM5dxTQ7sJ",
+            "formattedUrl": "https://jhmarlin.com/news-citizenship-passport-and-second-passport-llc-ibc- trust-in-nevis/",
+            "htmlFormattedUrl": "https://jhmarlin.com/news-citizenship-passport-and-second-passport-llc-ibc- trust-in-<b>nevis</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA0yvOmM1vd4axkPoJKzyE-Sj5dGv4f30XYIH3BmeUd2J451y-KnIc8fo",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "JH Marlin Attorneys at Law / Citizenship by investment St Kitts Nevis",
+                        "article:modified_time": "2019-02-26T16:56:42+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "News | Second passport | JH Marlin Attorneys at Law",
+                        "og:locale": "en_US",
+                        "og:url": "https://jhmarlin.com/news-citizenship-passport-and-second-passport-llc-ibc-trust-in-nevis/",
+                        "msapplication-tileimage": "https://jhmarlin.com/wp-content/uploads/2018/09/cropped-favicon-s-1-270x270.png",
+                        "og:description": "JH Marlin Attorneys at Law is a leading Nevis law firm in the Federation of St Kitts & Nevis. St Kitts and Nevis News Second passport & Citizenship."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://jhmarlin.com/wp-content/uploads/2019/01/Nevis-LLC-IBC-Trust-Foundation-960x720.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nigeria follows China's footsteps in piloting digital currency ...",
+            "htmlTitle": "Nigeria follows China&#39;s footsteps in piloting digital currency ...",
+            "link": "https://techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/",
+            "displayLink": "techcrunch.com",
+            "snippet": "Oct 25, 2021 ... Central banks control the circulation and supply of money globally, ... Grenada, Saint Kitts and Nevis, and Saint Lucia \u2014 four of the five\u00a0...",
+            "htmlSnippet": "Oct 25, 2021 <b>...</b> Central banks <b>control</b> the circulation and supply of money globally, ... Grenada, <b>Saint Kitts and Nevis</b>, and Saint Lucia \u2014 four of the five&nbsp;...",
+            "cacheId": "G22JEN-1SvYJ",
+            "formattedUrl": "https://techcrunch.com/.../nigeria-follows-chinas-footsteps-in-piloting-digital- currency/",
+            "htmlFormattedUrl": "https://techcrunch.com/.../nigeria-follows-chinas-footsteps-in-piloting-digital- currency/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-_F1v2QkvNLpNRDguGvnXL5jeh_ixMjwUKmHVScIc_dJHjtPat1Swink",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711",
+                        "twitter:card": "summary_large_image",
+                        "sailthru.tags": "africa, Bitcoin, Central Bank of Nigeria, China, Crypto Economy, cryptocurrencies, currency, digital currencies, digital yuan, eNaira, Nigeria",
+                        "og:site_name": "TechCrunch",
+                        "cxenseparse:keywords": "africa,cryptocurrency,government,tc,bitcoin,central bank of nigeria,china,crypto economy,cryptocurrencies,currency,digital currencies,digital yuan,enaira,nigeria",
+                        "cxenseparse:url": "https://techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/",
+                        "cxenseparse:image": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711",
+                        "title": "Nigeria follows China\u2019s footsteps in piloting digital currency \u2013 TechCrunch",
+                        "msapplication-tileimage": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=270",
+                        "og:description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, b\u2026",
+                        "twitter:creator": "@ulonnaya",
+                        "cxenseparse:news_keywords": "africa,cryptocurrency,government,tc,bitcoin,central bank of nigeria,china,crypto economy,cryptocurrencies,currency,digital currencies,digital yuan,enaira,nigeria",
+                        "article:publisher": "https://www.facebook.com/techcrunch",
+                        "twitter:image": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711",
+                        "cxenseparse:modified_time": "2021-10-25T16:21:41Z",
+                        "oath:guce:product-eu": "false",
+                        "oath:guce:consent-host": "guce.techcrunch.com",
+                        "cxenseparse:author": "Tage Kene-Okafor",
+                        "twitter:site": "@techcrunch",
+                        "sailthru.title": "Nigeria follows China\u2019s footsteps in piloting digital currency",
+                        "og:site": "social.techcrunch.com",
+                        "fb:admins": "8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188",
+                        "cxenseparse:recs:publishtime": "2021-10-25T15:03:16Z",
+                        "sailthru.date": "2021-10-25 08:03:16",
+                        "og:type": "article",
+                        "twitter:title": "Nigeria follows China\u2019s footsteps in piloting digital currency",
+                        "wp-parsely_version": "2.4.1",
+                        "cxenseparse:title": "Nigeria follows China's footsteps in piloting digital currency",
+                        "cxenseparse:pageclass": "article",
+                        "og:title": "Nigeria follows China\u2019s footsteps in piloting digital currency \u2013 TechCrunch",
+                        "cxenseparse:description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, buffered by local activity and interest in cryptocurrency \u2014 [\u2026]",
+                        "sailthru.image.thumb": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=50",
+                        "fb:pages": "8062627951",
+                        "sailthru.description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, buffered by local activity and interest in cryptocurrency \u2014 [\u2026]",
+                        "fb:app_id": "187288694643718",
+                        "cxenseparse:posttype": "post",
+                        "viewport": "width=device-width",
+                        "oath:guce:inline-consent": "true",
+                        "cxenseparse:articleid": "2210974",
+                        "twitter:description": "Central banks control the circulation and supply of money globally, but the phenomenal rise of cryptocurrency poses a threat to their authority, control and power. So central banks around the world are now producing their own digital currencies. In a groundbreaking move for the African continent, buffered by local activity and interest in cryptocurrency \u2014 [\u2026]",
+                        "og:url": "https://social.techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/",
+                        "sailthru.author": "Tage Kene-Okafor",
+                        "sailthru.image.full": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://techcrunch.com/wp-content/uploads/2021/10/china-nigeria-flag-coins1.jpg?w=711"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "St Kitts passes bill legalizing Bitcoin and virtual currencies ...",
+            "htmlTitle": "<b>St Kitts</b> passes bill legalizing Bitcoin and virtual currencies ...",
+            "link": "https://citizenshipbyinvestment.ch/index.php/2020/01/27/st-kitts-passes-bill-legalizing-bitcoin-and-virtual-currencies/",
+            "displayLink": "citizenshipbyinvestment.ch",
+            "snippet": "Jan 28, 2020 ... The Government of St Kitts and Nevis has passed a bill to legalize bitcoin and virtual currencies, help to facilitate the ease of doing\u00a0...",
+            "htmlSnippet": "Jan 28, 2020 <b>...</b> The Government of <b>St Kitts and Nevis</b> has passed a bill to legalize bitcoin and virtual currencies, help to facilitate the ease of doing&nbsp;...",
+            "cacheId": "zh6slYnBU7MJ",
+            "formattedUrl": "https://citizenshipbyinvestment.ch/.../st-kitts-passes-bill-legalizing-bitcoin-and -virtual-currencies/",
+            "htmlFormattedUrl": "https://citizenshipbyinvestment.ch/.../<b>st</b>-<b>kitts</b>-passes-bill-legalizing-bitcoin-and -virtual-currencies/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJB0DLg98npE6bsHOL26wVbfbL6nwoyJVHNAddbo4geS0vx53dF5e4K7jd",
+                        "width": "278",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                        "msapplication-tileimage": "https://citizenshipbyinvestment.ch/wp-content/uploads/2017/05/cropped-cipjournal-270x270.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://citizenshipbyinvestment.ch/wp-content/uploads/2018/08/Bitcoin-Depositphotos_42771863_l-2015-e1580148629738.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World",
+            "link": "https://jolt.richmond.edu/files/2021/02/Bull_cryptocurrency-world-survey.pdf",
+            "displayLink": "jolt.richmond.edu",
+            "snippet": "countries to reference cryptocurrency include: digital currency ... Saint Kitts and Nevis does not have specific legislation to regulate cryptocurrencies.",
+            "htmlSnippet": "countries to reference <b>cryptocurrency</b> include: digital currency ... <b>Saint Kitts and Nevis</b> does not have specific legislation to <b>regulate cryptocurrencies</b>.",
+            "formattedUrl": "https://jolt.richmond.edu/files/2021/.../Bull_cryptocurrency-world-survey.pdf",
+            "htmlFormattedUrl": "https://jolt.richmond.edu/files/2021/.../Bull_<b>cryptocurrency</b>-world-survey.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1foJ6KNQry54P3OF5oMsOufbLIAkZmTFLCRLx7CQc65eOYAjrRjX0_pY",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180612125833-04'00'",
+                        "creationdate": "D:20180611153612-04'00'",
+                        "creator": "Adobe Acrobat Pro DC 15.17.20050",
+                        "author": "Global Legal Research Directorate staff, Law Library of Congress",
+                        "subject": "This report by the Law Library of Congress provides information on the regulation of cryptocurrency around the world.",
+                        "producer": "Adobe Acrobat Pro DC 15.17.20050",
+                        "title": "Regulation of Crytocurrency Around the World"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///4fb0c3de60d9807280b9bd74fbd7b876d381046e9c455a4932a763d3d4c6c65a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

@@ -9,13 +9,15 @@ cse_key = os.getenv('cse_key')
 resource = build("customsearch", 'v1', developerKey=google_api_key).cse()
 
 
-def api_search_engine(query, action, country=None, word=None, keyword=None):
+def api_search_engine(query, action, country=None, word=None, keyword=None, daterange=None):
 
     # query = 'intext:{} ~{} ~({})'.format(
     #             country.lower(), word, action)
 
-    result = resource.list(q=query, hq=action, cx=cse_key).execute()
+    # sort="date:r:20210101:20211231"
 
+    result = resource.list(q=query, hq=action, cx=cse_key).execute()
+    # , sort="date:r:20210101:20211231"
     # result_json = json.dumps(result, indent=4)
     
     if (country != None):

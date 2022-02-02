@@ -1,0 +1,566 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - UK",
+                "totalResults": "10300000",
+                "searchTerms": "UK",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - UK",
+                "totalResults": "10300000",
+                "searchTerms": "UK",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.30582,
+        "formattedSearchTime": "0.31",
+        "totalResults": "10300000",
+        "formattedTotalResults": "10,300,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Britain bans Binance's UK ops in latest cryptocurrency crackdown ...",
+            "htmlTitle": "Britain bans Binance&#39;s <b>UK</b> ops in latest <b>cryptocurrency</b> crackdown ...",
+            "link": "https://www.reuters.com/world/uk/financial-watchdog-orders-crypto-exchange-binance-stop-regulated-activities-uk-2021-06-27/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Jun 27, 2021 ... While trading of cryptocurrencies is not directly regulated in Britain, offering services such as trading in cryptocurrency derivatives does\u00a0...",
+            "htmlSnippet": "Jun 27, 2021 <b>...</b> While trading of <b>cryptocurrencies</b> is not directly <b>regulated</b> in Britain, offering services such as trading in <b>cryptocurrency</b> derivatives does&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../uk/financial-watchdog-orders-crypto-exchange- binance-stop-regulated-activities-uk-2021-06-27/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>uk</b>/financial-watchdog-orders-crypto-exchange- binance-stop-<b>regulated</b>-activities-<b>uk</b>-2021-06-27/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT1qZNmPSpDiO3_UpQlzlY90p5_tfg3CRjrD5Bu69ESUXYiUZ-x0HD6fBJ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/4dWc5ssGd_PzXW7XAKBPZVSsVQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JEAP3R6MHJMMXJOZII2DGPDI5E.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-06-27T19:23:41Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "World",
+                        "og:description": "Britain's financial regulator has said Binance, one of the world's largest cryptocurrency exchanges, cannot conduct any regulated activity and issued a warning to consumers about the platform, which is coming under growing scrutiny globally.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/4dWc5ssGd_PzXW7XAKBPZVSsVQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JEAP3R6MHJMMXJOZII2DGPDI5E.jpg",
+                        "twitter:image:alt": "The logo of Binance is seen on their exhibition stand at the Delta Summit in St Julian's, Malta October 4, 2018. REUTERS/Darrin Zammit Lupi",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-06-27T19:26:00.605Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "United Kingdom",
+                        "twitter:title": "Britain bans Binance's UK ops in latest cryptocurrency crackdown",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/world/uk/article",
+                        "og:title": "Britain bans Binance's UK ops in latest cryptocurrency crackdown",
+                        "dcsext.channellist": "World;Technology",
+                        "og:article:published_time": "2021-06-27T19:23:41Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Reuters",
+                        "article:tag": "BISV,BISV08,BLKCC,BLR,CLJ,CMPNY,CRIM,CRYCUR,CRYPLX,EXCA,FIN,FINS,FINS08,FNMKT,FRAUD1,FRX,FTECH,GEN,INVBIS,INVS08,SCAM1,TECH,TECH08,TMT,UK,GB,CEEU,WEU,AMERS,US,EUROP,EZC,NAMER,DE,EF:BUSINESS-FUTURE-OF-MONEY,MTPIX,BACT,NEWS1,PXP,REGS,SOCI,WWW,BGLR",
+                        "analyticsattributes.topicsubchannel": "United Kingdom",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Britain's financial regulator has said Binance, one of the world's largest cryptocurrency exchanges, cannot conduct any regulated activity and issued a warning to consumers about the platform, which is coming under growing scrutiny globally.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/world/uk/financial-watchdog-orders-crypto-exchange-binance-stop-regulated-activities-uk-2021-06-27/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/4dWc5ssGd_PzXW7XAKBPZVSsVQA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JEAP3R6MHJMMXJOZII2DGPDI5E.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | United Kingdom",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>United Kingdom</b>",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/united-kingdom",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "As noted above, there is no blanket prohibition or ban on cryptocurrencies in the UK. Nor does the UK have a bespoke financial regulatory regime for\u00a0...",
+            "htmlSnippet": "As noted above, there is no blanket prohibition or ban on <b>cryptocurrencies</b> in the <b>UK</b>. Nor does the <b>UK</b> have a bespoke financial <b>regulatory</b> regime for&nbsp;...",
+            "cacheId": "Q2GSR4dkWN0J",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws-and-regulations/united-kingdom",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>-and-<b>regulations</b>/<b>united-kingdom</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the United Kingdom chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgiaeQFyss0VPElbtlrd4Ami7TBxlurAmB6FjWlPeavD_X3zniknY6qjc",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Stuart Davis",
+                        "url": "Stuart Davis"
+                    },
+                    {
+                        "name": "Sam Maxson",
+                        "url": "Sam Maxson"
+                    },
+                    {
+                        "name": "Andrew Moyle",
+                        "url": "Andrew Moyle"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hNXWiMQevZ21STAYy7bH76tPsgmP3OdGVJWl6cwT.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - United Kingdom chapter written by Stuart Davis - Latham & Watkins LLP and Sam Maxson - Latham & Watkins LLP and Andrew Moyle - Latham & Watkins LLP covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | United Kingdom | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - United Kingdom chapter written by Stuart Davis - Latham & Watkins LLP and Sam Maxson - Latham & Watkins LLP and Andrew Moyle - Latham & Watkins LLP covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | United Kingdom | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/united-kingdom"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hNXWiMQevZ21STAYy7bH76tPsgmP3OdGVJWl6cwT.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptoassets | FCA",
+            "htmlTitle": "Cryptoassets | FCA",
+            "link": "https://www.fca.org.uk/consumers/cryptoassets",
+            "displayLink": "www.fca.org.uk",
+            "snippet": "Mar 7, 2019 ... Regulation of cryptoassets ... Exchange tokens (such as Bitcoin and other cryptocurrencies) are only regulated in the UK for money laundering\u00a0...",
+            "htmlSnippet": "Mar 7, 2019 <b>...</b> <b>Regulation</b> of cryptoassets ... Exchange tokens (such as Bitcoin and other <b>cryptocurrencies</b>) are only <b>regulated</b> in the <b>UK</b> for money laundering&nbsp;...",
+            "cacheId": "s3W6ako-j1QJ",
+            "formattedUrl": "https://www.fca.org.uk/consumers/cryptoassets",
+            "htmlFormattedUrl": "https://www.fca.org.<b>uk</b>/consumers/cryptoassets",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "funnelback:category": "Consumers",
+                        "theme-color": "#fff",
+                        "article:published_time": "2019-03-06T12:45:54+00:00",
+                        "twitter:card": "summary",
+                        "funnelback:published-int-date": "20190307",
+                        "og:site_name": "FCA",
+                        "funnelback:modified-date": "18/06/2021",
+                        "funnelback:content-type": "Consumers",
+                        "og:description": "Find out about the regulation of cryptoassets (including 'cryptocurrencies'\u00a0such as Bitcoin\u00a0and Litecoin) and the risks of investing and making payments using cryptoassets.",
+                        "twitter:image": "https://www.fca.org.uk/sites/default/files/images/fca-logo-social-media.jpg",
+                        "twitter:site": "@TheFCA",
+                        "article:modified_time": "2021-06-18T14:21:59+01:00",
+                        "funnelback:type": "Consumers",
+                        "funnelback:published-year": "2019",
+                        "og:type": "article",
+                        "twitter:title": "Cryptoassets",
+                        "twitter:site:id": "169431716",
+                        "handheldfriendly": "true",
+                        "msvalidate.01": "57E38F6BD7138599EBD7F7F4FF496957",
+                        "og:title": "Cryptoassets",
+                        "og:updated_time": "2021-06-18T14:21:59+01:00",
+                        "funnelback:published-date": "2019/03/07",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Find out about the regulation of cryptoassets (including 'cryptocurrencies'\u00a0such as Bitcoin\u00a0and Litecoin) and the risks of investing and making payments using cryptoassets.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.fca.org.uk/consumers/cryptoassets",
+                        "funnelback:nid": "55451",
+                        "funnelback:created-date": "06/03/2019"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UK Cryptocurrency Regulations | ComplyAdvantage",
+            "htmlTitle": "<b>UK Cryptocurrency Regulations</b> | ComplyAdvantage",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-uk-united-kingdom/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Jul 6, 2018 ... The United Kingdom's approach to cryptocurrency regulations has been measured but has matured in the post-Brexit financial landscape. Although\u00a0...",
+            "htmlSnippet": "Jul 6, 2018 <b>...</b> The <b>United Kingdom&#39;s</b> approach to <b>cryptocurrency regulations</b> has been measured but has matured in the post-Brexit financial landscape. Although&nbsp;...",
+            "cacheId": "Ek0XPYJgS-UJ",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations-uk- united-kingdom/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>-<b>uk</b>- <b>united-kingdom</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxiIDDDP7CXMFRFqq25XurXD9q0JwowDuKWFSI6s8Ya0rwbGcAux_ZScm",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/07/4.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in the UK",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in the UK",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "The United Kingdom\u2019s approach to cryptocurrency regulations has been measured: although the UK has no specific cryptocurrency laws, cryptocurrencies are not considered legal tender and exchanges have registration requirements.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "4 minutes",
+                        "parsely-tags": "cryptocurrency ukcrypto regulations united kingdomaml crypto ukaml cryptocurrency exchanges uk",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-13T19:31:25+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-uk-united-kingdom/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/07/4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Younger traders don't realize crypto isn't regulated, UK's FCA says",
+            "htmlTitle": "Younger traders don&#39;t realize crypto isn&#39;t <b>regulated</b>, <b>UK&#39;s</b> FCA says",
+            "link": "https://www.cnbc.com/2021/10/19/young-traders-treat-crypto-investing-like-a-competition-fca-says.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Oct 19, 2021 ... Cryptocurrencies are not regulated in the U.K., meaning people are not protected by consumer protection laws if their funds are lost for any\u00a0...",
+            "htmlSnippet": "Oct 19, 2021 <b>...</b> <b>Cryptocurrencies</b> are not <b>regulated</b> in the <b>U.K.</b>, meaning people are not protected by consumer protection <b>laws</b> if their funds are lost for any&nbsp;...",
+            "cacheId": "G7oJGGyxenMJ",
+            "formattedUrl": "https://www.cnbc.com/.../young-traders-treat-crypto-investing-like-a- competition-fca-says.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../young-traders-treat-crypto-investing-like-a- competition-fca-says.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNtOr7yXhmJnzKyGlsCY5KNaM6bX6Rp5V2zTu-pdNP4eHl0njOd9lOurE",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106962967-1634709558798-gettyimages-1235570383-porzycki-cryptocu210928_npbUe.jpeg?v=1638893580",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-10-19T23:01:02+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/10/19/young-traders-treat-crypto-investing-like-a-competition-fca-says.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Most cryptocurrency investors under the age of 40 don't realize it isn't a regulated product, according to the U.K. Financial Conduct Authority.",
+                        "twitter:creator": "@Ryan_Browne_",
+                        "parsely-metadata": "{\"nodeid\":106961617,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106962967-1634709558798-gettyimages-1235570383-porzycki-cryptocu210928_npbUe.jpeg?v=1638893580\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106961617",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-10-20T06:08:05+0000",
+                        "news_keywords": "AMC Entertainment Holdings Inc,GameStop Corp,Robinhood Markets Inc,Bitcoin/USD Coin Metrics,Technology,Markets,Cryptocurrency,Social media,Internet,Bitcoin,FinTech,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Most young crypto traders don't realize it's not regulated, UK markets watchdog says",
+                        "article:section": "Finance",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Ryan Browne",
+                        "og:title": "Most young crypto traders don't realize it's not regulated, UK markets watchdog says",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106962967-1634709558798-gettyimages-1235570383-porzycki-cryptocu210928_npbUe.jpeg?v=1638893580",
+                        "article:tag": "AMC Entertainment Holdings Inc",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Most cryptocurrency investors under the age of 40 don't realize it isn't a regulated product, according to the U.K. Financial Conduct Authority.",
+                        "og:url": "https://www.cnbc.com/2021/10/19/young-traders-treat-crypto-investing-like-a-competition-fca-says.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106962967-1634709558798-gettyimages-1235570383-porzycki-cryptocu210928_npbUe.jpeg?v=1638893580"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: United Kingdom",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>United Kingdom</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/united-kingdom",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... The FCA has made various statements indicating that it does not consider exchange tokens (also referred to as cryptocurrencies or digital\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> The FCA has made various statements indicating that it does not consider exchange tokens (also referred to as <b>cryptocurrencies</b> or digital&nbsp;...",
+            "cacheId": "w6JOnfc1xz8J",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual...regulation.../united-kingdom",
+            "htmlFormattedUrl": "https://thelawreviews.co.<b>uk</b>/title/the-virtual...<b>regulation</b>.../<b>united-kingdom</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "RUh6niEw9qKmcoK5NHwIb5SJxmcwpoAKD63taA7b"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulation 2022",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022",
+            "link": "https://www.lw.com/thoughtLeadership/uk-blockchain-and-crypto-regulation-2022",
+            "displayLink": "www.lw.com",
+            "snippet": "Apr 8, 2021 ... UK payment services and electronic money regulation may also be relevant, and the UK anti-money laundering. (\u201cAML\u201d) regime has been extended to\u00a0...",
+            "htmlSnippet": "Apr 8, 2021 <b>...</b> <b>UK</b> payment services and electronic money <b>regulation</b> may also be relevant, and the <b>UK</b> anti-money laundering. (\u201cAML\u201d) regime has been extended to&nbsp;...",
+            "cacheId": "GzZ_s7BD0BAJ",
+            "formattedUrl": "https://www.lw.com/.../uk-blockchain-and-crypto-regulation-2022",
+            "htmlFormattedUrl": "https://www.lw.com/.../<b>uk</b>-blockchain-and-crypto-<b>regulation</b>-2022",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPaM0YaWg3kmv0t4md9v-BzpBgNOLbRrydGZd5M0IdJjuWtBRbHvLkBKDG",
+                        "width": "178",
+                        "height": "282"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20211015095557+01'00'",
+                        "creator": "Nitro Pro"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///02ea3c975b14d77f4917e5af05ce8ab788464d7855c8dcee4e43cbdd607d4482"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations Around the World",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> Around the World",
+            "link": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world-5202122",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Sep 21, 2021 ... The United Kingdom considers cryptocurrency as property but not legal tender. Additionally, cryptocurrency exchanges must register with the U.K.\u00a0...",
+            "htmlSnippet": "Sep 21, 2021 <b>...</b> The <b>United Kingdom</b> considers <b>cryptocurrency</b> as property but not legal tender. Additionally, <b>cryptocurrency</b> exchanges must register with the <b>U.K.</b>&nbsp;...",
+            "cacheId": "CVikzs0sutsJ",
+            "formattedUrl": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world- 5202122",
+            "htmlFormattedUrl": "https://www.investopedia.com/<b>cryptocurrency</b>-<b>regulations</b>-around-the-world- 5202122",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwPKtzH3IpGB57Q6zstezN5YI78HWFt5Tl4Z0X9kslmgOBZxrjuX1_PE1F",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/BYFr8De8fW33eF9Cf7qJEkHbA2o=/1000x667/filters:fill(auto,1)/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/1.204.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "investing,cryptocurrency",
+                        "og:site_name": "Investopedia",
+                        "emailt1": "Investing",
+                        "msapplication-wide310x150logo": "/static/1.204.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/1.204.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "Cryptocurrencies continue to gain traction with investors around the world. Explore how leading countries are regulating the emerging asset class.",
+                        "twitter:image": "https://www.investopedia.com/thmb/BYFr8De8fW33eF9Cf7qJEkHbA2o=/1000x667/filters:fill(auto,1)/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/1.204.0/icons/favicons/mstile-310x310.png",
+                        "sailthru.title": "Cryptocurrency Regulations Around the World",
+                        "emailcontenttype": "STRUCTUREDCONTENT",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "sailthru.date": "2021-10-13T04:48:06.767Z",
+                        "og:type": "article",
+                        "twitter:title": "Cryptocurrency Regulations Around the World",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "Cryptocurrency Regulations Around the World",
+                        "msapplication-square150x150logo": "/static/1.204.0/icons/favicons/mstile-150x150.png",
+                        "sailthru.image.thumb": "https://www.investopedia.com/thmb/ISKOlwnqqSWvKV_mqJtDud_Jd04=/255x165/filters:no_upscale()/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg",
+                        "fb:app_id": "659054097907801",
+                        "emailtickers": "BTCUSD,COIN",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Cryptocurrencies continue to gain traction with investors around the world. Explore how leading countries are regulating the emerging asset class.",
+                        "og:url": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world-5202122",
+                        "sailthru.author": "Timothy Smith"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/BYFr8De8fW33eF9Cf7qJEkHbA2o=/1000x667/filters:fill(auto,1)/cryptocurrency-f6026a2012a14aaa9ef8a1c277fde0f7.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UK Cryptocurrency Regulations | Coinfirm",
+            "htmlTitle": "<b>UK Cryptocurrency Regulations</b> | Coinfirm",
+            "link": "https://www.coinfirm.com/blog/uk-cryptocurrency-regulations/",
+            "displayLink": "www.coinfirm.com",
+            "snippet": "Jan 11, 2021 ... UK cryptocurrencies regulations allow users to buy and sell cryptocurrencies \u2013 but due to recent regulatory moves by the UK's financial\u00a0...",
+            "htmlSnippet": "Jan 11, 2021 <b>...</b> <b>UK cryptocurrencies regulations</b> allow users to buy and sell <b>cryptocurrencies</b> \u2013 but due to recent <b>regulatory</b> moves by the <b>UK&#39;s</b> financial&nbsp;...",
+            "cacheId": "M99xokoEjkUJ",
+            "formattedUrl": "https://www.coinfirm.com/blog/uk-cryptocurrency-regulations/",
+            "htmlFormattedUrl": "https://www.coinfirm.com/blog/<b>uk</b>-<b>cryptocurrency</b>-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaZ3b6zEspSg5LOHXLduz34IQ-UQpaOLcsdc-RlRxGTYzWMmCGP3LuMQp4",
+                        "width": "340",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coinfirm.com/wp-content/uploads/2021/01/bitcoin_uk_laws.jpg",
+                        "og:image:width": "640",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "UK Cryptocurrency Regulations",
+                        "og:article:modified_time": "2021-02-05 15:53:08",
+                        "author": "Sachin Dutta",
+                        "og:title": "UK Cryptocurrency Regulations",
+                        "og:image:height": "279",
+                        "og:article:published_time": "2021-01-11 13:58:32",
+                        "msapplication-tileimage": "https://www.coinfirm.com/wp-content/uploads/2020/09/coinfirmsvg-sd.svg",
+                        "og:description": "UK cryptocurrencies regulations allow users to buy and sell cryptocurrencies - but due to recent regulatory moves by the UK's financial regulatory, the FCA, tra",
+                        "twitter:image": "https://www.coinfirm.com/wp-content/uploads/2021/01/bitcoin_uk_laws.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "UK cryptocurrencies regulations allow users to buy and sell cryptocurrencies - but due to recent regulatory moves by the UK's financial regulatory, the FCA, tra",
+                        "og:url": "https://www.coinfirm.com/blog/uk-cryptocurrency-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coinfirm.com/wp-content/uploads/2021/01/bitcoin_uk_laws.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Blockchain Analytics",
+                        "url": "AML Platform"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Compliance Insights",
+                        "name": "Compliance Insights",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UK regulatory approach to cryptoassets and stablecoins:",
+            "htmlTitle": "<b>UK regulatory</b> approach to cryptoassets and stablecoins:",
+            "link": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/950206/HM_Treasury_Cryptoasset_and_Stablecoin_consultation.pdf",
+            "displayLink": "assets.publishing.service.gov.uk",
+            "snippet": "Jan 6, 2021 ... use case for cryptoassets is speculative investment: at present 47% of UK cryptoasset consumers said they bought cryptocurrencies 'as a\u00a0...",
+            "htmlSnippet": "Jan 6, 2021 <b>...</b> use case for cryptoassets is speculative investment: at present 47% of <b>UK</b> cryptoasset consumers said they bought <b>cryptocurrencies</b> &#39;as a&nbsp;...",
+            "cacheId": "isvP1r9Rv1QJ",
+            "formattedUrl": "https://assets.publishing.service.gov.uk/.../HM_Treasury_Cryptoasset_and_ Stablecoin_consultation.pdf",
+            "htmlFormattedUrl": "https://assets.publishing.service.gov.<b>uk</b>/.../HM_Treasury_Cryptoasset_and_ Stablecoin_consultation.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU9SuGYoDdiWYbrCObvmR14dhsd1jONKE8WZ36AcVIf40FWKlYJcvyjFE",
+                        "width": "189",
+                        "height": "267"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210106162552+00'00'",
+                        "creationdate": "D:20210106162552+00'00'"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///0cf8044eef15a05f0dee0312c306e1560d7ec1ae76e9713191755d3a70aa893a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

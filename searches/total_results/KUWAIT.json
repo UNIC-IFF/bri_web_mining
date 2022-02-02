@@ -1,0 +1,609 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - KUWAIT",
+                "totalResults": "359000",
+                "searchTerms": "KUWAIT",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - KUWAIT",
+                "totalResults": "359000",
+                "searchTerms": "KUWAIT",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.289729,
+        "formattedSearchTime": "0.29",
+        "totalResults": "359000",
+        "formattedTotalResults": "359,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Kuwait and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Kuwait</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/kuwait/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Kuwait Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Kuwait's Ministry of Finance does not recognize\u00a0...",
+            "htmlSnippet": "<b>Kuwait Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. <b>Kuwait&#39;s</b> Ministry of Finance does not recognize&nbsp;...",
+            "cacheId": "hzuiLk1qM3gJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/kuwait/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>kuwait</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4W9Q3u-XClk2tk_2fvH12KQvrMIzrGHIUERbwHY_a-tRlSTKCJ-vw-5KR",
+                        "width": "258",
+                        "height": "195"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_406971902-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T23:04:52+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/kuwait/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Kuwait? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_406971902-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_406971902-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2021-10-24T23:40:39+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/digital-currency-transmission-laws-state-by-state/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Kuwait?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Kuwait and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Kuwait and Cryptocurrency",
+                        "og:image:height": "1934",
+                        "og:updated_time": "2021-10-24T23:40:39+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Kuwait and Cryptocurrency Kuwait Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Kuwait\u2019s Ministry of Finance does not recognize cryptocurrencies for purposes of official commercial transactions.\u00a0 Similarly, the Central Bank of Kuwait (CBK)...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/kuwait/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_406971902-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Bank of Kuwait issues warning against crypto investments",
+            "htmlTitle": "Central Bank of <b>Kuwait</b> issues warning against crypto investments",
+            "link": "https://cointelegraph.com/news/central-bank-of-kuwait-issues-warning-against-crypto-investments",
+            "displayLink": "cointelegraph.com",
+            "snippet": "May 24, 2021 ... The Central Bank of Kuwait stated that crypto assets are not real currencies even though they are commonly called cryptocurrencies. According to\u00a0...",
+            "htmlSnippet": "May 24, 2021 <b>...</b> The Central Bank of <b>Kuwait</b> stated that crypto assets are not real currencies even though they are commonly called <b>cryptocurrencies</b>. According to&nbsp;...",
+            "cacheId": "vOzlSKWCkAUJ",
+            "formattedUrl": "https://cointelegraph.com/.../central-bank-of-kuwait-issues-warning-against- crypto-investments",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../central-bank-of-<b>kuwait</b>-issues-warning-against- crypto-investments",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyaTzRt7LbejA1GnLeORIMMlEFUiMOMQZFqdD4UQihYe__BuolETq8t98",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvZGYzM2Y4YzgtODJkNi00Mzg5LWE3ZmMtNjc0NzliMWY1YzA1LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Central Bank of Kuwait issues warning against crypto investments",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Central Bank of Kuwait issues warning against crypto investments",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Central Bank of Kuwait issued a statement on Saturday to warn people about the volatility of the crypto market.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvZGYzM2Y4YzgtODJkNi00Mzg5LWE3ZmMtNjc0NzliMWY1YzA1LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Central Bank of Kuwait issued a statement on Saturday to warn people about the volatility of the crypto market.",
+                        "og:url": "https://cointelegraph.com/news/central-bank-of-kuwait-issues-warning-against-crypto-investments"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvZGYzM2Y4YzgtODJkNi00Mzg5LWE3ZmMtNjc0NzliMWY1YzA1LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulating cryptocurrencies | Deloitte Kuwait | ME PoV issue 25",
+            "htmlTitle": "Regulating <b>cryptocurrencies</b> | Deloitte <b>Kuwait</b> | ME PoV issue 25",
+            "link": "https://www2.deloitte.com/kw/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Control: Cryptocurrencies present a bigger challenge to central banks and governments as they can potentially compete with fiat money (paper money\u00a0...",
+            "htmlSnippet": "<b>Control</b>: <b>Cryptocurrencies</b> present a bigger challenge to central banks and governments as they can potentially compete with fiat money (paper money&nbsp;...",
+            "cacheId": "-MliXov0SvQJ",
+            "formattedUrl": "https://www2.deloitte.com/kw/en/pages/about.../cryptocurrencies.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/kw/en/pages/about.../<b>cryptocurrencies</b>.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulating cryptocurrencies | Deloitte Kuwait | ME PoV issue 25",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "og:site_name": "Deloitte",
+                        "twitter:url": "https://www2.deloitte.com/kw/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html",
+                        "og:title": "Regulating cryptocurrencies | Deloitte Kuwait | ME PoV issue 25",
+                        "og:description": "Virtual currency (VC) and digital currency are a new class of digital assets (money) that allow borderless transactions. The number and valuation of virtual currencies has risen to over 1,300 VCs with a total market capitalization of over US$465 billion as of December 2017 (Figure 1).",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@Deloitte",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Virtual currency (VC) and digital currency are a new class of digital assets (money) that allow borderless transactions. The number and valuation of virtual currencies has risen to over 1,300 VCs with a total market capitalization of over US$465 billion as of December 2017 (Figure 1).",
+                        "og:url": "https://www2.deloitte.com/kw/en/pages/about-deloitte/articles/we-are-25/cryptocurrencies.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/xe/Images/promo_images/mepovimages/mepov25/cryptocurrencies_mepov25_p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kuwait based YallaBit crypto exchange faces regulatory hurdles ...",
+            "htmlTitle": "<b>Kuwait</b> based YallaBit crypto exchange faces <b>regulatory</b> hurdles ...",
+            "link": "https://www.unlock-bc.com/news/2020-10-19/kuwait-based-yallabit-crypto-exchange-faces-regulatory-hurdles/?amp",
+            "displayLink": "www.unlock-bc.com",
+            "snippet": "Oct 19, 2020 ... AlYaseen explains, \u201d it is impossible to have a cryptocurency license as there is no such license in the state of Kuwait, neither at the\u00a0...",
+            "htmlSnippet": "Oct 19, 2020 <b>...</b> AlYaseen explains, \u201d it is impossible to have a cryptocurency license as there is no such license in the state of <b>Kuwait</b>, neither at the&nbsp;...",
+            "cacheId": "u50F90D833EJ",
+            "formattedUrl": "https://www.unlock-bc.com/.../kuwait-based-yallabit-crypto-exchange-faces- regulatory-hurdles/?...",
+            "htmlFormattedUrl": "https://www.unlock-bc.com/.../<b>kuwait</b>-based-yallabit-crypto-exchange-faces- <b>regulatory</b>-hurdles/?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xlzgoXzov1b99tT1Jj_oAH-hY7QI5Wgihfy2LmAV7IEUgqoJATgBYFng",
+                        "width": "342",
+                        "height": "147"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.unlock-bc.com/wordpress/wp-content/uploads/2020/10/yallabit.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-10-19T14:20:01+00:00",
+                        "og:image:width": "604",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "UNLOCK Blockchain",
+                        "og:title": "Kuwait based YallaBit crypto exchange faces regulatory hurdles - UNLOCK Blockchain",
+                        "og:image:height": "260",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://www.unlock-bc.com/wordpress/wp-content/uploads/2021/07/icon_1.ico",
+                        "og:description": "Yallabit, a crypto exchange operating out of Kuwait under a general license is facing regulatory hurdles with regards to its operation in Kuwait. As per a letter on its website from its CEO Talal Alyaseen, the crypto exchange which has been operating in Kuwait since 2017 and which according to him has been compliant in \u2026",
+                        "twitter:creator": "@unlockbc",
+                        "article:publisher": "https://www.facebook.com/unlockblockchain/",
+                        "twitter:data1": "News Desk",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@unlockbc",
+                        "article:modified_time": "2021-08-04T18:39:35+00:00",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,user-scalable=yes",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.unlock-bc.com/news/2020-10-19/kuwait-based-yallabit-crypto-exchange-faces-regulatory-hurdles/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.unlock-bc.com/wordpress/wp-content/uploads/2020/10/yallabit.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Book/Printed Material Regulation of cryptocurrency around the world ... Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho,\u00a0...",
+            "htmlSnippet": "Book/Printed Material <b>Regulation of cryptocurrency</b> around the world ... Jersey, Jordan, Kazakhstan, Kenya, <b>Kuwait</b>, Kyrgyzstan, Latvia, Lebanon, Lesotho,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... Financial institutions are prohibited from dealing in cryptocurrencies. Tax: Kuwait does not have a personal income tax law. Other tax laws are\u00a0...",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> Financial institutions are prohibited from dealing in <b>cryptocurrencies</b>. Tax: <b>Kuwait</b> does not have a personal income tax law. Other tax <b>laws</b> are&nbsp;...",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Some Cryptocurrency Trader Disclosure Required in Proposed ...",
+            "htmlTitle": "Some <b>Cryptocurrency</b> Trader Disclosure Required in Proposed ...",
+            "link": "https://www.wsj.com/articles/treasury-department-proposes-new-requirements-on-cryptocurrency-transactions-11608329785",
+            "displayLink": "www.wsj.com",
+            "snippet": "Dec 18, 2020 ... That threshold is consistent with a banking regulation known as the travel rule, which requires financial institutions to share certain\u00a0...",
+            "htmlSnippet": "Dec 18, 2020 <b>...</b> That threshold is consistent with a banking <b>regulation</b> known as the travel rule, which requires financial institutions to share certain&nbsp;...",
+            "formattedUrl": "https://www.wsj.com/.../treasury-department-proposes-new-requirements-on- cryptocurrency-transactions-11608329785",
+            "htmlFormattedUrl": "https://www.wsj.com/.../treasury-department-proposes-new-requirements-on- <b>cryptocurrency</b>-transactions-11608329785",
+            "pagemap": {
+                "imageobject": [
+                    {
+                        "creator": "Photo: Jim Lo Scalzo/EPA-EFE/Shutterstock",
+                        "caption": "The Treasury Department, under Secretary Steven Mnuchin, is proposing rules as bitcoin hovers near a record. Photo: Jim Lo Scalzo/EPA-EFE/Shutterstock"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472342"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471031"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471760"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472462"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472137"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-470926"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472554"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471327"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472331"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472558"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022coralreef/012022coralreef_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/011822princeandrewsplash/011822princeandrewsplash_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122tongadamage/012122tongadamage_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220117/secondboosterisrael/secondboosterisrael_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022soloflight/012022soloflight_115x65.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article.origheadline": "Treasury Department Proposes New Requirements on Cryptocurrency Transactions",
+                        "twitter:card": "summary_large_image",
+                        "dj.asn": "i-004a",
+                        "page.site.product": "WSJ",
+                        "hdl_p": "Cryptocurrency Rules Proposed",
+                        "language": "en-US",
+                        "datelastpubbed": "2020-12-22T11:58:00.000Z",
+                        "article.access": "paid",
+                        "twitter:creator": "@pkwsj",
+                        "twitter:image:alt": "Some Cryptocurrency Trader Disclosure Required in Proposed Rules",
+                        "article.template": "full",
+                        "article.section": "Markets",
+                        "page.content.format": "responsive",
+                        "article:word_count": "844",
+                        "article.created": "2020-12-18T22:16:00.000Z",
+                        "twitter:domain": "wsj.com",
+                        "author": "Paul Kiernan",
+                        "article:video_count": "1",
+                        "fb:pages": "8304333127",
+                        "article:internal_link_count": "3",
+                        "page.site": "wsj",
+                        "page.content.type": "Article",
+                        "article_availability_flag": "METER",
+                        "article:image_count": "1",
+                        "article.id": "SB10824048409701304862604587167652805232234",
+                        "article.page": "Markets",
+                        "twitter:image": "https://images.wsj.net/im-275804/social",
+                        "article.updated": "2020-12-19T02:44:00.000Z",
+                        "article:embed_count": "1",
+                        "twitter:site": "@WSJ",
+                        "news_keywords": "Blockchain Technology,Banking/Credit,Financial Services,Financial Technology,Technology,Virtual Currencies/Cryptocurrencies,Political/General News,Politics/International Relations,Domestic Politics,Government Bodies",
+                        "page.section": "Article",
+                        "article.type.display": "Markets",
+                        "page.region": "na,us",
+                        "article.summary": "The Treasury Department is seeking to hold users to the same standards that traditional financial institutions follow.",
+                        "twitter:title": "Some Cryptocurrency Trader Disclosure Required in Proposed Rules",
+                        "servo-context": "servo:prod:oregon:article:wsj",
+                        "og:title": "Some Cryptocurrency Trader Disclosure Required in Proposed Rules",
+                        "page.content.source": "WSJ Online",
+                        "article.emb": "video_emb",
+                        "fb:app_id": "368513495882",
+                        "article.published": "2020-12-19T02:44:00.000Z",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0",
+                        "user.exp": "google_bot",
+                        "twitter:description": "The Treasury Department is seeking to hold users to the same standards that traditional financial institutions follow.",
+                        "user.type": "nonsubscriber",
+                        "article.headline": "Some Cryptocurrency Trader Disclosure Required in Proposed Rules",
+                        "branch:deeplink:target": "app",
+                        "article.type": "Markets Main",
+                        "article:external_link_count": "1"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://images.wsj.net/im-275804/social",
+                        "datemodified": "2020-12-19T02:44:00.000Z",
+                        "inlanguage": "en-US",
+                        "alternativeheadline": "Cryptocurrency Rules Proposed",
+                        "description": "The Treasury Department is seeking to hold users to the same standards that traditional financial institutions follow.",
+                        "publisher": "wsj.com",
+                        "datecreated": "2020-12-18T22:16:00.000Z",
+                        "datepublished": "2020-12-19T02:44:00.000Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin: The Path to Regulation | Protiviti - Kuwait",
+            "htmlTitle": "Bitcoin: The Path to <b>Regulation</b> | Protiviti - <b>Kuwait</b>",
+            "link": "https://www.protiviti.com/KW-en/insights/bitcoin-path-regulation",
+            "displayLink": "www.protiviti.com",
+            "snippet": "The growth of Bitcoin and its ever-increasing popularity has led to a recent focus on the regulation of cryptocurrencies (also known as virtual currencies);\u00a0...",
+            "htmlSnippet": "The growth of Bitcoin and its ever-increasing popularity has led to a recent focus on the <b>regulation of cryptocurrencies</b> (also known as virtual currencies);&nbsp;...",
+            "cacheId": "GgW7F7NIGo4J",
+            "formattedUrl": "https://www.protiviti.com/KW-en/insights/bitcoin-path-regulation",
+            "htmlFormattedUrl": "https://www.protiviti.com/KW-en/insights/bitcoin-path-<b>regulation</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kuwait's Ministry of Finance Says It Does Not Recognize Bitcoin ...",
+            "htmlTitle": "<b>Kuwait&#39;s</b> Ministry of Finance Says It Does Not Recognize Bitcoin ...",
+            "link": "https://www.coindesk.com/markets/2017/12/19/kuwaits-ministry-of-finance-says-it-does-not-recognize-bitcoin/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Dec 19, 2017 ... Kuwait's Ministry of Finance has reportedly said it does not recognize bitcoin, and that financial institutions may not trade the cryptocurrency\u00a0...",
+            "htmlSnippet": "Dec 19, 2017 <b>...</b> <b>Kuwait&#39;s</b> Ministry of Finance has reportedly said it does not recognize bitcoin, and that financial institutions may not trade the <b>cryptocurrency</b>&nbsp;...",
+            "cacheId": "-A-iaMbdAXAJ",
+            "formattedUrl": "https://www.coindesk.com/.../kuwaits-ministry-of-finance-says-it-does-not- recognize-bitcoin/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>kuwaits</b>-ministry-of-finance-says-it-does-not- recognize-bitcoin/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUvcoO70INHnO68Srlh2mtO8xy-1k8eLYNhx5UTz7G2wuLtCPoRnl1peM",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/9qVoVUIJhkiXy52jP_LTyAnHpQ8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4NJJ6I4YUVCVVLNEWVW5NQFTAE.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2017-12-19T11:00:57Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Kuwait's Ministry of Finance Says It Does Not Recognize Bitcoin",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Kuwait's Ministry of Finance Says It Does Not Recognize Bitcoin",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Kuwait's Ministry of Finance has reportedly said it does not recognize bitcoin, and that financial institutions may not trade the cryptocurrency.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Sujha Sundararajan",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/CiyCPY5cDToFnBaRYybptpDvsjs=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4NJJ6I4YUVCVVLNEWVW5NQFTAE.jpg",
+                        "article:tag": "Middle East, Regulation, News, Kuwait, Central Bank of Kuwait",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2017-12-19T11:00:57Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Kuwait's Ministry of Finance has reportedly said it does not recognize bitcoin, and that financial institutions may not trade the cryptocurrency.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2017/12/19/kuwaits-ministry-of-finance-says-it-does-not-recognize-bitcoin/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/9qVoVUIJhkiXy52jP_LTyAnHpQ8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4NJJ6I4YUVCVVLNEWVW5NQFTAE.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,595 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MAURITIUS",
+                "totalResults": "600000",
+                "searchTerms": "MAURITIUS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MAURITIUS",
+                "totalResults": "600000",
+                "searchTerms": "MAURITIUS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.488154,
+        "formattedSearchTime": "0.49",
+        "totalResults": "600000",
+        "formattedTotalResults": "600,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased exponentially. ... Commission of Mauritius, Fintech.",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased exponentially. ... Commission of <b>Mauritius</b>, Fintech.",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mauritius Releases Guidance for Regulated Security Token ...",
+            "htmlTitle": "<b>Mauritius</b> Releases Guidance for <b>Regulated</b> Security Token ...",
+            "link": "https://www.coindesk.com/policy/2020/06/17/mauritius-releases-guidance-for-regulated-security-token-offerings/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jun 17, 2020 ... A licensed security token trading system will also have to keep a minimum of 35 million Mauritian rupees (~US$880,000) in fiat currency ready.",
+            "htmlSnippet": "Jun 17, 2020 <b>...</b> A licensed security token trading system will also have to keep a minimum of 35 million <b>Mauritian</b> rupees (~US$880,000) in fiat currency ready.",
+            "cacheId": "XTerQ-Ox2nQJ",
+            "formattedUrl": "https://www.coindesk.com/.../mauritius-releases-guidance-for-regulated- security-token-offerings/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>mauritius</b>-releases-guidance-for-<b>regulated</b>- security-token-offerings/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm-nnuD7c54clhjAkLLp2tyBXFh_e-CeXM1zXxVVXBSvM1hwuIskjATVny",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/jWmnM_bXRA_vxA00J4hSJ81G50I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JF3JJXUQHFGBRJPJ72HGBPKNGU.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2020-06-17T07:35:12Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Mauritius Releases Guidance for Regulated Security Token Offerings",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Mauritius Releases Guidance for Regulated Security Token Offerings",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Mauritius' financial watchdog has developed a licensing framework for security token trading systems and issuers.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Paddy Baker",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/VOTrs4-wek4bX7Y_SPA5t5wMWt4=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JF3JJXUQHFGBRJPJ72HGBPKNGU.jpg",
+                        "article:tag": "Regulation, Mauritus, Security Tokens",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2020-06-17T07:35:12Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Mauritius' financial watchdog has developed a licensing framework for security token trading systems and issuers.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2020/06/17/mauritius-releases-guidance-for-regulated-security-token-offerings/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/JF3JJXUQHFGBRJPJ72HGBPKNGU.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mauritius and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Mauritius</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/mauritiu/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Mauritius? ... Mauritius Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Mauritius</b>? ... <b>Mauritius Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "0HIdlLzqUgEJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/mauritiu/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/mauritiu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-31T21:25:59+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/mauritiu/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Mauritius? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:20+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Mauritius and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Mauritius and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:56:20+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Mauritius and Cryptocurrency Mauritius Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In June of 2020, Mauritius released new guidelines for the licensing of \u2018security token trading.\u2019[1] The Rules provide that a person carrying out custody...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/mauritiu/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "use of cryptocurrencies without the Central Bank of Kenya's approval. Page 10. 7. 4. Mauritius. Regulatory environment.",
+            "htmlSnippet": "use of <b>cryptocurrencies</b> without the Central Bank of Kenya&#39;s approval. Page 10. 7. 4. <b>Mauritius</b>. <b>Regulatory</b> environment.",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mauritius Financial Commission Releases Draft Regulation for ...",
+            "htmlTitle": "<b>Mauritius</b> Financial Commission Releases Draft <b>Regulation</b> for ...",
+            "link": "https://cointelegraph.com/news/mauritius-financial-commission-releases-draft-regulation-for-crypto-custodian-services",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Nov 7, 2018 ... Mauritius's financial commission has released draft regulations for crypto custodian services, requiring the maintenance of at least $14,000\u00a0...",
+            "htmlSnippet": "Nov 7, 2018 <b>...</b> <b>Mauritius&#39;s</b> financial commission has released draft <b>regulations</b> for crypto custodian services, requiring the maintenance of at least $14,000&nbsp;...",
+            "cacheId": "14Kn3RgcejQJ",
+            "formattedUrl": "https://cointelegraph.com/.../mauritius-financial-commission-releases-draft- regulation-for-crypto-custodian-services",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>mauritius</b>-financial-commission-releases-draft- <b>regulation</b>-for-crypto-custodian-services",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQABYNHTDHQWTWYt2fklKA8hklRac0kBpO9ROEAUdyIm-_sJBFjjsDCtk84",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYWRlNmI2N2QzNGJmOTk5ODIwOWM5YmQ0MjMxMjM5Ni5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Mauritius Financial Commission Releases Draft Regulation for Crypto Custodian Services",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Mauritius Financial Commission Releases Draft Regulation for Crypto Custodian Services",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Mauritius\u2019s financial commission has released draft regulations for crypto custodian services, requiring the maintenance of at least $14,000 in unimpaired capital.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYWRlNmI2N2QzNGJmOTk5ODIwOWM5YmQ0MjMxMjM5Ni5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Mauritius\u2019s financial commission has released draft regulations for crypto custodian services, requiring the maintenance of at least $14,000 in unimpaired capital.",
+                        "og:url": "https://cointelegraph.com/news/mauritius-financial-commission-releases-draft-regulation-for-crypto-custodian-services"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYWRlNmI2N2QzNGJmOTk5ODIwOWM5YmQ0MjMxMjM5Ni5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The Financial Services Commission of Mauritius considers cryptocurrencies to be regulated as a Digital Asset under the Financial Services Act 2007,\u00a0...",
+            "htmlSnippet": "The Financial Services Commission of <b>Mauritius</b> considers <b>cryptocurrencies</b> to be <b>regulated</b> as a Digital Asset under the Financial Services Act 2007,&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The regulation of virtual assets and initial token offerings ... - Dentons",
+            "htmlTitle": "The regulation of virtual assets and initial token offerings ... - Dentons",
+            "link": "https://www.dentons.com/en/insights/articles/2021/december/15/the-regulation-of-virtual-assets-and-initial-token-offerings-in-mauritius-a-welcome-framework",
+            "displayLink": "www.dentons.com",
+            "snippet": "Dec 15, 2021 ... Mauritius as an international financial centre and growing FinTech hub ... that the cryptocurrency global market rose to an all-time high,\u00a0...",
+            "htmlSnippet": "Dec 15, 2021 <b>...</b> <b>Mauritius</b> as an international financial centre and growing FinTech hub ... that the <b>cryptocurrency</b> global market rose to an all-time high,&nbsp;...",
+            "cacheId": "Osxzoa-HQAoJ",
+            "formattedUrl": "https://www.dentons.com/.../the-regulation-of-virtual-assets-and-initial-token- offerings-in-mauritius-a-welcome-framework",
+            "htmlFormattedUrl": "https://www.dentons.com/.../the-<b>regulation</b>-of-virtual-assets-and-initial-token- offerings-in-<b>mauritius</b>-a-welcome-framework",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrnHEF_hwlzWqRUmDvlhneK24VYR6afTyXUTgux7x5rxId8MSTExddABw",
+                        "width": "253",
+                        "height": "199"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.dentons.com/-/media/images/website/background-images/practices/banking-and-finance/banking-and-finance-01.jpg?sc_lang=en",
+                        "og:type": "Article",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "The regulation of virtual assets and initial token offerings in Mauritius - A welcome framework",
+                        "og:url": "https://www.dentons.com/en/insights/articles/2021/december/15/the-regulation-of-virtual-assets-and-initial-token-offerings-in-mauritius-a-welcome-framework",
+                        "og:description": "Mauritius as an international financial centre and growing FinTech hub is among the first countries in the Eastern and Southern African region which is in the process of adopting comprehensive legislation on virtual assets (VAs) and initial token offerings (ITOs) by way of the Virtual Asset and Initial Token Offerings Services Act 2021 (Act) as the Virtual Asset and Initial Token Offerings Services Bill (Bill) was passed by the National Assembly of Mauritius on Friday 10 December 2021."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.dentons.com/-/media/images/website/background-images/practices/banking-and-finance/banking-and-finance-01.jpg?sc_lang=en"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mauritius Releases Guidance for Regulated Security Token ...",
+            "htmlTitle": "<b>Mauritius</b> Releases Guidance for <b>Regulated</b> Security Token ...",
+            "link": "https://www.nasdaq.com/articles/mauritius-releases-guidance-for-regulated-security-token-offerings-2020-06-17",
+            "displayLink": "www.nasdaq.com",
+            "snippet": "Jun 17, 2020 ... A licensed security token trading system will also have to keep a minimum of 35 million Mauritian rupees (~US$880,000) in fiat currency ready.",
+            "htmlSnippet": "Jun 17, 2020 <b>...</b> A licensed security token trading system will also have to keep a minimum of 35 million <b>Mauritian</b> rupees (~US$880,000) in fiat currency ready.",
+            "cacheId": "G6m1MrRr2d0J",
+            "formattedUrl": "https://www.nasdaq.com/.../mauritius-releases-guidance-for-regulated- security-token-offerings-2020-06-17",
+            "htmlFormattedUrl": "https://www.nasdaq.com/.../<b>mauritius</b>-releases-guidance-for-<b>regulated</b>- security-token-offerings-2020-06-17",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREx8jEZsAW6aKjOKNyWYugysUVwthUZPnuv3WX1LL8Fp7Hymm7I7m5ae8",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "og:image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1845309196",
+                        "og:type": "Article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Mauritius Releases Guidance for Regulated Security Token Offerings",
+                        "theme-color": "#ffffff",
+                        "twitter:site:id": "nasdaq",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.nasdaq.com/articles/mauritius-releases-guidance-for-regulated-security-token-offerings-2020-06-17",
+                        "com.nasdaq.cms.taxonomy.addisplay": "True",
+                        "com.nasdaq.cms.taxonomy.pagetype": "article-page",
+                        "og:title": "Mauritius Releases Guidance for Regulated Security Token Offerings",
+                        "og:image:height": "630",
+                        "title": "Mauritius Releases Guidance for Regulated Security Token Offerings | Nasdaq",
+                        "com.nasdaq.cms.taxonomy.sponsored": "False",
+                        "twitter:site": "@Nasdaq",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "com.nasdaq.cms.taxonomy.topic": "markets:cryptocurrencies",
+                        "og:url": "https://www.nasdaq.com/articles/mauritius-releases-guidance-for-regulated-security-token-offerings-2020-06-17"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nasdaq.com/sites/acquia.prod/files/styles/710x400/public/shutterstock_514019905-860x430.jpg?itok=zPSMMUyG"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Market Activity CLOSE Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets Quick Links Real-Time Quotes After-Hours Quotes Pre-Marke...",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Stocks",
+                        "url": "Stocks"
+                    },
+                    {
+                        "name": "Real-Time Quotes",
+                        "url": "Real-Time Quotes"
+                    },
+                    {
+                        "name": "Economic Calendar",
+                        "url": "Economic Calendar"
+                    },
+                    {
+                        "name": "Analyst Recommendations",
+                        "url": "Analyst Recommendations"
+                    },
+                    {
+                        "name": "Gold",
+                        "url": "Gold"
+                    },
+                    {
+                        "name": "Statistical Milestones",
+                        "url": "Statistical Milestones"
+                    },
+                    {
+                        "name": "News and Insights Markets Companies Cryptocurrency Technology Personal Finance Financial Advisors"
+                    },
+                    {
+                        "name": "News and Insights",
+                        "url": "News and Insights"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "url": "Blockchain"
+                    },
+                    {
+                        "name": "Inclusive Entrepreneurship",
+                        "url": "Inclusive Entrepreneurship"
+                    },
+                    {
+                        "name": "Raise & Access Capital List with Nasdaq Nasdaq Private Market Nasdaq Fund Secondaries Investor Relations Intelligence Nasdaq Direct Listings Optimize Governance Practices Board Portal Software...",
+                        "url": "Raise & Access Capital"
+                    },
+                    {
+                        "name": "List with Nasdaq",
+                        "url": "List with Nasdaq"
+                    },
+                    {
+                        "name": "Board Portal Software",
+                        "url": "Board Portal Software"
+                    },
+                    {
+                        "name": "AFC Technology",
+                        "url": "AFC Technology"
+                    },
+                    {
+                        "name": "Nasdaq Data Link",
+                        "url": "Nasdaq Data Link"
+                    },
+                    {
+                        "name": "Equities",
+                        "url": "Equities"
+                    },
+                    {
+                        "name": "Our People Board of Directors Careers Press Center Contact"
+                    },
+                    {
+                        "name": "Our People",
+                        "url": "Our People"
+                    },
+                    {
+                        "name": "Diversity, Inclusion and Belonging",
+                        "url": "Diversity, Inclusion and Belonging"
+                    },
+                    {
+                        "name": "The Purpose Initiative",
+                        "url": "The Purpose Initiative"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Developing an effective regulatory framework for virtual currencies ...",
+            "htmlTitle": "Developing an effective <b>regulatory</b> framework for virtual currencies ...",
+            "link": "https://dl.acm.org/doi/10.1145/3415088.3415126",
+            "displayLink": "dl.acm.org",
+            "snippet": "Sep 24, 2020 ... So far, Mauritius has not yet implemented any specific regulations to address the use of Blockchain, bitcoins and cryptocurrencies in its\u00a0...",
+            "htmlSnippet": "Sep 24, 2020 <b>...</b> So far, <b>Mauritius</b> has not yet implemented any specific <b>regulations</b> to address the use of Blockchain, bitcoins and <b>cryptocurrencies</b> in its&nbsp;...",
+            "formattedUrl": "https://dl.acm.org/doi/10.1145/3415088.3415126",
+            "htmlFormattedUrl": "https://dl.acm.org/doi/10.1145/3415088.3415126",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSTSy2OcoH6_2hHU_ENJpefnJwf229ViYJ0gV3uXtveHW-Bw07lAMjG60",
+                        "width": "197",
+                        "height": "256"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#00a300",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "pbcontext": ";taxonomy:taxonomy:conference-collections;wgroup:string:ACM Publication Websites;groupTopic:topic:acm-pubtype>proceeding;article:article:doi\\:10.1145/3415088.3415126;journal:journal:acmotherconferences;ctype:string:Book Content;issue:issue:doi\\:10.1145/3415088;page:string:Article/Chapter View;subPage:string:Abstract;csubtype:string:Conference Proceedings;topic:topic:conference-collections>icpsproc;website:website:dl-site;pageGroup:string:Publication Pages",
+                        "dc.coverage": "world",
+                        "dc.format": "text/HTML",
+                        "dc.language": "EN",
+                        "og:url": "https://dl.acm.org/doi/abs/10.1145/3415088.3415126"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://dl.acm.org/cms/asset/23ca1ca0-1770-47c4-89fe-c720a4be28e0/3415088.cover.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Mauritius | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Mauritius</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mauritius",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Mauritius for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Mauritius</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "1IAx3k_DrnwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/mauritius",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>mauritius</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Mauritius for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Mauritius | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Mauritius for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Mauritius | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mauritius"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,645 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MONACO",
+                "totalResults": "672000",
+                "searchTerms": "MONACO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MONACO",
+                "totalResults": "672000",
+                "searchTerms": "MONACO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.400297,
+        "formattedSearchTime": "0.40",
+        "totalResults": "672000",
+        "formattedTotalResults": "672,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Deputy Attorney General Lisa O. Monaco Announces National ...",
+            "htmlTitle": "Deputy Attorney General Lisa O. <b>Monaco</b> Announces National ...",
+            "link": "https://www.justice.gov/opa/pr/deputy-attorney-general-lisa-o-monaco-announces-national-cryptocurrency-enforcement-team",
+            "displayLink": "www.justice.gov",
+            "snippet": "Oct 6, 2021 ... Monaco announced today the creation of a National Cryptocurrency Enforcement Team (NCET), to tackle complex investigations and prosecutions of\u00a0...",
+            "htmlSnippet": "Oct 6, 2021 <b>...</b> <b>Monaco</b> announced today the creation of a National <b>Cryptocurrency</b> Enforcement Team (NCET), to tackle complex investigations and prosecutions of&nbsp;...",
+            "cacheId": "ndI1DaihmnoJ",
+            "formattedUrl": "https://www.justice.gov/.../deputy-attorney-general-lisa-o-monaco-announces -national-cryptocurrency-enforcement-team",
+            "htmlFormattedUrl": "https://www.justice.gov/.../deputy-attorney-general-lisa-o-<b>monaco</b>-announces -national-<b>cryptocurrency</b>-enforcement-team",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShz09gnUqIC5hApYlhj3effRqZnE3PNLfAEDVK3S253G-8Uz1D95Zs7qI",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "Item": [
+                    {
+                        "date": "2021-10-06T00:00:00-04:00",
+                        "title": "Deputy Attorney General Lisa O. Monaco Announces National Cryptocurrency Enforcement Team"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+                        "og:type": "article",
+                        "twitter:title": "Deputy Attorney General Lisa O. Monaco Announces National",
+                        "article:published_time": "2021-10-06T16:59:34-04:00",
+                        "handheldfriendly": "true",
+                        "article:modified_time": "2021-10-06T17:01:55-04:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Deputy Attorney General Lisa O. Monaco announced today the creation of a National Cryptocurrency Enforcement Team (NCET), to tackle complex investigations and prosecutions of criminal misuses of",
+                        "mobileoptimized": "width",
+                        "og:title": "Deputy Attorney General Lisa O. Monaco Announces National Cryptocurrency Enforcement Team",
+                        "og:description": "Deputy Attorney General Lisa O. Monaco announced today the creation of a National Cryptocurrency Enforcement Team (NCET), to tackle complex investigations and prosecutions of criminal misuses of cryptocurrency, particularly crimes committed by virtual currency exchanges, mixing and tumbling services, and money laundering infrastructure actors.",
+                        "twitter:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "US to increase scrutiny on cryptocurrency, federal contractors in ...",
+            "htmlTitle": "US to increase scrutiny on <b>cryptocurrency</b>, federal contractors in ...",
+            "link": "https://www.cyberscoop.com/lisa-monaco-alejandro-mayorkas-doj-tsa-cryptocurrency-air-rail-cyber-fraud-initiative/",
+            "displayLink": "www.cyberscoop.com",
+            "snippet": "Oct 6, 2021 ... Deputy Attorney General Lisa Monaco unveiled two initiatives: a ... which expand on regulations the agency has already put in place for\u00a0...",
+            "htmlSnippet": "Oct 6, 2021 <b>...</b> Deputy Attorney General Lisa <b>Monaco</b> unveiled two initiatives: a ... which expand on <b>regulations</b> the agency has already put in place for&nbsp;...",
+            "cacheId": "GVqRRKxSFgAJ",
+            "formattedUrl": "https://www.cyberscoop.com/lisa-monaco-alejandro-mayorkas-doj-tsa- cryptocurrency-air-rail-cyber-fraud-initiative/",
+            "htmlFormattedUrl": "https://www.cyberscoop.com/lisa-<b>monaco</b>-alejandro-mayorkas-doj-tsa- <b>cryptocurrency</b>-air-rail-cyber-fraud-initiative/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9NL2pnXXovLtS4McPbP1JHVCXfJUz-Yzw582hFs9uVmOR1G1z07H9nM95",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.cyberscoop.com/wp-content/uploads/sites/3/2021/10/GettyImages-1332052801.jpg?w=763",
+                        "og:type": "article",
+                        "article:published_time": "2021-10-06T17:07:21+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "CyberScoop",
+                        "og:title": "US to increase scrutiny on cryptocurrency, federal contractors in effort to slow hacking - CyberScoop",
+                        "og:image:height": "671",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "U.S. officials unveiled a suite of cybersecurity initiatives Wednesday, from cracking down on illicit cryptocurrency usages to increasing transparency about data breaches, as part of an ongoing White House effort to slow rampant cybercrime. The Justice Department signaled it will increase its focus on illicit use of virtual money, which is frequently used in ransomware attacks, and move to punish federal contractors that hide security incidents. In a separate plan, the Transportation Security Administration this year will require top air and rail transportation companies to report cyberattacks to the government, name an internal cyber chief capable of corresponding about cyber incidents and develop a plan for recovering from attacks. Deputy Attorney General Lisa Monaco unveiled two initiatives: a national cryptocurrency enforcement team and a civil cyber fraud initiative. Ransomware and cryptocurrency are \u201cinexorably linked\u201d because of the anonymity that cryptocurrency payments help afford, Monaco said at",
+                        "twitter:creator": "@timstarks",
+                        "twitter:data1": "Tim Starks",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2022-01-18T21:19:04+00:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.cyberscoop.com/lisa-monaco-alejandro-mayorkas-doj-tsa-cryptocurrency-air-rail-cyber-fraud-initiative/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.cyberscoop.com/wp-content/uploads/sites/3/2021/10/GettyImages-1332052801.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to ...",
+            "htmlTitle": "Department of Justice Seizes $2.3 Million in <b>Cryptocurrency</b> Paid to ...",
+            "link": "https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside",
+            "displayLink": "www.justice.gov",
+            "snippet": "Jun 7, 2021 ... Monaco for the U.S. Department of Justice. \u201cRansom payments are the fuel that propels the digital extortion engine, and today's announcement\u00a0...",
+            "htmlSnippet": "Jun 7, 2021 <b>...</b> <b>Monaco</b> for the U.S. Department of Justice. \u201cRansom payments are the fuel that propels the digital extortion engine, and today&#39;s announcement&nbsp;...",
+            "cacheId": "ZYjYBniMOKkJ",
+            "formattedUrl": "https://www.justice.gov/.../department-justice-seizes-23-million- cryptocurrency-paid-ransomware-extortionists-darkside",
+            "htmlFormattedUrl": "https://www.justice.gov/.../department-justice-seizes-23-million- <b>cryptocurrency</b>-paid-ransomware-extortionists-darkside",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShz09gnUqIC5hApYlhj3effRqZnE3PNLfAEDVK3S253G-8Uz1D95Zs7qI",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "Item": [
+                    {
+                        "date": "2021-06-07T00:00:00-04:00",
+                        "title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to the Ransomware Extortionists Darkside"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+                        "og:type": "article",
+                        "twitter:title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to",
+                        "article:published_time": "2021-06-07T14:41:48-04:00",
+                        "handheldfriendly": "true",
+                        "article:modified_time": "2021-06-08T08:42:56-04:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Department of Justice today announced that it has seized 63.7 bitcoins currently valued at over $2.3 million.",
+                        "mobileoptimized": "width",
+                        "og:title": "Department of Justice Seizes $2.3 Million in Cryptocurrency Paid to the Ransomware Extortionists Darkside",
+                        "og:description": "The Department of Justice today announced that it has seized 63.7 bitcoins currently valued at over $2.3 million.",
+                        "twitter:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "U.S. Justice Dept launches new initiatives on cryptocurrencies ...",
+            "htmlTitle": "U.S. Justice Dept launches new initiatives on <b>cryptocurrencies</b> ...",
+            "link": "https://www.reuters.com/world/us/us-justice-dept-launches-new-initiatives-cryptocurrencies-contractor-hacks-2021-10-06/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Oct 6, 2021 ... U.S. Deputy Attorney General Lisa Monaco on Wednesday unveiled two new Justice Department enforcement initiatives aimed at targeting\u00a0...",
+            "htmlSnippet": "Oct 6, 2021 <b>...</b> U.S. Deputy Attorney General Lisa <b>Monaco</b> on Wednesday unveiled two new Justice Department enforcement initiatives aimed at targeting&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../us-justice-dept-launches-new-initiatives- cryptocurrencies-contractor-hacks-2021-10-06/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../us-justice-dept-launches-new-initiatives- <b>cryptocurrencies</b>-contractor-hacks-2021-10-06/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WgB3gFpHUtZfUQe3wunDz_XTzc2FeePxvBmPid3qwUJGCVhM2_QOOfXn",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/1bT6Id8ZD17AyYjS70VHp6oKJCE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XAKQWWF3VZO7VGVBPIBSRFT2EE.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-10-06T16:44:51Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "World",
+                        "og:description": "U.S. Deputy Attorney General Lisa Monaco on Wednesday unveiled two new Justice Department enforcement initiatives aimed at targeting cryptocurrencies and government contractors who fail to report cyber breaches.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/1bT6Id8ZD17AyYjS70VHp6oKJCE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XAKQWWF3VZO7VGVBPIBSRFT2EE.jpg",
+                        "twitter:image:alt": "U.S. Deputy Attorney General Lisa Monaco delivers opening remarks at a meeting with federal and local law enforcement to discuss their work on the recently announced firearms trafficking strike forces, in New York, U.S., August 4, 2021. Richard Drew/Pool via REUTERS",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-10-06T16:46:38.462Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "United States",
+                        "twitter:title": "U.S. Justice Dept launches new initiatives on cryptocurrencies, contractor hacks",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/world/us/article",
+                        "og:title": "U.S. Justice Dept launches new initiatives on cryptocurrencies, contractor hacks",
+                        "dcsext.channellist": "World;Technology;Government;Litigation;Legal",
+                        "og:article:published_time": "2021-10-06T16:44:51Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Christopher Bing,Sarah N. Lynch",
+                        "article:tag": "NRLPA:OWCC,CLJ,CRIM,CRYCUR,FRAUD1,FRX,GEN,HACK,JUDIC,LAW,POL,WASH,AMERS,US,NAMER,LEGAL,REUTERS-LEGAL,CIV,DAT,SOCI,SWIT,TECH,TECH08,TMT,WWW,NRLPA:ODAT",
+                        "analyticsattributes.topicsubchannel": "United States",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "U.S. Deputy Attorney General Lisa Monaco on Wednesday unveiled two new Justice Department enforcement initiatives aimed at targeting cryptocurrencies and government contractors who fail to report cyber breaches.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/world/us/us-justice-dept-launches-new-initiatives-cryptocurrencies-contractor-hacks-2021-10-06/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/1bT6Id8ZD17AyYjS70VHp6oKJCE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XAKQWWF3VZO7VGVBPIBSRFT2EE.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Monaco MCO (Cryptocurrency) Definition",
+            "htmlTitle": "<b>Monaco</b> MCO (<b>Cryptocurrency</b>) Definition",
+            "link": "https://www.investopedia.com/terms/m/monaco-mco-cryptocurrency.asp",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Sep 22, 2020 ... Monaco is a token for a blockchain-based payments application launched in 2017 that trades under the symbol MCO. \u00b7 The company was originally\u00a0...",
+            "htmlSnippet": "Sep 22, 2020 <b>...</b> <b>Monaco</b> is a token for a blockchain-based payments application launched in 2017 that trades under the symbol MCO. &middot; The company was originally&nbsp;...",
+            "cacheId": "haQrkG4zaq8J",
+            "formattedUrl": "https://www.investopedia.com/terms/m/monaco-mco-cryptocurrency.asp",
+            "htmlFormattedUrl": "https://www.investopedia.com/terms/m/<b>monaco</b>-mco-<b>cryptocurrency</b>.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkExLdisHtxXi3qK2tuTsCyQOc40xf3XoE6mbUxn6jcrJvwKnJJKhhCbo",
+                        "width": "283",
+                        "height": "178"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/XtgYUT9bXC7S-Z1-6lr9IVduSmA=/680x429/filters:fill(auto,1)/shutterstock440860456vc-5bfc2b2dc9e77c0026b4e88c.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/1.204.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "investing,cryptocurrency,cryptocurrency-strategy-and-education",
+                        "og:site_name": "Investopedia",
+                        "emailt1": "Investing",
+                        "msapplication-wide310x150logo": "/static/1.204.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/1.204.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "Monaco is a cryptocurrency platform that offers its own virtual coin, MCO tokens. It is a subsidiary of Crypto.com.",
+                        "twitter:image": "https://www.investopedia.com/thmb/XtgYUT9bXC7S-Z1-6lr9IVduSmA=/680x429/filters:fill(auto,1)/shutterstock440860456vc-5bfc2b2dc9e77c0026b4e88c.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/1.204.0/icons/favicons/mstile-310x310.png",
+                        "sailthru.title": "What is Monaco (MCO) cryptocurrency?",
+                        "emailcontenttype": "TERMSC",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "sailthru.date": "2021-09-21T13:57:21.620Z",
+                        "og:type": "article",
+                        "twitter:title": "What is Monaco (MCO) cryptocurrency?",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "What is Monaco (MCO) cryptocurrency?",
+                        "msapplication-square150x150logo": "/static/1.204.0/icons/favicons/mstile-150x150.png",
+                        "sailthru.image.thumb": "https://www.investopedia.com/thmb/CKlEdb0uyp4HLEGLAk7QiDeIaAU=/255x165/filters:no_upscale()/shutterstock440860456vc-5bfc2b2dc9e77c0026b4e88c.jpg",
+                        "fb:app_id": "659054097907801",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Monaco is a cryptocurrency platform that offers its own virtual coin, MCO tokens. It is a subsidiary of Crypto.com.",
+                        "og:url": "https://www.investopedia.com/terms/m/monaco-mco-cryptocurrency.asp",
+                        "sailthru.author": "Adam Hayes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/XtgYUT9bXC7S-Z1-6lr9IVduSmA=/680x429/filters:fill(auto,1)/shutterstock440860456vc-5bfc2b2dc9e77c0026b4e88c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "U.S. Forms Cryptocurrency Enforcement Team to Disrupt ...",
+            "htmlTitle": "U.S. Forms <b>Cryptocurrency</b> Enforcement Team to Disrupt ...",
+            "link": "https://duo.com/decipher/u-s-forms-cryptocurrency-enforcement-team-to-disrupt-ransomware-payments",
+            "displayLink": "duo.com",
+            "snippet": "Oct 6, 2021 ... \u201cWe have been enforcing securities laws for decades and the point is to ... In addition to the cryptocurrency enforcement team, Monaco said\u00a0...",
+            "htmlSnippet": "Oct 6, 2021 <b>...</b> \u201cWe have been enforcing securities <b>laws</b> for decades and the point is to ... In addition to the <b>cryptocurrency</b> enforcement team, <b>Monaco</b> said&nbsp;...",
+            "cacheId": "JihQU5NnpEIJ",
+            "formattedUrl": "https://duo.com/.../u-s-forms-cryptocurrency-enforcement-team-to-disrupt- ransomware-payments",
+            "htmlFormattedUrl": "https://duo.com/.../u-s-forms-<b>cryptocurrency</b>-enforcement-team-to-disrupt- ransomware-payments",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3baMs3qYetXndMuW9HIFkC4CibaqSu4mUkZfwZNDb5qae2iZAZoM-m2AN",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#000000",
+                        "msapplication-config": "/assets/img/decipher/favicons/browserconfig.xml",
+                        "og:image": "https://duo.com/assets/img/seo-images/bitcoin-decipher.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "U.S. Forms Cryptocurrency Enforcement Team to Disrupt Ransomware Payments",
+                        "og:image:width": "1200",
+                        "og:site_name": "Decipher",
+                        "msvalidate.01": "27FB624DBD3F07315A4BF69F5D649C68",
+                        "twitter:widgets:csp": "on",
+                        "og:title": "U.S. Forms Cryptocurrency Enforcement Team to Disrupt Ransomware Payments",
+                        "og:image:height": "630",
+                        "twitter:creator": "@deciphersec",
+                        "og:description": "The Department of Justice has formed a new National Cryptocurrency Enforcement Team to help disrupt ransomware payments to cybercriminals.",
+                        "twitter:image": "https://duo.com/assets/img/seo-images/bitcoin-decipher.jpg",
+                        "fb:app_id": "2090208394329663",
+                        "twitter:site": "@deciphersec",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                        "twitter:description": "The Department of Justice has formed a new National Cryptocurrency Enforcement Team to help disrupt ransomware payments to cybercriminals.",
+                        "og:url": "https://duo.com/decipher/u-s-forms-cryptocurrency-enforcement-team-to-disrupt-ransomware-payments",
+                        "bitly-verification": "040b99f315c6"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://duo.com/assets/img/seo-images/bitcoin-decipher.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Monaco Passes New Security Token Laws, but Acting on Them Is ...",
+            "htmlTitle": "<b>Monaco</b> Passes New Security Token <b>Laws</b>, but Acting on Them Is ...",
+            "link": "https://cointelegraph.com/news/monaco-passes-new-security-token-laws-but-acting-on-them-is-not-easy",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jul 7, 2020 ... The government of Monaco has passed a new bill introducing the ... the earlier French law encompasses more general cryptocurrencies.",
+            "htmlSnippet": "Jul 7, 2020 <b>...</b> The government of <b>Monaco</b> has passed a new bill introducing the ... the earlier French law encompasses more general <b>cryptocurrencies</b>.",
+            "cacheId": "HPvXRmQsqiMJ",
+            "formattedUrl": "https://cointelegraph.com/.../monaco-passes-new-security-token-laws-but- acting-on-them-is-not-easy",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>monaco</b>-passes-new-security-token-<b>laws</b>-but- acting-on-them-is-not-easy",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6IeIW_-PMwciIjNkW1A78IBaQvpj9uVbavdmfwWUuSNuqp8CgjBI3Sxn",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YjkxNDg5NzI2N2MyMGQ0YTQxNzI4OWRlM2ZiOTEzYy5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Monaco Passes New Security Token Laws, but Acting on Them Is Not Easy",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Monaco Passes New Security Token Laws, but Acting on Them Is Not Easy",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The government of Monaco has passed a new bill introducing the establishment of a security token framework",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YjkxNDg5NzI2N2MyMGQ0YTQxNzI4OWRlM2ZiOTEzYy5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The government of Monaco has passed a new bill introducing the establishment of a security token framework",
+                        "og:url": "https://cointelegraph.com/news/monaco-passes-new-security-token-laws-but-acting-on-them-is-not-easy"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YjkxNDg5NzI2N2MyMGQ0YTQxNzI4OWRlM2ZiOTEzYy5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Twin DOJ Initiatives Tackle Cybersecurity Fraud and Cryptocurrency ...",
+            "htmlTitle": "Twin DOJ Initiatives Tackle Cybersecurity Fraud and <b>Cryptocurrency</b> ...",
+            "link": "https://www.akingump.com/en/news-insights/twin-doj-initiatives-tackle-cybersecurity-fraud-and-cryptocurrency-enforcement.html",
+            "displayLink": "www.akingump.com",
+            "snippet": "Oct 11, 2021 ... The newly created National Cryptocurrency Enforcement Team will pursue ... Regulation (FAR) and the Defense Federal Acquisition Regulation\u00a0...",
+            "htmlSnippet": "Oct 11, 2021 <b>...</b> The newly created National <b>Cryptocurrency</b> Enforcement Team will pursue ... <b>Regulation</b> (FAR) and the Defense Federal Acquisition <b>Regulation</b>&nbsp;...",
+            "cacheId": "alMMEBHkBhcJ",
+            "formattedUrl": "https://www.akingump.com/.../twin-doj-initiatives-tackle-cybersecurity-fraud- and-cryptocurrency-enforcement.html",
+            "htmlFormattedUrl": "https://www.akingump.com/.../twin-doj-initiatives-tackle-cybersecurity-fraud- and-<b>cryptocurrency</b>-enforcement.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV0wWwCHKVpWUaNbKlMkyqVmVEv_bo5mimuFAugMMO-jiB-o-LJ1mviifr",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.akingump.com/a/web/7Lq7BDxwH1rfLQwhv71BQq/9ZMMS/social-media-logo_akingump_black_200x200.jpg",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:type": "website",
+                        "og:site_name": "Akin Gump Strauss Hauer & Feld LLP",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0",
+                        "og:title": "Twin DOJ Initiatives Tackle Cybersecurity Fraud and Cryptocurrency Enforcement",
+                        "og:url": "https://www.akingump.com/en/news-insights/twin-doj-initiatives-tackle-cybersecurity-fraud-and-cryptocurrency-enforcement.html",
+                        "og:description": "Key Points\n\nOn October 6, 2021, the DOJ announced two new initiatives: the Civil Cyber-Fraud Initiative and the National Cryptocurrency Enforcement Team.\nThe Civil Cyber-Fraud Initiative will fight ri...",
+                        "og:image:secure_url": "https://www.akingump.com/a/web/7Lq7BDxwH1rfLQwhv71BQq/9ZMMS/social-media-logo_akingump_black_200x200.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.akingump.com/a/web/7Lq7BDxwH1rfLQwhv71BQq/9ZMMS/social-media-logo_akingump_black_200x200.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Justice Department Sets Up National Cryptocurrency Enforcement ...",
+            "htmlTitle": "Justice Department Sets Up National <b>Cryptocurrency</b> Enforcement ...",
+            "link": "https://www.wsj.com/articles/justice-department-sets-up-national-cryptocurrency-enforcement-team-11633565435",
+            "displayLink": "www.wsj.com",
+            "snippet": "Oct 6, 2021 ... Deputy Attorney General Lisa Monaco said the new team would prosecute cryptocurrency crimes and help recover illicit proceeds.",
+            "htmlSnippet": "Oct 6, 2021 <b>...</b> Deputy Attorney General Lisa <b>Monaco</b> said the new team would prosecute <b>cryptocurrency</b> crimes and help recover illicit proceeds.",
+            "formattedUrl": "https://www.wsj.com/.../justice-department-sets-up-national-cryptocurrency- enforcement-team-11633565435",
+            "htmlFormattedUrl": "https://www.wsj.com/.../justice-department-sets-up-national-<b>cryptocurrency</b>- enforcement-team-11633565435",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwNpx7aeZXRPX3h0wQmxuKMjAdTS3itYH_XFYOeDTmQ9acGmqoC0msEak",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "creator": "Photo: Jonathan Ernst/Associated Press",
+                        "caption": "Deputy Attorney General Lisa Monaco said the new team would prosecute cryptocurrency crimes and help recover illicit proceeds. Photo: Jonathan Ernst/Associated Press"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472634"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472342"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472147"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471031"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471760"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471327"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472554"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472514"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472558"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472548"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122tongadamage/012122tongadamage_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022soloflight/012022soloflight_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220118/011822tongaupdatesplash2/011822tongaupdatesplash2_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122ukrainesatellite/012122ukrainesatellite_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022kabuldrone2/012022kabuldrone2_115x65.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article.origheadline": "Justice Department Sets Up National Cryptocurrency Enforcement Team",
+                        "og:image": "https://images.wsj.net/im-413029/social",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "1280",
+                        "dj.asn": "i-0c3e",
+                        "page.site.product": "WSJ",
+                        "language": "en-US",
+                        "datelastpubbed": "2021-10-07T11:59:00.000Z",
+                        "article.access": "paid",
+                        "twitter:creator": "@_MengqiSun",
+                        "og:description": "The Justice Department is creating a national cryptocurrency enforcement team to tackle investigations and prosecutions of criminal misuses of cryptocurrency and to recover the illicit proceeds from these crimes.",
+                        "twitter:image:alt": "Justice Department Sets Up National Cryptocurrency Enforcement Team",
+                        "article.template": "full",
+                        "article.section": "C Suite",
+                        "page.content.format": "responsive",
+                        "article:word_count": "357",
+                        "article.created": "2021-10-07T00:10:00.000Z",
+                        "twitter:domain": "wsj.com",
+                        "author": "Mengqi Sun",
+                        "fb:pages": "8304333127",
+                        "article:internal_link_count": "3",
+                        "page.site": "wsj",
+                        "page.content.type": "Article",
+                        "article_availability_flag": "METER",
+                        "article:image_count": "1",
+                        "article.id": "SB10604051220243133415904588099763970712502",
+                        "article.page": "C Suite",
+                        "twitter:image": "https://images.wsj.net/im-413029/social",
+                        "article.updated": "2021-10-07T00:10:00.000Z",
+                        "article:embed_count": "2",
+                        "twitter:site": "@WSJ",
+                        "news_keywords": "Financial Investment Services,Securities/Commodity Exchange Activities,Banking/Credit,Cryptocurrency Exchanges,Financial Services,Financial Technology,Investing/Securities,Technology,Virtual Currencies/Cryptocurrencies,Political/General News",
+                        "page.section": "Article",
+                        "article.type.display": "Risk & Compliance Journal",
+                        "page.region": "na,us",
+                        "article.summary": "The Justice Department is creating a national cryptocurrency enforcement team to tackle investigations and prosecutions of criminal misuses of cryptocurrency and to recover the illicit proceeds from these crimes.",
+                        "twitter:title": "Justice Department Sets Up National Cryptocurrency Enforcement Team",
+                        "servo-context": "servo:prod:virginia:article:wsj",
+                        "og:title": "Justice Department Sets Up National Cryptocurrency Enforcement Team",
+                        "page.content.source": "WSJ Online",
+                        "fb:app_id": "368513495882",
+                        "article.published": "2021-10-07T00:10:00.000Z",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0",
+                        "user.exp": "google_bot",
+                        "twitter:description": "The Justice Department is creating a national cryptocurrency enforcement team to tackle investigations and prosecutions of criminal misuses of cryptocurrency and to recover the illicit proceeds from these crimes.",
+                        "user.type": "nonsubscriber",
+                        "article.headline": "Justice Department Sets Up National Cryptocurrency Enforcement Team",
+                        "branch:deeplink:target": "app",
+                        "og:url": "https://www.wsj.com/articles/justice-department-sets-up-national-cryptocurrency-enforcement-team-11633565435",
+                        "article.type": "Risk & Compliance Journal"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://images.wsj.net/im-413029/social",
+                        "datemodified": "2021-10-07T00:10:00.000Z",
+                        "inlanguage": "en-US",
+                        "description": "The Justice Department is creating a national cryptocurrency enforcement team to tackle investigations and prosecutions of criminal misuses of cryptocurrency and to recover the illicit proceeds...",
+                        "publisher": "wsj.com",
+                        "datecreated": "2021-10-07T00:10:00.000Z",
+                        "datepublished": "2021-10-07T00:10:00.000Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.wsj.net/im-413029/social"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and cryptocurrencies: Five key dates to understand the ...",
+            "htmlTitle": "Blockchain and <b>cryptocurrencies</b>: Five key dates to understand the ...",
+            "link": "https://www.monaco-tribune.com/en/2021/09/blockchain-and-cryptocurrencies-five-key-dates-to-understand-the-legal-framework-in-monaco/",
+            "displayLink": "www.monaco-tribune.com",
+            "snippet": "Sep 16, 2021 ... These laws provide a legal framework for blockchain technology, which is used to create cryptocurrencies. Nevertheless, the precise use of\u00a0...",
+            "htmlSnippet": "Sep 16, 2021 <b>...</b> These <b>laws</b> provide a legal framework for blockchain technology, which is used to create <b>cryptocurrencies</b>. Nevertheless, the precise use of&nbsp;...",
+            "cacheId": "yToc2b1sswEJ",
+            "formattedUrl": "https://www.monaco-tribune.com/.../blockchain-and-cryptocurrencies-five- key-dates-to-understand-the-legal-framework-in-monaco/",
+            "htmlFormattedUrl": "https://www.<b>monaco</b>-tribune.com/.../blockchain-and-<b>cryptocurrencies</b>-five- key-dates-to-understand-the-legal-framework-in-<b>monaco</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1-uaY14152Uxb_RdbkRnfTCejDhmoju_DJ4APNM-zz-tHXoJBMNPbNFw",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.monaco-tribune.com/wp-content/uploads/2021/09/blockchain_moanco.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-16T13:26:36+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Monaco Tribune",
+                        "og:title": "Blockchain and cryptocurrencies: Five key dates to understand the legal framework in Monaco",
+                        "og:image:height": "576",
+                        "og:image:type": "image/jpeg",
+                        "yandex-verification": "236a352db680967e",
+                        "msapplication-tileimage": "https://www.monaco-tribune.com/wp-content/uploads/2020/01/cropped-mtfav-270x270.png",
+                        "og:description": "The end of the year promises to be eventful for cryptocurrencies. Since its launch in 2009, Bitcoin, the spearhead of cryptocurrencies, has grown from a",
+                        "twitter:creator": "@MonacoTribune",
+                        "article:publisher": "https://www.facebook.com/MonacoTribune",
+                        "facebook-domain-verification": "fj1wp4ptk5587astzzd4hj58ludjkl",
+                        "twitter:site": "@MonacoTribune",
+                        "article:modified_time": "2022-01-17T16:42:24+00:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.monaco-tribune.com/en/2021/09/blockchain-and-cryptocurrencies-five-key-dates-to-understand-the-legal-framework-in-monaco/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.monaco-tribune.com/wp-content/uploads/2021/09/blockchain_moanco.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

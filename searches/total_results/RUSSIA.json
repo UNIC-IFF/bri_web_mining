@@ -1,0 +1,602 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - RUSSIA",
+                "totalResults": "3070000",
+                "searchTerms": "RUSSIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - RUSSIA",
+                "totalResults": "3070000",
+                "searchTerms": "RUSSIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.351339,
+        "formattedSearchTime": "0.35",
+        "totalResults": "3070000",
+        "formattedTotalResults": "3,070,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Russian Federation: New Bill Defines Cryptocurrency, Proposes Tax ...",
+            "htmlTitle": "<b>Russian</b> Federation: New Bill Defines <b>Cryptocurrency</b>, Proposes Tax ...",
+            "link": "https://www.loc.gov/item/global-legal-monitor/2021-01-11/russian-federation-new-bill-defines-cryptocurrency-proposes-tax-regulations/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Jan 11, 2021 ... The bill requires that citizens, individuals, and legal entities operating in the Russian Federation declare their cryptocurrency holdings and\u00a0...",
+            "htmlSnippet": "Jan 11, 2021 <b>...</b> The bill requires that citizens, individuals, and legal entities operating in the <b>Russian</b> Federation declare their <b>cryptocurrency</b> holdings and&nbsp;...",
+            "cacheId": "NWxgVdoxWqUJ",
+            "formattedUrl": "https://www.loc.gov/.../russian-federation-new-bill-defines-cryptocurrency- proposes-tax-regulations/",
+            "htmlFormattedUrl": "https://www.loc.gov/.../<b>russian</b>-federation-new-bill-defines-<b>cryptocurrency</b>- proposes-tax-<b>regulations</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Russian Federation: New Bill Defines Cryptocurrency, Proposes Tax Regulations",
+                        "dc.relation.ispartof": "global legal monitor",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "(Jan. 11, 2021) On December 1, 2020, the government of the Russian Federation introduced to the State Duma (the country&#8217;s parliament) Bill No. 1065710-7 on Amendments to Parts One and Two of the Tax Code of the Russian Federation. The bill, proposed in mid-November by the Ministry of Finance, includes provisions that would regulate the [&hellip;]",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "web page",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Russian Federation: New Bill Defines Cryptocurrency, Proposes Tax Regulations",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/global-legal-monitor/2021-01-11/russian-federation-new-bill-defines-cryptocurrency-proposes-tax-regulations/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/global-legal-monitor/2021-01-11/russian-federation-new-bill-defines-cryptocurrency-proposes-tax-regulations/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Russia Backs Away From Total Cryptocurrency Ban",
+            "htmlTitle": "<b>Russia</b> Backs Away From Total <b>Cryptocurrency</b> Ban",
+            "link": "https://www.forbes.com/sites/rogerhuang/2020/08/10/russia-backs-away-from-total-cryptocurrency-ban/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Aug 10, 2020 ... Starting January 1st, 2021, cryptocurrencies will be allowed in Russia, though they will not be allowed to be used in exchange for any goods or\u00a0...",
+            "htmlSnippet": "Aug 10, 2020 <b>...</b> Starting January 1st, 2021, <b>cryptocurrencies</b> will be allowed in <b>Russia</b>, though they will not be allowed to be used in exchange for any goods or&nbsp;...",
+            "cacheId": "fDVX97hW6RwJ",
+            "formattedUrl": "https://www.forbes.com/.../russia-backs-away-from-total-cryptocurrency-ban/",
+            "htmlFormattedUrl": "https://www.forbes.com/.../<b>russia</b>-backs-away-from-total-<b>cryptocurrency</b>-ban/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmRpG7m22jKk24W7Bq5Eak_epZLAFPQ1jA0UlcLsGUNb-M8quQclscSfs",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=588647136",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Forbes",
+                        "article:id": "blogAndPostId/blog/post/6394-5f2e17aec87fcb00065ccf9c",
+                        "og:description": "Russia recently signed a new cryptocurrency law that while stopping short of the previous ban on cryptocurrencies, still imposed stringent restrictions on its use in as form of monetary currency.",
+                        "twitter:creator": "@Rogerh1991",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/5f316343a7580c8fc8d798d3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+                        "twitter:site": "@forbes",
+                        "news_keywords": "putin,russia,bitcoin,cryptocurrency,internet censorship,bank of russia",
+                        "article:published": "2020-08-10",
+                        "article:channel": "Money",
+                        "image": "https://imageio.forbes.com/specials-images/imageserve/5f316343a7580c8fc8d798d3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+                        "article:section": "Crypto & Blockchain",
+                        "og:type": "article",
+                        "twitter:title": "Russia Backs Away From Total Cryptocurrency Ban",
+                        "author": "Roger Huang",
+                        "article:section_url": "https://www.forbes.com/crypto-blockchain/",
+                        "og:title": "Russia Backs Away From Total Cryptocurrency Ban",
+                        "og:updated_time": "2020-08-10T11:11:43.828-04:00",
+                        "article:author": "Roger Huang",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "123694841080850",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=5,minimum-scale=1,user-scalable=yes",
+                        "twitter:description": "Russia recently signed a new cryptocurrency law that while stopping short of the previous ban on cryptocurrencies, still imposed stringent restrictions on its use in as form of monetary currency.",
+                        "og:url": "https://www.forbes.com/sites/rogerhuang/2020/08/10/russia-backs-away-from-total-cryptocurrency-ban/",
+                        "article:modified": "2020-08-10"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://imageio.forbes.com/specials-images/imageserve/5f316343a7580c8fc8d798d3/RUSSIA-POLITICS-PUTIN/960x0.jpg?fit=bounds&format=jpg&width=960"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Russian central bank to seek ban on investment in cryptocurrencies ...",
+            "htmlTitle": "<b>Russian</b> central bank to seek ban on investment in <b>cryptocurrencies</b> ...",
+            "link": "https://www.reuters.com/markets/currencies/russian-cenbank-seek-ban-investment-cryptocurrencies-sources-say-2021-12-16/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Dec 16, 2021 ... Russia has argued for years against cryptocurrencies, saying they could be used in money laundering or to finance terrorism. It eventually gave\u00a0...",
+            "htmlSnippet": "Dec 16, 2021 <b>...</b> <b>Russia</b> has argued for years against <b>cryptocurrencies</b>, saying they could be used in money laundering or to finance terrorism. It eventually gave&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../russian-cenbank-seek-ban-investment- cryptocurrencies-sources-say-2021-12-16/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>russian</b>-cenbank-seek-ban-investment- <b>cryptocurrencies</b>-sources-say-2021-12-16/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREg1gpAO2t6uaEYtKs19pzFGmELc011X6PxSbTwlw3AzvNvGEQ8jOc2xE",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/GqrfDWjQijZJ_0Y2VKPbMi0S_98=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICRCHLYYCVPUFLHQZKB6ZK27XA.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-12-16T15:55:18Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Markets",
+                        "og:description": "The Russian central bank wants to ban investments in cryptocurrencies in Russia, seeing risks to financial stability in the rising number of crypto transactions, two financial market sources close to the bank said.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/GqrfDWjQijZJ_0Y2VKPbMi0S_98=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICRCHLYYCVPUFLHQZKB6ZK27XA.jpg",
+                        "twitter:image:alt": "A Russian flag flies outside the Consulate General of the Russian Federation in New York. REUTERS/Andrew Kelly",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-12-16T15:55:39.194Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Currencies",
+                        "twitter:title": "Russian central bank to seek ban on investment in cryptocurrencies",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/markets/currencies/article",
+                        "og:title": "Russian central bank to seek ban on investment in cryptocurrencies",
+                        "dcsext.channellist": "Markets;Finance;Technology",
+                        "og:article:published_time": "2021-12-16T15:55:18Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Elena Fabrichnaya,Andrey Ostroukh",
+                        "article:tag": "BISV,BISV08,BLKCC,BNKS,BNKS1,BSVC,CBRU,CEN,CRYCUR,CRYPHD,CRYPMN,ECO,FIN,FINS,FINS08,FRX,FTECH,GEN,MCE,MMT,NEWS1,PLCY,POL,PXP,REGS,TECH,TECH08,TMT,TRD,CEEU,EUROP,RU,NASIA,ASXPAC,CISC,EMRG,ASIA,EEU,EREP,ANLINS,EXCLSV",
+                        "analyticsattributes.topicsubchannel": "Currencies",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Russian central bank wants to ban investments in cryptocurrencies in Russia, seeing risks to financial stability in the rising number of crypto transactions, two financial market sources close to the bank said.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/markets/currencies/russian-cenbank-seek-ban-investment-cryptocurrencies-sources-say-2021-12-16/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/GqrfDWjQijZJ_0Y2VKPbMi0S_98=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICRCHLYYCVPUFLHQZKB6ZK27XA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin value rises over $1 billion as Japan, Russia move to ...",
+            "htmlTitle": "Bitcoin value rises over $1 billion as Japan, <b>Russia</b> move to ...",
+            "link": "https://www.cnbc.com/2017/04/12/bitcoin-price-rises-japan-russia-regulation.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Apr 12, 2017 ... ... mid-March after Japan legalized the cryptocurrency as a payment method. ... Russia is reportedly looking into ways to regulate bitcoin.",
+            "htmlSnippet": "Apr 12, 2017 <b>...</b> ... mid-March after Japan legalized the <b>cryptocurrency</b> as a payment method. ... <b>Russia</b> is reportedly looking into ways to <b>regulate</b> bitcoin.",
+            "cacheId": "MZP4UBMTA68J",
+            "formattedUrl": "https://www.cnbc.com/2017/.../bitcoin-price-rises-japan-russia-regulation. html",
+            "htmlFormattedUrl": "https://www.cnbc.com/2017/.../bitcoin-price-rises-japan-<b>russia</b>-<b>regulation</b>. html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLRuoPE_HLaEn9I1sUr-zah-skgNQWPGQopAn2yPagsVJvTrnp7OJBwvyX",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/104399533-GettyImages-630953768.jpg?v=1529474793",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2017-04-12T08:42:59+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2017/04/12/bitcoin-price-rises-japan-russia-regulation.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Bitcoin is up nearly $100 in the past week, hitting levels not seen since mid-March after Japan legalized the cryptocurrency as a payment method.",
+                        "twitter:creator": "@ArjunKharpal",
+                        "parsely-metadata": "{\"nodeid\":104399532,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/104399533-GettyImages-630953768.jpg?v=1529474793\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "104399532",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2017-04-12T15:44:28+0000",
+                        "news_keywords": "Technology,Bitcoin,Currency markets,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin value rises over $1 billion as Japan, Russia move to legitimize cryptocurrency",
+                        "article:section": "Tech Transformers",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Arjun Kharpal",
+                        "og:title": "Bitcoin value rises over $1 billion as Japan, Russia move to legitimize cryptocurrency",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/104399533-GettyImages-630953768.jpg?v=1529474793",
+                        "article:tag": "Technology",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Bitcoin is up nearly $100 in the past week, hitting levels not seen since mid-March after Japan legalized the cryptocurrency as a payment method.",
+                        "og:url": "https://www.cnbc.com/2017/04/12/bitcoin-price-rises-japan-russia-regulation.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/104399533-GettyImages-630953768.jpg?v=1529474793"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is the state of crypto regulation in Russia?",
+            "htmlTitle": "What is the state of crypto <b>regulation</b> in <b>Russia</b>?",
+            "link": "https://www.yahoo.com/now/state-crypto-regulation-russia-113002649.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Nov 20, 2021 ... As of January 1 2021 cryptocurrencies were declared 'allowed' in Russia \u2013 but not to be used as an exchange for goods and services. That means\u00a0...",
+            "htmlSnippet": "Nov 20, 2021 <b>...</b> As of January 1 2021 <b>cryptocurrencies</b> were declared &#39;allowed&#39; in <b>Russia</b> \u2013 but not to be used as an exchange for goods and services. That means&nbsp;...",
+            "cacheId": "8vkeStatc7MJ",
+            "formattedUrl": "https://www.yahoo.com/now/state-crypto-regulation-russia-113002649.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/now/state-crypto-<b>regulation</b>-<b>russia</b>-113002649.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4s6VFKmtOnv-9nZ5lDLJ9zdgyoE5GH3GgMJDg7Kvs596IQ5MAafyxd7Fv",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/132e863b-25c9-33f9-b32f-10c9e63f3174",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/rRML.i7XmgSE3ECVWtFJyw--~B/aD02NzU7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/ae0f8c2822734791c4d1ca7a782809d9",
+                        "twitter:title": "What is the state of crypto regulation in Russia?",
+                        "og:type": "article",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "What is the state of crypto regulation in Russia?",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "675",
+                        "og:description": "Despite Russia proposing its first cryptocurrency law back in January 2021, the country\u2019s crypto market is still looking rather hazy and is associated with a lot of uncertainty due to a lack of regulation.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/rRML.i7XmgSE3ECVWtFJyw--~B/aD02NzU7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/ae0f8c2822734791c4d1ca7a782809d9",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/rRML.i7XmgSE3ECVWtFJyw--~B/aD02NzU7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/ae0f8c2822734791c4d1ca7a782809d9",
+                        "al:android:url": "yfinance://article/132e863b-25c9-33f9-b32f-10c9e63f3174",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Russia, digital currencies, cryptocurrency, Digital assets",
+                        "twitter:description": "Despite Russia proposing its first cryptocurrency law back in January 2021, the country\u2019s crypto market is still looking rather hazy and is associated with a lot of uncertainty due to a lack of regulation.",
+                        "og:url": "https://finance.yahoo.com/news/state-crypto-regulation-russia-113002649.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/rRML.i7XmgSE3ECVWtFJyw--~B/aD02NzU7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coin_rivet_596/ae0f8c2822734791c4d1ca7a782809d9"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Working Group Meets to Prepare Regulations for Cryptocurrencies ...",
+            "htmlTitle": "Working Group Meets to Prepare <b>Regulations</b> for <b>Cryptocurrencies</b> ...",
+            "link": "https://news.bitcoin.com/working-group-meets-to-prepare-regulations-for-cryptocurrencies-in-russia/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Dec 24, 2021 ... Current Russian legislation lacks definitions of terms like 'cryptocurrency' and 'mining', and Alexey Gordeev believes these have to be provided\u00a0...",
+            "htmlSnippet": "Dec 24, 2021 <b>...</b> Current <b>Russian</b> legislation lacks definitions of terms like &#39;<b>cryptocurrency</b>&#39; and &#39;mining&#39;, and Alexey Gordeev believes these have to be provided&nbsp;...",
+            "cacheId": "VgkmRU0JvWwJ",
+            "formattedUrl": "https://news.bitcoin.com/working-group-meets-to-prepare-regulations-for- cryptocurrencies-in-russia/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/working-group-meets-to-prepare-<b>regulations</b>-for- <b>cryptocurrencies</b>-in-<b>russia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqZwAzp-_u18wNuhgyKb4KCAcnMhF9qx7yp-CVf4IqiaoCJOC61Aub6l8",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/12/state-duma.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-12-24T12:00:45+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Working Group Meets to Prepare Regulations for Cryptocurrencies in Russia \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "A working group has held its first meeting at Russia\u2019s parliament to discuss legislative proposals to regulate cryptocurrencies.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-12-23T23:24:33+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/working-group-meets-to-prepare-regulations-for-cryptocurrencies-in-russia/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Working Group Meets to Prepare Regulations for Cryptocurrencies in Russia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/12/state-duma.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Russia does 'absolutely nothing' to regulate crypto, RACIB head says",
+            "htmlTitle": "<b>Russia</b> does &#39;absolutely nothing&#39; to <b>regulate</b> crypto, RACIB head says",
+            "link": "https://cointelegraph.com/news/russia-does-absolutely-nothing-to-regulate-crypto-racib-head-says",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Oct 25, 2021 ... Despite Russia adopting its first cryptocurrency law in January 2021, the country's cryptocurrency market is still largely unregulated and is\u00a0...",
+            "htmlSnippet": "Oct 25, 2021 <b>...</b> Despite <b>Russia</b> adopting its first <b>cryptocurrency</b> law in January 2021, the country&#39;s <b>cryptocurrency</b> market is still largely unregulated and is&nbsp;...",
+            "cacheId": "gWTTsMIdNbgJ",
+            "formattedUrl": "https://cointelegraph.com/.../russia-does-absolutely-nothing-to-regulate- crypto-racib-head-says",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>russia</b>-does-absolutely-nothing-to-<b>regulate</b>- crypto-racib-head-says",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnZTF4IyZPLh1IWNwMpHUn1jL_DTybjm6qaEchid9fOV7pYvAxYVinuE",
+                        "width": "275",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvOWNjNTBlMGQtNzI2OS00N2I2LWIxZWMtM2FmMmU3YjBjYzcwLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Russia does \u2018absolutely nothing\u2019 to regulate crypto, RACIB head says",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Russia does \u2018absolutely nothing\u2019 to regulate crypto, RACIB head says",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Russian lawmakers have done nothing to capture the crypto market, which is comparable with the annual federal budget revenue, according to a local industry advocate.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvOWNjNTBlMGQtNzI2OS00N2I2LWIxZWMtM2FmMmU3YjBjYzcwLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Russian lawmakers have done nothing to capture the crypto market, which is comparable with the annual federal budget revenue, according to a local industry advocate.",
+                        "og:url": "https://cointelegraph.com/news/russia-does-absolutely-nothing-to-regulate-crypto-racib-head-says"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvOWNjNTBlMGQtNzI2OS00N2I2LWIxZWMtM2FmMmU3YjBjYzcwLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin (BTC USD) Crypto News: Vladimir Putin Recognizes Crypto ...",
+            "htmlTitle": "Bitcoin (BTC USD) Crypto News: Vladimir Putin Recognizes Crypto ...",
+            "link": "https://www.bloomberg.com/news/articles/2021-10-14/putin-defends-cryptocurrencies-amid-global-regulation-push",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Oct 14, 2021 ... Cryptocurrency \u201chas the right to exist and can be used as a means of payment,\u201d Putin said in an \u00b7 The Bank of Russia has repeatedly warned\u00a0...",
+            "htmlSnippet": "Oct 14, 2021 <b>...</b> <b>Cryptocurrency</b> \u201chas the right to exist and can be used as a means of payment,\u201d Putin said in an &middot; The Bank of <b>Russia</b> has repeatedly warned&nbsp;...",
+            "cacheId": "yCyt_PBATf4J",
+            "formattedUrl": "https://www.bloomberg.com/.../putin-defends-cryptocurrencies-amid-global- regulation-push",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../putin-defends-<b>cryptocurrencies</b>-amid-global- <b>regulation</b>-push",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUT-TiXlAz_D8KRrv_nRm3vqy_y8JqLEY9qfwmEl4bQPPUUORkNH-F6cQ",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJZVDx2q0EIA/v0/1200x900.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Cryptocurrency,Vladimir Putin,Regulation,Money Laundering,Russia,Generic 1st 'CL' Future,Exports,Economic Sanctions,Currency,China,markets,politics,business,cryptocurrencies",
+                        "lotame-bbg-topic": "regulation,cryptocurrency,government,future-innovation",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Jake Rudnitsky",
+                        "og:description": "Russian President Vladimir Putin signaled tolerance of cryptocurrencies, which are drawing increasing scrutiny from regulators around the world amid fears they can be used for money laundering and criminal activity.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJZVDx2q0EIA/v0/1200x900.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@markets",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-10-14/putin-defends-cryptocurrencies-amid-global-regulation-push",
+                        "iso-8601-publish-date": "2021-10-14T09:06:44.426Z",
+                        "sailthru.title": "Putin Says He Accepts Crypto\u2019s Role in Making Payments",
+                        "checksum": "12d8b9f1c66abfe6eb9001e373d01981",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJZVDx2q0EIA/v0/1200x900.jpg",
+                        "parsely-section": "markets",
+                        "article:content_tier": "metered",
+                        "fb:status": "Russian President Vladimir Putin signaled tolerance of cryptocurrencies, which are drawing increasing scrutiny from regulators around the world amid fears they can be used for money laundering and criminal activity.",
+                        "sailthru.date": "2021-10-14T09:06:44.426Z",
+                        "og:type": "article",
+                        "twitter:title": "Putin Says He Accepts Crypto\u2019s Role in Making\u00a0Payments",
+                        "parsely-post-id": "R0YIXYDWRGG201",
+                        "og:title": "Putin Says He Accepts Crypto\u2019s Role in Making\u00a0Payments",
+                        "parsely-title": "Bitcoin (BTC USD) Crypto News: Vladimir Putin Recognizes Crypto for Payments",
+                        "parsely-pub-date": "2021-10-14T09:06:44.426Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-10-14/putin-defends-cryptocurrencies-amid-global-regulation-push?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Cryptocurrency,Vladimir Putin,Regulation,Money Laundering,Russia,Generic 1st 'CL' Future,Exports,Economic Sanctions,Currency,China,Secondary Brand: markets,Secondary Brand: politics,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "Russian President Vladimir Putin signaled tolerance of cryptocurrencies, which are drawing increasing scrutiny from regulators around the world amid fears they can be used for money laundering and criminal activity.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "Russian President Vladimir Putin signaled tolerance of cryptocurrencies, which are drawing increasing scrutiny from regulators around the world amid fears they can be used for money laundering and criminal activity.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-10-14/putin-defends-cryptocurrencies-amid-global-regulation-push",
+                        "validatedat": "2022-01-23T18:48:29.410Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Jake Rudnitsky",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJZVDx2q0EIA/v0/1200x900.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Russia to Add Regulations on Crypto Investing, to Safeguard 'Non ...",
+            "htmlTitle": "<b>Russia</b> to Add <b>Regulations</b> on Crypto Investing, to Safeguard &#39;Non ...",
+            "link": "https://gadgets.ndtv.com/cryptocurrency/news/russia-crypto-investors-regulate-non-professional-cryptocurrency-risk-2568097",
+            "displayLink": "gadgets.ndtv.com",
+            "snippet": "Oct 8, 2021 ... As of January 1, 2021, cryptocurrencies were declared \u201callowed\u201d in Russia \u2013 but not to be used as an exchange for goods and services. Russians\u00a0...",
+            "htmlSnippet": "Oct 8, 2021 <b>...</b> As of January 1, 2021, <b>cryptocurrencies</b> were declared \u201callowed\u201d in <b>Russia</b> \u2013 but not to be used as an exchange for goods and services. Russians&nbsp;...",
+            "cacheId": "7ZpLN0oqoicJ",
+            "formattedUrl": "https://gadgets.ndtv.com/cryptocurrency/.../russia-crypto-investors-regulate- non-professional-cryptocurrency-risk-2568097",
+            "htmlFormattedUrl": "https://gadgets.ndtv.com/<b>cryptocurrency</b>/.../<b>russia</b>-crypto-investors-<b>regulate</b>- non-professional-<b>cryptocurrency</b>-risk-2568097",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuulpSTiXSyW_iGMVIXaPXGFxwMJJsnTAQfnGniRUUOef8CpRsfTiTGTw",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:app:id:googleplay": "com.ndtv.gadgets",
+                        "og:image": "https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg",
+                        "apple-itunes-app": "app-id=620437614",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "NDTV Gadgets 360",
+                        "twitter:url": "https://gadgets.ndtv.com/cryptocurrency/news/russia-crypto-investors-regulate-non-professional-cryptocurrency-risk-2568097",
+                        "al:android:package": "com.ndtv.gadgets",
+                        "twitter:app:name:googleplay": "Gadgets 360",
+                        "twitter:app:id:iphone": "620437614",
+                        "og:description": "Crypto mining, holding and, trading on exchange platforms is allowed in Russia, but cryptocurrencies cannot be used as tender.",
+                        "twitter:creator": "https://twitter.com/_RadhikaReports",
+                        "twitter:image": "https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg",
+                        "article:publisher": "https://www.facebook.com/Gadgets360/",
+                        "publish-date": "Fri, 08 Oct 2021 11:09:18 +0530",
+                        "taboola:title": "Russia Working on Crypto Law to Safeguard \u2018Non-Professional\u2019 Investors",
+                        "taboola-category": "gadgets",
+                        "twitter:site": "@Gadgets360",
+                        "news_keywords": "russia,anatoly aksakov,investor,cryptocurrency,investors,bitcoin",
+                        "can-recommend": "false",
+                        "og:type": "article",
+                        "twitter:title": "Russia Working on Crypto Law to Safeguard \u2018Non-Professional\u2019 Investors",
+                        "og:title": "Russia Working on Crypto Law to Safeguard \u2018Non-Professional\u2019 Investors",
+                        "twitter:app:id:ipad": "620437614",
+                        "fb:pages": "307224649334491",
+                        "twitter:app:name:ipad": "NDTV Gadgets",
+                        "viewport": "width=1280",
+                        "twitter:description": "Crypto mining, holding and, trading on exchange platforms is allowed in Russia, but cryptocurrencies cannot be used as tender.",
+                        "category": "Gadgets",
+                        "og:url": "https://gadgets.ndtv.com/cryptocurrency/news/russia-crypto-investors-regulate-non-professional-cryptocurrency-risk-2568097",
+                        "al:android:app_name": "Gadgets 360",
+                        "twitter:app:name:iphone": "NDTV Gadgets"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Russia Lays Groundwork to Regulate Cryptos | PYMNTS.com",
+            "htmlTitle": "<b>Russia</b> Lays Groundwork to <b>Regulate</b> Cryptos | PYMNTS.com",
+            "link": "https://www.pymnts.com/cryptocurrency/2021/russia-lays-groundwork-to-regulate-cryptos/",
+            "displayLink": "www.pymnts.com",
+            "snippet": "Dec 28, 2021 ... Russia may soon regulate cryptocurrency. A working group recently held its first meeting at Russia's parliament. They have been tasked with\u00a0...",
+            "htmlSnippet": "Dec 28, 2021 <b>...</b> <b>Russia</b> may soon <b>regulate cryptocurrency</b>. A working group recently held its first meeting at <b>Russia&#39;s</b> parliament. They have been tasked with&nbsp;...",
+            "cacheId": "VJ4XnxtncqAJ",
+            "formattedUrl": "https://www.pymnts.com/cryptocurrency/.../russia-lays-groundwork-to- regulate-cryptos/",
+            "htmlFormattedUrl": "https://www.pymnts.com/<b>cryptocurrency</b>/.../<b>russia</b>-lays-groundwork-to- <b>regulate</b>-cryptos/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBEiMk8-IJJBhspRAkX838FTAIhcTcJVkqpNNME8IdRGumo-gkCOH9HB-c",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Russia-Cryptocurrency-1000x600.jpg",
+                        "article:published_time": "2021-12-28T09:54:51-05:00",
+                        "og:type": "article",
+                        "twitter:title": "Russia Lays Groundwork to Regulate Cryptos",
+                        "twitter:card": "summary_large_image",
+                        "twitter:domain": "https://www.pymnts.com/",
+                        "msvalidate.01": "ED6511722D66805E697F4B337E96D89A",
+                        "og:title": "Russia Lays Groundwork to Regulate Cryptos",
+                        "msapplication-tileimage": "https://securecdn.pymnts.com/wp-content/uploads/2019/04/cropped-512-1-270x270.jpg",
+                        "og:description": "A Russian working group recently met at Russia\u2019s parliament to discuss legislative proposals designed to control digital currencies in the Russian Federation.\u202f\u00a0",
+                        "twitter:creator": "PYMNTS.com",
+                        "twitter:image": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Russia-Cryptocurrency-1000x600.jpg",
+                        "twitter:site": "PYMNTS.com",
+                        "article:modified_time": "2021-12-28T09:54:51-05:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes",
+                        "twitter:description": "A Russian working group recently met at Russia\u2019s parliament to discuss legislative proposals designed to control digital currencies in the Russian Federation.\u202f\u00a0",
+                        "og:url": "https://www.pymnts.com/cryptocurrency/2021/russia-lays-groundwork-to-regulate-cryptos/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Russia-Cryptocurrency-1000x600.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

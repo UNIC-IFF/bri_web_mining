@@ -1,0 +1,470 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BENIN",
+                "totalResults": "390000",
+                "searchTerms": "BENIN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BENIN",
+                "totalResults": "390000",
+                "searchTerms": "BENIN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.436978,
+        "formattedSearchTime": "0.44",
+        "totalResults": "390000",
+        "formattedTotalResults": "390,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto 101: Cryptocurrency on the African Market - MAJORITY",
+            "htmlTitle": "Crypto 101: <b>Cryptocurrency</b> on the African Market - MAJORITY",
+            "link": "https://www.majority.com/en/community/article/crypto-101-cryptocurrency-on-the-african-market/",
+            "displayLink": "www.majority.com",
+            "snippet": "South Africa. These are the countries with considerable regulations and laws that allow their citizens to trade. In order to create a crypto currency\u00a0...",
+            "htmlSnippet": "South Africa. These are the countries with considerable <b>regulations</b> and <b>laws</b> that allow their citizens to trade. In order to create a crypto currency&nbsp;...",
+            "cacheId": "fqrO-y4j_dwJ",
+            "formattedUrl": "https://www.majority.com/.../crypto-101-cryptocurrency-on-the-african- market/",
+            "htmlFormattedUrl": "https://www.majority.com/.../crypto-101-<b>cryptocurrency</b>-on-the-african- market/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ5znp8kCBmYsP6s-U6HgwxPaZ8xUqXvTw9hRA-7WBnkE1nTfcCF4T_Ux7",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.datocms-assets.com/20859/1618833602-crypto.png?auto=compress&auto=format%2Ccompress&fit=crop&lossless=true&fm=png&w=1200&h=630",
+                        "og:type": "article",
+                        "og:title": "Crypto 101: Cryptocurrency on the African Market",
+                        "product:price:amount": "1.00",
+                        "product:availability": "in stock",
+                        "og:description": "Investing in bitcoin and avoiding scams",
+                        "fb:app_id": "517333655736376",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0",
+                        "product:brand": "MAJORITY",
+                        "product:price:currency": "USD",
+                        "og:locale": "en_US",
+                        "product:retailer_item_id": "32143894",
+                        "og:url": "https://www.majority.com/en/community/article/crypto-101-cryptocurrency-on-the-african-market/",
+                        "product:condition": "new"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.datocms-assets.com/20859/1618833602-crypto.png?auto=compress&auto=format%2Ccompress&fit=crop&lossless=true&fm=png&w=1200&h=630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Custody Regulations from OCC | Deloitte US",
+            "htmlTitle": "<b>Cryptocurrency</b> Custody <b>Regulations</b> from OCC | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "How can banks differentiate their cryptocurrency custody services? ... Teams that have the necessary OCC, Financial Industry Regulatory Authority (FINRA),\u00a0...",
+            "htmlSnippet": "How can banks differentiate their <b>cryptocurrency</b> custody services? ... Teams that have the necessary OCC, Financial Industry <b>Regulatory</b> Authority (FINRA),&nbsp;...",
+            "cacheId": "X8gsEZ2x1BMJ",
+            "formattedUrl": "https://www2.deloitte.com/.../cryptocurrency-custody-regulations-from-occ- deloitte-us.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/.../<b>cryptocurrency</b>-custody-<b>regulations</b>-from-occ- deloitte-us.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Custody Regulations from OCC",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html",
+                        "og:title": "Cryptocurrency Custody Regulations from OCC",
+                        "og:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Explore the impact of the OCC's announcement that that federally charted banks and thrifts may now provide custodial services for cryptocurrency.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/cryptocurrency-custody-regulations-from-occ-deloitte-us.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/abstract/blockchain-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Narcotics Control Strategy Report",
+            "htmlTitle": "International Narcotics <b>Control</b> Strategy Report",
+            "link": "https://www.state.gov/wp-content/uploads/2021/02/21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "displayLink": "www.state.gov",
+            "snippet": "Barbados, Belgium, Belize, Benin, Bolivia, Brazil, British Virgin Islands, Burma, ... between cryptocurrency money laundering and those engaged in crimes\u00a0...",
+            "htmlSnippet": "Barbados, Belgium, Belize, <b>Benin</b>, Bolivia, Brazil, British Virgin Islands, Burma, ... between <b>cryptocurrency</b> money laundering and those engaged in crimes&nbsp;...",
+            "formattedUrl": "https://www.state.gov/wp.../21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "htmlFormattedUrl": "https://www.state.gov/wp.../21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ120tA7VBQ-tx9wS6nQZge0TKgq6kxDDy5b4-vKuTc0YOiAiKv9owxuM",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210218162234-05'00'",
+                        "creationdate": "D:20210217233159Z",
+                        "creator": "Word",
+                        "producer": "macOS Version 10.15.7 (Build 19H114) Quartz PDFContext",
+                        "title": "Microsoft Word - 2021 INCSR Vol 2 Final to GPS 2-17-21.docx"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9fec23fdf1de0b6e59d8328b932f73f5c2b5fb9f296fb856a0b7abcbd29ca91c"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Benin - U.S. Banks and Local Correspondent Banks | Privacy Shield",
+            "htmlTitle": "<b>Benin</b> - U.S. Banks and Local Correspondent Banks | Privacy Shield",
+            "link": "https://www.privacyshield.gov/article?id=Benin-US-Banks",
+            "displayLink": "www.privacyshield.gov",
+            "snippet": "Orabank is the only bank active in Benin with indirect U.S. ownership. Citibank's correspondent bank in Benin is Ecobank Benin. The French bank Societe Generale\u00a0...",
+            "htmlSnippet": "Orabank is the only bank active in <b>Benin</b> with indirect U.S. ownership. Citibank&#39;s correspondent bank in <b>Benin</b> is Ecobank <b>Benin</b>. The French bank Societe Generale&nbsp;...",
+            "cacheId": "w_SAI2osmzcJ",
+            "formattedUrl": "https://www.privacyshield.gov/article?id=Benin-US-Banks",
+            "htmlFormattedUrl": "https://www.privacyshield.gov/article?id=<b>Benin</b>-US-Banks",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcterms:subject": "data category 1, data category 2, .. data category N",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "dcterms:creator": "International Trade Administration",
+                        "dcterms:reviewed": "3/1/2019",
+                        "dcterms:description": "Includes a list of U.S. banks operating in the market; indicates whether Ex-Im Bank offers any country-specific programs.",
+                        "dcterms:language": "EN-US",
+                        "dcterms:title": "Benin - U.S. Banks and Local Correspondent Banks",
+                        "dcterms:created": "3/1/2019"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Narcotics Control Strategy Reports - United States ...",
+            "htmlTitle": "International Narcotics <b>Control</b> Strategy Reports - United States ...",
+            "link": "https://www.state.gov/international-narcotics-control-strategy-reports/",
+            "displayLink": "www.state.gov",
+            "snippet": "The Department of State's International Narcotics Control Strategy Report (INCSR) \u2014 due to Congress March 1st annually \u2014 is prepared in accordance with \u00a7489\u00a0...",
+            "htmlSnippet": "The Department of State&#39;s International Narcotics <b>Control</b> Strategy Report (INCSR) \u2014 due to Congress March 1st annually \u2014 is prepared in accordance with \u00a7489&nbsp;...",
+            "cacheId": "pAIM85v5YjEJ",
+            "formattedUrl": "https://www.state.gov/international-narcotics-control-strategy-reports/",
+            "htmlFormattedUrl": "https://www.state.gov/international-narcotics-<b>control</b>-strategy-reports/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "United States Department of State",
+                        "og:title": "International Narcotics Control Strategy Reports - United States Department of State",
+                        "og:image:height": "675",
+                        "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-270x270.png",
+                        "og:description": "The Department of State\u2019s International Narcotics Control Strategy Report (INCSR) \u2014 due to Congress March 1st annually \u2014 is prepared in accordance with\u00a0\u00a7489 of the Foreign Assistance Act of 1961, as amended (the \u201cFAA,\u201d 22 U.S.C.\u00a0\u00a72291). The INCSR is the United States Government\u2019s country-by-country two volume report that describes the efforts to attack all aspects [\u2026]",
+                        "twitter:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "msapplication-tap-highlight": "no",
+                        "article:modified_time": "2021-03-02T13:07:32+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.state.gov/international-narcotics-control-strategy-reports/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "A comparative summary of the reception and regulation of Blockchain and Cryptocurrency in Africa. 2018 Baker McKenzie, Johannesburg\u00a0...",
+            "htmlSnippet": "A comparative summary of the reception and <b>regulation</b> of Blockchain and <b>Cryptocurrency</b> in Africa. 2018 Baker McKenzie, Johannesburg&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Understanding Cryptocurrency & Crypto Trading | CFA Institute",
+            "htmlTitle": "Understanding <b>Cryptocurrency</b> &amp; Crypto Trading | CFA Institute",
+            "link": "https://www.cfainstitute.org/en/research/foundation/2021/cryptoassets",
+            "displayLink": "www.cfainstitute.org",
+            "snippet": "Jan 7, 2021 ... Cryptoassets: The Guide to the Cryptocurrency Market for ... about cryptocurrency basics, crypto trading, cryptoasset regulations, and more.",
+            "htmlSnippet": "Jan 7, 2021 <b>...</b> Cryptoassets: The Guide to the <b>Cryptocurrency</b> Market for ... about <b>cryptocurrency</b> basics, crypto trading, cryptoasset <b>regulations</b>, and more.",
+            "cacheId": "AaRN8cQQhsoJ",
+            "formattedUrl": "https://www.cfainstitute.org/en/research/foundation/2021/cryptoassets",
+            "htmlFormattedUrl": "https://www.cfainstitute.org/en/research/foundation/2021/cryptoassets",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4NuAhApSrfJRTj4omjn6snNpyHFNv_twQhkwTqnewZq4I2KxEvOZCJfE",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://uxpatterns.cfainstitute.org/Content/img/2x/logos/cfa-opengraph-share-image.png?v=MLQLdttsuCfKq1aOeD0NcuSafklAymbretz8uJZ25-s1",
+                        "og:type": "ArticleBase",
+                        "og:site_name": "CFA Institute",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Cryptoassets: The Guide to Bitcoin, Blockchain, and Cryptocurrency for Investment Professionals",
+                        "og:url": "https://www.cfainstitute.org/en/research/foundation/2021/cryptoassets",
+                        "og:description": "Download the CFA Institute Research Foundation guide to cryptoassets and blockchain to learn about cryptocurrency basics, crypto trading, cryptoasset regulations, and more."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://uxpatterns.cfainstitute.org/Content/img/2x/logos/cfa-opengraph-share-image.png?v=MLQLdttsuCfKq1aOeD0NcuSafklAymbretz8uJZ25-s1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin and Cryptocurrency Technologies | Coursera",
+            "htmlTitle": "Bitcoin and <b>Cryptocurrency</b> Technologies | Coursera",
+            "link": "https://www.coursera.org/learn/cryptocurrency",
+            "displayLink": "www.coursera.org",
+            "snippet": "What determines the price of Bitcoins? Can cryptocurrencies be regulated? What might the future hold? After this course, you'll know everything you need to be\u00a0...",
+            "htmlSnippet": "What determines the price of Bitcoins? Can <b>cryptocurrencies</b> be <b>regulated</b>? What might the future hold? After this course, you&#39;ll know everything you need to be&nbsp;...",
+            "cacheId": "qsf7TCl_U_sJ",
+            "formattedUrl": "https://www.coursera.org/learn/cryptocurrency",
+            "htmlFormattedUrl": "https://www.coursera.org/learn/<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlMyCuMpuSW-szvU-1IpNRRkxLN4xbx0LgulU4SeltlC4unAfJSuQfnzU",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:app:id:googleplay": "org.coursera.android",
+                        "qc:admins": "366737676376375235216727",
+                        "og:image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~cryptocurrency/XDP~COURSE!~cryptocurrency.jpeg",
+                        "theme-color": "#4689c6",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Coursera",
+                        "twitter:app:name:googleplay": "Coursera",
+                        "twitter:app:id:iphone": "id736535961",
+                        "msapplication-tileimage": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/mstile-v2-144x144.png",
+                        "og:description": "Offered by Princeton University. To really understand what is special about Bitcoin, we need to understand how it works at a technical ... Enroll for free.",
+                        "twitter:image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~cryptocurrency/XDP~COURSE!~cryptocurrency.jpeg",
+                        "twitter:site": "Coursera",
+                        "fb:admins": "727836538,4807654",
+                        "msapplication-tilecolor": "#2d89ef",
+                        "image": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~cryptocurrency/XDP~COURSE!~cryptocurrency.jpeg",
+                        "og:type": "website",
+                        "twitter:title": "Bitcoin and Cryptocurrency Technologies",
+                        "og:title": "Bitcoin and Cryptocurrency Technologies",
+                        "twitter:app:id:ipad": "id736535961",
+                        "yandex-verification": "4970cfdb825622c7",
+                        "twitter:image:src": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~cryptocurrency/XDP~COURSE!~cryptocurrency.jpeg",
+                        "fb:app_id": "823425307723964",
+                        "twitter:app:name:ipad": "Coursera",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Offered by Princeton University. To really understand ... Enroll for free.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coursera.org/learn/cryptocurrency",
+                        "twitter:app:name:iphone": "Coursera"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~cryptocurrency/XDP~COURSE!~cryptocurrency.jpeg"
+                    }
+                ]
+            }
+        }
+    ]
+}

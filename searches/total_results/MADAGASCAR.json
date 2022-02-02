@@ -1,0 +1,555 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MADAGASCAR",
+                "totalResults": "433000",
+                "searchTerms": "MADAGASCAR",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MADAGASCAR",
+                "totalResults": "433000",
+                "searchTerms": "MADAGASCAR",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.341997,
+        "formattedSearchTime": "0.34",
+        "totalResults": "433000",
+        "formattedTotalResults": "433,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Madagascar and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Madagascar</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/madagascar/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Madagascar? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Madagascar</b>? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+            "cacheId": "8MH2w7qnQF0J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/madagascar/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>madagascar</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXo2qfyx4F15QNfekxzahFiosOGKnvEvjbuzIV3devhDRTqYfk4iiwG6M",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492995-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-12T18:03:45+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/madagascar/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Madagascar? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492995-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492995-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:29+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Madagascar bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Madagascar and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Madagascar and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:56:29+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Madagascar and Cryptocurrency Madagascar has not currently enacted regulations or legislation specifically regulating digital currency yet. According to Cointobuy\u2019s analysis, the crypto-related activity in this country has a 1.9/10 safety rank, the main ranking factor for Madagascar is that 2...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/madagascar/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/08/AdobeStock_419492995-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Madagascar ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Madagascar</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/madagascar",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Madagascar for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Madagascar</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "wKAK17GiAFUJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/madagascar",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>madagascar</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Madagascar for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Madagascar | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Madagascar for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Madagascar | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/madagascar"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "2019 Investment Climate Statements: Madagascar",
+            "htmlTitle": "2019 Investment Climate Statements: <b>Madagascar</b>",
+            "link": "https://www.state.gov/reports/2019-investment-climate-statements/madagascar/",
+            "displayLink": "www.state.gov",
+            "snippet": "They could as well be adjudicated in the \u201ccentral\u201d court system (established in the capital). Laws and Regulations on Foreign Direct Investment. Madagascar's\u00a0...",
+            "htmlSnippet": "They could as well be adjudicated in the \u201ccentral\u201d court system (established in the capital). <b>Laws</b> and <b>Regulations</b> on Foreign Direct Investment. <b>Madagascar&#39;s</b>&nbsp;...",
+            "cacheId": "4ojQWU_EI5MJ",
+            "formattedUrl": "https://www.state.gov/reports/2019-investment-climate.../madagascar/",
+            "htmlFormattedUrl": "https://www.state.gov/reports/2019-investment-climate.../<b>madagascar</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "United States Department of State",
+                        "og:title": "Madagascar - United States Department of State",
+                        "og:image:height": "675",
+                        "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2019/02/cropped-Seal-of-the-U.S.-Department-of-State-270x270.png",
+                        "twitter:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                        "msapplication-tap-highlight": "no",
+                        "article:modified_time": "2020-12-01T03:21:07+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.state.gov/reports/2019-investment-climate-statements/madagascar/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The rise of central bank and private digital currencies in Africa ...",
+            "htmlTitle": "The rise of central bank and private digital currencies in Africa ...",
+            "link": "https://qz.com/africa/2043041/the-rise-of-central-bank-and-private-digital-currencies-in-africa/",
+            "displayLink": "qz.com",
+            "snippet": "Aug 5, 2021 ... Private cryptocurrency providers are also increasing on the ... The Central Bank of Madagascar has embarked on a two-phased project to study\u00a0...",
+            "htmlSnippet": "Aug 5, 2021 <b>...</b> Private <b>cryptocurrency</b> providers are also increasing on the ... The Central Bank of <b>Madagascar</b> has embarked on a two-phased project to study&nbsp;...",
+            "cacheId": "NwqbUAzUKE4J",
+            "formattedUrl": "https://qz.com/.../the-rise-of-central-bank-and-private-digital-currencies-in- africa/",
+            "htmlFormattedUrl": "https://qz.com/.../the-rise-of-central-bank-and-private-digital-currencies-in- africa/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMHtUk_4PpwKoo1YGaMLe-Ve2VL9oMJIMEWWWHmvK44urB2_dNiJQNf4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cms.qz.com/wp-content/uploads/2021/01/Bitcoin-e1610097357918.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+                        "msapplication-square70x70logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=70&h=70&crop=1",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#f9f9f9",
+                        "og:site_name": "Quartz",
+                        "twitter:url": "https://qz.com/africa/2043041/the-rise-of-central-bank-and-private-digital-currencies-in-africa/",
+                        "msapplication-tooltip": "Stories of innovation across the continent\u2019s wide-ranging economies",
+                        "apple-mobile-web-app-title": "Quartz Africa",
+                        "msapplication-wide310x150logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=310&h=150&crop=1",
+                        "msapplication-tileimage": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=144&h=144&crop=1",
+                        "og:description": "Private cryptocurrency providers are also increasing on the continent and even central banks are following suit, by exploring better ways to create and own virtual money, inside secure ecosystems.",
+                        "twitter:image": "https://cms.qz.com/wp-content/uploads/2021/01/Bitcoin-e1610097357918.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+                        "article:publisher": "https://www.facebook.com/quartznews",
+                        "twitter:site": "@qz",
+                        "cxenseparse:author": "Conrad Onyango",
+                        "msapplication-square310x310logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=310&h=310&crop=1",
+                        "news_keywords": "Technology,Business,Africa,economics,economy,money,blockchain,bird-repub,digital currencies",
+                        "cxenseparse:recs:publishtime": "2021-08-05T14:15:53.000Z",
+                        "application-name": "Quartz Africa",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "article",
+                        "msapplication-window": "width=1024;height=768",
+                        "cxenseparse:pageclass": "article",
+                        "author": "Conrad Onyango",
+                        "og:title": "Africa\u2019s appetite for digital currencies is growing",
+                        "msapplication-square150x150logo": "https://cms.qz.com/wp-content/uploads/2018/07/quartz-africa-icon.jpg?quality=75&strip=all&w=150&h=150&crop=1",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "og:url": "https://qz.com/africa/2043041/the-rise-of-central-bank-and-private-digital-currencies-in-africa/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cms.qz.com/wp-content/uploads/2021/01/Bitcoin-e1610097357918.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "the regulation of cryptocurrency in Ghana in the future. ... technology in an attempt to raise funding for conservation projects in Madagascar. The Seneca.",
+            "htmlSnippet": "the <b>regulation of cryptocurrency</b> in Ghana in the future. ... technology in an attempt to raise funding for conservation projects in <b>Madagascar</b>. The Seneca.",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mauritius Releases Guidance for Regulated Security Token ...",
+            "htmlTitle": "Mauritius Releases Guidance for <b>Regulated</b> Security Token ...",
+            "link": "https://www.coindesk.com/policy/2020/06/17/mauritius-releases-guidance-for-regulated-security-token-offerings/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jun 17, 2020 ... The chief financial watchdog of Mauritius, an island-state off the coast of Madagascar, has created a regulatory regime for a full-fledged\u00a0...",
+            "htmlSnippet": "Jun 17, 2020 <b>...</b> The chief financial watchdog of Mauritius, an island-state off the coast of <b>Madagascar</b>, has created a <b>regulatory</b> regime for a full-fledged&nbsp;...",
+            "cacheId": "XTerQ-Ox2nQJ",
+            "formattedUrl": "https://www.coindesk.com/.../mauritius-releases-guidance-for-regulated- security-token-offerings/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../mauritius-releases-guidance-for-<b>regulated</b>- security-token-offerings/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm-nnuD7c54clhjAkLLp2tyBXFh_e-CeXM1zXxVVXBSvM1hwuIskjATVny",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/jWmnM_bXRA_vxA00J4hSJ81G50I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JF3JJXUQHFGBRJPJ72HGBPKNGU.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2020-06-17T07:35:12Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Mauritius Releases Guidance for Regulated Security Token Offerings",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Mauritius Releases Guidance for Regulated Security Token Offerings",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Mauritius' financial watchdog has developed a licensing framework for security token trading systems and issuers.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Paddy Baker",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/VOTrs4-wek4bX7Y_SPA5t5wMWt4=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JF3JJXUQHFGBRJPJ72HGBPKNGU.jpg",
+                        "article:tag": "Regulation, Mauritus, Security Tokens",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2020-06-17T07:35:12Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Mauritius' financial watchdog has developed a licensing framework for security token trading systems and issuers.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2020/06/17/mauritius-releases-guidance-for-regulated-security-token-offerings/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/JF3JJXUQHFGBRJPJ72HGBPKNGU.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulation Around The World In 2019 Ranked ...",
+            "htmlTitle": "<b>Cryptocurrency Regulation</b> Around The World In 2019 Ranked ...",
+            "link": "https://trading-education.com/cryptocurrency-regulation-around-the-world-in-2019-ranked",
+            "displayLink": "trading-education.com",
+            "snippet": "In Madagascar, cryptocurrency is still a controversial issue and there is not yet any formal cryptocurrency regulation put in place.",
+            "htmlSnippet": "In <b>Madagascar</b>, <b>cryptocurrency</b> is still a controversial issue and there is not yet any formal <b>cryptocurrency regulation</b> put in place.",
+            "cacheId": "ZhtT9gxpLk8J",
+            "formattedUrl": "https://trading-education.com/cryptocurrency-regulation-around-the-world-in -2019-ranked",
+            "htmlFormattedUrl": "https://trading-education.com/<b>cryptocurrency</b>-<b>regulation</b>-around-the-world-in -2019-ranked",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnagYC2_Pcr6Tg2flZ46ZgAema2XEvGgVkj317G5G_Ge7DwUpE_5iR-54",
+                        "width": "228",
+                        "height": "221"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://img.trading-education.com/article/1580722933dcad1cc28d1580722933_resized.jpg",
+                        "fb:app_id": "407451343056491",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency Regulation Around The World In 2019 Ranked! | Trading Education",
+                        "fb:admins": "100001074045071",
+                        "fb:pages": "1758999497742660",
+                        "og:description": "Cryptocurrency regulation around the world varies significantly.\r\nIn some countries, cryptocurrency is completely banned, in others it may be..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://img.trading-education.com/photos/africa-countries-map.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies and the fight against money laundering | Refinitiv ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> and the fight against money laundering | Refinitiv ...",
+            "link": "https://www.refinitiv.com/perspectives/financial-crime/cryptocurrencies-fight-money-laundering/",
+            "displayLink": "www.refinitiv.com",
+            "snippet": "Mar 12, 2018 ... Criminal networks are adept at exploiting loopholes in regulations, making the risk of cryptocurrency-related reputational fall-out very real.",
+            "htmlSnippet": "Mar 12, 2018 <b>...</b> Criminal networks are adept at exploiting loopholes in <b>regulations</b>, making the risk of <b>cryptocurrency</b>-related reputational fall-out very real.",
+            "cacheId": "EhDjaX5Ixr0J",
+            "formattedUrl": "https://www.refinitiv.com/.../cryptocurrencies-fight-money-laundering/",
+            "htmlFormattedUrl": "https://www.refinitiv.com/.../<b>cryptocurrencies</b>-fight-money-laundering/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVS34s41kyiKTVJLIOmdlD-zgfPQ0nWA2ZceMYoQezOMVBc4YwH0VlvEY",
+                        "width": "278",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg",
+                        "theme-color": "#828282",
+                        "article:published_time": "2018-03-12T11:57:11+00:00",
+                        "og:image:width": "800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Refinitiv Perspectives",
+                        "w-thumbnail-image": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018-768x432.jpg",
+                        "msapplication-tileimage": "https://www.refinitiv.com/perspectives/wp-content/themes/refinitiv-blog-theme-answerson/assets/media/tile.png",
+                        "og:description": "As cryptocurrencies such as Bitcoin gather momentum, how are RegTech solutions helping compliance teams tackle the risk of money laundering and fight back against financial crime?",
+                        "twitter:creator": "@refinitiv",
+                        "article:publisher": "https://www.facebook.com/refinitiv/",
+                        "og:image:secure_url": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg",
+                        "twitter:image": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg",
+                        "twitter:site": "@refinitiv",
+                        "article:modified_time": "2019-08-05T12:53:39+00:00",
+                        "msapplication-tilecolor": "#ff8000",
+                        "og:type": "article",
+                        "article:section": "Financial Crime",
+                        "twitter:title": "Cryptocurrencies and the fight against money laundering | Refinitiv Perspectives",
+                        "handheldfriendly": "True",
+                        "og:title": "Cryptocurrencies and the fight against money laundering | Refinitiv Perspectives",
+                        "og:image:height": "523",
+                        "og:updated_time": "2019-08-05T12:53:39+00:00",
+                        "article:tag": "AI & Machine Learning",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "As cryptocurrencies such as Bitcoin gather momentum, how are RegTech solutions helping compliance teams tackle the risk of money laundering and fight back against financial crime?",
+                        "mobileoptimized": "320",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.refinitiv.com/perspectives/financial-crime/cryptocurrencies-fight-money-laundering/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.refinitiv.com/perspectives/wp-content/uploads/2018/03/0-Cryptocurrencies-and-the-fight-against-money-laundering-12-03-2018.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

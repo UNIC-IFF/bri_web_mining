@@ -1,0 +1,542 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - PAKISTAN",
+                "totalResults": "720000",
+                "searchTerms": "PAKISTAN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - PAKISTAN",
+                "totalResults": "720000",
+                "searchTerms": "PAKISTAN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.385493,
+        "formattedSearchTime": "0.39",
+        "totalResults": "720000",
+        "formattedTotalResults": "720,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan moves to bring cryptocurrency boom out of the dark | Reuters",
+            "htmlTitle": "<b>Pakistan</b> moves to bring <b>cryptocurrency</b> boom out of the dark | Reuters",
+            "link": "https://www.reuters.com/technology/pakistan-moves-bring-cryptocurrency-boom-out-dark-2021-07-16/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Jul 16, 2021 ... While cryptocurrency is not illegal in Pakistan, the global money laundering watchdog, the Financial Action Task Force (FATF), has called on the\u00a0...",
+            "htmlSnippet": "Jul 16, 2021 <b>...</b> While <b>cryptocurrency</b> is not illegal in <b>Pakistan</b>, the global money laundering watchdog, the Financial Action Task Force (FATF), has called on the&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../pakistan-moves-bring-cryptocurrency-boom-out- dark-2021-07-16/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>pakistan</b>-moves-bring-<b>cryptocurrency</b>-boom-out- dark-2021-07-16/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2CeMxCSWriSWYYl_6oZeM2BRD7Dkm2aKqv3RAM7iBHwes5Qi-FrTgyfI",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/hmwcSxBPZWdzRn-3QEJfX3F0Xww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E3O6WSDKQJM6LO6IWPQ24QTOPA.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-07-16T17:06:04Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "og:description": "Once a week Ghulam Ahmed, 38, takes time out from his cryptocurrency consulting business to log into a WhatsApp group with hundreds of members eager to learn how to mine and trade cryptocurrency in Pakistan.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/hmwcSxBPZWdzRn-3QEJfX3F0Xww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E3O6WSDKQJM6LO6IWPQ24QTOPA.jpg",
+                        "twitter:image:alt": "Representations of cryptocurrencies Bitcoin, Ethereum, DogeCoin, Ripple, Litecoin are placed on PC motherboard in this illustration taken, June 29, 2021. REUTERS/Dado Ruvic/Illustration",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-07-16T17:07:43.874Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "Pakistan moves to bring cryptocurrency boom out of the dark",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/technology/article",
+                        "og:title": "Pakistan moves to bring cryptocurrency boom out of the dark",
+                        "dcsext.channellist": "Technology;Asia Pacific;Finance",
+                        "og:article:published_time": "2021-07-16T17:06:04Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Umar Farooq",
+                        "article:tag": "BACT,BGLR,BISV,BISV08,BKML,BNKS,BSVC,CEN,CLJ,CRIM,CRYCUR,DLI,ENT,FIN,FINS,FINS08,FRAUD1,FRX,GEN,INVBIS,INVS08,JUDIC,LAW,LIF,POL,REGS,SCAM1,SMED,SOCI,TECH,TECH08,TMT,WWW,SASIA,PK,ASXPAC,EMRG,ASIA,LEGAL,REUTERS-LEGAL,M:FC,M:FE,EF:BUSINESS-FUTURE-OF-MONEY,TOPCMB,TOPNWS",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Once a week Ghulam Ahmed, 38, takes time out from his cryptocurrency consulting business to log into a WhatsApp group with hundreds of members eager to learn how to mine and trade cryptocurrency in Pakistan.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/technology/pakistan-moves-bring-cryptocurrency-boom-out-dark-2021-07-16/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/hmwcSxBPZWdzRn-3QEJfX3F0Xww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E3O6WSDKQJM6LO6IWPQ24QTOPA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Cryptocurrencies including bitcoin are not officially regulated in Pakistan; however, it is not illegal or banned. As of 16 January 2021, the State Bank of\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrencies</b> including bitcoin are not officially <b>regulated</b> in <b>Pakistan</b>; however, it is not illegal or banned. As of 16 January 2021, the State Bank of&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan's Sindh High Court Gives 3 Months to Government for ...",
+            "htmlTitle": "<b>Pakistan&#39;s</b> Sindh High Court Gives 3 Months to Government for ...",
+            "link": "https://gadgets.ndtv.com/cryptocurrency/news/pakistan-sindh-high-court-3-months-deadline-government-cryptocurrency-regulation-2583307",
+            "displayLink": "gadgets.ndtv.com",
+            "snippet": "Oct 21, 2021 ... Pakistan's Sindh High Court has directed Prime Minister Imran Khan's government to speed up the regulation of cryptocurrencies.",
+            "htmlSnippet": "Oct 21, 2021 <b>...</b> <b>Pakistan&#39;s</b> Sindh High Court has directed Prime Minister Imran Khan&#39;s government to speed up the <b>regulation of cryptocurrencies</b>.",
+            "cacheId": "AsB5J8p7yeUJ",
+            "formattedUrl": "https://gadgets.ndtv.com/cryptocurrency/.../pakistan-sindh-high-court-3- months-deadline-government-cryptocurrency-regulation-2583307",
+            "htmlFormattedUrl": "https://gadgets.ndtv.com/<b>cryptocurrency</b>/.../<b>pakistan</b>-sindh-high-court-3- months-deadline-government-<b>cryptocurrency</b>-<b>regulation</b>-2583307",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuulpSTiXSyW_iGMVIXaPXGFxwMJJsnTAQfnGniRUUOef8CpRsfTiTGTw",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:app:id:googleplay": "com.ndtv.gadgets",
+                        "og:image": "https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg",
+                        "apple-itunes-app": "app-id=620437614",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "NDTV Gadgets 360",
+                        "twitter:url": "https://gadgets.ndtv.com/cryptocurrency/news/pakistan-sindh-high-court-3-months-deadline-government-cryptocurrency-regulation-2583307",
+                        "al:android:package": "com.ndtv.gadgets",
+                        "twitter:app:name:googleplay": "Gadgets 360",
+                        "twitter:app:id:iphone": "620437614",
+                        "og:description": "Despite the growing crypto culture in Pakistan, the country does not have a solid law-work to regulate these virtual coins.",
+                        "twitter:creator": "https://twitter.com/_RadhikaReports",
+                        "twitter:image": "https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg",
+                        "article:publisher": "https://www.facebook.com/Gadgets360/",
+                        "publish-date": "Thu, 21 Oct 2021 18:52:31 +0530",
+                        "taboola:title": "Cryptocurrency Could Be Regulated in Pakistan by January 2022: Here\u2019s Why",
+                        "taboola-category": "gadgets",
+                        "twitter:site": "@Gadgets360",
+                        "news_keywords": "pakistan,sindh,high court,cryptocurrency,regulation",
+                        "can-recommend": "false",
+                        "og:type": "article",
+                        "twitter:title": "Cryptocurrency Could Be Regulated in Pakistan by January 2022: Here\u2019s Why",
+                        "og:title": "Cryptocurrency Could Be Regulated in Pakistan by January 2022: Here\u2019s Why",
+                        "twitter:app:id:ipad": "620437614",
+                        "fb:pages": "307224649334491",
+                        "twitter:app:name:ipad": "NDTV Gadgets",
+                        "viewport": "width=1280",
+                        "twitter:description": "Despite the growing crypto culture in Pakistan, the country does not have a solid law-work to regulate these virtual coins.",
+                        "category": "Gadgets",
+                        "og:url": "https://gadgets.ndtv.com/cryptocurrency/news/pakistan-sindh-high-court-3-months-deadline-government-cryptocurrency-regulation-2583307",
+                        "al:android:app_name": "Gadgets 360",
+                        "twitter:app:name:iphone": "NDTV Gadgets"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.gadgets360cdn.com/large/cryptocurrency_mix_stock_pexels_1627728358830.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan Government Not Against Crypto Investments, High Court ...",
+            "htmlTitle": "<b>Pakistan</b> Government Not Against Crypto Investments, High Court ...",
+            "link": "https://news.bitcoin.com/pakistan-government-not-against-crypto-investments-high-court-calls-for-regulations/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Oct 22, 2021 ... Pakistan Government Not Against Crypto Investments, High Court Calls for Regulations ... The executive power will not oppose cryptocurrency\u00a0...",
+            "htmlSnippet": "Oct 22, 2021 <b>...</b> <b>Pakistan</b> Government Not Against Crypto Investments, High Court Calls for <b>Regulations</b> ... The executive power will not oppose <b>cryptocurrency</b>&nbsp;...",
+            "cacheId": "wWv7hZd_ZOkJ",
+            "formattedUrl": "https://news.bitcoin.com/pakistan-government-not-against-crypto-investments -high-court-calls-for-regulations/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>pakistan</b>-government-not-against-crypto-investments -high-court-calls-for-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAtODz4pa6IOkXJn9j3rEmLijr4WfcX-a2nGvgH6uix122xm-BU2iovmf1",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/shutterstock_1972406957_c.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-10-23T02:30:30+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Pakistan Government Not Against Crypto Investments, High Court Calls for Regulations \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The executive power will not oppose cryptocurrency investments, a high-ranking government official has told lawmakers in Pakistan.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "4 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-10-22T20:06:45+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/pakistan-government-not-against-crypto-investments-high-court-calls-for-regulations/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Pakistan Government Not Against Crypto Investments, High Court Calls for Regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/shutterstock_1972406957_c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistani high court orders government to regulate crypto in three ...",
+            "htmlTitle": "<b>Pakistani</b> high court orders government to <b>regulate</b> crypto in three ...",
+            "link": "https://cointelegraph.com/news/pakistani-high-court-orders-government-to-regulate-crypto-in-three-months",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Oct 20, 2021 ... ... Pakistani province to clamor for crypto regulations as the High Court of Sindh mandates the government to regulate cryptocurrencies in\u00a0...",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> ... <b>Pakistani</b> province to clamor for crypto <b>regulations</b> as the High Court of Sindh mandates the government to <b>regulate cryptocurrencies</b> in&nbsp;...",
+            "cacheId": "fYuYGzfu8bYJ",
+            "formattedUrl": "https://cointelegraph.com/.../pakistani-high-court-orders-government-to- regulate-crypto-in-three-months",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>pakistani</b>-high-court-orders-government-to- <b>regulate</b>-crypto-in-three-months",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLs1ifJYBsApgW3UfpZq9_QCUbPKjKbldTnFrWaNMTWgQ4nNL3WN0yS8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvNzExYTA1NDgtMGU5YS00ZGM4LWE2ZjQtZGNlYjYzMzg4YzM4LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Pakistani high court orders government to regulate crypto in three months",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Pakistani high court orders government to regulate crypto in three months",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Sindh becomes the latest Pakistani province to clamor for crypto regulations as the High Court of Sindh mandates the government to regulate cryptocurrencies in three months.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvNzExYTA1NDgtMGU5YS00ZGM4LWE2ZjQtZGNlYjYzMzg4YzM4LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Sindh becomes the latest Pakistani province to clamor for crypto regulations as the High Court of Sindh mandates the government to regulate cryptocurrencies in three months.",
+                        "og:url": "https://cointelegraph.com/news/pakistani-high-court-orders-government-to-regulate-crypto-in-three-months"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvNzExYTA1NDgtMGU5YS00ZGM4LWE2ZjQtZGNlYjYzMzg4YzM4LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan's SEC Discusses Cryptocurrency Regulation, Central Bank ...",
+            "htmlTitle": "<b>Pakistan&#39;s</b> SEC Discusses <b>Cryptocurrency Regulation</b>, Central Bank ...",
+            "link": "https://news.bitcoin.com/pakistan-cryptocurrency-regulation/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Nov 15, 2020 ... No Crypto Ban ... Meanwhile, the State Bank of Pakistan has reportedly clarified that cryptocurrency is not banned. The central bank's lawyer\u00a0...",
+            "htmlSnippet": "Nov 15, 2020 <b>...</b> No Crypto Ban ... Meanwhile, the State Bank of <b>Pakistan</b> has reportedly clarified that <b>cryptocurrency</b> is not banned. The central bank&#39;s lawyer&nbsp;...",
+            "cacheId": "ApsnmSUVCngJ",
+            "formattedUrl": "https://news.bitcoin.com/pakistan-cryptocurrency-regulation/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>pakistan</b>-<b>cryptocurrency</b>-<b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqakUmvNfDLL5quTRDNqmYyibYHLculZDkzk0m9jay6jawuDIePfDXxTk",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2019/09/x7QhwhWA-pakistan-bitcoin.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-11-15T07:30:48+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Pakistan's SEC Discusses Cryptocurrency Regulation, Central Bank Confirms No Crypto Ban \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Securities and Exchange Commission of Pakistan has published a paper discussing cryptocurrency regulation in the country. Meanwhile, the central bank has reportedly confirmed that there is no cryptocurrency ban.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2020-11-15T07:15:02+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/pakistan-cryptocurrency-regulation/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Pakistan's SEC Discusses Cryptocurrency Regulation, Central Bank Confirms No Crypto Ban"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2019/09/x7QhwhWA-pakistan-bitcoin.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pakistan's securities regulator mulls new legal framework for crypto",
+            "htmlTitle": "<b>Pakistan&#39;s</b> securities regulator mulls new legal framework for crypto",
+            "link": "https://cointelegraph.com/news/pakistan-s-securities-regulator-mulls-new-legal-framework-for-crypto",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Nov 12, 2020 ... Pakistan has been slow to adopt new frameworks for digital money and cryptocurrencies. Last year, the country was planning to introduce new\u00a0...",
+            "htmlSnippet": "Nov 12, 2020 <b>...</b> <b>Pakistan</b> has been slow to adopt new frameworks for digital money and <b>cryptocurrencies</b>. Last year, the country was planning to introduce new&nbsp;...",
+            "cacheId": "SacdzKCoUwsJ",
+            "formattedUrl": "https://cointelegraph.com/.../pakistan-s-securities-regulator-mulls-new-legal- framework-for-crypto",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>pakistan</b>-s-securities-regulator-mulls-new-legal- framework-for-crypto",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3qelGbYYexYP1xOjosqbDUDVRkXdHUIIZrbqrsoq9b3Cs1M3eM1O6UYo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvNDQyZWJmZGQtNGZkNS00NGJhLWI2YjYtMjE1ODY1MzE4OGE3LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Pakistan\u2019s securities regulator mulls new legal framework for crypto",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Pakistan\u2019s securities regulator mulls new legal framework for crypto",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Pakistan wants to unlock a new era of digital finance with crypto.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvNDQyZWJmZGQtNGZkNS00NGJhLWI2YjYtMjE1ODY1MzE4OGE3LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Pakistan wants to unlock a new era of digital finance with crypto.",
+                        "og:url": "https://cointelegraph.com/news/pakistan-s-securities-regulator-mulls-new-legal-framework-for-crypto"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvNDQyZWJmZGQtNGZkNS00NGJhLWI2YjYtMjE1ODY1MzE4OGE3LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Lahore of cryptocurrencies: Pakistan issues rules for electronic ...",
+            "htmlTitle": "The Lahore of <b>cryptocurrencies</b>: <b>Pakistan</b> issues rules for electronic ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=5f908054-6203-427c-b6e4-a47cccf8d48c",
+            "displayLink": "www.lexology.com",
+            "snippet": "Apr 16, 2019 ... FATF is expected to release international regulations this year. Only in April last year, Pakistan's State Bank tweeted cautioning of the risks\u00a0...",
+            "htmlSnippet": "Apr 16, 2019 <b>...</b> FATF is expected to release international <b>regulations</b> this year. Only in April last year, <b>Pakistan&#39;s</b> State Bank tweeted cautioning of the risks&nbsp;...",
+            "cacheId": "KbB1-_iX3S8J",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=5f908054-6203-427c...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=5f908054-6203-427c...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "The Lahore of cryptocurrencies: Pakistan issues rules for electronic money providers",
+                        "workarea": "Banking",
+                        "jurisdiction": "Pakistan",
+                        "dc.date": "2019-04-16",
+                        "firmname": "Hogan Lovells",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=5f908054-6203-427c-b6e4-a47cccf8d48c",
+                        "og:description": "The global watchdog, the Financial Action Task Force (FATF), has repeatedly warned of the potential for cryptocurrency to be used for money laundering and terrorism financing."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrencies: Evidence from Asia and the Pacific",
+            "htmlTitle": "<b>Regulation of Cryptocurrencies</b>: Evidence from Asia and the Pacific",
+            "link": "https://repository.unescap.org/bitstream/handle/20.500.12870/1212/WP-18-03_cryptocurrencies%20regulation%20_%2031%20August%202018_formatted.pdf?sequence=1",
+            "displayLink": "repository.unescap.org",
+            "snippet": "Aug 3, 2018 ... Under this premise, and keeping in mind hackers' heists suffered by cryptocurrency exchanges, it is important to regulate cryptocurrencies. Four\u00a0...",
+            "htmlSnippet": "Aug 3, 2018 <b>...</b> Under this premise, and keeping in mind hackers&#39; heists suffered by <b>cryptocurrency</b> exchanges, it is important to <b>regulate cryptocurrencies</b>. Four&nbsp;...",
+            "cacheId": "_1HLAwqmh1QJ",
+            "formattedUrl": "https://repository.unescap.org/.../WP-18-03_ cryptocurrencies%20regulation%20_%2031%20August%202018_formatte...",
+            "htmlFormattedUrl": "https://repository.unescap.org/.../WP-18-03_ <b>cryptocurrencies</b>%20<b>regulation</b>%20_%2031%20August%202018_formatte...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpCoQZhPAijdZFqAq9SCM_wUEkDSb55V6CiPCl7QYnNUgEbeI5_ZKUggSy",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190102104459+07'00'",
+                        "creationdate": "D:20190102104121+07'00'",
+                        "creator": "PScript5.dll Version 5.2.2",
+                        "author": "pannipaj",
+                        "producer": "Acrobat Distiller 10.1.16 (Windows)",
+                        "title": "Microsoft Word - WP-18-03_cryptocurrencies regulation _ 31 August 2018_formatted"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///ac077d23d88040838db54d5a242c2edd449f205467a644d0faadd4f3a2c6e9e9"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

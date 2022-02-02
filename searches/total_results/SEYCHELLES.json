@@ -1,0 +1,554 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SEYCHELLES",
+                "totalResults": "518000",
+                "searchTerms": "SEYCHELLES",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SEYCHELLES",
+                "totalResults": "518000",
+                "searchTerms": "SEYCHELLES",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.337969,
+        "formattedSearchTime": "0.34",
+        "totalResults": "518000",
+        "formattedTotalResults": "518,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Seychelles and Cryptocurrency - Virtual Currency Laws ...",
+            "htmlTitle": "The <b>Seychelles</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> ...",
+            "link": "https://freemanlaw.com/cryptocurrency-old-2/the-seychelles/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Jun 4, 2021 ... The Seychelles Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "Jun 4, 2021 <b>...</b> The <b>Seychelles Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "5bXF5nITQSIJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency-old-2/the-seychelles/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>-old-2/the-<b>seychelles</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGEg2L_jtJfthICkXLA70kCAxHmChqXbLicLi2PqLqCXmE-4DleO1ZcD0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493964-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-07T04:31:47+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency-old-2/the-seychelles/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in The Seychelles? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493964-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493964-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:25+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Seychelles bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "The Seychelles and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "The Seychelles and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:56:25+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "The Seychelles and Cryptocurrency The Seychelles Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology The legal regime for regulation of cryptocurrencies is still underdeveloped in Seychelles and ICOs are not specifically regulated. Despite the ICO...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency-old-2/the-seychelles/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493964-862x575.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Seychelles, Longtime Home of BitMEX, Is Bending to US Pressure ...",
+            "htmlTitle": "<b>Seychelles</b>, Longtime Home of BitMEX, Is Bending to US Pressure ...",
+            "link": "https://www.coindesk.com/policy/2020/12/17/seychelles-longtime-home-of-bitmex-is-bending-to-us-pressure-on-kyc/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Dec 17, 2020 ... In an interview with CoinDesk, the Seychelles Financial Services Authority ... This has prompted an upgrade of Seychelles regulation.",
+            "htmlSnippet": "Dec 17, 2020 <b>...</b> In an interview with CoinDesk, the <b>Seychelles</b> Financial Services Authority ... This has prompted an upgrade of <b>Seychelles regulation</b>.",
+            "cacheId": "7jjVebpOtJIJ",
+            "formattedUrl": "https://www.coindesk.com/.../seychelles-longtime-home-of-bitmex-is- bending-to-us-pressure-on-kyc/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>seychelles</b>-longtime-home-of-bitmex-is- bending-to-us-pressure-on-kyc/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPJvjvJHa2onEDYEh-TYTlPa3m1HNAFnt-eCcq_iRwrZCMz1oR2jtLUE",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/WKgoF638Leg86LFoVt5lExDR9pM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AX3FPMQ6CVDGPFGOA4MX7M5VKU.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2020-12-17T18:40:21Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "When it comes to island-hopping crypto exchanges with relaxed know-your-customer rules, BitMEX could be just the tip of the iceberg.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/j584ufW8UlUQ55CYlQJI9Xb6p8g=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AX3FPMQ6CVDGPFGOA4MX7M5VKU.jpg",
+                        "twitter:image:alt": "Coconut drink, Port Victoria, Seychelles",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2020-12-17T18:40:21Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Coconut drink, Port Victoria, Seychelles",
+                        "og:type": "article",
+                        "article:section": "Policy",
+                        "twitter:title": "Seychelles, Longtime Home of BitMEX, Is Bending to US Pressure on KYC",
+                        "og:title": "Seychelles, Longtime Home of BitMEX, Is Bending to US Pressure on KYC",
+                        "og:image:height": "628",
+                        "article:author": "Ian Allison",
+                        "article:tag": "KYC, AML, BitMEX, Seychelles, Regulations, CipherTrace",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "When it comes to island-hopping crypto exchanges with relaxed know-your-customer rules, BitMEX could be just the tip of the iceberg.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2020/12/17/seychelles-longtime-home-of-bitmex-is-bending-to-us-pressure-on-kyc/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/WKgoF638Leg86LFoVt5lExDR9pM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AX3FPMQ6CVDGPFGOA4MX7M5VKU.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Technology and Innovation Offshore Guide",
+            "htmlTitle": "Technology and Innovation Offshore Guide",
+            "link": "https://www.applebyglobal.com/wp-content/uploads/2019/05/Appleby-FinTech-Guide-Seychelles-Final.pdf",
+            "displayLink": "www.applebyglobal.com",
+            "snippet": "The legal regime for regulation of cryptocurrencies is still underdeveloped in Seychelles and ICOs are not specifically regulated. However, although an ICO is\u00a0...",
+            "htmlSnippet": "The legal regime for <b>regulation of cryptocurrencies</b> is still underdeveloped in <b>Seychelles</b> and ICOs are not specifically <b>regulated</b>. However, although an ICO is&nbsp;...",
+            "cacheId": "S7t_ZRJUw5kJ",
+            "formattedUrl": "https://www.applebyglobal.com/.../Appleby-FinTech-Guide-Seychelles-Final. pdf",
+            "htmlFormattedUrl": "https://www.applebyglobal.com/.../Appleby-FinTech-Guide-<b>Seychelles</b>-Final. pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMoawICZvKFVRqqCAQZgYv3dMFB_FdXY1BgAmV6DZHpT_ZjtE1AjPETGs",
+                        "width": "249",
+                        "height": "202"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20181205072614-04'00'",
+                        "creationdate": "D:20181205072610-04'00'",
+                        "creator": "Adobe InDesign CC 14.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///31aef32019c2b56e8d2c8a6a0a3062629ef9f1c12055d5706a1cf0f994b0da18"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Opinion | Seychelles-based BitMEX and the great crypto heist",
+            "htmlTitle": "Opinion | <b>Seychelles</b>-based BitMEX and the great crypto heist",
+            "link": "https://www.livemint.com/opinion/columns/opinion-seychelles-based-bitmex-and-the-great-crypto-heist-1563380565153.html",
+            "displayLink": "www.livemint.com",
+            "snippet": "Jul 17, 2019 ... But the current regulatory regime does not capture all financial activity. Cryptocurrencies are routinely launched and traded outside the\u00a0...",
+            "htmlSnippet": "Jul 17, 2019 <b>...</b> But the current <b>regulatory</b> regime does not capture all financial activity. <b>Cryptocurrencies</b> are routinely launched and traded outside the&nbsp;...",
+            "cacheId": "ZRI3ZsRc4F4J",
+            "formattedUrl": "https://www.livemint.com/.../opinion-seychelles-based-bitmex-and-the-great- crypto-heist-1563380565153.html",
+            "htmlFormattedUrl": "https://www.livemint.com/.../opinion-<b>seychelles</b>-based-bitmex-and-the-great- crypto-heist-1563380565153.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVZ8OFZDe_Q4nHR7pWMOHr-qsaIBoh-5MBPStbylqMe3WXjdbyRhxnRKUQ",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.livemint.com/img/2019/07/17/600x338/172fdc66-8b6e-11e9-a284-ae012b722972_1563381174923_1563381211351.jpg",
+                        "theme-color": "#ffffff",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2019-07-17T22:04:11+05:30",
+                        "og:site_name": "mint",
+                        "twitter:url": "https://www.livemint.com/opinion/columns/opinion-seychelles-based-bitmex-and-the-great-crypto-heist-1563380565153.html",
+                        "section": "Opinion",
+                        "og:description": "So far, regulators have been asleep at the wheel as the crypto cancer has metastasized",
+                        "twitter:creator": "@mint",
+                        "last-modified": "2019-07-17T22:04:34+05:30",
+                        "twitter:site": "@mint",
+                        "article:modified_time": "2019-07-17T22:04:34+05:30",
+                        "news_keywords": "BitMEX,Seychelles,Cryptocurrency,Bitcoin,Libra",
+                        "last-modified-date": "Wed, Jul 17, 2019",
+                        "storyid": "1563380565153",
+                        "og:type": "article",
+                        "twitter:title": "Opinion | Seychelles-based BitMEX and the great crypto heist",
+                        "article:section": "Opinion",
+                        "twitter:domain": "livemint.com",
+                        "cxenseparse:pageclass": "story",
+                        "author": "Nouriel Roubini",
+                        "og:title": "Opinion | Seychelles-based BitMEX and the great crypto heist",
+                        "screen-name": "story",
+                        "tweetmeme-title": "Opinion | Seychelles-based BitMEX and the great crypto heist",
+                        "fb:pages": "170844986298918",
+                        "twitter:image:src": "https://images.livemint.com/img/2019/07/17/600x338/172fdc66-8b6e-11e9-a284-ae012b722972_1563381174923_1563381211351.jpg",
+                        "article:tag": "BitMEX",
+                        "referrer": "no-referrer-when-downgrade",
+                        "viewport": "width=device-width, user-scalable=yes",
+                        "twitter:description": "So far, regulators have been asleep at the wheel as the crypto cancer has metastasized",
+                        "og:url": "https://www.livemint.com/opinion/columns/opinion-seychelles-based-bitmex-and-the-great-crypto-heist-1563380565153.html",
+                        "last-modified-time": "2019-07-17T22:04:34+05:30"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.livemint.com/img/2019/07/17/600x338/172fdc66-8b6e-11e9-a284-ae012b722972_1563381174923_1563381211351.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulation and Enforcement at the US Federal and ...",
+            "htmlTitle": "<b>Cryptocurrency Regulation</b> and Enforcement at the US Federal and ...",
+            "link": "https://www.skadden.com/insights/publications/2021/09/quarterly-insights/cryptocurrency-regulation-and-enforcement-at-the-us-federal-and-state-levels",
+            "displayLink": "www.skadden.com",
+            "snippet": "Sep 28, 2021 ... On August 10, 2021, BitMEX, a cryptocurrency exchange and derivatives trading platform owned and operated by Seychelles-based HDR Global Trading\u00a0...",
+            "htmlSnippet": "Sep 28, 2021 <b>...</b> On August 10, 2021, BitMEX, a <b>cryptocurrency</b> exchange and derivatives trading platform owned and operated by <b>Seychelles</b>-based HDR Global Trading&nbsp;...",
+            "cacheId": "rT3xZI6HWzwJ",
+            "formattedUrl": "https://www.skadden.com/.../cryptocurrency-regulation-and-enforcement-at- the-us-federal-and-state-levels",
+            "htmlFormattedUrl": "https://www.skadden.com/.../<b>cryptocurrency</b>-<b>regulation</b>-and-enforcement-at- the-us-federal-and-state-levels",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM-jCF-QdtjKrJHdXBG8DFT7oM8dRfEv6uU5mbmxMpgehJs1bHfrMuCsY",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.skadden.com/-/media/images/social/linkedin/mailing_quarterly_insights.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulation and Enforcement at the US Federal and State Levels | Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "twitter:site": "@skaddenarps",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The intensifying focus in recent months on cryptocurrency regulation and enforcement at both the federal and state levels demonstrates digital currency\u2019s increasing role as an established component of the financial landscape.",
+                        "og:title": "Cryptocurrency Regulation and Enforcement at the US Federal and State Levels | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "title": "Cryptocurrency Regulation and Enforcement at the US Federal and State Levels | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "og:url": "https://www.skadden.com/insights/publications/2021/09/quarterly-insights/cryptocurrency-regulation-and-enforcement-at-the-us-federal-and-state-levels",
+                        "og:description": "The intensifying focus in recent months on cryptocurrency regulation and enforcement at both the federal and state levels demonstrates digital currency\u2019s increasing role as an established component of the financial landscape.",
+                        "twitter:image": "https://www.skadden.com/-/media/images/social/twitter/mailing_quarterly_insights.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.skadden.com/-/media/images/social/linkedin/mailing_quarterly_insights.jpg"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Insights",
+                        "name": "Insights",
+                        "position": "2"
+                    },
+                    {
+                        "name": "Cryptocurrency Regulation and Enforcement at the US Federal and State Levels",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Seychelles | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Seychelles</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/seychelles",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Seychelles for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Seychelles</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "Ungnqz4zWjIJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/seychelles",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>seychelles</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Seychelles for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Seychelles | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Seychelles for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Seychelles | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/seychelles"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Seychelles Examines the Pros and Cons of Licensing Crypto ...",
+            "htmlTitle": "<b>Seychelles</b> Examines the Pros and Cons of Licensing Crypto ...",
+            "link": "https://news.bitcoin.com/seychelles-examines-pros-and-cons-of-licensing-crypto-trading-platforms/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Sep 9, 2021 ... Seychelles' Financial Services Authority is reportedly working on a policy to ... Cryptocurrency developed quite fast but the laws of many\u00a0...",
+            "htmlSnippet": "Sep 9, 2021 <b>...</b> <b>Seychelles</b>&#39; Financial Services Authority is reportedly working on a policy to ... <b>Cryptocurrency</b> developed quite fast but the <b>laws</b> of many&nbsp;...",
+            "cacheId": "_aTUJSCB5iMJ",
+            "formattedUrl": "https://news.bitcoin.com/seychelles-examines-pros-and-cons-of-licensing- crypto-trading-platforms/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>seychelles</b>-examines-pros-and-cons-of-licensing- crypto-trading-platforms/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuBrpQYL4r6F4-ek0ilwIIvFO-0cIN1G_GL0qknKYvoFFZzy3HZZObpojG",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/09/shutterstock_1986788381.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-10T03:30:29+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Seychelles Examines the Pros and Cons of Licensing Crypto Trading Platforms \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Seychelles\u2019 Financial Services Authority is reportedly working on a policy to either prohibit or license crypto trading platforms.",
+                        "twitter:creator": "@https://twitter.com/tem2ra",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Terence Zimwara",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-09-09T18:28:55+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/seychelles-examines-pros-and-cons-of-licensing-crypto-trading-platforms/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Seychelles Examines the Pros and Cons of Licensing Crypto Trading Platforms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/09/shutterstock_1986788381.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Report of the Attorney General's Cyber Digital Task Force ...",
+            "htmlTitle": "Report of the Attorney General&#39;s Cyber Digital Task Force ...",
+            "link": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "displayLink": "www.justice.gov",
+            "snippet": "Oct 1, 2020 ... not otherwise already imposed by statute or regulation. To the extent this Enforcement ... Cryptocurrency: An Enforcement Framework.",
+            "htmlSnippet": "Oct 1, 2020 <b>...</b> not otherwise already imposed by statute or <b>regulation</b>. To the extent this Enforcement ... <b>Cryptocurrency</b>: An Enforcement Framework.",
+            "cacheId": "ZvPJ0G1FuMoJ",
+            "formattedUrl": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "htmlFormattedUrl": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSERRMYfHAuVhiUMOE9YoUN0xvY8diAhotQh24cKWn4ufx1MUG9gkFOzZal",
+                        "width": "256",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20201008131005-04'00'",
+                        "creationdate": "D:20201005190542-04'00'",
+                        "creator": "Adobe InDesign 15.1 (Macintosh)",
+                        "author": "United States Department of Justice, Cyber-Digital Task Force",
+                        "subject": "Cryptocurrency: An Enforcement Framework",
+                        "producer": "Adobe PDF Library 15.0",
+                        "title": "Report of the Attorney General\u2019s Cyber Digital Task Force: Cryptocurrency Enforcement Framework"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///20ac3f800edcdfe338f4dcd73dec222edec2f7568fbd129edd31269a7b65ca20"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Binance - Wikipedia",
+            "htmlTitle": "Binance - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Binance",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Binance ; Cayman Islands; Mah\u00e9, Seychelles \u00b7 Global, except for the United States \u00b7 Changpeng Zhao (CEO) \u00b7 Cryptocurrency exchange, cryptocurrencies \u00b7 www.binance.",
+            "htmlSnippet": "Binance ; Cayman Islands; Mah\u00e9, <b>Seychelles</b> &middot; Global, except for the United States &middot; Changpeng Zhao (CEO) &middot; <b>Cryptocurrency</b> exchange, <b>cryptocurrencies</b> &middot; www.binance.",
+            "cacheId": "dt9dWCzqvygJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binance",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binance",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url_text": "www.binance.com",
+                        "fn": "Binance",
+                        "url": "www.binance.com"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:type": "website",
+                        "og:title": "Binance - Wikipedia",
+                        "format-detection": "telephone=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Founders And Executives Of Off-Shore Cryptocurrency Derivatives ...",
+            "htmlTitle": "Founders And Executives Of Off-Shore <b>Cryptocurrency</b> Derivatives ...",
+            "link": "https://www.justice.gov/usao-sdny/pr/founders-and-executives-shore-cryptocurrency-derivatives-exchange-charged-violation",
+            "displayLink": "www.justice.gov",
+            "snippet": "Oct 1, 2020 ... Indeed, in or about July 2019, HAYES bragged that the Seychelles was a more friendly jurisdiction for BitMEX because it cost less to bribe\u00a0...",
+            "htmlSnippet": "Oct 1, 2020 <b>...</b> Indeed, in or about July 2019, HAYES bragged that the <b>Seychelles</b> was a more friendly jurisdiction for BitMEX because it cost less to bribe&nbsp;...",
+            "cacheId": "V91IyQXfN4oJ",
+            "formattedUrl": "https://www.justice.gov/.../founders-and-executives-shore-cryptocurrency- derivatives-exchange-charged-violation",
+            "htmlFormattedUrl": "https://www.justice.gov/.../founders-and-executives-shore-<b>cryptocurrency</b>- derivatives-exchange-charged-violation",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShz09gnUqIC5hApYlhj3effRqZnE3PNLfAEDVK3S253G-8Uz1D95Zs7qI",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "Item": [
+                    {
+                        "date": "2020-10-01T00:00:00-04:00",
+                        "label": "USAO - New York, Southern",
+                        "title": "Founders And Executives Of Off-Shore Cryptocurrency Derivatives Exchange Charged With Violation Of The Bank Secrecy Act"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+                        "og:type": "article",
+                        "twitter:title": "Founders And Executives Of Off-Shore Cryptocurrency Derivatives",
+                        "article:published_time": "2020-10-01T11:29:20-04:00",
+                        "handheldfriendly": "true",
+                        "article:modified_time": "2020-10-01T11:29:59-04:00",
+                        "viewport": "width=device-width",
+                        "mobileoptimized": "width",
+                        "og:title": "Founders And Executives Of Off-Shore Cryptocurrency Derivatives Exchange Charged With Violation Of The Bank Secrecy Act",
+                        "twitter:image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

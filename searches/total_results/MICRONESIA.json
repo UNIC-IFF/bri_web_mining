@@ -1,0 +1,483 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MICRONESIA",
+                "totalResults": "245000",
+                "searchTerms": "MICRONESIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MICRONESIA",
+                "totalResults": "245000",
+                "searchTerms": "MICRONESIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.293751,
+        "formattedSearchTime": "0.29",
+        "totalResults": "245000",
+        "formattedTotalResults": "245,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... summary of the cryptocurrency regulatory picture. The list below focuses on cryptocurrencies such as bitcoin. It provides.",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> summary of the <b>cryptocurrency regulatory</b> picture. The list below focuses on <b>cryptocurrencies</b> such as bitcoin. It provides.",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, ... Keywords: cryptocurrency, institutions, financial regulations, ... Micronesia. 1 Bahamas.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, ... Keywords: <b>cryptocurrency</b>, institutions, financial <b>regulations</b>, ... <b>Micronesia</b>. 1 Bahamas.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies | Columbia University Press",
+            "htmlTitle": "<b>Cryptocurrencies</b> | Columbia University Press",
+            "link": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "displayLink": "cup.columbia.edu",
+            "snippet": "Oonagh McDonald CBE is an international expert in financial regulation, having advised regulatory authorities in a wide range of countries, including Indonesia,\u00a0...",
+            "htmlSnippet": "Oonagh McDonald CBE is an international expert in financial <b>regulation</b>, having advised <b>regulatory</b> authorities in a wide range of countries, including Indonesia,&nbsp;...",
+            "cacheId": "OukOV7OZDqgJ",
+            "formattedUrl": "cup.columbia.edu/book/cryptocurrencies/9781788214209",
+            "htmlFormattedUrl": "cup.columbia.edu/book/<b>cryptocurrencies</b>/9781788214209",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6ddqX4H5xxjsEqWbOwmyRdbc_HPY6wAdWjO92QBJ0j39fG1SkmuvdDo",
+                        "width": "183",
+                        "height": "275"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "CUP",
+                        "msapplication-tilecolor": "#003b72",
+                        "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "theme-color": "#003b72",
+                        "og:site_name": "Columbia University Press",
+                        "og:title": "Cryptocurrencies | Columbia University Press",
+                        "apple-mobile-web-app-title": "CUP",
+                        "msapplication-tileimage": "/wp-content/uploads/fbrfg/mstile-144x144.png",
+                        "og:description": "The advent of new digital currencies has challenged our notions about money, its function and purpose and our faith in the financial and banking structures t... | CUP",
+                        "article:publisher": "https://www.facebook.com/ColumbiaUniversityPress",
+                        "twitter:image": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350",
+                        "twitter:site": "@columbiaup",
+                        "article:modified_time": "2017-02-22T14:40:13+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0 user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:url": "http://cup.columbia.edu/book/cryptocurrencies/9781788214209"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cup-us.imgix.net/covers/9781788214209.jpg?auto=format&w=350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The legal status of cryptocurrencies varies substantially from one jurisdiction to another, ... Contentious (interpretation of old laws, but bitcoin is not prohibited\u00a0...",
+            "htmlSnippet": "The legal status of <b>cryptocurrencies</b> varies substantially from one jurisdiction to another, ... Contentious (interpretation of old laws, but bitcoin is not prohibited&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A tiny Pacific nation is creating its own digital currency | Crypto | Al ...",
+            "htmlTitle": "A tiny Pacific nation is creating its own digital currency | Crypto | Al ...",
+            "link": "https://www.aljazeera.com/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Sep 12, 2019 ... ... including Palau and the Federated States of Micronesia that rely ... 11, 2001, Paul said, when the financial regulatory regime changed\u00a0...",
+            "htmlSnippet": "Sep 12, 2019 <b>...</b> ... including Palau and the Federated States of <b>Micronesia</b> that rely ... 11, 2001, Paul said, when the financial <b>regulatory</b> regime changed&nbsp;...",
+            "cacheId": "pf3Bhd-vl5AJ",
+            "formattedUrl": "https://www.aljazeera.com/.../a-tiny-pacific-nation-is-creating-its-own-digital- currency",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../a-tiny-pacific-nation-is-creating-its-own-digital- currency",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJvtYNdfrhHlTD0ilekEF1OJOpkDRZipYrijVrxuoBEMu50Nv24QAV2Mk",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2019/09/eb997798066d4aefad534518cf06dd87_18.jpeg?fit=1000%2C561",
+                        "pageauthors": "Joanna Ossinger",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "A tiny Pacific nation is creating its own digital currency",
+                        "taxonomy-tags": "Economy, Business and Economy, Crypto, Science and Technology",
+                        "twitter:url": "https://www.aljazeera.com/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+                        "pagesection": "Economy,Business and Economy,Crypto,Science and Technology",
+                        "og:title": "A tiny Pacific nation is creating its own digital currency",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+                        "source": "Bloomberg",
+                        "og:description": "The Marshall Islands wants to reduce its dependence on the US dollar with what it is calling the Marshallese sovereign.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2019/09/eb997798066d4aefad534518cf06dd87_18.jpeg?fit=1000%2C561",
+                        "twitter:image:alt": "A tiny Pacific nation is creating its own digital currency",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "The Marshall Islands wants to reduce its dependence on the US dollar with what it is calling the Marshallese sovereign.",
+                        "og:url": "https://www.aljazeera.com/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2019/09/eb997798066d4aefad534518cf06dd87_18.jpeg?fit=1000%2C561"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Division of Financial Regulation : Oregon Division of Financial ...",
+            "htmlTitle": "Division of Financial <b>Regulation</b> : Oregon Division of Financial ...",
+            "link": "https://dfr.oregon.gov/",
+            "displayLink": "dfr.oregon.gov",
+            "snippet": "Oregon DFR protects consumers and regulates insurance and consumer financial products and services. Free resources. Insurance and finance advocates can\u00a0...",
+            "htmlSnippet": "Oregon DFR protects consumers and regulates insurance and consumer financial products and services. Free resources. Insurance and finance advocates can&nbsp;...",
+            "cacheId": "wB2uq3X1Rf4J",
+            "formattedUrl": "https://dfr.oregon.gov/",
+            "htmlFormattedUrl": "https://dfr.oregon.gov/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "application-name": "Oregon Division of Financial Regulation : Division of Financial Regulation",
+                        "msapplication-tilecolor": "#344032",
+                        "msapplication-square70x70logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=01_04_2022_A",
+                        "theme-color": "#222222",
+                        "msapplication-wide310x150logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=01_04_2022_A",
+                        "progid": "SharePoint.WebPartPage.Document",
+                        "msapplication-tileimage": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=01_04_2022_A",
+                        "msapplication-square150x150logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=01_04_2022_A",
+                        "msapplication-navbutton-color": "#344032",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+                        "msapplication-square310x310logo": "https://apps.oregon.gov/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=01_04_2022_A"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cross-Border Investigations Update | Insights | Skadden, Arps, Slate ...",
+            "htmlTitle": "Cross-Border Investigations Update | Insights | Skadden, Arps, Slate ...",
+            "link": "https://www.skadden.com/insights/publications/2019/09/cross-border-investigations-update",
+            "displayLink": "www.skadden.com",
+            "snippet": "Sep 24, 2019 ... Recent Developments in Cybersecurity Regulation and Enforcement ... from the government of the Federated States of Micronesia (FSM).",
+            "htmlSnippet": "Sep 24, 2019 <b>...</b> Recent Developments in Cybersecurity <b>Regulation</b> and Enforcement ... from the government of the Federated States of <b>Micronesia</b> (<b>FSM</b>).",
+            "cacheId": "4pEg4VzUMJsJ",
+            "formattedUrl": "https://www.skadden.com/insights/.../09/cross-border-investigations-update",
+            "htmlFormattedUrl": "https://www.skadden.com/insights/.../09/cross-border-investigations-update",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT-IG7WZGuH9esHo_Kukxyrr8KmPR3bIupEtLo74GImvMj5TGRwN-1U20",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.skadden.com/-/media/images/social/linkedin/mailings_crossborder_1200x628.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cross-Border Investigations Update \u2013 September 2019 | Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "twitter:site": "@skaddenarps",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "This issue of Skadden\u2019s semiannual Cross-Border Investigations Update takes a close look at recent cases, regulatory activity and other key developments.",
+                        "og:title": "Cross-Border Investigations Update  | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "title": "Cross-Border Investigations Update  | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "og:url": "https://www.skadden.com/insights/publications/2019/09/cross-border-investigations-update",
+                        "og:description": "This issue of Skadden\u2019s semiannual Cross-Border Investigations Update takes a close look at recent cases, regulatory activity and other key developments.",
+                        "twitter:image": "https://www.skadden.com/-/media/images/social/twitter/mailings_crossborder_1024x512.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.skadden.com/-/media/images/social/linkedin/mailings_crossborder_1200x628.jpg"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Insights",
+                        "name": "Insights",
+                        "position": "2"
+                    },
+                    {
+                        "name": "Cross-Border Investigations Update",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How Are Different Countries Approaching the Challenge of ...",
+            "htmlTitle": "How Are Different Countries Approaching the Challenge of ...",
+            "link": "https://www.brinknews.com/how-are-different-countries-approaching-the-challenge-of-regulating-blockchain/",
+            "displayLink": "www.brinknews.com",
+            "snippet": "Jun 3, 2019 ... It's been 10 years since cryptocurrency and its underlying blockchain ... But again, despite the currency regulation, India is encouraging\u00a0...",
+            "htmlSnippet": "Jun 3, 2019 <b>...</b> It&#39;s been 10 years since <b>cryptocurrency</b> and its underlying blockchain ... But again, despite the currency <b>regulation</b>, India is encouraging&nbsp;...",
+            "cacheId": "ZE4cEugdoK8J",
+            "formattedUrl": "https://www.brinknews.com/how-are-different-countries-approaching-the- challenge-of-regulating-blockchain/",
+            "htmlFormattedUrl": "https://www.brinknews.com/how-are-different-countries-approaching-the- challenge-of-regulating-blockchain/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStF5JJTt7Q1eOrcoPM2JAB4Lj0IGHY84BYwTqfHprX-F_cC6nhniBeQiDe",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#FFFFFF",
+                        "og:image": "https://www.brinknews.com/wp-content/uploads/2019/05/GettyImages-806924788.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "How Are Different Countries Approaching the Challenge of Regulating Cryptocurrencies?",
+                        "og:site_name": "BRINK \u2013 Conversations and Insights on Global Business",
+                        "og:title": "How Are Different Countries Approaching the Challenge of Regulating Cryptocurrencies?",
+                        "msapplication-tileimage": "https://www.brinknews.com/wp-content/uploads/2014/11/brink-favicon-152-144x144-c-center.png",
+                        "og:description": "Regulators around the world are still grappling with how to treat cryptocurrencies and the underlying blockchain technology.",
+                        "twitter:image": "https://www.brinknews.com/wp-content/uploads/2019/05/GettyImages-806924788.jpg",
+                        "twitter:site": "@BrinkNewsNow",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Regulators around the world are still grappling with how to treat cryptocurrencies and the underlying blockchain technology.",
+                        "og:url": "https://www.brinknews.com/how-are-different-countries-approaching-the-challenge-of-regulating-blockchain/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.brinknews.com/wp-content/uploads/2019/05/GettyImages-806924788.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto is fully banned in China and 8 other countries | Fortune",
+            "htmlTitle": "Crypto is fully banned in China and 8 other countries | Fortune",
+            "link": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "displayLink": "fortune.com",
+            "snippet": "Jan 4, 2022 ... ... said he wants to impose more regulation on digital currencies. Gensler hired a senior adviser specializing in cryptocurrency last week.",
+            "htmlSnippet": "Jan 4, 2022 <b>...</b> ... said he wants to impose more <b>regulation</b> on digital currencies. Gensler hired a senior adviser specializing in <b>cryptocurrency</b> last week.",
+            "cacheId": "lfbgE8feDlAJ",
+            "formattedUrl": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "htmlFormattedUrl": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzcZxQQf1qHKsCP5GFgbFDoRX8r7zOQfiPFPSjZU8p7YTjO2999hUgWag",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto is fully banned in China and 8 other countries",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+                        "og:title": "Crypto is fully banned in China and 8 other countries",
+                        "og:description": "Nine countries have banned digital currencies outright in recent years, but dozens more have banned it implicitly.",
+                        "og:height": "683",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Nine countries have banned digital currencies outright in recent years, but dozens more have banned it implicitly.",
+                        "og:url": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

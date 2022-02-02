@@ -1,0 +1,556 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SPAIN",
+                "totalResults": "807000",
+                "searchTerms": "SPAIN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SPAIN",
+                "totalResults": "807000",
+                "searchTerms": "SPAIN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.277843,
+        "formattedSearchTime": "0.28",
+        "totalResults": "807000",
+        "formattedTotalResults": "807,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Spain enacts first legislation to regulate cryptocurrencies | White ...",
+            "htmlTitle": "<b>Spain</b> enacts first legislation to <b>regulate cryptocurrencies</b> | White ...",
+            "link": "https://www.whitecase.com/publications/alert/spain-enacts-first-legislation-regulate-cryptocurrencies",
+            "displayLink": "www.whitecase.com",
+            "snippet": "Nov 23, 2021 ... On 21 October this year, the Bank of Spain created the registry where service providers for both the exchange of virtual currency for fiat\u00a0...",
+            "htmlSnippet": "Nov 23, 2021 <b>...</b> On 21 October this year, the Bank of <b>Spain</b> created the registry where service providers for both the exchange of virtual currency for fiat&nbsp;...",
+            "cacheId": "9iooMa6Z9AAJ",
+            "formattedUrl": "https://www.whitecase.com/.../spain-enacts-first-legislation-regulate- cryptocurrencies",
+            "htmlFormattedUrl": "https://www.whitecase.com/.../<b>spain</b>-enacts-first-legislation-<b>regulate</b>- <b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGPaIz8FdKK2qTZ0lCyWDAUp7_yxAI_v7EFiOE11mc0-Hlg9KcaP2zQjsj",
+                        "width": "367",
+                        "height": "137"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.whitecase.com/sites/default/files/images/hero/2019/03/clientalert_optioni_hero_1600x600.jpg",
+                        "og:image:width": "1600",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Spain enacts first legislation to regulate cryptocurrencies",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.whitecase.com/publications/alert/spain-enacts-first-legislation-regulate-cryptocurrencies",
+                        "og:title": "Spain enacts first legislation to regulate cryptocurrencies | White & Case LLP",
+                        "og:image:height": "600",
+                        "twitter:image:height": "600",
+                        "og:description": "On 21 October this year, the Bank of Spain created the registry where service providers for both the exchange of virtual currency for fiat currency and the custody of electronic wallets must register, as a result of the approval of Royal Decree-Law 7/2021, of 27 April. The new legislation creates an obligation to register for these service providers whose non-compliance may involve fines of up to EUR 10 million.\n\u00a0",
+                        "twitter:image": "https://www.whitecase.com/sites/default/files/images/hero/2019/03/clientalert_optioni_hero_1600x600.jpg",
+                        "twitter:site": "@WhiteCase",
+                        "twitter:image:width": "1600",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "On 21 October this year, the Bank of Spain created the registry where service providers for both the exchange of virtual currency for fiat currency and the custody of electronic wallets must register, as a result of the approval of Royal Decree-Law 7/2021, of 27 April. The new legislation creates an obligation to register for these service providers whose non-compliance may involve fines of up to EUR 10 million.\n\u00a0",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.whitecase.com/publications/alert/spain-enacts-first-legislation-regulate-cryptocurrencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.whitecase.com/sites/default/files/images/hero/2019/03/clientalert_optioni_hero_1600x600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Spain",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Spain</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/spain",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... The Spanish Criminal Procedure Law does not contain any specific provisions in connection with acts of disposition involving cryptocurrencies.",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> The <b>Spanish</b> Criminal Procedure <b>Law</b> does not contain any specific provisions in connection with acts of disposition involving <b>cryptocurrencies</b>.",
+            "cacheId": "k8Jgooi8gogJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation.../spain",
+            "htmlFormattedUrl": "https://the<b>law</b>reviews.co.uk/title/the-virtual-currency-<b>regulation</b>.../<b>spain</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "Lr7PnimAvGoIdYd6xL2W9KOkOXpNWs4xvHbstFB2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Spain | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Spain</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/spain",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "There is no specific regulation on cryptocurrencies in Spain, except that they cannot be treated as legal tender, which is exclusively reserved for the euro as\u00a0...",
+            "htmlSnippet": "There is no specific <b>regulation</b> on <b>cryptocurrencies</b> in <b>Spain</b>, except that they cannot be treated as legal tender, which is exclusively reserved for the euro as&nbsp;...",
+            "cacheId": "NsoPxVVBS5QJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/spain",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>spain</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Spain chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRga2yFHFQtVMPmZJc_OOa6y1RU4l3qyzv06QMjSqPJSuZ2D8r3BiLAYiy4",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Alfonso L\u00f3pez-Ibor",
+                        "url": "Alfonso L\u00f3pez-Ibor"
+                    },
+                    {
+                        "name": "Olivia L\u00f3pez-Ibor",
+                        "url": "Olivia L\u00f3pez-Ibor"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/GSVypm9tR0XYrKdTQXuIQlqWgWVJ0MOim9xRPphY.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Spain chapter written by Alfonso L\u00f3pez-Ibor - L\u00f3pez-Ibor Abogados and Olivia L\u00f3pez-Ibor - L\u00f3pez-Ibor Abogados covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Spain | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Spain chapter written by Alfonso L\u00f3pez-Ibor - L\u00f3pez-Ibor Abogados and Olivia L\u00f3pez-Ibor - L\u00f3pez-Ibor Abogados covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Spain | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/spain"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/GSVypm9tR0XYrKdTQXuIQlqWgWVJ0MOim9xRPphY.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Spanish Cryptoasset Landscape: New Legal Developments towards ...",
+            "htmlTitle": "<b>Spanish</b> Cryptoasset Landscape: New Legal Developments towards ...",
+            "link": "https://financialinstitutions.bakermckenzie.com/2021/05/19/spanish-cryptoasset-landscape-new-legal-developments-towards-a-more-regulated-sector/",
+            "displayLink": "financialinstitutions.bakermckenzie.com",
+            "snippet": "May 19, 2021 ... Crypto-assets, cryptocurrencies and/or related service providers have not been traditionally regulated in Spain. These products or services\u00a0...",
+            "htmlSnippet": "May 19, 2021 <b>...</b> Crypto-assets, <b>cryptocurrencies</b> and/or related service providers have not been traditionally <b>regulated</b> in <b>Spain</b>. These products or services&nbsp;...",
+            "cacheId": "flmoWoLJ-YkJ",
+            "formattedUrl": "https://financialinstitutions.bakermckenzie.com/.../spanish-cryptoasset- landscape-new-legal-developments-towards-a-more-regulated-sector/",
+            "htmlFormattedUrl": "https://financialinstitutions.bakermckenzie.com/.../<b>spanish</b>-cryptoasset- landscape-new-legal-developments-towards-a-more-<b>regulated</b>-sector/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKu4X70hPnPwacXdyJzTKKLsB0FEDyXpA0jA4_EVjitDhWzF2uaxCCcv8",
+                        "width": "256",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://financialinstitutions.bakermckenzie.com/wp-content/uploads/sites/22/2021/04/Crypto-around-the-World-FI-Hub.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-05-19T05:58:13+00:00",
+                        "og:image:width": "2080",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Financial Institutions Hub",
+                        "og:title": "Spanish Cryptoasset Landscape: New Legal Developments towards a More Regulated Sector",
+                        "og:image:height": "1599",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Crypto-assets, cryptocurrencies and/or related service providers have not been traditionally regulated in Spain. These products or services have only been captured to the extent they were embedded in other financial products (e.g. funds or derivatives) or in case they could qualify as a financial instruments directly (e.g. security tokens).",
+                        "twitter:creator": "@bakermckenzie",
+                        "twitter:data1": "vronquillo",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@bakermckenzie",
+                        "article:modified_time": "2021-05-19T08:03:56+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://financialinstitutions.bakermckenzie.com/2021/05/19/spanish-cryptoasset-landscape-new-legal-developments-towards-a-more-regulated-sector/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://financialinstitutions.bakermckenzie.com/wp-content/uploads/sites/22/2021/04/Crypto-around-the-World-FI-Hub.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Spain and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Spain</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman <b>Law</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/spain/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "In Spain, cryptocurrency is largely unregulated because cryptocurrencies are not financial instruments under Spanish law. However, amendments to the Spanish\u00a0...",
+            "htmlSnippet": "In <b>Spain</b>, <b>cryptocurrency</b> is largely unregulated because <b>cryptocurrencies</b> are not financial instruments under <b>Spanish law</b>. However, amendments to the <b>Spanish</b>&nbsp;...",
+            "cacheId": "caooY9fpCEIJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/spain/",
+            "htmlFormattedUrl": "https://freeman<b>law</b>.com/<b>cryptocurrency</b>/<b>spain</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQehTlW24Tv2_oF6U47S1jVCQymlBsFNXzmtRUEfcC8nB_l3EmGtgbjhV8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494156-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:43:48+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/spain/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494156-scaled.jpeg",
+                        "og:description": "Is cryptocurrency legal in Spain? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "12 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494156-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494156-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:19:37+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/guernsey/",
+                        "og:type": "article",
+                        "og:image:alt": "Spain bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Spain and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Spain and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:19:37+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Spain and Cryptocurrency Spain Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology ICOs While there is no Spanish legislation that specifically addresses cryptocurrency coin offerings, ICOs may nevertheless fall under Spain\u2019s general securities...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/spain/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494156-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Variables Influencing Cryptocurrency Use: A Technology ... - Frontiers",
+            "htmlTitle": "Variables Influencing Cryptocurrency Use: A Technology ... - Frontiers",
+            "link": "https://www.frontiersin.org/articles/438810",
+            "displayLink": "www.frontiersin.org",
+            "snippet": "Mar 18, 2019 ... The research was conducted in Spain with college-educated adults with ... control (how easy or difficult it is to use cryptocurrencies) are\u00a0...",
+            "htmlSnippet": "Mar 18, 2019 <b>...</b> The research was conducted in <b>Spain</b> with college-educated adults with ... <b>control</b> (how easy or difficult it is to use <b>cryptocurrencies</b>) are&nbsp;...",
+            "cacheId": "lAAvgkGRqxYJ",
+            "formattedUrl": "https://www.frontiersin.org/articles/438810",
+            "htmlFormattedUrl": "https://www.frontiersin.org/articles/438810",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JpZOpB1HwBdgDIyfFt1DfyAR9yvlEWAz2ZFPNAfmKnvkyzLj-wpFBkU",
+                        "width": "304",
+                        "height": "166"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "Cryptocurrencies; Blockchain; Initial Coin Offering; ICO; FinTech; bitcoin",
+                        "og:image": "https://www.frontiersin.org/files/MyHome%20Article%20Library/438810/438810_Thumb_400.jpg",
+                        "og:type": "article",
+                        "citation_title": "Variables Influencing Cryptocurrency Use: A Technology Acceptance Model in Spain",
+                        "citation_author_institution": "Department of Business Management, Rovira i Virgili University, Spain",
+                        "citation_journal_abbrev": "Front. Psychol.",
+                        "citation_publisher": "Frontiers",
+                        "citation_journal_title": "Frontiers in Psychology",
+                        "citation_abstract": "The first commercial transaction with the first cryptocurrency in 2010 marked the start of a revolution in transactions. Blockchain and cryptocurrencies will dramatically transform transactions, just as the Internet revolutionized how we communicate. Currently, more than 2,000 cryptocurrencies are quoted on the market, and many more are being launched in Initial Coin Offerings (ICOs) for use as an exchange method in a specific business ecosystem or as rights to assets or liabilities. As an emerging fintech, cryptocurrencies open up many opportunities, but they also pose significant challenges and limitations. This paper analyzes the key factors for the successful development of a cryptocurrency from a consumer-behavior perspective. Using a technology acceptance theoretical framework, we test a model able to explain almost 85% of the intention to use cryptocurrencies. Surprisingly, risk was not a significant factor. This could be because most of the respondents considered operating with cryptocurrencies to be ",
+                        "citation_author": "Arias-Oliva, Mario",
+                        "citation_pages": "475",
+                        "citation_date": "2019",
+                        "title": "Variables Influencing Cryptocurrency Use: A Technology Acceptance Model in Spain",
+                        "url": "https://www.frontiersin.org/article/10.3389/fpsyg.2019.00475/full",
+                        "citation_online_date": "0001/01/01",
+                        "site_name": "Frontiers",
+                        "citation_issn": "1664-1078",
+                        "frontiers:type": "Article",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "citation_doi": "10.3389/fpsyg.2019.00475",
+                        "citation_language": "English",
+                        "dc.identifier": "doi:10.3389/fpsyg.2019.00475",
+                        "citation_volume": "0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.frontiersin.org/files/MyHome%20Article%20Library/438810/438810_Thumb_400.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Spain and Singapore Tighten Cryptocurrency Promotion Rules",
+            "htmlTitle": "<b>Spain</b> and Singapore Tighten <b>Cryptocurrency</b> Promotion Rules",
+            "link": "https://www.adweek.com/brand-marketing/spain-and-singapore-tighten-cryptocurrency-promotion-rules/",
+            "displayLink": "www.adweek.com",
+            "snippet": "7 days ago ... With the crypto-sector lacking strict regulation, other countries including the U.K. have introduced measures to protect consumers.",
+            "htmlSnippet": "7 days ago <b>...</b> With the crypto-sector lacking strict <b>regulation</b>, other countries including the U.K. have introduced measures to protect consumers.",
+            "cacheId": "7lBO7Zm7GUwJ",
+            "formattedUrl": "https://www.adweek.com/.../spain-and-singapore-tighten-cryptocurrency- promotion-rules/",
+            "htmlFormattedUrl": "https://www.adweek.com/.../<b>spain</b>-and-singapore-tighten-<b>cryptocurrency</b>- promotion-rules/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0oy6VaK7BDQFcybNiJmrscecP19eDk-FzS_0EhQDQMLxhVv_Rtbqz4CHQ",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.adweek.com/wp-content/uploads/2022/01/Andre-francois-mckenzie-2022-600x315.jpg",
+                        "apple-itunes-app": "app-id=570229326",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Spain and Singapore Tighten Cryptocurrency Promotion Rules",
+                        "og:type": "article",
+                        "theme-color": "#000",
+                        "lytics:topics": "aw:blockchain,aw:fin-tech",
+                        "og:title": "Spain and Singapore Tighten Cryptocurrency Promotion Rules",
+                        "msapplication-tileimage": "https://www.adweek.com/wp-content/uploads/2020/08/246x0w.png",
+                        "twitter:creator": "stephenlepitak",
+                        "fb:pages": "126756847074",
+                        "twitter:image": "https://www.adweek.com/wp-content/uploads/2022/01/Andre-francois-mckenzie-2022-600x315.jpg",
+                        "fb:app_id": "329778260413541",
+                        "aw_client_ip": "66.249.65.161, 152.195.124.210",
+                        "twitter:site": "@adweek",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "With the crypto-sector lacking strict regulation, other countries including the U.K. have introduced measures to protect consumers",
+                        "fb:admins": "34404791,617231194",
+                        "og:url": "https://www.adweek.com/brand-marketing/spain-and-singapore-tighten-cryptocurrency-promotion-rules/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.adweek.com/wp-content/uploads/2022/01/Andre-francois-mckenzie-2022-600x315.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Workplace Requirements, SPAIN",
+            "htmlTitle": "Workplace Requirements, <b>SPAIN</b>",
+            "link": "https://www.bakerlaw.com/webfiles/Litigation/2018/Articles/03-06-18-Jehl-Bennett-RCCE.pdf",
+            "displayLink": "www.bakerlaw.com",
+            "snippet": "Mar 6, 2018 ... A Guide to U.S. Regulation of Cryptocurrencies and Cryptocurrency Exchanges. By Laura E. Jehl and Melonia Bennett. Baker & Hostetler LLP.",
+            "htmlSnippet": "Mar 6, 2018 <b>...</b> A Guide to U.S. <b>Regulation of Cryptocurrencies</b> and <b>Cryptocurrency</b> Exchanges. By Laura E. Jehl and Melonia Bennett. Baker &amp; Hostetler LLP.",
+            "cacheId": "b9xPISLktNgJ",
+            "formattedUrl": "https://www.bakerlaw.com/webfiles/.../03-06-18-Jehl-Bennett-RCCE.pdf",
+            "htmlFormattedUrl": "https://www.baker<b>law</b>.com/webfiles/.../03-06-18-Jehl-Bennett-RCCE.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTekcZZjowBCDuuVbtLk1rZq5_DuumhwY28sGNQxg48hpZxIycxYu5HrYZQ",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180228124623-05'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "creationdate": "D:20180228124623-05'00'",
+                        "author": "Ruskin, Matthew",
+                        "producer": "Microsoft\u00ae Word 2013",
+                        "title": "Workplace Requirements, SPAIN"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///709e5c6170f2568ed4250822264e74ba2f7db3fb8eee0eb2cfa433e80ae807fc"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulatory sandbox and DeFi boom: How Spain pushed crypto ...",
+            "htmlTitle": "<b>Regulatory</b> sandbox and DeFi boom: How <b>Spain</b> pushed crypto ...",
+            "link": "https://cointelegraph.com/news/regulatory-sandbox-and-defi-boom-how-spain-pushed-crypto-adoption-despite-the-pandemic",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jan 30, 2021 ... The adoption of cryptocurrencies in Spain has continued to grow in 2020. Besides, as far as Bitcoin ATMs are concerned, Spain ranks in the top\u00a0...",
+            "htmlSnippet": "Jan 30, 2021 <b>...</b> The adoption of <b>cryptocurrencies</b> in <b>Spain</b> has continued to grow in 2020. Besides, as far as Bitcoin ATMs are concerned, <b>Spain</b> ranks in the top&nbsp;...",
+            "formattedUrl": "https://cointelegraph.com/.../regulatory-sandbox-and-defi-boom-how-spain- pushed-crypto-adoption-despite-the-pandemic",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>regulatory</b>-sandbox-and-defi-boom-how-<b>spain</b>- pushed-crypto-adoption-despite-the-pandemic",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaElRZHbjA1sRHjPMaRhbQymqtOcawHwxbD3e8jQFLFRH-v3K-pZp57pc",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTIvNGJmZjJhZmMtYzc4Ni00YjI0LThkMTItMjgzNzZkYzA0NTg2LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulatory sandbox and DeFi boom: How Spain pushed crypto adoption despite the pandemic",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Regulatory sandbox and DeFi boom: How Spain pushed crypto adoption despite the pandemic",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Spain managed to push crypto adoption in 2020 as well as important regulatory updates for the fintech industry.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTIvNGJmZjJhZmMtYzc4Ni00YjI0LThkMTItMjgzNzZkYzA0NTg2LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Spain managed to push crypto adoption in 2020 as well as important regulatory updates for the fintech industry.",
+                        "og:url": "https://cointelegraph.com/news/regulatory-sandbox-and-defi-boom-how-spain-pushed-crypto-adoption-despite-the-pandemic"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTIvNGJmZjJhZmMtYzc4Ni00YjI0LThkMTItMjgzNzZkYzA0NTg2LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Spain | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Spain</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/spain",
+            "displayLink": "iclg.com",
+            "snippet": "Regarding cryptocurrencies, Spain has not yet regulated this sector as it awaits MiCA to be approved. Therefore, for now, cryptocurrencies are neither\u00a0...",
+            "htmlSnippet": "Regarding <b>cryptocurrencies</b>, <b>Spain</b> has not yet <b>regulated</b> this sector as it awaits MiCA to be approved. Therefore, for now, <b>cryptocurrencies</b> are neither&nbsp;...",
+            "cacheId": "ZFhFX7IBbi4J",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/spain",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>spain</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnRjx7W_ctcsxMT4Y6jhCuWp-frEGCfRicilQHGbBc_XRLPbdth4xubata",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/Ow2fjypeZXp8AZyWqFDsNcqP8KX424esw24k0b5g.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Spain of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/Ow2fjypeZXp8AZyWqFDsNcqP8KX424esw24k0b5g.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "Co6f6avuN2nNFm9TTcr95tsc2qvCrK34zjjfbDOb",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Spain |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Spain |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Spain |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Spain of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent, Technology",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/spain",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/Ow2fjypeZXp8AZyWqFDsNcqP8KX424esw24k0b5g.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

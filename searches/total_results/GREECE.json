@@ -1,0 +1,492 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - GREECE",
+                "totalResults": "630000",
+                "searchTerms": "GREECE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - GREECE",
+                "totalResults": "630000",
+                "searchTerms": "GREECE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.453287,
+        "formattedSearchTime": "0.45",
+        "totalResults": "630000",
+        "formattedTotalResults": "630,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Regulatory and Tax regime of Cryptocurrencies in Greece ...",
+            "htmlTitle": "The <b>Regulatory</b> and Tax regime of <b>Cryptocurrencies</b> in <b>Greece</b> ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=29e60be2-354b-412d-9dc7-efa10bf5ba84",
+            "displayLink": "www.lexology.com",
+            "snippet": "Oct 7, 2021 ... Despite this emergence and its potential impact on the financial industry, Greece has not adopted a specific regulatory regime applicable to\u00a0...",
+            "htmlSnippet": "Oct 7, 2021 <b>...</b> Despite this emergence and its potential impact on the financial industry, <b>Greece</b> has not adopted a specific <b>regulatory</b> regime applicable to&nbsp;...",
+            "cacheId": "m33Tex5Vu6wJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=29e60be2-354b-412d...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=29e60be2-354b-412d...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "The Regulatory and Tax regime of Cryptocurrencies in Greece",
+                        "workarea": "Banking",
+                        "jurisdiction": "Greece",
+                        "dc.date": "2021-10-07",
+                        "firmname": "Rokas Law Firm",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=29e60be2-354b-412d-9dc7-efa10bf5ba84",
+                        "og:description": "Cryptocurrencies (CCs) have emerged as a prominent feature of the global financial system as, over the years, both the overall\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chambers and Partners - Comparisons | Global Practice Guides",
+            "htmlTitle": "Chambers and Partners - Comparisons | Global Practice Guides",
+            "link": "https://practiceguides.chambers.com/practice-guides/comparison/640/6887/11260-11264-11274-11280-11287-11292-11295-11299-11302",
+            "displayLink": "practiceguides.chambers.com",
+            "snippet": "Jun 17, 2021 ... The mining of cryptocurrencies is not regulated in Greece. In practice, no considerable cryptocurrency mining activity takes place in Greece,\u00a0...",
+            "htmlSnippet": "Jun 17, 2021 <b>...</b> The mining of <b>cryptocurrencies</b> is not <b>regulated</b> in <b>Greece</b>. In practice, no considerable <b>cryptocurrency</b> mining activity takes place in <b>Greece</b>,&nbsp;...",
+            "cacheId": "pt2tHG-RhS0J",
+            "formattedUrl": "https://practiceguides.chambers.com/.../11260-11264-11274-11280-11287- 11292-11295-11299-11302",
+            "htmlFormattedUrl": "https://practiceguides.chambers.com/.../11260-11264-11274-11280-11287- 11292-11295-11299-11302",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8VlqgP9ZNDb4DZ536gjmSoxqBuCe14NRZfXl6uKfvkTWTt_IhndX8W-M",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://chambersandpartners.azureedge.net/practiceguides/Pictures/208/27666.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Greece | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Greece</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/greece",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Greece for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Greece</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "Z1zHQJMQP2MJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/greece",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>greece</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Greece for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Greece | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Greece for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Greece | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/greece"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... The regulatory regime surrounding cryptocurrencies is ... Greece has joined the European Blockchain Partnership.",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> The <b>regulatory</b> regime surrounding <b>cryptocurrencies</b> is ... <b>Greece</b> has joined the European Blockchain Partnership.",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Will Cryptocurrencies Preserve Their Popularity in Greece? Expert ...",
+            "htmlTitle": "Will <b>Cryptocurrencies</b> Preserve Their Popularity in <b>Greece</b>? Expert ...",
+            "link": "https://cointelegraph.com/news/will-cryptocurrencies-preserve-their-popularity-in-greece-expert-take",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jul 4, 2018 ... What Greek tax professionals say about Greek cryptocurrency tax policy and laws ... \u201cCurrently there is no regulatory framework and relevant\u00a0...",
+            "htmlSnippet": "Jul 4, 2018 <b>...</b> What <b>Greek</b> tax professionals say about <b>Greek cryptocurrency</b> tax policy and <b>laws</b> ... \u201cCurrently there is no <b>regulatory</b> framework and relevant&nbsp;...",
+            "cacheId": "5yVO0FYbvdYJ",
+            "formattedUrl": "https://cointelegraph.com/.../will-cryptocurrencies-preserve-their-popularity- in-greece-expert-take",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../will-<b>cryptocurrencies</b>-preserve-their-popularity- in-<b>greece</b>-expert-take",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_VbGyfajez1bR8cjC3MAYweaXUp6Ngfu5PVgGFztcAZC_K795QODwUL4l",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNzFjZjY2OGIyYjc4YThkNDM0ODdkYmNiYzBhYmU2YS5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Will Cryptocurrencies Preserve Their Popularity in Greece? Expert Take",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Will Cryptocurrencies Preserve Their Popularity in Greece? Expert Take",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "After the historical debt deal, does Greece still need crypto?",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNzFjZjY2OGIyYjc4YThkNDM0ODdkYmNiYzBhYmU2YS5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "After the historical debt deal, does Greece still need crypto?",
+                        "og:url": "https://cointelegraph.com/news/will-cryptocurrencies-preserve-their-popularity-in-greece-expert-take"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNzFjZjY2OGIyYjc4YThkNDM0ODdkYmNiYzBhYmU2YS5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A global legal and regulatory guide to cryptocurrencies | Greece ...",
+            "htmlTitle": "A global legal and <b>regulatory</b> guide to <b>cryptocurrencies</b> | <b>Greece</b> ...",
+            "link": "https://www.nortonrosefulbright.com/en-gr/knowledge/publications/8af90698/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-3",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "The legal nature of cryptocurrency is, in most jurisdictions, yet to be determined by statute, regulation or case law.",
+            "htmlSnippet": "The legal nature of <b>cryptocurrency</b> is, in most jurisdictions, yet to be determined by statute, <b>regulation</b> or case law.",
+            "cacheId": "-ZAzOCZVtBQJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-regulatory-guide- to-cryptocurrencies---chapter-3",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-<b>regulatory</b>-guide- to-<b>cryptocurrencies</b>---chapter-3",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyWwmIVeXb48QkspBIIf6iYmYuPVojwZTLN8XjGsGP13TbMRTdMwxLW5c",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision=",
+                        "og:type": "article",
+                        "og:title": "A global legal and regulatory guide to cryptocurrencies - Chapter 3",
+                        "dc.format": "text/html",
+                        "dc.date.created": "08/08/2018 21:02:20",
+                        "og:description": "The legal nature of cryptocurrency is, in most jurisdictions, yet to be determined by statute, regulation or case law.",
+                        "nrf-mac": "NRFPRDCD1",
+                        "dc.source": "https://www.nortonrosefulbright.com/en-gr/knowledge/publications/imported/2018/08/08/20",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "dc.title": "A global legal and regulatory guide to cryptocurrencies | Chapter 1: An introduction to cryptocurrencies | Global law firm | Norton Rose Fulbright",
+                        "dc.date.modified": "11/01/2018 00:14:50",
+                        "dc.language": "en-GR",
+                        "og:url": "https://www.nortonrosefulbright.com/en-gr/knowledge/publications/8af90698/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-3"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision="
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Greece and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Greece</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/greece/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Greece Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. The Greeks frantically turned to online\u00a0...",
+            "htmlSnippet": "<b>Greece Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. The Greeks frantically turned to online&nbsp;...",
+            "cacheId": "PfaiqQB2I2EJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/greece/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>greece</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkG23Dfwsp6wM3INwBrkq6BxdOhsZCx_ZiOmLiquIBDKioEzBzEsosEHa",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_140324589-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:34:56+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/greece/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Greece? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_140324589-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_140324589-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:02+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency Attorney",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Greece and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Greece and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:06:02+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Greece and Cryptocurrency Greece Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology The Greeks frantically turned to online trading platforms in search of Bitcoin during the doldrums of debt crisis in 2015, when banks began shutting down and...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/greece/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_140324589-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CONVENTION AND PROTOCOL BETWEEN THE UNITED STATES ...",
+            "htmlTitle": "CONVENTION AND PROTOCOL BETWEEN THE UNITED STATES ...",
+            "link": "https://www.irs.gov/pub/irs-trty/greece.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "d) The term \"Greek Corporation\" means a legal entity established under the laws of Greece. e) The terms \"corporations of one Contracting State\" and \u201ccorporation\u00a0...",
+            "htmlSnippet": "d) The term &quot;<b>Greek</b> Corporation&quot; means a legal entity established under the <b>laws</b> of <b>Greece</b>. e) The terms &quot;corporations of one Contracting State&quot; and \u201ccorporation&nbsp;...",
+            "cacheId": "O3Q0MO5ZHTkJ",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/greece.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>greece</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYipSUCMjFQ4H-3tDs8hS9KUoj2jbPPfFMI-pqkg5zQ-5Tkrp2xmhSYwHW",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802101100-04'00'",
+                        "creationdate": "D:20000322090531Z",
+                        "creator": "Microsoft Word - GREECEWEB",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "GREECEWEB.PDF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///a1ba18ad14724d0cbbc2587e20b6cd47cd4b35a866d63ac7ba2a130ce900ffbd"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The use of bitcoin is not regulated in Cyprus. : Cyprus. Greece \u00b7 Yes check.svg Legal. No\u00a0...",
+            "htmlSnippet": "The use of bitcoin is not <b>regulated</b> in Cyprus. <sup>: Cyprus</sup>. <b>Greece</b> &middot; Yes check.svg Legal. No&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Will cryptocurrencies preserve their popularity in GR? - KPMG Greece",
+            "htmlTitle": "Will <b>cryptocurrencies</b> preserve their popularity in GR? - KPMG <b>Greece</b>",
+            "link": "https://home.kpmg/gr/en/home/insights/2018/07/will-cryptocurrencies-preserve-their-popularity-in-greece.html",
+            "displayLink": "home.kpmg",
+            "snippet": "Jul 4, 2018 ... To sum up, any income which derives from crypto/ICO transactions cannot currently be taxed, because there is no such regulatory framework and\u00a0...",
+            "htmlSnippet": "Jul 4, 2018 <b>...</b> To sum up, any income which derives from crypto/ICO transactions cannot currently be taxed, because there is no such <b>regulatory</b> framework and&nbsp;...",
+            "cacheId": "QglAVxMQyk4J",
+            "formattedUrl": "https://home.kpmg/.../will-cryptocurrencies-preserve-their-popularity-in- greece.html",
+            "htmlFormattedUrl": "https://home.kpmg/.../will-<b>cryptocurrencies</b>-preserve-their-popularity-in- <b>greece</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdZXw-QJzpF6PFd9bTnPCX81D9Ap8KE57S9QliLIxYNQjmANbDyBIzmn2g",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.kpmg/is/image/kpmg/danove-a-pravni-aktuality-vizual:cq5dam.web.1200.630",
+                        "msapplication-config": "/etc/designs/default/kpmg/favicons/browserconfig.xml",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#00338D",
+                        "og:site_name": "KPMG",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "/etc/designs/default/kpmg/favicons/mstile-144x144.png",
+                        "og:description": "Interview of Spyros Dimitriou, Lawyer / Senior Manager, Tax, KPMG at cointelegraph.com",
+                        "twitter:creator": "@KPMG",
+                        "twitter:image": "https://assets.kpmg/is/image/kpmg/danove-a-pravni-aktuality-vizual:cq5dam.web.1200.630",
+                        "twitter:site": "@KPMG",
+                        "msapplication-tilecolor": "#00338D",
+                        "dc.description": "Interview of Spyros Dimitriou, Lawyer, at cointelegraph.com",
+                        "og:type": "website",
+                        "twitter:title": "Will cryptocurrencies preserve their popularity in Gree",
+                        "author": "Georgia Stamatelou",
+                        "og:title": "Will cryptocurrencies preserve their popularity in Gree",
+                        "abstract": "Interview of Spyros Dimitriou, Lawyer, at cointelegraph.com",
+                        "dc.date": "2019-09-02",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=1.0",
+                        "twitter:description": "Interview of Spyros Dimitriou, Lawyer / Senior Manager, Tax, KPMG at cointelegraph.com",
+                        "og:locale": "en",
+                        "dc.title": "Will cryptocurrencies preserve their popularity in Greece? - KPMG Greece",
+                        "dc.language": "en-US",
+                        "og:url": "https://home.kpmg/gr/en/home/insights/2018/07/will-cryptocurrencies-preserve-their-popularity-in-greece.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.kpmg/is/image/kpmg/danove-a-pravni-aktuality-vizual:cq5dam.web.1200.630"
+                    }
+                ]
+            }
+        }
+    ]
+}

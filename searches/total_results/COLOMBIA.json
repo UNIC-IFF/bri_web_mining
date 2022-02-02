@@ -1,0 +1,551 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - COLOMBIA",
+                "totalResults": "688000",
+                "searchTerms": "COLOMBIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - COLOMBIA",
+                "totalResults": "688000",
+                "searchTerms": "COLOMBIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.379472,
+        "formattedSearchTime": "0.38",
+        "totalResults": "688000",
+        "formattedTotalResults": "688,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Colombia and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Colombia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/colombia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Mar 15, 2021 ... In Colombia, cryptocurrencies are not taxed as \u201cmoney\u201d under the country's legal standards. The tax model in Colombia is similar to Spain's tax\u00a0...",
+            "htmlSnippet": "Mar 15, 2021 <b>...</b> In <b>Colombia</b>, <b>cryptocurrencies</b> are not taxed as \u201cmoney\u201d under the country&#39;s legal standards. The tax model in <b>Colombia</b> is similar to Spain&#39;s tax&nbsp;...",
+            "cacheId": "Yvvv4Ale4VkJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/colombia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>colombia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKFoZ5UI1wcDCpzDNNGMJzTQshK_PiU-ECytOi5ZjYLwFU1AEsJqzkamph",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Colombia-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-03-16T03:35:32+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/colombia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Colombia? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "4 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Colombia-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Colombia-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:45+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Colombia cryptocurrency",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Colombia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Colombia and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:05:45+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Colombia and Cryptocurrency Colombia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Colombia's restrictive legal environment towards virtual currencies suggests it is challenging to operate a cryptocurrency business within the country. The...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/colombia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Colombia-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Colombia: Cryptocurrency regulation review | International Financial ...",
+            "htmlTitle": "<b>Colombia</b>: <b>Cryptocurrency regulation</b> review | International Financial ...",
+            "link": "https://www.iflr.com/article/b1lp1wlxghm6ty/colombia-cryptocurrency-regulation-review",
+            "displayLink": "www.iflr.com",
+            "snippet": "Jul 16, 2018 ... In line with most legal systems, Colombia does not any have precise regulations on virtual currency transactions, nor does it provide\u00a0...",
+            "htmlSnippet": "Jul 16, 2018 <b>...</b> In line with most legal systems, <b>Colombia</b> does not any have precise <b>regulations</b> on virtual currency transactions, nor does it provide&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/article/.../colombia-cryptocurrency-regulation-review",
+            "htmlFormattedUrl": "https://www.iflr.com/article/.../<b>colombia</b>-<b>cryptocurrency</b>-<b>regulation</b>-review",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-eaBtGwW0ujMNGcQM27zASi2FoVEesO42wYTSMhYi1AvTtqZJFtjvmw",
+                        "width": "100",
+                        "height": "120"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Facebook/share-image-generic",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Colombia: Cryptocurrency regulation review",
+                        "msapplication-square70x70logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "Colombia: Cryptocurrency regulation review",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "Colombia: Cryptocurrency regulation review",
+                        "msapplication-square150x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Twitter/share-card.png",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://cdn.iflr.com/Media/images/iflr/july-18/Fradique-Mendez.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech 2021 | Laws and Regulations | Colombia | ICLG",
+            "htmlTitle": "Fintech 2021 | <b>Laws</b> and <b>Regulations</b> | <b>Colombia</b> | ICLG",
+            "link": "https://iclg.com/practice-areas/fintech-laws-and-regulations/colombia",
+            "displayLink": "iclg.com",
+            "snippet": "There are no specific regulations regarding the use or issuance of cryptocurrencies or cryptoassets in Colombia. A bill for fintech companies in general and\u00a0...",
+            "htmlSnippet": "There are no specific <b>regulations</b> regarding the use or issuance of <b>cryptocurrencies</b> or cryptoassets in <b>Colombia</b>. A bill for fintech companies in general and&nbsp;...",
+            "cacheId": "20mDN7l699sJ",
+            "formattedUrl": "https://iclg.com/practice-areas/fintech-laws-and-regulations/colombia",
+            "htmlFormattedUrl": "https://iclg.com/practice-areas/fintech-<b>laws</b>-and-<b>regulations</b>/<b>colombia</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgsGOlM7ibaGHsqGiiONQFACtCXrygX7BQonM9R0H0djIHydOe5NMDhPCy",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://iclg.com/uploads/publications/socialmedia/dsRdYCtjPYb6EcpLGPY3M6c7MsmoOHzMkis5a3Ni.png",
+                        "theme-color": "#ff6d00",
+                        "twitter:card": "summary",
+                        "og:site_name": "International Comparative Legal Guides International Business Reports",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://glghub.com/theme/assets/favicon/iclg/ms-icon-144x144.png?t=201909180753",
+                        "og:description": "Fintech Laws and Regulations covering issues in Colombia of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "twitter:creator": "@ICLG_GLG",
+                        "twitter:image": "https://iclg.com/uploads/publications/socialmedia/dsRdYCtjPYb6EcpLGPY3M6c7MsmoOHzMkis5a3Ni.png",
+                        "twitter:site": "@ICLG_GLG",
+                        "dc.type": "Text",
+                        "csrf-token": "dERFhzukvGNZqXRyz7HXcsqmbVX5PP0PuPGNGw9T",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:type": "website",
+                        "twitter:title": "Fintech 2021 |  Laws and Regulations | Colombia |  ICLG",
+                        "dc.description": "Fintech 2021 |  Laws and Regulations | Colombia |  ICLG",
+                        "msvalidate.01": "09B13C510479B126F47BDE597678AA76",
+                        "author": "Global Legal Group",
+                        "og:title": "Fintech 2021 |  Laws and Regulations | Colombia |  ICLG",
+                        "dc.coverage": "United Kingdom",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                        "twitter:description": "Fintech Laws and Regulations covering issues in Colombia of The Fintech Landscape, Funding for Fintech, Fintech Regulation, Accessing Talent",
+                        "og:locale": "en_GB",
+                        "dc.title": "International Comparative Legal Guides",
+                        "dc.identifier": "https://iclg.com",
+                        "og:url": "https://iclg.com/practice-areas/fintech-laws-and-regulations/colombia",
+                        "publish_date": "1970-01-01T11:00:00+0000"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://iclg.com/uploads/publications/socialmedia/dsRdYCtjPYb6EcpLGPY3M6c7MsmoOHzMkis5a3Ni.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrencies in Colombia | Negocios en Colombia ...",
+            "htmlTitle": "<b>Regulation of cryptocurrencies</b> in <b>Colombia</b> | Negocios en <b>Colombia</b> ...",
+            "link": "https://abusaidgomez.com/en/regulation-of-cryptocurrencies-in-colombia/",
+            "displayLink": "abusaidgomez.com",
+            "snippet": "Jun 10, 2021 ... In Colombia, there is no legislation issued by the Congress of the Republic which specifically regulates cryptocurrencies, although there have\u00a0...",
+            "htmlSnippet": "Jun 10, 2021 <b>...</b> In <b>Colombia</b>, there is no legislation issued by the Congress of the Republic which specifically regulates <b>cryptocurrencies</b>, although there have&nbsp;...",
+            "cacheId": "3-wmmnsEZaEJ",
+            "formattedUrl": "https://abusaidgomez.com/en/regulation-of-cryptocurrencies-in-colombia/",
+            "htmlFormattedUrl": "https://abusaidgomez.com/en/<b>regulation-of-cryptocurrencies</b>-in-<b>colombia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rnYoD7efpzCyGjocEqt-9sKqWBu2Kya4uRg2lGCYMNFc0Xdi_Dd9eL4",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "msapplication-tileimage": "https://abusaidgomez.com/wp-content/uploads/2021/05/favicong.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://abusaidgomez.com/wp-content/uploads/2021/06/Regulacion-de-criptomonedas-en-Colombia.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Colombia's Crypto Use Soars, and Local Regulators Step In ...",
+            "htmlTitle": "<b>Colombia&#39;s</b> Crypto Use Soars, and Local Regulators Step In ...",
+            "link": "https://www.coindesk.com/policy/2021/04/30/colombias-crypto-use-soars-and-local-regulators-step-in/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Apr 30, 2021 ... \u201cThe correct thing to do is gather data and implement regulations incrementally as required. The position of the Colombian government regarding\u00a0...",
+            "htmlSnippet": "Apr 30, 2021 <b>...</b> \u201cThe correct thing to do is gather data and implement <b>regulations</b> incrementally as required. The position of the <b>Colombian</b> government regarding&nbsp;...",
+            "cacheId": "CilThHhdndAJ",
+            "formattedUrl": "https://www.coindesk.com/.../colombias-crypto-use-soars-and-local- regulators-step-in/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>colombias</b>-crypto-use-soars-and-local- regulators-step-in/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_GiwEUC4fSCUbNjA5ksVGTVBVS5xf6J4vtv8qDe2q9mDPxreSa2eNCL1y",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/P3by4BrylybMoiDyy5e8GfxqaXE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QEDTWJ7P3RGGRLT3ND6VV2PL2U.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-04-30T17:42:42Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Colombia\u2019s Crypto Use Soars, and Local Regulators Step In",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Colombia\u2019s Crypto Use Soars, and Local Regulators Step In",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The Colombian government is implementing new anti-money laundering laws with local exchanges.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Sandali Handagama",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/FFWNnjMO4h2fgpVBPBfvYjUALvE=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QEDTWJ7P3RGGRLT3ND6VV2PL2U.jpg",
+                        "article:tag": "Bitso, Colombia, Gemini, Anti-Money Laundering, Binance, Buda.com, Regulaion, Global Macro, Consensus 2021",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-04-30T17:42:42Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Colombian government is implementing new anti-money laundering laws with local exchanges.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/04/30/colombias-crypto-use-soars-and-local-regulators-step-in/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/P3by4BrylybMoiDyy5e8GfxqaXE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QEDTWJ7P3RGGRLT3ND6VV2PL2U.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Colombia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Colombia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/colombia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Colombia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Colombia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "opxp2CwPIqwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/colombia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>colombia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Colombia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Colombia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Colombia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Colombia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/colombia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies and blockchain regulation in Colombia | Despacho ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> and blockchain <b>regulation</b> in <b>Colombia</b> | Despacho ...",
+            "link": "https://ferrer-bonsoms.com/en/cryptocurrencies-and-blockchain-regulation-in-colombia/",
+            "displayLink": "ferrer-bonsoms.com",
+            "snippet": "-Cryptocurrencies are not legal currency in Colombia. -Law 31 of 1992 establishes that the peso is the only means of payment of legal tender with unlimited\u00a0...",
+            "htmlSnippet": "-<b>Cryptocurrencies</b> are not legal currency in <b>Colombia</b>. -Law 31 of 1992 establishes that the peso is the only means of payment of legal tender with unlimited&nbsp;...",
+            "cacheId": "lgjwk9hWagUJ",
+            "formattedUrl": "https://ferrer-bonsoms.com/.../cryptocurrencies-and-blockchain-regulation-in -colombia/",
+            "htmlFormattedUrl": "https://ferrer-bonsoms.com/.../<b>cryptocurrencies</b>-and-blockchain-<b>regulation</b>-in -<b>colombia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvK2nmdXh3v5wUu9C3f2F2HfYnQ51_RMz-ICrot6oK1gHWTsVGS-R683Kf",
+                        "width": "227",
+                        "height": "151"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ferrer-bonsoms.com/wp-content/uploads/2020/02/lawyer-blockchain-Colombia.png",
+                        "og:type": "activity",
+                        "twitter:card": "summary",
+                        "twitter:title": "Cryptocurrencies and blockchain regulation in Colombia | Despacho Abogados Ferrer-Bonsoms & Sanjurjo",
+                        "og:image:width": "227",
+                        "og:site_name": "Despacho  Abogados Ferrer-Bonsoms & Sanjurjo | Derecho Mercantil, Internacional, Bancario, Fiscal, Civil, Deportivo en Pamplona, Madrid, Palma de Mallorca, Sevilla, Valladolid, Barcelona",
+                        "og:article:modified_time": "2021-10-25 11:25:29",
+                        "msvalidate.01": "2A6542A17D375A545657153AB388E200",
+                        "author": "FB",
+                        "og:title": "Cryptocurrencies and blockchain regulation in Colombia | Despacho Abogados Ferrer-Bonsoms & Sanjurjo",
+                        "og:image:height": "151",
+                        "og:image:type": "image/png",
+                        "og:article:published_time": "2021-10-25 11:25:29",
+                        "title": "Cryptocurrencies and blockchain regulation in Colombia",
+                        "msapplication-tileimage": "https://ferrer-bonsoms.com/wp-content/uploads/2017/10/cropped-Twitter-1-270x270.jpg",
+                        "og:description": "We are a legal firm specialized in Blockchain, cryptocurrencies, smart contracts and tokenization. The Financial Superintendence of Colombia Is the supervisor in charge of supervising the financial markets in Colombia. The Financial Superintendency has issued several circulars. Circular Letter 29 of 2014 in a nutshell -Cryptocurrencies are not legal currency in Colombia. -Law 31 [\u2026]",
+                        "twitter:image": "https://ferrer-bonsoms.com/wp-content/uploads/2020/02/lawyer-blockchain-Colombia.png",
+                        "og:article:tag": "Banco",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "We are a legal firm specialized in Blockchain, cryptocurrencies, smart contracts and tokenization. The Financial Superintendence of Colombia Is the supervisor in charge of supervising the financial markets in Colombia. The Financial Superintendency has issued several circulars. Circular Letter 29 of 2014 in a nutshell -Cryptocurrencies are not legal currency in Colombia. -Law 31 [\u2026]",
+                        "og:locale": "en_GB",
+                        "og:url": "https://ferrer-bonsoms.com/en/cryptocurrencies-and-blockchain-regulation-in-colombia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ferrer-bonsoms.com/wp-content/uploads/2020/02/lawyer-blockchain-Colombia.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... de Colombia (SFC), the government agency responsible for overseeing financial regulation and market systems, released statements on cryptos\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> de <b>Colombia</b> (SFC), the government agency responsible for overseeing financial <b>regulation</b> and market systems, released statements on cryptos&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Bank of Colombia Says Cryptocurrencies Must Be ...",
+            "htmlTitle": "Central Bank of <b>Colombia</b> Says <b>Cryptocurrencies</b> Must Be ...",
+            "link": "https://www.investing.com/news/cryptocurrency-news/central-bank-of-colombia-says-cryptocurrencies-must-be-regulated-2614215",
+            "displayLink": "www.investing.com",
+            "snippet": "Sep 13, 2021 ... Villar's words only confirm that the cryptocurrency regulation process in Colombia is advancing by leaps and bounds. Although the use of digital\u00a0...",
+            "htmlSnippet": "Sep 13, 2021 <b>...</b> Villar&#39;s words only confirm that the <b>cryptocurrency regulation</b> process in <b>Colombia</b> is advancing by leaps and bounds. Although the use of digital&nbsp;...",
+            "cacheId": "lWup1opKy5IJ",
+            "formattedUrl": "https://www.investing.com/.../cryptocurrency.../central-bank-of-colombia- says-cryptocurrencies-must-be-regulated-2614215",
+            "htmlFormattedUrl": "https://www.investing.com/.../<b>cryptocurrency</b>.../central-bank-of-<b>colombia</b>- says-<b>cryptocurrencies</b>-must-be-<b>regulated</b>-2614215",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmFjQcySce8GCUEGrXRLPEtqza3C_NArPcJtwqvDSakXjcnAqAO5hWNp-R",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528163.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Central Bank of Colombia Says Cryptocurrencies Must Be Regulated By DailyCoin",
+                        "og:type": "article",
+                        "og:site_name": "Investing.com",
+                        "og:title": "Central Bank of Colombia Says Cryptocurrencies Must Be Regulated By DailyCoin",
+                        "al:android:package": "com.fusionmedia.investing",
+                        "al:ios:url": "com.investing.app://1/news/2614215",
+                        "og:description": "Central Bank of Colombia Says Cryptocurrencies Must Be Regulated",
+                        "twitter:image": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528163.jpg",
+                        "al:ios:app_store_id": "909998122",
+                        "al:android:url": "android-app://com.fusionmedia.investing/app/www.investing.com/news/news-item-2614215",
+                        "twitter:site": "@investingcom",
+                        "baidu_ssp_verify": "867e13c8aeefe44c96c098634fb27ffe",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "Central Bank of Colombia Says Cryptocurrencies Must Be Regulated",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.investing.com/news/cryptocurrency-news/central-bank-of-colombia-says-cryptocurrencies-must-be-regulated-2614215"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528163.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Colombia is slowly moving toward Bitcoin-friendly regulations",
+            "htmlTitle": "<b>Colombia</b> is slowly moving toward Bitcoin-friendly <b>regulations</b>",
+            "link": "https://www.yahoo.com/now/colombia-slowly-moving-toward-bitcoin-223024164.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Sep 20, 2019 ... To say Colombia doesn't have the best cryptocurrency regulations in the world would be an understatement. As it stands, crypto,\u00a0...",
+            "htmlSnippet": "Sep 20, 2019 <b>...</b> To say <b>Colombia</b> doesn&#39;t have the best <b>cryptocurrency regulations</b> in the world would be an understatement. As it stands, crypto,&nbsp;...",
+            "cacheId": "JNdqJekkhgsJ",
+            "formattedUrl": "https://www.yahoo.com/.../colombia-slowly-moving-toward-bitcoin- 223024164.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>colombia</b>-slowly-moving-toward-bitcoin- 223024164.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zVasJ1qQ7XMJQS6fROhbVFsTulAe6dCzEYzF84E0AqZzhb_ZZR2qheT7",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/c0c56bbb-3fa6-32f6-badb-07428a7e7aa5",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/fyKzy9LWfuP4hi09bq3aeA--~B/aD00NzA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_251/2474b14577a1568be53f8429cc5ab876",
+                        "twitter:title": "Colombia is slowly moving toward Bitcoin-friendly regulations",
+                        "og:type": "article",
+                        "og:image:width": "900",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Colombia is slowly moving toward Bitcoin-friendly regulations",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "470",
+                        "og:description": "Cryptocurrencies operate in murky legal territory in Colombia. But a determined congressman from Bogot\u00e1 aims to drag the industry into the light.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/fyKzy9LWfuP4hi09bq3aeA--~B/aD00NzA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_251/2474b14577a1568be53f8429cc5ab876",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/fyKzy9LWfuP4hi09bq3aeA--~B/aD00NzA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_251/2474b14577a1568be53f8429cc5ab876",
+                        "al:android:url": "yfinance://article/c0c56bbb-3fa6-32f6-badb-07428a7e7aa5",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Colombia, Colombia, cryptocurrency, Colombian law, Congressman Mauricio Toro, cryptocurrency exchanges, Colombian Senate, Bitcoin",
+                        "twitter:description": "Cryptocurrencies operate in murky legal territory in Colombia. But a determined congressman from Bogot\u00e1 aims to drag the industry into the light.",
+                        "og:url": "https://finance.yahoo.com/news/colombia-slowly-moving-toward-bitcoin-223024164.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/fyKzy9LWfuP4hi09bq3aeA--~B/aD00NzA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_251/2474b14577a1568be53f8429cc5ab876"
+                    }
+                ]
+            }
+        }
+    ]
+}

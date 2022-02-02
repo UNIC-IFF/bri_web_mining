@@ -1,0 +1,510 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - RWANDA",
+                "totalResults": "607000",
+                "searchTerms": "RWANDA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - RWANDA",
+                "totalResults": "607000",
+                "searchTerms": "RWANDA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.323872,
+        "formattedSearchTime": "0.32",
+        "totalResults": "607000",
+        "formattedTotalResults": "607,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Rwanda and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Rwanda</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/rwanda/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Since 2018, Cryptocurrency is deemed illegal in Rwanda.",
+            "htmlSnippet": "<b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. Since 2018, <b>Cryptocurrency</b> is deemed illegal in <b>Rwanda</b>.",
+            "cacheId": "6Gx8iAua6SAJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/rwanda/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>rwanda</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-07T04:45:47+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/rwanda/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Rwanda? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:27+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Rwanda and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Rwanda and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:56:27+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Rwanda and Cryptocurrency Rwanda Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Since 2018, Cryptocurrency is deemed illegal in Rwanda. According to the National Bank of Rwanda (NBR) \u201canyone who gets involved in the business of buying and...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/rwanda/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Rwandacoin: Prospects and challenges of developing a ...",
+            "htmlTitle": "<b>Rwandacoin</b>: Prospects and challenges of developing a ...",
+            "link": "https://arxiv.org/pdf/1901.06249",
+            "displayLink": "arxiv.org",
+            "snippet": "a cryptocurrency for transactions in Rwanda ... developing a cryptocurrency that is stable and regulated. This ... and stable cryptocurrency for Rwanda.",
+            "htmlSnippet": "a <b>cryptocurrency</b> for transactions in <b>Rwanda</b> ... developing a <b>cryptocurrency</b> that is stable and <b>regulated</b>. This ... and stable <b>cryptocurrency</b> for <b>Rwanda</b>.",
+            "cacheId": "Pm8dTsiqdRYJ",
+            "formattedUrl": "https://arxiv.org/pdf/1901.06249",
+            "htmlFormattedUrl": "https://arxiv.org/pdf/1901.06249",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyWuC-QXl_lnWBRrQoppQzJUmNhNpTNyVUaV9nnb4Y7Tky4_7ddPaQmYU",
+                        "width": "229",
+                        "height": "220"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "creationdate": "D:20190111115703",
+                        "creator": "PDFium",
+                        "producer": "PDFium"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///1f90cb837cb113cda790ea444ee8d840e391497aad002f6c9369d8ade65252a4"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Rwanda | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Rwanda</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/rwanda",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Rwanda for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Rwanda</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "whECMzLHjpsJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/rwanda",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>rwanda</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Rwanda for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Rwanda | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Rwanda for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Rwanda | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/rwanda"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "(PDF) Rwandacoin: Prospects and challenges of developing a ...",
+            "htmlTitle": "(PDF) <b>Rwandacoin</b>: Prospects and challenges of developing a ...",
+            "link": "https://www.researchgate.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda",
+            "displayLink": "www.researchgate.net",
+            "snippet": "challenges of developing a regulated and stable cryptocurrency. in Rwanda? Our research focuses mainly on the prospects and. challenges the government might\u00a0...",
+            "htmlSnippet": "challenges of developing a <b>regulated</b> and stable <b>cryptocurrency</b>. in <b>Rwanda</b>? Our research focuses mainly on the prospects and. challenges the government might&nbsp;...",
+            "formattedUrl": "https://www.researchgate.net/.../330511461_Rwandacoin_Prospects_and_ challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda",
+            "htmlFormattedUrl": "https://www.researchgate.net/.../330511461_<b>Rwanda</b>coin_Prospects_and_ challenges_of_developing_a_<b>cryptocurrency</b>_for_transactions_in_<b>Rwanda</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQowPY3NZLXK7j9-LZ2PaF9b9mH9KhCejZE-etT1NrfXXEvd1EiNd1waRw",
+                        "width": "189",
+                        "height": "267"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i1.rgstatic.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda/links/5c453dc192851c22a3849b34/largepreview.png",
+                        "citation_publication_date": "2019/01/11",
+                        "twitter:card": "summary",
+                        "citation_title": "Rwandacoin: Prospects and challenges of developing a cryptocurrency for transactions in Rwanda",
+                        "og:site_name": "ResearchGate",
+                        "twitter:url": "https://www.researchgate.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda",
+                        "msapplication-tileimage": "https://www.researchgate.net/mstile-144x144.png",
+                        "twitter:creator": "@ResearchGate",
+                        "og:description": "PDF | The use of cryptocurrencies such as Bitcoin and Ethereum in performing online transactions has been on the rise in the world. Africa as a... | Find, read and cite all the research you need on ResearchGate",
+                        "twitter:site": "@ResearchGate",
+                        "og:site": "ResearchGate",
+                        "citation_fulltext_html_url": "https://www.researchgate.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda",
+                        "application-name": "ResearchGate",
+                        "msapplication-tilecolor": "#00ccbb",
+                        "og:type": "website",
+                        "rg-request-token": "aad-bp9jYvHlkF5vvsAdR4bwDcopaYUw3f7/cF95pE4eJkBOcmL2NEyzjeJtH1xEaCsG9TmBtmMimbpz7ZT+DFVMpPrFIjFLyEkpc93ydKuZfxPBEZR2PE3b0M+AgpwP6x2wrUaOfbUujBdmlWvVJgFJU1cuNHyvOxHbH3DzL/iVnp7so6V5XcZ7W/IrcGaQUZEcWF0jX7bRB/pK8noJh7r5iC1Ke608rAOR2A583o0wu3gmXcN/fLLYgdjDySxZVRZ1p92u4cUYlxigESnIVpE=",
+                        "og:title": "(PDF) Rwandacoin: Prospects and challenges of developing a cryptocurrency for transactions in Rwanda",
+                        "citation_author": "Oluwafunmilola Kesa",
+                        "citation_abstract_html_url": "https://www.researchgate.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda",
+                        "referrer": "origin",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "rg:id": "PB:330511461",
+                        "dc.identifier": "http://dx.doi.org/",
+                        "og:url": "https://www.researchgate.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda",
+                        "gs_meta_revision": "1.1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i1.rgstatic.net/publication/330511461_Rwandacoin_Prospects_and_challenges_of_developing_a_cryptocurrency_for_transactions_in_Rwanda/links/5c453dc192851c22a3849b34/largepreview.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Donations Set to Fund Innovation Hub in Rwanda to ...",
+            "htmlTitle": "<b>Cryptocurrency</b> Donations Set to Fund Innovation Hub in <b>Rwanda</b> to ...",
+            "link": "https://www.savethechildren.org/us/about-us/media-and-news/2021-press-releases/cryptocurrency-fund-innovation-hub-in-rwanda-to-aid-children",
+            "displayLink": "www.savethechildren.org",
+            "snippet": "(July 13, 2021) \u2014 Thousands of children in Rwanda will soon receive help from Save the Children but from an unusual source \u2013 cryptocurrency.",
+            "htmlSnippet": "(July 13, 2021) \u2014 Thousands of children in <b>Rwanda</b> will soon receive help from Save the Children but from an unusual source \u2013 <b>cryptocurrency</b>.",
+            "cacheId": "Joaegsl8TncJ",
+            "formattedUrl": "https://www.savethechildren.org/.../cryptocurrency-fund-innovation-hub-in- rwanda-to-aid-children",
+            "htmlFormattedUrl": "https://www.savethechildren.org/.../<b>cryptocurrency</b>-fund-innovation-hub-in- <b>rwanda</b>-to-aid-children",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvdG4dF4qX6r4HYL1QYg2bF5IVuPWWBD6gzEHbHPqUTH0vOgAv7f-CEco",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.savethechildren.org/content/dam/usa/images/press-releases/news-alert-graphic.png/_jcr_content/renditions/original",
+                        "og:type": "article",
+                        "twitter:title": "Cryptocurrency Donations Set to Fund Innovation Hub in Rwanda to Aid Children",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Save the Children",
+                        "twitter:site:id": "14055301",
+                        "og:title": "Cryptocurrency Donations Set to Fund Innovation Hub in Rwanda to Aid Children",
+                        "twitter:image": "https://www.savethechildren.org/content/dam/usa/images/press-releases/news-alert-graphic.png/_jcr_content/renditions/original",
+                        "fb:app_id": "169555096542725",
+                        "twitter:site": "@SavetheChildren",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en",
+                        "og:url": "https://www.savethechildren.org/us/about-us/media-and-news/2021-press-releases/cryptocurrency-fund-innovation-hub-in-rwanda-to-aid-children"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "maincontentofpage": "Cryptocurrency Donations Set to Fund Innovation Hub in Rwanda to Aid Children Media Contact: Diana Oberoi 202.286.1421 (M) FAIRFIELD, Conn. (July 13, 2021) \u2014 Thousands of children in Rwanda..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.savethechildren.org/content/dam/usa/images/press-releases/news-alert-graphic.png/_jcr_content/renditions/original"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, whereas financial openness is ... 1 Rwanda. 2 Ukraine. 2. Macedonia, FYR. 2 Sahrawi Republic.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, whereas financial openness is ... 1 <b>Rwanda</b>. 2 Ukraine. 2. Macedonia, FYR. 2 Sahrawi Republic.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Institute of Legal Practice and Development (ILPD), Rwanda ...",
+            "htmlTitle": "The Institute of Legal Practice and Development (ILPD), <b>Rwanda</b> ...",
+            "link": "https://www.agaafrica.org/the-institute-of-legal-practice-and-development-ilpd-rwanda-and-aga-africa-collaborate-for-a-cryptocurrencies-and-trade-based-money-laundering-workshop/",
+            "displayLink": "www.agaafrica.org",
+            "snippet": "Related to this is the increase in use of cryptocurrencies like bitcoin whose regulation is largely still not well understood, and therefore prone to being\u00a0...",
+            "htmlSnippet": "Related to this is the increase in use of <b>cryptocurrencies</b> like bitcoin whose <b>regulation</b> is largely still not well understood, and therefore prone to being&nbsp;...",
+            "cacheId": "yFaKarN33GMJ",
+            "formattedUrl": "https://www.agaafrica.org/the-institute-of-legal-practice-and-development- ilpd-rwanda-and-aga-africa-collaborate-for-a-cryptocurrencies-and-trade- ...",
+            "htmlFormattedUrl": "https://www.agaafrica.org/the-institute-of-legal-practice-and-development- ilpd-<b>rwanda</b>-and-aga-africa-collaborate-for-a-<b>cryptocurrencies</b>-and-trade- ...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "tec-api-origin": "https://www.agaafrica.org",
+                        "msapplication-tileimage": "https://secureservercdn.net/192.169.220.85/l8p.313.myftpupload.com/wp-content/uploads/2019/08/cropped-FAVICON-270x270.png",
+                        "tec-api-version": "v1",
+                        "format-detection": "telephone=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Navigating Cryptocurrency Regulation: An Industry Perspective on ...",
+            "htmlTitle": "Navigating <b>Cryptocurrency Regulation</b>: An Industry Perspective on ...",
+            "link": "https://www3.weforum.org/docs/WEF_Navigating_Cryptocurrency_Regulation_2021.pdf",
+            "displayLink": "www3.weforum.org",
+            "snippet": "Cryptocurrency Regulation: ... 4.2 Legal status of cryptocurrencies around the world ... Well-designed cryptocurrency regulations have been.",
+            "htmlSnippet": "<b>Cryptocurrency Regulation</b>: ... 4.2 Legal status of <b>cryptocurrencies</b> around the world ... Well-designed <b>cryptocurrency regulations</b> have been.",
+            "cacheId": "Y43phoyiBnoJ",
+            "formattedUrl": "https://www3.weforum.org/.../WEF_Navigating_Cryptocurrency_Regulation _2021.pdf",
+            "htmlFormattedUrl": "https://www3.weforum.org/.../WEF_Navigating_<b>Cryptocurrency</b>_<b>Regulation</b> _2021.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdNR-zEmbpAwa5wKs1uzuUMeS1hn4in0mhQS4pTSYlBak82FAyi9R_l1S",
+                        "width": "225",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210831172928+02'00'",
+                        "creationdate": "D:20210831094927+01'00'",
+                        "creator": "Adobe InDesign 16.1 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9ac42b3c04eb6e103c9c4efdef51ad0b0d17c69b6716de523ca4c828c0b7ceca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency - US and global regulation: PwC",
+            "htmlTitle": "<b>Cryptocurrency</b> - US and global <b>regulation</b>: PwC",
+            "link": "https://www.pwc.com/us/en/industries/financial-services/regulatory-services/library/cryptocurrency.html",
+            "displayLink": "www.pwc.com",
+            "snippet": "US and global regulators approach toward cryptocurrency. ... Regulatory brief. A publication of PwC's financial services regulatory practice\u00a0...",
+            "htmlSnippet": "US and global regulators approach toward <b>cryptocurrency</b>. ... <b>Regulatory</b> brief. A publication of PwC&#39;s financial services <b>regulatory</b> practice&nbsp;...",
+            "cacheId": "DGFU9FuCcy0J",
+            "formattedUrl": "https://www.pwc.com/us/en/industries/.../regulatory.../cryptocurrency.html",
+            "htmlFormattedUrl": "https://www.pwc.com/us/en/industries/.../<b>regulatory</b>.../<b>cryptocurrency</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxyCK9691D4ypkQ8nokr4BDOaevRKwD1cU05_MBnkA43v3lFdKSR2o01E",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.pwc.com/gx/en/issues/blockchain/images/cryptocurrency-evolution-third.jpg",
+                        "og:type": "article",
+                        "og:site_name": "PwC",
+                        "pwctag": "Publication||, Publication||, Stress testing Capital management ||, Stress Testing - Capital Management||, Banking and capital markets||, Financial services||, Regulations||",
+                        "pwcselectednav": "3",
+                        "author": "PricewaterhouseCoopers",
+                        "pwccountry": "us",
+                        "pwchidelevel": "0,2",
+                        "og:title": "Carving up crypto: Regulators begin to find their footing",
+                        "og:description": "US and global regulators approach toward cryptocurrency.",
+                        "pwclocale": "en_us",
+                        "pwctitle": "Carving up crypto: Regulators begin to find their footing",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "pwcreleasedate": "2018-03-29T15:35:00.000-04:00",
+                        "pwclang": "en",
+                        "og:url": "https://www.pwc.com/us/en/industries/financial-services/regulatory-services/library/cryptocurrency.html",
+                        "pwcgeo.default": "US",
+                        "pwclastmodifieddate": "2021-03-29T02:38:47.545Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.pwc.com/gx/en/issues/blockchain/images/cryptocurrency-evolution-third.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: Why Nigeria is a global leader in Bitcoin trade ...",
+            "link": "https://www.bbc.com/news/world-africa-56169917",
+            "displayLink": "www.bbc.com",
+            "snippet": "Feb 28, 2021 ... More cryptocurrency trading goes on in Nigeria than almost anywhere ... In an effort to regulate the market, Nigeria's central bank banned\u00a0...",
+            "htmlSnippet": "Feb 28, 2021 <b>...</b> More <b>cryptocurrency</b> trading goes on in Nigeria than almost anywhere ... In an effort to <b>regulate</b> the market, Nigeria&#39;s central bank banned&nbsp;...",
+            "cacheId": "LfYAnXPamM4J",
+            "formattedUrl": "https://www.bbc.com/news/world-africa-56169917",
+            "htmlFormattedUrl": "https://www.bbc.com/news/world-africa-56169917",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzCjN4xHVfCudDTK3m4PbM30CIx7hpurdCi6nLv22q-vqr7i3MuOucss",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg",
+                        "theme-color": "#FFFFFF",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "BBC News",
+                        "cleartype": "on",
+                        "msapplication-tileimage": "BBC News",
+                        "og:description": "A devaluing currency and hard economic conditions make cryptocurrencies attractive despite the risks.",
+                        "twitter:creator": "@BBCWorld",
+                        "twitter:image:alt": "Bitcoin has jumped above $17,000 (\u00a312,800) to hit a three-year high.",
+                        "twitter:site": "@BBCWorld",
+                        "fb:admins": "100004154058350",
+                        "application-name": "BBC News",
+                        "msapplication-tilecolor": "#bb1919",
+                        "og:image:alt": "Bitcoin has jumped above $17,000 (\u00a312,800) to hit a three-year high.",
+                        "og:type": "article",
+                        "article:section": "Africa",
+                        "twitter:title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade",
+                        "twitter:domain": "www.bbc.com",
+                        "og:title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade",
+                        "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+                        "article:author": "https://www.facebook.com/bbcnews",
+                        "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg",
+                        "fb:app_id": "1609039196070050",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A devaluing currency and hard economic conditions make cryptocurrencies attractive despite the risks.",
+                        "og:locale": "en_GB",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.bbc.com/news/world-africa-56169917"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

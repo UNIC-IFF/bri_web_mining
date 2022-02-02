@@ -1,0 +1,561 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - TAJIKISTAN",
+                "totalResults": "254000",
+                "searchTerms": "TAJIKISTAN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - TAJIKISTAN",
+                "totalResults": "254000",
+                "searchTerms": "TAJIKISTAN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.30575,
+        "formattedSearchTime": "0.31",
+        "totalResults": "254000",
+        "formattedTotalResults": "254,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Tajikistan and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Tajikistan</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/tajikistan/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Tajikistan Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Cryptocurrency is neither legal nor illegal\u00a0...",
+            "htmlSnippet": "<b>Tajikistan Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. <b>Cryptocurrency</b> is neither legal nor illegal&nbsp;...",
+            "cacheId": "GZ1ZTX6vJ3AJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/tajikistan/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>tajikistan</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T23:18:12+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/tajikistan/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Tajikistan? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:46+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Tajikistan and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Tajikistan and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:55:46+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Tajikistan and Cryptocurrency Tajikistan Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Cryptocurrency is neither legal nor illegal in Tajikistan.[1] Cryptocurrency is still fairly controversial, and no formal regulation has been enacted by...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/tajikistan/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Tajikistan | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Tajikistan</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/tajikistan",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Tajikistan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Tajikistan</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "kh00HOu_W3YJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/tajikistan",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>tajikistan</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Tajikistan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Tajikistan | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Tajikistan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Tajikistan | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/tajikistan"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "From Kazakhstan to Uzbekistan: How Cryptocurrencies Are ...",
+            "htmlTitle": "From Kazakhstan to Uzbekistan: How <b>Cryptocurrencies</b> Are ...",
+            "link": "https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 15, 2018 ... Cryptocurrencies are neither legal nor banned in Tajikistan. However, in January the National Bank of Tajikistan (NBT) voiced its opinion\u00a0...",
+            "htmlSnippet": "Sep 15, 2018 <b>...</b> <b>Cryptocurrencies</b> are neither legal nor banned in <b>Tajikistan</b>. However, in January the National Bank of <b>Tajikistan</b> (NBT) voiced its opinion&nbsp;...",
+            "cacheId": "EnQ2riWF3X8J",
+            "formattedUrl": "https://cointelegraph.com/.../from-kazakhstan-to-uzbekistan-how- cryptocurrencies-are-regulated-in-central-asia",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../from-kazakhstan-to-uzbekistan-how- <b>cryptocurrencies</b>-are-<b>regulated</b>-in-central-asia",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzJuf5J-RQv1MZtTTWqtY492M9PoPCLP8xraJVakTqEl4a0msUcXhzCByB",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjI5OTM2MzkyYTZkMzE5ZDFkZjMwNGIzNjk1NDY2OC5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Uzbekistan\u2019s pro-crypto laws, Kazakhstan\u2019s blockchain plans and more.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjI5OTM2MzkyYTZkMzE5ZDFkZjMwNGIzNjk1NDY2OC5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Uzbekistan\u2019s pro-crypto laws, Kazakhstan\u2019s blockchain plans and more.",
+                        "og:url": "https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjI5OTM2MzkyYTZkMzE5ZDFkZjMwNGIzNjk1NDY2OC5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Book/Printed Material Regulation of cryptocurrency around the world ... Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Tajikistan, Tanzania, Thailand, Togo,\u00a0...",
+            "htmlSnippet": "Book/Printed Material <b>Regulation of cryptocurrency</b> around the world ... Spain, Sri Lanka, Sweden, Switzerland, Taiwan, <b>Tajikistan</b>, Tanzania, Thailand, Togo,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency could be used to finance construction of the Roghun ...",
+            "htmlTitle": "<b>Cryptocurrency</b> could be used to finance construction of the Roghun ...",
+            "link": "https://asiaplustj.info/en/news/tajikistan/economic/20210309/cryptocurrency-could-be-used-to-finance-construction-of-the-roghun-hydropower-plant-says-expert",
+            "displayLink": "asiaplustj.info",
+            "snippet": "Mar 9, 2021 ... Tajikistan, like many other countries, has not yet decided on its attitude to cryptocurrency and has not yet adopted any laws to regulate\u00a0...",
+            "htmlSnippet": "Mar 9, 2021 <b>...</b> <b>Tajikistan</b>, like many other countries, has not yet decided on its attitude to <b>cryptocurrency</b> and has not yet adopted any <b>laws</b> to <b>regulate</b>&nbsp;...",
+            "cacheId": "kkfZX-N0WTMJ",
+            "formattedUrl": "https://asiaplustj.info/.../tajikistan/.../cryptocurrency-could-be-used-to-finance -construction-of-the-roghun-hydropower-plant-says-expert",
+            "htmlFormattedUrl": "https://asiaplustj.info/.../<b>tajikistan</b>/.../<b>cryptocurrency</b>-could-be-used-to-finance -construction-of-the-roghun-hydropower-plant-says-expert",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mpEd1Qm_1ZSvkiRmpSVsLeclceK2qa0rvU2WkLGJ12VOZcKG2UXbxqEf",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.asiaplustj.info/sites/default/files/articles/294864/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_viber_2021-03-09_13-05-56.jpg",
+                        "mediator_author": "Asia-Plus",
+                        "og:type": "article",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "mediator_published_time": "2021-03-09T15:05:26+0500",
+                        "yandex-verification": "bfab73f9953be364",
+                        "wmail-verification": "002268a56c2f689c5939c20283934947",
+                        "mediator": "294871"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.asiaplustj.info/sites/default/files/articles/294864/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_viber_2021-03-09_13-05-56.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency miners flee China as clampdown intensifies - Nikkei ...",
+            "htmlTitle": "<b>Cryptocurrency</b> miners flee China as clampdown intensifies - Nikkei ...",
+            "link": "https://asia.nikkei.com/Spotlight/Cryptocurrencies/Cryptocurrency-miners-flee-China-as-clampdown-intensifies",
+            "displayLink": "asia.nikkei.com",
+            "snippet": "Jul 13, 2021 ... TOKYO -- Those in the business of mining cryptocurrencies are rushing to leave ... and regulation of cryptocurrencies could widen further.",
+            "htmlSnippet": "Jul 13, 2021 <b>...</b> TOKYO -- Those in the business of mining <b>cryptocurrencies</b> are rushing to leave ... and <b>regulation of cryptocurrencies</b> could widen further.",
+            "cacheId": "6GsId3R7ujgJ",
+            "formattedUrl": "https://asia.nikkei.com/.../Cryptocurrencies/Cryptocurrency-miners-flee-China -as-clampdown-intensifies",
+            "htmlFormattedUrl": "https://asia.nikkei.com/.../<b>Cryptocurrencies</b>/<b>Cryptocurrency</b>-miners-flee-China -as-clampdown-intensifies",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQs_7b_Ls1u4mn7BZuAdcN2tVJbT2w2p-zgBUcPd7OWHL2giPZXHLj04",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-07-13 02:07:54",
+                        "og:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F5%252F0%252F1%252F35261050-3-eng-GB%252FCropped-16261028912021-05-26T000000Z_1772335357_RC2NNN9AW2CW_RTRMADP_3_CRYPTO-CURRENCY-CHINA-MINING.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+                        "theme-color": "#0076bf",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "1024",
+                        "og:site_name": "Nikkei Asia",
+                        "apple-mobile-web-app-title": "Nikkei Asia",
+                        "product:price:amount": "1",
+                        "product:availability": "out of stock",
+                        "og:description": "G-20 finance chiefs warn against asset-linked 'stablecoins' without official oversight",
+                        "twitter:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F5%252F0%252F1%252F35261050-3-eng-GB%252FCropped-16261028912021-05-26T000000Z_1772335357_RC2NNN9AW2CW_RTRMADP_3_CRYPTO-CURRENCY-CHINA-MINING.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+                        "twitter:site": "@NAR",
+                        "product:condition": "new",
+                        "application-name": "Nikkei Asia",
+                        "msapplication-starturl": "/",
+                        "twitter:title": "Cryptocurrency miners flee China as clampdown intensifies",
+                        "og:type": "website",
+                        "product:category": "Cryptocurrencies",
+                        "og:image:height": "512",
+                        "msapplication-navbutton-color": "#0076bf",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "product:brand": "Spotlight",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "G-20 finance chiefs warn against asset-linked 'stablecoins' without official oversight",
+                        "product:price:currency": "USD",
+                        "mobile-web-app-capable": "yes",
+                        "og:locale": "en_GB",
+                        "product:retailer_item_id": "e779dd80c6daa3dac8ac46c1b8777a98",
+                        "og:url": "https://asia.nikkei.com/Spotlight/Cryptocurrencies/Cryptocurrency-miners-flee-China-as-clampdown-intensifies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F5%252F0%252F1%252F35261050-3-eng-GB%252FCropped-16261028912021-05-26T000000Z_1772335357_RC2NNN9AW2CW_RTRMADP_3_CRYPTO-CURRENCY-CHINA-MINING.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Understanding the Debate about Cryptocurrencies in Central ... - RIAC",
+            "htmlTitle": "Understanding the Debate about Cryptocurrencies in Central ... - RIAC",
+            "link": "https://russiancouncil.ru/en/blogs/mlambert/understanding-the-debate-about-cryptocurrencies-in-central-asia/",
+            "displayLink": "russiancouncil.ru",
+            "snippet": "Sep 30, 2021 ... While the Bank of Tajikistan clarified that cryptocurrency cannot be ... that the opportunities offered are matched by regulatory oversight.",
+            "htmlSnippet": "Sep 30, 2021 <b>...</b> While the Bank of <b>Tajikistan</b> clarified that <b>cryptocurrency</b> cannot be ... that the opportunities offered are matched by <b>regulatory</b> oversight.",
+            "cacheId": "py1-Qvxyy2UJ",
+            "formattedUrl": "https://russiancouncil.ru/.../understanding-the-debate-about-cryptocurrencies- in-central-asia/",
+            "htmlFormattedUrl": "https://russiancouncil.ru/.../understanding-the-debate-about-<b>cryptocurrencies</b>- in-central-asia/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIa7qISIbfvGLr28bS7Sz4l-2-afrDi1F7tCzKxoPbgWOpQewcJZhC2umR",
+                        "width": "271",
+                        "height": "186"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://russiancouncil.ru/upload/main/130/blockchain_gdf8d55790_1920.jpg",
+                        "mediator_author": "Michael Lambert",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#fff",
+                        "og:title": "RIAC :: Understanding the Debate about Cryptocurrencies in Central Asia",
+                        "fb:pages": "236418726380279",
+                        "twitter:creator": "@russian_council",
+                        "og:description": "In February 2020, the World Bank Group released a report entitled \u201cFinTech in Europe and Central Asia: Maximizing Benefits and Managing Risks\u201d highlighting the opportunities associated with the development of FinTech in countries torn between a desire\u2026",
+                        "article:publisher": "https://www.facebook.com/russiancouncilen",
+                        "twitter:image:src": "https://russiancouncil.ru/upload/main/130/blockchain_gdf8d55790_1920.jpg",
+                        "twitter:site": "@russian_council",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "mediator_published_time": "2021-09-30T13:10:23+03:00",
+                        "og:locale": "en_GB",
+                        "og:url": "https://russiancouncil.ru/en/blogs/mlambert/understanding-the-debate-about-cryptocurrencies-in-central-asia/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://russiancouncil.ru/upload/main/130/blockchain_gdf8d55790_1920.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Asian countries are among the least cyber secure in the ...",
+            "htmlTitle": "Central Asian countries are among the least cyber secure in the ...",
+            "link": "https://www.codastory.com/authoritarian-tech/crypromining-attack-security/",
+            "displayLink": "www.codastory.com",
+            "snippet": "Apr 1, 2021 ... The same four countries, Tajikistan, Uzbekistan, Kazakhstan and ... amendments to boost the regulation and taxation of cryptocurrency mining\u00a0...",
+            "htmlSnippet": "Apr 1, 2021 <b>...</b> The same four countries, <b>Tajikistan</b>, Uzbekistan, Kazakhstan and ... amendments to boost the <b>regulation</b> and taxation of <b>cryptocurrency</b> mining&nbsp;...",
+            "cacheId": "oOCNnRY1JnEJ",
+            "formattedUrl": "https://www.codastory.com/authoritarian-tech/crypromining-attack-security/",
+            "htmlFormattedUrl": "https://www.codastory.com/authoritarian-tech/crypromining-attack-security/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS77GOGBrT7pR5ai2gKijyEgdLZj6rcHKpROqkHOR7gAVnPd4e3tZ5bPaI",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.codastory.com/wp-content/uploads/2021/04/crypto-currency-central-asia-cryptomining-attack-cybersecurity-privacy.png",
+                        "og:type": "article",
+                        "article:published_time": "2021-04-01T17:04:11+00:00",
+                        "og:image:width": "2000",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Coda Story",
+                        "og:title": "Central Asian countries are among the least cyber secure in the world - Coda Story",
+                        "og:image:height": "1333",
+                        "msapplication-tileimage": "https://www.codastory.com/wp-content/uploads/2019/07/cropped-LogoWeb2021Transparent-1-270x270.png",
+                        "og:description": "Global cryptojackers are using malware to take over vulnerable computers without permission",
+                        "twitter:creator": "@CodaStory",
+                        "article:publisher": "https://www.facebook.com/StayOntheStory/",
+                        "twitter:image": "https://www.codastory.com/wp-content/uploads/2021/04/crypto-currency-central-asia-cryptomining-attack-cybersecurity-privacy.png",
+                        "twitter:site": "@CodaStory",
+                        "article:modified_time": "2021-04-23T15:05:12+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.codastory.com/authoritarian-tech/crypromining-attack-security/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.codastory.com/wp-content/uploads/2021/04/crypto-currency-central-asia-cryptomining-attack-cybersecurity-privacy.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan",
+            "htmlTitle": "Kazakhstan, Kyrgyzstan, Uzbekistan, <b>Tajikistan</b>",
+            "link": "https://assets.kpmg/content/dam/kpmg/kz/pdf/2020/12/Overview-of-Fintech-Development-in-Central-Asia.pdf",
+            "displayLink": "assets.kpmg",
+            "snippet": "2020 KPMG Tax and Advisory LLC, a company incorporated under the Laws of the Republic of Kazakhstan and a member firm of the KPMG.",
+            "htmlSnippet": "2020 KPMG Tax and Advisory LLC, a company incorporated under the <b>Laws</b> of the Republic of Kazakhstan and a member firm of the KPMG.",
+            "cacheId": "f-oD-YYKFgYJ",
+            "formattedUrl": "https://assets.kpmg/.../Overview-of-Fintech-Development-in-Central-Asia.pdf",
+            "htmlFormattedUrl": "https://assets.kpmg/.../Overview-of-Fintech-Development-in-Central-Asia.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRA2CwgHbnHVS71jmNPvYVfdWJnuwakpmQTgvguFasVtg2ZErIRMXFOIzl",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20201130170618+06'00'",
+                        "creationdate": "D:20201130170618+06'00'",
+                        "creator": "Microsoft\u00ae PowerPoint\u00ae for Office 365",
+                        "author": "Sembina, Anastassiya",
+                        "producer": "Microsoft\u00ae PowerPoint\u00ae for Office 365",
+                        "title": "PowerPoint Presentation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///7c852c42969aa87b620b9286162e2f2a01feafa677758ce34e68d48a3505edf8"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A Primer into corporate taxation in Tajikistan",
+            "htmlTitle": "A Primer into corporate taxation in <b>Tajikistan</b>",
+            "link": "https://gratanet.com/publications/a-primer-into-corporate-taxation-in-tajikistan",
+            "displayLink": "gratanet.com",
+            "snippet": "Sep 27, 2021 ... Tax issues are primarily regulated by the Tax Code, as well as other legal acts developed by regulatory authorities, in particular the Tax\u00a0...",
+            "htmlSnippet": "Sep 27, 2021 <b>...</b> Tax issues are primarily <b>regulated</b> by the Tax Code, as well as other legal acts developed by <b>regulatory</b> authorities, in particular the Tax&nbsp;...",
+            "cacheId": "Op8W72Rc-AYJ",
+            "formattedUrl": "https://gratanet.com/.../a-primer-into-corporate-taxation-in-tajikistan",
+            "htmlFormattedUrl": "https://gratanet.com/.../a-primer-into-corporate-taxation-in-<b>tajikistan</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO3XAFSNkDOi0FsDWYbiJm4T5K5iE1qztJQJvsEw4t9uzUHAmjoHfKpwA",
+                        "width": "224",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "gratanet",
+                        "og:image": "https://gratanet.com/assets/images/placeholders/og-image.png",
+                        "msapplication-config": "https://gratanet.com/assets/favicons/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:title": "A Primer into corporate taxation in Tajikistan",
+                        "theme-color": "#070C3A",
+                        "handheldfriendly": "True",
+                        "og:title": "A Primer into corporate taxation in Tajikistan",
+                        "apple-mobile-web-app-title": "gratanet",
+                        "twitter:image": "https://gratanet.com/assets/images/placeholders/og-image.png",
+                        "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "csrf-token": "bKHiMrgZHc7aTFKKu8BjD1ZQAHnZ9zzerdjRa1JN",
+                        "mobileoptimized": "320",
+                        "og:url": "https://gratanet.com/publications/a-primer-into-corporate-taxation-in-tajikistan",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://gratanet.com/assets/images/placeholders/og-image.png"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "GRATA International",
+                        "name": "GRATA International",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Publications",
+                        "name": "Publications",
+                        "position": "2"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,558 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SOLOMON ISLANDS",
+                "totalResults": "704000",
+                "searchTerms": "SOLOMON ISLANDS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SOLOMON ISLANDS",
+                "totalResults": "704000",
+                "searchTerms": "SOLOMON ISLANDS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.408196,
+        "formattedSearchTime": "0.41",
+        "totalResults": "704000",
+        "formattedTotalResults": "704,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "CBSI's POSITION ON CRYPTOCURRENCIES - Central Bank of ...",
+            "htmlTitle": "CBSI&#39;s POSITION ON <b>CRYPTOCURRENCIES</b> - Central Bank of ...",
+            "link": "https://www.cbsi.com.sb/cbsis-position-on-cryptocurrencies/",
+            "displayLink": "www.cbsi.com.sb",
+            "snippet": "The Central Bank of Solomon Islands (CBSI) wishes to warn the general public that cryptocurrencies (i.e. virtual or digital currencies such as bitcoin,\u00a0...",
+            "htmlSnippet": "The Central Bank of <b>Solomon Islands</b> (CBSI) wishes to warn the general public that <b>cryptocurrencies</b> (i.e. virtual or digital currencies such as bitcoin,&nbsp;...",
+            "cacheId": "1W2XGHeCsX4J",
+            "formattedUrl": "https://www.cbsi.com.sb/cbsis-position-on-cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.cbsi.com.sb/cbsis-position-on-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc7dItHgVyVfxaJygy4k094tq6eW9oYweEkSp6zory4smSsogVhLcZZwE",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "article:published_time": "2019-10-31T05:55:07+00:00",
+                        "twitter:card": "summary",
+                        "og:site_name": "Central Bank of Solomon Islands",
+                        "og:title": "CBSI\u2019s POSITION ON CRYPTOCURRENCIES - Central Bank of Solomon Islands",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.cbsi.com.sb/wp-content/uploads/2016/05/banner-logo-small-1.gif",
+                        "twitter:data1": "Craiggs Tesi",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2019-10-31T22:10:30+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.cbsi.com.sb/cbsis-position-on-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.cbsi.com.sb/wp-content/themes/Extra/images/post-format-thumb-text.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Central Bank of Solomon Islands Warns on Fake Currency Sol ...",
+            "htmlTitle": "The Central Bank of <b>Solomon Islands</b> Warns on Fake Currency Sol ...",
+            "link": "https://www.financemagnates.com/institutional-forex/regulation/the-central-bank-of-solomon-islands-warns-on-fake-currency-sol-york/",
+            "displayLink": "www.financemagnates.com",
+            "snippet": "The CBSI did not clarify if Sol York is a cryptocurrency or a fake fiat coin circulating within the island. Monday, 14/06/2021 | 08:23 GMT-8 by Felipe Erazo.",
+            "htmlSnippet": "The CBSI did not clarify if Sol York is a <b>cryptocurrency</b> or a fake fiat coin circulating within the <b>island</b>. Monday, 14/06/2021 | 08:23 GMT-8 by Felipe Erazo.",
+            "cacheId": "yNQ_MUp0B3wJ",
+            "formattedUrl": "https://www.financemagnates.com/.../regulation/the-central-bank-of-solomon -islands-warns-on-fake-currency-sol-york/",
+            "htmlFormattedUrl": "https://www.financemagnates.com/.../<b>regulation</b>/the-central-bank-of-<b>solomon</b> -<b>islands</b>-warns-on-fake-currency-sol-york/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcdOdGzKpgT2Qw4ek1ziVkhtdfRWM-eFE5SFT-4QR6F-GXaNQH8Hb4S60",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.financemagnates.com/wp-content/uploads/2021/06/solomon_islands_flag-28606_1280.png",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "The Central Bank of Solomon Islands Warns on Fake Currency Sol York | Finance Magnates",
+                        "article:published_time": "2021-06-14T16:23:35+00:00",
+                        "og:site_name": "Financial and Business News | Finance Magnates",
+                        "apple-mobile-web-app-title": "The Central Bank of Solomon Islands Warns on Fake Currency Sol York | Finance Magnates",
+                        "og:title": "The Central Bank of Solomon Islands Warns on Fake Currency Sol York | Finance Magnates",
+                        "title": "The Central Bank of Solomon Islands Warns on Fake Currency Sol York | Finance Magnates",
+                        "og:description": "The Central Bank of Solomon Islands has published a warning about a fake currency dubbed Sol York, which has no legal approval by the local authorities.",
+                        "twitter:image": "https://www.financemagnates.com/wp-content/uploads/2021/06/solomon_islands_flag-28606_1280.png",
+                        "twitter:site": "@financemagnates",
+                        "article:modified_time": "2021-11-09T10:18:39+00:00",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                        "twitter:description": "The Central Bank of Solomon Islands has published a warning about a fake currency dubbed Sol York, which has no legal approval by the local authorities.",
+                        "og:url": "https://www.financemagnates.com/institutional-forex/regulation/the-central-bank-of-solomon-islands-warns-on-fake-currency-sol-york/",
+                        "google-signin-client_id": "446430125344-moa2cm18di4hqr6jt05lf9pghb3a973h.apps.googleusercontent.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.financemagnates.com/wp-content/uploads/2021/06/solomon_islands_flag-28606_1280.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Report of the Attorney General's Cyber Digital Task Force ...",
+            "htmlTitle": "Report of the Attorney General&#39;s Cyber Digital Task Force ...",
+            "link": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "displayLink": "www.justice.gov",
+            "snippet": "Oct 1, 2020 ... not otherwise already imposed by statute or regulation. To the extent this Enforcement ... Cryptocurrency: An Enforcement Framework.",
+            "htmlSnippet": "Oct 1, 2020 <b>...</b> not otherwise already imposed by statute or <b>regulation</b>. To the extent this Enforcement ... <b>Cryptocurrency</b>: An Enforcement Framework.",
+            "cacheId": "ZvPJ0G1FuMoJ",
+            "formattedUrl": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "htmlFormattedUrl": "https://www.justice.gov/archives/ag/page/file/1326061/download",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSERRMYfHAuVhiUMOE9YoUN0xvY8diAhotQh24cKWn4ufx1MUG9gkFOzZal",
+                        "width": "256",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20201008131005-04'00'",
+                        "creationdate": "D:20201005190542-04'00'",
+                        "creator": "Adobe InDesign 15.1 (Macintosh)",
+                        "author": "United States Department of Justice, Cyber-Digital Task Force",
+                        "subject": "Cryptocurrency: An Enforcement Framework",
+                        "producer": "Adobe PDF Library 15.0",
+                        "title": "Report of the Attorney General\u2019s Cyber Digital Task Force: Cryptocurrency Enforcement Framework"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///20ac3f800edcdfe338f4dcd73dec222edec2f7568fbd129edd31269a7b65ca20"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Australian police take over Solomon Islands capital after unrest",
+            "htmlTitle": "Australian police take over <b>Solomon Islands</b> capital after unrest",
+            "link": "https://www.cnbc.com/2021/11/26/solomon-islands-unrest.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Nov 26, 2021 ... Australian police began taking control of the Solomon Islands capital Honiara on Friday after days of violent protests in the island nation,\u00a0...",
+            "htmlSnippet": "Nov 26, 2021 <b>...</b> Australian police began taking <b>control</b> of the <b>Solomon Islands</b> capital Honiara on Friday after days of violent protests in the island nation,&nbsp;...",
+            "cacheId": "-hxYWsLspXAJ",
+            "formattedUrl": "https://www.cnbc.com/2021/11/26/solomon-islands-unrest.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/2021/11/26/<b>solomon</b>-<b>islands</b>-unrest.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRUQb_L34ly-ALD6tr8-SaDFjikxsu0wAlZ_6mZ3M2qgteWUP5f_Bl22o",
+                        "width": "279",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106980590-1637905622998-gettyimages-1236809455-AFP_9TE4Z8.jpeg?v=1637905277",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-11-26T06:06:16+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/11/26/solomon-islands-unrest.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Australian police began taking control of the Solomon Islands capital Honiara on Friday after days of violent protests in the island nation, witnesses said.",
+                        "twitter:creator": "@CNBC",
+                        "parsely-metadata": "{\"nodeid\":106980589,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106980590-1637905622998-gettyimages-1236809455-AFP_9TE4Z8.jpeg?v=1637905277\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106980589",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-11-26T06:06:16+0000",
+                        "news_keywords": "business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "wirestory",
+                        "og:type": "article",
+                        "twitter:title": "Australian police take control of Solomon Islands capital after days of unrest, witnesses say",
+                        "article:section": "Asia News",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "og:title": "Australian police take control of Solomon Islands capital after days of unrest, witnesses say",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106980590-1637905622998-gettyimages-1236809455-AFP_9TE4Z8.jpeg?v=1637905277",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Australian police began taking control of the Solomon Islands capital Honiara on Friday after days of violent protests in the island nation, witnesses said.",
+                        "og:url": "https://www.cnbc.com/2021/11/26/solomon-islands-unrest.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106980590-1637905622998-gettyimages-1236809455-AFP_9TE4Z8.jpeg?v=1637905277"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "Cryptocurrency Regulations: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "htmlSnippet": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CBSI Issues Warning on Cryptocurrencies",
+            "htmlTitle": "CBSI Issues Warning on <b>Cryptocurrencies</b>",
+            "link": "https://www.tcsi.org.sb/index.php/latest-news/74-cbsi-issues-warning-on-cryptocurrencies",
+            "displayLink": "www.tcsi.org.sb",
+            "snippet": "Nov 1, 2019 ... ... Solomon Islands (CBSI) has warned the general public that cryptocurrencies are not currencies issued or regulated by the Central Bank.",
+            "htmlSnippet": "Nov 1, 2019 <b>...</b> ... <b>Solomon Islands</b> (CBSI) has warned the general public that <b>cryptocurrencies</b> are not currencies issued or <b>regulated</b> by the Central Bank.",
+            "cacheId": "X6AzXlLrkp0J",
+            "formattedUrl": "https://www.tcsi.org.sb/index.../74-cbsi-issues-warning-on-cryptocurrencies",
+            "htmlFormattedUrl": "https://www.tcsi.org.sb/index.../74-cbsi-issues-warning-on-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEt_W-AJhVWyjUH8pesWAm2NrUvtYbbfcJcfHWaUSGTzeihV_oIbKGhO8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Web Admin"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:site_name": "Telecommunications Commission of Solomon Islands",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "author": "Web Admin",
+                        "rights": "Telecommunications Commission of the Solomon Islands",
+                        "og:description": "TCSI is responsible for ensuring the effectiveness of the statutory market driven approach, while also protecting the interests of consumers and encouraging sustainable investment in the sector."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.tcsi.org.sb/images/news/2019-11-01-Crptocurrencies.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "image": "https://www.tcsi.org.sb/images/news/2019-11-01-Crptocurrencies.jpg",
+                        "articlebody": "(TCSI): The Central Bank of Solomon Islands (CBSI) has warned the general public that cryptocurrencies are not currencies issued or regulated by the Central Bank. This includes virtual or digital...",
+                        "inlanguage": "en-GB",
+                        "name": "CBSI Issues Warning on Cryptocurrencies",
+                        "genre": "Press",
+                        "interactioncount": "UserPageVisits:0",
+                        "datepublished": "2019-11-01T10:55:54+11:00"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Latest News",
+                        "name": "Latest News",
+                        "position": "2"
+                    },
+                    {
+                        "name": "CBSI Issues Warning on Cryptocurrencies",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Monetary Fund - Homepage",
+            "htmlTitle": "International Monetary Fund - Homepage",
+            "link": "https://www.imf.org/en/Home",
+            "displayLink": "www.imf.org",
+            "snippet": "Solomon Islands: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for Solomon Islands. January 21, 2022.",
+            "htmlSnippet": "<b>Solomon Islands</b>: 2021 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for <b>Solomon Islands</b>. January 21, 2022.",
+            "cacheId": "Jvtr3mglvrIJ",
+            "formattedUrl": "https://www.imf.org/en/Home",
+            "htmlFormattedUrl": "https://www.imf.org/en/Home",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1OMmGl4xnJ_cCTAshWmzo_0jtK12oS-w5prCYBOG5lH_INvck_t7-XKH",
+                        "width": "223",
+                        "height": "226"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-10-04",
+                        "country": "Sudan,Democratic Republic of the Congo,Republic of Congo,People's Republic of China,Republic of Equatorial Guinea,Guinea-Bissau,People's Republic of China - Hong Kong Special Administrative Region,Macao Special Administrative Region of the People's Republic of China,Mexico,Solomon Islands",
+                        "og:image": "https://www.imf.org/-/media/Images/IMF/News/twitter-seal.ashx",
+                        "twitter:card": "summary",
+                        "og:site_name": "IMF",
+                        "isocode": "SDN,COD,COG,CHN,GNQ,GNB,HKG,MAC,MEX,SLB",
+                        "language": "ENG",
+                        "type": "Standard Page Full Width",
+                        "og:description": "IMF Home page with links to News, About the IMF, Fund Rates, IMF Publications, What's New, Standards and Codes, Country Information and featured topics.",
+                        "twitter:image": "https://www.imf.org/-/media/Images/IMF/News/twitter-seal.ashx",
+                        "itemid": "{038B22AB-BB1A-4F7F-B91D-4B3592CD5574}",
+                        "twitter:site": "IMF",
+                        "creator": "International Monetary Fund",
+                        "og:type": "article",
+                        "twitter:title": "International Monetary Fund - Homepage",
+                        "og:title": "International Monetary Fund - Homepage",
+                        "templateid": "{85C0E23F-82D7-4C7E-867D-AD43E9FAA428}",
+                        "isoregion": "AFR",
+                        "site": "imf",
+                        "og:locale:alternate": "zh",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "requestid": "{85ef1f95-12d4-4bd3-87df-9c69c507a0a2}",
+                        "twitter:description": "IMF Home page with links to News, About the IMF, Fund Rates, IMF Publications, What's New, Standards and Codes, Country Information and featured topics.",
+                        "organization": "Group of Twenty",
+                        "og:locale": "en",
+                        "topic": "Integrated Policy Framework,Sustainable Development Goals (SDG),COVID-19,Financial sector stability,Income inequality,IMF lending,SDRs,SDR allocations,Article IV consultations,Executive Board",
+                        "region": "Africa",
+                        "og:url": "https://www.imf.org/en/Home"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.imf.org/-/media/Images/IMF/News/twitter-seal.ashx"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Examining Regulatory Frameworks for Digital Currencies and ...",
+            "htmlTitle": "Examining <b>Regulatory</b> Frameworks for Digital Currencies and ...",
+            "link": "https://www.banking.senate.gov/download/nelson-testimony-7-30-19",
+            "displayLink": "www.banking.senate.gov",
+            "snippet": "Jul 30, 2019 ... to regulate cryptocurrency, and the potential need for harmonization of ... Similarly, Malta is promoting itself as \u201cBlockchain Island.",
+            "htmlSnippet": "Jul 30, 2019 <b>...</b> to <b>regulate cryptocurrency</b>, and the potential need for harmonization of ... Similarly, Malta is promoting itself as \u201cBlockchain <b>Island</b>.",
+            "cacheId": "5M3uNaiIoDYJ",
+            "formattedUrl": "https://www.banking.senate.gov/download/nelson-testimony-7-30-19",
+            "htmlFormattedUrl": "https://www.banking.senate.gov/download/nelson-testimony-7-30-19",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT33ejUVempww7NY7YTeU8QCQG-WylpJCWxYpSt65NO8MvQskA1Gy0Ajc",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190726160618-04'00'",
+                        "creator": "Microsoft\u00ae Word 2016",
+                        "creationdate": "D:20190726160618-04'00'",
+                        "author": "Rebecca M. Nelson",
+                        "subject": "CRS Insights",
+                        "producer": "Microsoft\u00ae Word 2016",
+                        "title": "Examining Regulatory Frameworks for Digital Currencies and Blockchain"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///3d070f807b0d94a32f9d44858e5321a1ae40a15a95ff43794c8c9383bee6b7b4"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulations in US & Abroad",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulations</b> in US &amp; Abroad",
+            "link": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Jan 27, 2021 ... How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "htmlSnippet": "Jan 27, 2021 <b>...</b> How the <b>laws</b> &amp; <b>regulations</b> affecting blockchain technology and <b>cryptocurrencies</b>, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "cacheId": "Mvo5XQTizbcJ",
+            "formattedUrl": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us- global",
+            "htmlFormattedUrl": "https://www.businessinsider.com/blockchain-<b>cryptocurrency</b>-<b>regulations</b>-us- global",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0SsBztfFwqsWxHy5W3WHKbdkxx1gx1y5qYCEP69RFVI0cKCbiKHnV7E",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-01-27",
+                        "og:image": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "og:description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@clusterstock",
+                        "news_keywords": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "sailthru.title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-03-02T21:21:33Z",
+                        "pubdate": "2021-01-27T20:36:11Z",
+                        "sailthru.verticals": "clusterstock, research",
+                        "sailthru.date": "2021-01-27",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "Global Finance Execs' View Of Blockchain Challenges",
+                        "author": "Insider Intelligence",
+                        "tbi-vertical": "Finance",
+                        "og:title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "ia:markup_url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+                        "sailthru.author": "Insider Intelligence",
+                        "sailthru.image.full": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A tiny Pacific nation is creating its own digital currency | Crypto | Al ...",
+            "htmlTitle": "A tiny Pacific nation is creating its own digital currency | Crypto | Al ...",
+            "link": "https://www.aljazeera.com/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Sep 12, 2019 ... Solomon Islands. The Marshall Islands is one of a few Pacific island states, including Palau and the Federated States of Micronesia that\u00a0...",
+            "htmlSnippet": "Sep 12, 2019 <b>...</b> <b>Solomon Islands</b>. The Marshall Islands is one of a few Pacific island states, including Palau and the Federated States of Micronesia that&nbsp;...",
+            "cacheId": "pf3Bhd-vl5AJ",
+            "formattedUrl": "https://www.aljazeera.com/.../a-tiny-pacific-nation-is-creating-its-own-digital- currency",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../a-tiny-pacific-nation-is-creating-its-own-digital- currency",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJvtYNdfrhHlTD0ilekEF1OJOpkDRZipYrijVrxuoBEMu50Nv24QAV2Mk",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2019/09/eb997798066d4aefad534518cf06dd87_18.jpeg?fit=1000%2C561",
+                        "pageauthors": "Joanna Ossinger",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "A tiny Pacific nation is creating its own digital currency",
+                        "taxonomy-tags": "Economy, Business and Economy, Crypto, Science and Technology",
+                        "twitter:url": "https://www.aljazeera.com/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+                        "pagesection": "Economy,Business and Economy,Crypto,Science and Technology",
+                        "og:title": "A tiny Pacific nation is creating its own digital currency",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+                        "source": "Bloomberg",
+                        "og:description": "The Marshall Islands wants to reduce its dependence on the US dollar with what it is calling the Marshallese sovereign.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2019/09/eb997798066d4aefad534518cf06dd87_18.jpeg?fit=1000%2C561",
+                        "twitter:image:alt": "A tiny Pacific nation is creating its own digital currency",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "The Marshall Islands wants to reduce its dependence on the US dollar with what it is calling the Marshallese sovereign.",
+                        "og:url": "https://www.aljazeera.com/economy/2019/9/12/a-tiny-pacific-nation-is-creating-its-own-digital-currency",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2019/09/eb997798066d4aefad534518cf06dd87_18.jpeg?fit=1000%2C561"
+                    }
+                ]
+            }
+        }
+    ]
+}

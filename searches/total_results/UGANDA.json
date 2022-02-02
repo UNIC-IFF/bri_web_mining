@@ -1,0 +1,538 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - UGANDA",
+                "totalResults": "774000",
+                "searchTerms": "UGANDA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - UGANDA",
+                "totalResults": "774000",
+                "searchTerms": "UGANDA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.282965,
+        "formattedSearchTime": "0.28",
+        "totalResults": "774000",
+        "formattedTotalResults": "774,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Uganda's finance watchdog calls for crypto regulations in the country",
+            "htmlTitle": "<b>Uganda&#39;s</b> finance watchdog calls for crypto <b>regulations</b> in the country",
+            "link": "https://cointelegraph.com/news/uganda-s-finance-watchdog-calls-for-crypto-regulations-in-the-country",
+            "displayLink": "cointelegraph.com",
+            "snippet": "May 24, 2021 ... Uganda's Financial Intelligence Authority \u2014 the country's Anti-Money ... develop a legal framework for cryptocurrency regulations in Uganda.",
+            "htmlSnippet": "May 24, 2021 <b>...</b> <b>Uganda&#39;s</b> Financial Intelligence Authority \u2014 the country&#39;s Anti-Money ... develop a legal framework for <b>cryptocurrency regulations</b> in <b>Uganda</b>.",
+            "cacheId": "mq2wCnX6sIoJ",
+            "formattedUrl": "https://cointelegraph.com/.../uganda-s-finance-watchdog-calls-for-crypto- regulations-in-the-country",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>uganda</b>-s-finance-watchdog-calls-for-crypto- <b>regulations</b>-in-the-country",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnNrlxcthxxDMrXgRdEUlgZDXI_PNeV11LBXh3UcEUFYAmrzXzu5yCHs",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvOTFkYTlmN2MtZmM0Yi00OTNlLWJjMjgtMTc4MzMyMmY2YzNjLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Uganda's finance watchdog calls for crypto regulations in the country",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Uganda's finance watchdog calls for crypto regulations in the country",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Uganda's Financial Intelligence Authority \u2014 the country's Anti-Money Laundering regulator \u2014 has asked the government to create clear-cut cryptocurrency regulations.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvOTFkYTlmN2MtZmM0Yi00OTNlLWJjMjgtMTc4MzMyMmY2YzNjLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Uganda's Financial Intelligence Authority \u2014 the country's Anti-Money Laundering regulator \u2014 has asked the government to create clear-cut cryptocurrency regulations.",
+                        "og:url": "https://cointelegraph.com/news/uganda-s-finance-watchdog-calls-for-crypto-regulations-in-the-country"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDUvOTFkYTlmN2MtZmM0Yi00OTNlLWJjMjgtMTc4MzMyMmY2YzNjLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Declaration on Fundamental Principles on the regulation of ...",
+            "htmlTitle": "Declaration on Fundamental Principles on the <b>regulation of</b> ...",
+            "link": "http://unafri.or.ug/wp-content/uploads/2018/04/Kampala-Declaration-on-Principles-on-regulation-of-cryptocurrencies-and-Blockchain-April-23.pdf",
+            "displayLink": "unafri.or.ug",
+            "snippet": "Whereas the Central Bank of Uganda, policy makers, financial regulators and legislators ... THE Second Round Table on Cryptocurrency regulation.",
+            "htmlSnippet": "Whereas the Central Bank of <b>Uganda</b>, policy makers, financial regulators and legislators ... THE Second Round Table on <b>Cryptocurrency regulation</b>.",
+            "cacheId": "DcUr0Z97LK8J",
+            "formattedUrl": "unafri.or.ug/.../Kampala-Declaration-on-Principles-on-regulation-of- cryptocurrencies-and-Blockchain-April-23.pdf",
+            "htmlFormattedUrl": "unafri.or.ug/.../Kampala-Declaration-on-Principles-on-<b>regulation-of- cryptocurrencies</b>-and-Blockchain-April-23.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "moddate": "D:20180423123812+03'00'",
+                        "creationdate": "D:20180420151151+01'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "author": "Mapp",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Uganda | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Uganda</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/uganda",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Uganda for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Uganda</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "mQnFclHoq-0J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/uganda",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>uganda</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Uganda for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Uganda | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Uganda for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Uganda | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/uganda"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uganda Blockchain Association Endorses Calls for the Creation of ...",
+            "htmlTitle": "<b>Uganda</b> Blockchain Association Endorses Calls for the Creation of ...",
+            "link": "https://news.bitcoin.com/uganda-blockchain-association-endorses-calls-for-creation-of-crypto-regulatory-framework/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Aug 10, 2021 ... Uganda's blockchain community welcomes the recent call on authorities to create a cryptocurrency regulatory framework.",
+            "htmlSnippet": "Aug 10, 2021 <b>...</b> <b>Uganda&#39;s</b> blockchain community welcomes the recent call on authorities to create a <b>cryptocurrency regulatory</b> framework.",
+            "cacheId": "KHtIbe5mFgYJ",
+            "formattedUrl": "https://news.bitcoin.com/uganda-blockchain-association-endorses-calls-for- creation-of-crypto-regulatory-framework/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>uganda</b>-blockchain-association-endorses-calls-for- creation-of-crypto-<b>regulatory</b>-framework/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSabRYFw-fhNIlWbZl98r_ItwedF7jZh9JUFQUwcytNtEXaudSbk6_rnWc",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_641374774.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-08-10T09:30:53+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Uganda Blockchain Association Endorses Calls for the Creation of Crypto Regulatory Framework \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Uganda\u2019s blockchain community welcomes the recent call on authorities to create a cryptocurrency regulatory framework.",
+                        "twitter:creator": "@https://twitter.com/tem2ra",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Terence Zimwara",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-08-10T08:20:29+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/uganda-blockchain-association-endorses-calls-for-creation-of-crypto-regulatory-framework/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Uganda Blockchain Association Endorses Calls for the Creation of Crypto Regulatory Framework"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/08/shutterstock_641374774.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "currency may lead regulators to issue stricter legislation in an effort to quash the potential use of virtual currencies. 9. Uganda. Regulatory environment. \u2022\u00a0...",
+            "htmlSnippet": "currency may lead regulators to issue stricter legislation in an effort to quash the potential use of virtual currencies. 9. <b>Uganda</b>. <b>Regulatory</b> environment. \u2022&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Demystifying the future of money: Regulation of Cryptocurrencies in ...",
+            "htmlTitle": "Demystifying the future of money: <b>Regulation of Cryptocurrencies</b> in ...",
+            "link": "https://www.linkedin.com/pulse/demystifying-future-money-regulation-cryptocurrencies-ayebazibwe",
+            "displayLink": "www.linkedin.com",
+            "snippet": "Jun 21, 2021 ... The Government of Uganda further clarified that it does not recognize any crypto-currency as legal tender in Uganda but has not expressly stated\u00a0...",
+            "htmlSnippet": "Jun 21, 2021 <b>...</b> The Government of <b>Uganda</b> further clarified that it does not recognize any crypto-currency as legal tender in <b>Uganda</b> but has not expressly stated&nbsp;...",
+            "formattedUrl": "https://www.linkedin.com/.../demystifying-future-money-regulation- cryptocurrencies-ayebazibwe",
+            "htmlFormattedUrl": "https://www.linkedin.com/.../demystifying-future-money-<b>regulation</b>- <b>cryptocurrencies</b>-ayebazibwe",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://media-exp1.licdn.com/dms/image/C4D12AQEOJvLMQ_kXNw/article-cover_image-shrink_720_1280/0/1624301011050?e=1648684800&v=beta&t=ptOsdAva4ux7KCX9qXZxzJT_n96VaIQnpgyIp0JTSZE",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Demystifying the future of money:    Regulation of Cryptocurrencies in Uganda.",
+                        "clientsideingraphs": "1",
+                        "linkedin:pagetag": "index=index;remove=c",
+                        "og:title": "Demystifying the future of money:    Regulation of Cryptocurrencies in Uganda.",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Reading time",
+                        "pagekey": "p_flagship2_pulse_read",
+                        "locale": "en_US",
+                        "og:description": "\u201c\u2026. the whole purpose behind cryptocurrencies is to create an item of tradeable value not simply to record or to impart in confidence or information.",
+                        "twitter:image": "https://media-exp1.licdn.com/dms/image/C4D12AQEOJvLMQ_kXNw/article-cover_image-shrink_720_1280/0/1624301011050?e=1648684800&v=beta&t=ptOsdAva4ux7KCX9qXZxzJT_n96VaIQnpgyIp0JTSZE",
+                        "twitter:data1": "Edigar Ayebazibwe",
+                        "twitter:data2": "5 min read",
+                        "twitter:site": "@LinkedInEditors",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "\u201c\u2026. the whole purpose behind cryptocurrencies is to create an item of tradeable value not simply to record or to impart in confidence or information.",
+                        "og:url": "https://www.linkedin.com/pulse/demystifying-future-money-regulation-cryptocurrencies-ayebazibwe"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media-exp1.licdn.com/dms/image/C4D12AQEOJvLMQ_kXNw/article-cover_image-shrink_720_1280/0/1624301011050?e=1648684800&v=beta&t=ptOsdAva4ux7KCX9qXZxzJT_n96VaIQnpgyIp0JTSZE"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Uganda and Cryptocurrency - Freeman Law",
+            "htmlTitle": "<b>Uganda</b> and <b>Cryptocurrency</b> - Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/uganda/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Uganda Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Since cryptocurrencies are not regulated by\u00a0...",
+            "htmlSnippet": "<b>Uganda Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. Since <b>cryptocurrencies</b> are not regulated by&nbsp;...",
+            "cacheId": "YVWrs2NWXbsJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/uganda/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>uganda</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ13IH6zFPZloAaSx8NGHgminzr3R1N0ASazb8nrauQrD5dj9vJAuTIZtr",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494456-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T23:14:04+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/uganda/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Uganda and Cryptocurrency Uganda Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Since cryptocurrencies are not regulated by the government or central bank, market participants trade and invest entirely at their own risk in Uganda. For this reason, cryptocurrencies are not backed by assets or government guarantees, and issuers are not required to exchange them for legal currency ...",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494456-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494456-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:43+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Uganda bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Uganda and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Uganda and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:43+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Uganda and Cryptocurrency Uganda Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Since cryptocurrencies are not regulated by the government or central bank, market participants trade and invest entirely at their own risk in Uganda. For this...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/uganda/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494456-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "REGULATING BLOCKCHAIN & CRYPTOCURRENCY IN UGANDA ...",
+            "htmlTitle": "<b>REGULATING</b> BLOCKCHAIN &amp; <b>CRYPTOCURRENCY</b> IN <b>UGANDA</b> ...",
+            "link": "https://www.ktaadvocates.com/regulating-blockchain-cryptocurrency-in-uganda/",
+            "displayLink": "www.ktaadvocates.com",
+            "snippet": "May 11, 2019 ... Since the press release, the interest in Blockchain & Cryptocurrency has tripled. Although Uganda does not regulate Blockchain & cryptos, the\u00a0...",
+            "htmlSnippet": "May 11, 2019 <b>...</b> Since the press release, the interest in Blockchain &amp; <b>Cryptocurrency</b> has tripled. Although <b>Uganda</b> does not <b>regulate</b> Blockchain &amp; cryptos, the&nbsp;...",
+            "cacheId": "qSsFJZrBtkoJ",
+            "formattedUrl": "https://www.ktaadvocates.com/regulating-blockchain-cryptocurrency-in- uganda/",
+            "htmlFormattedUrl": "https://www.ktaadvocates.com/<b>regulating</b>-blockchain-<b>cryptocurrency</b>-in- <b>uganda</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRC2dmu6l6SaQ29K8BwB6fkUEyqHLSvI0jtOimk4ORSoS1rYPS4iyTymbo",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ktaadvocates.com/wp-content/uploads/2020/09/kta-image-placeholder.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2019-05-11T10:26:00+00:00",
+                        "og:image:width": "1140",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "KTA Advocates | East African Intellectual Property & Technology Law Firm",
+                        "og:title": "REGULATING BLOCKCHAIN & CRYPTOCURRENCY IN UGANDA - KTA Advocates | East African Intellectual Property & Technology Law Firm",
+                        "og:image:height": "640",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.ktaadvocates.com/wp-content/uploads/2018/10/favicon.png",
+                        "og:description": "Paper Presented at Cryptocurrency and Blockchain Policy making Workshop, July 4th \u2013 July 5th 2018, Kampala Kenneth Muhangi LLB Hons (UCU) LLM (Wales) Dip Lp. LDC Partner- Technology, Media, Telecommunications, Intellectual Property KTA Advocates www.ktaadvocates.com A CASE FOR REGULATING BLOCKCHAIN & CRYPTOCURRENCY IN UGANDA On Tuesday February 14th, 2017, Bank of Uganda, issued a press release that was circulated in the media, warning the general public about \u201cOne coin Digital Money\u2019 operations in Uganda. The statement by the Governor, warned that One Coin\u2019s dealings in Cryptocurrency like Bitcoin, falls outside the regulatory Purview of the Central Bank. Since the press release, the interest in Blockchain & Cryptocurrency has tripled. Although Uganda does not regulate Blockchain & cryptos, the general consensus is that regulators (like the Central Bank) need to clarify the place for Cryptocurrency and Blockchain in Uganda\u2019s emerging Fin-tech economy. This need is ever-so amplified, by the necessit",
+                        "twitter:creator": "@kta_law",
+                        "article:publisher": "https://web.facebook.com/KTAAdvocates/",
+                        "twitter:data1": "KTA Advocates",
+                        "twitter:data2": "10 minutes",
+                        "twitter:site": "@kta_law",
+                        "article:modified_time": "2021-07-20T17:42:07+00:00",
+                        "viewport": "width=device-width,initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.ktaadvocates.com/regulating-blockchain-cryptocurrency-in-uganda/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ktaadvocates.com/wp-content/uploads/2020/09/kta-image-placeholder.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Home"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A global legal and regulatory guide to cryptocurrencies | Uganda ...",
+            "htmlTitle": "A global legal and <b>regulatory</b> guide to <b>cryptocurrencies</b> | <b>Uganda</b> ...",
+            "link": "https://www.nortonrosefulbright.com/en-ug/knowledge/publications/c1a5593d/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-2",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "Norton Rose Fulbright's global blockchain and cryptocurrency team has produced a global legal and regulatory guide to cryptocurrencies.",
+            "htmlSnippet": "Norton Rose Fulbright&#39;s global blockchain and <b>cryptocurrency</b> team has produced a global legal and <b>regulatory</b> guide to <b>cryptocurrencies</b>.",
+            "cacheId": "0XwWvGGyvGwJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-regulatory-guide- to-cryptocurrencies---chapter-2",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-<b>regulatory</b>-guide- to-<b>cryptocurrencies</b>---chapter-2",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyWwmIVeXb48QkspBIIf6iYmYuPVojwZTLN8XjGsGP13TbMRTdMwxLW5c",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision=",
+                        "og:type": "article",
+                        "og:title": "A global legal and regulatory guide to cryptocurrencies - Chapter 2",
+                        "dc.format": "text/html",
+                        "dc.date.created": "08/08/2018 21:02:18",
+                        "og:description": "As bitcoin and other virtual currencies become better established, so it is likely that demand for insurance to protect against the particular risks associated with them will increase.",
+                        "nrf-mac": "NRFPRDCD2",
+                        "dc.source": "https://www.nortonrosefulbright.com/en-ug/knowledge/publications/imported/2018/08/08/20",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "dc.title": "A global legal and regulatory guide to cryptocurrencies | Chapter 1: An introduction to cryptocurrencies | Global law firm | Norton Rose Fulbright",
+                        "dc.date.modified": "11/01/2018 04:44:24",
+                        "dc.language": "en-UG",
+                        "og:url": "https://www.nortonrosefulbright.com/en-ug/knowledge/publications/c1a5593d/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision="
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "The BBC adds that cryptocurrency is gaining ground in Uganda. ... That African governments are not now regulating cryptocurrency may be a factor spurring\u00a0...",
+            "htmlSnippet": "The BBC adds that <b>cryptocurrency</b> is gaining ground in <b>Uganda</b>. ... That African governments are not now <b>regulating cryptocurrency</b> may be a factor spurring&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

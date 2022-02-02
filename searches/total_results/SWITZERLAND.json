@@ -1,0 +1,655 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SWITZERLAND",
+                "totalResults": "750000",
+                "searchTerms": "SWITZERLAND",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SWITZERLAND",
+                "totalResults": "750000",
+                "searchTerms": "SWITZERLAND",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.329128,
+        "formattedSearchTime": "0.33",
+        "totalResults": "750000",
+        "formattedTotalResults": "750,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Switzerland | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Switzerland</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/switzerland",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Switzerland has no laws or regulations that are tailor-made to the phenomenon of cryptocurrencies or mining of cryptocurrencies. Hence, mining of\u00a0...",
+            "htmlSnippet": "<b>Switzerland</b> has no <b>laws</b> or <b>regulations</b> that are tailor-made to the phenomenon of <b>cryptocurrencies</b> or mining of <b>cryptocurrencies</b>. Hence, mining of&nbsp;...",
+            "cacheId": "2TGp--UDbakJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/switzerland",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>switzerland</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    },
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the Switzerland chapter of Blockchain & Cryptocurrency Regulation 2022 in PDF format or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGHaL-MZCcbizko3tx_BAGYXy0oyyJYeUdaus2rAmgOeWzS7KGRGHsG0g",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Daniel Haeberli",
+                        "url": "Daniel Haeberli"
+                    },
+                    {
+                        "name": "Stefan Oesterhelt",
+                        "url": "Stefan Oesterhelt"
+                    },
+                    {
+                        "name": "Alexander Wherlock",
+                        "url": "Alexander Wherlock"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/XYrFXfb9JHs5n6RyBb8zMa2WgtbQ6DTExfQv8cNQ.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Switzerland chapter written by Daniel Haeberli - Homburger and Stefan Oesterhelt - Homburger and Alexander Wherlock - Homburger covering 11 topics",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Switzerland | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "GLI: Blockchain & Cryptocurrency Regulation 2022 - Switzerland chapter written by Daniel Haeberli - Homburger and Stefan Oesterhelt - Homburger and Alexander Wherlock - Homburger covering 11 topics",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Switzerland | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/switzerland"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/XYrFXfb9JHs5n6RyBb8zMa2WgtbQ6DTExfQv8cNQ.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Law and Regulations Switzerland - ComplyAdvantage",
+            "htmlTitle": "<b>Cryptocurrency</b> Law and <b>Regulations Switzerland</b> - ComplyAdvantage",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-switzerland/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Jul 4, 2018 ... Cryptocurrency Regulations in Switzerland are legal, and can be accepted as payments in some contexts. Cryptocurrency is regulated by the\u00a0...",
+            "htmlSnippet": "Jul 4, 2018 <b>...</b> <b>Cryptocurrency Regulations</b> in <b>Switzerland</b> are legal, and can be accepted as payments in some contexts. <b>Cryptocurrency</b> is <b>regulated</b> by the&nbsp;...",
+            "cacheId": "mLJDZGIPNhcJ",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations- switzerland/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>- <b>switzerland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk56hlVA2ZyFqMt18evYe5PS9HExaCfy98wrtxtgqbdt60yJYAnbumoX8O",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/07/8.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in Switzerland",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in Switzerland",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "In Switzerland cryptocurrencies and exchanges are legal, and the country has adopted a remarkably progressive stance towards cryptocurrency regulations.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "3 minutes",
+                        "parsely-tags": "cryptocurrency regulations switzerlandcrypto regulations switzerlandcryptocurrency exchanges regulations switzerlandaml crypto switzerland",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T16:08:38+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-switzerland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/07/8.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Switzerland Crypto Regulations: KYC, Taxes & FINMA | Coinfirm",
+            "htmlTitle": "<b>Switzerland</b> Crypto <b>Regulations</b>: KYC, Taxes &amp; FINMA | Coinfirm",
+            "link": "https://www.coinfirm.com/blog/switzerland-crypto-regulations/",
+            "displayLink": "www.coinfirm.com",
+            "snippet": "Jan 12, 2021 ... Yes. Cryptocurrency exchanges are legal in Switzerland as long as they are licenced and therefore regulated by FINMA. Exchanges or more broadly,\u00a0...",
+            "htmlSnippet": "Jan 12, 2021 <b>...</b> Yes. <b>Cryptocurrency</b> exchanges are legal in <b>Switzerland</b> as long as they are licenced and therefore <b>regulated</b> by FINMA. Exchanges or more broadly,&nbsp;...",
+            "cacheId": "e3ZoqAcQg0cJ",
+            "formattedUrl": "https://www.coinfirm.com/blog/switzerland-crypto-regulations/",
+            "htmlFormattedUrl": "https://www.coinfirm.com/blog/<b>switzerland</b>-crypto-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNR0ro6hdwUcJPo1zh55MtBwwiCM39Fb2oY2-k9dxapUKPUPCq2Cbfpj4",
+                        "width": "335",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coinfirm.com/wp-content/uploads/2021/01/switzerland_cryptocurrency_regulations-1536x690-1.jpg",
+                        "og:image:width": "1536",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Switzerland Crypto Regulations: KYC, Taxes & FINMA",
+                        "og:article:modified_time": "2021-02-10 17:28:42",
+                        "author": "Sachin Dutta",
+                        "og:title": "Switzerland Crypto Regulations: KYC, Taxes & FINMA",
+                        "og:image:height": "690",
+                        "og:article:published_time": "2021-01-12 12:54:32",
+                        "msapplication-tileimage": "https://www.coinfirm.com/wp-content/uploads/2020/09/coinfirmsvg-sd.svg",
+                        "og:description": "Switzerland Crypto Regulations Key Takeaways;\n\n\n\nZug residents pay taxes in cryptoStrict AML, KYC & CFT requirementsCryptocurrencies are legal tender in som",
+                        "twitter:image": "https://www.coinfirm.com/wp-content/uploads/2021/01/switzerland_cryptocurrency_regulations-1536x690-1.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Switzerland Crypto Regulations Key Takeaways;\n\n\n\nZug residents pay taxes in cryptoStrict AML, KYC & CFT requirementsCryptocurrencies are legal tender in som",
+                        "og:url": "https://www.coinfirm.com/blog/switzerland-crypto-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coinfirm.com/wp-content/uploads/2021/01/switzerland_cryptocurrency_regulations-1536x690-1.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Blockchain Analytics",
+                        "url": "AML Platform"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Compliance Insights",
+                        "name": "Compliance Insights",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Virtual Currency Regulation Review: Switzerland",
+            "htmlTitle": "The Virtual Currency <b>Regulation</b> Review: <b>Switzerland</b>",
+            "link": "https://thelawreviews.co.uk/title/the-virtual-currency-regulation-review/switzerland",
+            "displayLink": "thelawreviews.co.uk",
+            "snippet": "Sep 2, 2021 ... Switzerland has a favourable and attractive legal framework regarding cryptoassets, although it does not have a separate legal framework for\u00a0...",
+            "htmlSnippet": "Sep 2, 2021 <b>...</b> <b>Switzerland</b> has a favourable and attractive legal framework regarding cryptoassets, although it does not have a separate legal framework for&nbsp;...",
+            "cacheId": "vFs2bclFCEQJ",
+            "formattedUrl": "https://thelawreviews.co.uk/title/the-virtual...regulation-review/switzerland",
+            "htmlFormattedUrl": "https://thelawreviews.co.uk/title/the-virtual...<b>regulation</b>-review/<b>switzerland</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "/images/logos/tlr-logo.svg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "csrf-token": "VKlzTYNVzdMemUS4saWP8ww2urkwZe6x7L5M9Z3s"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "/images/logos/tlr-logo.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Swiss law reforms make crypto respectable - SWI swissinfo.ch",
+            "htmlTitle": "<b>Swiss</b> law reforms make crypto respectable - SWI swissinfo.ch",
+            "link": "https://www.swissinfo.ch/eng/swiss-law-reforms-make-crypto-respectable/46024124",
+            "displayLink": "www.swissinfo.ch",
+            "snippet": "Sep 10, 2020 ... Bitcoin used to be something of a dirty word, associated with crime and money laundering. Switzerland has now amended its legal code to\u00a0...",
+            "htmlSnippet": "Sep 10, 2020 <b>...</b> Bitcoin used to be something of a dirty word, associated with crime and money laundering. <b>Switzerland</b> has now amended its legal code to&nbsp;...",
+            "cacheId": "acl3DsIGma4J",
+            "formattedUrl": "https://www.swissinfo.ch/eng/swiss-law-reforms-make-crypto.../46024124",
+            "htmlFormattedUrl": "https://www.<b>swiss</b>info.ch/eng/<b>swiss</b>-law-reforms-make-crypto.../46024124",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF6Ntdtnm8kHUYtLGR0h0AJOD4SXxNBejGofHiVNWgumlcjSvGkXafIpp7",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "d36baa68f8d1b3b487bf73ec58eeba89",
+                        "op:markup_version": "v1.0",
+                        "og:image": "https://www.swissinfo.ch/resource/image/46024148/landscape_ratio16x9/1920/1080/f6854e7c1ad13c9452fd40693ce2b270/F0AD760A34900F13825E2BC46AF5BDBE/bitcoinbuy.jpg",
+                        "copyright": "SWI swissinfo.ch copyright (c)",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "SWI swissinfo.ch",
+                        "og:description": "Switzerland becomes the first major financial centre to enact a comprehensive set of laws to govern blockchain commerce.",
+                        "twitter:creator": "@swissinfo_en",
+                        "article:publisher": "https://www.facebook.com/swissinfo/",
+                        "twitter:image": "https://www.swissinfo.ch/resource/image/46024148/landscape_ratio16x9/1920/1080/f6854e7c1ad13c9452fd40693ce2b270/F0AD760A34900F13825E2BC46AF5BDBE/bitcoinbuy.jpg",
+                        "twitter:image:alt": "Person buying bitcoin from an ATM",
+                        "twitter:site": "@swissinfo_en",
+                        "news_keywords": "banking,computing and information technology,economy (general),Business,Politics",
+                        "fb:admins": "100001790948545",
+                        "og:type": "article",
+                        "twitter:title": "Swiss law reforms make crypto respectable",
+                        "twitter:domain": "www.swissinfo.ch",
+                        "author": "swissinfo.ch",
+                        "og:title": "Swiss law reforms make crypto respectable",
+                        "og:image:height": "1080",
+                        "fb:pages": "81049933496",
+                        "fb:app_id": "135593233180345",
+                        "apple-mobile-web-app-status-bar-style": "white",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Switzerland becomes the first major financial centre to enact a comprehensive set of laws to govern blockchain commerce.",
+                        "fb:article_style": "default",
+                        "og:url": "https://www.swissinfo.ch/eng/business/swiss-law-reforms-make-crypto-respectable/46024124"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.swissinfo.ch/resource/image/46024148/landscape_ratio16x9/1920/1080/f6854e7c1ad13c9452fd40693ce2b270/F0AD760A34900F13825E2BC46AF5BDBE/bitcoinbuy.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Swiss Regulation on Cryptocurrencies - Golden Capitalist",
+            "htmlTitle": "<b>Swiss Regulation</b> on <b>Cryptocurrencies</b> - Golden Capitalist",
+            "link": "https://www.goldencapitalist.com/swiss-regulation-on-cryptocurrencies/",
+            "displayLink": "www.goldencapitalist.com",
+            "snippet": "There are no restrictions on buying/selling cryptocurrencies or using them to pay for goods or services, no special approval is required for this. However,\u00a0...",
+            "htmlSnippet": "There are no restrictions on buying/selling <b>cryptocurrencies</b> or using them to pay for goods or services, no special approval is required for this. However,&nbsp;...",
+            "cacheId": "5us7oW9rs98J",
+            "formattedUrl": "https://www.goldencapitalist.com/swiss-regulation-on-cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.goldencapitalist.com/<b>swiss</b>-<b>regulation</b>-on-<b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoIS-2WNsj736jDGmxQ0_u0Li4Y3KmjasyjIaIC3mRKqlvtUNjbOtC7A8",
+                        "width": "295",
+                        "height": "171"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://goldencapitalist.com/wp-content/uploads/2021/06/11.jpg",
+                        "article:published_time": "2021-06-18T12:44:18+00:00",
+                        "og:image:width": "1128",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Golden Capitalist",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.goldencapitalist.com/wp-content/uploads/2021/03/fsavicon-300x300.png",
+                        "og:description": "Switzerland has one of the most progressive economies in the world. It is a very popular place to establish crypto-related businesses",
+                        "twitter:creator": "@GoldCapitalist",
+                        "og:image:secure_url": "https://goldencapitalist.com/wp-content/uploads/2021/06/11.jpg",
+                        "article:publisher": "https://www.facebook.com/goldencapitalist/",
+                        "twitter:data1": "Freelancer",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@GoldCapitalist",
+                        "article:modified_time": "2021-06-18T12:46:08+00:00",
+                        "og:type": "article",
+                        "article:section": "Articles",
+                        "og:title": "Swiss Regulation on Cryptocurrencies",
+                        "og:image:height": "653",
+                        "og:updated_time": "2021-06-18T12:46:08+00:00",
+                        "fb:app_id": "327491952386864",
+                        "viewport": "initial-scale=1.0, minimum-scale=1.0, height=device-height, width=device-width",
+                        "g1:switch-skin-css": "https://www.goldencapitalist.com/wp-content/themes/bimber/css/8.6.3/styles/mode-dark.min.css",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.goldencapitalist.com/swiss-regulation-on-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://goldencapitalist.com/wp-content/uploads/2021/06/11.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain Law and Practice in Switzerland",
+            "htmlTitle": "Blockchain Law and Practice in <b>Switzerland</b>",
+            "link": "https://practiceguides.chambers.com/practice-guides/comparison/640/6895/11260-11264-11274-11280-11287-11292-11295-11299-11302",
+            "displayLink": "practiceguides.chambers.com",
+            "snippet": "Jun 17, 2021 ... In Switzerland, there is no specific blockchain or cryptocurrency regulation applicable to broker-dealers or other financial intermediaries that\u00a0...",
+            "htmlSnippet": "Jun 17, 2021 <b>...</b> In <b>Switzerland</b>, there is no specific blockchain or <b>cryptocurrency regulation</b> applicable to broker-dealers or other financial intermediaries that&nbsp;...",
+            "cacheId": "6ezhSGnmtI0J",
+            "formattedUrl": "https://practiceguides.chambers.com/.../11260-11264-11274-11280-11287- 11292-11295-11299-11302",
+            "htmlFormattedUrl": "https://practiceguides.chambers.com/.../11260-11264-11274-11280-11287- 11292-11295-11299-11302",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4q0NOcCsvlUAhz-ABtoO9n8xOfW67xN9OHEypd9kTb-g3yGVBuzJprzg",
+                        "width": "200",
+                        "height": "199"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://chambersandpartners.azureedge.net/practiceguides/Pictures/208/27837.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Switzerland takes on challenge of gentrifying crypto - SWI swissinfo.ch",
+            "htmlTitle": "<b>Switzerland</b> takes on challenge of gentrifying crypto - SWI swissinfo.ch",
+            "link": "https://www.swissinfo.ch/eng/switzerland-takes-on-challenge-of-gentrifying-cryptocurrencies/47012122",
+            "displayLink": "www.swissinfo.ch",
+            "snippet": "Oct 12, 2021 ... Switzerland has this year updated a range of company and financial laws to give blockchain commerce a solid legal basis. The financial\u00a0...",
+            "htmlSnippet": "Oct 12, 2021 <b>...</b> <b>Switzerland</b> has this year updated a range of company and financial <b>laws</b> to give blockchain commerce a solid legal basis. The financial&nbsp;...",
+            "cacheId": "LnwtrIeSAwUJ",
+            "formattedUrl": "https://www.swissinfo.ch/eng/switzerland...cryptocurrencies/47012122",
+            "htmlFormattedUrl": "https://www.<b>swiss</b>info.ch/eng/<b>switzerland</b>...<b>cryptocurrencies</b>/47012122",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx3WG8RcHajZZGJu30PRx0dlABWAs-vg3lluy92TcsEWLdQHwrkpAHNpnn",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "d36baa68f8d1b3b487bf73ec58eeba89",
+                        "op:markup_version": "v1.0",
+                        "og:image": "https://www.swissinfo.ch/resource/image/47012318/landscape_ratio16x9/1920/1080/846bbc1f44d73c1c3962fadf6132725/88CF2A3B812D34FAD7C410A0428FC3C7/bitcoinglasses.jpg",
+                        "copyright": "SWI swissinfo.ch copyright (c)",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "SWI swissinfo.ch",
+                        "og:description": "Cryptocurrencies are being scrubbed up and made fit for consumption in Switzerland with sweeping legal reforms and regulatory oversight.",
+                        "twitter:creator": "@swissinfo_en",
+                        "article:publisher": "https://www.facebook.com/swissinfo/",
+                        "twitter:image": "https://www.swissinfo.ch/resource/image/47012318/landscape_ratio16x9/1920/1080/846bbc1f44d73c1c3962fadf6132725/88CF2A3B812D34FAD7C410A0428FC3C7/bitcoinglasses.jpg",
+                        "twitter:image:alt": "Poster of person wearing bitcoin glasses",
+                        "twitter:site": "@swissinfo_en",
+                        "news_keywords": "money and monetary policy,financial and business service,Business,Sci & Tech,Politics",
+                        "fb:admins": "100001790948545",
+                        "og:type": "article",
+                        "twitter:title": "Switzerland takes on challenge of gentrifying crypto",
+                        "twitter:domain": "www.swissinfo.ch",
+                        "author": "swissinfo.ch",
+                        "og:title": "Switzerland takes on challenge of gentrifying crypto",
+                        "og:image:height": "1080",
+                        "fb:pages": "81049933496",
+                        "fb:app_id": "135593233180345",
+                        "apple-mobile-web-app-status-bar-style": "white",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Cryptocurrencies are being scrubbed up and made fit for consumption in Switzerland with sweeping legal reforms and regulatory oversight.",
+                        "fb:article_style": "default",
+                        "og:url": "https://www.swissinfo.ch/eng/business/switzerland-takes-on-challenge-of-gentrifying-cryptocurrencies/47012122"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.swissinfo.ch/resource/image/47012318/landscape_ratio16x9/1920/1080/846bbc1f44d73c1c3962fadf6132725/88CF2A3B812D34FAD7C410A0428FC3C7/bitcoinglasses.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Switzerland Gives Green Light to Crypto Trading Exchange - WSJ",
+            "htmlTitle": "<b>Switzerland</b> Gives Green Light to Crypto Trading Exchange - WSJ",
+            "link": "https://www.wsj.com/articles/switzerland-gives-green-light-to-crypto-trading-exchange-11631273969",
+            "displayLink": "www.wsj.com",
+            "snippet": "Sep 10, 2021 ... Switzerland cleared the way Friday for more trading of bitcoin and ... Financial regulation around cryptocurrencies and digital assets is a\u00a0...",
+            "htmlSnippet": "Sep 10, 2021 <b>...</b> <b>Switzerland</b> cleared the way Friday for more trading of bitcoin and ... Financial <b>regulation</b> around <b>cryptocurrencies</b> and digital assets is a&nbsp;...",
+            "formattedUrl": "https://www.wsj.com/.../switzerland-gives-green-light-to-crypto-trading- exchange-11631273969",
+            "htmlFormattedUrl": "https://www.wsj.com/.../<b>switzerland</b>-gives-green-light-to-crypto-trading- exchange-11631273969",
+            "pagemap": {
+                "imageobject": [
+                    {
+                        "creator": "Photo: arnd wiegmann/Reuters",
+                        "caption": "SIX has been working on the digital exchange since 2018. Photo: arnd wiegmann/Reuters"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472634"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472342"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472147"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471031"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471760"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471327"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472554"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472514"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472558"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472548"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122tongadamage/012122tongadamage_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022soloflight/012022soloflight_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220118/011822tongaupdatesplash2/011822tongaupdatesplash2_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122ukrainesatellite/012122ukrainesatellite_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022kabuldrone2/012022kabuldrone2_115x65.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article.origheadline": "Switzerland Gives Green Light to Crypto Trading Exchange",
+                        "twitter:card": "summary_large_image",
+                        "dj.asn": "i-0c67",
+                        "page.site.product": "WSJ",
+                        "hdl_p": "Switzerland Approves Crypto Trading Exchange",
+                        "language": "en-US",
+                        "datelastpubbed": "2021-09-10T14:40:00.000Z",
+                        "article.access": "paid",
+                        "twitter:creator": "@margotpatrick",
+                        "twitter:image:alt": "Switzerland Gives Green Light to Crypto Trading Exchange",
+                        "article.template": "full",
+                        "article.section": "Markets",
+                        "page.content.format": "responsive",
+                        "article:word_count": "386",
+                        "article.created": "2021-09-10T11:39:00.000Z",
+                        "twitter:domain": "wsj.com",
+                        "author": "Margot Patrick",
+                        "article:video_count": "1",
+                        "fb:pages": "8304333127",
+                        "article:internal_link_count": "3",
+                        "page.site": "wsj",
+                        "page.content.type": "Article",
+                        "article_availability_flag": "METER",
+                        "article:image_count": "1",
+                        "article.id": "SB11401322919499484579904588046442237353234",
+                        "article.page": "Markets",
+                        "twitter:image": "https://images.wsj.net/im-398837/social",
+                        "article.updated": "2021-09-10T11:39:00.000Z",
+                        "article:embed_count": "1",
+                        "twitter:site": "@WSJ",
+                        "news_keywords": "Banking/Credit,Financial Services,Financial Technology,Technology,Virtual Currencies/Cryptocurrencies,Regulation/Government Policy,Standards/Standardization,Corporate/Industrial News,Content Types,Factiva Filters",
+                        "page.section": "Article",
+                        "article.type.display": "Markets",
+                        "page.region": "na,us",
+                        "article.summary": "Stock exchange SIX said its new SIX Digital Exchange will be underpinned by \u2018the highest Swiss standards of oversight and regulation.\u2019",
+                        "twitter:title": "Switzerland Gives Green Light to Crypto Trading Exchange",
+                        "servo-context": "servo:prod:virginia:article:wsj",
+                        "og:title": "Switzerland Gives Green Light to Crypto Trading Exchange",
+                        "page.content.source": "WSJ Online",
+                        "article.emb": "video_emb",
+                        "fb:app_id": "368513495882",
+                        "article.published": "2021-09-10T11:39:00.000Z",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0",
+                        "user.exp": "google_bot",
+                        "twitter:description": "Stock exchange SIX said its new SIX Digital Exchange will be underpinned by \u2018the highest Swiss standards of oversight and regulation.\u2019",
+                        "user.type": "nonsubscriber",
+                        "article.headline": "Switzerland Gives Green Light to Crypto Trading Exchange",
+                        "branch:deeplink:target": "app",
+                        "article.type": "Markets Main",
+                        "article:external_link_count": "1"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://images.wsj.net/im-398837/social",
+                        "datemodified": "2021-09-10T11:39:00.000Z",
+                        "inlanguage": "en-US",
+                        "alternativeheadline": "Switzerland Approves Crypto Trading Exchange",
+                        "description": "Stock exchange SIX said its new SIX Digital Exchange will be underpinned by \u2018the highest Swiss standards of oversight and regulation.\u2019",
+                        "publisher": "wsj.com",
+                        "datecreated": "2021-09-10T11:39:00.000Z",
+                        "datepublished": "2021-09-10T11:39:00.000Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "BBVA Switzerland adds ether to its cryptocurrency custody and ...",
+            "htmlTitle": "BBVA <b>Switzerland</b> adds ether to its <b>cryptocurrency</b> custody and ...",
+            "link": "https://www.bbva.com/en/bbva-switzerland-adds-ether-to-its-cryptocurrency-custody-and-trading-service/",
+            "displayLink": "www.bbva.com",
+            "snippet": "Dec 13, 2021 ... BBVA's Swiss franchise has expanded its cryptocurrency custody and trading service, which now allows for ether operations.",
+            "htmlSnippet": "Dec 13, 2021 <b>...</b> BBVA&#39;s <b>Swiss</b> franchise has expanded its <b>cryptocurrency</b> custody and trading service, which now allows for ether operations.",
+            "cacheId": "yf8v7gRhdqQJ",
+            "formattedUrl": "https://www.bbva.com/.../bbva-switzerland-adds-ether-to-its-cryptocurrency- custody-and-trading-service/",
+            "htmlFormattedUrl": "https://www.bbva.com/.../bbva-<b>switzerland</b>-adds-ether-to-its-<b>cryptocurrency</b>- custody-and-trading-service/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToRA9U1Gz9kHbOmnRf3eS-bYQReGWDlksrwBMYcShvNdXzv7s6MMmZGvny",
+                        "width": "287",
+                        "height": "176"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "owner": "BBVA",
+                        "og:image": "https://www.bbva.com/wp-content/uploads/2021/12/BBVA-suiza-ether-servicio-criptomonedas-innovacion-1024x629.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "BBVA Switzerland adds ether to its cryptocurrency custody and trading service",
+                        "og:type": "article",
+                        "article:published_time": "2021-12-13T06:59:05+00:00",
+                        "og:image:width": "1024",
+                        "og:site_name": "NEWS BBVA",
+                        "author": "BBVA",
+                        "og:title": "BBVA Switzerland adds ether to its cryptocurrency custody and trading service",
+                        "og:image:height": "629",
+                        "ia:markup_url": "https://www.bbva.com/en/bbva-switzerland-adds-ether-to-its-cryptocurrency-custody-and-trading-service/?ia_markup=1",
+                        "twitter:creator": "@bbva",
+                        "og:description": "BBVA\u2019s Swiss franchise has expanded its cryptocurrency custody and trading service, which now allows for ether operations.",
+                        "twitter:image": "https://www.bbva.com/wp-content/uploads/2021/12/BBVA-suiza-ether-servicio-criptomonedas-innovacion-1024x629.jpg",
+                        "article:publisher": "https://www.facebook.com/GrupoBBVA",
+                        "twitter:site": "@bbva",
+                        "article:modified_time": "2021-12-13T11:03:10+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "BBVA\u2019s Swiss franchise has expanded its cryptocurrency custody and trading service, which now allows for ether operations.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.bbva.com/en/bbva-switzerland-adds-ether-to-its-cryptocurrency-custody-and-trading-service/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bbva.com/wp-content/uploads/2021/12/BBVA-suiza-ether-servicio-criptomonedas-innovacion-1024x629.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

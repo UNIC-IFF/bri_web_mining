@@ -1,0 +1,599 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - EGYPT",
+                "totalResults": "578000",
+                "searchTerms": "EGYPT",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - EGYPT",
+                "totalResults": "578000",
+                "searchTerms": "EGYPT",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.293727,
+        "formattedSearchTime": "0.29",
+        "totalResults": "578000",
+        "formattedTotalResults": "578,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Egypt's central bank prohibits issuing cryptocurrencies or carrying ...",
+            "htmlTitle": "<b>Egypt&#39;s</b> central bank prohibits issuing <b>cryptocurrencies</b> or carrying ...",
+            "link": "https://www.egypttoday.com/Article/3/100224/Egypt-s-central-bank-prohibits-issuing-cryptocurrencies-or-carrying-out",
+            "displayLink": "www.egypttoday.com",
+            "snippet": "Mar 28, 2021 ... CAIRO \u2013 28 March 2021: The Central Bank of Egypt (CBE) emphasized the importance of adhering to Article 206 of the Central Bank and Banking\u00a0...",
+            "htmlSnippet": "Mar 28, 2021 <b>...</b> CAIRO \u2013 28 March 2021: The Central Bank of <b>Egypt</b> (CBE) emphasized the importance of adhering to Article 206 of the Central Bank and Banking&nbsp;...",
+            "cacheId": "66Z23okz1LcJ",
+            "formattedUrl": "https://www.egypttoday.com/.../Egypt-s-central-bank-prohibits-issuing- cryptocurrencies-or-carrying-out",
+            "htmlFormattedUrl": "https://www.<b>egypt</b>today.com/.../<b>Egypt</b>-s-central-bank-prohibits-issuing- <b>cryptocurrencies</b>-or-carrying-out",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNoDJNw1EGoEd5A8kMm4y8jPp-onSdpVP7rGp8-GUXUmBMGQSoYaUcKA",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.egypttoday.com/siteimages/larg/39665.jpg",
+                        "article:section": "Business",
+                        "article:published_time": "2021-03-28T14:38:27Z",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Egypt's central bank prohibits issuing cryptocurrencies or carrying out activities related to them",
+                        "og:site_name": "EgyptToday",
+                        "og:title": "Egypt's central bank prohibits issuing cryptocurrencies or carrying out activities related to them",
+                        "og:updated_time": "2021-03-28T14:38:27Z",
+                        "og:description": "CBE indicated in a statement, Sunday, the high risk involved in dealing in these currencies where it is dominated by instability and extreme volatility in the value of its prices.",
+                        "fb:pages": "611651375528915",
+                        "twitter:image": "https://www.egypttoday.com/siteimages/larg/39665.jpg",
+                        "article:tag": "Egypt",
+                        "fb:app_id": "731345163713170",
+                        "article:modified_time": "2021-03-28T14:38:27Z",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "twitter:description": "CBE indicated in a statement, Sunday, the high risk involved in dealing in these currencies where it is dominated by instability and extreme volatility in the value of its prices.",
+                        "og:locale": "en_us",
+                        "og:url": "https://www.egypttoday.com/Article/3/100224/Egypt-s-central-bank-prohibits-issuing-cryptocurrencies-or-carrying-out"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.egypttoday.com/siteimages/larg/39665.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Egyptians Are Buying Bitcoin Despite Prohibitive New Banking Laws ...",
+            "htmlTitle": "<b>Egyptians</b> Are Buying Bitcoin Despite Prohibitive New Banking <b>Laws</b> ...",
+            "link": "https://www.coindesk.com/business/2021/03/05/egyptians-are-buying-bitcoin-despite-prohibitive-new-banking-laws/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Mar 5, 2021 ... Crypto trading has been forbidden in the country under Islamic law since 2018. Although a religious decree is not legally binding, new\u00a0...",
+            "htmlSnippet": "Mar 5, 2021 <b>...</b> Crypto trading has been forbidden in the country under Islamic law since 2018. Although a religious decree is not legally binding, new&nbsp;...",
+            "cacheId": "t4miJK5DLqMJ",
+            "formattedUrl": "https://www.coindesk.com/.../egyptians-are-buying-bitcoin-despite- prohibitive-new-banking-laws/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>egyptians</b>-are-buying-bitcoin-despite- prohibitive-new-banking-<b>laws</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr10_vMBWa9zCZnWzHpbtqPs7bzjKiNhzkUoNSNS5eZWJyLxUlB_TLd5FM",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/26QT8xHxk4bKyXX5VtfBGtHOGoQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GTUNKKF7T5DKHLPJKHY53QLK4U.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-03-05T13:00:00Z",
+                        "article:section": "Business",
+                        "twitter:title": "Egyptians Are Buying Bitcoin Despite Prohibitive New Banking Laws",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Egyptians Are Buying Bitcoin Despite Prohibitive New Banking Laws",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Egyptian crypto trading volume and exchange sign-ups increased dramatically this past January, capping off an already high-volume 2020.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Sandali Handagama",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/ZpCb9MB2WNIm4VED39ufCKmqJcE=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GTUNKKF7T5DKHLPJKHY53QLK4U.jpg",
+                        "article:tag": "LocalBitcoins.com, CEX.io, Regulation, Egypt, Adoption, Paxful, Global Macro",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-03-05T13:00:00Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Egyptian crypto trading volume and exchange sign-ups increased dramatically this past January, capping off an already high-volume 2020.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/business/2021/03/05/egyptians-are-buying-bitcoin-despite-prohibitive-new-banking-laws/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/26QT8xHxk4bKyXX5VtfBGtHOGoQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GTUNKKF7T5DKHLPJKHY53QLK4U.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Any breach of this provision is punishable in accordance with the laws and regulations in force. : 82. Egypt \u00b7 X mark.",
+            "htmlSnippet": "Any breach of this provision is punishable in accordance with the <b>laws</b> and <b>regulations</b> in force. <sup>: 82</sup>. <b>Egypt</b> &middot; X mark.",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Egypt and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Egypt</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/egypt/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Egypt Cryptocurrency Laws ... In 2018, Egypt's Dar al-Ifta, the primary Islamic legislator in Egypt, issued a religious decree classifying commercial transactions\u00a0...",
+            "htmlSnippet": "<b>Egypt Cryptocurrency Laws</b> ... In 2018, <b>Egypt&#39;s</b> Dar al-Ifta, the primary Islamic legislator in <b>Egypt</b>, issued a religious decree classifying commercial transactions&nbsp;...",
+            "cacheId": "UqxofPHl_c8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/egypt/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>egypt</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2vOjeZu4-C5zSNm_UvzRiY3cTWV3mqp-9CE9oSHViN41XkBM8hWNaWAo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Egypt-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T22:58:55+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/egypt/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Egypt? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Egypt-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Egypt-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:37+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Egypt and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Egypt and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:37+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Egypt and Cryptocurrency Egypt Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In 2018, Egypt\u2019s Dar al-Ifta, the primary Islamic legislator in Egypt, issued a religious decree classifying commercial transactions in bitcoin as haram (prohibited...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/egypt/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Egypt-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin ban: These are the countries where crypto is restricted or ...",
+            "htmlTitle": "Bitcoin ban: These are the countries where crypto is restricted or ...",
+            "link": "https://www.euronews.com/next/2022/01/11/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2",
+            "displayLink": "www.euronews.com",
+            "snippet": "Jan 11, 2022 ... Cryptocurrencies like Bitcoin are heavily regulated or restricted in a number ... While not binding, Egypt's banking laws were tightened in\u00a0...",
+            "htmlSnippet": "Jan 11, 2022 <b>...</b> <b>Cryptocurrencies</b> like Bitcoin are heavily <b>regulated</b> or restricted in a number ... While not binding, <b>Egypt&#39;s</b> banking <b>laws</b> were tightened in&nbsp;...",
+            "cacheId": "NKi7X45eKW0J",
+            "formattedUrl": "https://www.euronews.com/.../bitcoin-ban-these-are-the-countries-where- crypto-is-restricted-or-illegal2",
+            "htmlFormattedUrl": "https://www.euronews.com/.../bitcoin-ban-these-are-the-countries-where- crypto-is-restricted-or-illegal2",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/06/01/62/64/1000x563_cmsv2_855a8ddc-6bb7-5a3b-82f1-ca707e2a07ff-6016264.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2022-01-11 13:17:36",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "While some countries like El Salvador are embracing cryptocurrencies, others like China are leading sustained crackdowns on their use.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"bitcoin\",\"financial-regulation\",\"china\",\"cryptocurrency\",\"iran\",\"ethereum\"],\"nws_id\":1647270,\"nwsctr_id\":6016264,\"themes\":\"money,business\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Bitcoin ban: These are the countries where crypto is restricted or illegal",
+                        "article:modified_time": "2022-01-11 13:18:23",
+                        "article:theme": "money",
+                        "og:image:alt": "Bitcoin ban: These are the countries where crypto is restricted or illegal",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2022-01-11 13:18:23",
+                        "fb:pages": "101402598109",
+                        "article:author": "Chloe Orji",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2022-01-11 13:18:23",
+                        "date.created": "2022-01-11 13:17:36",
+                        "eventid": "1647270",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Bitcoin,Financial regulation,China,cryptocurrency,Iran,Ethereum",
+                        "storyid": "6016264",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "The countries where Bitcoin and crypto are banned or restricted",
+                        "article:vertical": "next",
+                        "og:title": "The countries where Bitcoin and crypto are banned or restricted",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "While some countries like El Salvador are embracing cryptocurrencies, others like China are leading sustained crackdowns on their use.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2022-01-11 13:17:36",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2022/01/11/bitcoin-ban-these-are-the-countries-where-crypto-is-restricted-or-illegal2",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/06/01/62/64/1000x563_cmsv2_855a8ddc-6bb7-5a3b-82f1-ca707e2a07ff-6016264.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Egypt lifts ban on cryptocurrency ahead of regulatory review",
+            "htmlTitle": "<b>Egypt</b> lifts ban on <b>cryptocurrency</b> ahead of <b>regulatory</b> review",
+            "link": "https://www.yahoo.com/now/egypt-lifts-ban-cryptocurrency-ahead-120553374.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "May 30, 2019 ... Egypt has lifted its ban on cryptocurrencies one year after prohibiting digital assets under Islamic Law. In 2018, Shawki Allam,\u00a0...",
+            "htmlSnippet": "May 30, 2019 <b>...</b> <b>Egypt</b> has lifted its ban on <b>cryptocurrencies</b> one year after prohibiting digital assets under Islamic Law. In 2018, Shawki Allam,&nbsp;...",
+            "cacheId": "clb2fZbrSWYJ",
+            "formattedUrl": "https://www.yahoo.com/.../egypt-lifts-ban-cryptocurrency-ahead-120553374. html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>egypt</b>-lifts-ban-<b>cryptocurrency</b>-ahead-120553374. html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQY4gQagHjiTj72GKLnpTUOKPJPMV35oRxSdQNo576bbtFiqcuJdC6mH4",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/25c41adc-3724-3d8e-9abc-a382bae8d071",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/wTMFTGEEoo.KOX7WQdF9Mw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/coin_rivet_596/de08548a7e6a1604f7b307def2689df9",
+                        "twitter:title": "Egypt lifts ban on cryptocurrency ahead of regulatory review",
+                        "og:type": "article",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Egypt lifts ban on cryptocurrency ahead of regulatory review",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "683",
+                        "og:description": "Egypt has lifted its ban on cryptocurrencies one year after prohibiting digital assets under Islamic Law. In 2018, Shawki Allam, the Grand Mufti of Egypt, issued a ban on cryptocurrencies due to concerns being raised over potential tax evasion, money laundering, and other cases of fraud. Last April, Bitcoin was declared as being halal \u2013 which means permissible under Sharia Law \u2013 for a number of predominantly Muslim countries. However, Egypt has remained firm on its ban until this week. The Central Bank of Egypt (CBE) has issued a new banking law that means cryptocurrency firms will be able to operate if they can obtain a necessary license in advance. A report by the Egypt Independent reads: \u201cThe new draft The post Egypt lifts ban on cryptocurrency ahead of regulatory review appeared first on Coin Rivet.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/wTMFTGEEoo.KOX7WQdF9Mw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/coin_rivet_596/de08548a7e6a1604f7b307def2689df9",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/wTMFTGEEoo.KOX7WQdF9Mw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/coin_rivet_596/de08548a7e6a1604f7b307def2689df9",
+                        "al:android:url": "yfinance://article/25c41adc-3724-3d8e-9abc-a382bae8d071",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Islamic Law, Egypt, Central Bank of Egypt, Grand Mufti of Egypt, Shawki Allam",
+                        "twitter:description": "Egypt has lifted its ban on cryptocurrencies one year after prohibiting digital assets under Islamic Law. In 2018, Shawki Allam, the Grand Mufti of Egypt, issued a ban on cryptocurrencies due to concerns being raised over potential tax evasion, money laundering, and other cases of fraud. Last April, Bitcoin was declared as being halal \u2013 which means permissible under Sharia Law \u2013 for a number of predominantly Muslim countries. However, Egypt has remained firm on its ban until this week. The Central Bank of Egypt (CBE) has issued a new banking law that means cryptocurrency firms will be able to operate if they can obtain a necessary license in advance. A report by the Egypt Independent reads: \u201cThe new draft The post Egypt lifts ban on cryptocurrency ahead of regulatory review appeared first on Coin Rivet.",
+                        "og:url": "https://finance.yahoo.com/news/egypt-lifts-ban-cryptocurrency-ahead-120553374.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/wTMFTGEEoo.KOX7WQdF9Mw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/coin_rivet_596/de08548a7e6a1604f7b307def2689df9"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Egypt central bank approves instant payment regulations | Reuters",
+            "htmlTitle": "<b>Egypt</b> central bank approves instant payment <b>regulations</b> | Reuters",
+            "link": "https://www.reuters.com/business/finance/egypt-central-bank-approves-instant-payment-regulations-2021-11-08/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Nov 8, 2021 ... Brazilian financial services provider Dock said on Friday it will start using cryptocurrencies to process international remittances as it\u00a0...",
+            "htmlSnippet": "Nov 8, 2021 <b>...</b> Brazilian financial services provider Dock said on Friday it will start using <b>cryptocurrencies</b> to process international remittances as it&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../egypt-central-bank-approves-instant-payment- regulations-2021-11-08/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>egypt</b>-central-bank-approves-instant-payment- <b>regulations</b>-2021-11-08/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqhIH9NLZ6eE3wfYXhhcO2HUEWc5JXdwseX38YpzUSMzxi8y8z4exHtLM",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/p2wgosu3hG24fmw1TXT_QGKNXvc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MFUJG35LZ5L3TEBT6V3NCI632I.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-11-08T14:57:35Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Business",
+                        "og:description": "Egypt's central bank has approved regulations designed to allow people to make instant electronic payments between bank accounts using their mobile phones, it said in a statement on Monday.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/p2wgosu3hG24fmw1TXT_QGKNXvc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MFUJG35LZ5L3TEBT6V3NCI632I.jpg",
+                        "twitter:image:alt": "Central Bank of Egypt's headquarters are seen in downtown Cairo, Egypt, September 7, 2017. REUTERS/Mohamed Abd El Ghany",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-11-08T14:58:01.185Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Finance",
+                        "twitter:title": "Egypt central bank approves instant payment regulations",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/business/futureofmoney/article",
+                        "og:title": "Egypt central bank approves instant payment regulations",
+                        "dcsext.channellist": "Business;Wealth;Middle East",
+                        "og:article:published_time": "2021-11-08T14:57:35Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Reuters",
+                        "article:tag": "B:295,BISV,BISV08,BNKS,BSUP,BSVC,CDM,CEN,CLJ,CMPNY,CMSS,CMSS08,DBT,ECOMMA,FIN,FINS,FINS08,FINTE,FTECH,FUND,GEN,INDS,INDS08,INVBIS,INVM,INVS08,ISER,ISER08,ITSE,ITSE08,LAW,LOA,MCE,NETSV,POL,REGS,SWIT,TCOM,TECH,TECH08,TMT,TRNPAY,AFR,MEAST,NAFR,EMRG,EG,ECON,EF:BUSINESS-FUTURE-OF-MONEY,TOPCMB,TOPNWS",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Egypt's central bank has approved regulations designed to allow people to make instant electronic payments between bank accounts using their mobile phones, it said in a statement on Monday.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/business/finance/egypt-central-bank-approves-instant-payment-regulations-2021-11-08/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/p2wgosu3hG24fmw1TXT_QGKNXvc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MFUJG35LZ5L3TEBT6V3NCI632I.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Egypt | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Egypt</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/egypt",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Egypt for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Egypt</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "7U3SpKWaZloJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/egypt",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>egypt</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Egypt for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Egypt | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Egypt for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Egypt | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/egypt"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Egypt Lays Out Path for a Crypto Future With Draft Law",
+            "htmlTitle": "<b>Egypt</b> Lays Out Path for a Crypto Future With Draft Law",
+            "link": "https://cointelegraph.com/news/egypt-lays-out-path-for-a-crypto-future-with-draft-law",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Jun 6, 2019 ... The Egyptian government is ready to overcome years of uncertainty on ... The regulation of cryptocurrencies in Egypt isn't expected until\u00a0...",
+            "htmlSnippet": "Jun 6, 2019 <b>...</b> The <b>Egyptian</b> government is ready to overcome years of uncertainty on ... The <b>regulation of cryptocurrencies</b> in <b>Egypt</b> isn&#39;t expected until&nbsp;...",
+            "cacheId": "ZvoAIZdcl7oJ",
+            "formattedUrl": "https://cointelegraph.com/.../egypt-lays-out-path-for-a-crypto-future-with- draft-law",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>egypt</b>-lays-out-path-for-a-crypto-future-with- draft-law",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMGHndr49h-kJZwku-p_LOTt3_BVbX57NSzyObUn6q9QExuIb8f_OELg",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jZmM1ZDJiNzQxZjQ2MGI4NjM0MjNmZDNkOTAwYzk4MC5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Egypt Lays Out Path for a Crypto Future With Draft Law",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Egypt Lays Out Path for a Crypto Future With Draft Law",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Egyptian government is ready to overcome years of uncertainty on crypto, with new laws reportedly coming by the end of 2019.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jZmM1ZDJiNzQxZjQ2MGI4NjM0MjNmZDNkOTAwYzk4MC5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Egyptian government is ready to overcome years of uncertainty on crypto, with new laws reportedly coming by the end of 2019.",
+                        "og:url": "https://cointelegraph.com/news/egypt-lays-out-path-for-a-crypto-future-with-draft-law"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jZmM1ZDJiNzQxZjQ2MGI4NjM0MjNmZDNkOTAwYzk4MC5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "Other countries with double-digit inflation rates include Egypt, Ghana, Malawi, Mozambique, Nigeria, Zambia and Zimbabwe. It is no surprise that some of these\u00a0...",
+            "htmlSnippet": "Other countries with double-digit inflation rates include <b>Egypt</b>, Ghana, Malawi, Mozambique, Nigeria, Zambia and Zimbabwe. It is no surprise that some of these&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

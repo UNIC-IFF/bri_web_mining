@@ -1,0 +1,668 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ETHIOPIA",
+                "totalResults": "982000",
+                "searchTerms": "ETHIOPIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ETHIOPIA",
+                "totalResults": "982000",
+                "searchTerms": "ETHIOPIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.29297,
+        "formattedSearchTime": "0.29",
+        "totalResults": "982000",
+        "formattedTotalResults": "982,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Regulation of Cryptocurrencies under Ethiopian Legal Norms ...",
+            "htmlTitle": "The <b>Regulation of Cryptocurrencies</b> under <b>Ethiopian</b> Legal Norms ...",
+            "link": "https://www.ajol.info/index.php/mlr/article/view/215350",
+            "displayLink": "www.ajol.info",
+            "snippet": "Sep 30, 2021 ... The country has anti-money laundering legal norms that are embodied in domestic laws and international and regional instruments that it has\u00a0...",
+            "htmlSnippet": "Sep 30, 2021 <b>...</b> The country has anti-money laundering legal norms that are embodied in domestic <b>laws</b> and international and regional instruments that it has&nbsp;...",
+            "cacheId": "Q6KkqlVggOwJ",
+            "formattedUrl": "https://www.ajol.info/index.php/mlr/article/view/215350",
+            "htmlFormattedUrl": "https://www.ajol.info/index.php/mlr/article/view/215350",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1H_TMRepgqa--q3N3yBA9hyjl2FnEwhsv50Xw3tiRT4qo0EhHS_z1Yrw",
+                        "width": "160",
+                        "height": "169"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_keywords": "virtual currencies",
+                        "dc.source.uri": "https://www.ajol.info/index.php/mlr",
+                        "dc.creator.personalname": "Messay Asgedom Gobena",
+                        "citation_title": "The Regulation of Cryptocurrencies under Ethiopian Legal Norms",
+                        "citation_journal_title": "Mizan Law Review",
+                        "dc.format": "application/pdf",
+                        "dc.rights": "Copyright (c)",
+                        "citation_date": "2021/09/30",
+                        "dc.type.articletype": "Articles",
+                        "dc.identifier.uri": "https://www.ajol.info/index.php/mlr/article/view/215350",
+                        "citation_issn": "2309-902X",
+                        "dc.identifier.pagenumber": "173 -194",
+                        "dc.source": "Mizan Law Review",
+                        "dc.type": "Text.Serial.Journal",
+                        "citation_pdf_url": "https://www.ajol.info/index.php/mlr/article/download/215350/203091",
+                        "citation_lastpage": "194",
+                        "dc.description": "Cryptocurrencies are a subset of virtual currencies that have been devised for anonymous payments made entirely independent of governments and traditional financial institutions. The payment system of cryptocurrencies is expanding at a rapid pace and has reached Ethiopia. This article examines the extent to which cryptocurrencies are regulated under Ethiopia\u2019s national payment system and anti-money laundering legal norms. The study has employed doctrinal research supported by in-depth interviews. During the last decade, Ethiopia has adopted several legal frameworks that govern different aspects of the payments landscape, most notably regarding payment services and electronic money. The country has anti-money laundering legal norms that are embodied in domestic laws and international and regional instruments that it has ratified. However, these legal norms have strategic deficiencies in regulating cryptocurrencies. Thus, the government of Ethiopia should consider enacting a comprehensive law that regulates t",
+                        "citation_journal_abbrev": "1",
+                        "citation_author": "Messay Asgedom Gobena",
+                        "dc.date.created": "2021-09-30",
+                        "citation_abstract_html_url": "https://www.ajol.info/index.php/mlr/article/view/215350",
+                        "dc.date.datesubmitted": "2021-09-30",
+                        "citation_issue": "1",
+                        "dc.date.issued": "2021-10-01",
+                        "dc.identifier.doi": "10.4314/mlr.v15i1.6",
+                        "citation_firstpage": "173",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "citation_doi": "10.4314/mlr.v15i1.6",
+                        "dc.title": "The Regulation of Cryptocurrencies under Ethiopian Legal Norms",
+                        "dc.date.modified": "2021-09-30",
+                        "dc.source.issue": "1",
+                        "dc.identifier": "215350",
+                        "dc.subject": "virtual currencies",
+                        "citation_volume": "15",
+                        "dc.language": "en",
+                        "dc.source.volume": "15",
+                        "dc.source.issn": "2309-902X",
+                        "gs_meta_revision": "1.1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ajol.info/public/site/pageHeaderTitleImage_en_US.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ethiopia and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Ethiopia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/ethiopia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Ethiopia? ... Ethiopia Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Ethiopia</b>? ... <b>Ethiopia Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "Y5K9GmvvgVkJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/ethiopia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>ethiopia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSck13QJByWe710e8BZeDUSosOrefgSiSLuwiTafJEFm0Oexs0xkD0CN14Q",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419492303-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-22T01:36:34+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/ethiopia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Ethiopia? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419492303-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419492303-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:42+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/poland/",
+                        "og:type": "article",
+                        "og:image:alt": "Ethiopia bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Ethiopia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Ethiopia and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:56:42+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Ethiopia and Cryptocurrency Ethiopia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology A 2018 study concluded that Ethiopia has a contentious stance with cryptocurrency but simultaneously exhibits signs that it is continually monitoring the...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/ethiopia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/07/AdobeStock_419492303-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+            "htmlTitle": "Africa in the news: <b>Ethiopia</b>, Nigeria, and internet <b>control</b> updates",
+            "link": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/",
+            "displayLink": "www.brookings.edu",
+            "snippet": "Mar 6, 2021 ... Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental\u00a0...",
+            "htmlSnippet": "Mar 6, 2021 <b>...</b> Investigations in <b>Ethiopia</b> continue, Nigeria to regulate <b>cryptocurrencies</b>, schoolgirls released amid deadly violence, and nongovernmental&nbsp;...",
+            "cacheId": "HukjMxrx3YEJ",
+            "formattedUrl": "https://www.brookings.edu/.../africa-in-the-news-ethiopia-nigeria-and- internet-control-updates/",
+            "htmlFormattedUrl": "https://www.brookings.edu/.../africa-in-the-news-<b>ethiopia</b>-nigeria-and- internet-<b>control</b>-updates/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "fn": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfogikiXnwiYXM2klcsxjtcYDp_81TwJt76s_LAxloef8SVE4pmTbJnnXt",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "400",
+                        "url": "https://www.brookings.edu/wp-content/themes/brookings/static/images/brookings-logo.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "width": "1030",
+                        "url": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1030&h=580&crop=1",
+                        "height": "580"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Christina Golubski",
+                        "url": "https://www.brookings.edu/author/christina-golubski/"
+                    },
+                    {
+                        "name": "Leo Holtz",
+                        "url": "https://www.brookings.edu/author/leo-holtz/"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Brookings"
+                    }
+                ],
+                "book": [
+                    {
+                        "url": "R"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/asia-and-africa-in-the-global-economy/"
+                    },
+                    {
+                        "url": "https://www.brookings.edu/book/made-in-africa/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "article:published_time": "2021-03-06T12:30:08+00:00",
+                        "og:image:width": "1024",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Brookings",
+                        "parsely-metadata": "{\"post_id\":1425162,\"contentType\":\"post\",\"program\":[\"Global Economy and Development\"],\"project\":[\"Africa Growth Initiative\"],\"language\":\"en\",\"canonicalContent\":\"https:\\/\\/www.brookings.edu\\/blog\\/africa-in-focus\\/2021\\/03\\/06\\/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates\\/\"}",
+                        "og:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "twitter:image": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1",
+                        "twitter:text:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "twitter:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:site": "@BrookingsInst",
+                        "article:modified_time": "2021-03-05T21:32:24+00:00",
+                        "twitter:account_id": "151106990",
+                        "og:type": "article",
+                        "og:image:alt": "Cryptocurrency Bitcoin Ethereum Smartphone",
+                        "twitter:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "wp-parsely_version": "1.10.1",
+                        "twitter:site:id": "151106990",
+                        "author": "Christina Golubski and Leo Holtz",
+                        "og:title": "Africa in the news: Ethiopia, Nigeria, and internet control updates",
+                        "og:image:height": "683",
+                        "fb:pages": "137459917707",
+                        "fb:app_id": "137459917707",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Investigations in Ethiopia continue, Nigeria to regulate cryptocurrencies, schoolgirls released amid deadly violence, and nongovernmental organizations warn that \u201cdigital authoritarianism\u201d is on the rise.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.brookings.edu/blog/africa-in-focus/2021/03/06/africa-in-the-news-ethiopia-nigeria-and-internet-control-updates/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.brookings.edu/wp-content/uploads/2021/03/shutterstock_1222990351_small.jpg?w=1200&h=630&crop=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "articlebody": "Investigations into the deteriorating situation in Ethiopia continue On Thursday, March 4, United Nations High Commissioner for Human Rights Michelle Bachelet called for an independent assessment...",
+                        "datemodified": "2021-03-05T16:32:24-05:00",
+                        "author": "Christina Golubski",
+                        "datepublished": "2021-03-06T07:30:08-05:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Ethiopia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Ethiopia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/ethiopia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Ethiopia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Ethiopia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "QkKUgta2qsIJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/ethiopia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>ethiopia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Ethiopia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Ethiopia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Ethiopia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Ethiopia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/ethiopia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from nonexistent or partial <b>regulations</b> to prohibitions. Here are the key areas&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Legal Status and Regulation of Cryptocurrency in Ethiopia",
+            "htmlTitle": "The Legal Status and <b>Regulation of Cryptocurrency</b> in <b>Ethiopia</b>",
+            "link": "http://213.55.95.56/handle/123456789/27974",
+            "displayLink": "213.55.95.56",
+            "snippet": "Payments in the form of cryptocurrency are not using sufficiently secure payment systems that are permitted by NBE. This shows that cryptocurrency companies are\u00a0...",
+            "htmlSnippet": "Payments in the form of <b>cryptocurrency</b> are not using sufficiently secure payment systems that are permitted by NBE. This shows that <b>cryptocurrency</b> companies are&nbsp;...",
+            "cacheId": "4NvxLDMNA58J",
+            "formattedUrl": "213.55.95.56/handle/123456789/27974",
+            "htmlFormattedUrl": "213.55.95.56/handle/123456789/27974",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "citation_keywords": "Blockchain, Virtual Currency, Cryptocurrency, Bitcoin; Thesis",
+                        "citation_title": "The Legal Status and Regulation of Cryptocurrency in Ethiopia",
+                        "citation_author": "Girma, Samuel",
+                        "citation_date": "2021-05",
+                        "citation_abstract_html_url": "http://etd.aau.edu.et/handle/123456789/27974",
+                        "dcterms.issued": "2021-05",
+                        "dcterms.dateaccepted": "2021-09-23T11:05:02Z",
+                        "citation_dissertation_name": "The Legal Status and Regulation of Cryptocurrency in Ethiopia",
+                        "dc.type": "Thesis",
+                        "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0",
+                        "dc.creator": "Girma, Samuel",
+                        "citation_language": "en",
+                        "dc.title": "The Legal Status and Regulation of Cryptocurrency in Ethiopia",
+                        "dc.identifier": "http://etd.aau.edu.et/handle/123456789/27974",
+                        "dc.subject": "Blockchain, Virtual Currency, Cryptocurrency, Bitcoin",
+                        "citation_pdf_url": "http://etd.aau.edu.et/bitstream/123456789/27974/1/Samuel%20Girma.pdf",
+                        "dc.language": "en",
+                        "dcterms.abstract": "Cryptocurrency is a virtual currency formulated to function as a medium of exchange. Cryptocurrencies evolved\r\non a blockchain altar that functions on a peer-to-peer foundation, enabling a beneficiary to receive encrypted\r\npayments directly from sender. Cryptocurrency transactions disregard intermediaries such as banks and financial\r\ninstitutions from the spiral. The role of financial intermediaries such as banks in guaranteeing the value of the\r\ncurrency is not needed in cryptocurrency transactions. Payments in the form of cryptocurrency are not using\r\nsufficiently secure payment systems that are permitted by NBE. This shows that cryptocurrency companies are\r\nnot licensed by NBE, thus cryptocurrencies are not regarded as payment systems in Ethiopia. Additionally, Given\r\nthe anonymity attached to cryptocurrency payments, it is difficult if not impossible to trace back perpetrators\r\ninvolved in cryptocurrency payments or reverse the payment back to the consumer. Hence, the Trade Competition\r\nand Consumer Prote",
+                        "dcterms.available": "2021-09-23T11:05:02Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Regulation of Cryptocurrencies under Ethiopian Legal Norms",
+            "htmlTitle": "The <b>Regulation of Cryptocurrencies</b> under <b>Ethiopian</b> Legal Norms",
+            "link": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/mizanlr15&section=10",
+            "displayLink": "heinonline.org",
+            "snippet": "Virtual Currencies Cryptocurrencies Bitcoin Legal Norms Ethiopia ... 6, and 7 discuss cryptocurrencies and their regulation in Ethiopia.",
+            "htmlSnippet": "Virtual Currencies <b>Cryptocurrencies</b> Bitcoin Legal Norms <b>Ethiopia</b> ... 6, and 7 discuss <b>cryptocurrencies</b> and their <b>regulation</b> in <b>Ethiopia</b>.",
+            "formattedUrl": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/...",
+            "htmlFormattedUrl": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/...",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "Interest in cryptocurrency, a form of digital currency, ... Without regulations, cryptocurrency is a double-edged sword; there may be gains from time to\u00a0...",
+            "htmlSnippet": "Interest in <b>cryptocurrency</b>, a form of digital currency, ... Without <b>regulations</b>, <b>cryptocurrency</b> is a double-edged sword; there may be gains from time to&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Vol. 15 No. 1: The Regulation of Cryptocurrencies under Ethiopian ...",
+            "htmlTitle": "Vol. 15 No. 1: The <b>Regulation of Cryptocurrencies</b> under <b>Ethiopian</b> ...",
+            "link": "http://197.156.93.91/handle/123456789/6624",
+            "displayLink": "197.156.93.91",
+            "snippet": "15 No.1:The Regulation of Cryptocurrencies under Ethiopian Legal Norms. Authors: Asgedom, Messay. Keywords: Virtual Currencies \u00b7 Cryptocurrencies \u00b7 Bitcoin\u00a0...",
+            "htmlSnippet": "15 No.1:The <b>Regulation of Cryptocurrencies</b> under <b>Ethiopian</b> Legal Norms. Authors: Asgedom, Messay. Keywords: Virtual Currencies \u00b7 <b>Cryptocurrencies</b> \u00b7 Bitcoin&nbsp;...",
+            "cacheId": "3q5dHGIhmFAJ",
+            "formattedUrl": "197.156.93.91/handle/123456789/6624",
+            "htmlFormattedUrl": "197.156.93.91/handle/123456789/6624",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dc.publisher": "St.Mary's University",
+                        "citation_keywords": "Virtual Currencies \u00b7 Cryptocurrencies \u00b7 Bitcoin \u00b7 Legal Norms \u00b7 Ethiopia; Article",
+                        "citation_title": "Vol. 15 No.1:The Regulation of Cryptocurrencies under Ethiopian Legal Norms",
+                        "citation_publisher": "St.Mary's University",
+                        "citation_author": "Asgedom, Messay",
+                        "citation_date": "2021-09",
+                        "citation_abstract_html_url": "http://repository.smuc.edu.et/handle/123456789/6624",
+                        "dcterms.issued": "2021-09",
+                        "dcterms.dateaccepted": "2021-12-13T12:04:39Z",
+                        "st. mary's university inistitutional repository": "St. Mary's University, Ethiopia, Inistitutional Repository is an open access institutional archive that collects, preserves and distributes research outputs produced at the University.\n These include journal articles, conference proceedings, books, bulletins, newsletter nad manuals",
+                        "dc.type": "Article",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "dc.creator": "Asgedom, Messay",
+                        "citation_language": "en_US",
+                        "dc.title": "Vol. 15 No.1:The Regulation of Cryptocurrencies under Ethiopian Legal Norms",
+                        "dc.identifier": "http://dx.doi.org/10.4314/mlr.v15i1.6",
+                        "dc.subject": "Virtual Currencies \u00b7 Cryptocurrencies \u00b7 Bitcoin \u00b7 Legal Norms \u00b7 Ethiopia",
+                        "citation_pdf_url": "http://repository.smuc.edu.et/bitstream/123456789/6624/1/Mizan%20LR_15%281%29%20_Sept_2021-179-200.pdf",
+                        "dc.language": "en_US",
+                        "dcterms.abstract": "Cryptocurrencies are a subset of virtual currencies that have been devised for\r\nanonymous payments made entirely independent of governments and\r\ntraditional financial institutions. The payment system of cryptocurrencies is\r\nexpanding at a rapid pace and has reached Ethiopia. This article examines the\r\nextent to which cryptocurrencies are regulated under Ethiopia\u2019s national\r\npayment system and anti-money laundering legal norms. The study has\r\nemployed doctrinal research supported by in-depth interviews. During the last\r\ndecade, Ethiopia has adopted several legal frameworks that govern different\r\naspects of the payments landscape, most notably regarding payment services\r\nand electronic money. The country has anti-money laundering legal norms that\r\nare embodied in domestic laws and international and regional instruments that it\r\nhas ratified. However, these legal norms have strategic deficiencies in\r\nregulating cryptocurrencies. Thus, the government of Ethiopia should consider\r\nenacting a comprehensive law tha",
+                        "dcterms.available": "2021-12-13T12:04:39Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency: Regulation Vs Ban? How Are Different Countries ...",
+            "htmlTitle": "<b>Cryptocurrency</b>: <b>Regulation</b> Vs Ban? How Are Different Countries ...",
+            "link": "https://www.ndtv.com/business/cryptocurrency-regulation-vs-ban-how-are-different-countries-treating-this-industry-2625870",
+            "displayLink": "www.ndtv.com",
+            "snippet": "Nov 27, 2021 ... Trading In cryptocurrency is extremely unpredictable and it is not ... Each American state has its own laws to regulate cryptocurrencies but\u00a0...",
+            "htmlSnippet": "Nov 27, 2021 <b>...</b> Trading In <b>cryptocurrency</b> is extremely unpredictable and it is not ... Each American state has its own <b>laws</b> to regulate <b>cryptocurrencies</b> but&nbsp;...",
+            "cacheId": "RsTVOTcfYwcJ",
+            "formattedUrl": "https://www.ndtv.com/.../cryptocurrency-regulation-vs-ban-how-are-different -countries-treating-this-industry-2625870",
+            "htmlFormattedUrl": "https://www.ndtv.com/.../<b>cryptocurrency</b>-<b>regulation</b>-vs-ban-how-are-different -countries-treating-this-industry-2625870",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmr8yYu1JTpwIQ4HYpMsD0yyb--hAK03O5icEFglcI4OE-fwUD-rQND8k",
+                        "width": "286",
+                        "height": "176"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "100",
+                        "url": "https://cdn.ndtv.com/static/ndtv_2014/images/ndtvlogo_blk.png",
+                        "height": "30"
+                    },
+                    {
+                        "width": "1230",
+                        "url": "https://c.ndtvimg.com/2021-08/ogfsfjs8_bitcoin_625x300_04_August_21.jpg?im=Resize=(1230,900)",
+                        "height": "900"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "NDTV Business Desk"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "NDTV Profit"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://c.ndtvimg.com/2021-08/ogfsfjs8_bitcoin_625x300_04_August_21.jpg",
+                        "twitter:app:url:iphone": "ndtv://news/ndtv.com/news/view/profit/2625870/site=classic/",
+                        "apple-itunes-app": "app-id=377869410 , app-argument=ndtv://news/ndtv.com/news/view/profit/2625870/site=classic/",
+                        "twitter:app:id:googleplay": "com.july.ndtv",
+                        "og:image:width": "630",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#e3eef9",
+                        "og:site_name": "NDTV.com",
+                        "twitter:url": "https://www.ndtv.com/business/cryptocurrency-regulation-vs-ban-how-are-different-countries-treating-this-industry-2625870",
+                        "al:android:package": "com.july.ndtv",
+                        "al:ipad:app_store_id": "390847563",
+                        "section": "business",
+                        "twitter:app:name:googleplay": "NDTV",
+                        "al:ios:url": "ndtv://news/ndtv.com/news/view/profit/2625870/site=classic/",
+                        "twitter:app:id:iphone": "377869410",
+                        "og:description": "Trading In cryptocurrency is extremely unpredictable and it is not clear how this industry will affect the existing financial system.\u00a0",
+                        "og:image:secure_url": "https://c.ndtvimg.com/2021-08/ogfsfjs8_bitcoin_625x300_04_August_21.jpg",
+                        "al:ios:app_store_id": "377869410",
+                        "twitter:image": "https://c.ndtvimg.com/2021-08/ogfsfjs8_bitcoin_625x300_04_August_21.jpg?ver-20220118.01",
+                        "taboola:title": "How Are Major Economies Regulating Cryptocurrency?",
+                        "publish-date": "2021-11-27T17:30:55+05:30",
+                        "snapchat:sticker": "https://c.ndtvimg.com/2021-08/ogfsfjs8_bitcoin_625x300_04_August_21.jpg",
+                        "taboola-category": "profit",
+                        "twitter:site": "@ndtv",
+                        "news_keywords": "Cryptocurrency,Bitcoin",
+                        "og:type": "article",
+                        "twitter:title": "How Are Major Economies Regulating Cryptocurrency?",
+                        "al:ios:app_name": "NDTV",
+                        "og:title": "How Are Major Economies Regulating Cryptocurrency?",
+                        "og:image:height": "473",
+                        "url": "https://www.ndtv.com/business/cryptocurrency-regulation-vs-ban-how-are-different-countries-treating-this-industry-2625870",
+                        "al:android:url": "ndtvSocial://com.july.ndtv/ndtv/ndtv.android/type=news/id=2625870/category=profit",
+                        "fb:app_id": "213741912058651",
+                        "twitter:app:url:googleplay": "ndtvnews://www.ndtv.com/type=news/id=2625870/category=business",
+                        "al:ipad:url": "ndtvhd://news/ndtv.com/news/view/profit/2625870/site=classic/",
+                        "twitter:app:name:ipad": "NDTV HD",
+                        "twitter:description": "Trading In cryptocurrency is extremely unpredictable and it is not clear how this industry will affect the existing financial system.\u00a0",
+                        "al:ipad:app_name": "NDTV HD",
+                        "og:url": "https://www.ndtv.com/business/cryptocurrency-regulation-vs-ban-how-are-different-countries-treating-this-industry-2625870",
+                        "al:android:app_name": "NDTV",
+                        "twitter:app:name:iphone": "NDTV"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://c.ndtvimg.com/2021-08/ogfsfjs8_bitcoin_625x300_04_August_21.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "articlebody": "The government has decided to introduce the crypto bill in the Winter Session of ParliamentAs India gears up to regulate cryptocurrency trade, fear is growing about the possible fallout of...",
+                        "keywords": "Cryptocurrency,Bitcoin",
+                        "datemodified": "2021-11-27T17:30:55+05:30",
+                        "articlesection": "business",
+                        "description": "Trading In cryptocurrency is extremely unpredictable and it is not clear how this industry will affect the existing financial system.",
+                        "headline": "How Are Major Economies Regulating Cryptocurrency?",
+                        "url": "https://www.ndtv.com/business/cryptocurrency-regulation-vs-ban-how-are-different-countries-treating-this-industry-2625870",
+                        "datepublished": "2021-11-27T17:30:55+05:30",
+                        "mainentityofpage": "https://www.ndtv.com/business/cryptocurrency-regulation-vs-ban-how-are-different-countries-treating-this-industry-2625870"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Business",
+                        "name": "Business",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Cryptocurrency",
+                        "name": "Cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "name": "How Are Major Economies Regulating Cryptocurrency?",
+                        "position": "3"
+                    }
+                ]
+            }
+        }
+    ]
+}

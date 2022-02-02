@@ -1,0 +1,705 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - UKRAINE",
+                "totalResults": "10100000",
+                "searchTerms": "UKRAINE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - UKRAINE",
+                "totalResults": "10100000",
+                "searchTerms": "UKRAINE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.397863,
+        "formattedSearchTime": "0.40",
+        "totalResults": "10100000",
+        "formattedTotalResults": "10,100,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine legalizes bitcoin and cryptocurrencies",
+            "htmlTitle": "<b>Ukraine</b> legalizes bitcoin and <b>cryptocurrencies</b>",
+            "link": "https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Sep 9, 2021 ... Ukraine is the latest country to legalize bitcoin as the cryptocurrency slowly goes global \u00b7 In a nearly unanimous vote, the Ukrainian Parliament\u00a0...",
+            "htmlSnippet": "Sep 9, 2021 <b>...</b> <b>Ukraine</b> is the latest country to legalize bitcoin as the <b>cryptocurrency</b> slowly goes global &middot; In a nearly unanimous vote, the <b>Ukrainian</b> Parliament&nbsp;...",
+            "cacheId": "QPog9M1jeA4J",
+            "formattedUrl": "https://www.cnbc.com/.../ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../<b>ukraine</b>-legalizes-bitcoin-and-<b>cryptocurrencies</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHoCzxHQvYFANJGL2vuiEFPQka0HtgR5xt7yMB60mZZEZCc9iiXjemRjU",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-09-09T04:34:49+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Ukraine is the fifth country in as many weeks to lay down some ground rules for the crypto market, in a sign that governments believe bitcoin is here to stay.",
+                        "twitter:creator": "@KENZIESIGALOS",
+                        "parsely-metadata": "{\"nodeid\":106938986,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "106938986",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2021-09-09T16:47:15+0000",
+                        "news_keywords": "Bitcoin,Cryptocurrency,Technology,Bitcoin/USD Bitstamp,Ukraine,Volodymyr Zelensky,Securities fraud,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Ukraine is the latest country to legalize bitcoin as the cryptocurrency slowly goes global",
+                        "article:section": "Crypto Decoded",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "MacKenzie Sigalos",
+                        "og:title": "Ukraine is the latest country to legalize bitcoin as the cryptocurrency slowly goes global",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679",
+                        "article:tag": "Bitcoin",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Ukraine is the fifth country in as many weeks to lay down some ground rules for the crypto market, in a sign that governments believe bitcoin is here to stay.",
+                        "og:url": "https://www.cnbc.com/2021/09/08/ukraine-legalizes-bitcoin-and-cryptocurrencies.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/106938987-1631147564121-GettyImages-1097569398.jpg?v=1631147679"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine's new crypto law could make it a trading hub. Some would ...",
+            "htmlTitle": "<b>Ukraine&#39;s</b> new crypto law could make it a trading hub. Some would ...",
+            "link": "https://www.euronews.com/next/2021/12/07/ukraine-s-new-crypto-law-could-make-it-a-trading-hub-others-would-rather-it-stayed-in-the-",
+            "displayLink": "www.euronews.com",
+            "snippet": "Dec 13, 2021 ... The Ukrainian parliament passed a law in September that will legalise and regulate the sector and restrict cryptocurrencies which will now be\u00a0...",
+            "htmlSnippet": "Dec 13, 2021 <b>...</b> The <b>Ukrainian</b> parliament passed a law in September that will legalise and <b>regulate</b> the sector and restrict <b>cryptocurrencies</b> which will now be&nbsp;...",
+            "cacheId": "QMt4lEWFdGsJ",
+            "formattedUrl": "https://www.euronews.com/.../ukraine-s-new-crypto-law-could-make-it-a- trading-hub-others-would-rather-it-stayed-in-the-",
+            "htmlFormattedUrl": "https://www.euronews.com/.../<b>ukraine</b>-s-new-crypto-law-could-make-it-a- trading-hub-others-would-rather-it-stayed-in-the-",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://static.euronews.com/articles/stories/06/28/40/96/1000x563_cmsv2_e170ee60-076a-52d7-bc8a-3c5f23556772-6284096.jpg",
+                        "og:image:width": "1000",
+                        "article:published_time": "2021-12-07 12:28:45",
+                        "twitter:card": "summary_large_image",
+                        "adv:branded": "no",
+                        "og:site_name": "euronews",
+                        "app-context": "article",
+                        "og:description": "A new law in Ukraine seeks to legalise cryptocurrencies, a first step on its path to a crypto-inclusive future. Not everyone approves.",
+                        "dfp-data": "{\"rootId\":\"6458\",\"adUnit\":\"next\\/money\\/money\",\"keyValues\":{\"lng\":\"en\",\"ntvPlacement\":\"1108724\",\"page\":\"article\",\"tags\":[\"bitcoin\",\"ukraine\",\"financial-regulation\",\"cryptocurrency\",\"ethereum\",\"ukraine-politics\"],\"nws_id\":1760928,\"nwsctr_id\":6284096,\"themes\":\"money,business\",\"video\":\"false\",\"article_type\":null,\"vertical\":\"next\",\"program\":\"money\",\"source\":\"euronews\"},\"level1\":\"euronews_new\",\"level1AMP\":\"euronews_new_AMP\",\"mpuLimit\":4,\"moatTimeout\":1000,\"lazyLoadingOffset\":\"100\",\"hasSwipe\":true,\"moatJwClientId\":\"euronewsjwvideo227963755119\",\"moatDmClientId\":\"euronewsjsvideo10965533385\",\"disabledAdSlots\":[]}",
+                        "twitter:image:alt": "Ukraine's new crypto law could make it a trading hub. Some would rather it stayed in the shadows",
+                        "article:modified_time": "2021-12-13 16:20:44",
+                        "article:theme": "money",
+                        "og:image:alt": "Ukraine's new crypto law could make it a trading hub. Some would rather it stayed in the shadows",
+                        "msapplication-window": "width=1280;height=1024",
+                        "date.updated": "2021-12-13 16:20:44",
+                        "fb:pages": "101402598109",
+                        "program.url": "money",
+                        "wire": "no",
+                        "og:locale:alternate": "en-GB",
+                        "adv:featured": "no",
+                        "og:locale": "en-GB",
+                        "mobile-web-app-capable": "no",
+                        "date.modified": "2021-12-13 16:20:44",
+                        "date.created": "2021-12-07 12:28:45",
+                        "eventid": "1760928",
+                        "msapplication-config": "browserconfig.xml",
+                        "theme-color": "#ffffff",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://static.euronews.com/favicons/mstile-144x144.png",
+                        "twitter:site": "@euronews",
+                        "news_keywords": "Bitcoin,Ukraine,Financial regulation,cryptocurrency,Ethereum,Ukraine politics",
+                        "storyid": "6284096",
+                        "msapplication-tilecolor": "#003865",
+                        "msapplication-starturl": "./",
+                        "global-store-data": "eyJrZXlWYWx1ZXMiOnsiZmVhdHVyZV9mbGlwcGluZyI6eyJmYXN0Ijp7IlN0aWNreUZsb29yIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOmZhbHNlfSwiY2hhcnRiZWF0Ijp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjaGFydGJlYXRfbWFiIjp7Imxhbmd1YWdlcyI6eyJlbiI6dHJ1ZSwiYXIiOnRydWUsImRlIjp0cnVlLCJlbCI6dHJ1ZSwiZXMiOnRydWUsImZhIjp0cnVlLCJmciI6dHJ1ZSwiaHUiOnRydWUsIml0Ijp0cnVlLCJwdCI6dHJ1ZSwicnUiOnRydWUsInRyIjp0cnVlLCJ1ayI6ZmFsc2V9LCJ0aGlyZHBhcnQiOnRydWV9LCJjeGVuc2UiOnsibGFuZ3VhZ2VzIjp7ImVuIjp0cnVlLCJhciI6dHJ1ZSwiZGUiOnRydWUsImVsIjp0cnVlLCJlcyI6dHJ1ZSwiZmEiOnRydWUsImZyIjp0cnVlLCJodSI6dHJ1ZSwiaXQiOnRydWUsInB0Ijp0cnVlLCJydSI6dHJ1ZSwidHIiOnRydWUsInVrIjpmYWxzZX0sInRoaXJkcGFydCI6dHJ1ZX0sImN4ZW5zZV9jbXNfcHVibGlj",
+                        "og:type": "article",
+                        "article:section": "next_money",
+                        "twitter:title": "Open to corruption? Ukraine's new crypto law is dividing opinion",
+                        "article:vertical": "next",
+                        "og:title": "Open to corruption? Ukraine's new crypto law is dividing opinion",
+                        "og:image:height": "563",
+                        "sponsored": "no",
+                        "msapplication-navbutton-color": "#003865",
+                        "twitter:description": "A new law in Ukraine seeks to legalise cryptocurrencies, a first step on its path to a crypto-inclusive future. Not everyone approves.",
+                        "apple-mobile-web-app-capable": "no",
+                        "minutely-publisher": "MIN-20200",
+                        "date.available": "2021-12-07 12:28:45",
+                        "adv:premium": "yes",
+                        "og:url": "https://www.euronews.com/next/2021/12/07/ukraine-s-new-crypto-law-could-make-it-a-trading-hub-others-would-rather-it-stayed-in-the-",
+                        "twitter:images0": "https://static.euronews.com/articles/stories/06/28/40/96/1000x563_cmsv2_e170ee60-076a-52d7-bc8a-3c5f23556772-6284096.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Inside Ukraine's Bitcoin Bill | Nasdaq",
+            "htmlTitle": "Inside <b>Ukraine&#39;s</b> Bitcoin Bill | Nasdaq",
+            "link": "https://www.nasdaq.com/articles/inside-ukraines-bitcoin-bill-2021-09-10",
+            "displayLink": "www.nasdaq.com",
+            "snippet": "Sep 10, 2021 ... The Ukrainian Parliament passed a law that legalized and regulated bitcoin in the country, providing official clarity on the asset which was\u00a0...",
+            "htmlSnippet": "Sep 10, 2021 <b>...</b> The <b>Ukrainian</b> Parliament passed a law that legalized and <b>regulated</b> bitcoin in the country, providing official clarity on the asset which was&nbsp;...",
+            "cacheId": "_n8LSa8AVfoJ",
+            "formattedUrl": "https://www.nasdaq.com/articles/inside-ukraines-bitcoin-bill-2021-09-10",
+            "htmlFormattedUrl": "https://www.nasdaq.com/articles/inside-<b>ukraines</b>-bitcoin-bill-2021-09-10",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx-Q-muJz8hzMN41w_-cYI-eF_a1UFvvz22DVR64SQS3VEhItUCjMbGRY",
+                        "width": "301",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "og:image": "https://www.nasdaq.com/sites/acquia.prod/files/bitcoin_magazine/ukraine_flag_01-3.jpg?335768113",
+                        "og:type": "Article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Inside Ukraine's Bitcoin Bill",
+                        "theme-color": "#ffffff",
+                        "twitter:site:id": "nasdaq",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.nasdaq.com/articles/inside-ukraines-bitcoin-bill-2021-09-10",
+                        "com.nasdaq.cms.taxonomy.addisplay": "True",
+                        "com.nasdaq.cms.taxonomy.pagetype": "article-page",
+                        "og:title": "Inside Ukraine's Bitcoin Bill",
+                        "og:image:height": "630",
+                        "title": "Inside Ukraine's Bitcoin Bill | Nasdaq",
+                        "com.nasdaq.cms.taxonomy.sponsored": "False",
+                        "twitter:site": "@Nasdaq",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "com.nasdaq.cms.taxonomy.topic": "markets:cryptocurrencies:bitcoin",
+                        "og:url": "https://www.nasdaq.com/articles/inside-ukraines-bitcoin-bill-2021-09-10"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/bitcoin_magazine/ukraine_flag_01-3.jpg?h=53aeb022&itok=wGHpW2-t"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Market Activity CLOSE Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets Quick Links Real-Time Quotes After-Hours Quotes Pre-Marke...",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Stocks",
+                        "url": "Stocks"
+                    },
+                    {
+                        "name": "Real-Time Quotes",
+                        "url": "Real-Time Quotes"
+                    },
+                    {
+                        "name": "Economic Calendar",
+                        "url": "Economic Calendar"
+                    },
+                    {
+                        "name": "Analyst Recommendations",
+                        "url": "Analyst Recommendations"
+                    },
+                    {
+                        "name": "Gold",
+                        "url": "Gold"
+                    },
+                    {
+                        "name": "Statistical Milestones",
+                        "url": "Statistical Milestones"
+                    },
+                    {
+                        "name": "News and Insights Markets Companies Cryptocurrency Technology Personal Finance Financial Advisors"
+                    },
+                    {
+                        "name": "News and Insights",
+                        "url": "News and Insights"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "url": "Blockchain"
+                    },
+                    {
+                        "name": "Inclusive Entrepreneurship",
+                        "url": "Inclusive Entrepreneurship"
+                    },
+                    {
+                        "name": "Raise & Access Capital List with Nasdaq Nasdaq Private Market Nasdaq Fund Secondaries Investor Relations Intelligence Nasdaq Direct Listings Optimize Governance Practices Board Portal Software...",
+                        "url": "Raise & Access Capital"
+                    },
+                    {
+                        "name": "List with Nasdaq",
+                        "url": "List with Nasdaq"
+                    },
+                    {
+                        "name": "Board Portal Software",
+                        "url": "Board Portal Software"
+                    },
+                    {
+                        "name": "AFC Technology",
+                        "url": "AFC Technology"
+                    },
+                    {
+                        "name": "Nasdaq Data Link",
+                        "url": "Nasdaq Data Link"
+                    },
+                    {
+                        "name": "Equities",
+                        "url": "Equities"
+                    },
+                    {
+                        "name": "Our People Board of Directors Careers Press Center Contact"
+                    },
+                    {
+                        "name": "Our People",
+                        "url": "Our People"
+                    },
+                    {
+                        "name": "Diversity, Inclusion and Belonging",
+                        "url": "Diversity, Inclusion and Belonging"
+                    },
+                    {
+                        "name": "The Purpose Initiative",
+                        "url": "The Purpose Initiative"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of virtual assets may soon become reality in Ukraine",
+            "htmlTitle": "<b>Regulation</b> of virtual assets may soon become reality in <b>Ukraine</b>",
+            "link": "https://www.dentons.com/en/insights/alerts/2021/october/27/regulation-of-virtual-assets-may-soon-become-reality-in-ukraine",
+            "displayLink": "www.dentons.com",
+            "snippet": "Oct 27, 2021 ... The Law can be a significant step in the development of the cryptocurrency market in Ukraine. Therefore, we consider it important to let you\u00a0...",
+            "htmlSnippet": "Oct 27, 2021 <b>...</b> The Law can be a significant step in the development of the <b>cryptocurrency</b> market in <b>Ukraine</b>. Therefore, we consider it important to let you&nbsp;...",
+            "cacheId": "tgfvCo8VKsEJ",
+            "formattedUrl": "https://www.dentons.com/.../regulation-of-virtual-assets-may-soon-become- reality-in-ukraine",
+            "htmlFormattedUrl": "https://www.dentons.com/.../<b>regulation</b>-of-virtual-assets-may-soon-become- reality-in-<b>ukraine</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg__Royt7QANQ7FHd6KLbgmd-pqY9cZNG4nMEFBzss0jBQMTdLnwPjhBIN",
+                        "width": "253",
+                        "height": "199"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.dentons.com/-/media/images/website/background-images/practices/capital-markets/blockchain-cryptocurrency2.jpg?sc_lang=en",
+                        "og:type": "Article",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Regulation of virtual assets may soon become reality in Ukraine",
+                        "og:url": "https://www.dentons.com/en/insights/alerts/2021/october/27/regulation-of-virtual-assets-may-soon-become-reality-in-ukraine",
+                        "og:description": "The rights and obligations of virtual asset market participants, as well as the principles of state policy for virtual assets circulation recently came close to being set out in Ukrainian law."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.dentons.com/-/media/images/website/background-images/practices/capital-markets/blockchain-cryptocurrency2.jpg?sc_lang=en"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine joins the comity of crypto-friendly nations with new regulation",
+            "htmlTitle": "<b>Ukraine</b> joins the comity of crypto-friendly nations with new <b>regulation</b>",
+            "link": "https://cointelegraph.com/news/ukraine-joins-the-comity-of-crypto-friendly-nations-with-new-regulation",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 24, 2021 ... Unlike Russia, Ukraine has passed laws that will ease the adoption of cryptocurrencies within the country. ... The legal status of\u00a0...",
+            "htmlSnippet": "Sep 24, 2021 <b>...</b> Unlike Russia, <b>Ukraine</b> has passed <b>laws</b> that will ease the adoption of <b>cryptocurrencies</b> within the country. ... The legal status of&nbsp;...",
+            "cacheId": "53XaZTXtgkYJ",
+            "formattedUrl": "https://cointelegraph.com/.../ukraine-joins-the-comity-of-crypto-friendly- nations-with-new-regulation",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>ukraine</b>-joins-the-comity-of-crypto-friendly- nations-with-new-<b>regulation</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCARKROuN54FgfgIuha0vIntbaPWVQ_oL-jrpMTd6PVgoOtBMXer4shLTQ",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvOTkxMzU5ZmEtMWU0NC00ZTkzLTg5NGUtZDNmNGJkOTZhMzI5LmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Ukraine joins the comity of crypto-friendly nations with new regulation",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Ukraine joins the comity of crypto-friendly nations with new regulation",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "While Ukraine enacts laws to recognize and regulate crypto, the country\u2019s central bank is also working on its own national digital currency.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvOTkxMzU5ZmEtMWU0NC00ZTkzLTg5NGUtZDNmNGJkOTZhMzI5LmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "While Ukraine enacts laws to recognize and regulate crypto, the country\u2019s central bank is also working on its own national digital currency.",
+                        "og:url": "https://cointelegraph.com/news/ukraine-joins-the-comity-of-crypto-friendly-nations-with-new-regulation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvOTkxMzU5ZmEtMWU0NC00ZTkzLTg5NGUtZDNmNGJkOTZhMzI5LmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine legalizes cryptos | Fortune",
+            "htmlTitle": "<b>Ukraine</b> legalizes cryptos | Fortune",
+            "link": "https://fortune.com/2021/09/09/el-salvador-bitcoin-rollout-legal-currency-crypto-ukraine/",
+            "displayLink": "fortune.com",
+            "snippet": "Sep 9, 2021 ... The new law, passed Wednesday, does not make Bitcoin or any other cryptocurrency a legal tender but allows the country to legally regulate the\u00a0...",
+            "htmlSnippet": "Sep 9, 2021 <b>...</b> The new law, passed Wednesday, does not make Bitcoin or any other <b>cryptocurrency</b> a legal tender but allows the country to legally <b>regulate</b> the&nbsp;...",
+            "cacheId": "8-lGoiV9wDQJ",
+            "formattedUrl": "https://fortune.com/.../el-salvador-bitcoin-rollout-legal-currency-crypto- ukraine/",
+            "htmlFormattedUrl": "https://fortune.com/.../el-salvador-bitcoin-rollout-legal-currency-crypto- <b>ukraine</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpHYeJLdG0Dz3loW_gn-7sU0IdTlsFOvZHrNY_-U6B7G_NhOgJGPAJH1kr",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-1231619858-e1631182256864.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Ukraine legalizes cryptos",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/09/09/el-salvador-bitcoin-rollout-legal-currency-crypto-ukraine/",
+                        "og:title": "Ukraine legalizes cryptos",
+                        "og:description": "Despite the El Salvador Bitcoin blunder, Ukraine has laid down its own rules to legalize and regulate Bitcoin in its own country",
+                        "og:height": "714",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-1231619858-e1631182256864.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Despite the El Salvador Bitcoin blunder, Ukraine has laid down its own rules to legalize and regulate Bitcoin in its own country",
+                        "og:url": "https://fortune.com/2021/09/09/el-salvador-bitcoin-rollout-legal-currency-crypto-ukraine/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-1231619858-e1631182256864.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Everything You Need To Know About Legalization Of Crypto Assets ...",
+            "htmlTitle": "Everything You Need To Know About Legalization Of Crypto Assets ...",
+            "link": "https://www.mondaq.com/fin-tech/1129798/everything-you-need-to-know-about-legalization-of-crypto-assets-in-ukraine",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Nov 9, 2021 ... Key words: Ukraine, Virtual Assets, Cryptocurrencies, Taxation, Permit, Regulation. INTRODUCTION. On 8 September 2021, Ukrainian Parliament\u00a0...",
+            "htmlSnippet": "Nov 9, 2021 <b>...</b> Key words: <b>Ukraine</b>, Virtual Assets, <b>Cryptocurrencies</b>, Taxation, Permit, <b>Regulation</b>. INTRODUCTION. On 8 September 2021, <b>Ukrainian</b> Parliament&nbsp;...",
+            "cacheId": "QgrU4ibe61kJ",
+            "formattedUrl": "https://www.mondaq.com/.../everything-you-need-to-know-about- legalization-of-crypto-assets-in-ukraine",
+            "htmlFormattedUrl": "https://www.mondaq.com/.../everything-you-need-to-know-about- legalization-of-crypto-assets-in-<b>ukraine</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Everything You Need To Know About Legalization Of Crypto Assets In Ukraine - Technology - Ukraine",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "In this article you will find the relevant data on the current virtual assets' regulatory status in Ukraine, legislative proposals for legal recognition and taxation of cryptocurrencies transactions, ..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine becomes the newest country to regulate cryptocurrencies ...",
+            "htmlTitle": "<b>Ukraine</b> becomes the newest country to <b>regulate cryptocurrencies</b> ...",
+            "link": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/ukraine-becomes-the-newest-country-to-regulate-cryptocurrencies/articleshow/86098985.cms",
+            "displayLink": "timesofindia.indiatimes.com",
+            "snippet": "Sep 10, 2021 ... NEW DELHI: Ukrainian parliament Verkhovna Rada passed a law that regulates cryptocurrencies and ensures security of users.",
+            "htmlSnippet": "Sep 10, 2021 <b>...</b> NEW DELHI: <b>Ukrainian</b> parliament Verkhovna Rada passed a law that regulates <b>cryptocurrencies</b> and ensures security of users.",
+            "cacheId": "CA-7ZIip2K0J",
+            "formattedUrl": "https://timesofindia.indiatimes.com/.../cryptocurrency/.../ukraine...regulate- cryptocurrencies/.../86098985.cms",
+            "htmlFormattedUrl": "https://timesofindia.indiatimes.com/.../<b>cryptocurrency</b>/.../<b>ukraine</b>...<b>regulate</b>- <b>cryptocurrencies</b>/.../86098985.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR09QoU5r3r45Oh9-S1UxO0VXWYvrpEXYXhXBD4LgBuRu7USQCd5JL5-rqR",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "600",
+                        "url": "https://static.toiimg.com/photo/msid-58127550/toilogo.jpg",
+                        "height": "60"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Times of India",
+                        "url": "https://timesofindia.indiatimes.com"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.toiimg.com/thumb/msid-86099041,width-1070,height-580,imgsize-18170,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                        "twitter:title": "Ukraine becomes the newest country to regulate cryptocurrencies - Times of India",
+                        "og:image:width": "1070",
+                        "theme-color": "#af2c2c",
+                        "og:type": "article",
+                        "og:site_name": "The Times of India",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/ukraine-becomes-the-newest-country-to-regulate-cryptocurrencies/articleshow/86098985.cms",
+                        "the times of india": "app-id=427589329,app-argument=https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/ukraine-becomes-the-newest-country-to-regulate-cryptocurrencies/articleshow/86098985.cms",
+                        "og:title": "Ukraine becomes the newest country to regulate cryptocurrencies - Times of India",
+                        "og:image:height": "580",
+                        "y_key": "b1abb36a8d5c19c9",
+                        "og:description": "Cryptocurrency News: NEW DELHI: Ukrainian parliament Verkhovna Rada passed a law that regulates cryptocurrencies and ensures security of users.",
+                        "fb:pages": "26781952138",
+                        "twitter:image": "https://static.toiimg.com/thumb/msid-86099041,width-1070,height-580,imgsize-18170,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                        "fb:app_id": "117787264903013",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                        "news_keywords": "Business news, India business news, Financial news, Business news today, stock marketnational stock market commission,cryptocurrency,cryptocurrencies,crypto regulator,bitcoin regulator",
+                        "twitter:description": "Cryptocurrency News: NEW DELHI: Ukrainian parliament Verkhovna Rada passed a law that regulates cryptocurrencies and ensures security of users.",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobileoptimized": "width",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/ukraine-becomes-the-newest-country-to-regulate-cryptocurrencies/articleshow/86098985.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.toiimg.com/thumb/msid-86099041,width-1070,height-580,imgsize-18170,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Business",
+                        "url": "https://timesofindia.indiatimes.com/business"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "News",
+                        "name": "News",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Business News",
+                        "name": "Business News",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Cryptocurrency News",
+                        "name": "Cryptocurrency News",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine's crypto legislation is a step in the right direction | TechCrunch",
+            "htmlTitle": "<b>Ukraine&#39;s</b> crypto legislation is a step in the right direction | TechCrunch",
+            "link": "https://techcrunch.com/2021/09/29/ukraines-crypto-legislation-is-a-step-in-the-right-direction/",
+            "displayLink": "techcrunch.com",
+            "snippet": "Sep 29, 2021 ... Cryptocurrency may soon be used legally in Ukraine, once President Volodymyr Zelensky signs the legislation passed by Ukraine's Parliament\u00a0...",
+            "htmlSnippet": "Sep 29, 2021 <b>...</b> <b>Cryptocurrency</b> may soon be used legally in <b>Ukraine</b>, once President Volodymyr Zelensky signs the legislation passed by <b>Ukraine&#39;s</b> Parliament&nbsp;...",
+            "cacheId": "kFM_gKMeMkUJ",
+            "formattedUrl": "https://techcrunch.com/.../ukraines-crypto-legislation-is-a-step-in-the-right- direction/",
+            "htmlFormattedUrl": "https://techcrunch.com/.../<b>ukraines</b>-crypto-legislation-is-a-step-in-the-right- direction/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWSPxV3xT5GxZk7s_n90KUqzLRPWHF-3CxzWcsXcOl808qzFgtTzJUTI8",
+                        "width": "279",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1231620048.jpg?w=617",
+                        "twitter:card": "summary_large_image",
+                        "sailthru.tags": "Bitcoin, blockchain, cryptocurrencies, decentralization, digital currencies, mining, russia, ukraine",
+                        "og:site_name": "TechCrunch",
+                        "cxenseparse:keywords": "column,cryptocurrency,opinion,tc,bitcoin,blockchain,cryptocurrencies,decentralization,digital currencies,mining,russia,ukraine",
+                        "cxenseparse:url": "https://techcrunch.com/2021/09/29/ukraines-crypto-legislation-is-a-step-in-the-right-direction/",
+                        "cxenseparse:image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1231620048.jpg?w=617",
+                        "title": "Ukraine\u2019s crypto legislation is a step in the right direction \u2013 TechCrunch",
+                        "msapplication-tileimage": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=270",
+                        "og:description": "With corruption, unlawful asset seizures by politicians and the collapse of several of Ukraine\u2019s prominent banks, it is only reasonable that the decentralized nature of Bitcoin appeals to the people.",
+                        "twitter:creator": "@dvkirichenko",
+                        "cxenseparse:news_keywords": "column,cryptocurrency,opinion,tc,bitcoin,blockchain,cryptocurrencies,decentralization,digital currencies,mining,russia,ukraine",
+                        "article:publisher": "https://www.facebook.com/techcrunch",
+                        "twitter:image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1231620048.jpg?w=617",
+                        "cxenseparse:modified_time": "2021-09-29T20:26:34Z",
+                        "oath:guce:product-eu": "false",
+                        "oath:guce:consent-host": "guce.techcrunch.com",
+                        "cxenseparse:author": "David Kirichenko",
+                        "twitter:site": "@techcrunch",
+                        "sailthru.title": "Ukraine\u2019s crypto legislation is a step in the right direction",
+                        "og:site": "social.techcrunch.com",
+                        "fb:admins": "8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188",
+                        "cxenseparse:recs:publishtime": "2021-09-29T14:07:48Z",
+                        "sailthru.date": "2021-09-29 07:07:48",
+                        "og:type": "article",
+                        "twitter:title": "Ukraine\u2019s crypto legislation is a step in the right direction",
+                        "wp-parsely_version": "2.4.1",
+                        "cxenseparse:title": "Ukraine's crypto legislation is a step in the right direction",
+                        "cxenseparse:pageclass": "article",
+                        "og:title": "Ukraine\u2019s crypto legislation is a step in the right direction \u2013 TechCrunch",
+                        "cxenseparse:description": "With corruption, unlawful asset seizures by politicians and the collapse of several of Ukraine\u2019s prominent banks, it is only reasonable that the decentralized nature of Bitcoin appeals to the people.",
+                        "sailthru.image.thumb": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1231620048.jpg?w=50",
+                        "fb:pages": "8062627951",
+                        "sailthru.description": "With corruption, unlawful asset seizures by politicians and the collapse of several of Ukraine\u2019s prominent banks, it is only reasonable that the decentralized nature of Bitcoin appeals to the people.",
+                        "fb:app_id": "187288694643718",
+                        "cxenseparse:posttype": "post",
+                        "viewport": "width=device-width",
+                        "oath:guce:inline-consent": "true",
+                        "cxenseparse:articleid": "2209543",
+                        "twitter:description": "With corruption, unlawful asset seizures by politicians and the collapse of several of Ukraine\u2019s prominent banks, it is only reasonable that the decentralized nature of Bitcoin appeals to the people.",
+                        "og:url": "https://social.techcrunch.com/2021/09/29/ukraines-crypto-legislation-is-a-step-in-the-right-direction/",
+                        "sailthru.author": "Annie Saunders",
+                        "sailthru.image.full": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1231620048.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1231620048.jpg?w=617"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ukraine's Draft Crypto Bill Passes First Parliamentary Hearing ...",
+            "htmlTitle": "<b>Ukraine&#39;s</b> Draft Crypto Bill Passes First Parliamentary Hearing ...",
+            "link": "https://www.coindesk.com/markets/2020/12/02/ukraines-draft-crypto-bill-passes-first-parliamentary-hearing/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Dec 2, 2020 ... Ukraine's parliament has approved the first version of a draft cryptocurrency bill, bringing regulation of the industry a step closer.",
+            "htmlSnippet": "Dec 2, 2020 <b>...</b> <b>Ukraine&#39;s</b> parliament has approved the first version of a draft <b>cryptocurrency</b> bill, bringing <b>regulation</b> of the industry a step closer.",
+            "cacheId": "HqLWdmg53vIJ",
+            "formattedUrl": "https://www.coindesk.com/.../ukraines-draft-crypto-bill-passes-first- parliamentary-hearing/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>ukraines</b>-draft-crypto-bill-passes-first- parliamentary-hearing/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLzPaq6Q5TUS06iRnWBT04a9qTsvv8SwRSMHrlf_SqHpoYJCpQc41rHNw",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/UdOGZwHHDMllV97x1WlQLOnmg5o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4K65PJ2L45EXVG2J3WBLXC7I4Q.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2020-12-02T12:52:46Z",
+                        "article:section": "Markets",
+                        "twitter:title": "Ukraine's Draft Crypto Bill Passes First Parliamentary Hearing",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Ukraine's Draft Crypto Bill Passes First Parliamentary Hearing",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Ukraine's parliament has approved the first version of a draft cryptocurrency bill, bringing regulation of the industry a step closer.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Anna Baydakova",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/RMHofblA9uxrP_DTEw2shKWIb3I=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4K65PJ2L45EXVG2J3WBLXC7I4Q.jpg",
+                        "article:tag": "Ukraine, Regulation",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2020-12-02T12:52:46Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Ukraine's parliament has approved the first version of a draft cryptocurrency bill, bringing regulation of the industry a step closer.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2020/12/02/ukraines-draft-crypto-bill-passes-first-parliamentary-hearing/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/UdOGZwHHDMllV97x1WlQLOnmg5o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4K65PJ2L45EXVG2J3WBLXC7I4Q.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

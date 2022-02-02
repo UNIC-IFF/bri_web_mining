@@ -1,0 +1,612 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - HONG KONG",
+                "totalResults": "8520000",
+                "searchTerms": "HONG KONG",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - HONG KONG",
+                "totalResults": "8520000",
+                "searchTerms": "HONG KONG",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.389786,
+        "formattedSearchTime": "0.39",
+        "totalResults": "8520000",
+        "formattedTotalResults": "8,520,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Another Step Towards the Regulation of Cryptocurrency in Hong ...",
+            "htmlTitle": "Another Step Towards the <b>Regulation of Cryptocurrency</b> in <b>Hong</b> ...",
+            "link": "https://www.gibsondunn.com/another-step-towards-the-regulation-of-cryptocurrency-in-hong-kong-hkma-releases-discussion-paper-on-stablecoins/",
+            "displayLink": "www.gibsondunn.com",
+            "snippet": "6 days ago ... Gibson Dunn lawyers provide an overview of the Hong Kong Monetary Authority's views on crypto-assets and stablecoins as outlined in a\u00a0...",
+            "htmlSnippet": "6 days ago <b>...</b> Gibson Dunn lawyers provide an overview of the <b>Hong Kong</b> Monetary Authority&#39;s views on crypto-assets and stablecoins as outlined in a&nbsp;...",
+            "cacheId": "oyzopfEAEPcJ",
+            "formattedUrl": "https://www.gibsondunn.com/another-step-towards-the-regulation-of- cryptocurrency-in-hong-kong-hkma-releases-discussion-paper-on-stablecoi...",
+            "htmlFormattedUrl": "https://www.gibsondunn.com/another-step-towards-the-<b>regulation-of- cryptocurrency</b>-in-<b>hong</b>-<b>kong</b>-hkma-releases-discussion-paper-on-stablecoi...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHAh8XK1IGHQjDG0iU_-cm9XQredANZTJiD2qAglBr0bkf_M0gBqfemg",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.gibsondunn.com/wp-content/uploads/2019/10/2018-11-29-Cryptocurrency-and-Bitcoin-Initial-Coin-Offerings.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2022-01-19T02:35:10+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Gibson Dunn",
+                        "og:title": "Another Step Towards the Regulation of Cryptocurrency in Hong Kong: HKMA Releases Discussion Paper on Stablecoins",
+                        "og:image:height": "627",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://www.gibsondunn.com/wp-content/uploads/2017/03/cropped-favicon_fullsize-270x270.png",
+                        "og:description": "Gibson Dunn lawyers provide an overview of the Hong Kong Monetary Authority's views on crypto-assets and stablecoins as outlined in a recently-released Discussion Paper, discuss the implications for players in the stablecoin ecosystem if the proposed changes are implemented, and suggest next steps for interested parties.",
+                        "twitter:creator": "@gibsondunn",
+                        "twitter:data1": "Richard Manfredi",
+                        "twitter:data2": "10 minutes",
+                        "twitter:site": "@gibsondunn",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.gibsondunn.com/another-step-towards-the-regulation-of-cryptocurrency-in-hong-kong-hkma-releases-discussion-paper-on-stablecoins/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gibsondunn.com/wp-content/uploads/2019/10/2018-11-29-Cryptocurrency-and-Bitcoin-Initial-Coin-Offerings.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hong Kong to restrict crypto exchanges to professional investors ...",
+            "htmlTitle": "<b>Hong Kong</b> to restrict crypto exchanges to professional investors ...",
+            "link": "https://www.reuters.com/technology/hong-kong-restrict-crypto-exchanges-professional-investors-2021-05-21/",
+            "displayLink": "www.reuters.com",
+            "snippet": "May 21, 2021 ... HONG KONG, May 21 (Reuters) - Cryptocurrency exchanges operating in Hong Kong will have to be licenced by the city's markets regulator and\u00a0...",
+            "htmlSnippet": "May 21, 2021 <b>...</b> <b>HONG KONG</b>, May 21 (Reuters) - <b>Cryptocurrency</b> exchanges operating in <b>Hong Kong</b> will have to be licenced by the city&#39;s markets <b>regulator</b> and&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../hong-kong-restrict-crypto-exchanges-professional -investors-2021-05-21/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>hong</b>-<b>kong</b>-restrict-crypto-exchanges-professional -investors-2021-05-21/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8912xsuMD0EN9ZetATAnShcvz0I4A7gk5etu1iIC5teB3udtZaEilAcRE",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/UyLyc82AtBsKkXzrpa8Wh4iESlc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UA22NNPAJFNCNIQFFOBNYHQKJI.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-05-21T10:39:35Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "og:description": "Cryptocurrency exchanges operating in Hong Kong will have to be licenced by the city's markets regulator and will only be allowed to provide services to professional investors, according to government proposals published on Friday.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/UyLyc82AtBsKkXzrpa8Wh4iESlc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UA22NNPAJFNCNIQFFOBNYHQKJI.jpg",
+                        "twitter:image:alt": "Representations of the virtual currency Bitcoin and Ethereum stand on a motherboard in this picture illustration taken May 20, 2021. REUTERS/Dado Ruvic/Illustration",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-05-27T16:02:44.829Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "Hong Kong to restrict crypto exchanges to professional investors",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/legal/litigation/article",
+                        "og:title": "Hong Kong to restrict crypto exchanges to professional investors",
+                        "dcsext.channellist": "Technology;Asia Pacific;Legal",
+                        "og:article:published_time": "2021-05-21T10:39:35Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Alun John",
+                        "article:tag": "NEWR,BACT,BISV,BISV08,BLKCC,BNKS,BNKS1,BSVC,CMPNY,CRYCUR,CRYPLX,CRYPMN,FIN,FINS,FINS08,FRX,FTECH,REG,REGS,TECH,TECH08,TMT,EASIA,HK,ASXPAC,EMRG,CN,ASIA,MTPIX,CLJ,CRIM,EXCA,FINTE,FINTE1,FNMKT,FNMKT1,FRAUD1,GEN,INVBIS,INVS08,SCAM1,LEGAL,REUTERS-LEGAL",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Cryptocurrency exchanges operating in Hong Kong will have to be licenced by the city's markets regulator and will only be allowed to provide services to professional investors, according to government proposals published on Friday.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/technology/hong-kong-restrict-crypto-exchanges-professional-investors-2021-05-21/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/UyLyc82AtBsKkXzrpa8Wh4iESlc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UA22NNPAJFNCNIQFFOBNYHQKJI.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Hong Kong | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Hong Kong</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/hong-kong",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Hong Kong for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Hong Kong</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "raOjDz_fPD4J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/hong-kong",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>hong</b>-<b>kong</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Hong Kong for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Hong Kong | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Hong Kong for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Hong Kong | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/hong-kong"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hong Kong and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Hong Kong</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/hong-kong/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "In Hong Kong, there is currently no specific legislation directed at regulating cryptocurrency. Bitcoin and similar currencies are designated as virtual\u00a0...",
+            "htmlSnippet": "In <b>Hong Kong</b>, there is currently no specific <b>legislation</b> directed at regulating <b>cryptocurrency</b>. Bitcoin and similar currencies are designated as virtual&nbsp;...",
+            "cacheId": "4gOo9e1oY6cJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/hong-kong/",
+            "htmlFormattedUrl": "https://freeman<b>law</b>.com/<b>cryptocurrency</b>/<b>hong</b>-<b>kong</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwUHF6-qzVMB0cm4AHScClaNTZGep1zFViBYX4GLmmDs2k4JgfZ4RxxvU",
+                        "width": "335",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_217007656-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-22T15:20:43+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/hong-kong/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Hong Kong? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_217007656-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_217007656-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:16:26+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Hong Kong?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Hong Kong and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Hong Kong and Cryptocurrency",
+                        "og:image:height": "1148",
+                        "og:updated_time": "2022-01-09T18:16:26+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Hong Kong and Cryptocurrency Hong Kong Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain In Hong Kong, there is currently no specific legislation directed at regulating cryptocurrency. Bitcoin and similar currencies are designated as virtual commodities...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/hong-kong/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_217007656-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why Hong Kong's crypto crown is slipping | Financial Times",
+            "htmlTitle": "Why <b>Hong Kong&#39;s</b> crypto crown is slipping | Financial Times",
+            "link": "https://www.ft.com/content/c6477ab5-0063-404b-8e9d-a69f7237ac06",
+            "displayLink": "www.ft.com",
+            "snippet": "Aug 17, 2021 ... Hong Kong outlined a new framework to regulate cryptocurrencies in 2018 and further licensing arrangements for exchanges last year that have not\u00a0...",
+            "htmlSnippet": "Aug 17, 2021 <b>...</b> <b>Hong Kong</b> outlined a new framework to <b>regulate cryptocurrencies</b> in 2018 and further licensing arrangements for exchanges last year that have not&nbsp;...",
+            "formattedUrl": "https://www.ft.com/content/c6477ab5-0063-404b-8e9d-a69f7237ac06",
+            "htmlFormattedUrl": "https://www.ft.com/content/c6477ab5-0063-404b-8e9d-a69f7237ac06",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2LeIrBtFcYXLEdc56Q8aQlK4Ggc_yz63zW0VxV30Ga0peeKmxGNYNZAZ",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2dd1512-653f-455e-b5e0-86557380cbfe.jpg?source=next-opengraph&fit=scale-down&width=900",
+                        "apple-itunes-app": "app-id=1200842933, app-argument=https://www.ft.com/content/c6477ab5-0063-404b-8e9d-a69f7237ac06",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "article:published_time": "2021-08-17T23:01:32.812Z",
+                        "og:title": "Why Hong Kong\u2019s crypto crown is slipping",
+                        "fb:pages": "8860325749",
+                        "og:description": "Territory\u2019s flourishing industry is increasingly at odds with China\u2019s tougher stance",
+                        "article:author": "Tabby Kinder",
+                        "twitter:site": "@FinancialTimes",
+                        "article:modified_time": "2021-08-17T23:01:32.812Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.ft.com/content/c6477ab5-0063-404b-8e9d-a69f7237ac06"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2dd1512-653f-455e-b5e0-86557380cbfe.jpg?source=next-opengraph&fit=scale-down&width=900"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legal Update: Crypto Regulation in Hong Kong 2021 | Oldham, Li ...",
+            "htmlTitle": "Legal Update: Crypto <b>Regulation</b> in <b>Hong Kong</b> 2021 | Oldham, Li ...",
+            "link": "https://oln-law.com/legal-update-crypto-regulation-in-hong-kong-2021/",
+            "displayLink": "oln-law.com",
+            "snippet": "Nov 9, 2021 ... Currently there is no specific legislation aimed at restricting cryptocurrencies in Hong Kong but the SFC regulates anyone involved in trading\u00a0...",
+            "htmlSnippet": "Nov 9, 2021 <b>...</b> Currently there is no specific <b>legislation</b> aimed at restricting <b>cryptocurrencies</b> in <b>Hong Kong</b> but the SFC regulates anyone involved in trading&nbsp;...",
+            "cacheId": "HvEZ5uWV3YgJ",
+            "formattedUrl": "https://oln-law.com/legal-update-crypto-regulation-in-hong-kong-2021/",
+            "htmlFormattedUrl": "https://oln-<b>law</b>.com/legal-update-crypto-<b>regulation</b>-in-<b>hong</b>-<b>kong</b>-2021/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwz4R1VbWDv993N244-3TfsKLwBmH8ojT_9g-KT5aFnR2alq-8URaofh2G",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://oln-law.com/wp-content/uploads/sites/2/2021/11/shutterstock_1110634118-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-11-09T10:26:45+00:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Legal Update: Crypto Regulation in Hong Kong 2021\u00a0\u00a0",
+                        "og:image:width": "2560",
+                        "og:site_name": "Oldham, Li & Nie",
+                        "og:title": "Legal Update: Crypto Regulation in Hong Kong 2021\u00a0\u00a0",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:updated_time": "2022-01-20T06:15:58+00:00",
+                        "msapplication-tileimage": "https://oln-law.com/wp-content/uploads/sites/2/2021/08/favicon.png",
+                        "og:description": "Hong Kong has gone from having minimal regulation of cryptocurrencies to where the government now plans to outlaw retail crypto trading and investing.",
+                        "twitter:image": "https://oln-law.com/wp-content/uploads/sites/2/2021/11/shutterstock_1110634118-scaled.jpg",
+                        "twitter:data1": "OLN Marketing",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2022-01-20T06:15:58+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Hong Kong has gone from having minimal regulation of cryptocurrencies to where the government now plans to outlaw retail crypto trading and investing.",
+                        "og:locale": "en_US",
+                        "og:url": "https://oln-law.com/legal-update-crypto-regulation-in-hong-kong-2021/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://oln-law.com/wp-content/uploads/sites/2/2021/11/shutterstock_1110634118-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How new blockchain, cryptocurrency rules can give Hong Kong an ...",
+            "htmlTitle": "How new blockchain, <b>cryptocurrency rules</b> can give <b>Hong Kong</b> an ...",
+            "link": "https://www.scmp.com/comment/opinion/article/3152561/how-new-blockchain-cryptocurrency-rules-can-give-hong-kong",
+            "displayLink": "www.scmp.com",
+            "snippet": "Oct 18, 2021 ... Change is coming for Hong Kong's digital asset markets with the Legislative Council likely to consider new regulation governing blockchain\u00a0...",
+            "htmlSnippet": "Oct 18, 2021 <b>...</b> Change is coming for <b>Hong Kong&#39;s</b> digital asset markets with the Legislative Council likely to consider new <b>regulation</b> governing blockchain&nbsp;...",
+            "cacheId": "b8kJcnKR3A8J",
+            "formattedUrl": "https://www.scmp.com/.../how-new-blockchain-cryptocurrency-rules-can- give-hong-kong",
+            "htmlFormattedUrl": "https://www.scmp.com/.../how-new-blockchain-<b>cryptocurrency</b>-<b>rules</b>-can- give-<b>hong</b>-<b>kong</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYpEKaAWXnBnv9x4i24sM-pMtfEx_OrLex9Al9dn1GdAiDExqn2jOBqWLw",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=623201967",
+                        "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2021/10/17/6756f86a-b98f-4fd7-8d0d-c92349ec1dc5_e3b09ade.jpg?itok=H3shnYIb&v=1634439408",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-10-18T09:45:11+08:00",
+                        "theme-color": "#ffffff",
+                        "cse_topic": "Financial regulation,Regulation,Blockchain,Digital currencies,Fintech,Hong Kong economy,Legislative Council of Hong Kong,Banking & finance",
+                        "og:site_name": "South China Morning Post",
+                        "al:android:package": "com.scmp.newspulse",
+                        "cse_headline": "How new blockchain, cryptocurrency rules can give Hong Kong an investment edge",
+                        "cse_uuid": "a3fdb238-25ca-4e76-9e7c-2e729e6fa99b",
+                        "cse_articletype": "Opinion",
+                        "al:ios:url": "scmp://comment/opinion/article/3152561/how-new-blockchain-cryptocurrency-rules-can-give-hong-kong?entity=node&type=article&id=3152561",
+                        "cse_author": "Andrew Leelarthaepin",
+                        "og:description": "A more mature and stable market could quickly develop if the regulatory approach is crafted to attract institutional market entrants while striking a balance to allow new players to innovate.",
+                        "cse_sectionname": "Comment,Opinion",
+                        "al:ios:app_store_id": "623201967",
+                        "cse_type": "Article",
+                        "pocket-site-verification": "25fd909c3fd10ded451415fc076ba8",
+                        "twitter:site": "@SCMPNews",
+                        "article:modified_time": "2021-10-18T09:45:11+08:00",
+                        "cse_not_open_in_app": "false",
+                        "news_keywords": "Hong Kong, blockchain, cryptocurrency, regulation, digital assets",
+                        "cse_summary": "A more mature and stable market could quickly develop if the regulatory approach is crafted to attract institutional market entrants while striking a balance to allow new players to innovate.",
+                        "twitter:title": "How new blockchain, crypto rules can give Hong Kong an investment edge",
+                        "og:type": "article",
+                        "article:section": "Comment",
+                        "al:ios:app_name": "SCMP",
+                        "og:title": "How new blockchain, crypto rules can give Hong Kong an investment edge",
+                        "cse_socialheadline": "How new blockchain, crypto rules can give Hong Kong an investment edge",
+                        "og:updated_time": "2021-10-18T09:45:11+08:00",
+                        "cse_square_mainimage": "https://cdn.i-scmp.com/sites/default/files/styles/118x118/public/d8/images/canvas/2021/10/17/6756f86a-b98f-4fd7-8d0d-c92349ec1dc5_e3b09ade.jpg?itok=jzhCKIXo&v=1634439408",
+                        "twitter:image:src": "https://cdn.i-scmp.com/sites/default/files/styles/og_twitter_scmp_opinion/public/d8/images/canvas/2021/10/17/6756f86a-b98f-4fd7-8d0d-c92349ec1dc5_e3b09ade.jpg?itok=0LTqXdSx&v=1634439408",
+                        "article:tag": "Financial regulation",
+                        "al:android:url": "scmp://comment/opinion/article/3152561/how-new-blockchain-cryptocurrency-rules-can-give-hong-kong?entity=node&type=article&id=3152561",
+                        "fb:app_id": "282931841805811",
+                        "viewport": "width=device-width, maximum-scale=1, user-scalable=no, initial-scale=1",
+                        "twitter:description": "A more mature and stable market could quickly develop if the regulatory approach is crafted to attract institutional market entrants while striking a balance to allow new players to innovate.",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.scmp.com/comment/opinion/article/3152561/how-new-blockchain-cryptocurrency-rules-can-give-hong-kong",
+                        "al:android:app_name": "SCMP",
+                        "cse_mainimage": "https://cdn.i-scmp.com/sites/default/files/styles/652x446/public/d8/images/canvas/2021/10/17/6756f86a-b98f-4fd7-8d0d-c92349ec1dc5_e3b09ade.jpg?itok=0j3Hg_lW&v=1634439408"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2021/10/17/6756f86a-b98f-4fd7-8d0d-c92349ec1dc5_e3b09ade.jpg?itok=H3shnYIb&v=1634439408"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hong Kong Cryptocurrency Regulations | Coinfirm",
+            "htmlTitle": "<b>Hong Kong Cryptocurrency Regulations</b> | Coinfirm",
+            "link": "https://www.coinfirm.com/blog/hong-kong-cryptocurrency-regulations/",
+            "displayLink": "www.coinfirm.com",
+            "snippet": "Jan 18, 2021 ... Cryptocurrency mining in Hong Kong is not an illegal activity, but may rather be regulated under data centre laws if the activity is conducted\u00a0...",
+            "htmlSnippet": "Jan 18, 2021 <b>...</b> <b>Cryptocurrency</b> mining in <b>Hong Kong</b> is not an illegal activity, but may rather be <b>regulated</b> under data centre <b>laws</b> if the activity is conducted&nbsp;...",
+            "cacheId": "hDthhJrU5nkJ",
+            "formattedUrl": "https://www.coinfirm.com/blog/hong-kong-cryptocurrency-regulations/",
+            "htmlFormattedUrl": "https://www.coinfirm.com/blog/<b>hong</b>-<b>kong</b>-<b>cryptocurrency</b>-<b>regulations</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8mD9JpeglozWWYkCVUSeNAYPm4BxhlapSAB2cvSpz8zGL4TMwyZUs3AW",
+                        "width": "333",
+                        "height": "151"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coinfirm.com/wp-content/uploads/2021/01/hongkong_bitcoin_regulation_optimized.jpg",
+                        "og:image:alt": "hongkong_bitcoin_regulation",
+                        "og:image:width": "500",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Hong Kong Cryptocurrency Regulations",
+                        "og:article:modified_time": "2021-03-03 09:50:30",
+                        "author": "Sachin Dutta",
+                        "og:title": "Hong Kong Cryptocurrency Regulations",
+                        "og:image:height": "228",
+                        "og:article:published_time": "2021-01-18 17:10:35",
+                        "msapplication-tileimage": "https://www.coinfirm.com/wp-content/uploads/2020/09/coinfirmsvg-sd.svg",
+                        "og:description": "Hong Kong's cryptocurrency regulations currently allow retail investors to buy and sell Bitcoin and other crypto-assets. However, the set of comprehensive rules",
+                        "twitter:image": "https://www.coinfirm.com/wp-content/uploads/2021/01/hongkong_bitcoin_regulation_optimized.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Hong Kong's cryptocurrency regulations currently allow retail investors to buy and sell Bitcoin and other crypto-assets. However, the set of comprehensive rules",
+                        "og:url": "https://www.coinfirm.com/blog/hong-kong-cryptocurrency-regulations/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coinfirm.com/wp-content/uploads/2021/01/hongkong_bitcoin_regulation_optimized.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Blockchain Analytics",
+                        "url": "AML Platform"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Compliance Insights",
+                        "name": "Compliance Insights",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tracing and freezing cryptocurrency in Hong Kong and Singapore ...",
+            "htmlTitle": "Tracing and freezing <b>cryptocurrency</b> in <b>Hong Kong</b> and Singapore ...",
+            "link": "https://www.reedsmith.com/en/perspectives/2021/08/tracing-and-freezing-cryptocurrency-in-hong-kong-and-singapore",
+            "displayLink": "www.reedsmith.com",
+            "snippet": "Aug 9, 2021 ... While the laws of Hong Kong and Singapore do not directly address ownership and transfer of cryptocurrency, commercial and cyber fraud involving\u00a0...",
+            "htmlSnippet": "Aug 9, 2021 <b>...</b> While the <b>laws</b> of <b>Hong Kong</b> and Singapore do not directly address ownership and transfer of <b>cryptocurrency</b>, commercial and cyber fraud involving&nbsp;...",
+            "cacheId": "AlQElPqkNngJ",
+            "formattedUrl": "https://www.reedsmith.com/.../tracing-and-freezing-cryptocurrency-in-hong- kong-and-singapore",
+            "htmlFormattedUrl": "https://www.reedsmith.com/.../tracing-and-freezing-<b>cryptocurrency</b>-in-<b>hong</b>- <b>kong</b>-and-singapore",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvb7aC-dhLBJHEijEdmPOZXVnUa3qmd_wEdGJi2Ep6P4ZXaCQ8VeQHgyFn",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reedsmith.com/en//-/media/images/publications/opengraphoptions/001285_opengraphimage_rb.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Tracing and freezing cryptocurrency in Hong Kong and Singapore | Perspectives | Reed Smith LLP",
+                        "limitfilter": "perspectives",
+                        "og:title": "Tracing and freezing cryptocurrency in Hong Kong and Singapore | Perspectives | Reed Smith LLP",
+                        "title": "Tracing and freezing cryptocurrency in Hong Kong and Singapore | Perspectives | Reed Smith LLP",
+                        "twitter:image": "https://www.reedsmith.com/en//-/media/images/publications/opengraphoptions/001285_opengraphimage_rb2.jpg",
+                        "twitter:site": "reedsmithllp",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "languagefilter": "en",
+                        "oni_section": "perspectives",
+                        "og:url": "https://www.reedsmith.com/en/perspectives/2021/08/tracing-and-freezing-cryptocurrency-in-hong-kong-and-singapore"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reedsmith.com/en//-/media/images/publications/opengraphoptions/001285_opengraphimage_rb.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hong Kong's Unfriendly Crypto Rules Boost Rival Efforts To Attract ...",
+            "htmlTitle": "<b>Hong Kong&#39;s</b> Unfriendly Crypto <b>Rules</b> Boost Rival Efforts To Attract ...",
+            "link": "https://www.forbes.com/sites/zinnialee/2021/12/09/hong-kongs-unfriendly-crypto-rules-boost-rival-efforts-to-attract-bitcoin-billionaires/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Dec 9, 2021 ... At the time, most cryptocurrencies fell outside the scope of the framework. Furthermore, licensed exchanges are only allowed to serve\u00a0...",
+            "htmlSnippet": "Dec 9, 2021 <b>...</b> At the time, most <b>cryptocurrencies</b> fell outside the scope of the framework. Furthermore, licensed exchanges are only allowed to serve&nbsp;...",
+            "cacheId": "jVUPH74GP9MJ",
+            "formattedUrl": "https://www.forbes.com/.../hong-kongs-unfriendly-crypto-rules-boost-rival- efforts-to-attract-bitcoin-billionaires/",
+            "htmlFormattedUrl": "https://www.forbes.com/.../<b>hong</b>-<b>kongs</b>-unfriendly-crypto-<b>rules</b>-boost-rival- efforts-to-attract-bitcoin-billionaires/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn-ohl7UiTzkRKB5f53Mim2FIU2-qErJ2HgR11wJepjPKpzlsCpPvg97o",
+                        "width": "375",
+                        "height": "135"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Forbes",
+                        "article:id": "blogAndPostId/blog/post/51093-61a4a4c7ee8d7f000174d40b",
+                        "og:description": "Regulatory uncertainty and travel restrictions are forcing the city\u2019s crypto elites to shift their operations to more hospitable jurisdictions.",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/615e077a298aca27c9442450/0x0.jpg?format=jpg&crop=2400,1350,x0,y181,safe&fit=crop",
+                        "twitter:site": "@forbes",
+                        "news_keywords": "hong kong crypto hub,FTX bahamas,crypto billionaires,crypto crackdown,forbes crypto,Binance singapore license,Sam bankman fried FTX,crypto regulations,hong kong singapore crypto regulations,crypto bitcoin legal",
+                        "article:published": "2021-12-09",
+                        "article:channel": "Asia",
+                        "image": "https://imageio.forbes.com/specials-images/imageserve/615e077a298aca27c9442450/0x0.jpg?format=jpg&crop=2400,1350,x0,y181,safe&fit=crop",
+                        "article:section": "Asia",
+                        "og:type": "article",
+                        "twitter:title": "Hong Kong\u2019s Unfriendly Crypto Rules Boost Rival Efforts To Attract Bitcoin Billionaires",
+                        "author": "Zinnia Lee",
+                        "article:section_url": "https://www.forbes.com/asia/",
+                        "og:title": "Hong Kong\u2019s Unfriendly Crypto Rules Boost Rival Efforts To Attract Bitcoin Billionaires",
+                        "amp-google-client-id-api": "googleanalytics",
+                        "og:updated_time": "2021-12-13T11:07:45.039-05:00",
+                        "article:author": "Zinnia Lee",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "123694841080850",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes,minimal-ui",
+                        "twitter:description": "Regulatory uncertainty and travel restrictions are forcing the city\u2019s crypto elites to shift their operations to more hospitable jurisdictions.",
+                        "og:url": "https://www.forbes.com/sites/zinnialee/2021/12/09/hong-kongs-unfriendly-crypto-rules-boost-rival-efforts-to-attract-bitcoin-billionaires/",
+                        "article:modified": "2021-12-13",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://imageio.forbes.com/specials-images/imageserve/61a4a4e51246c4023470c192/0x0.jpg?format=jpg&height=1080&width=3000&fit=crop"
+                    }
+                ]
+            }
+        }
+    ]
+}

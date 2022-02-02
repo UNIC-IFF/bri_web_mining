@@ -1,0 +1,566 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - PANAMA",
+                "totalResults": "831000",
+                "searchTerms": "PANAMA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - PANAMA",
+                "totalResults": "831000",
+                "searchTerms": "PANAMA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.326157,
+        "formattedSearchTime": "0.33",
+        "totalResults": "831000",
+        "formattedTotalResults": "831,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Panamanian Congressman Presents Bill to Regulate Crypto",
+            "htmlTitle": "<b>Panamanian</b> Congressman Presents Bill to <b>Regulate</b> Crypto",
+            "link": "https://www.coindesk.com/policy/2021/09/07/panamanian-congressman-presents-bill-to-regulate-crypto/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Sep 6, 2021 ... As Silva confirmed to CoinDesk, the use of cryptocurrencies is not illegal in Panama. There is no enforced currency in the Panamanian\u00a0...",
+            "htmlSnippet": "Sep 6, 2021 <b>...</b> As Silva confirmed to CoinDesk, the use of <b>cryptocurrencies</b> is not illegal in <b>Panama</b>. There is no enforced currency in the <b>Panamanian</b>&nbsp;...",
+            "cacheId": "nx8YXLqdbXMJ",
+            "formattedUrl": "https://www.coindesk.com/.../panamanian-congressman-presents-bill-to- regulate-crypto/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>panamanian</b>-congressman-presents-bill-to- <b>regulate</b>-crypto/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToeVF_GNSsLwgWinxTkoNReN2cePp2Lwd6Am0jRQgublLr0gbSCMMJ2AaZ",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/KubEEdggeVoKVxeGiucssex340c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QGL22E5ZZ5DF7M2XK4CAK6D3CM.jpeg",
+                        "og:image:width": "1200",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-07T04:27:59.333Z",
+                        "article:section": "Policy",
+                        "twitter:title": "Panamanian Congressman Presents Bill to Regulate Crypto",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Panamanian Congressman Presents Bill to Regulate Crypto",
+                        "og:image:height": "628",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Gabriel Silva drafted legislation proposing the use of cryptocurrency as a means of payment for civil and commercial operations.",
+                        "twitter:creator": "@coindesk",
+                        "article:author": "Andr\u00e9s Engler",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/deDsvgm7pBR4EzmlD8SvHH-6aRA=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QGL22E5ZZ5DF7M2XK4CAK6D3CM.jpeg",
+                        "article:tag": "Crypto, Crypto Assets, South America, Cryptocurrency, Policy, Law, Government",
+                        "fb:app_id": "243125406422041",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-09-08T20:28:24.646Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Gabriel Silva drafted legislation proposing the use of cryptocurrency as a means of payment for civil and commercial operations.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/09/07/panamanian-congressman-presents-bill-to-regulate-crypto/",
+                        "twitter:account_id": "1418565129"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/KubEEdggeVoKVxeGiucssex340c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QGL22E5ZZ5DF7M2XK4CAK6D3CM.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lawmaker Presents Bill to Regulate Cryptocurrencies in Panama ...",
+            "htmlTitle": "Lawmaker Presents Bill to <b>Regulate Cryptocurrencies</b> in <b>Panama</b> ...",
+            "link": "https://news.bitcoin.com/lawmaker-bill-regulate-cryptocurrencies-panama/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Sep 10, 2021 ... A Panamanian lawmaker has introduced a bill to regulate cryptocurrencies in the National Assembly. Among the proposals in the bill is the\u00a0...",
+            "htmlSnippet": "Sep 10, 2021 <b>...</b> A <b>Panamanian</b> lawmaker has introduced a bill to <b>regulate cryptocurrencies</b> in the National Assembly. Among the proposals in the bill is the&nbsp;...",
+            "cacheId": "gdgAAkIuaTsJ",
+            "formattedUrl": "https://news.bitcoin.com/lawmaker-bill-regulate-cryptocurrencies-panama/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/lawmaker-bill-<b>regulate</b>-<b>cryptocurrencies</b>-<b>panama</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQai6T3I4d0EB-prp6cH88iWOInDeHzt4jPGnB3_ToV-3PUrcn7iMXF8De4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/09/panama.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-10T13:30:12+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Lawmaker Presents Bill to Regulate Cryptocurrencies in Panama \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Among the proposals in the bill is the legalization of cryptocurrencies, like bitcoin and ethereum, as a means of payment.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Kevin Helms",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-09-12T05:15:45+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/lawmaker-bill-regulate-cryptocurrencies-panama/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Lawmaker Presents Bill to Regulate Cryptocurrencies in Panama"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/09/panama.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Republic of Panama introduces bill for regulating crypto",
+            "htmlTitle": "Republic of <b>Panama</b> introduces bill for regulating crypto",
+            "link": "https://cointelegraph.com/news/republic-of-panama-introduces-bill-for-regulating-crypto",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Sep 7, 2021 ... The Republic of Panama introduced a bill regulating cryptocurrencies, aiming to make the country \u201ccompatible with the blockchain,\u00a0...",
+            "htmlSnippet": "Sep 7, 2021 <b>...</b> The Republic of <b>Panama</b> introduced a bill regulating <b>cryptocurrencies</b>, aiming to make the country \u201ccompatible with the blockchain,&nbsp;...",
+            "cacheId": "evHRK4JkKusJ",
+            "formattedUrl": "https://cointelegraph.com/.../republic-of-panama-introduces-bill-for- regulating-crypto",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../republic-of-<b>panama</b>-introduces-bill-for- regulating-crypto",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyd11zDHN3ZzQY9jw-P1jYSTCcFb2-m0fEOYRyqj6AfUjNMu99SdducNF",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvYmM1MjI1ZTctN2UxZC00YTIwLTllN2QtOWUzNWI5MmI4MmNiLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Republic of Panama introduces bill for regulating crypto",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Republic of Panama introduces bill for regulating crypto",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Republic of Panama introduced a bill regulating cryptocurrencies, aiming to make the country \u201ccompatible with the blockchain, crypto assets and the internet.\u201d",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvYmM1MjI1ZTctN2UxZC00YTIwLTllN2QtOWUzNWI5MmI4MmNiLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Republic of Panama introduced a bill regulating cryptocurrencies, aiming to make the country \u201ccompatible with the blockchain, crypto assets and the internet.\u201d",
+                        "og:url": "https://cointelegraph.com/news/republic-of-panama-introduces-bill-for-regulating-crypto"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDkvYmM1MjI1ZTctN2UxZC00YTIwLTllN2QtOWUzNWI5MmI4MmNiLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cuba will recognize and regulate cryptocurrency | Fortune",
+            "htmlTitle": "Cuba will recognize and <b>regulate cryptocurrency</b> | Fortune",
+            "link": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+            "displayLink": "fortune.com",
+            "snippet": "Aug 27, 2021 ... ... said Friday it is drafting legislation to regulate cryptocurrency in ... Mexico, and Panama have in the past expressed interest in more\u00a0...",
+            "htmlSnippet": "Aug 27, 2021 <b>...</b> ... said Friday it is drafting legislation to <b>regulate cryptocurrency</b> in ... Mexico, and <b>Panama</b> have in the past expressed interest in more&nbsp;...",
+            "cacheId": "vzQ35OOmYHEJ",
+            "formattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-regulate-cryptocurrency /",
+            "htmlFormattedUrl": "https://fortune.com/2021/.../cuba-will-recognize-and-<b>regulate</b>-<b>cryptocurrency</b> /",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-oeQq7FuycUaIAek04r3NWd89394Os0Hx4pU41Ve6PZuDNonH0HO1PA",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:title": "Cuba will recognize and regulate cryptocurrency",
+                        "og:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:height": "619",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The country\u2019s central bank said Friday it is drafting legislation to regulate cryptocurrency in commercial transactions and to issue licenses for providers of services connected with virtual assets.",
+                        "og:url": "https://fortune.com/2021/08/27/cuba-will-recognize-and-regulate-cryptocurrency/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/08/GettyImages-1229210569.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Panama and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Panama</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/panama/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Cryptocurrency is currently legal in Panama; however, the country lacks\u00a0...",
+            "htmlSnippet": "<b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. <b>Cryptocurrency</b> is currently legal in <b>Panama</b>; however, the country lacks&nbsp;...",
+            "cacheId": "CTsVaW2zYwIJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/panama/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>panama</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1XeriyB1v15IZCLPyZ7j2QtSSb7KSSlF9IUMm3MmmqL91HglbH__Ty2ay",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_439175858-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-31T21:26:39+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/panama/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Panama Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_439175858-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_439175858-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:21+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Large transparent Glass Bitcoin in center and on top of the Country Flag of Panama",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Panama and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Panama and Cryptocurrency",
+                        "og:image:height": "1440",
+                        "og:updated_time": "2022-01-09T17:56:21+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Panama and Cryptocurrency Panama\u00a0 Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Cryptocurrency is currently legal in Panama; however, the country lacks strict regulations and currently operates under a more passive approach. The government...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/panama/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_439175858-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Panama Introducing Legislation to Make Bitcoin Legal Tender",
+            "htmlTitle": "<b>Panama</b> Introducing Legislation to Make Bitcoin Legal Tender",
+            "link": "https://www.yahoo.com/lifestyle/panama-introducing-legislation-bitcoin-legal-054123035.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Sep 7, 2021 ... Panamanian Congressman Gabriel Silva has introduced a bill to regulate the use of digital currency within the nation. The proposed bill in\u00a0...",
+            "htmlSnippet": "Sep 7, 2021 <b>...</b> <b>Panamanian</b> Congressman Gabriel Silva has introduced a bill to <b>regulate</b> the use of digital currency within the nation. The proposed bill in&nbsp;...",
+            "cacheId": "rf03VOZOyaEJ",
+            "formattedUrl": "https://www.yahoo.com/.../panama-introducing-legislation-bitcoin-legal- 054123035.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>panama</b>-introducing-legislation-bitcoin-legal- 054123035.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkBs9W2LTh7PzKV9_UaXKeNx0lhqGg5EF-Sc1uWKhBPMwZoNzjqYDY1cPC",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/ca094447-7913-3d3e-bfaf-f0773b46d150",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/tUblHVA64QITqyN5H4UmIQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/3bdb4c977ec59b7e89b3597f106cb512",
+                        "twitter:title": "Panama Introducing Legislation to Make Bitcoin Legal Tender",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Panama Introducing Legislation to Make Bitcoin Legal Tender",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "720",
+                        "og:description": "Panamanian Congressman Gabriel Silva has introduced a bill to regulate the use of digital currency within the nation. The proposed bill in Panama would recognize bitcoin as a national alternative payment method.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/tUblHVA64QITqyN5H4UmIQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/3bdb4c977ec59b7e89b3597f106cb512",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/tUblHVA64QITqyN5H4UmIQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/3bdb4c977ec59b7e89b3597f106cb512",
+                        "al:android:url": "yfinance://article/ca094447-7913-3d3e-bfaf-f0773b46d150",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Crypto Law, digital currency, Congressman Gabriel Silva, digital assets, Panama",
+                        "twitter:description": "Panamanian Congressman Gabriel Silva has introduced a bill to regulate the use of digital currency within the nation. The proposed bill in Panama would recognize bitcoin as a national alternative payment method.",
+                        "og:url": "https://finance.yahoo.com/news/panama-introducing-legislation-bitcoin-legal-054123035.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/tUblHVA64QITqyN5H4UmIQ--~B/aD03MjA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_articles_718/3bdb4c977ec59b7e89b3597f106cb512"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The government of Panama in search of cryptocurrencies regulation ...",
+            "htmlTitle": "The government of <b>Panama</b> in search of <b>cryptocurrencies regulation</b> ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=b2b3d771-479e-40b7-8c29-34c0a70757ae",
+            "displayLink": "www.lexology.com",
+            "snippet": "May 27, 2021 ... Although their use is not regulated worldwide, in our country there is a draft law, presented on October 22, 2020, that seeks to regulate the\u00a0...",
+            "htmlSnippet": "May 27, 2021 <b>...</b> Although their use is not <b>regulated</b> worldwide, in our country there is a draft law, presented on October 22, 2020, that seeks to <b>regulate</b> the&nbsp;...",
+            "cacheId": "4ZxsCfEeIR0J",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=b2b3d771-479e-40b7...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=b2b3d771-479e-40b7...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "The government of Panama in search of cryptocurrencies regulation",
+                        "workarea": "Banking",
+                        "jurisdiction": "Panama",
+                        "dc.date": "2021-05-27",
+                        "firmname": "Arias",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=b2b3d771-479e-40b7-8c29-34c0a70757ae",
+                        "og:description": "Cryptocurrencies are a digital form of money, also called virtual currencies or cryptocurrencies, which use digital encryption and have the main\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency license in Panama | Licensing cryptocurrency ...",
+            "htmlTitle": "<b>Cryptocurrency</b> license in <b>Panama</b> | Licensing <b>cryptocurrency</b> ...",
+            "link": "https://prifinance.com/en/cryptocurrency-license/panama/",
+            "displayLink": "prifinance.com",
+            "snippet": "To get a license for the cryptocurrencies exchange, an entrepreneur must register a Panamian legal entity with an activity included in the SFI category. The\u00a0...",
+            "htmlSnippet": "To get a license for the <b>cryptocurrencies</b> exchange, an entrepreneur must register a Panamian legal entity with an activity included in the SFI category. The&nbsp;...",
+            "cacheId": "Bo4F_5Rzg2EJ",
+            "formattedUrl": "https://prifinance.com/en/cryptocurrency-license/panama/",
+            "htmlFormattedUrl": "https://prifinance.com/en/<b>cryptocurrency</b>-license/<b>panama</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi9QmEbcWElsNLSR7uufUJGipaOILJofeJcKekEE2M3fj6MjNUtnZEfRc",
+                        "width": "200",
+                        "height": "82"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "/bitrix/templates/prifinance/img/logo_en.png",
+                        "og:type": "website",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency license in Panama | Licensing cryptocurrency exchange in Panama",
+                        "og:url": "https://prifinance.com/en/cryptocurrency-license/panama/",
+                        "og:description": "Panama is rapidly updating its financial legislation and is considered internationally a promising state for FinTech's business. In addition to loyal taxation and official support for blockchain technology, the country actively supports cryptocurrency startups",
+                        "facebook-domain-verification": "x7zorz2zhvirflgeenjn7jkxlc5sw3",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://prifinance.com/local/templates/prifinance/img/logo_en.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Panama unveils bill to make Bitcoin legal tender - CNET",
+            "htmlTitle": "<b>Panama</b> unveils bill to make Bitcoin legal tender - CNET",
+            "link": "https://www.cnet.com/personal-finance/crypto/panama-unveils-bill-to-make-bitcoin-legal-tender/",
+            "displayLink": "www.cnet.com",
+            "snippet": "Sep 8, 2021 ... The new Panamanian bill aims to promote the use of cryptocurrency and other digital assets, similar to legislation in its fellow Central\u00a0...",
+            "htmlSnippet": "Sep 8, 2021 <b>...</b> The new <b>Panamanian</b> bill aims to promote the use of <b>cryptocurrency</b> and other digital assets, similar to legislation in its fellow Central&nbsp;...",
+            "cacheId": "WVcP2yvz0IIJ",
+            "formattedUrl": "https://www.cnet.com/.../panama-unveils-bill-to-make-bitcoin-legal-tender/",
+            "htmlFormattedUrl": "https://www.cnet.com/.../<b>panama</b>-unveils-bill-to-make-bitcoin-legal-tender/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5a3WHC5T5U4oUJnjj9hD1TfKP7LbteMME-t3Ehak52yWkv_Vgp797OkuB",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "47524839a64b83c951afca9ef6c838e0",
+                        "og:image": "https://www.cnet.com/a/img/x4duGV7Duev1ZbWwhIL5cl5okXs=/1200x630/2020/08/17/2ab13de1-a377-4385-a8a2-12b845430057/bitcoin-logo-phone-5953.jpg",
+                        "theme-color": "#B80000",
+                        "msapplication-square70x70logo": "https://www.cnet.com/a/fly/bundles/cnetcss/images/core/icon/mstile-70.png",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "CNET",
+                        "twitter:url": "https://www.cnet.com/personal-finance/crypto/panama-unveils-bill-to-make-bitcoin-legal-tender/",
+                        "msapplication-tooltip": "Product reviews and prices, software downloads, and tech news - CNET",
+                        "msapplication-wide310x150logo": "https://www.cnet.com/a/fly/bundles/cnetcss/images/core/icon/mstile-310x150.png",
+                        "msapplication-tileimage": "https://www.cnet.com/a/fly/bundles/cnetcss/images/core/icon/mstile-144.png",
+                        "og:description": "The proposal comes one day after El Salvador officially adopted the cryptocurrency.",
+                        "twitter:creator": "@CNET",
+                        "article:publisher": "https://www.facebook.com/cnet",
+                        "twitter:image": "https://www.cnet.com/a/img/x4duGV7Duev1ZbWwhIL5cl5okXs=/1200x630/2020/08/17/2ab13de1-a377-4385-a8a2-12b845430057/bitcoin-logo-phone-5953.jpg",
+                        "twitter:site": "@CNET",
+                        "msapplication-square310x310logo": "https://www.cnet.com/a/fly/bundles/cnetcss/images/core/icon/mstile-310.png",
+                        "news_keywords": "blockchain, el, salvador, cryptocurrency, internet culture",
+                        "fb:admins": "100001036810388",
+                        "article:content_tier": "free",
+                        "twitter:account_id": "30261067",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-starturl": "https://www.cnet.com/",
+                        "og:type": "article",
+                        "twitter:title": "Panama unveils bill to make Bitcoin legal tender",
+                        "msapplication-window": "width=1024;height=768",
+                        "handheldfriendly": "True",
+                        "author": "Julian Dossett",
+                        "og:title": "Panama unveils bill to make Bitcoin legal tender",
+                        "msapplication-square150x150logo": "https://www.cnet.com/a/fly/bundles/cnetcss/images/core/icon/mstile-150.png",
+                        "fb:pages": "7155422274",
+                        "msapplication-navbutton-color": "#424244",
+                        "facebook-domain-verification": "ac1izblyrxd6ql7y6vlex7yeuie0us",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "16995676698",
+                        "apple-mobile-web-app-status-bar-style": "#aa1801",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "twitter:description": "The proposal comes one day after El Salvador officially adopted the cryptocurrency.",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobileoptimized": "320",
+                        "og:url": "https://www.cnet.com/personal-finance/crypto/panama-unveils-bill-to-make-bitcoin-legal-tender/",
+                        "msapplication-task": "name=Home; action-uri=https://www.cnet.com/; icon-uri=https://www.cnet.com/favicon.ico",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.cnet.com/a/img/x4duGV7Duev1ZbWwhIL5cl5okXs=/1200x630/2020/08/17/2ab13de1-a377-4385-a8a2-12b845430057/bitcoin-logo-phone-5953.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Panama lawmaker introduces proposed crypto regulation law",
+            "htmlTitle": "<b>Panama</b> lawmaker introduces proposed crypto <b>regulation</b> law",
+            "link": "https://www.theblockcrypto.com/linked/117010/panama-lawmaker-introduces-proposed-crypto-regulation-law",
+            "displayLink": "www.theblockcrypto.com",
+            "snippet": "Sep 8, 2021 ... An independent lawmaker in Panama has introduced a bill to the country's National Assembly that if approved will regulate crypto assets and\u00a0...",
+            "htmlSnippet": "Sep 8, 2021 <b>...</b> An independent lawmaker in <b>Panama</b> has introduced a bill to the country&#39;s National Assembly that if approved will <b>regulate</b> crypto assets and&nbsp;...",
+            "formattedUrl": "https://www.theblockcrypto.com/.../panama-lawmaker-introduces-proposed- crypto-regulation-law",
+            "htmlFormattedUrl": "https://www.theblockcrypto.com/.../<b>panama</b>-lawmaker-introduces-proposed- crypto-<b>regulation</b>-law",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr2qmNhlTdB13prcsg9Z6Xw-pudzrghuOExKeHQff9uyFFIlEwWW4-l536",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1920",
+                        "article:section": "Central Bank",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Panama lawmaker introduces proposed crypto regulation law",
+                        "og:site_name": "The Block",
+                        "og:title": "Panama lawmaker introduces proposed crypto regulation law",
+                        "og:image:height": "1080",
+                        "og:description": "An independent lawmaker in Panama has introduced a bill to the country\u2019s National Assembly that if approved will regulate crypto assets and promote",
+                        "twitter:creator": "@theblock__",
+                        "og:image:secure_url": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer.jpg",
+                        "article:publisher": "https://facebook.com/The-Block-Crypto-191118545129469",
+                        "twitter:image": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer.jpg",
+                        "article:tag": "El Salvador",
+                        "twitter:site": "@theblock__",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "An independent lawmaker in Panama has introduced a bill to the country\u2019s National Assembly that if approved will regulate crypto assets and promote",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.theblockcrypto.com/linked/117010/panama-lawmaker-introduces-proposed-crypto-regulation-law"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

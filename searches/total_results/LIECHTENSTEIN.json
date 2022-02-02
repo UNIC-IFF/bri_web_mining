@@ -1,0 +1,511 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - LIECHTENSTEIN",
+                "totalResults": "504000",
+                "searchTerms": "LIECHTENSTEIN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - LIECHTENSTEIN",
+                "totalResults": "504000",
+                "searchTerms": "LIECHTENSTEIN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.321056,
+        "formattedSearchTime": "0.32",
+        "totalResults": "504000",
+        "formattedTotalResults": "504,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Liechtenstein's Parliament Approves Blockchain Act Unanimously ...",
+            "htmlTitle": "<b>Liechtenstein&#39;s</b> Parliament Approves Blockchain Act Unanimously ...",
+            "link": "https://www.liechtensteinusa.org/article/liechtensteins-parliament-approves-blockchain-act-unanimously",
+            "displayLink": "www.liechtensteinusa.org",
+            "snippet": "On October 3, the Liechtenstein Parliament passed the Token and Trusted Technology Service Provider Act (TVTG) - in the past known as the \"Blockchain Act.\"\u00a0...",
+            "htmlSnippet": "On October 3, the <b>Liechtenstein</b> Parliament passed the Token and Trusted Technology Service Provider Act (TVTG) - in the past known as the &quot;Blockchain Act.&quot;&nbsp;...",
+            "cacheId": "n167doYPkZgJ",
+            "formattedUrl": "https://www.liechtensteinusa.org/.../liechtensteins-parliament-approves- blockchain-act-unanimously",
+            "htmlFormattedUrl": "https://www.<b>liechtenstein</b>usa.org/.../<b>liechtenstein</b>s-parliament-approves- blockchain-act-unanimously",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6mN-8IScK-EYwteqwmiL-LbalTOvs3t4h40ttxRXWHSdA14qm-EsBBhg",
+                        "width": "379",
+                        "height": "133"
+                    }
+                ],
+                "Article": [
+                    {
+                        "name": "Liechtenstein's Parliament Approves Blockchain Act Unanimously",
+                        "text": "On October 3, the Liechtenstein Parliament passed the Token and Trusted Technology Service Provider Act (TVTG) - in the past known as the \"Blockchain Act.\" This means that the law can enter...",
+                        "interactionCount": "UserComments:0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.liechtensteinusa.org/sites/default/files/styles/max_650x650/public/images/Regierungs%20Building.jpg?itok=K7VVKITG"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Liechtenstein and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Liechtenstein</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency/liechtenstein/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Liechtenstein? Liechtenstein and Cryptocurrency. Liechtenstein Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency,\u00a0...",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Liechtenstein</b>? <b>Liechtenstein</b> and <b>Cryptocurrency</b>. <b>Liechtenstein Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>,&nbsp;...",
+            "cacheId": "DO05kIFButIJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/liechtenstein/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>liechtenstein</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsBegniFv33nR5gxvOgmVANoN9BtkL7obAPpmISMa7Jwwy92dvSQHXN41N",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492949-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:20:25+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/liechtenstein/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Liechtenstein? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492949-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492949-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:34+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Is cryptocurrency legal in Liechtenstein?",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Liechtenstein and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Liechtenstein and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:34+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Liechtenstein and Cryptocurrency Liechtenstein Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Liechtenstein\u2019s stable political climate, successful banking industry, and existence of one of the most advanced blockchain and crypto regulatory...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/liechtenstein/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419492949-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "An introduction to Liechtenstein's cryptocurrency regulation",
+            "htmlTitle": "An introduction to <b>Liechtenstein&#39;s cryptocurrency regulation</b>",
+            "link": "https://blog.bcas.io/an-introduction-to-liechtensteins-cryptocurrency-regulation",
+            "displayLink": "blog.bcas.io",
+            "snippet": "Aug 31, 2020 ... Regulation of ICOs ... Token issuers with headquarters or places of residence in Liechtenstein that issue tokens in their own name or in the name\u00a0...",
+            "htmlSnippet": "Aug 31, 2020 <b>...</b> <b>Regulation</b> of ICOs ... Token issuers with headquarters or places of residence in <b>Liechtenstein</b> that issue tokens in their own name or in the name&nbsp;...",
+            "cacheId": "MsrQKxCYPuwJ",
+            "formattedUrl": "https://blog.bcas.io/an-introduction-to-liechtensteins-cryptocurrency- regulation",
+            "htmlFormattedUrl": "https://blog.bcas.io/an-introduction-to-<b>liechtenstein</b>s-<b>cryptocurrency</b>- <b>regulation</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRry-WOsn6gX2rMZFNJCZXuLbeo8UVLmQJU0DZd0MQErH7vsoGFXEIEdMJ_",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://blog.bcas.io/hubfs/BCA_New_website_2020/Blog/Banner/An%20introduction%20to%20Liechtenstein%25u2019s%20cryptocurrency%20regulation.png#keepProtocol",
+                        "twitter:title": "An introduction to Liechtenstein\u2019s cryptocurrency regulation",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "twitter:domain": "blog.bcas.io",
+                        "author": "Alexia Pollacco",
+                        "og:title": "An introduction to Liechtenstein\u2019s cryptocurrency regulation",
+                        "og:image:height": "1080",
+                        "og:description": "Liechtenstein\u2019s token regulatory framework is attracting businesses worldwide thanks to its accessible regulatory authority and fast registration process.",
+                        "twitter:image": "https://blog.bcas.io/hubfs/BCA_New_website_2020/Blog/Banner/An%20introduction%20to%20Liechtenstein%25u2019s%20cryptocurrency%20regulation.png#keepProtocol",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Liechtenstein\u2019s token regulatory framework is attracting businesses worldwide thanks to its accessible regulatory authority and fast registration process.",
+                        "og:url": "https://blog.bcas.io/an-introduction-to-liechtensteins-cryptocurrency-regulation"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blog.bcas.io/hubfs/BCA_New_website_2020/Blog/Banner/An%20introduction%20to%20Liechtenstein%25u2019s%20cryptocurrency%20regulation.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Liechtenstein ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Liechtenstein</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/liechtenstein",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Liechtenstein for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition\u00a0...",
+            "htmlSnippet": "The <b>Liechtenstein</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition&nbsp;...",
+            "cacheId": "EZIgNTuLPBUJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/liechtenstein",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>liechtenstein</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Liechtenstein for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Liechtenstein | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Liechtenstein for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Liechtenstein | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/liechtenstein"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Travel Rule Crypto in Liechtenstein by FMA [2021] - Notabene",
+            "htmlTitle": "Travel Rule Crypto in <b>Liechtenstein</b> by FMA [2021] - Notabene",
+            "link": "https://notabene.id/world/liechtenstein",
+            "displayLink": "notabene.id",
+            "snippet": "Yes, owning and using cryptocurrency for transactions is legal in Liechtenstein. In fact, Liechtenstein Blockchain Act (TVTG) provides a comprehensive framework\u00a0...",
+            "htmlSnippet": "Yes, owning and using <b>cryptocurrency</b> for transactions is legal in <b>Liechtenstein</b>. In fact, <b>Liechtenstein</b> Blockchain Act (TVTG) provides a comprehensive framework&nbsp;...",
+            "cacheId": "vJdCdvhu4hoJ",
+            "formattedUrl": "https://notabene.id/world/liechtenstein",
+            "htmlFormattedUrl": "https://notabene.id/world/<b>liechtenstein</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCRyE35twCsaCxNlJSQpgqSEG6-xz2fJs0PBzQDzNgoIAwLGbV2D5Ksw",
+                        "width": "396",
+                        "height": "127"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:title": "Travel Rule Crypto in Liechtenstein by FMA \ud83c\uddf1\ud83c\uddee [2021] - Notabene",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Everything you need to know about the Crypto Travel Rule in Liechtenstein in 2021. Notabene simplifies crypto regulation compliance. Find out more!",
+                        "og:title": "Travel Rule Crypto in Liechtenstein by FMA \ud83c\uddf1\ud83c\uddee [2021] - Notabene",
+                        "og:description": "Everything you need to know about the Crypto Travel Rule in Liechtenstein in 2021. Notabene simplifies crypto regulation compliance. Find out more!"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.website-files.com/5e68f0772de982756aa8c1a4/5eee5fb470215e6ecdc34b94_Full_transparent_black_1280x413.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies and financial crime: solutions from Liechtenstein",
+            "htmlTitle": "<b>Cryptocurrencies</b> and financial crime: solutions from <b>Liechtenstein</b>",
+            "link": "https://www.emerald.com/insight/content/doi/10.1108/JMLC-05-2020-0060/full/pdf?title=cryptocurrencies-and-financial-crime-solutions-from-liechtenstein",
+            "displayLink": "www.emerald.com",
+            "snippet": "of financial crime via cryptocurrency, an international standard for blockchain and cryptocurrency regulation must be created. This paper suggests that\u00a0...",
+            "htmlSnippet": "of financial crime via <b>cryptocurrency</b>, an international standard for blockchain and <b>cryptocurrency regulation</b> must be created. This paper suggests that&nbsp;...",
+            "formattedUrl": "https://www.emerald.com/...05.../pdf?...cryptocurrencies...liechtenstein",
+            "htmlFormattedUrl": "https://www.emerald.com/...05.../pdf?...<b>cryptocurrencies</b>...<b>liechtenstein</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPCii4XlpoSk9A2g9_g8MkRnvxyV0JvFrxw3S6AZl10pONo6KW897vWLMY",
+                        "width": "191",
+                        "height": "264"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20211009220137+05'30'",
+                        "creator": "PTC Arbortext Advanced Print Publisher 11.1.4012/W",
+                        "creationdate": "D:20211009220137+05'30'",
+                        "producer": "Adobe LiveCycle PDF Generator",
+                        "title": "EM-JMLC200066 775..788"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///70ed97d0280b4d43b794178073b1020b9c769902f9501dd50a5bde4a94ffa64c"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Liechtenstein's Government Passes New Regulation Concerning ...",
+            "htmlTitle": "<b>Liechtenstein&#39;s</b> Government Passes New <b>Regulation</b> Concerning ...",
+            "link": "https://cointelegraph.com/news/liechtensteins-government-passes-new-regulation-concerning-blockchain-and-tokens",
+            "displayLink": "cointelegraph.com",
+            "snippet": "May 9, 2019 ... The government of Liechtenstein announced that it has passed new token, virtual asset service provider and blockchain regulation.",
+            "htmlSnippet": "May 9, 2019 <b>...</b> The government of <b>Liechtenstein</b> announced that it has passed new token, virtual asset service provider and blockchain <b>regulation</b>.",
+            "cacheId": "SJngYmr4EjIJ",
+            "formattedUrl": "https://cointelegraph.com/.../liechtensteins-government-passes-new-regulation -concerning-blockchain-and-tokens",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>liechtenstein</b>s-government-passes-new-<b>regulation</b> -concerning-blockchain-and-tokens",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRTKC7VGz_umVb5B3KreR_3LGOH57_-1xfFjRjL4-ym_FOvy9Mn8wLHRFv",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZDAyNjhhYjRjZTIxNzAzMGVmODc3NTUzMTBkNTkyMy5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Liechtenstein\u2019s Government Passes New Regulation Concerning Blockchain and Tokens",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Liechtenstein\u2019s Government Passes New Regulation Concerning Blockchain and Tokens",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The government of Liechtenstein announced that it has passed new token, virtual asset service provider and blockchain regulation.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZDAyNjhhYjRjZTIxNzAzMGVmODc3NTUzMTBkNTkyMy5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The government of Liechtenstein announced that it has passed new token, virtual asset service provider and blockchain regulation.",
+                        "og:url": "https://cointelegraph.com/news/liechtensteins-government-passes-new-regulation-concerning-blockchain-and-tokens"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZDAyNjhhYjRjZTIxNzAzMGVmODc3NTUzMTBkNTkyMy5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "LCX \u2013 Buy, Sell & Trade Cryptocurrency at LCX's Regulated Exchange",
+            "htmlTitle": "LCX \u2013 Buy, Sell &amp; Trade <b>Cryptocurrency</b> at LCX&#39;s <b>Regulated</b> Exchange",
+            "link": "https://www.lcx.com/",
+            "displayLink": "www.lcx.com",
+            "snippet": "LCX Exchange Gets Regulatory Approval in Liechtenstein to Help Banks Create Their Own Digital Assets \u00b7 \u201cIn the next 10 years cryptocurrencies will reach more\u00a0...",
+            "htmlSnippet": "LCX Exchange Gets <b>Regulatory</b> Approval in <b>Liechtenstein</b> to Help Banks Create Their Own Digital Assets &middot; \u201cIn the next 10 years <b>cryptocurrencies</b> will reach more&nbsp;...",
+            "cacheId": "3qpzJdqIeLwJ",
+            "formattedUrl": "https://www.lcx.com/",
+            "htmlFormattedUrl": "https://www.lcx.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlEbL0K1VrQeKVv2A5ZZrcGm_aaz0OiFHVbIjTgzbX0KS_wwWGkD1YWW0",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.lcx.com/wp-content/uploads/20210422_LCX_Next_Generation_Cryptocurrency_Exchange.jpg",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "LCX",
+                        "og:title": "LCX \u2013 Buy, Sell & Trade Cryptocurrency at LCX's Regulated Exchange",
+                        "og:image:height": "1080",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://www.lcx.com/wp-content/uploads/2019/05/cropped-logo_black-270x270.png",
+                        "og:description": "LCX is a regulated and secure trading platform to buy, sell, trade and store cryptocurrency like Bitcoin, Ethereum, and other digital assets.",
+                        "article:publisher": "https://www.facebook.com/LCX.exchange/",
+                        "twitter:image": "https://www.lcx.com/wp-content/uploads/20210422_LCX_Next_Generation_Cryptocurrency_Exchange.jpg",
+                        "twitter:data1": "62 minutes",
+                        "twitter:site": "@lcx",
+                        "article:modified_time": "2022-01-10T11:28:42+00:00",
+                        "viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.lcx.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.lcx.com/wp-content/uploads/20210422_LCX_Next_Generation_Cryptocurrency_Exchange.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Money laundering via cryptocurrencies \u2013 potential solutions from ...",
+            "htmlTitle": "Money laundering via <b>cryptocurrencies</b> \u2013 potential solutions from ...",
+            "link": "https://www.emerald.com/insight/content/doi/10.1108/JMLC-04-2020-0041/full/pdf?title=money-laundering-via-cryptocurrencies-potential-solutions-from-liechtenstein",
+            "displayLink": "www.emerald.com",
+            "snippet": "cryptocurrency but also blockchain as a whole, Liechtenstein implemented the world's first comprehensive blockchain legislation in January 2020,\u00a0...",
+            "htmlSnippet": "<b>cryptocurrency</b> but also blockchain as a whole, <b>Liechtenstein</b> implemented the world&#39;s first comprehensive blockchain <b>legislation</b> in January 2020,&nbsp;...",
+            "formattedUrl": "https://www.emerald.com/.../pdf?title...cryptocurrencies...liechtenstein",
+            "htmlFormattedUrl": "https://www.emerald.com/.../pdf?title...<b>cryptocurrencies</b>...<b>liechtenstein</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyACAB4ar-flCQT7V6tB9p6N6_oy3SNaeivqCGtg9YWTkWYmnMXcNKoTTb",
+                        "width": "191",
+                        "height": "264"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210514221207+05'30'",
+                        "creator": "PTC Arbortext Advanced Print Publisher 11.1.4012/W",
+                        "creationdate": "D:20210514221207+05'30'",
+                        "producer": "Adobe LiveCycle PDF Generator",
+                        "title": "EM-JMLC200060 91..101"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///598bafa2fb979abe980e832e0c0b7234aa59e1c2a34a36b314edc6f5505dce6f"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Liechtenstein regulatory authority approves crypto startup Lirium",
+            "htmlTitle": "<b>Liechtenstein regulatory</b> authority approves crypto startup Lirium",
+            "link": "https://www.finextra.com/pressarticle/88385/liechtenstein-regulatory-authority-approves-crypto-startup-lirium",
+            "displayLink": "www.finextra.com",
+            "snippet": "Jul 1, 2021 ... Lirium AG, a company offering plug & play cryptocurrency solution for banks, digital wallets and marketplaces around the globe, has received\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> Lirium AG, a company offering plug &amp; play <b>cryptocurrency</b> solution for banks, digital wallets and marketplaces around the globe, has received&nbsp;...",
+            "cacheId": "cQpAKNWcU38J",
+            "formattedUrl": "https://www.finextra.com/.../liechtenstein-regulatory-authority-approves- crypto-startup-lirium",
+            "htmlFormattedUrl": "https://www.finextra.com/.../<b>liechtenstein</b>-<b>regulatory</b>-authority-approves- crypto-startup-lirium",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nNIFDT701flt2jNDdQzVoytXT3NhdI1m_OsGtWPhYdnkDvNjUU1RImsl",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.finextra.com/about/finextra-logo.png",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T09:55:00",
+                        "og:site_name": "Finextra Research",
+                        "msvalidate.01": "E3C577580AA2C01DCA56EB6ADC99C096",
+                        "author": "Finextra",
+                        "og:title": "Liechtenstein regulatory authority approves crypto startup Lirium",
+                        "yandex-verification": "2729e345bc4c5778",
+                        "og:updated_time": "2021-07-01T09:57:22",
+                        "twitter:creator": "@finextra",
+                        "og:description": "Lirium AG, a company offering plug & play cryptocurrency solution for banks, digital wallets and marketplaces around the globe, has received the formal approval by the Financial Market Authority (FMA) of Liechtenstein as a blockchain service provider to perform the following services:",
+                        "twitter:image": "https://www.finextra.com/about/finextra-logo.png",
+                        "article:publisher": "https://www.facebook.com/Finextra-152506594761939/",
+                        "twitter:site": "@finextra",
+                        "viewport": "width=device-width, user-scalable=no, initial-scale=1",
+                        "og:url": "https://www.finextra.com/pressarticle/88385/liechtenstein-regulatory-authority-approves-crypto-startup-lirium"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.finextra.com/about/finextra-logo.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

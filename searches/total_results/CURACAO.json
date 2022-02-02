@@ -1,0 +1,451 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CURACAO",
+                "totalResults": "503000",
+                "searchTerms": "CURACAO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CURACAO",
+                "totalResults": "503000",
+                "searchTerms": "CURACAO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.334192,
+        "formattedSearchTime": "0.33",
+        "totalResults": "503000",
+        "formattedTotalResults": "503,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Curacao | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Curacao</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/curacao",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Curacao for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Curacao</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "OORsqmZ4Jw0J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws-and-regulations/curacao",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>-and-<b>regulations</b>/<b>curacao</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Curacao for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Curacao | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Curacao for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Curacao | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/curacao"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Global Regulatory Update for Cryptocurrency and Initial Coin ...",
+            "htmlTitle": "Global <b>Regulatory</b> Update for <b>Cryptocurrency</b> and Initial Coin ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=4b5eb02d-a82f-4b16-a409-19eb8cb2fd85",
+            "displayLink": "www.lexology.com",
+            "snippet": "May 7, 2018 ... Cura\u00e7ao and Dutch St. Maarten: While the Central Bank has issued a notice warning investors about the lack of regulation of cryptocurrencies\u00a0...",
+            "htmlSnippet": "May 7, 2018 <b>...</b> <b>Cura\u00e7ao</b> and Dutch St. Maarten: While the Central Bank has issued a notice warning investors about the lack of <b>regulation of cryptocurrencies</b>&nbsp;...",
+            "cacheId": "rsLVaR-7JFgJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=4b5eb02d-a82f-4b16...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=4b5eb02d-a82f-4b16...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Global Regulatory Update for Cryptocurrency and Initial Coin Offerings",
+                        "workarea": "Banking",
+                        "jurisdiction": "Global",
+                        "dc.date": "2018-05-07",
+                        "firmname": "Holland & Knight LLP",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=4b5eb02d-a82f-4b16-a409-19eb8cb2fd85",
+                        "og:description": "The rapid proliferation of technological advancements in global financial markets has caused regulators in several countries to increase their\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Caribbean Fintech Pledge - Centrale Bank Curacao & Sint Maarten",
+            "htmlTitle": "Caribbean Fintech Pledge - Centrale Bank <b>Curacao</b> &amp; Sint Maarten",
+            "link": "https://www.centralbank.cw/caribbean-fintech-pledge",
+            "displayLink": "www.centralbank.cw",
+            "snippet": "High volatility, the lack of (proper) regulation, vulnerabilities concerning ... Examples include cryptocurrencies, crypto-coins, exchange tokens,\u00a0...",
+            "htmlSnippet": "High volatility, the lack of (proper) <b>regulation</b>, vulnerabilities concerning ... Examples include <b>cryptocurrencies</b>, crypto-coins, exchange tokens,&nbsp;...",
+            "cacheId": "DOzjg_FRo78J",
+            "formattedUrl": "https://www.centralbank.cw/caribbean-fintech-pledge",
+            "htmlFormattedUrl": "https://www.centralbank.cw/caribbean-fintech-pledge",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBfzEEy3xqyJz6v9CR7H6YQP3lXeSlfmEZEo7dfrcxKfNs_BOqCpjH40o",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "website": [
+                    {
+                        "text": "In October 2019, securities regulators on six continents will promote investor education and protection through World Investor Week, an initiative of the International Organization of Securities..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://cdn.centralbank.cw/1/1/1/og-image/format_home_centrale_bank_curacao_sint_maarten_5c47f658879a9.jpg",
+                        "theme-color": "#284255",
+                        "twitter:title": "Caribbean Fintech Pledge",
+                        "twitter:card": "We promote a sound financial system by operating in an innovative, efficient, effective and reliable manner.",
+                        "twitter:url": "http://www.centralbank.cw/caribbean-fintech-pledge",
+                        "cms_language": "1",
+                        "csrf_token": "XczTzmzc95ooPdIrYkzzGQPdyX5869lrDjTYvDZn",
+                        "og:title": "Caribbean Fintech Pledge",
+                        "title": "Caribbean Fintech Pledge",
+                        "og:description": "We promote a sound financial system by operating in an innovative, efficient, effective and reliable manner.",
+                        "twitter:image": "https://cdn.centralbank.cw/1/1/1/og-image/format_home_centrale_bank_curacao_sint_maarten_5c47f658879a9.jpg",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "We promote a sound financial system by operating in an innovative, efficient, effective and reliable manner.",
+                        "og:url": "http://www.centralbank.cw/caribbean-fintech-pledge"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.centralbank.cw/1/1/1/og-image/format_home_centrale_bank_curacao_sint_maarten_5c47f658879a9.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulation | VIXIO PaymentsCompliance",
+            "htmlTitle": "<b>Cryptocurrency Regulation</b> | VIXIO PaymentsCompliance",
+            "link": "https://vixio.com/paymentscompliance/cryptocurrency-regulation/",
+            "displayLink": "vixio.com",
+            "snippet": "Cryptocurrency Regulation. In 2020, VIXIO PaymentsCompliance's regulatory monitoring identified that regulatory obligations relating to cryptocurrencies and\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrency Regulation</b>. In 2020, VIXIO PaymentsCompliance&#39;s <b>regulatory</b> monitoring identified that <b>regulatory</b> obligations relating to <b>cryptocurrencies</b> and&nbsp;...",
+            "cacheId": "-95xXiuSCtUJ",
+            "formattedUrl": "https://vixio.com/paymentscompliance/cryptocurrency-regulation/",
+            "htmlFormattedUrl": "https://vixio.com/paymentscompliance/<b>cryptocurrency</b>-<b>regulation</b>/",
+            "pagemap": {
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "VIXIO",
+                        "article:modified_time": "2021-12-20T09:51:32+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:title": "Cryptocurrency Regulation | VIXIO PaymentsCompliance",
+                        "og:locale": "en_US",
+                        "og:url": "https://vixio.com/paymentscompliance/cryptocurrency-regulation/",
+                        "msapplication-tileimage": "https://vixio.com/app/uploads/2020/01/Vixio_favicon-1_0-48x48.png",
+                        "og:description": "View the VIXIO PaymentsCompliance content realted to crypto-asset regulation, from crypto, CBDCs, stablecoins and more."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cura\u00e7ao establishes Blockchain and Cryptocurrency Taskforce ...",
+            "htmlTitle": "<b>Cura\u00e7ao</b> establishes Blockchain and <b>Cryptocurrency</b> Taskforce ...",
+            "link": "https://www.bbvlegal.com/news/curacao-establishes-blockchain-and-cryptocurrency-taskforce/",
+            "displayLink": "www.bbvlegal.com",
+            "snippet": "Apr 30, 2018 ... The Government of Cura\u00e7ao and the Cura\u00e7ao international financial sector, in the form of the Cura\u00e7ao International Financial Services\u00a0...",
+            "htmlSnippet": "Apr 30, 2018 <b>...</b> The Government of <b>Cura\u00e7ao</b> and the <b>Cura\u00e7ao</b> international financial sector, in the form of the <b>Cura\u00e7ao</b> International Financial Services&nbsp;...",
+            "cacheId": "qR-YeTxUyFEJ",
+            "formattedUrl": "https://www.bbvlegal.com/.../curacao-establishes-blockchain-and- cryptocurrency-taskforce/",
+            "htmlFormattedUrl": "https://www.bbvlegal.com/.../<b>curacao</b>-establishes-blockchain-and- <b>cryptocurrency</b>-taskforce/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWFd3H4RHfOldxeesuf5INtso9lDvoaCpBocXJaRRmC-FLpHMaF4tw1Uk",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:text:title": "Cura\u00e7ao establishes Blockchain and Cryptocurrency Taskforce",
+                        "og:image": "https://s0.wp.com/i/blank.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2018-04-30T14:49:37+00:00",
+                        "twitter:card": "summary",
+                        "og:site_name": "BBV Legal",
+                        "article:modified_time": "2018-05-01T14:50:23+00:00",
+                        "viewport": "initial-scale=1.0",
+                        "og:title": "Cura\u00e7ao establishes Blockchain and Cryptocurrency Taskforce",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.bbvlegal.com/news/curacao-establishes-blockchain-and-cryptocurrency-taskforce/",
+                        "og:description": "The Government of Cura\u00e7ao and the Cura\u00e7ao international financial sector, in the form of the Cura\u00e7ao International Financial Services Association (CIFA), have joined forces and have established a B\u2026"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s0.wp.com/i/blank.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Curacao Online Gaming License",
+            "htmlTitle": "<b>Curacao</b> Online Gaming License",
+            "link": "https://www.porat.com/curacao-online-gaming-license/",
+            "displayLink": "www.porat.com",
+            "snippet": "Apr 1, 2021 ... Proof of licensing label can be displayed on your website. Cryptocurrencies, such as Bitcoin, Ether etc. are permitted as payment methods for\u00a0...",
+            "htmlSnippet": "Apr 1, 2021 <b>...</b> Proof of licensing label can be displayed on your website. <b>Cryptocurrencies</b>, such as Bitcoin, Ether etc. are permitted as payment methods for&nbsp;...",
+            "cacheId": "EuTIFais05wJ",
+            "formattedUrl": "https://www.porat.com/curacao-online-gaming-license/",
+            "htmlFormattedUrl": "https://www.porat.com/<b>curacao</b>-online-gaming-license/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3mtFOZWYyc_FYAY06saGtjh2Rym3xEMBfZZYQc_gLjYqSIYNS-Ra-Bpg",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.porat.com/wp-content/uploads/2021/04/Curacao-flag.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-04-01T08:28:16+00:00",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Porat Group",
+                        "og:title": "Curacao Online Gaming License in 2021 - All You Need To Know",
+                        "og:image:height": "1280",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.porat.com/wp-content/uploads/2019/04/cropped-FAV-270x270.png",
+                        "og:description": "Find out what the benefits of an online gaming license from one of the most popular jurisdictions in the business: Curacao are & how to get one.",
+                        "article:publisher": "https://www.facebook.com/poratgroup",
+                        "twitter:data1": "Joanna Lehto",
+                        "twitter:data2": "3 minutes",
+                        "article:modified_time": "2021-04-01T08:30:03+00:00",
+                        "viewport": "width=device-width",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.porat.com/curacao-online-gaming-license/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.porat.com/wp-content/uploads/2021/04/Curacao-flag.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Tax Cura\u00e7ao Highlights 2020",
+            "htmlTitle": "International Tax <b>Cura\u00e7ao</b> Highlights 2020",
+            "link": "https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-curacaohighlights-2020.pdf",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "However, under the \u201cpensioner's regulations\u201d (designed to attract wealthy foreigners), an eligible taxpayer may opt for taxation on foreign income at a 10% flat\u00a0...",
+            "htmlSnippet": "However, under the \u201cpensioner&#39;s <b>regulations</b>\u201d (designed to attract wealthy foreigners), an eligible taxpayer may opt for taxation on foreign income at a 10% flat&nbsp;...",
+            "formattedUrl": "https://www2.deloitte.com/content/.../dttl-tax-curacaohighlights-2020.pdf",
+            "htmlFormattedUrl": "https://www2.deloitte.com/content/.../dttl-tax-<b>curacao</b>highlights-2020.pdf",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-curacaohighlights-2020.pdf/jcr:content/renditions/cq5dam.thumbnail.140.100.png"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20200213123653+05'30'",
+                        "creationdate": "D:20200213123523+05'30'",
+                        "creator": "Microsoft\u00ae Word 2016",
+                        "author": "Deloitte",
+                        "subject": "Corporate, Indirect and Personal Tax Rates and Rules for Curacao 2020",
+                        "producer": "Microsoft\u00ae Word 2016",
+                        "title": "Curacao Highlights 2020"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///a1f8276039fef27d1244b2560ba5f5d74ad683d1a423dd2ee533d5e99f848839",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Partido KEM Plans to Make Curacao a Crypto Hub",
+            "htmlTitle": "Partido KEM Plans to Make <b>Curacao</b> a Crypto Hub",
+            "link": "https://www.linkedin.com/pulse/partido-kem-plans-make-curacao-crypto-hub-danny-wirken",
+            "displayLink": "www.linkedin.com",
+            "snippet": "Mar 5, 2021 ... The party wants to make the island a hub for cryptocurrency by introducing crypto-friendly government regulations.",
+            "htmlSnippet": "Mar 5, 2021 <b>...</b> The party wants to make the island a hub for <b>cryptocurrency</b> by introducing crypto-friendly government <b>regulations</b>.",
+            "formattedUrl": "https://www.linkedin.com/.../partido-kem-plans-make-curacao-crypto-hub- danny-wirken",
+            "htmlFormattedUrl": "https://www.linkedin.com/.../partido-kem-plans-make-<b>curacao</b>-crypto-hub- danny-wirken",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://media-exp1.licdn.com/dms/image/C5612AQHl9_sVfhgyXQ/article-cover_image-shrink_720_1280/0/1614941713872?e=1648080000&v=beta&t=Tok_5ykTdFJzj-fcMqdWByvUqXEVY9SzywLDBHHRYyg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Partido KEM Plans to Make Curacao a Crypto Hub",
+                        "clientsideingraphs": "1",
+                        "linkedin:pagetag": "index=index;remove=c",
+                        "og:title": "Partido KEM Plans to Make Curacao a Crypto Hub",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Reading time",
+                        "pagekey": "p_flagship2_pulse_read",
+                        "locale": "en_US",
+                        "og:description": "Elections are right around the corner for\u00a0Curacao\u00a0as the date of 19th\u00a0March 2021 approaches close. While the island is small and a lesser-known country in the Southern Caribbean Sea, the goals for an upcoming political party of the island,\u00a0Partido KEM, are sky-reaching.",
+                        "twitter:image": "https://media-exp1.licdn.com/dms/image/C5612AQHl9_sVfhgyXQ/article-cover_image-shrink_720_1280/0/1614941713872?e=1648080000&v=beta&t=Tok_5ykTdFJzj-fcMqdWByvUqXEVY9SzywLDBHHRYyg",
+                        "twitter:data1": "Danny Wirken",
+                        "twitter:data2": "5 min read",
+                        "twitter:site": "@LinkedInEditors",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Elections are right around the corner for\u00a0Curacao\u00a0as the date of 19th\u00a0March 2021 approaches close. While the island is small and a lesser-known country in the Southern Caribbean Sea, the goals for an upcoming political party of the island,\u00a0Partido KEM, are sky-reaching.",
+                        "og:url": "https://www.linkedin.com/pulse/partido-kem-plans-make-curacao-crypto-hub-danny-wirken"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media-exp1.licdn.com/dms/image/C5612AQHl9_sVfhgyXQ/article-cover_image-shrink_720_1280/0/1614941713872?e=1648080000&v=beta&t=Tok_5ykTdFJzj-fcMqdWByvUqXEVY9SzywLDBHHRYyg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cura\u00e7ao",
+            "htmlTitle": "<b>Cura\u00e7ao</b>",
+            "link": "https://www.interpol.int/en/Who-we-are/Member-countries/Americas/CURACAO",
+            "displayLink": "www.interpol.int",
+            "snippet": "How INTERPOL supports Curacao to tackle international crime. Fighting Caribbean crime. Located on shipping routes linking the Americas, the Atlantic Ocean and\u00a0...",
+            "htmlSnippet": "How INTERPOL supports <b>Curacao</b> to tackle international crime. Fighting Caribbean crime. Located on shipping routes linking the Americas, the Atlantic Ocean and&nbsp;...",
+            "cacheId": "s4uzMYgiI40J",
+            "formattedUrl": "https://www.interpol.int/en/Who-we-are/Member-countries/.../CURACAO",
+            "htmlFormattedUrl": "https://www.interpol.int/en/Who-we-are/Member-countries/.../<b>CURACAO</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "twitter:title": "Cura\u00e7ao",
+                        "twitter:card": "summary_large_image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "twitter:description": "How INTERPOL supports Curacao to tackle international crime.",
+                        "og:title": "Cura\u00e7ao",
+                        "og:description": "How INTERPOL supports Curacao to tackle international crime."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fintech in Latin America and the Caribbean: Stocktaking, WP/19/71 ...",
+            "htmlTitle": "Fintech in Latin America and the Caribbean: Stocktaking, WP/19/71 ...",
+            "link": "https://www.imf.org/~/media/Files/Publications/WP/2019/WPIEA2019071.ashx",
+            "displayLink": "www.imf.org",
+            "snippet": "laundering laws to cryptocurrencies. 16 For example, Aruba, Belize, Curacao and Sint Maarten, the ECCB, Jamaica, Peru, Trinidad and Tobago.",
+            "htmlSnippet": "laundering <b>laws</b> to <b>cryptocurrencies</b>. 16 For example, Aruba, Belize, <b>Curacao</b> and Sint Maarten, the ECCB, Jamaica, Peru, Trinidad and Tobago.",
+            "cacheId": "d21XlY14b6cJ",
+            "formattedUrl": "https://www.imf.org/~/media/Files/Publications/WP/.../WPIEA2019071.ashx",
+            "htmlFormattedUrl": "https://www.imf.org/~/media/Files/Publications/WP/.../WPIEA2019071.ashx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzOwSUg7b-YYfDEqouLZnT3dd_UtVBARiLeO-_b5pDFKJfwJF2vffN1B0",
+                        "width": "263",
+                        "height": "191"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20191009145957-04'00'",
+                        "creationdate": "D:20190320145902-04'00'",
+                        "author": "P. Berkmen, K. Beaton, D. Gershenson, J. Arze del Granado, K. Ishi, M. Kim, E. Kopp, and M. Rousset",
+                        "subject": "Fintech, cross border payments, financial sector, financial regulation, financial stability and integrity, cyber risk, cyber regulation, monetary policy, central banks, digital currencies, competition.",
+                        "title": "Fintech in Latin America and the Caribbean: Stocktaking, WP/19/71, March 2019"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///2014cc3ddd699f1f50dcc4505172b5ccfb4417cc96c2bcceb21bd555b8f8654b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

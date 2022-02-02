@@ -1,0 +1,613 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NICARAGUA",
+                "totalResults": "600000",
+                "searchTerms": "NICARAGUA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NICARAGUA",
+                "totalResults": "600000",
+                "searchTerms": "NICARAGUA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.452997,
+        "formattedSearchTime": "0.45",
+        "totalResults": "600000",
+        "formattedTotalResults": "600,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Nicaragua | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Nicaragua</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/nicaragua",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Nicaragua for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Nicaragua</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "0qYa_3KHDCEJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/nicaragua",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>nicaragua</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Nicaragua for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Nicaragua | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Nicaragua for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Nicaragua | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/nicaragua"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "While this article provides the legal status of bitcoin, regulations and bans that apply to this cryptocurrency likely extend to similar systems as well.",
+            "htmlSnippet": "While this article provides the legal status of bitcoin, <b>regulations</b> and bans that apply to this <b>cryptocurrency</b> likely extend to similar systems as well.",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Coinbase Support in Nicaragua | Coinbase",
+            "htmlTitle": "Coinbase Support in <b>Nicaragua</b> | Coinbase",
+            "link": "https://www.coinbase.com/places/nicaragua",
+            "displayLink": "www.coinbase.com",
+            "snippet": "NicaraguaConvert and store cryptocurrency on Coinbase ... Download the Coinbase app and take control of your crypto everywhere you go.",
+            "htmlSnippet": "<b>Nicaragua</b>Convert and store <b>cryptocurrency</b> on Coinbase ... Download the Coinbase app and take <b>control</b> of your crypto everywhere you go.",
+            "cacheId": "m1EB00mO9uMJ",
+            "formattedUrl": "https://www.coinbase.com/places/nicaragua",
+            "htmlFormattedUrl": "https://www.coinbase.com/places/<b>nicaragua</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=886427730",
+                        "twitter:app:id:googleplay": "com.coinbase.android",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Coinbase Support in Nicaragua | Coinbase",
+                        "og:title": "Coinbase Support in Nicaragua | Coinbase",
+                        "twitter:app:id:ipad": "886427730",
+                        "twitter:app:name:googleplay": "Coinbase - Buy/Sell cryptocurrency",
+                        "twitter:app:id:iphone": "886427730",
+                        "og:description": "Safe & Easy. Coinbase makes it easy to exchange Bitcoin, Ethereum, and Litecoin in Nicaragua.",
+                        "twitter:creator": "@coinbase",
+                        "twitter:site": "@coinbase",
+                        "twitter:app:name:ipad": "Coinbase - Buy/Sell cryptocurrency",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Safe & Easy. Coinbase makes it easy to exchange Bitcoin, Ethereum, and Litecoin in Nicaragua.",
+                        "twitter:app:name:iphone": "Coinbase - Buy/Sell cryptocurrency"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nicaragua passes bill criminalizing what government considers fake ...",
+            "htmlTitle": "<b>Nicaragua</b> passes bill criminalizing what government considers fake ...",
+            "link": "https://www.reuters.com/article/nicaragua-politics/nicaragua-passes-bill-criminalizing-what-government-considers-fake-news-idUSL1N2HI2WG",
+            "displayLink": "www.reuters.com",
+            "snippet": "Oct 27, 2020 ... Nicaragua's congress overwhelmingly passed legislation on Tuesday to regulate what can be published on social media and in the news,\u00a0...",
+            "htmlSnippet": "Oct 27, 2020 <b>...</b> <b>Nicaragua&#39;s</b> congress overwhelmingly passed legislation on Tuesday to <b>regulate</b> what can be published on social media and in the news,&nbsp;...",
+            "cacheId": "OB6gGeQ9YpgJ",
+            "formattedUrl": "https://www.reuters.com/.../nicaragua.../nicaragua-passes-bill-criminalizing- what-government-considers-fake-news-idUSL1N2HI2WG",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>nicaragua</b>.../<b>nicaragua</b>-passes-bill-criminalizing- what-government-considers-fake-news-idUSL1N2HI2WG",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYO5KHPtb-v8odN6gJeR6tFGl2INxGGGPk_31UvO8Drm9hR8hjOE2YMb-",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2020-10-27T22:19:19Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "rbssTechMediaTelecomNews;americasNews;cyclicalConsumerGoodsSector;everythingNews;companies-semi",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Nicaragua's congress overwhelmingly passed legislation on Tuesday to regulate what can be published on social media and in the news, a move critics condemned as a brazen attempt to muzzle opposition to President Daniel Ortega.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2020-10-27T22:19:19Z",
+                        "og:article:section": "Cyclical Consumer Goods",
+                        "analyticsattributes.articledate": "2020-10-27T22:19:19Z",
+                        "dcsext.dartzone": "reuters.com/business/consumer/article",
+                        "author": "Ismael Lopez",
+                        "analyticsattributes.keywords": "NICARAGUA,POLITICS/,Americas,Central America,Cyclical Consumer Services (TRBC level 2),Fundamental Rights / Civil Liberties,Crime / Law / Justice,Conflicts / War / Peace,Consumer Cyclicals (TRBC level 1),Diplomacy / Foreign Policy,Emerging Market Countries,Arts / Culture / Entertainment,General News,Human Rights / Civil Rights,South America / Central America,Lawmaking,Living / Lifestyle,Media & Publishing (TRBC level 3),Mexico,North America,Major News,Non-Governmental Organizations,Nicaragua,Government / Politics,Media / Publishing (Legacy),International / National Security,Social Media,Society / Social Issues,Technology / Media / Telecoms,Elections / Voting,Internet / World Wide Web",
+                        "og:article:published_time": "2020-10-27T22:19:34Z",
+                        "og:article:tag": "NICARAGUA,POLITICS/,Americas,Central America,Cyclical Consumer Services (TRBC level 2),Fundamental Rights / Civil Liberties,Crime / Law / Justice,Conflicts / War / Peace,Consumer Cyclicals (TRBC level 1),Diplomacy / Foreign Policy,Emerging Market Countries,Arts / Culture / Entertainment,General News,Human Rights / Civil Rights,South America / Central America,Lawmaking,Living / Lifestyle,Media & Publishing (TRBC level 3),Mexico,North America,Major News,Non-Governmental Organizations,Nicaragua,Government / Politics,Media / Publishing (Legacy),International / National Security,Social Media,Society / Social Issues,Technology / Media / Telecoms,Elections / Voting,Internet / World Wide Web",
+                        "twitter:image:src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "analyticsattributes.topicsubchannel": "Retails & Consumer",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "dcsext.contentchannel": "cyclicalConsumerGoodsSector",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "sailthru.author": "Ismael Lopez",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Nicaragua passes bill criminalizing what government considers fake news",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "AMERS,CAMER,CCOS,CIV,CLJ,CWP,CYCS,DIP,EMRG,ENT,GEN,HRGT,LATAM,LAW,LIF,MDIA,MX,NAMER,NEWS1,NGO,NI,POL,PUB,SECUR,SMED,SOCI,TMT,VOTE,WWW",
+                        "twitter:image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "NICARAGUA;POLITICS/;Americas;Central America;Cyclical Consumer Services (TRBC level 2);Fundamental Rights / Civil Liberties;Crime / Law / Justice;Conflicts / War / Peace;Consumer Cyclicals (TRBC level 1);Diplomacy / Foreign Policy;Emerging Market Countries;Arts / Culture / Entertainment;General News;Human Rights / Civil Rights;South America / Central America;Lawmaking;Living / Lifestyle;Media & Publishing (TRBC level 3);Mexico;North America;Major News;Non-Governmental Organizations;Nicaragua;Government / Politics;Media / Publishing (Legacy);International / National Security;Social Media;Society / Social Issues;Technology / Media / Telecoms;Elections / Voting;Internet / World Wide Web",
+                        "sailthru.title": "Nicaragua passes bill criminalizing what government considers fake news",
+                        "analyticsattributes.contenttitle": "Nicaragua passes bill criminalizing what government considers fake news",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/nicaragua-politics-idUSL1N2HI2WG",
+                        "analyticsattributes.channel": "Article - Markets",
+                        "og:article:author": "Ismael Lopez",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2020-10-27T22:19:19Z",
+                        "og:type": "article",
+                        "twitter:title": "Nicaragua passes bill criminalizing what government considers fake news",
+                        "og:title": "Nicaragua passes bill criminalizing what government considers fake news",
+                        "analyticsattributes.keywordslug": "NICARAGUA-POLITICS/",
+                        "analyticsattributes.author": "Ismael Lopez",
+                        "analyticsattributes.contentchannel": "Business - Retails & Consumer",
+                        "sailthru.description": "Nicaragua's congress overwhelmingly passed legislation on Tuesday to regulate what can be published on social media and in the news, a move critics condemned as a brazen attempt to muzzle opposition to President Daniel Ortega.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Nicaragua's congress overwhelmingly passed legislation on Tuesday to regulate what can be published on social media and in the news, a move critics condemned as a brazen attempt to muzzle opposition to President Daniel Ortega.",
+                        "analyticsattributes.topicn2names": "Americas,Central America,Cyclical Consumer Services (TRBC level 2),Fundamental Rights / Civil Liberties,Crime / Law / Justice,Conflicts / War / Peace,Consumer Cyclicals (TRBC level 1),Diplomacy / Foreign Policy,Emerging Market Countries,Arts / Culture / Entertainment,General News,Human Rights / Civil Rights,South America / Central America,Lawmaking,Living / Lifestyle,Media & Publishing (TRBC level 3),Mexico,North America,Major News,Non-Governmental Organizations,Nicaragua,Government / Politics,Media / Publishing (Legacy),International / National Security,Social Media,Society / Social Issues,Technology / Media / Telecoms,Elections / Voting,Internet / World Wide Web",
+                        "og:url": "https://www.reuters.com/article/nicaragua-politics-idUSL1N2HI2WG"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "El Salvador: The first country to accept the cryptocurrency Bitcoin as ...",
+            "htmlTitle": "El Salvador: The first country to accept the <b>cryptocurrency</b> Bitcoin as ...",
+            "link": "https://credendo.com/en/knowledge-hub/el-salvador-first-country-accept-cryptocurrency-bitcoin-legal-tender-might-see-many",
+            "displayLink": "credendo.com",
+            "snippet": "Jun 16, 2021 ... ... law to accept Bitcoin, the private cryptocurrency, as legal tender. ... have to draw up relevant regulations by September 2021 to tackle\u00a0...",
+            "htmlSnippet": "Jun 16, 2021 <b>...</b> ... law to accept Bitcoin, the private <b>cryptocurrency</b>, as legal tender. ... have to draw up relevant <b>regulations</b> by September 2021 to tackle&nbsp;...",
+            "cacheId": "9KypcGA1onQJ",
+            "formattedUrl": "https://credendo.com/.../el-salvador-first-country-accept-cryptocurrency- bitcoin-legal-tender-might-see-many",
+            "htmlFormattedUrl": "https://credendo.com/.../el-salvador-first-country-accept-<b>cryptocurrency</b>- bitcoin-legal-tender-might-see-many",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgHVCvFQoHLPyF4rBiDloPbgkpMUo2yq2IOvSygbt9HmFMiLYIRSUpKWms",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#FFFFFF",
+                        "og:image": "https://credendo.com/sites/default/files/styles/social_large/public/media/images/2021-06/El%20Salvador%20Street.jpg?itok=PelnbL4e",
+                        "msapplication-config": "/themes/contrib/rocketship_theme_starter/favicons/generated/browserconfig.xml",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "El Salvador: The first country to accept the cryptocurrency Bitcoin as legal tender might see many unintended consequences | Credendo",
+                        "og:type": "article",
+                        "og:site_name": "Credendo",
+                        "og:image:url": "https://credendo.com/sites/default/files/styles/social_large/public/media/images/2021-06/El%20Salvador%20Street.jpg?itok=PelnbL4e",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://credendo.com/en/node/558",
+                        "og:title": "El Salvador: The first country to accept the cryptocurrency Bitcoin as legal tender might see many unintended consequences | Credendo",
+                        "abstract": "On June 9th, the Congress of El Salvador approved a law to accept Bitcoin, the private cryptocurrency, as legal tender.",
+                        "msapplication-tileimage": "/themes/contrib/rocketship_theme_starter/favicons/generated/ms-icon-70x70.png",
+                        "og:description": "On June 9th, the Congress of El Salvador approved a law to accept Bitcoin, the private cryptocurrency, as legal tender.",
+                        "twitter:image": "https://credendo.com/sites/default/files/styles/social_small/public/media/images/2021-06/El%20Salvador%20Street.jpg?itok=G7URHZl4",
+                        "referrer": "origin",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                        "twitter:description": "On June 9th, the Congress of El Salvador approved a law to accept Bitcoin, the private cryptocurrency, as legal tender.",
+                        "apple-mobile-web-app-capable": "yes",
+                        "rights": "\u00a92022 Credendo. All rights reserved.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://credendo.com/en/knowledge-hub/el-salvador-first-country-accept-cryptocurrency-bitcoin-legal-tender-might-see-many"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://credendo.com/sites/default/files/styles/social_large/public/media/images/2021-06/El%20Salvador%20Street.jpg?itok=PelnbL4e"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "El Salvador's world-first adoption of bitcoin endures bumpy first day ...",
+            "htmlTitle": "El Salvador&#39;s world-first adoption of bitcoin endures bumpy first day ...",
+            "link": "https://www.reuters.com/business/finance/el-salvador-leads-world-into-cryptocurrency-bitcoin-legal-tender-2021-09-07/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Sep 8, 2021 ... ... glitches and a dip in the cryptocurrency clouded the rollout. ... In barely two years in office, Bukele has taken control of almost all\u00a0...",
+            "htmlSnippet": "Sep 8, 2021 <b>...</b> ... glitches and a dip in the <b>cryptocurrency</b> clouded the rollout. ... In barely two years in office, Bukele has taken <b>control</b> of almost all&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../el-salvador-leads-world-into-cryptocurrency- bitcoin-legal-tender-2021-09-07/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../el-salvador-leads-world-into-<b>cryptocurrency</b>- bitcoin-legal-tender-2021-09-07/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf6R2eldu1imKGvvooxXRVIsKsxvqkDdaxytr0Yhmv1MV62WfVqvQY26LI",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/1RcpqqNGJgOYGwV4LqhRck2rdlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNEDOMUPXJLYLO56RHVLRPEXGU.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-09-08T09:11:07Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Business",
+                        "og:description": "El Salvador's historic adoption of bitcoin as legal tender on Tuesday was beset by teething problems, as an angry protest by mistrustful citizens, technological glitches and a dip in the cryptocurrency clouded the rollout.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/1RcpqqNGJgOYGwV4LqhRck2rdlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNEDOMUPXJLYLO56RHVLRPEXGU.jpg",
+                        "twitter:image:alt": "A Bitcoin logo is seen outside at Sevilla Barber Shop where Bitcoin is accepted as a payment method in Santa Tecla, El Salvador September 6, 2021. REUTERS/Jose Cabezas",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-09-08T09:12:05.999Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Finance",
+                        "twitter:title": "El Salvador's world-first adoption of bitcoin endures bumpy first day",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/business/futureofmoney/article",
+                        "og:title": "El Salvador's world-first adoption of bitcoin endures bumpy first day",
+                        "dcsext.channellist": "Business;Americas;Technology;China",
+                        "og:article:published_time": "2021-09-08T09:11:07Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Nelson Renteria,Anthony Esposito",
+                        "article:tag": "MTVID,MTPIX,BACT,BLR,CMPNY,CRYCUR,CWP,FRX,GDP,GEN,GFIN,IMF,INTAG,MCE,NEWS1,POL,PXP,TECH,TECH08,TMT,TOPCMB,TOPNWS,AMERS,US,MX,CAMER,NAMER,EMRG,LATAM,SV,ECON,FIN,EF:BUSINESS-FUTURE-OF-MONEY,BGLR,M:FC,CCOS,CHIP,CMPELC,COMS,COMS08,COMS1,CYCS,CYCS08,ITSE,ITSE08,MDIA,MDIA08,NETSV,PHNE,PHONES,PUB,RET,RETE,SEMI,SHOP,SHOPAL,SOFW,SPCRET,SRCHEN,SWIT,TCOM,TEEQ,TEEQ08,EASIA,ASXPAC,CN,ASIA,BLKCHN,CIV,ITEC,MOBAPP,SCI,BLKCC,BLKCC1,ENTS,FSTFOD,FTECH,RESBR,RESBR1",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "El Salvador's historic adoption of bitcoin as legal tender on Tuesday was beset by teething problems, as an angry protest by mistrustful citizens, technological glitches and a dip in the cryptocurrency clouded the rollout.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/business/finance/el-salvador-leads-world-into-cryptocurrency-bitcoin-legal-tender-2021-09-07/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/1RcpqqNGJgOYGwV4LqhRck2rdlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNEDOMUPXJLYLO56RHVLRPEXGU.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Frequently Asked Questions | U.S. Department of the Treasury",
+            "htmlTitle": "Frequently Asked Questions | U.S. Department of the Treasury",
+            "link": "https://home.treasury.gov/policy-issues/financial-sanctions/faqs",
+            "displayLink": "home.treasury.gov",
+            "snippet": "Nicaragua-related Sanctions \u00b7 North Korea Sanctions \u00b7 Russian Harmful Foreign Activities Sanctions \u00b7 Somalia Sanctions.",
+            "htmlSnippet": "<b>Nicaragua</b>-related Sanctions &middot; North Korea Sanctions &middot; Russian Harmful Foreign Activities Sanctions &middot; Somalia Sanctions.",
+            "cacheId": "a2d52_MZxLIJ",
+            "formattedUrl": "https://home.treasury.gov/policy-issues/financial-sanctions/faqs",
+            "htmlFormattedUrl": "https://home.treasury.gov/policy-issues/financial-sanctions/faqs",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-91IfwYYNnVbB_SsWhMb954aObHlbTxojgkmXpbpy7fdA3rsWflH3E6el",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1900px",
+                        "og:image:alt": "U.S. Department of the Treasury",
+                        "twitter:card": "summary",
+                        "twitter:title": "Frequently Asked Questions",
+                        "og:site_name": "U.S. Department of the Treasury",
+                        "handheldfriendly": "true",
+                        "og:title": "Frequently Asked Questions",
+                        "og:image:height": "950px",
+                        "twitter:image:height": "1080",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2022-01-13",
+                        "og:description": "Background on\u00a0OFAC's Frequently Asked Questions\n\nOFAC FAQs On One Page - for simple in-page searching using your browser's find (CTRL-F) function",
+                        "twitter:image": "https://home.treasury.gov/system/files/291/treasury-preview-1080x1080.jpg",
+                        "twitter:image:alt": "U.S. Department of the Treasury",
+                        "twitter:site": "@USTreasury",
+                        "twitter:image:width": "1080",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "og:url": "https://home.treasury.gov/policy-issues/financial-sanctions/faqs"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Narcotics Control Strategy Report",
+            "htmlTitle": "International Narcotics <b>Control</b> Strategy Report",
+            "link": "https://www.state.gov/wp-content/uploads/2021/02/21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "displayLink": "www.state.gov",
+            "snippet": "Nicaragua, Nigeria, Pakistan, Panama, Paraguay, Peru, Philippines, Russia, ... between cryptocurrency money laundering and those engaged in crimes against\u00a0...",
+            "htmlSnippet": "<b>Nicaragua</b>, Nigeria, Pakistan, Panama, Paraguay, Peru, Philippines, Russia, ... between <b>cryptocurrency</b> money laundering and those engaged in crimes against&nbsp;...",
+            "formattedUrl": "https://www.state.gov/wp.../21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "htmlFormattedUrl": "https://www.state.gov/wp.../21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ120tA7VBQ-tx9wS6nQZge0TKgq6kxDDy5b4-vKuTc0YOiAiKv9owxuM",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210218162234-05'00'",
+                        "creationdate": "D:20210217233159Z",
+                        "creator": "Word",
+                        "producer": "macOS Version 10.15.7 (Build 19H114) Quartz PDFContext",
+                        "title": "Microsoft Word - 2021 INCSR Vol 2 Final to GPS 2-17-21.docx"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9fec23fdf1de0b6e59d8328b932f73f5c2b5fb9f296fb856a0b7abcbd29ca91c"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nicaragua is Regulating Virtual Assets - Such as Bitcoins \u2022 Nica-Biz",
+            "htmlTitle": "<b>Nicaragua</b> is Regulating Virtual Assets - Such as Bitcoins \u2022 Nica-Biz",
+            "link": "https://nica-biz.com/2021/06/05/nicaragua-is-regulating-virtual-assets-such-as-bitcoins/",
+            "displayLink": "nica-biz.com",
+            "snippet": "Jun 5, 2021 ... In order to comply with the Financial Action Task Force (FATF) and various international credit rating agencies, Nicaragua is regulating\u00a0...",
+            "htmlSnippet": "Jun 5, 2021 <b>...</b> In order to comply with the Financial Action Task Force (FATF) and various international credit rating agencies, <b>Nicaragua</b> is regulating&nbsp;...",
+            "cacheId": "6kaPzCtc0O0J",
+            "formattedUrl": "https://nica-biz.com/.../nicaragua-is-regulating-virtual-assets-such-as-bitcoins/",
+            "htmlFormattedUrl": "https://nica-biz.com/.../<b>nicaragua</b>-is-regulating-virtual-assets-such-as-bitcoins/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_vEUDx7b5re8PvxVi67beh4VSg8LQjNlJhB5dEmXwnqUuosEmIbyn285T",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    },
+                    {
+                        "title": "Financial",
+                        "url": "Financial"
+                    },
+                    {
+                        "title": "Nicaragua is Regulating Virtual Assets \u2013 Such as Bitcoins",
+                        "url": "https://nica-biz.com/2021/06/05/nicaragua-is-regulating-virtual-assets-such-as-bitcoins/"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://nica-biz.com/wp-content/uploads/2021/01/NICA-BIZ-LOGO-300x55.png"
+                    },
+                    {
+                        "width": "640",
+                        "url": "https://nica-biz.com/wp-content/uploads/2021/06/pexels-karolina-grabowska-5980566-640x427-1.jpg",
+                        "height": "427"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Nica Biz"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Nica-Biz"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://nica-biz.com/wp-content/uploads/2021/06/pexels-karolina-grabowska-5980566-640x427-1.jpg",
+                        "article:published_time": "2021-06-05T16:45:04+00:00",
+                        "og:image:width": "640",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Nica-Biz",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://nica-biz.com/wp-content/uploads/2021/02/cropped-Favicon-Nica-Biz-3-270x270.jpg",
+                        "og:description": "Nicaragua is regulating virtual assets with a new law aimed at electronic operations and transactions by Virtual Asset Service Providers.",
+                        "twitter:creator": "@BizKelvin",
+                        "article:publisher": "https://www.facebook.com/Nica-Biz-106830864246735",
+                        "twitter:data1": "Nica Biz",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@BizKelvin",
+                        "article:modified_time": "2021-06-11T16:25:39+00:00",
+                        "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+                        "og:type": "article",
+                        "author": "Nica Biz",
+                        "og:title": "Nicaragua is Regulating Virtual Assets - Such as Bitcoins \u2022 Nica-Biz",
+                        "og:image:height": "427",
+                        "article:author": "https://www.facebook.com/Nica-Biz-106830864246735",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "google-adsense-platform-domain": "sitekit.withgoogle.com",
+                        "og:url": "https://nica-biz.com/2021/06/05/nicaragua-is-regulating-virtual-assets-such-as-bitcoins/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nica-biz.com/wp-content/uploads/2021/06/pexels-karolina-grabowska-5980566-640x427-1.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ],
+                "article": [
+                    {
+                        "datemodified": "2021-06-11T10:25:39-06:00",
+                        "headline": "Nicaragua is Regulating Virtual Assets - Such as Bitcoins",
+                        "datepublished": "2021-06-05T10:45:04+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Bitcoin in selected jurisdictions | Library of Congress",
+            "htmlTitle": "<b>Regulation</b> of Bitcoin in selected jurisdictions | Library of Congress",
+            "link": "https://www.loc.gov/item/2014427360/",
+            "displayLink": "www.loc.gov",
+            "snippet": "... Malaysia, Malta, Netherlands, New Zealand, Nicaragua, Poland, Portugal, Russia, Singapore, ... Regulation of cryptocurrency in selected jurisdictions.",
+            "htmlSnippet": "... Malaysia, Malta, Netherlands, New Zealand, <b>Nicaragua</b>, Poland, Portugal, Russia, Singapore, ... <b>Regulation of cryptocurrency</b> in selected jurisdictions.",
+            "cacheId": "tO86PEkUFWwJ",
+            "formattedUrl": "https://www.loc.gov/item/2014427360/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2014427360/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUtt1qQseAjKhMJwl3ba_fgMlVeDtYok8E5XEbfikSQIhUN0-yQLXZU9w",
+                        "width": "116",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2014427360/2014427360.gif",
+                        "og:type": "article",
+                        "og:image:width": "116",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of Bitcoin in selected jurisdictions",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"January 2014.\" \"Alderney (Channel Islands), Argentina, Australia, Belgium, Brazil, Canada, Chile, China, Croatia, Cyprus, Denmark, Estonia, European Union, Finland, France, Germany, Greece, Hong Kong, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Malaysia, Malta, Netherlands, New Zealand, Nicaragua, Poland, Portugal, Russia, Singapore, Slovenia, Spain, South Korea, Taiwan, Thailand, Turkey, United Kingdom.\" Includes bibliographical references. Also available in digital form on the Library of Congress Web site.",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2014427360/2014427360.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of Bitcoin in selected jurisdictions",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2014427360/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2014427360/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2014427360/2014427360.gif"
+                    }
+                ]
+            }
+        }
+    ]
+}

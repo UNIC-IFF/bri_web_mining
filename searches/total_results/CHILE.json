@@ -1,0 +1,540 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CHILE",
+                "totalResults": "550000",
+                "searchTerms": "CHILE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CHILE",
+                "totalResults": "550000",
+                "searchTerms": "CHILE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.387591,
+        "formattedSearchTime": "0.39",
+        "totalResults": "550000",
+        "formattedTotalResults": "550,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Chile and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Chile</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency-old-2/chile/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Chile Cryptocurrency Laws ... There is currently no statutory or regulatory regime that governs the use of cryptocurrencies. The Central Bank of Chile has advised\u00a0...",
+            "htmlSnippet": "<b>Chile Cryptocurrency Laws</b> ... There is currently no statutory or <b>regulatory</b> regime that governs the use of <b>cryptocurrencies</b>. The Central Bank of <b>Chile</b> has advised&nbsp;...",
+            "cacheId": "dhRQXBqTCWMJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency-old-2/chile/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>-old-2/<b>chile</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb2ORVOs_5UYMDhdZcI9ZEtS6uaN01K9q3oeYxkNZmSi0YrnwrT7apX7FN",
+                        "width": "279",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_104750569-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-07-19T20:28:27+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency-old-2/chile/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Chile? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_104750569-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_104750569-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:45+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Nice drawing of amazing horizontal Chilean flag.",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Chile and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Chile and Cryptocurrency",
+                        "og:image:height": "1664",
+                        "og:updated_time": "2022-01-09T18:05:45+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Chile and Cryptocurrency Chile Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology There is currently no statutory or regulatory regime that governs the use of cryptocurrencies. \u00a0The\u00a0Central Bank of Chile has advised that crypto-assets are neither...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency-old-2/chile/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_104750569-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Compendium \u2013 Cryptocurrency regulations by country",
+            "htmlTitle": "Compendium \u2013 <b>Cryptocurrency regulations</b> by country",
+            "link": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/06/Compendium_Cryptocurrency-Regs_FINAL.pdf",
+            "displayLink": "www.thomsonreuters.com",
+            "snippet": "Jun 1, 2021 ... Chile \u2013 The Chilean government has committed to develop a regulatory and oversight framework for cryptocurrencies and the growing number of\u00a0...",
+            "htmlSnippet": "Jun 1, 2021 <b>...</b> <b>Chile</b> \u2013 The <b>Chilean</b> government has committed to develop a <b>regulatory</b> and oversight framework for <b>cryptocurrencies</b> and the growing number of&nbsp;...",
+            "cacheId": "qznoxmmvUU0J",
+            "formattedUrl": "https://www.thomsonreuters.com/.../Compendium_Cryptocurrency-Regs_ FINAL.pdf",
+            "htmlFormattedUrl": "https://www.thomsonreuters.com/.../Compendium_<b>Cryptocurrency</b>-Regs_ FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB8RWVj_VbK5ZgKpPdgog71r3WqyfpTewCZ0gDrq0WXJ35ysRkpy5q28Y",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210621091445-04'00'",
+                        "creationdate": "D:20210621091445-04'00'",
+                        "creator": "Adobe InDesign 16.2 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///efde9f71d1ea79f8903f84aa97b4e680737e324e5ed6ee6e99efde980c37513b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chilean Government Introduces New Cryptocurrency and Fintech ...",
+            "htmlTitle": "<b>Chilean</b> Government Introduces New <b>Cryptocurrency</b> and Fintech ...",
+            "link": "https://cointelegraph.com/news/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Apr 21, 2019 ... Chilean Government Introduces New Cryptocurrency and Fintech Regulation Bill to Congress ... The Chilean Minister of Finance announced the\u00a0...",
+            "htmlSnippet": "Apr 21, 2019 <b>...</b> <b>Chilean</b> Government Introduces New <b>Cryptocurrency</b> and Fintech <b>Regulation</b> Bill to Congress ... The <b>Chilean</b> Minister of Finance announced the&nbsp;...",
+            "cacheId": "qvbhL-MugpkJ",
+            "formattedUrl": "https://cointelegraph.com/.../chilean-government-introduces-new- cryptocurrency-and-fintech-regulation-bill-to-congress",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>chilean</b>-government-introduces-new- <b>cryptocurrency</b>-and-fintech-<b>regulation</b>-bill-to-congress",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzHotHQEBlKyUiVhkngKaX6fbMf0lUxsu226RlCsy1ws0IYk5deDk5R8",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOGMyOTJlZGZjOTg4ZGYwNzQ5YmQwNDRkZDA3YTQ0Ny5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Chilean Government Introduces New Cryptocurrency and Fintech Regulation Bill to Congress",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Chilean Government Introduces New Cryptocurrency and Fintech Regulation Bill to Congress",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The Chilean Minister of Finance announced the introduction of a bill regulating cryptocurrencies and fintech to Congress.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOGMyOTJlZGZjOTg4ZGYwNzQ5YmQwNDRkZDA3YTQ0Ny5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The Chilean Minister of Finance announced the introduction of a bill regulating cryptocurrencies and fintech to Congress.",
+                        "og:url": "https://cointelegraph.com/news/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOGMyOTJlZGZjOTg4ZGYwNzQ5YmQwNDRkZDA3YTQ0Ny5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chilean Government Introduces New Cryptocurrency and Fintech ...",
+            "htmlTitle": "<b>Chilean</b> Government Introduces New <b>Cryptocurrency</b> and Fintech ...",
+            "link": "https://www.yahoo.com/now/chilean-government-introduces-cryptocurrency-fintech-125900811.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Apr 21, 2019 ... Chilean Government Introduces New Cryptocurrency and Fintech Regulation Bill to Congress ... The Minister of Finance of the Chilean government\u00a0...",
+            "htmlSnippet": "Apr 21, 2019 <b>...</b> <b>Chilean</b> Government Introduces New <b>Cryptocurrency</b> and Fintech <b>Regulation</b> Bill to Congress ... The Minister of Finance of the <b>Chilean</b> government&nbsp;...",
+            "cacheId": "JjVv-OCyqiQJ",
+            "formattedUrl": "https://www.yahoo.com/.../chilean-government-introduces-cryptocurrency- fintech-125900811.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>chilean</b>-government-introduces-<b>cryptocurrency</b>- fintech-125900811.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO1htclRgiOdj4WBg2frqyt1n95twsMXoMYC3-p61sNwduatj0IIf2_9E",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/99e69823-63e6-3c04-b1f9-82bc14bb6a4e",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/pJUYwkoiKzVXEzM0xvRZDw--~B/aD00OTQ7dz03NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/cointelegraph_667/f710c089eda6fae7a07e6359e980b01e",
+                        "twitter:title": "Chilean Government Introduces New Cryptocurrency and Fintech Regulation Bill to Congress",
+                        "og:type": "article",
+                        "og:image:width": "740",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Chilean Government Introduces New Cryptocurrency and Fintech Regulation Bill to Congress",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "494",
+                        "og:description": "The Minister of Finance of the Chilean government Felipe Larra\u00edn announced the introduction of a bill regulating cryptocurrencies and fintech to Congress, Cointelegraph Spain reported on April 15.  Local media outlet Ahora Noticias reported that flexibility is among the most important aspects of the bill, since the pace of technological progress is so great.  Per the report, Chile is home to a growing number of cryptocurrency exchanges that are currently not regulated.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/pJUYwkoiKzVXEzM0xvRZDw--~B/aD00OTQ7dz03NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/cointelegraph_667/f710c089eda6fae7a07e6359e980b01e",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/pJUYwkoiKzVXEzM0xvRZDw--~B/aD00OTQ7dz03NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/cointelegraph_667/f710c089eda6fae7a07e6359e980b01e",
+                        "al:android:url": "yfinance://article/99e69823-63e6-3c04-b1f9-82bc14bb6a4e",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Felipe Larra\u00edn, Minister of Finance, Ahora Noticias",
+                        "twitter:description": "The Minister of Finance of the Chilean government Felipe Larra\u00edn announced the introduction of a bill regulating cryptocurrencies and fintech to Congress, Cointelegraph Spain reported on April 15.  Local media outlet Ahora Noticias reported that flexibility is among the most important aspects of the bill, since the pace of technological progress is so great.  Per the report, Chile is home to a growing number of cryptocurrency exchanges that are currently not regulated.",
+                        "og:url": "https://finance.yahoo.com/news/chilean-government-introduces-cryptocurrency-fintech-125900811.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/pJUYwkoiKzVXEzM0xvRZDw--~B/aD00OTQ7dz03NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/cointelegraph_667/f710c089eda6fae7a07e6359e980b01e"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Digital Currencies: International Actions and Regulations | Perkins ...",
+            "htmlTitle": "Digital Currencies: International Actions and <b>Regulations</b> | Perkins ...",
+            "link": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "The Central Bank or the Chilean Monetary Authority do not appear to regulate cryptocurrencies. The Central Bank of Chile has maintained the position that\u00a0...",
+            "htmlSnippet": "The Central Bank or the <b>Chilean</b> Monetary Authority do not appear to <b>regulate cryptocurrencies</b>. The Central Bank of <b>Chile</b> has maintained the position that&nbsp;...",
+            "cacheId": "UEw8kn0GGWQJ",
+            "formattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- regulations.html",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- <b>regulations</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfw1qAPhUYilP8ZWNa6aHs--yp4VcXc9AeSkT9IBkSdYrU6KHtKMWhoQ",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Perkins Coie LLP",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "msapplication-config": "/images/favicons/browserconfig.xml",
+                        "og:type": "website",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Perkins Coie",
+                        "og:title": "Digital Currencies: International Actions and Regulations",
+                        "apple-mobile-web-app-title": "Perkins Coie LLP",
+                        "og:description": "Last updated: January 2021\nNo Legal Advice or Attorney-Client Relationship: This chart is provided by Perkins Coie LLP\u2019s Blockchain, Digital Assets & Custody industry group for informational purposes ...",
+                        "og:image:secure_url": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable = no, maximum-scale=1.0",
+                        "og:url": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations Latin America I Crypto Regulations",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> Latin America I Crypto <b>Regulations</b>",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-latin-america/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Jul 6, 2018 ... By contrast, in Mexico, Argentina, Brazil, Venezuela and Chile, cryptocurrencies are commonly accepted as payment by retail outlets and\u00a0...",
+            "htmlSnippet": "Jul 6, 2018 <b>...</b> By contrast, in Mexico, Argentina, Brazil, Venezuela and <b>Chile</b>, <b>cryptocurrencies</b> are commonly accepted as payment by retail outlets and&nbsp;...",
+            "cacheId": "pmJHIoXYl98J",
+            "formattedUrl": "https://complyadvantage.com/...regulations/cryptocurrency-regulations-latin- america/",
+            "htmlFormattedUrl": "https://complyadvantage.com/...<b>regulations</b>/<b>cryptocurrency</b>-<b>regulations</b>-latin- america/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBHfrB-1BVcvp86KgvYFe6eRlrObhFlU8eBIMDKtDtYfwCe8Xb6mia_2U",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/07/11.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1365",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in Latin America",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in Latin America",
+                        "og:image:height": "525",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "In Latin America, cryptocurrency regulations run the legislative spectrum. Amongst those countries with harsher regulation \u2014 Bolivia, for example \u2014 has comprehensively banned cryptocurrencies and exchanges, while Ecuador has issued a ban on the circulation of all cryptocurrencies apart from the government-issued \u201cSDE\u201d token.",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "3 minutes",
+                        "parsely-tags": "cryptocurrency regulations latin americacrypto regulations latin americacrypto regulations mexicocrypto regulations brazilcrypto regulations argentina",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T16:51:57+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-latin-america/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/07/11.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies make an appearance in Chilean income tax filing ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> make an appearance in <b>Chilean</b> income tax filing ...",
+            "link": "https://www.internationaltaxreview.com/article/b1s3jlr9yf3xb1/cryptocurrencies-make-an-appearance-in-chilean-income-tax-filing",
+            "displayLink": "www.internationaltaxreview.com",
+            "snippet": "Jun 3, 2021 ... Sandra Benedetto and Jonatan Israel of PwC Chile consider Chile's approach to taxing cryptocurrencies and cryptoassets.",
+            "htmlSnippet": "Jun 3, 2021 <b>...</b> Sandra Benedetto and Jonatan Israel of PwC <b>Chile</b> consider <b>Chile&#39;s</b> approach to taxing <b>cryptocurrencies</b> and cryptoassets.",
+            "formattedUrl": "https://www.internationaltaxreview.com/.../cryptocurrencies-make-an- appearance-in-chilean-income-tax-filing",
+            "htmlFormattedUrl": "https://www.internationaltaxreview.com/.../<b>cryptocurrencies</b>-make-an- appearance-in-<b>chilean</b>-income-tax-filing",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexYsam_UFus1DaN0C_zYbNiMNUyKtT4y3VyjtmJfvdQ51EFsyTnsur4A",
+                        "width": "236",
+                        "height": "214"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Tax Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-ec6aed5d7539b7d0119008d0090ef88c/Media/images/international-tax-review/1-lorraine/bitcoin-3290060_1280.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Cryptocurrencies make an appearance in Chilean income tax filing",
+                        "msapplication-square70x70logo": "https://internationaltaxreview.com/v-c783d8d1250e6d70093193f32ba03b4b/Assets/brand/LMG/ITR/_app/brands/default/app_icons/itr/Windows/tile-70.png",
+                        "og:site_name": "International Tax Review",
+                        "handheldfriendly": "True",
+                        "og:title": "Cryptocurrencies make an appearance in Chilean income tax filing",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://internationaltaxreview.com/v-c783d8d1250e6d70093193f32ba03b4b/Assets/brand/LMG/ITR/_app/brands/default/app_icons/itr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "Cryptocurrencies make an appearance in Chilean income tax filing",
+                        "og:description": "Sandra Benedetto and Jonatan Israel of PwC Chile consider Chile\u2019s approach to taxing cryptocurrencies and cryptoassets.",
+                        "msapplication-square150x150logo": "https://internationaltaxreview.com/v-c783d8d1250e6d70093193f32ba03b4b/Assets/brand/LMG/ITR/_app/brands/default/app_icons/itr/Windows/tile-150.png",
+                        "twitter:image": "https://www.internationaltaxreview.com/Media/images/international-tax-review/1-lorraine/bitcoin-3290060_1280.jpg",
+                        "twitter:site": "intltaxreview",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://internationaltaxreview.com/v-c783d8d1250e6d70093193f32ba03b4b/Assets/brand/LMG/ITR/_app/brands/default/app_icons/itr/Windows/tile-310.png",
+                        "twitter:description": "Sandra Benedetto and Jonatan Israel of PwC Chile consider Chile\u2019s approach to taxing cryptocurrencies and cryptoassets.",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.internationaltaxreview.com/Media/images/international-tax-review/1-lorraine/bitcoin-3290060_1280.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations Around the World I Crypto Regulations",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> Around the World I Crypto <b>Regulations</b>",
+            "link": "https://complyadvantage.com/insights/cryptocurrency-regulations-around-world/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Feb 6, 2020 ... Cryptocurrency Regulations: A free guide to global ... some banks in Chile to close accounts held by cryptocurrency exchanges in late 2018.",
+            "htmlSnippet": "Feb 6, 2020 <b>...</b> <b>Cryptocurrency Regulations</b>: A free guide to global ... some banks in <b>Chile</b> to close accounts held by <b>cryptocurrency</b> exchanges in late 2018.",
+            "cacheId": "lwj713xjigUJ",
+            "formattedUrl": "https://complyadvantage.com/.../cryptocurrency-regulations-around-world/",
+            "htmlFormattedUrl": "https://complyadvantage.com/.../<b>cryptocurrency</b>-<b>regulations</b>-around-world/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAupc29YnIMkmZUn5aMLAl148PozN_SI6Slds84dglQGBu52fNSU2TwZU",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2020/02/crypto_social_new.png",
+                        "article:published_time": "2020-02-06T21:14:14+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "ComplyAdvantage",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "Cryptocurrency Regulations: A free guide to global crypto-regulatory environments to help navigate various legislative positions towards cryptocurrency.",
+                        "twitter:creator": "@ComplyAdvantage",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:image": "https://complyadvantage.com/wp-content/uploads/2020/02/crypto_social_new.png",
+                        "twitter:data1": "Calin",
+                        "twitter:data2": "29 minutes",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T10:43:05+00:00",
+                        "og:type": "article",
+                        "twitter:title": "Crypto Regulations Around The World: A Visual Guide",
+                        "og:title": "Cryptocurrency Regulations Around the World",
+                        "og:image:height": "627",
+                        "parsely-tags": "cryptocurrency regulationscrypto regulationscryptocurrency exchange regulationsaml crypto",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/cryptocurrency-regulations-around-world/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2020/02/crypto_social_new.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Chile cenbank to decide on roll-out of digital currency in 2022 ...",
+            "htmlTitle": "<b>Chile</b> cenbank to decide on roll-out of digital currency in 2022 ...",
+            "link": "https://www.reuters.com/business/finance/chile-cenbank-decide-roll-out-digital-currency-2022-2021-09-27/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Sep 27, 2021 ... Chile's central bank will decide in early 2022 on a strategy for the ... worldwide seek to keep pace with fast-spreading cryptocurrencies.",
+            "htmlSnippet": "Sep 27, 2021 <b>...</b> <b>Chile&#39;s</b> central bank will decide in early 2022 on a strategy for the ... worldwide seek to keep pace with fast-spreading <b>cryptocurrencies</b>.",
+            "formattedUrl": "https://www.reuters.com/.../chile-cenbank-decide-roll-out-digital-currency- 2022-2021-09-27/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>chile</b>-cenbank-decide-roll-out-digital-currency- 2022-2021-09-27/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhUU-cAUgMuBNqCaobqttDwMFolqOtaXiKk6W0qmdZ4fVhuO6RPWsUjk",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/viicIniUeTain5m85btiyaYx1ps=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VQKQEMU2YFIIXGUE4U6A4VASSE.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-09-27T21:41:24Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Business",
+                        "og:description": "Chile's central bank will decide in early 2022 on a strategy for the potential roll-out of its own digital currency, the bank's president said on Monday, as policymakers worldwide seek to keep pace with fast-spreading cryptocurrencies.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/viicIniUeTain5m85btiyaYx1ps=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VQKQEMU2YFIIXGUE4U6A4VASSE.jpg",
+                        "twitter:image:alt": "The emblem of  Chile's Central Bank is seen at its headquarters in Santiago, Chile March 29, 2018. REUTERS/Ivan Alvarado/File Photo",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-09-27T21:42:48.367Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Finance",
+                        "twitter:title": "Chile cenbank to decide on roll-out of digital currency in 2022",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/business/futureofmoney/article",
+                        "og:title": "Chile cenbank to decide on roll-out of digital currency in 2022",
+                        "dcsext.channellist": "Business;Americas;Technology",
+                        "og:article:published_time": "2021-09-27T21:41:24Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Reuters",
+                        "article:tag": "EF:BUSINESS-FUTURE-OF-MONEY,BISV,BISV08,BNKS,BSVC,CEN,CLJ,CRIM,CRYCUR,FIN,FINS,FINS08,FRAUD1,FRX,GEN,REGS,SCAM1,AMERS,CL,EMRG,LATAM,SAMER",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Chile's central bank will decide in early 2022 on a strategy for the potential roll-out of its own digital currency, the bank's president said on Monday, as policymakers worldwide seek to keep pace with fast-spreading cryptocurrencies.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/business/finance/chile-cenbank-decide-roll-out-digital-currency-2022-2021-09-27/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/viicIniUeTain5m85btiyaYx1ps=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VQKQEMU2YFIIXGUE4U6A4VASSE.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: emerging rules lead the way in Latin America ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: emerging rules lead the way in Latin America ...",
+            "link": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63-8e02-380e8b90cc33",
+            "displayLink": "www.lexology.com",
+            "snippet": "Oct 28, 2020 ... As we mentioned above, the only institution that has issued legislation on cryptocurrencies in Chile is the Internal Revenue Service (SII) which\u00a0...",
+            "htmlSnippet": "Oct 28, 2020 <b>...</b> As we mentioned above, the only institution that has issued legislation on <b>cryptocurrencies</b> in <b>Chile</b> is the Internal Revenue Service (SII) which&nbsp;...",
+            "cacheId": "qdukZadyXSsJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrencies: emerging rules lead the way in Latin America",
+                        "workarea": "Banking",
+                        "jurisdiction": "USA",
+                        "dc.date": "2020-10-28",
+                        "firmname": "Garrigues",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=019f237c-c9f1-4c63-8e02-380e8b90cc33",
+                        "og:description": "We are seeing a proliferation of cryptocurrencies throughout the world and Latin America is no exception. Here the legislation on cryptocurrencies is\u2026"
+                    }
+                ]
+            }
+        }
+    ]
+}

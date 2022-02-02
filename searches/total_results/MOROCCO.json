@@ -1,0 +1,702 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MOROCCO",
+                "totalResults": "1170000",
+                "searchTerms": "MOROCCO",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MOROCCO",
+                "totalResults": "1170000",
+                "searchTerms": "MOROCCO",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.459301,
+        "formattedSearchTime": "0.46",
+        "totalResults": "1170000",
+        "formattedTotalResults": "1,170,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The status of cryptocurrency in Morocco - ScienceDirect",
+            "htmlTitle": "The status of <b>cryptocurrency</b> in <b>Morocco</b> - ScienceDirect",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2590051X21000058",
+            "displayLink": "www.sciencedirect.com",
+            "snippet": "Morocco has banned Bitcoin and cryptocurrency transactions since November 20, 2017 (Office des Changes, 2017). The ban has not been met with any resistance\u00a0...",
+            "htmlSnippet": "<b>Morocco</b> has banned Bitcoin and <b>cryptocurrency</b> transactions since November 20, 2017 (Office des Changes, 2017). The ban has not been met with any resistance&nbsp;...",
+            "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S2590051X21000058",
+            "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S2590051X21000058",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7dwgRUqFNcyu9g9-EMkjtA4GmliAqqaUMBqWtB3RnrsI30L0UZ_A_cy4",
+                        "width": "113",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_author_orcid": "0000-0002-5321-0146",
+                        "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S2590051X20X00037-cov150h.gif",
+                        "citation_publication_date": "2021/12/01",
+                        "citation_title": "The status of cryptocurrency in Morocco",
+                        "citation_author_institution": "Faculty of Languages, Letters and Arts, Ibn Tofail University, Kenitra, Morocco",
+                        "og:type": "article",
+                        "citation_reference": "Antonopoulos, A. (2016). Why Dumb Networks Are Better. Medium. https://medium.com/@aantonop/why-dumb-networks-are-better-f0b94c271b76.",
+                        "citation_publisher": "Elsevier",
+                        "citation_article_type": "Full-length article",
+                        "citation_type": "JOUR",
+                        "citation_id": "100040",
+                        "citation_journal_title": "Research in Globalization",
+                        "citation_abstract": "<div class=\"Abstracts u-font-serif\" id=\"abstracts\"><div class=\"abstract author\" id=\"ab005\" lang=\"en\"><h2 class=\"section-title u-h3 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"as005\"><p id=\"sp0005\">Cryptocurrency is a new economy of transacting value whose use case is undeniable. Its only requirement is to be human, and it is borderless. In Morocco, cryptocurrency is erasing borders and gaining popularity. However, the general public opinion on this new innovation is unclear. This study aims to elucidate the popularity of this technology in the Kingdom by means of a small survey. The present study also investigates areas related to cryptocurrency, such as people\u2019s trust in banks. The results from the survey are contrasted with other countries to obtain a global perspective regarding Morocco\u2019s placement in the cryptocurrency adoption spectrum. The results also suggest that Morocco has the potential to adopt this technology. Notably, 9% of the sample population claim that they have owned, or sti",
+                        "og:title": "The status of cryptocurrency in Morocco",
+                        "citation_author": "Zakaria Bziker",
+                        "citation_pii": "S2590051X21000058",
+                        "og:description": "Cryptocurrency is a new economy of transacting value whose use case is undeniable. Its only requirement is to be human, and it is borderless. In Moroc\u2026",
+                        "citation_online_date": "2021/03/18",
+                        "citation_author_email": "zakaria.bziker@uit.ac.ma",
+                        "citation_firstpage": "100040",
+                        "citation_issn": "2590-051X",
+                        "citation_doi": "10.1016/j.resglo.2021.100040",
+                        "dc.identifier": "10.1016/j.resglo.2021.100040",
+                        "citation_volume": "3"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ars.els-cdn.com/content/image/1-s2.0-S2590051X20X00037-cov150h.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto Is Banned in Morocco, but Bitcoin Buys Are Soaring - CoinDesk",
+            "htmlTitle": "Crypto Is Banned in <b>Morocco</b>, but Bitcoin Buys Are Soaring - CoinDesk",
+            "link": "https://www.coindesk.com/markets/2021/03/22/crypto-is-banned-in-morocco-but-bitcoin-purchases-are-soaring/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Mar 22, 2021 ... Cryptocurrencies are banned in Morocco, but peer-to-peer bitcoin (BTC, -10.31%) trading platform LocalBitcoins is reporting all-time trading\u00a0...",
+            "htmlSnippet": "Mar 22, 2021 <b>...</b> <b>Cryptocurrencies</b> are banned in <b>Morocco</b>, but peer-to-peer bitcoin (BTC, -10.31%) trading platform LocalBitcoins is reporting all-time trading&nbsp;...",
+            "cacheId": "HUUi5_7CNRYJ",
+            "formattedUrl": "https://www.coindesk.com/.../crypto-is-banned-in-morocco-but-bitcoin- purchases-are-soaring/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../crypto-is-banned-in-<b>morocco</b>-but-bitcoin- purchases-are-soaring/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjayh3A07SGnGtF0dZ6CVHihiSZbMIzzFy6Yaw6hhAlOqynq07ttnK1Yw",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/cEdCePLqV9eMh6c-UBFlXNOddFk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HLZC2IG36RBNBEWWNNRRXEWMMA.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-03-22T13:00:00Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Peer-to-peer bitcoin trading volumes steadily increased in the country during the last three years.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/8oMek5505rVKWwoQFyIFwaFNEIw=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HLZC2IG36RBNBEWWNNRRXEWMMA.jpg",
+                        "twitter:image:alt": "Morocco",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-03-22T13:00:00Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Morocco",
+                        "og:type": "article",
+                        "article:section": "Markets",
+                        "twitter:title": "Crypto Is Banned in Morocco, but Bitcoin Purchases Are Soaring",
+                        "og:title": "Crypto Is Banned in Morocco, but Bitcoin Purchases Are Soaring",
+                        "og:image:height": "628",
+                        "article:author": "Sandali Handagama",
+                        "article:tag": "LocalBitcoins.com, Cryptocurrency, Bitcoin Trading, Morocco, Global Macro",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Peer-to-peer bitcoin trading volumes steadily increased in the country during the last three years.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/markets/2021/03/22/crypto-is-banned-in-morocco-but-bitcoin-purchases-are-soaring/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/cEdCePLqV9eMh6c-UBFlXNOddFk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HLZC2IG36RBNBEWWNNRRXEWMMA.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Morocco and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Morocco</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman <b>Law</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/morocco/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Morocco Cryptocurrency Laws ... The Office called on the persons concerned to abide by the exchange regulations, which provide that financial transactions with\u00a0...",
+            "htmlSnippet": "<b>Morocco Cryptocurrency Laws</b> ... The Office called on the persons concerned to abide by the exchange <b>regulations</b>, which provide that financial transactions with&nbsp;...",
+            "cacheId": "SDowGpZ7AAkJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/morocco/",
+            "htmlFormattedUrl": "https://freeman<b>law</b>.com/<b>cryptocurrency</b>/<b>morocco</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2oCON8v73QED94bMGQJr7pflMfS25zNE8134cspZFO0kaE1EIS2vtXWI",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493324-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-09-10T11:51:48+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/morocco/",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493324-scaled.jpeg",
+                        "og:description": "Is cryptocurrency legal in Morocco? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493324-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493324-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:39+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/ecuador-and-cryptocurrency/",
+                        "og:type": "article",
+                        "og:image:alt": "Morocco cryptocurrency",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Morocco and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Morocco and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:39+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Morocco and Cryptocurrency Morocco Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In a press release posted on its official website, the Moroccan Exchange Office informed the public that the transactions effectuated through virtual currencies...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/morocco/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419493324-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Our New Reports on Regulation of Cryptocurrency Around the World ...",
+            "htmlTitle": "Our New Reports on <b>Regulation of Cryptocurrency</b> Around the World ...",
+            "link": "https://blogs.loc.gov/law/2018/07/our-new-reports-on-regulation-of-cryptocurrency-around-the-world/",
+            "displayLink": "blogs.loc.gov",
+            "snippet": "Jul 13, 2018 ... Countries such as Algeria, Bolivia, Morocco, Nepal, Pakistan, and Vietnam ban any and all activities involving cryptocurrencies. Other countries\u00a0...",
+            "htmlSnippet": "Jul 13, 2018 <b>...</b> Countries such as Algeria, Bolivia, <b>Morocco</b>, Nepal, Pakistan, and Vietnam ban any and all activities involving <b>cryptocurrencies</b>. Other countries&nbsp;...",
+            "cacheId": "J81GlNmrVHcJ",
+            "formattedUrl": "https://blogs.loc.gov/law/.../our-new-reports-on-regulation-of-cryptocurrency -around-the-world/",
+            "htmlFormattedUrl": "https://blogs.loc.gov/<b>law</b>/.../our-new-reports-on-<b>regulation-of-cryptocurrency</b> -around-the-world/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO5Ors1shlUT8-VtG9nagy8--rA9y_RRn3ubJvSmo4_Anul7fxoKcUjfI2",
+                        "width": "285",
+                        "height": "177"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.type": "webpage",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.subject": "Blogs",
+                        "dc.identifier": "//blogs.loc.gov/law/2018/07/our-new-reports-on-regulation-of-cryptocurrency-around-the-world/",
+                        "dc.date": "2018-07-13",
+                        "dc.language": "eng",
+                        "dc.contributor": "Goitom, Hanibal"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blogs.loc.gov/law/files/2018/07/BItcoin-MAPCapture-1024x637.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Morocco Outlaws Cryptocurrencies",
+            "htmlTitle": "<b>Morocco</b> Outlaws <b>Cryptocurrencies</b>",
+            "link": "https://cointelegraph.com/news/morosco-outlaws-cryptocurrencies",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Nov 22, 2017 ... Morocco has officially instituted a ban on transactions using cryptocurrencies, citing a lack of regulation as a 'danger' to users.",
+            "htmlSnippet": "Nov 22, 2017 <b>...</b> <b>Morocco</b> has officially instituted a ban on transactions using <b>cryptocurrencies</b>, citing a lack of <b>regulation</b> as a &#39;danger&#39; to users.",
+            "cacheId": "iC45fuQ8iacJ",
+            "formattedUrl": "https://cointelegraph.com/news/morosco-outlaws-cryptocurrencies",
+            "htmlFormattedUrl": "https://cointelegraph.com/news/morosco-out<b>laws</b>-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQh6z-KoCJDwTBMinNnrLAXj7NwZKZ6dZGrKJAKYrUoJ9Y5ungsHhSGc24",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MzA4YTA1M2QzMTFiZjAxOGQ2ZjRkNWYxYTlmODZiYS5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Morocco Outlaws Cryptocurrencies",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Morocco Outlaws Cryptocurrencies",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Morocco have banned transactions using cryptocurrencies  - citing significant risks due to a lack of regulation",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MzA4YTA1M2QzMTFiZjAxOGQ2ZjRkNWYxYTlmODZiYS5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Morocco have banned transactions using cryptocurrencies  - citing significant risks due to a lack of regulation",
+                        "og:url": "https://cointelegraph.com/news/morosco-outlaws-cryptocurrencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MzA4YTA1M2QzMTFiZjAxOGQ2ZjRkNWYxYTlmODZiYS5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Morocco | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Morocco</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/morocco",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Jul 13, 2021 ... The Morocco for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a\u00a0...",
+            "htmlSnippet": "Jul 13, 2021 <b>...</b> The <b>Morocco</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a&nbsp;...",
+            "cacheId": "XWWB_7h2qusJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/morocco",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>morocco</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Morocco for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Morocco | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Morocco for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Morocco | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/morocco"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Morocco is seeing a huge surge in cryptocurrency use",
+            "htmlTitle": "<b>Morocco</b> is seeing a huge surge in <b>cryptocurrency</b> use",
+            "link": "https://thehustle.co/03292021-morocco-cryptocurrency/",
+            "displayLink": "thehustle.co",
+            "snippet": "Mar 29, 2021 ... In 2017, Morocco banned the use of cryptocurrencies. News flash: it didn't work. New data from LocalBitcoins, a peer-to-peer crypto market,\u00a0...",
+            "htmlSnippet": "Mar 29, 2021 <b>...</b> In 2017, <b>Morocco</b> banned the use of <b>cryptocurrencies</b>. News flash: it didn&#39;t work. New data from LocalBitcoins, a peer-to-peer crypto market,&nbsp;...",
+            "cacheId": "tAOZrrvMmwcJ",
+            "formattedUrl": "https://thehustle.co/03292021-morocco-cryptocurrency/",
+            "htmlFormattedUrl": "https://thehustle.co/03292021-<b>morocco</b>-<b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkf_OCmi2DxbG5soOj6i4XbjHeBC6-etHxskNo_61144imVcPeBPvy7M",
+                        "width": "303",
+                        "height": "166"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://thehustle.co/wp-content/uploads/2021/03/News-Brief_2021-03-28T225740.617Z.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-03-29T00:00:00+00:00",
+                        "og:image:width": "512",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Hustle",
+                        "og:title": "Morocco is seeing a huge surge in cryptocurrency use",
+                        "og:image:height": "282",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "In 2017, Morocco banned the use of cryptocurrencies. It didn\u2019t work.",
+                        "twitter:creator": "@damn_ethan",
+                        "article:publisher": "https://www.facebook.com/hustlecon",
+                        "twitter:data1": "Ethan Brooks",
+                        "twitter:data2": "1 minute",
+                        "twitter:site": "@hustlecon",
+                        "article:modified_time": "2021-03-28T23:01:13+00:00",
+                        "viewport": "width=device-width,minimum-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://thehustle.co/03292021-morocco-cryptocurrency/",
+                        "amp-to-amp-navigation": "AMP-Redirect-To; AMP.navigateTo",
+                        "amp-consent-blocking": "amp-analytics"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thehustle.co/wp-content/uploads/2021/03/News-Brief_2021-03-28T225740.617Z.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Morocco Considers Launching a Central Bank Digital Currency ...",
+            "htmlTitle": "<b>Morocco</b> Considers Launching a Central Bank Digital Currency ...",
+            "link": "https://www.nasdaq.com/articles/morocco-considers-launching-a-central-bank-digital-currency-2021-02-20",
+            "displayLink": "www.nasdaq.com",
+            "snippet": "Feb 20, 2021 ... Previously Morocco has expressed concern around the lack of regulation around cryptocurrencies and warned the use of virtual currencies\u00a0...",
+            "htmlSnippet": "Feb 20, 2021 <b>...</b> Previously <b>Morocco</b> has expressed concern around the lack of <b>regulation</b> around <b>cryptocurrencies</b> and warned the use of virtual currencies&nbsp;...",
+            "cacheId": "kRgJPpUqu20J",
+            "formattedUrl": "https://www.nasdaq.com/.../morocco-considers-launching-a-central-bank- digital-currency-2021-02-20",
+            "htmlFormattedUrl": "https://www.nasdaq.com/.../<b>morocco</b>-considers-launching-a-central-bank- digital-currency-2021-02-20",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuixGzZ6VS_nnZTHERNtd_7oAjk9qWmWkt0iBhl8lv3jdKlwbL0WWEzyQ",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "og:image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?36543865",
+                        "og:type": "Article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Morocco Considers Launching a Central Bank Digital Currency",
+                        "theme-color": "#ffffff",
+                        "twitter:site:id": "nasdaq",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.nasdaq.com/articles/morocco-considers-launching-a-central-bank-digital-currency-2021-02-20",
+                        "com.nasdaq.cms.taxonomy.addisplay": "True",
+                        "com.nasdaq.cms.taxonomy.pagetype": "article-page",
+                        "og:title": "Morocco Considers Launching a Central Bank Digital Currency",
+                        "og:image:height": "630",
+                        "title": "Morocco Considers Launching a Central Bank Digital Currency | Nasdaq",
+                        "com.nasdaq.cms.taxonomy.sponsored": "False",
+                        "twitter:site": "@Nasdaq",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "com.nasdaq.cms.taxonomy.topic": "markets:cryptocurrencies",
+                        "og:url": "https://www.nasdaq.com/articles/morocco-considers-launching-a-central-bank-digital-currency-2021-02-20"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nasdaq.com/sites/acquia.prod/files/styles/710x400/public/antiquemap-860x430.jpg?itok=ZNkGLt2l"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Market Activity CLOSE Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets Quick Links Real-Time Quotes After-Hours Quotes Pre-Marke...",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Market Activity Stocks Funds + ETFs Indexes Commodities Cryptocurrency Currencies Futures Fixed Income Global Markets",
+                        "url": "Market Activity"
+                    },
+                    {
+                        "name": "Stocks",
+                        "url": "Stocks"
+                    },
+                    {
+                        "name": "Real-Time Quotes",
+                        "url": "Real-Time Quotes"
+                    },
+                    {
+                        "name": "Economic Calendar",
+                        "url": "Economic Calendar"
+                    },
+                    {
+                        "name": "Analyst Recommendations",
+                        "url": "Analyst Recommendations"
+                    },
+                    {
+                        "name": "Gold",
+                        "url": "Gold"
+                    },
+                    {
+                        "name": "Statistical Milestones",
+                        "url": "Statistical Milestones"
+                    },
+                    {
+                        "name": "News and Insights Markets Companies Cryptocurrency Technology Personal Finance Financial Advisors"
+                    },
+                    {
+                        "name": "News and Insights",
+                        "url": "News and Insights"
+                    },
+                    {
+                        "name": "Blockchain",
+                        "url": "Blockchain"
+                    },
+                    {
+                        "name": "Inclusive Entrepreneurship",
+                        "url": "Inclusive Entrepreneurship"
+                    },
+                    {
+                        "name": "Raise & Access Capital List with Nasdaq Nasdaq Private Market Nasdaq Fund Secondaries Investor Relations Intelligence Nasdaq Direct Listings Optimize Governance Practices Board Portal Software...",
+                        "url": "Raise & Access Capital"
+                    },
+                    {
+                        "name": "List with Nasdaq",
+                        "url": "List with Nasdaq"
+                    },
+                    {
+                        "name": "Board Portal Software",
+                        "url": "Board Portal Software"
+                    },
+                    {
+                        "name": "AFC Technology",
+                        "url": "AFC Technology"
+                    },
+                    {
+                        "name": "Nasdaq Data Link",
+                        "url": "Nasdaq Data Link"
+                    },
+                    {
+                        "name": "Equities",
+                        "url": "Equities"
+                    },
+                    {
+                        "name": "Our People Board of Directors Careers Press Center Contact"
+                    },
+                    {
+                        "name": "Our People",
+                        "url": "Our People"
+                    },
+                    {
+                        "name": "Diversity, Inclusion and Belonging",
+                        "url": "Diversity, Inclusion and Belonging"
+                    },
+                    {
+                        "name": "The Purpose Initiative",
+                        "url": "The Purpose Initiative"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Morocco bans all cryptocurrencies including Bitcoin",
+            "htmlTitle": "<b>Morocco</b> bans all <b>cryptocurrencies</b> including Bitcoin",
+            "link": "https://www.menabytes.com/morocco-crypto-ban/",
+            "displayLink": "www.menabytes.com",
+            "snippet": "Nov 28, 2017 ... It changed when Moroccan government last week explicitly banned all the cryptocurrencies including Bitcoin. Country's currency regulator Ofice\u00a0...",
+            "htmlSnippet": "Nov 28, 2017 <b>...</b> It changed when <b>Moroccan</b> government last week explicitly banned all the <b>cryptocurrencies</b> including Bitcoin. Country&#39;s currency regulator Ofice&nbsp;...",
+            "cacheId": "sGecsA7JcVEJ",
+            "formattedUrl": "https://www.menabytes.com/morocco-crypto-ban/",
+            "htmlFormattedUrl": "https://www.menabytes.com/<b>morocco</b>-crypto-ban/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXzMhHK0cgqKg6rOjrGMgslHeLNoQxQF3SXp4vB2ODgaGfWhPt4lrk28Q",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "1000",
+                        "url": "https://www.menabytes.com/wp-content/uploads/2017/11/Bitcoin-Ban.jpg",
+                        "height": "500"
+                    },
+                    {
+                        "url": "https://www.menabytes.com/wp-content/uploads/2017/04/menabyteslogo-1a2930color-2.png"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "MB Staff"
+                    },
+                    {
+                        "name": "MB Staff"
+                    }
+                ],
+                "organization": [
+                    {
+                        "logo": "https://www.menabytes.com/wp-content/uploads/2017/04/menabyteslogo-1a2930color-2@2x.png",
+                        "url": "https://www.menabytes.com/"
+                    },
+                    {
+                        "name": "MENAbytes"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i1.wp.com/www.menabytes.com/wp-content/uploads/2017/11/Bitcoin-Ban.jpg?resize=1000%2C500&ssl=1",
+                        "apple-itunes-app": "app-id=",
+                        "twitter:card": "summary",
+                        "article:published_time": "2017-11-28T07:49:53+05:00",
+                        "og:image:width": "1000",
+                        "og:site_name": "MENAbytes",
+                        "twitter:url": "https://www.menabytes.com/morocco-crypto-ban/",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "ShareTweetShareWhatsAppEmail0 SharesBitcoin and Cryptocurrencies\u00a0are still a grey area in most of the MENA countries. There may have been few statements here and there where Governments or Government officials have advised people not to invest or trade in cryptocurrencies but until now there was no official ban by any country of the\u00a0Middle East & North Africa. [\u2026]",
+                        "twitter:creator": "@MENAbytes",
+                        "twitter:image": "https://i1.wp.com/www.menabytes.com/wp-content/uploads/2017/11/Bitcoin-Ban.jpg?resize=1000%2C500&ssl=1",
+                        "article:publisher": "http://facebook.com/MENAbytes",
+                        "twitter:data1": "MB Staff",
+                        "twitter:data2": "2 minutes",
+                        "article_author": "MB Staff",
+                        "twitter:site": "@MENAbytes",
+                        "article:modified_time": "2017-11-28T07:58:40+05:00",
+                        "og:type": "article",
+                        "twitter:title": "Morocco bans all cryptocurrencies including Bitcoin",
+                        "og:title": "Morocco bans all cryptocurrencies including Bitcoin",
+                        "article_publisher": "http://www.facebook.com/MENAbytes",
+                        "og:image:height": "500",
+                        "ia:markup_url": "https://www.menabytes.com/morocco-crypto-ban/?ia_markup=1",
+                        "og:updated_time": "2017-11-28T07:58:40+05:00",
+                        "fb:pages": "599654093573776",
+                        "fb:app_id": "529576650555031",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+                        "twitter:description": "ShareTweetShareWhatsAppEmail0 SharesBitcoin and Cryptocurrencies\u00a0are still a grey area in most of the MENA countries. There may have been few statements here and there where Governments or Government officials have advised people not to invest or trade in cryptocurrencies but until now there was no official ban by any country of the\u00a0Middle East & North Africa. [\u2026]",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.menabytes.com/morocco-crypto-ban/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i1.wp.com/www.menabytes.com/wp-content/uploads/2017/11/Bitcoin-Ban.jpg?resize=1000%2C500&ssl=1"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "articlebody": "ShareTweetShareWhatsAppEmail0 SharesBitcoin and Cryptocurrencies are still a grey area in most of the MENA countries. There may have been few statements here and there where Governments or...",
+                        "datemodified": "2017-11-28",
+                        "keywords": "Bitcoin, Cryptocurrency, Morocco",
+                        "headline": "Morocco bans all cryptocurrencies including Bitcoin",
+                        "datepublished": "2017-11-28"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto is fully banned in China and 8 other countries | Fortune",
+            "htmlTitle": "Crypto is fully banned in China and 8 other countries | Fortune",
+            "link": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "displayLink": "fortune.com",
+            "snippet": "Jan 4, 2022 ... Egypt, Iraq, Qatar, Oman, Morocco, Algeria, Tunisia, Bangladesh, and China have all banned cryptocurrency. Forty-two other countries,\u00a0...",
+            "htmlSnippet": "Jan 4, 2022 <b>...</b> Egypt, Iraq, Qatar, Oman, <b>Morocco</b>, Algeria, Tunisia, Bangladesh, and China have all banned <b>cryptocurrency</b>. Forty-two other countries,&nbsp;...",
+            "cacheId": "lfbgE8feDlAJ",
+            "formattedUrl": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "htmlFormattedUrl": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzcZxQQf1qHKsCP5GFgbFDoRX8r7zOQfiPFPSjZU8p7YTjO2999hUgWag",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto is fully banned in China and 8 other countries",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+                        "og:title": "Crypto is fully banned in China and 8 other countries",
+                        "og:description": "Nine countries have banned digital currencies outright in recent years, but dozens more have banned it implicitly.",
+                        "og:height": "683",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Nine countries have banned digital currencies outright in recent years, but dozens more have banned it implicitly.",
+                        "og:url": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        }
+    ]
+}

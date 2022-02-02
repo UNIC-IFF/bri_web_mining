@@ -1,0 +1,662 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SOUTH KOREA",
+                "totalResults": "5160000",
+                "searchTerms": "SOUTH KOREA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SOUTH KOREA",
+                "totalResults": "5160000",
+                "searchTerms": "SOUTH KOREA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.374336,
+        "formattedSearchTime": "0.37",
+        "totalResults": "5160000",
+        "formattedTotalResults": "5,160,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "South Korea Tightens Regulations on Cryptocurrencies \u2013 The ...",
+            "htmlTitle": "<b>South Korea</b> Tightens <b>Regulations</b> on <b>Cryptocurrencies</b> \u2013 The ...",
+            "link": "https://thediplomat.com/2021/07/south-korea-tightens-regulations-on-cryptocurrencies/",
+            "displayLink": "thediplomat.com",
+            "snippet": "Jul 3, 2021 ... South Korea Tightens Regulations on Cryptocurrencies ... Concerned about the potential for financial crimes, Seoul is tightening rules. Critics\u00a0...",
+            "htmlSnippet": "Jul 3, 2021 <b>...</b> <b>South Korea</b> Tightens <b>Regulations</b> on <b>Cryptocurrencies</b> ... Concerned about the potential for financial crimes, Seoul is tightening rules. Critics&nbsp;...",
+            "cacheId": "KePlkqcQ5TwJ",
+            "formattedUrl": "https://thediplomat.com/.../south-korea-tightens-regulations-on- cryptocurrencies/",
+            "htmlFormattedUrl": "https://thediplomat.com/.../<b>south</b>-<b>korea</b>-tightens-<b>regulations</b>-on- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROpVQYxgkoODQXQMBvNDALyYez7mGd8uctnOMpGFvWE3hU_zipby8LcII",
+                        "width": "271",
+                        "height": "186"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "width": "600",
+                        "url": "https://thediplomat.com/wp-content/themes/td_theme_v3/assets/logo/diplomat_logo_amp.jpg",
+                        "height": "60"
+                    },
+                    {
+                        "representativeofpage": "true",
+                        "description": "Credit: Pixabay",
+                        "url": "https://thediplomat.com/wp-content/uploads/2018/02/sizes/td-story-s-2/thediplomat-business-3159208_1280.jpg"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Diplomat",
+                        "url": "The Diplomat"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://thediplomat.com/wp-content/uploads/2018/02/sizes/td-story-s-2/thediplomat-business-3159208_1280.jpg",
+                        "twitter:title": "South Korea Tightens Regulations on Cryptocurrencies",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://thediplomat.com/2021/07/south-korea-tightens-regulations-on-cryptocurrencies/",
+                        "og:title": "South Korea Tightens Regulations on Cryptocurrencies",
+                        "og:description": "Concerned about the potential for financial crimes, Seoul is tightening rules. Critics say it could force cryptocurrencies out of the market altogether.",
+                        "twitter:image": "https://thediplomat.com/wp-content/uploads/2018/02/sizes/td-story-s-2/thediplomat-business-3159208_1280.jpg",
+                        "url": "https://thediplomat.com/2021/07/south-korea-tightens-regulations-on-cryptocurrencies/",
+                        "article:tag": "Economy",
+                        "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width",
+                        "news_keywords": "Economy,East Asia,South Korea,Bitcoin,Bitcoin in South Korea,Cryptocurrencies,Money laundering,South Korea cryptocurrency",
+                        "twitter:description": "Concerned about the potential for financial crimes, Seoul is tightening rules. Critics say it could force cryptocurrencies out of the market altogether.",
+                        "og:url": "https://thediplomat.com/2021/07/south-korea-tightens-regulations-on-cryptocurrencies/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thediplomat.com/wp-content/uploads/2018/02/sizes/td-story-s-2/thediplomat-business-3159208_1280.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "articlebody": "AdvertisementIn March, South Korea passed new legislation to strengthen the supervision of virtual assets. The new law, however, has resulted in pushback by banks and concerns that many of...",
+                        "datemodified": "2021-07-03T06:17:30Z",
+                        "keywords": "The Koreas",
+                        "articlesection": "The Koreas",
+                        "description": "Concerned about the potential for financial crimes, Seoul is tightening rules. Critics say it could force cryptocurrencies out of the market altogether.",
+                        "headline": "South Korea Tightens Regulations on Cryptocurrencies",
+                        "datepublished": "July 03, 2021",
+                        "mainentityofpage": "https://thediplomat.com/2021/07/south-korea-tightens-regulations-on-cryptocurrencies/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Korea's crypto regulations are tightening around investors ...",
+            "htmlTitle": "<b>South Korea&#39;s</b> crypto <b>regulations</b> are tightening around investors ...",
+            "link": "https://www.businessinsider.in/cryptocurrency/news/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike/articleshow/86426452.cms",
+            "displayLink": "www.businessinsider.in",
+            "snippet": "Sep 22, 2021 ... On September 18, the South Korean government announced that only 28 cryptocurrency exchanges have met the preliminary requirements prescribed\u00a0...",
+            "htmlSnippet": "Sep 22, 2021 <b>...</b> On September 18, the <b>South Korean</b> government announced that only 28 <b>cryptocurrency</b> exchanges have met the preliminary requirements prescribed&nbsp;...",
+            "cacheId": "M0IZnOinIsgJ",
+            "formattedUrl": "https://www.businessinsider.in/cryptocurrency/.../south-koreas...regulations... and.../86426452.cms",
+            "htmlFormattedUrl": "https://www.bu<b>sin</b>e<b>ssins</b>ider.<b>in</b>/<b>cryptocurrency</b>/.../<b>south</b>-<b>koreas</b>...<b>regulations</b>... <b>and</b>.../86426452.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOyhFCugZ88HoTUPp3Wd7BuR__1nybYdD9ne4j3pHv4P8nAJUqJnWfgfe",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.businessinsider.in/photo/86426452/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike.jpg?imgsize=94552",
+                        "twitter:title": "South Korea\u2019s crypto regulations are tightening around investors and exchanges alike",
+                        "og:type": "article",
+                        "og:image:alt": "South Korea\u2019s crypto regulations are tightening around investors and exchanges alike",
+                        "website": "https://www.businessinsider.in",
+                        "og:site_name": "Business Insider",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://www.businessinsider.in/cryptocurrency/news/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike/articleshow/86426452.cms",
+                        "og:title": "South Korea\u2019s crypto regulations are tightening around investors and exchanges alike",
+                        "og:description": "The South Korean province of Gyeonggi just confiscated $5 million worth of crypto assets from companies and individuals looking to allegedly hide their assets.",
+                        "twitter:image": "https://www.businessinsider.in/photo/86426452/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike.jpg?imgsize=94552",
+                        "snapchat:sticker": "https://www.businessinsider.in/thumb/msid-86426452,width-1200,height-900,imgsize=94552/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike.jpg",
+                        "snapchat": "biindia",
+                        "twitter:image:alt": "South Korea\u2019s crypto regulations are tightening around investors and exchanges alike",
+                        "fb:app_id": "645465345465774",
+                        "news_keywords": "south korea,crypto updates,crypto tax,crypto south korea,crypto regulations",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "The South Korean province of Gyeonggi just confiscated $5 million worth of crypto assets from companies and individuals looking to allegedly hide their assets.",
+                        "mobileoptimized": "320",
+                        "fb:admins": "556964827",
+                        "og:url": "https://www.businessinsider.in/cryptocurrency/news/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike/articleshow/86426452.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.in/photo/86426452/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike.jpg?imgsize=94552"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.in/cryptocurrency/news/south-koreas-crypto-regulations-are-tightening-around-investors-and-exchanges-alike/articleshow/86426452.cms",
+                        "name": "South Korea\u2019s crypto regulations are tightening around investors and exchanges alike",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations South Korea - ComplyAdvantage",
+            "htmlTitle": "<b>Cryptocurrency Regulations South Korea</b> - ComplyAdvantage",
+            "link": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-south-korea/",
+            "displayLink": "complyadvantage.com",
+            "snippet": "Jul 4, 2018 ... In South Korea, cryptocurrencies are not considered legal tender and exchanges, while legal, are part of a closely-monitored regulatory system.",
+            "htmlSnippet": "Jul 4, 2018 <b>...</b> In <b>South Korea</b>, <b>cryptocurrencies</b> are not considered legal tender and exchanges, while legal, are part of a closely-monitored <b>regulatory</b> system.",
+            "cacheId": "uFXnjcoKqTMJ",
+            "formattedUrl": "https://complyadvantage.com/insights/...regulations/cryptocurrency- regulations-south-korea/",
+            "htmlFormattedUrl": "https://complyadvantage.com/<b>ins</b>ights/...<b>regulations</b>/<b>cryptocurrency</b>- <b>regulations</b>-<b>south</b>-<b>korea</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOiJnZ0iasOCi_bhNO99kJ62HOv2bb3muzqbM7he5tMKH4ztvSAfZuL0",
+                        "width": "362",
+                        "height": "139"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://complyadvantage.com/wp-content/uploads/2018/07/9-1024x394.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Cryptocurrency Regulations in South Korea",
+                        "og:site_name": "ComplyAdvantage",
+                        "og:title": "Crypto Regulations in the United States",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://complyadvantage.com/wp-content/uploads/2019/04/cropped-favicon.png",
+                        "og:description": "It\u2019s hard to find a consistent legal approach to cryptocurrencies in the United States. Laws governing exchanges vary by state, and federal",
+                        "article:publisher": "https://www.facebook.com/complyadvantage/",
+                        "twitter:data1": "2 minutes",
+                        "parsely-tags": "cryptocurrency regulations south koreacrypto regulations south koreaaml crypto south korea",
+                        "twitter:site": "@ComplyAdvantage",
+                        "article:modified_time": "2021-12-14T11:37:30+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://complyadvantage.com/insights/crypto-regulations/cryptocurrency-regulations-south-korea/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://complyadvantage.com/wp-content/uploads/2018/07/9-1024x394.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Korea passes one of the world's first comprehensive ...",
+            "htmlTitle": "<b>South Korea</b> passes one of the world&#39;s first comprehensive ...",
+            "link": "https://techcrunch.com/2020/03/05/south-korea-passes-one-of-the-worlds-first-comprehensive-cryptocurrency-laws/",
+            "displayLink": "techcrunch.com",
+            "snippet": "Mar 5, 2020 ... As for the cryptocurrency law, its passage and presumed signing by South Korean president Moon Jae-in starts a months-long rulemaking process\u00a0...",
+            "htmlSnippet": "Mar 5, 2020 <b>...</b> As for the <b>cryptocurrency</b> law, its passage and presumed signing by <b>South Korean</b> president Moon Jae-in starts a months-long rulemaking process&nbsp;...",
+            "cacheId": "a4x4YNOmQAsJ",
+            "formattedUrl": "https://techcrunch.com/.../south-korea-passes-one-of-the-worlds-first- comprehensive-cryptocurrency-laws/",
+            "htmlFormattedUrl": "https://techcrunch.com/.../<b>south</b>-<b>korea</b>-passes-one-of-the-worlds-first- comprehensive-<b>cryptocurrency</b>-<b>laws</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS-SeB4jB5m_LFb-kioCEdqhbVS5zNkxym8VLwwbjNM_RNt0lPDWXJ0QE",
+                        "width": "286",
+                        "height": "176"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://techcrunch.com/wp-content/uploads/2020/03/8496230391_58e1c0f1ab_o.jpg?w=648",
+                        "twitter:card": "summary_large_image",
+                        "sailthru.tags": "blockchain, south korea, VCNC",
+                        "og:site_name": "TechCrunch",
+                        "cxenseparse:keywords": "asia,blockchain,cryptocurrency,finance,south korea,vcnc",
+                        "cxenseparse:url": "https://techcrunch.com/2020/03/05/south-korea-passes-one-of-the-worlds-first-comprehensive-cryptocurrency-laws/",
+                        "cxenseparse:image": "https://techcrunch.com/wp-content/uploads/2020/03/8496230391_58e1c0f1ab_o.jpg?w=648",
+                        "title": "South Korea passes one of the world\u2019s first comprehensive cryptocurrency laws \u2013 TechCrunch",
+                        "msapplication-tileimage": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=270",
+                        "og:description": "The South Korean National Assembly passed new legislation today that will provide a framework for the regulation and legalization of cryptocurrencies and crypto exchanges. In a unanimous vote during a special session of the legislature convened amidst the country\u2019s worsening novel coronavirus situa\u2026",
+                        "twitter:creator": "@dannycrichton",
+                        "cxenseparse:news_keywords": "asia,blockchain,cryptocurrency,finance,south korea,vcnc",
+                        "article:publisher": "https://www.facebook.com/techcrunch",
+                        "twitter:image": "https://techcrunch.com/wp-content/uploads/2020/03/8496230391_58e1c0f1ab_o.jpg?w=648",
+                        "cxenseparse:modified_time": "2020-03-05T16:20:59Z",
+                        "oath:guce:product-eu": "false",
+                        "oath:guce:consent-host": "guce.techcrunch.com",
+                        "cxenseparse:author": "Danny Crichton",
+                        "twitter:site": "@techcrunch",
+                        "sailthru.title": "South Korea passes one of the world\u2019s first comprehensive cryptocurrency laws",
+                        "og:site": "social.techcrunch.com",
+                        "fb:admins": "8803025,726995222,1550970059,1661021707,1178144075,643979435,4700188",
+                        "cxenseparse:recs:publishtime": "2020-03-05T16:07:24Z",
+                        "sailthru.date": "2020-03-05 08:07:24",
+                        "og:type": "article",
+                        "twitter:title": "South Korea passes one of the world\u2019s first comprehensive cryptocurrency laws",
+                        "wp-parsely_version": "2.4.1",
+                        "cxenseparse:title": "South Korea passes one of the world\u2019s first comprehensive cryptocurrency laws",
+                        "cxenseparse:pageclass": "article",
+                        "og:title": "South Korea passes one of the world\u2019s first comprehensive cryptocurrency laws \u2013 TechCrunch",
+                        "cxenseparse:description": "The South Korean National Assembly passed new legislation today that will provide a framework for the regulation and legalization of cryptocurrencies and crypto exchanges. In a unanimous vote during a special session of the legislature convened amidst the country\u2019s worsening novel coronavirus situation, the representatives passed an amendment to the country\u2019s financial services laws that [\u2026]",
+                        "sailthru.image.thumb": "https://techcrunch.com/wp-content/uploads/2020/03/8496230391_58e1c0f1ab_o.jpg?w=50",
+                        "fb:pages": "8062627951",
+                        "sailthru.description": "The South Korean National Assembly passed new legislation today that will provide a framework for the regulation and legalization of cryptocurrencies and crypto exchanges. In a unanimous vote during a special session of the legislature convened amidst the country\u2019s worsening novel coronavirus situation, the representatives passed an amendment to the country\u2019s financial services laws that [\u2026]",
+                        "fb:app_id": "187288694643718",
+                        "cxenseparse:posttype": "post",
+                        "viewport": "width=device-width",
+                        "oath:guce:inline-consent": "true",
+                        "cxenseparse:articleid": "1954919",
+                        "twitter:description": "The South Korean National Assembly passed new legislation today that will provide a framework for the regulation and legalization of cryptocurrencies and crypto exchanges. In a unanimous vote during a special session of the legislature convened amidst the country\u2019s worsening novel coronavirus situation, the representatives passed an amendment to the country\u2019s financial services laws that [\u2026]",
+                        "og:url": "https://social.techcrunch.com/2020/03/05/south-korea-passes-one-of-the-worlds-first-comprehensive-cryptocurrency-laws/",
+                        "sailthru.author": "Danny Crichton",
+                        "sailthru.image.full": "https://techcrunch.com/wp-content/uploads/2020/03/8496230391_58e1c0f1ab_o.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://techcrunch.com/wp-content/uploads/2020/03/8496230391_58e1c0f1ab_o.jpg?w=648"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Korea crypto exchanges will shut down en masse next week ...",
+            "htmlTitle": "<b>South Korea</b> crypto exchanges will shut down en masse next week ...",
+            "link": "https://fortune.com/2021/09/17/south-korea-crypto-exchange-shut-down-bitcoin-regulation/",
+            "displayLink": "fortune.com",
+            "snippet": "Sep 17, 2021 ... The majority of South Korea's cryptocurrency exchanges will likely shut down by next Friday, as operators race to meet stringent new rules from\u00a0...",
+            "htmlSnippet": "Sep 17, 2021 <b>...</b> The majority of <b>South Korea&#39;s cryptocurrency</b> exchanges will likely shut down by next Friday, as operators race to meet stringent new rules from&nbsp;...",
+            "cacheId": "0UYLndHwr_sJ",
+            "formattedUrl": "https://fortune.com/.../south-korea-crypto-exchange-shut-down-bitcoin- regulation/",
+            "htmlFormattedUrl": "https://fortune.com/.../<b>south</b>-<b>korea</b>-crypto-exchange-shut-down-bitcoin- <b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG2o2h1bYAwfyxWJUoBEaqGj6EVW8ByVy5LCb-zyxLWqZGxA2ecF8FMbI",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-913274130-e1631770466566.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "South Korea\u2019s crypto exchanges will shut down en masse next week",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2021/09/17/south-korea-crypto-exchange-shut-down-bitcoin-regulation/",
+                        "og:title": "South Korea\u2019s crypto exchanges will shut down en masse next week",
+                        "og:description": "New regulations are forcing smaller exchanges to fold, triggering concerns about market monopolies.",
+                        "og:height": "683",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-913274130-e1631770466566.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "New regulations are forcing smaller exchanges to fold, triggering concerns about market monopolies.",
+                        "og:url": "https://fortune.com/2021/09/17/south-korea-crypto-exchange-shut-down-bitcoin-regulation/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2021/09/GettyImages-913274130-e1631770466566.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Korea cryptocurrency regulations come into effect",
+            "htmlTitle": "<b>South Korea cryptocurrency regulations</b> come into effect",
+            "link": "https://www.cnbc.com/2018/01/29/south-korea-cryptocurrency-regulations-come-into-effect.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Jan 30, 2018 ... Rules in South Korea that tackle anonymity and money laundering in the cryptocurrency space take effect on Tuesday. \u00b7 The rules bring greater\u00a0...",
+            "htmlSnippet": "Jan 30, 2018 <b>...</b> Rules in <b>South Korea</b> that tackle anonymity and money laundering in the <b>cryptocurrency</b> space take effect on Tuesday. &middot; The rules bring greater&nbsp;...",
+            "cacheId": "S-YJRqL30ugJ",
+            "formattedUrl": "https://www.cnbc.com/.../south-korea-cryptocurrency-regulations-come-into- effect.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../<b>south</b>-<b>korea</b>-<b>cryptocurrency</b>-<b>regulations</b>-come-into- effect.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5bepnRkWrM6Sx3LFyMDpZ4x-cNAUhKpe_s1lxoHh8rzkovj72m1hIDSM",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/104792572-GettyImages-865708314.jpg?v=1532563739",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2018-01-30T05:05:19+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2018/01/29/south-korea-cryptocurrency-regulations-come-into-effect.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Participants in the market sounded a positive note about new cryptocurrency rules that take effect in South Korea on Tuesday.",
+                        "twitter:creator": "cheangming",
+                        "parsely-metadata": "{\"nodeid\":104975283,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/104792572-GettyImages-865708314.jpg?v=1532563739\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "104975283",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2018-01-30T07:20:27+0000",
+                        "news_keywords": "South Korea,Asia News,Technology,Bitcoin,Laws,Cryptocurrency,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "New cryptocurrency rules just came into effect in South Korea",
+                        "article:section": "Finance",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Cheang Ming",
+                        "og:title": "New cryptocurrency rules just came into effect in South Korea",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/104792572-GettyImages-865708314.jpg?v=1532563739",
+                        "article:tag": "South Korea",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Participants in the market sounded a positive note about new cryptocurrency rules that take effect in South Korea on Tuesday.",
+                        "og:url": "https://www.cnbc.com/2018/01/29/south-korea-cryptocurrency-regulations-come-into-effect.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/104792572-GettyImages-865708314.jpg?v=1532563739"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why Is Cryptocurrency Trading Popular In South Korea?",
+            "htmlTitle": "Why Is <b>Cryptocurrency</b> Trading Popular In <b>South Korea</b>?",
+            "link": "https://www.investopedia.com/news/why-cryptocurrency-trading-popular-south-korea-0/",
+            "displayLink": "www.investopedia.com",
+            "snippet": "South Korea is one of them. In March 2020, the South Korean National Assembly passed new legislation that paved the way for the regulation and legalization of\u00a0...",
+            "htmlSnippet": "<b>South Korea</b> is one of them. In March 2020, the <b>South Korean</b> National Assembly passed new legislation that paved the way for the <b>regulation</b> and legalization of&nbsp;...",
+            "cacheId": "E2F7fXUsxsMJ",
+            "formattedUrl": "https://www.investopedia.com/.../why-cryptocurrency-trading-popular-south- korea-0/",
+            "htmlFormattedUrl": "https://www.investopedia.com/.../why-<b>cryptocurrency</b>-trading-popular-<b>south</b>- <b>korea</b>-0/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeVzBZ38EcKiDNh_GUq2UX7exKOVw42ZLHwRlE5bTwqWPdbgEN1xuiSobE",
+                        "width": "279",
+                        "height": "180"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/EkZxuT8kOduT6nm2JUkug7ICOA4=/680x440/filters:fill(auto,1)/bitcoin_7-5bfc2f9cc9e77c0026311e64.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/1.204.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "investing,cryptocurrency",
+                        "og:site_name": "Investopedia",
+                        "emailt1": "Investing",
+                        "msapplication-wide310x150logo": "/static/1.204.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/1.204.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "South Korea has become a hub for cryptocurrency trading. Why are South Koreans enamored with cryptocurrency trading?",
+                        "twitter:image": "https://www.investopedia.com/thmb/EkZxuT8kOduT6nm2JUkug7ICOA4=/680x440/filters:fill(auto,1)/bitcoin_7-5bfc2f9cc9e77c0026311e64.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/1.204.0/icons/favicons/mstile-310x310.png",
+                        "sailthru.title": "Why Is Cryptocurrency Trading Popular In South Korea?",
+                        "emailcontenttype": "STRUCTUREDCONTENT",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "sailthru.date": "2022-01-21T01:21:08.346Z",
+                        "og:type": "article",
+                        "twitter:title": "Why Is Cryptocurrency Trading Popular In South Korea?",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "Why Is Cryptocurrency Trading Popular In South Korea?",
+                        "msapplication-square150x150logo": "/static/1.204.0/icons/favicons/mstile-150x150.png",
+                        "sailthru.image.thumb": "https://www.investopedia.com/thmb/qHqmCYH32gOsTDZg0G4BEiDdtrU=/255x165/filters:no_upscale()/bitcoin_7-5bfc2f9cc9e77c0026311e64.jpg",
+                        "fb:app_id": "659054097907801",
+                        "emailtickers": "BTC/USD",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "South Korea has become a hub for cryptocurrency trading. Why are South Koreans enamored with cryptocurrency trading?",
+                        "og:url": "https://www.investopedia.com/news/why-cryptocurrency-trading-popular-south-korea-0/",
+                        "sailthru.author": "Rakesh Sharma"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/EkZxuT8kOduT6nm2JUkug7ICOA4=/680x440/filters:fill(auto,1)/bitcoin_7-5bfc2f9cc9e77c0026311e64.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The New Crypto Regulations In South Korea: How To Prepare For ...",
+            "htmlTitle": "The New Crypto <b>Regulations</b> In <b>South Korea</b>: How To Prepare For ...",
+            "link": "https://sumsub.com/blog/crypto-regulations-south-korea/",
+            "displayLink": "sumsub.com",
+            "snippet": "Oct 22, 2021 ... South Korea legitimises cryptocurrency ownership and trading. What do you need to know? ... On 5 March 2020, South Korea passed an amendment to\u00a0...",
+            "htmlSnippet": "Oct 22, 2021 <b>...</b> <b>South Korea</b> legitimises <b>cryptocurrency</b> ownership and trading. What do you need to know? ... On 5 March 2020, <b>South Korea</b> passed an amendment to&nbsp;...",
+            "cacheId": "QUBkYCOaGG4J",
+            "formattedUrl": "https://sumsub.com/blog/crypto-regulations-south-korea/",
+            "htmlFormattedUrl": "https://sumsub.com/blog/crypto-<b>regulations</b>-<b>south</b>-<b>korea</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ872A5wUY06evMFfh2UWDWTo_j76VKCW3gWFQNrk6fd2iZgu8202ZiGRA",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://sumsub.com/wp-content/uploads/2020/09/Frame5.png",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#2d89ef",
+                        "og:site_name": "Sumsub",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "/mstile-144x144.png",
+                        "og:description": "The New Crypto Regulations in South Korea: How to Prepare for the Changes [Updated October 2021]. \u2713 SumSub Blog and Knowledge Base: KYC & AML Solution and",
+                        "twitter:creator": "@Sumsubcom",
+                        "article:publisher": "https://www.facebook.com/sumsub/",
+                        "og:image:secure_url": "https://sumsub.com/wp-content/uploads/2020/09/Frame5.png",
+                        "twitter:image": "https://sumsub.com/wp-content/uploads/2020/09/Frame5.png",
+                        "twitter:site": "@Sumsubcom",
+                        "msapplication-tilecolor": "#2d89ef",
+                        "og:type": "article",
+                        "article:section": "Legal & Compliance",
+                        "og:image:alt": "The New Crypto Regulations in South Korea: How to Prepare for the Changes [Updated October 2021]",
+                        "twitter:title": "The New Crypto Regulations In South Korea: How To Prepare For The Changes [Updated October 2021] | SumSub.com",
+                        "og:title": "The New Crypto Regulations In South Korea: How To Prepare For The Changes [Updated October 2021] | SumSub.com",
+                        "og:image:height": "667",
+                        "og:updated_time": "2021-12-27T09:23:24+00:00",
+                        "article:author": "https://www.facebook.com/sumsub/",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "twitter:description": "The New Crypto Regulations in South Korea: How to Prepare for the Changes [Updated October 2021]. \u2713 SumSub Blog and Knowledge Base: KYC & AML Solution and",
+                        "og:locale": "en_US",
+                        "og:url": "https://sumsub.com/blog/crypto-regulations-south-korea/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sumsub.com/wp-content/uploads/2020/09/Frame5.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Has a Regulation Problem - Cryptocurrency",
+            "htmlTitle": "Bitcoin Has a <b>Regulation</b> Problem - <b>Cryptocurrency</b>",
+            "link": "https://www.investopedia.com/news/bitcoin-has-regulation-problem/",
+            "displayLink": "www.investopedia.com",
+            "snippet": "... a crackdown on cryptocurrency businesses, mirroring what happened when South Korea also made a move to regulate cryptocurrency trading back in 2017.12.",
+            "htmlSnippet": "... a crackdown on <b>cryptocurrency</b> businesses, mirroring what happened when <b>South Korea</b> also made a move to <b>regulate cryptocurrency</b> trading back in 2017.12.",
+            "cacheId": "-JJThajmxtoJ",
+            "formattedUrl": "https://www.investopedia.com/news/bitcoin-has-regulation-problem/",
+            "htmlFormattedUrl": "https://www.investopedia.com/news/bitcoin-has-<b>regulation</b>-problem/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiF68DlIP2AACj6dkjCz7XWjpfgKn-6rOU5j8-Pbrh2yPMIMX-Xcdjy5k",
+                        "width": "278",
+                        "height": "181"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/PeawYh6s0--1OHSfcvjGW3V1s8k=/700x458/filters:fill(auto,1)/bitcoin2582593_1280-5bfc328f46e0fb00265d36c1.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/1.204.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "investing,cryptocurrency,bitcoin",
+                        "og:site_name": "Investopedia",
+                        "emailt1": "Investing",
+                        "msapplication-wide310x150logo": "/static/1.204.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/1.204.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "Bitcoin, which has run afoul of regulators around the world, is slowly being accepted by some government agencies.",
+                        "twitter:image": "https://www.investopedia.com/thmb/PeawYh6s0--1OHSfcvjGW3V1s8k=/700x458/filters:fill(auto,1)/bitcoin2582593_1280-5bfc328f46e0fb00265d36c1.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/1.204.0/icons/favicons/mstile-310x310.png",
+                        "sailthru.title": "Bitcoin Has a Regulation Problem",
+                        "emailcontenttype": "STRUCTUREDCONTENT",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "sailthru.date": "2021-09-08T14:32:41.896Z",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin Has a Regulation Problem",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "Bitcoin Has a Regulation Problem",
+                        "msapplication-square150x150logo": "/static/1.204.0/icons/favicons/mstile-150x150.png",
+                        "sailthru.image.thumb": "https://www.investopedia.com/thmb/vON9ABUITjlh-nzIpMrFsvD7KLo=/255x165/filters:no_upscale()/bitcoin2582593_1280-5bfc328f46e0fb00265d36c1.jpg",
+                        "fb:app_id": "659054097907801",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Bitcoin, which has run afoul of regulators around the world, is slowly being accepted by some government agencies.",
+                        "og:url": "https://www.investopedia.com/news/bitcoin-has-regulation-problem/",
+                        "sailthru.author": "Rakesh Sharma"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/PeawYh6s0--1OHSfcvjGW3V1s8k=/700x458/filters:fill(auto,1)/bitcoin2582593_1280-5bfc328f46e0fb00265d36c1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin falls after South Korea bans new crypto trading accounts",
+            "htmlTitle": "Bitcoin falls after <b>South Korea</b> bans new crypto trading accounts",
+            "link": "https://www.cnbc.com/2017/12/28/bitcoin-drops-11-percent-as-south-korea-moves-to-regulate-cryptocurrency-trading.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "Dec 28, 2017 ... On Thursday, the South Korean commission said in a statement, translated by CNBC, that it is prohibiting cryptocurrency exchanges from issuing\u00a0...",
+            "htmlSnippet": "Dec 28, 2017 <b>...</b> On Thursday, the <b>South Korean</b> commission said in a statement, translated by CNBC, that it is prohibiting <b>cryptocurrency</b> exchanges from issuing&nbsp;...",
+            "cacheId": "YT1j_7xz830J",
+            "formattedUrl": "https://www.cnbc.com/.../bitcoin-drops-11-percent-as-south-korea-moves-to- regulate-cryptocurrency-trading.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/.../bitcoin-drops-11-percent-as-<b>south</b>-<b>korea</b>-moves-to- <b>regulate</b>-<b>cryptocurrency</b>-trading.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCTzlj1Fh0MEbej724nKx2vJ024HJjaWBmJMGUiHgqwQI1wJFIIQ9YCr86",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://image.cnbcfm.com/api/v1/image/104811258-GettyImages-866164382.jpg?v=1532563735",
+                        "apple-itunes-app": "app-id=398018310",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2017-12-28T07:47:10+0000",
+                        "og:site_name": "CNBC",
+                        "twitter:url": "https://www.cnbc.com/2017/12/28/bitcoin-drops-11-percent-as-south-korea-moves-to-regulate-cryptocurrency-trading.html",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "og:description": "Bitcoin drops after the South Korean Financial Services Commission took more steps to limit speculation in cryptocurrency trading in the country.",
+                        "twitter:creator": "chengevelyn",
+                        "parsely-metadata": "{\"nodeid\":104918806,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/104811258-GettyImages-866164382.jpg?v=1532563735\"}",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "al:ios:app_store_id": "398018310",
+                        "pagenodeid": "104918806",
+                        "twitter:site": "@CNBC",
+                        "article:modified_time": "2017-12-29T00:45:23+0000",
+                        "news_keywords": "Ripple XRP/USD Bitstamp,Ether/USD,Bitcoin/USD Coinbase,South Korea,Markets,Technology,Bitcoin,business news",
+                        "tp:preferredruntimes": "universal",
+                        "tp:initialize": "false",
+                        "assettype": "cnbcnewsstory",
+                        "og:type": "article",
+                        "twitter:title": "Bitcoin briefly falls 11% after South Korea moves to ban new cryptocurrency trading accounts",
+                        "article:section": "Finance",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "author": "Evelyn Cheng,Cheang Ming",
+                        "og:title": "Bitcoin briefly falls 11% after South Korea moves to ban new cryptocurrency trading accounts",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/104811258-GettyImages-866164382.jpg?v=1532563735",
+                        "article:tag": "Ripple XRP/USD Bitstamp",
+                        "viewport": "initial-scale=1.0, width=device-width",
+                        "twitter:description": "Bitcoin drops after the South Korean Financial Services Commission took more steps to limit speculation in cryptocurrency trading in the country.",
+                        "og:url": "https://www.cnbc.com/2017/12/28/bitcoin-drops-11-percent-as-south-korea-moves-to-regulate-cryptocurrency-trading.html",
+                        "format-detection": "telephone=no",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://image.cnbcfm.com/api/v1/image/104811258-GettyImages-866164382.jpg?v=1532563735"
+                    }
+                ]
+            }
+        }
+    ]
+}

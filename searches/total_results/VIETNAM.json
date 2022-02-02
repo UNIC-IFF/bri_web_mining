@@ -1,0 +1,608 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - VIETNAM",
+                "totalResults": "4860000",
+                "searchTerms": "VIETNAM",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - VIETNAM",
+                "totalResults": "4860000",
+                "searchTerms": "VIETNAM",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.304774,
+        "formattedSearchTime": "0.30",
+        "totalResults": "4860000",
+        "formattedTotalResults": "4,860,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Vietnam Establishes Group to Study Regulations on Cryptocurrencies",
+            "htmlTitle": "<b>Vietnam</b> Establishes Group to Study <b>Regulations</b> on <b>Cryptocurrencies</b>",
+            "link": "https://www.vietnam-briefing.com/news/vietnam-establishes-research-group-study-regulations-cryptocurrencies-2.html/",
+            "displayLink": "www.vietnam-briefing.com",
+            "snippet": "Jul 8, 2021 ... Bitcoin and other similar cryptocurrencies have been specifically designated by SBV as illegal and are banned for trade relationships. Therefore\u00a0...",
+            "htmlSnippet": "Jul 8, 2021 <b>...</b> Bitcoin and other similar <b>cryptocurrencies</b> have been specifically designated by SBV as illegal and are banned for trade relationships. Therefore&nbsp;...",
+            "cacheId": "9Kh6Ozlju20J",
+            "formattedUrl": "https://www.vietnam-briefing.com/.../vietnam-establishes-research-group- study-regulations-cryptocurrencies-2.html/",
+            "htmlFormattedUrl": "https://www.<b>vietnam</b>-briefing.com/.../<b>vietnam</b>-establishes-research-group- study-<b>regulations</b>-<b>cryptocurrencies</b>-2.html/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url_text": "Vietnam Briefing",
+                        "fn": "Vietnam Briefing",
+                        "url": "https://www.vietnam-briefing.com/news/author/vietnam-briefing/"
+                    },
+                    {
+                        "url_text": "Lisa Prodent",
+                        "fn": "Lisa Prodent",
+                        "url": "Lisa Prodent"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf3Gtcs2bvb8mgXvoQGlkXXjsfpz8LElfKNEFKJIzR-ncFya9JmE7P9SFv",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.vietnam-briefing.com/news/wp-content/uploads/2021/05/Crypto-VN.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-08T09:30:44+00:00",
+                        "og:image:width": "900",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Vietnam Briefing News",
+                        "og:title": "Vietnam Establishes Group to Study Regulations on Cryptocurrencies",
+                        "og:image:height": "506",
+                        "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                        "og:description": "Vietnam's finance ministry has established a research group to study and take an in-depth look at cryptocurrency related policy proposals",
+                        "twitter:creator": "@VietnamBriefing",
+                        "article:publisher": "https://www.facebook.com/VietnamBriefing/",
+                        "twitter:site": "@VietnamBriefing",
+                        "article:modified_time": "2021-07-08T10:38:40+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.vietnam-briefing.com/news/vietnam-establishes-research-group-study-regulations-cryptocurrencies-2.html/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.vietnam-briefing.com/news/wp-content/uploads/2021/05/Crypto-VN.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Trading Risks In Vietnam - Lexology",
+            "htmlTitle": "<b>Cryptocurrency</b> Trading Risks In <b>Vietnam</b> - Lexology",
+            "link": "https://www.lexology.com/library/detail.aspx?g=9b145865-da54-4036-9e4e-9bc95e873a79",
+            "displayLink": "www.lexology.com",
+            "snippet": "Mar 31, 2021 ... There is no definition of cryptocurrency under the laws of Vietnam. Cryptocurrency has not been recognized as a legitimate means of payment,\u00a0...",
+            "htmlSnippet": "Mar 31, 2021 <b>...</b> There is no definition of <b>cryptocurrency</b> under the <b>laws</b> of <b>Vietnam</b>. <b>Cryptocurrency</b> has not been recognized as a legitimate means of payment,&nbsp;...",
+            "cacheId": "4_roLFSWhWYJ",
+            "formattedUrl": "https://www.lexology.com/library/detail.aspx?g=9b145865-da54-4036...",
+            "htmlFormattedUrl": "https://www.lexology.com/library/detail.aspx?g=9b145865-da54-4036...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.lexology.com/images/share/lexology-social-media.png",
+                        "og:image:alt": "Lexology (R)",
+                        "og:type": "article",
+                        "og:site_name": "Lexology",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency Trading Risks In Vietnam",
+                        "workarea": "Banking",
+                        "jurisdiction": "Vietnam",
+                        "dc.date": "2021-03-31",
+                        "firmname": "LNT & Partners",
+                        "og:url": "https://www.lexology.com/library/detail.aspx?g=9b145865-da54-4036-9e4e-9bc95e873a79",
+                        "og:description": "Over the past few years, Vietnam has seen a surge in virtual or digital currency (cryptocurrency) trading activities. While this may be an exciting\u2026"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Philippines and Vietnam are considering crypto friendly regulations",
+            "htmlTitle": "Philippines and <b>Vietnam</b> are considering crypto friendly <b>regulations</b>",
+            "link": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms",
+            "displayLink": "www.businessinsider.in",
+            "snippet": "Jul 5, 2021 ... According to the Philippines Stock Exchange (PSE), cryptocurrencies are an asset class that they cannot afford to ignore anymore. And, they\u00a0...",
+            "htmlSnippet": "Jul 5, 2021 <b>...</b> According to the Philippines Stock Exchange (PSE), <b>cryptocurrencies</b> are an asset class that they cannot afford to ignore anymore. And, they&nbsp;...",
+            "cacheId": "UMdXpy7IhPMJ",
+            "formattedUrl": "https://www.businessinsider.in/cryptocurrency/...vietnam...regulations/.../ 84141407.cms",
+            "htmlFormattedUrl": "https://www.businessinsider.in/<b>cryptocurrency</b>/...<b>vietnam</b>...<b>regulations</b>/.../ 84141407.cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOGMBIjixFBwkXoPzwBpw_9wbOPeU8Dg8PONzLcALtXkE_fJxH6N86A8o",
+                        "width": "259",
+                        "height": "195"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.businessinsider.in/photo/84141407/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg?imgsize=32345",
+                        "twitter:title": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "og:type": "article",
+                        "og:image:alt": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "website": "https://www.businessinsider.in",
+                        "og:site_name": "Business Insider",
+                        "handheldfriendly": "True",
+                        "twitter:url": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms",
+                        "og:title": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "og:description": "The national stock exchange of the Philippines wants to bring crypto assets under its purview, while Vietnam\u2019s central bank has been asked to implement a pilot",
+                        "twitter:image": "https://www.businessinsider.in/photo/84141407/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg?imgsize=32345",
+                        "snapchat:sticker": "https://www.businessinsider.in/thumb/msid-84141407,width-1200,height-900,imgsize=32345/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg",
+                        "snapchat": "biindia",
+                        "twitter:image:alt": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "fb:app_id": "645465345465774",
+                        "news_keywords": "cryptocurrency in vietnam,Cryptocurrency in India,cryptocurrency in china,cryptocurrency in philippines,cryptocurrency",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "twitter:description": "The national stock exchange of the Philippines wants to bring crypto assets under its purview, while Vietnam\u2019s central bank has been asked to implement a pilot",
+                        "mobileoptimized": "320",
+                        "fb:admins": "556964827",
+                        "og:url": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.businessinsider.in/photo/84141407/philippines-and-vietnam-are-considering-crypto-friendly-regulations.jpg?imgsize=32345"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "cryptocurrency",
+                        "name": "cryptocurrency",
+                        "position": "2"
+                    },
+                    {
+                        "item": "news",
+                        "name": "news",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://www.businessinsider.in/cryptocurrency/news/philippines-and-vietnam-are-considering-crypto-friendly-regulations/articleshow/84141407.cms",
+                        "name": "Even as India and China clamp down on crypto, Philippines and Vietnam are considering crypto friendly regulations",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Vietnam to Start Regulating Cryptocurrencies",
+            "htmlTitle": "<b>Vietnam</b> to Start Regulating <b>Cryptocurrencies</b>",
+            "link": "https://www.aseanbriefing.com/news/vietnam-to-start-regulating-cryptocurrencies/",
+            "displayLink": "www.aseanbriefing.com",
+            "snippet": "May 3, 2021 ... As of today, Vietnamese law does not mention cryptocurrencies as a legal means of payment, and neither does it recognize them as an asset or\u00a0...",
+            "htmlSnippet": "May 3, 2021 <b>...</b> As of today, <b>Vietnamese law</b> does not mention <b>cryptocurrencies</b> as a legal means of payment, and neither does it recognize them as an asset or&nbsp;...",
+            "cacheId": "Dww8utZo2DwJ",
+            "formattedUrl": "https://www.aseanbriefing.com/.../vietnam-to-start-regulating- cryptocurrencies/",
+            "htmlFormattedUrl": "https://www.aseanbriefing.com/.../<b>vietnam</b>-to-start-regulating- <b>cryptocurrencies</b>/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url_text": "ASEAN Briefing",
+                        "fn": "ASEAN Briefing",
+                        "url": "https://www.aseanbriefing.com/news/author/asean-briefing/"
+                    },
+                    {
+                        "url_text": "Lisa Prodent",
+                        "fn": "Lisa Prodent",
+                        "url": "Lisa Prodent"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8OlsYh-HJjFpaDaCx7kEi9Nh_WPmIQeNEcG876o5SN1Ds1GCeJxP_mjjY",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.aseanbriefing.com/news/wp-content/uploads/2021/05/Vietnam-to-Start-Regulating-Cryptocurrencies.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-05-03T11:10:27+00:00",
+                        "og:image:width": "900",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "ASEAN Business News",
+                        "og:title": "Vietnam to Start Regulating Cryptocurrencies",
+                        "og:image:height": "506",
+                        "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                        "og:description": "While cryptocurrency trading and use are booming globally in terms of popularity, the Vietnamese legislation makes no reference to such transactions.",
+                        "twitter:creator": "@ASEANBriefing",
+                        "article:publisher": "https://www.facebook.com/ASEANBriefing/",
+                        "twitter:site": "@ASEANBriefing",
+                        "article:modified_time": "2021-05-13T02:41:11+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.aseanbriefing.com/news/vietnam-to-start-regulating-cryptocurrencies/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aseanbriefing.com/news/wp-content/uploads/2021/05/Vietnam-to-Start-Regulating-Cryptocurrencies.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Vietnam and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Vietnam</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman <b>Law</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/vietnam/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Vietnam? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Vietnam</b>? Freeman <b>Law</b> can help with digital currencies and tax compliance. Schedule a free consultation!",
+            "cacheId": "yQxVcY0hGRYJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/vietnam/",
+            "htmlFormattedUrl": "https://freeman<b>law</b>.com/<b>cryptocurrency</b>/<b>vietnam</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTahcty5kDRW9cpsIs7DXQwdTXbArc6gRG6s8mA7tT2TBlKOotabrj8yiEt",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419494641-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-16T04:04:16+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/vietnam/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Vietnam? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419494641-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419494641-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:55:52+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/digital-currency-transmission-laws-state-by-state/",
+                        "og:type": "article",
+                        "og:image:alt": "Vietnam bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Vietnam and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Vietnam and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:55:52+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Vietnam and Cryptocurrency Vietnam Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology On August 21, 2017, Vietnamese Prime Minister Nguyen Xuan Phuc issued Decision 1255, seeking the establishment of a legal framework to manage virtual assets,...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/vietnam/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_419494641-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A New Dawn For Cryptocurrency In Vietnam? - Technology - Vietnam",
+            "htmlTitle": "A New Dawn For <b>Cryptocurrency</b> In <b>Vietnam</b>? - Technology - <b>Vietnam</b>",
+            "link": "https://www.mondaq.com/fin-tech/1089432/a-new-dawn-for-cryptocurrency-in-vietnam",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Jul 9, 2021 ... For a general picture of cryptocurrency's legal status in Vietnam, it can be briefly summarized that (i) there is no legal definition of\u00a0...",
+            "htmlSnippet": "Jul 9, 2021 <b>...</b> For a general picture of <b>cryptocurrency&#39;s</b> legal status in <b>Vietnam</b>, it can be briefly summarized that (i) there is no legal definition of&nbsp;...",
+            "cacheId": "LctY1v8Rkq0J",
+            "formattedUrl": "https://www.mondaq.com/fin.../a-new-dawn-for-cryptocurrency-in-vietnam",
+            "htmlFormattedUrl": "https://www.mondaq.com/fin.../a-new-dawn-for-<b>cryptocurrency</b>-in-<b>vietnam</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "A New Dawn For Cryptocurrency In Vietnam? - Technology - Vietnam",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "Over the past decade, cryptocurrency has been a consistently hot topic in Vietnam. A recent surge in the price of Bitcoin (BTC) from approximately USD 4,000 to nearly USD 65,000 in just over a year..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Comparative guide on cryptocurrency legislations and guidelines in ...",
+            "htmlTitle": "Comparative guide on <b>cryptocurrency</b> legislations and guidelines in ...",
+            "link": "https://vir.com.vn/comparative-guide-on-cryptocurrency-legislations-and-guidelines-in-vietnam-88833.html",
+            "displayLink": "vir.com.vn",
+            "snippet": "Nov 2, 2021 ... Despite this prohibition, Vietnam has been consistently ranked as one of the most active countries in cryptocurrency ownership. Possession of\u00a0...",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> Despite this prohibition, <b>Vietnam</b> has been consistently ranked as one of the most active countries in <b>cryptocurrency</b> ownership. Possession of&nbsp;...",
+            "cacheId": "kCLSbCec9SoJ",
+            "formattedUrl": "https://vir.com.vn/comparative-guide-on-cryptocurrency-legislations-and- guidelines-in-vietnam-88833.html",
+            "htmlFormattedUrl": "https://vir.com.vn/comparative-guide-on-<b>cryptocurrency</b>-legislations-and- guidelines-in-<b>vietnam</b>-88833.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxuQDk0n9sGNXv0Ye-K004FsK351x0vXsYylH-5b9A50BnZiN3ezSr4Q0",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://vir.com.vn/stores/news_dataimages/hung/112021/01/22/in_social/comparative-guide-on-cryptocurrency-legislations-and-guidelines-in-vietnam.jpg?randTime=1642256683",
+                        "copyright": "Copyright (c) by https://vir.com.vn/",
+                        "og:image:width": "900",
+                        "article:published_time": "2021-11-02T08:05:06+07:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Vietnam Investment Review - VIR",
+                        "distribution": "Global",
+                        "geo.position": "21.0421094;105.84392660000003",
+                        "og:description": "Steven Jacob, foreign associate and Thai Gia Han, junior associate from Indochine Counsel shared about cryptocurrency legislation in Vietnam.",
+                        "twitter:creator": "@vironew",
+                        "twitter:image": "https://vir.com.vn/stores/news_dataimages/hung/112021/01/22/in_social/comparative-guide-on-cryptocurrency-legislations-and-guidelines-in-vietnam.jpg?randTime=1642256683",
+                        "twitter:site": "Vietnam Investment Review - VIR",
+                        "icbm": "21.0421094, 105.84392660000003",
+                        "news_keywords": "cryptocurrency,policy,law,SBV,blockchain",
+                        "fb:admins": "100000170835517",
+                        "alexaverifyid": "ryHSiNN9x-Y4IrlMNoJYjAjRMz8",
+                        "application-name": "Vietnam Investment Review - VIR",
+                        "og:type": "article",
+                        "article:section": "Indochine Counsel",
+                        "twitter:title": "Comparative guide on cryptocurrency legislations and guidelines in Vietnam",
+                        "geo.region": "en-US",
+                        "author": "Vietnam Investment Review - VIR",
+                        "og:title": "Comparative guide on cryptocurrency legislations and guidelines in Vietnam",
+                        "og:image:height": "420",
+                        "og:updated_time": "2021-11-02T08:05:06+07:00",
+                        "article:tag": "cryptocurrency,policy,law,SBV,blockchain",
+                        "fb:app_id": "766611787348522",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Steven Jacob, foreign associate and Thai Gia Han, junior associate from Indochine Counsel shared about cryptocurrency legislation in Vietnam.",
+                        "og:locale": "en-US",
+                        "resource-type": "Document",
+                        "og:url": "https://vir.com.vn/comparative-guide-on-cryptocurrency-legislations-and-guidelines-in-vietnam-88833.html",
+                        "geo.placename": "47 Quan Thanh, Truc Bach, Ba Dinh District, Hanoi, Vietnam"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://vir.com.vn/stores/news_dataimages/hung/112021/01/22/comparative-guide-on-cryptocurrency-legislations-and-guidelines-in-vietnam.jpg?rt=20211101222519"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Vietnam Plans to Regulate Digital Currencies After Commissioning ...",
+            "htmlTitle": "<b>Vietnam</b> Plans to <b>Regulate</b> Digital Currencies After Commissioning ...",
+            "link": "https://news.bitcoin.com/vietnam-plans-to-regulate-digital-currencies-after-commissioning-a-crypto-research-group/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "May 6, 2021 ... As of press time, Vietnam doesn't recognize cryptocurrencies as a legal means of payment or a tangible asset. In fact, the State Bank of Vietnam\u00a0...",
+            "htmlSnippet": "May 6, 2021 <b>...</b> As of press time, <b>Vietnam</b> doesn&#39;t recognize <b>cryptocurrencies</b> as a legal means of payment or a tangible asset. In fact, the State Bank of <b>Vietnam</b>&nbsp;...",
+            "cacheId": "kVzLo5oQubsJ",
+            "formattedUrl": "https://news.bitcoin.com/vietnam-plans-to-regulate-digital-currencies-after- commissioning-a-crypto-research-group/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>vietnam</b>-plans-to-<b>regulate</b>-digital-currencies-after- commissioning-a-crypto-research-group/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb-3e_9qITYW-eGenpDNmRWkYRGbs3uJEkseIAZtzm8ZaYOOH6m7XRRhY",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/05/vietnam-crypto.jpeg",
+                        "og:type": "article",
+                        "article:published_time": "2021-05-06T07:30:14+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Vietnam Plans to Regulate Digital Currencies After Commissioning a Crypto Research Group \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Vietnam is treading waters into the cryptocurrency industry, as the government recently commissioned a research group for the purpose.",
+                        "twitter:creator": "@conexiondigicol",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Felipe Erazo",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-05-06T00:38:36+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/vietnam-plans-to-regulate-digital-currencies-after-commissioning-a-crypto-research-group/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Vietnam Plans to Regulate Digital Currencies After Commissioning a Crypto Research Group"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/05/vietnam-crypto.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrencies in Vietnam remains unclear",
+            "htmlTitle": "Legality of <b>cryptocurrencies</b> in <b>Vietnam</b> remains unclear",
+            "link": "http://vietnamlawmagazine.vn/legality-of-cryptocurrencies-in-vietnam-remains-unclear-6170.html",
+            "displayLink": "vietnamlawmagazine.vn",
+            "snippet": "Feb 28, 2018 ... It also underlines that under Vietnamese law those who issue, supply or use illegal means of payment, including bitcoin and other digital\u00a0...",
+            "htmlSnippet": "Feb 28, 2018 <b>...</b> It also underlines that under <b>Vietnamese law</b> those who issue, supply or use illegal means of payment, including bitcoin and other digital&nbsp;...",
+            "cacheId": "7eRfKWNXzccJ",
+            "formattedUrl": "vietnamlawmagazine.vn/legality-of-cryptocurrencies-in-vietnam-remains- unclear-6170.html",
+            "htmlFormattedUrl": "<b>vietnamlaw</b>magazine.vn/legality-of-<b>cryptocurrencies</b>-in-<b>vietnam</b>-remains- unclear-6170.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdwcnd4G3Yo0O8X4iSFVPDS-rNIlwhpi5YPIxyqzgGCMsi7QOjOeMjNQJ1",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://image.vietnamlawmagazine.vn/uploadvietnamlaw/2018/2/28/trang-30-1jpg152458669.jpg",
+                        "og:type": "article",
+                        "fb:app_id": "133165300417491",
+                        "copyright": "vietnamlawmagazine.vn",
+                        "msvalidate.01": "BE4F6EA91139F2D2ED7423DCD6E29569",
+                        "viewport": "width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;",
+                        "og:title": "Legality of cryptocurrencies in Vietnam remains unclear",
+                        "og:url": "http://vietnamlawmagazine.vn/legality-of-cryptocurrencies-in-vietnam-remains-unclear-6170.html",
+                        "og:description": "Bitcoin and other similar virtual currencies like ethereum, ripple and litecoin have become a hot topic among investors. But let\u2019s set aside the worries and excitement and ask a question: are cryptocurrencies lawful in Vietnam?"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://image.vietnamlawmagazine.vn/uploadvietnamlaw/2018/2/28/trang-30-1jpg152458669.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Vietnam calls for tougher measures on cryptocurrency deals amid ...",
+            "htmlTitle": "<b>Vietnam</b> calls for tougher measures on <b>cryptocurrency</b> deals amid ...",
+            "link": "https://www.reuters.com/article/us-vietnam-cryptocurrency/vietnam-calls-for-tougher-measures-on-cryptocurrency-deals-amid-alleged-scam-idUSKBN1HI1YV",
+            "displayLink": "www.reuters.com",
+            "snippet": "Apr 11, 2018 ... According to a copy of the directive seen by Reuters, the prime minister told the State Bank of Vietnam to instruct banks not to provide any\u00a0...",
+            "htmlSnippet": "Apr 11, 2018 <b>...</b> According to a copy of the <b>directive</b> seen by Reuters, the prime minister told the State Bank of <b>Vietnam</b> to instruct banks not to provide any&nbsp;...",
+            "cacheId": "zQlwxxwA_yAJ",
+            "formattedUrl": "https://www.reuters.com/...vietnam-cryptocurrency/vietnam-calls-for-tougher -measures-on-cryptocurrency-deals-amid-alleged-scam-idUSKBN1HI1YV",
+            "htmlFormattedUrl": "https://www.reuters.com/...<b>vietnam</b>-<b>cryptocurrency</b>/<b>vietnam</b>-calls-for-tougher -measures-on-<b>cryptocurrency</b>-deals-amid-alleged-scam-idUSKBN1HI1YV",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO5AgZwdAGf8Pvhhr7pLxCDp1Vmj0efiNvnK8UtJgmEFmxSSxFnGU97mc",
+                        "width": "274",
+                        "height": "184"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.reuters.com/resources/r/?m=02&d=20180411&t=2&i=1250326498&r=LYNXMPEE3A148&w=800",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "U.S.",
+                        "og:article:modified_time": "2018-04-11T13:49:49Z",
+                        "analyticsattributes.topicchannel": "Business",
+                        "analyticsattributes.backendchannellist": "technologyNews;US-The-Wire;rcom-apac;bank-news;rcom-emerging-markets;USWire_EL;everythingNews",
+                        "twitter:creator": "@Reuters",
+                        "og:description": "Vietnam on Wednesday urged greater vigilance against cryptocurrency transactions and investments, as officials in its economic hub asked police to investigate what could prove to be the country's largest cryptocurrency fraud.",
+                        "article:publisher": "https://www.facebook.com/Reuters",
+                        "revision_date": "2018-04-11T13:49:49Z",
+                        "og:article:section": "Banks",
+                        "analyticsattributes.articledate": "2018-04-11T13:49:49Z",
+                        "dcsext.dartzone": "reuters.com/business/finance/article",
+                        "author": "Reuters Staff",
+                        "analyticsattributes.keywords": "US,VIETNAM,CRYPTOCURRENCY,ASEAN Countries,Asia / Pacific,Banking & Investment Services (TRBC level 2),Crime,Cryptocurrencies,Directors Dealings,Emerging Market Countries,Indo-China,Government / Politics,Financial Fraud / Securities Fraud,South-East Asia,Vietnam",
+                        "og:article:published_time": "2018-04-11T13:12:39Z",
+                        "og:article:tag": "US,VIETNAM,CRYPTOCURRENCY,ASEAN Countries,Asia / Pacific,Banking & Investment Services (TRBC level 2),Crime,Cryptocurrencies,Directors Dealings,Emerging Market Countries,Indo-China,Government / Politics,Financial Fraud / Securities Fraud,South-East Asia,Vietnam",
+                        "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20180411&t=2&i=1250326498&r=LYNXMPEE3A148&w=800",
+                        "analyticsattributes.topicsubchannel": "Finance",
+                        "analyticsattributes.edition": "us",
+                        "og:locale": "en_US",
+                        "analyticsattributes.contenttype": "Article",
+                        "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20180411&t=2&i=1250326498&r=LYNXMPEE3A148&w=800",
+                        "sailthru.author": "Reuters Staff",
+                        "msapplication-config": "none",
+                        "analyticsattributes.title": "Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam",
+                        "theme-color": "#ffffff",
+                        "analyticsattributes.topicn2codes": "ASEAN,ASIA,BISV,CRIM,CRYCUR,DDEAL,EMRG,INDCHI,POL,SCAM1,SEASIA,VN",
+                        "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20180411&t=2&i=1250326498&r=LYNXMPEE3A148&w=800",
+                        "twitter:site": "@Reuters",
+                        "news_keywords": "US;VIETNAM;CRYPTOCURRENCY;ASEAN Countries;Asia / Pacific;Banking & Investment Services (TRBC level 2);Crime;Cryptocurrencies;Directors Dealings;Emerging Market Countries;Indo-China;Government / Politics;Financial Fraud / Securities Fraud;South-East Asia;Vietnam",
+                        "sailthru.title": "Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam",
+                        "analyticsattributes.contenttitle": "Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam",
+                        "analyticsattributes.canonicalurl": "https://www.reuters.com/article/us-vietnam-cryptocurrency-idUSKBN1HI1YV",
+                        "analyticsattributes.channel": "News",
+                        "og:article:author": "Reuters Staff",
+                        "msapplication-tilecolor": "#ff8000",
+                        "sailthru.date": "2018-04-11T13:49:49Z",
+                        "og:type": "article",
+                        "twitter:title": "Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam",
+                        "og:title": "Vietnam calls for tougher measures on cryptocurrency deals amid alleged scam",
+                        "analyticsattributes.inlinetype": "Image",
+                        "analyticsattributes.keywordslug": "US-VIETNAM-CRYPTOCURRENCY",
+                        "analyticsattributes.author": "Reuters Staff",
+                        "analyticsattributes.contentchannel": "Business - Finance",
+                        "sailthru.description": "Vietnam on Wednesday urged greater vigilance against cryptocurrency transactions and investments, as officials in its economic hub asked police to investigate what could prove to be the country's largest cryptocurrency fraud.",
+                        "viewport": "width=device-width",
+                        "twitter:description": "Vietnam on Wednesday urged greater vigilance against cryptocurrency transactions and investments, as officials in its economic hub asked police to investigate what could prove to be the country's largest cryptocurrency fraud.",
+                        "analyticsattributes.topicn2names": "ASEAN Countries,Asia / Pacific,Banking & Investment Services (TRBC level 2),Crime,Cryptocurrencies,Directors Dealings,Emerging Market Countries,Indo-China,Government / Politics,Financial Fraud / Securities Fraud,South-East Asia,Vietnam",
+                        "og:url": "https://www.reuters.com/article/us-vietnam-cryptocurrency-idUSKBN1HI1YV"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.reuters.com/resources/r/?m=02&d=20180411&t=2&i=1250326498&r=LYNXMPEE3A148&w=800"
+                    }
+                ]
+            }
+        }
+    ]
+}

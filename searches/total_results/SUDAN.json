@@ -1,0 +1,595 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SUDAN",
+                "totalResults": "1060000",
+                "searchTerms": "SUDAN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SUDAN",
+                "totalResults": "1060000",
+                "searchTerms": "SUDAN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.393818,
+        "formattedSearchTime": "0.39",
+        "totalResults": "1060000",
+        "formattedTotalResults": "1,060,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Sudan and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Sudan</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/sudan/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Sudan Cryptocurrency Laws ... According to Cointobuy's analysis, the crypto-related activity in this country has a 0.2/10 safety rank, the main ranking factor for\u00a0...",
+            "htmlSnippet": "<b>Sudan Cryptocurrency Laws</b> ... According to Cointobuy&#39;s analysis, the crypto-related activity in this country has a 0.2/10 safety rank, the main ranking factor for&nbsp;...",
+            "cacheId": "oD780R6HNW0J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/sudan/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>sudan</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcjFYkk9AJVa_7ehFp7MaQslHQTyBKxbNPvfgnK7fmO28RRsqGCKt0unSP",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494182-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-07T04:33:00+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/sudan/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Sudan? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494182-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494182-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:25+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Sudan bitcoin flag, national flag cryptocurrency concept black background",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Sudan and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Sudan and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T17:56:25+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Sudan and Cryptocurrency Sudan Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Sudan has not currently enacted regulations or legislation specifically regulating digital currency yet. Sudan\u2019s current legislation addresses electronic payments...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/sudan/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/09/AdobeStock_419494182-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | South Sudan ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | South <b>Sudan</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/south-sudan",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The South Sudan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The South <b>Sudan</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "bx2QPwlycTwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/south-sudan",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/south-<b>sudan</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The South Sudan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | South Sudan | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The South Sudan for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | South Sudan | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/south-sudan"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sudan needs a legal framework for cryptocurrency \u00b7 Global Voices",
+            "htmlTitle": "<b>Sudan</b> needs a legal framework for <b>cryptocurrency</b> \u00b7 Global Voices",
+            "link": "https://globalvoices.org/2020/09/02/sudan-needs-a-legal-framework-for-cryptocurrency/",
+            "displayLink": "globalvoices.org",
+            "snippet": "Sep 2, 2020 ... Regulation of cryptocurrencies in Sudan will ensure more security for all stakeholders; it will also protect the country from harmful use\u00a0...",
+            "htmlSnippet": "Sep 2, 2020 <b>...</b> <b>Regulation of cryptocurrencies</b> in <b>Sudan</b> will ensure more security for all stakeholders; it will also protect the country from harmful use&nbsp;...",
+            "cacheId": "ouRvGKQgHSwJ",
+            "formattedUrl": "https://globalvoices.org/.../sudan-needs-a-legal-framework-for- cryptocurrency/",
+            "htmlFormattedUrl": "https://globalvoices.org/.../<b>sudan</b>-needs-a-legal-framework-for- <b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgjMgET2191sF25owwLil8bMz0IP9r7_5nwhZXiyGPYGTZNVVq2laUiMA",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#00a300",
+                        "p:domain_verify": "f766ffbf7ac003e4e67698d4e991216e",
+                        "msapplication-config": "https://globalvoices.org/wp-content/gv-static/img/tmpl/green-app-icons/browserconfig.xml",
+                        "og:image": "https://globalvoices.org/wp-content/uploads/2020/08/andre-francois-mckenzie-vh7U_Z75L3U-unsplash-800x450.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-09-02T15:21:25+0000",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Sudan needs a legal framework for cryptocurrency",
+                        "og:site_name": "Global Voices",
+                        "og:title": "Sudan needs a legal framework for cryptocurrency",
+                        "ia:markup_url": "https://globalvoices.org/2020/09/02/sudan-needs-a-legal-framework-for-cryptocurrency/?ia_markup=1",
+                        "msapplication-tileimage": "https://globalvoices.org/wp-content/gv-static/img/tmpl/green-app-icons/mstile-144x144.png",
+                        "fb:pages": "6110663875",
+                        "og:description": "Cryptocurrency was a topic in the last election campaign, where its adoption was proposed by one of the presidential candidates as a strategy to democratize financial policy.",
+                        "twitter:creator": "@MuhammedKambal",
+                        "article:publisher": "https://facebook.com/globalvoicesonline/",
+                        "twitter:image:src": "https://globalvoices.org/wp-content/uploads/2020/08/andre-francois-mckenzie-vh7U_Z75L3U-unsplash-800x450.jpg",
+                        "twitter:site": "@globalvoices",
+                        "byl": "Mohamed Suliman",
+                        "article:modified_time": "2020-09-04T15:33:02+0000",
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                        "twitter:description": "Cryptocurrency was a topic in the last election campaign, where its adoption was proposed by one of the presidential candidates as a strategy to democratize financial policy.",
+                        "og:url": "https://globalvoices.org/2020/09/02/sudan-needs-a-legal-framework-for-cryptocurrency/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://globalvoices.org/wp-content/uploads/2020/08/andre-francois-mckenzie-vh7U_Z75L3U-unsplash-800x450.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sudan and Darfur Sanctions | U.S. Department of the Treasury",
+            "htmlTitle": "<b>Sudan</b> and Darfur Sanctions | U.S. Department of the Treasury",
+            "link": "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/sudan-and-darfur-sanctions",
+            "displayLink": "home.treasury.gov",
+            "snippet": "Accordingly, the prohibitions of the Terrorism List Governments Sanctions Regulations, 31 C.F.R. part 596, and section 906(a)(1) of the Trade Sanctions Reform\u00a0...",
+            "htmlSnippet": "Accordingly, the prohibitions of the Terrorism List Governments Sanctions <b>Regulations</b>, 31 C.F.R. part 596, and section 906(a)(1) of the Trade Sanctions Reform&nbsp;...",
+            "cacheId": "rvZDz8MuxA8J",
+            "formattedUrl": "https://home.treasury.gov/policy-issues/.../sudan-and-darfur-sanctions",
+            "htmlFormattedUrl": "https://home.treasury.gov/policy-issues/.../<b>sudan</b>-and-darfur-sanctions",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-91IfwYYNnVbB_SsWhMb954aObHlbTxojgkmXpbpy7fdA3rsWflH3E6el",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1900px",
+                        "og:image:alt": "U.S. Department of the Treasury",
+                        "twitter:card": "summary",
+                        "twitter:title": "Sudan and Darfur Sanctions",
+                        "og:site_name": "U.S. Department of the Treasury",
+                        "handheldfriendly": "true",
+                        "og:title": "Sudan and Darfur Sanctions",
+                        "og:image:height": "950px",
+                        "twitter:image:height": "1080",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2021-05-24",
+                        "og:description": "Sign up for Sudan and Darfur Sanctions e-mail updates.\u00a0\n\nImportant advisories and information\n\nEffective December 14, 2020, the determination regarding Sudan as a State Sponsor of Terrorism was rescinded. \u00a0Accordingly, the prohibitions of the Terrorism List Governments Sanctions Regulations, 31 C.F.R. part 596, and section 906(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000 (22 U.S.C. 7205) no longer apply to Sudan.\n\nEffective October 12, 2017, certain sanctions with respect to Sudan and the Government of Sudan \u2013 namely sections 1 and 2 of Executive Order (E.O.) 13067 of November 3, 1997 and all of E.O. 13412 of October 13, 2006 \u2013 were revoked, pursuant to E.O. 13761 of January 13, 2017, as amended by E.O. 13804 of July 11, 2017. \u00a0This revocation of certain sanctions: \u00a0\u00a0\n\nDoes not affect OFAC sanctions related to the conflict in Darfur, which were imposed pursuant to E.O. 13400 of April 26, 2006 and pursuant to the national emergency declared in E.O. 13067, which remains in eff",
+                        "twitter:image": "https://home.treasury.gov/system/files/291/treasury-preview-1080x1080.jpg",
+                        "twitter:image:alt": "U.S. Department of the Treasury",
+                        "twitter:site": "@USTreasury",
+                        "twitter:image:width": "1080",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width",
+                        "og:url": "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/sudan-and-darfur-sanctions"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "South Sudan's inflation rate was 102% between September 2016 and September 2017, according to the World Bank. Other countries with double-digit inflation rates\u00a0...",
+            "htmlSnippet": "South <b>Sudan&#39;s</b> inflation rate was 102% between September 2016 and September 2017, according to the World Bank. Other countries with double-digit inflation rates&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mashreqbank Reaches $100 Million Resolution with NY DFS for ...",
+            "htmlTitle": "Mashreqbank Reaches $100 Million Resolution with NY DFS for ...",
+            "link": "https://www.paulweiss.com/practices/litigation/economic-sanctions-aml/publications/mashreqbank-reaches-100-million-resolution-with-ny-dfs-for-historical-sanctions-violations-fed-and-ofac-also-take-action?id=41725",
+            "displayLink": "www.paulweiss.com",
+            "snippet": "Nov 15, 2021 ... Although comprehensive U.S. sanctions against Sudan were revoked in 2017, ... information that could trigger freezes under U.S. sanctions laws.",
+            "htmlSnippet": "Nov 15, 2021 <b>...</b> Although comprehensive U.S. sanctions against <b>Sudan</b> were revoked in 2017, ... information that could trigger freezes under U.S. sanctions <b>laws</b>.",
+            "cacheId": "oJGrNU75og4J",
+            "formattedUrl": "https://www.paulweiss.com/.../mashreqbank-reaches-100-million-resolution- with-ny-dfs-for-historical-sanctions-violations-fed-and-ofac-also-take-actio...",
+            "htmlFormattedUrl": "https://www.paulweiss.com/.../mashreqbank-reaches-100-million-resolution- with-ny-dfs-for-historical-sanctions-violations-fed-and-ofac-also-take-actio...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkvCs9N4P8ATNVbPG87qU4bQftR3F_tLs1CwMcrx9802GFQWYPmaQZZsRG",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "og:image": "http://www.paulweiss.com/media/3981130/client_alert_graphic_v3_li_2021.png",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "og:title": "Mashreqbank Reaches $100 Million Resolution with NY DFS for Historical Sanctions Violations; Fed and OFAC Also Take Action",
+                        "og:description": "On November 9, 2021, Mashreqbank, PSC (\u201cMashreqbank\u201d or the \u201cBank\u201d) reached a $100 million multi-agency resolution with the New York State Department of Financial Services (\u201cDFS\u201d or the \u201cDepartment\u201d), the Federal Reserve Board of Governors (\u201cFed\u201d) and the U.S. Department of the Treasury\u2019s Office of Foreign Assets Control (\u201cOFAC\u201d), in connection with its violations of the now-repealed Sudan-related sanctions.[1] While the monetary penalty amounts to the highest imposed in a multi-agency enforcement action for sanctions violations since spring 2019, this is the first multi-agency sanctions resolution where the monetary penalty was entirely imposed by the DFS. This is also Acting Superintendent Adrienne Harris\u2019s first enforcement action against a financial institution. Mashreqbank is a United Arab Emirates-based global bank with more than 37 branches worldwide and total assets of over $44\u00a0billion.[2] Its New York Branch is DFS-licensed and has assets of approximately $1.5 billion.[3]"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.paulweiss.com/media/3981130/client_alert_graphic_v3_li_2021.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation: The solution to Bitcoin's risks and unrealized benefits ...",
+            "htmlTitle": "<b>Regulation</b>: The solution to Bitcoin&#39;s risks and unrealized benefits ...",
+            "link": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/",
+            "displayLink": "www.atlanticcouncil.org",
+            "snippet": "Jul 1, 2021 ... Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas\u00a0...",
+            "htmlSnippet": "Jul 1, 2021 <b>...</b> <b>Cryptocurrency regulation</b> currently ranges around the world from nonexistent or partial <b>regulations</b> to prohibitions. Here are the key areas&nbsp;...",
+            "cacheId": "-wwNkaPdOccJ",
+            "formattedUrl": "https://www.atlanticcouncil.org/.../regulation-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "htmlFormattedUrl": "https://www.atlanticcouncil.org/.../<b>regulation</b>-the-solution-to-bitcoins-risks- and-unrealized-benefits/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFCjG6xPs9uFNJh1bgAJIn2XsAbOfuX3qNtob2B_lRZtJxngq9qpwgxIji",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-01T16:14:39+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Atlantic Council",
+                        "og:title": "Regulation: The solution to Bitcoin\u2019s risks and unrealized benefits",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.atlanticcouncil.org/wp-content/uploads/2019/09/favicon-300x300.png",
+                        "og:description": "Cryptocurrency regulation currently ranges around the world from nonexistent or partial regulations to prohibitions. Here are the key areas to focus on to build better policy.",
+                        "twitter:data1": "dmalloy",
+                        "facebook-domain-verification": "brcbtbhpmq1wi5r01io58a9ox64p8b",
+                        "twitter:data2": "9 minutes",
+                        "article:modified_time": "2021-07-01T16:14:41+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/regulation-the-solution-to-bitcoins-risks-and-unrealized-benefits/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.atlanticcouncil.org/wp-content/uploads/2021/07/2021-06-16T172850Z_1126454758_RC2T1O93CEGW_RTRMADP_3_EL-SALVADOR-IMF-BITCOIN-scaled.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, whereas financial openness is ... 2 Sudan. 2. Jordan. 1 Northern Cyprus. 2 Suriname.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, whereas financial openness is ... 2 <b>Sudan</b>. 2. Jordan. 1 Northern Cyprus. 2 Suriname.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulations on Cryptocurrency and Digital Token Offerings in ...",
+            "htmlTitle": "<b>Regulations</b> on <b>Cryptocurrency</b> and Digital Token Offerings in ...",
+            "link": "https://www.bakermckenzie.com/en/insight/publications/guides/guide-to-cryptocurrency-in-thailand",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "May 21, 2021 ... Digital assets regulatory landscape in Thailand; Status of cryptocurrencies and digital tokens; Insights into Thailand's regime on the offering\u00a0...",
+            "htmlSnippet": "May 21, 2021 <b>...</b> Digital assets <b>regulatory</b> landscape in Thailand; Status of <b>cryptocurrencies</b> and digital tokens; Insights into Thailand&#39;s regime on the offering&nbsp;...",
+            "cacheId": "fk8JzoCARjkJ",
+            "formattedUrl": "https://www.bakermckenzie.com/en/.../guide-to-cryptocurrency-in-thailand",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/en/.../guide-to-<b>cryptocurrency</b>-in-thailand",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVOqRhQjJyO6dHUTbF2vdPwC7QvMyryReiO411uWgaVF8wDEHQbyfNrUFP",
+                        "width": "267",
+                        "height": "188"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.bakermckenzie.com/-/media/images/open-graph-images/defaultopengraph.png",
+                        "twitter:card": "summary",
+                        "og:type": "article",
+                        "twitter:title": "Regulations on Cryptocurrency and Digital Token Offerings in Thailand | Insight | Baker McKenzie",
+                        "msapplication-square70x70logo": "tile-tiny.png",
+                        "og:title": "Regulations on Cryptocurrency and Digital Token Offerings in Thailand | Insight | Baker McKenzie",
+                        "msapplication-wide310x150logo": "tile-wide.png",
+                        "og:description": "An overview of regulations on digital assets, including digital token and cryptocurrency, and the operation of the digital asset business in Thailand",
+                        "msapplication-square150x150logo": "tile-square.png",
+                        "twitter:image": "https://www.bakermckenzie.com/-/media/images/open-graph-images/defaultopengraph.png",
+                        "twitter:site": "@bakermckenzie",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-square310x310logo": "tile-large.png",
+                        "twitter:description": "An overview of regulations on digital assets, including digital token and cryptocurrency, and the operation of the digital asset business in Thailand",
+                        "og:url": "https://www.bakermckenzie.com/en/insight/publications/guides/guide-to-cryptocurrency-in-thailand"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bakermckenzie.com/-/media/images/open-graph-images/defaultopengraph.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation, not ban: on cryptocurrencies - The Hindu",
+            "htmlTitle": "<b>Regulation</b>, not ban: on <b>cryptocurrencies</b> - The Hindu",
+            "link": "https://www.thehindu.com/opinion/editorial/regulation-not-ban/article37760281.ece",
+            "displayLink": "www.thehindu.com",
+            "snippet": "Nov 30, 2021 ... India should regulate trading of virtual currencies through monitored ... and two years after drafting a Bill to ban cryptocurrencies,\u00a0...",
+            "htmlSnippet": "Nov 30, 2021 <b>...</b> India should <b>regulate</b> trading of virtual currencies through monitored ... and two years after drafting a Bill to ban <b>cryptocurrencies</b>,&nbsp;...",
+            "cacheId": "VaqapokDzz0J",
+            "formattedUrl": "https://www.thehindu.com/opinion/.../regulation-not.../article37760281.ece",
+            "htmlFormattedUrl": "https://www.thehindu.com/opinion/.../<b>regulation</b>-not.../article37760281.ece",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqu7p3VEIFCAhDlU5RkkFcirK82yy09GzIBhR0VewKHYvqFRWsPGiYKS0",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:app:id:googleplay": "com.mobstac.thehindu",
+                        "apple-itunes-app": "app-id=584786636",
+                        "og:image": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Hindu",
+                        "al:android:package": "com.mobstac.thehindu",
+                        "twitter:app:name:googleplay": "The Hindu (Official App)",
+                        "og:image:type": "image/jpeg",
+                        "title": "Regulation, not ban: on cryptocurrencies",
+                        "twitter:app:id:iphone": "771672321",
+                        "og:description": "India should regulate trading of virtual currencies through monitored exchanges",
+                        "twitter:image": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+                        "publish-date": "2021-11-30T00:02:00+05:30",
+                        "twitter:site": "@The_Hindu",
+                        "news_keywords": "editorial,Regulation,not ban,India,trading of virtual currencies,monitored exchanges,RBI,first advisory,virtual currencies,financial and security risks,Bill,ban cryptocurrencies,the Government,legislation,currencies,risks associated with cryptocurrencies,money-laundering and financing of illegal activities,risks investors and consumers,financial stability,Prime Minister Narendra Modi,Sydney Dialogue,the Centre,RBI\u2019s deep disquiet,cryptocurrencies,investment in virtual currencies,Supreme Court,RBI notification,customer transactions,virtual currencies,Industry estimates,investors,advertising trends,Inter-Ministerial Committee,virtual currencies,El Salvador,bitcoin,legal tender,adoption of private virtual currencies,The pandemic,digital and investment in the technologies,cryptocurrencies including blockchain,Canada,Japan,Thailand,payment method,laws on financial crimes,virtual currencies,monitored exchanges,Central Bank Digital Currency",
+                        "twitter:title": "Regulation, not ban: on cryptocurrencies",
+                        "og:type": "article",
+                        "twitter:domain": "thehindu.com",
+                        "og:title": "Regulation, not ban: on cryptocurrencies",
+                        "fb:pages": "163974433696568",
+                        "created-date": "2021-11-30T00:02:00+05:30",
+                        "article:tag": "editorial",
+                        "al:android:url": "https://www.thehindu.com/opinion/editorial/regulation-not-ban/article37760281.ece",
+                        "fb:app_id": "137450626398044",
+                        "twitter:app:name:ipad": "The Hindu",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "India should regulate trading of virtual currencies through monitored exchanges",
+                        "modified-date": "2021-11-30T00:20:00+05:30",
+                        "atdlayout": "articlepage",
+                        "og:url": "https://www.thehindu.com/opinion/editorial/regulation-not-ban/article37760281.ece",
+                        "google-play-app": "app-id=com.mobstac.thehindu",
+                        "twitter:app:name:iphone": "The Hindu for iPhone",
+                        "al:android:app_name": "The Hindu"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Home",
+                        "url": "https://www.thehindu.com/"
+                    },
+                    {
+                        "name": "Home",
+                        "url": "https://www.thehindu.com/"
+                    },
+                    {
+                        "name": "About Us",
+                        "url": "https://www.thehindu.com/aboutus/"
+                    },
+                    {
+                        "name": "The Hindu",
+                        "url": "https://www.thehindu.com/"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Opinion",
+                        "name": "Opinion",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Editorial",
+                        "name": "Editorial",
+                        "position": "2"
+                    }
+                ]
+            }
+        }
+    ]
+}

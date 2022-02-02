@@ -1,0 +1,516 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - PAPUA NEW GUINEA",
+                "totalResults": "606000",
+                "searchTerms": "PAPUA NEW GUINEA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - PAPUA NEW GUINEA",
+                "totalResults": "606000",
+                "searchTerms": "PAPUA NEW GUINEA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.3758,
+        "formattedSearchTime": "0.38",
+        "totalResults": "606000",
+        "formattedTotalResults": "606,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Papua New Guinea and Cryptocurrency - Virtual Currency Laws",
+            "htmlTitle": "<b>Papua New Guinea</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/papua-new-guinea/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal inPapua New Guinea? ... Papua New Guinea Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins,\u00a0...",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal inPapua New Guinea? ... <b>Papua New Guinea Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins,&nbsp;...",
+            "cacheId": "AzlCO46kL60J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/papua-new-guinea/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>papua</b>-<b>new</b>-<b>guinea</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-05-31T21:27:31+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/papua-new-guinea/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal inPapua New Guinea? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:21+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/guernsey/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Papua New Guinea and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Papua New Guinea and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:56:21+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Papua New Guinea and Cryptocurrency Papua New Guinea Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology There is currently an established public notice regarding the trading of cryptocurrency published by the Bank of Papua New Guinea (BPNG) and...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/papua-new-guinea/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A global legal and regulatory guide to cryptocurrencies | Papua New ...",
+            "htmlTitle": "A global legal and <b>regulatory</b> guide to <b>cryptocurrencies</b> | <b>Papua New</b> ...",
+            "link": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/c1a5593d/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-2",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "Norton Rose Fulbright's global blockchain and cryptocurrency team has produced a ... Taking security over cryptocurrency; Regulation of cryptocurrencies.",
+            "htmlSnippet": "Norton Rose Fulbright&#39;s global blockchain and <b>cryptocurrency</b> team has produced a ... Taking security over <b>cryptocurrency</b>; <b>Regulation of cryptocurrencies</b>.",
+            "cacheId": "OKnOsZHY7ZsJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-regulatory-guide- to-cryptocurrencies---chapter-2",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-<b>regulatory</b>-guide- to-<b>cryptocurrencies</b>---chapter-2",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyWwmIVeXb48QkspBIIf6iYmYuPVojwZTLN8XjGsGP13TbMRTdMwxLW5c",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision=",
+                        "og:type": "article",
+                        "og:title": "A global legal and regulatory guide to cryptocurrencies - Chapter 2",
+                        "dc.format": "text/html",
+                        "dc.date.created": "07/11/2017 16:13:06",
+                        "og:description": "As bitcoin and other virtual currencies become better established, so it is likely that demand for insurance to protect against the particular risks associated with them will increase.",
+                        "nrf-mac": "NRFPRDCD1",
+                        "dc.source": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/imported/2018/08/08/20",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "dc.title": "A global legal and regulatory guide to cryptocurrencies | Chapter 1: An introduction to cryptocurrencies | Global law firm | Norton Rose Fulbright",
+                        "dc.date.modified": "05/23/2020 16:06:26",
+                        "dc.language": "en-PG",
+                        "og:url": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/c1a5593d/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision="
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Papua New ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Papua New</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/papua-new-guinea",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Papua New Guinea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous\u00a0...",
+            "htmlSnippet": "The <b>Papua New Guinea</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous&nbsp;...",
+            "cacheId": "6DW_sPb47BUJ",
+            "formattedUrl": "https://www.globallegalinsights.com/...laws...regulations/papua-new-guinea",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/...<b>laws</b>...<b>regulations</b>/<b>papua</b>-<b>new</b>-<b>guinea</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Papua New Guinea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Papua New Guinea | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Papua New Guinea for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Papua New Guinea | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/papua-new-guinea"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency exchanges and custody providers: International ...",
+            "htmlTitle": "<b>Cryptocurrency</b> exchanges and custody providers: International ...",
+            "link": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/e383ade6/cryptocurrency-exchanges-and-custody-providers-international-regulatory-developments",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "Only virtual currency service providers that process funds or virtual currencies will fall within this new proposed regulatory ambit. The requirements will not\u00a0...",
+            "htmlSnippet": "Only virtual currency service providers that process funds or virtual currencies will fall within this <b>new</b> proposed <b>regulatory</b> ambit. The requirements will not&nbsp;...",
+            "cacheId": "V1TaRd8NqmIJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../cryptocurrency-exchanges-and- custody-providers-international-regulatory-developments",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../<b>cryptocurrency</b>-exchanges-and- custody-providers-international-<b>regulatory</b>-developments",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bZstcwpvVx2sDsb3uv3Rwx6oPnIMPD4BumdC-PRBL_PmZJwZ8TmKyp53",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_blockchain.jpg?revision=&revision=",
+                        "og:type": "article",
+                        "og:title": "Cryptocurrency exchanges and custody providers: International regulatory developments",
+                        "dc.format": "text/html",
+                        "dc.date.created": "06/18/2019 14:03:34",
+                        "og:description": "Cryptocurrency exchanges, also known as digital currency exchanges or cryptoexchanges, are essentially businesses that allow customers to trade cryptocurrencies or digital currencies for other assets including conventional fiat money or different digital currencies.",
+                        "nrf-mac": "NRFPRDCD1",
+                        "dc.source": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/imported/2018/12/20/22",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "dc.title": "Cryptocurrency exchanges and custody providers: International regulatory developments | Global law firm | Norton Rose Fulbright",
+                        "dc.date.modified": "05/23/2020 16:07:35",
+                        "dc.language": "en-PG",
+                        "og:url": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/e383ade6/cryptocurrency-exchanges-and-custody-providers-international-regulatory-developments"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_blockchain.jpg?revision=&revision="
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency 2021 Legislation",
+            "htmlTitle": "<b>Cryptocurrency</b> 2021 <b>Legislation</b>",
+            "link": "https://www.ncsl.org/research/financial-services-and-commerce/cryptocurrency-2021-legislation.aspx",
+            "displayLink": "www.ncsl.org",
+            "snippet": "Dec 16, 2021 ... Kentucky created the new section of KRS 139 which defines various terms relating to commercial mining of cryptocurrency using blockchain\u00a0...",
+            "htmlSnippet": "Dec 16, 2021 <b>...</b> Kentucky created the <b>new</b> section of KRS 139 which defines various terms relating to commercial mining of <b>cryptocurrency</b> using blockchain&nbsp;...",
+            "cacheId": "eqkqu8vQaZIJ",
+            "formattedUrl": "https://www.ncsl.org/research/...and.../cryptocurrency-2021-legislation.aspx",
+            "htmlFormattedUrl": "https://www.ncsl.org/research/...and.../<b>cryptocurrency</b>-2021-<b>legislation</b>.aspx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1Kdq0k4EQiGUqQAdYGfe56L9pJDetXIq2Kb1N-KjZa72hRlSLgJ5hrb8",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "zoomcategory": "BANKING",
+                        "goid": "35888",
+                        "displayauthor": "Heather Morton",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "author": "Heather Morton, Laurel Stiegler",
+                        "rating": "GENERAL",
+                        "resource-type": "DOCUMENT"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ncsl.org/portals/1/ImageLibrary_New/Fiscal/computer-finance-873806068_1x.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A global legal and regulatory guide to cryptocurrencies | Papua New ...",
+            "htmlTitle": "A global legal and <b>regulatory</b> guide to <b>cryptocurrencies</b> | <b>Papua New</b> ...",
+            "link": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/b0264cac/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-6",
+            "displayLink": "www.nortonrosefulbright.com",
+            "snippet": "Chapter 6: Regulation of cryptocurrencies. The topic of Bitcoin and other cryptocurrencies is attracting considerable attention among central banks, regulators\u00a0...",
+            "htmlSnippet": "Chapter 6: <b>Regulation of cryptocurrencies</b>. The topic of Bitcoin and other <b>cryptocurrencies</b> is attracting considerable attention among central banks, regulators&nbsp;...",
+            "cacheId": "YdU67mFwu-QJ",
+            "formattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-regulatory-guide- to-cryptocurrencies---chapter-6",
+            "htmlFormattedUrl": "https://www.nortonrosefulbright.com/.../a-global-legal-and-<b>regulatory</b>-guide- to-<b>cryptocurrencies</b>---chapter-6",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyWwmIVeXb48QkspBIIf6iYmYuPVojwZTLN8XjGsGP13TbMRTdMwxLW5c",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision=",
+                        "og:type": "article",
+                        "og:title": "A global legal and regulatory guide to cryptocurrencies - Chapter 6",
+                        "dc.format": "text/html",
+                        "dc.date.created": "11/23/2018 16:13:30",
+                        "og:description": "The topic of Bitcoin and other cryptocurrencies is attracting considerable attention among central banks, regulators and legislators.",
+                        "nrf-mac": "NRFPRDCD2",
+                        "dc.source": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/imported/2018/07/18/05",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "dc.title": "A global legal and regulatory guide to cryptocurrencies | Chapter 1: An introduction to cryptocurrencies | Global law firm | Norton Rose Fulbright",
+                        "dc.date.modified": "05/23/2020 15:59:46",
+                        "dc.language": "en-PG",
+                        "og:url": "https://www.nortonrosefulbright.com/en-pg/knowledge/publications/b0264cac/a-global-legal-and-regulatory-guide-to-cryptocurrencies---chapter-6"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nortonrosefulbright.com/-/media/images/nrf/nrfweb/imported/feature_940x529_cryptocurrency.jpg?revision=&revision="
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Papua New Guinea: Selected Issues; IMF Country Report No. 15 ...",
+            "htmlTitle": "<b>Papua New Guinea</b>: Selected Issues; IMF Country Report No. 15 ...",
+            "link": "https://www.imf.org/external/pubs/ft/scr/2015/cr15319.pdf",
+            "displayLink": "www.imf.org",
+            "snippet": "Oct 15, 2015 ... PAPUA NEW GUINEA. 10. INTERNATIONAL MONETARY FUND. Customer' (KYC) rules\u2014imposed by domestic regulations and international standard setters\u00a0...",
+            "htmlSnippet": "Oct 15, 2015 <b>...</b> <b>PAPUA NEW GUINEA</b>. 10. INTERNATIONAL MONETARY FUND. Customer&#39; (KYC) rules\u2014imposed by domestic <b>regulations</b> and international standard setters&nbsp;...",
+            "cacheId": "H02TMPR3rLEJ",
+            "formattedUrl": "https://www.imf.org/external/pubs/ft/scr/2015/cr15319.pdf",
+            "htmlFormattedUrl": "https://www.imf.org/external/pubs/ft/scr/2015/cr15319.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "moddate": "D:20151118164614-05'00'",
+                        "creationdate": "D:20151029182244-04'00'",
+                        "creator": "PScript5.dll Version 5.2.2",
+                        "producer": "Acrobat Distiller 11.0 (Windows)",
+                        "title": "Papua New Guinea: Selected Issues; IMF Country Report No. 15/319; October 15, 2015"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "Oct 21, 2021 ... Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, ... Papua New Guinea\u00a0...",
+            "htmlSnippet": "Oct 21, 2021 <b>...</b> Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 covers government attitude and definition, <b>cryptocurrency regulation</b>, ... <b>Papua New Guinea</b>&nbsp;...",
+            "cacheId": "r9voBECz-nwJ",
+            "formattedUrl": "https://www.globallegalinsights.com/.../blockchain-laws-and-regulations",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/.../blockchain-<b>laws</b>-and-<b>regulations</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "\u00a3 350.00",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSEXypzfKs7vsrQHQttOcTeIAqC3ci_4aH1FB3vfFjqi1S8iM2lYN3hcRu",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "Blockchain & Cryptocurrency Regulation 2022 covers government attitude and definition, cryptocurrency regulation, sales regulation, taxation, money",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//uploads/publications/socialmedia/hxBjYBH5vbnSz2uZ7lD4BJOoz8DOZhVsVluYhkUo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "with a less restrictive regulatory stance on cryptocurrency, whereas financial ... be necessary before opening up to new forms of financial technology.",
+            "htmlSnippet": "with a less restrictive <b>regulatory</b> stance on <b>cryptocurrency</b>, whereas financial ... be necessary before opening up to <b>new</b> forms of financial technology.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain imperialism in the Pacific - Olivier Jutel, 2021",
+            "htmlTitle": "Blockchain imperialism in the Pacific - Olivier Jutel, 2021",
+            "link": "https://journals.sagepub.com/doi/full/10.1177/2053951720985249",
+            "displayLink": "journals.sagepub.com",
+            "snippet": "Feb 18, 2021 ... From the radical subculture of cryptocurrencies, blockchain ... The agreement also 'obligate[s]' the government of PNG to 'promote and\u00a0...",
+            "htmlSnippet": "Feb 18, 2021 <b>...</b> From the radical subculture of <b>cryptocurrencies</b>, blockchain ... The agreement also &#39;obligate[s]&#39; the government of <b>PNG</b> to &#39;promote and&nbsp;...",
+            "formattedUrl": "https://journals.sagepub.com/doi/full/10.1177/2053951720985249",
+            "htmlFormattedUrl": "https://journals.sagepub.com/doi/full/10.1177/2053951720985249",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8DiWUOSsP6JHRe-WC5WyoPcbKtUCxTW-ccV9kZFce-ZFaJR1L-2-FEVm",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "SAGE PublicationsSage UK: London, England",
+                        "og:image": "https://journals.sagepub.com/pb-assets/cover-alt/bds-cover-social-1565280399650.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "600",
+                        "og:site_name": "SAGE Journals",
+                        "citation_journal_title": "Big Data & Society",
+                        "dc.format": "text/HTML",
+                        "dc.rights": "\u00a9 The Author(s) 2021",
+                        "og:description": "The rise of blockchain as a techno-solution in the development sector underscores the critical imbalances of data power under \u2018computational capitalism\u2019 (Beller...",
+                        "twitter:image": "https://journals.sagepub.com/pb-assets/cover-alt/bds-cover-social-1565280399650.jpg",
+                        "dc.type": "research-article",
+                        "dc.source": "https://doi.org/10.1177/2053951720985249",
+                        "dc.creator": "Olivier  Jutel",
+                        "dc.description": "The rise of blockchain as a techno-solution in the development sector underscores the critical imbalances of data power under \u2018computational capitalism\u2019 (Beller, 2018). This article will consider t...",
+                        "og:type": "article",
+                        "pbcontext": ";wgroup:string:SAGE Publication Websites;page:string:Article/Chapter View;ctype:string:Journal Content;journal:journal:bdsa;website:website:sage;article:article:10.1177/2053951720985249;requestedJournal:journal:bdsa;issue:issue:10.1177/BDSA_8_1;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                        "dc.coverage": "Sage UK: London, England",
+                        "og:title": "Blockchain imperialism in the Pacific - Olivier Jutel, 2021",
+                        "og:image:height": "314",
+                        "dc.date": "2021-02-18",
+                        "article:published_time - datetime": "February 18, 2021",
+                        "article:author": "Olivier Jutel",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "dc.title": "Blockchain imperialism in the Pacific:",
+                        "og:locale": "en_US",
+                        "dc.subject": "Blockchain; platform imperialism; computational capitalism; Information Communication Technologies for Development; cyber-libertarianism; Fiji; Vanuatu",
+                        "dc.identifier": "10.1177/2053951720985249",
+                        "dc.language": "en",
+                        "og:url": "https://journals.sagepub.com/doi/full/10.1177/2053951720985249"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://journals.sagepub.com/pb-assets/cover-alt/bds-cover-social-1565280399650.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

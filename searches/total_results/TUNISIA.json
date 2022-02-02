@@ -1,0 +1,528 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - TUNISIA",
+                "totalResults": "680000",
+                "searchTerms": "TUNISIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - TUNISIA",
+                "totalResults": "680000",
+                "searchTerms": "TUNISIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.424218,
+        "formattedSearchTime": "0.42",
+        "totalResults": "680000",
+        "formattedTotalResults": "680,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Tunisian Finance Minister Says Bitcoin Ownership Should Be ...",
+            "htmlTitle": "<b>Tunisian</b> Finance Minister Says Bitcoin Ownership Should Be ...",
+            "link": "https://www.coindesk.com/policy/2021/06/14/tunisian-finance-minister-says-bitcoin-ownership-should-be-decriminalized/",
+            "displayLink": "www.coindesk.com",
+            "snippet": "Jun 14, 2021 ... The proposed law change comes after local media reported that a 17-year-old Tunisian boy was arrested in April for using cryptocurrency for\u00a0...",
+            "htmlSnippet": "Jun 14, 2021 <b>...</b> The proposed <b>law</b> change comes after local media reported that a 17-year-old <b>Tunisian</b> boy was arrested in April for using <b>cryptocurrency</b> for&nbsp;...",
+            "cacheId": "6DNtDva4ZXIJ",
+            "formattedUrl": "https://www.coindesk.com/.../tunisian-finance-minister-says-bitcoin- ownership-should-be-decriminalized/",
+            "htmlFormattedUrl": "https://www.coindesk.com/.../<b>tunisian</b>-finance-minister-says-bitcoin- ownership-should-be-decriminalized/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaRyDZ-kdjHxG3nYsuGvgOvU1m_kgd7_OgZXNw5Tn18pTMxB3zhCa15Xfk",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.coindesk.com/resizer/oacsAZi3wKe9IB7q3iiylCSMEEA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H5IDW4U2VNGI3GPVARVEH67JAQ.jpg",
+                        "og:image:width": "1200",
+                        "article:published_time": "2021-06-14T23:01:33Z",
+                        "twitter:card": "summary_large_image",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "The arrest of a local teenager has prompted the country to rethink its crypto policy.",
+                        "twitter:creator": "@coindesk",
+                        "article:publisher": "https://www.facebook.com/coindesk",
+                        "twitter:image": "https://www.coindesk.com/resizer/8f8MACyMoec5xBXGDjIMKTDK9CE=/1200x600/center/top/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H5IDW4U2VNGI3GPVARVEH67JAQ.jpg",
+                        "twitter:image:alt": "Tunisia, Tunisian central bank",
+                        "twitter:site": "@coindesk",
+                        "article:modified_time": "2021-06-14T23:01:33Z",
+                        "twitter:account_id": "1418565129",
+                        "og:image:alt": "Tunisia, Tunisian central bank",
+                        "og:type": "article",
+                        "article:section": "Policy",
+                        "twitter:title": "Tunisian Finance Minister Says Bitcoin Ownership Should Be Decriminalized",
+                        "og:title": "Tunisian Finance Minister Says Bitcoin Ownership Should Be Decriminalized",
+                        "og:image:height": "628",
+                        "article:author": "Cheyenne Ligon",
+                        "article:tag": "Tunisia, Regulations",
+                        "fb:app_id": "243125406422041",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The arrest of a local teenager has prompted the country to rethink its crypto policy.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.coindesk.com/policy/2021/06/14/tunisian-finance-minister-says-bitcoin-ownership-should-be-decriminalized/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.coindesk.com/resizer/oacsAZi3wKe9IB7q3iiylCSMEEA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H5IDW4U2VNGI3GPVARVEH67JAQ.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tunisia increases capacity to investigate money laundering through ...",
+            "htmlTitle": "<b>Tunisia</b> increases capacity to investigate money laundering through ...",
+            "link": "https://baselgovernance.org/news/tunisia-increases-capacity-investigate-money-laundering-through-cryptocurrencies",
+            "displayLink": "baselgovernance.org",
+            "snippet": "Oct 29, 2020 ... Cryptocurrency on mobile phone and laptop. ... (Tunisia's Financial Intelligence Unit) and other relevant law enforcement authorities to\u00a0...",
+            "htmlSnippet": "Oct 29, 2020 <b>...</b> <b>Cryptocurrency</b> on mobile phone and laptop. ... (<b>Tunisia&#39;s</b> Financial Intelligence Unit) and other relevant <b>law</b> enforcement authorities to&nbsp;...",
+            "cacheId": "60KbgWmqhxkJ",
+            "formattedUrl": "https://baselgovernance.org/.../tunisia-increases-capacity-investigate-money- laundering-through-cryptocurrencies",
+            "htmlFormattedUrl": "https://baselgovernance.org/.../<b>tunisia</b>-increases-capacity-investigate-money- laundering-through-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bmo6Fj_Oehb7FOzRUyXwHHOeSQhos9uA2dezr4yqbSeR7J2haI6KO8s",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://baselgovernance.org/sites/default/files/2020-10/cryptocurrencywallet.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Tunisia increases capacity to investigate money laundering through cryptocurrencies",
+                        "og:site_name": "Basel Institute on Governance",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://baselgovernance.org/news/tunisia-increases-capacity-investigate-money-laundering-through-cryptocurrencies",
+                        "og:title": "Tunisia increases capacity to investigate money laundering through cryptocurrencies",
+                        "og:description": "Officials from Tunisia\u2019s Financial Analysis Commission (TFAC), National Guard, and Customs and Economic Brigade are the latest to have undertaken our intensive training programme on cryptocurrency and money laundering.",
+                        "twitter:image": "https://baselgovernance.org/sites/default/files/styles/large/public/2020-10/cryptocurrencywallet.jpg?itok=G1EZTwRG",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "twitter:description": "Officials from Tunisia\u2019s Financial Analysis Commission (TFAC), National Guard, and Customs and Economic Brigade are the latest to have undertaken our intensive training programme on cryptocurrency and money laundering.",
+                        "mobileoptimized": "width",
+                        "og:url": "https://baselgovernance.org/news/tunisia-increases-capacity-investigate-money-laundering-through-cryptocurrencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://baselgovernance.org/sites/default/files/2020-10/cryptocurrencywallet.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tunisian Finance Minister Says Bitcoin Ownership Should Be ...",
+            "htmlTitle": "<b>Tunisian</b> Finance Minister Says Bitcoin Ownership Should Be ...",
+            "link": "https://www.yahoo.com/now/tunisian-finance-minister-says-bitcoin-230133828.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Jun 14, 2021 ... The proposed law change comes after local media reported that a 17-year-old Tunisian boy was arrested in April for using cryptocurrency for\u00a0...",
+            "htmlSnippet": "Jun 14, 2021 <b>...</b> The proposed <b>law</b> change comes after local media reported that a 17-year-old <b>Tunisian</b> boy was arrested in April for using <b>cryptocurrency</b> for&nbsp;...",
+            "cacheId": "iIjYXh0HdA8J",
+            "formattedUrl": "https://www.yahoo.com/.../tunisian-finance-minister-says-bitcoin-230133828. html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>tunisian</b>-finance-minister-says-bitcoin-230133828. html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6rACiu3ekcE9BqlkfQQXzGLRGb3ACKVFSGyJ6TuErRYL4dZoAhabcP8Y",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/009f4e7e-f26a-3244-8232-8b89c11cbcc7",
+                        "og:image": "https://s.yimg.com/ny/api/res/1.2/2bWYl7AS3n2EgFIuQ5gxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/CktLpr2deljxaruUJaY0Bg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/771fe1058ebbdaf85ad73c4f640f507d",
+                        "twitter:title": "Tunisian Finance Minister Says Bitcoin Ownership Should Be Decriminalized",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Tunisian Finance Minister Says Bitcoin Ownership Should Be Decriminalized",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "800",
+                        "og:description": "The arrest of a local teenager has prompted the country to rethink its crypto policy.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/ny/api/res/1.2/2bWYl7AS3n2EgFIuQ5gxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/CktLpr2deljxaruUJaY0Bg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/771fe1058ebbdaf85ad73c4f640f507d",
+                        "twitter:image:src": "https://s.yimg.com/ny/api/res/1.2/2bWYl7AS3n2EgFIuQ5gxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/CktLpr2deljxaruUJaY0Bg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/771fe1058ebbdaf85ad73c4f640f507d",
+                        "al:android:url": "yfinance://article/009f4e7e-f26a-3244-8232-8b89c11cbcc7",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "Minister of Finance, Tunisia, English translation, crypto community, cryptocurrency, crypto conference, Tunisian publication, contradictory statements",
+                        "twitter:description": "The arrest of a local teenager has prompted the country to rethink its crypto policy.",
+                        "og:url": "https://finance.yahoo.com/news/tunisian-finance-minister-says-bitcoin-230133828.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/ny/api/res/1.2/2bWYl7AS3n2EgFIuQ5gxZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/CktLpr2deljxaruUJaY0Bg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/coindesk_75/771fe1058ebbdaf85ad73c4f640f507d"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto is fully banned in China and 8 other countries | Fortune",
+            "htmlTitle": "Crypto is fully banned in China and 8 other countries | Fortune",
+            "link": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "displayLink": "fortune.com",
+            "snippet": "Jan 4, 2022 ... ... Tunisia, Bangladesh, and China have all banned cryptocurrency. ... and said he wants to impose more regulation on digital currencies.",
+            "htmlSnippet": "Jan 4, 2022 <b>...</b> ... <b>Tunisia</b>, Bangladesh, and China have all banned <b>cryptocurrency</b>. ... and said he wants to impose more <b>regulation</b> on digital currencies.",
+            "cacheId": "lfbgE8feDlAJ",
+            "formattedUrl": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "htmlFormattedUrl": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzcZxQQf1qHKsCP5GFgbFDoRX8r7zOQfiPFPSjZU8p7YTjO2999hUgWag",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffc40d",
+                        "og:image": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto is fully banned in China and 8 other countries",
+                        "og:site_name": "Fortune",
+                        "twitter:url": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+                        "og:title": "Crypto is fully banned in China and 8 other countries",
+                        "og:description": "Nine countries have banned digital currencies outright in recent years, but dozens more have banned it implicitly.",
+                        "og:height": "683",
+                        "twitter:image": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Nine countries have banned digital currencies outright in recent years, but dozens more have banned it implicitly.",
+                        "og:url": "https://fortune.com/2022/01/04/crypto-banned-china-other-countries/",
+                        "og:width": "1024"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-866097534-e1641315398906.jpg?resize=1200,600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Tunisia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Tunisia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/tunisia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Tunisia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Tunisia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "2H-iFRKf-HkJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/tunisia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>tunisia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Tunisia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Tunisia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Tunisia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Tunisia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/tunisia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual Currencies: International Actions and Regulations Last ...",
+            "htmlTitle": "Virtual Currencies: International Actions and <b>Regulations</b> Last ...",
+            "link": "https://www.perkinscoie.com/images/content/2/4/v3/240289/Digital-Currencies-International-Actions-and-Regulations-01.pdf",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "Jan 8, 2021 ... potential regulation and the evolution of cryptocurrency ... Tunisia has been reported to be replacing its self-created.",
+            "htmlSnippet": "Jan 8, 2021 <b>...</b> potential <b>regulation</b> and the evolution of <b>cryptocurrency</b> ... <b>Tunisia</b> has been reported to be replacing its self-created.",
+            "formattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- Regulations-01.pdf",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- <b>Regulations</b>-01.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRGjDfiK4rk6PbxB0UhfoHbEIP-3sKF2gwFy1zNOvzKNYrBUX5_BSuBHY",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210114203613-07'00'",
+                        "creator": "Microsoft\u00ae Word for Office 365",
+                        "creationdate": "D:20210114203613-07'00'",
+                        "author": "No Name",
+                        "producer": "Microsoft\u00ae Word for Office 365"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///2edbfab5a530449e69b02007c199a2cb2e4ea5d80351d50241d0f3d95ddefc3b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tunisian Minister Says He Plans to 'Decriminalize' the Buying of ...",
+            "htmlTitle": "<b>Tunisian</b> Minister Says He Plans to &#39;Decriminalize&#39; the Buying of ...",
+            "link": "https://news.bitcoin.com/tunisian-minister-says-he-plans-to-decriminalize-buying-of-bitcoin/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Jun 16, 2021 ... This by way of running afoul of the country's unclear cryptocurrency regulation. He said in a recent TV interview: I will change the law,\u00a0...",
+            "htmlSnippet": "Jun 16, 2021 <b>...</b> This by way of running afoul of the country&#39;s unclear <b>cryptocurrency regulation</b>. He said in a recent TV interview: I will change the <b>law</b>,&nbsp;...",
+            "cacheId": "tAHBG7xc7Y8J",
+            "formattedUrl": "https://news.bitcoin.com/tunisian-minister-says-he-plans-to-decriminalize- buying-of-bitcoin/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>tunisian</b>-minister-says-he-plans-to-decriminalize- buying-of-bitcoin/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTdXxxRj1D4vrDDbIWDic2jfD5tOjQLYKEhWrNMUub5D8OX638VMaee4",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1665555709.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-06-16T11:00:26+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Tunisian Minister Says He Plans to 'Decriminalize' the Buying of Bitcoin \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "As per remarks attributed to Ali Kooli, Tunisia's Economy Minister, the North African state could soon decriminalize the buying of bitcoin.",
+                        "twitter:creator": "@https://twitter.com/tem2ra",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Terence Zimwara",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-06-16T10:32:55+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/tunisian-minister-says-he-plans-to-decriminalize-buying-of-bitcoin/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Tunisian Minister Says He Plans to 'Decriminalize' the Buying of Bitcoin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1665555709.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "Tunisia's eDinar is a government-issued digital currency. Senegal is in the process of creating eCFA, which, if successful, could be emulated by other\u00a0...",
+            "htmlSnippet": "<b>Tunisia&#39;s</b> eDinar is a government-issued digital currency. Senegal is in the process of creating eCFA, which, if successful, could be emulated by other&nbsp;...",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain in Tunisia: From Experimentations to a Challenging ...",
+            "htmlTitle": "Blockchain in <b>Tunisia</b>: From Experimentations to a Challenging ...",
+            "link": "https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201703/Documents/S3_2.%20ITU-BlockchainWS-21032017.pdf",
+            "displayLink": "www.itu.int",
+            "snippet": "Mar 21, 2017 ... or a virtual wallet that aren't under the Tunisian financial regulation. \u2724 Cryptocurrency is not official authorized to be introduced or\u00a0...",
+            "htmlSnippet": "Mar 21, 2017 <b>...</b> or a virtual wallet that aren&#39;t under the <b>Tunisian</b> financial <b>regulation</b>. \u2724 <b>Cryptocurrency</b> is not official authorized to be introduced or&nbsp;...",
+            "cacheId": "4PnFOe6iyRMJ",
+            "formattedUrl": "https://www.itu.int/en/ITU.../S3_2.%20ITU-BlockchainWS-21032017.pdf",
+            "htmlFormattedUrl": "https://www.itu.int/en/ITU.../S3_2.%20ITU-BlockchainWS-21032017.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-X1071dJXWw9Nfs5KF3h04-g9SbBLqWM5t58W7VS0Yh1u9VLSCNH1U6y3",
+                        "width": "198",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20170321083412Z00'00'",
+                        "creator": "Keynote",
+                        "creationdate": "D:20170321083412Z00'00'",
+                        "producer": "Mac OS X 10.12.3 Quartz PDFContext",
+                        "title": "ITU-BlockchainWS-21032017"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///1253deefa087cb260e731d6ae13883d91c670649c63152c2d361b9ebfc324348"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies and Political Finance",
+            "htmlTitle": "<b>Cryptocurrencies</b> and Political Finance",
+            "link": "https://www.idea.int/sites/default/files/publications/cryptocurrrencies-and-political-finance.pdf",
+            "displayLink": "www.idea.int",
+            "snippet": "Regulation of cryptocurrencies is mixed, and sometimes contradictory ... Tunisia (Stockholm and The Hague: International IDEA and NIMD, 2017),.",
+            "htmlSnippet": "<b>Regulation of cryptocurrencies</b> is mixed, and sometimes contradictory ... <b>Tunisia</b> (Stockholm and The Hague: International IDEA and NIMD, 2017),.",
+            "cacheId": "Dtd_99MEIhgJ",
+            "formattedUrl": "https://www.idea.int/sites/.../cryptocurrrencies-and-political-finance.pdf",
+            "htmlFormattedUrl": "https://www.idea.int/sites/.../cryptocurrrencies-and-political-finance.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNhafxCQ1MU7A4eHFkmAsHL6D3o1fKvxuWbZkIQIpjmRr8poDAMo97Pok",
+                        "width": "227",
+                        "height": "223"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190319134357Z",
+                        "creator": "RealObjects PDFreactor(R) 9.1.9797.4, Serial No: 4063, Licensed for: Booktype GmbH",
+                        "creationdate": "D:20190319134357Z",
+                        "subject": "Political Finance",
+                        "author": "Catalina Uribe Burcher",
+                        "producer": "RealObjects PDFreactor(R) 9.1.9797.4, Serial No: 4063, Licensed for: Booktype GmbH",
+                        "title": "Cryptocurrencies and Political Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///0ed0f2fc3d83f196d744e4209f3ca4530c50127c42aaefc31fa0959d031d8acf"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        }
+    ]
+}

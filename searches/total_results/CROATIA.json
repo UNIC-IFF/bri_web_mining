@@ -1,0 +1,552 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CROATIA",
+                "totalResults": "745000",
+                "searchTerms": "CROATIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CROATIA",
+                "totalResults": "745000",
+                "searchTerms": "CROATIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.445852,
+        "formattedSearchTime": "0.45",
+        "totalResults": "745000",
+        "formattedTotalResults": "745,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Croatia and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Croatia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/croatia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Despite being mostly unregulated, Croatia does regulate cryptocurrencies through its anti-money laundering regulations. ... One prominent example is Coinbase. Due\u00a0...",
+            "htmlSnippet": "Despite being mostly unregulated, <b>Croatia</b> does <b>regulate cryptocurrencies</b> through its anti-money laundering <b>regulations</b>. ... One prominent example is Coinbase. Due&nbsp;...",
+            "cacheId": "ZIxZqU8nU5sJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/croatia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>croatia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT98Ao9xcvmbpYQHWqk34ujNPbgMyo70ehW88_elp509f9aTRKxT3AAqYo",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Croatia-Cryptocurrency-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:29:42+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/croatia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Croatia? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2022/01/Croatia-Cryptocurrency-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2022/01/Croatia-Cryptocurrency-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:19:34+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/digital-currency-transmission-laws-state-by-state/",
+                        "og:type": "article",
+                        "og:image:alt": "Croatia cryptocurrency",
+                        "twitter:title": "Croatia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Croatia and Cryptocurrency",
+                        "og:image:height": "1707",
+                        "og:updated_time": "2022-01-09T18:19:34+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Croatia and Cryptocurrency Croatia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In Croatia, virtual currencies are defined as \u201ca digital representation of value that is not issued or guaranteed by a central bank or a public authority, is...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/croatia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2022/01/Croatia-Cryptocurrency-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency License in Croatia | Law&Trust International",
+            "htmlTitle": "<b>Cryptocurrency</b> License in <b>Croatia</b> | Law&amp;Trust International",
+            "link": "https://lawstrust.com/en/licence/finance/crypto-license/hr",
+            "displayLink": "lawstrust.com",
+            "snippet": "Getting a license for cryptocurrency exchange in Croatia is impossible. This is a serious error of the state ,in which cryptocurrency is not regulated. However,\u00a0...",
+            "htmlSnippet": "Getting a license for <b>cryptocurrency</b> exchange in <b>Croatia</b> is impossible. This is a serious error of the state ,in which <b>cryptocurrency</b> is not <b>regulated</b>. However,&nbsp;...",
+            "cacheId": "hJa5JuGYPr8J",
+            "formattedUrl": "https://lawstrust.com/en/licence/finance/crypto-license/hr",
+            "htmlFormattedUrl": "https://<b>laws</b>trust.com/en/licence/finance/crypto-license/hr",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5bwq2zIQD1frmQk9_M-Rbs3Y68K29LBvo7ColD-wdnOK-Ou1Armkq4Bj_",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    },
+                    {
+                        "title": "Licensing",
+                        "url": "Licensing"
+                    },
+                    {
+                        "title": "Financial licenses",
+                        "url": "Financial licenses"
+                    },
+                    {
+                        "title": "Cryptocurrency License in Croatia"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Law&Trust International"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Moscow",
+                        "telephone": "+7 (499) 403 11 13",
+                        "email": "info@lawstrust.com"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://lawstrust.com/field_image",
+                        "og:type": "website",
+                        "og:phone_number": "+7 (499) 403 11 13",
+                        "og:locale:alternate": "ru_UA",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:email": "info@lawstrust.com",
+                        "rights": "Law&Trust International",
+                        "og:title": "Cryptocurrency License in Croatia",
+                        "og:locale": "en",
+                        "og:url": "https://lawstrust.com/en/licence/finance/crypto-license/hr",
+                        "og:fax_number": "+7 (499) 403 11 13"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lawstrust.com/sites/default/files/styles/landing_body_552px_379px/adaptive-image/public/a2113b823f710442b8278c18feca05d5_xl-950x534.jpg?itok=p-zNjri7"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual Currencies: International Actions and Regulations Last ...",
+            "htmlTitle": "Virtual Currencies: International Actions and <b>Regulations</b> Last ...",
+            "link": "https://www.perkinscoie.com/images/content/2/4/v3/240289/Digital-Currencies-International-Actions-and-Regulations-01.pdf",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "Jan 8, 2021 ... potential regulation and the evolution of cryptocurrency ... Croatia joined the European Blockchain Partnership (EBP),.",
+            "htmlSnippet": "Jan 8, 2021 <b>...</b> potential <b>regulation</b> and the evolution of <b>cryptocurrency</b> ... <b>Croatia</b> joined the European Blockchain Partnership (EBP),.",
+            "formattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- Regulations-01.pdf",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../Digital-Currencies-International-Actions-and- <b>Regulations</b>-01.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRGjDfiK4rk6PbxB0UhfoHbEIP-3sKF2gwFy1zNOvzKNYrBUX5_BSuBHY",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210114203613-07'00'",
+                        "creator": "Microsoft\u00ae Word for Office 365",
+                        "creationdate": "D:20210114203613-07'00'",
+                        "author": "No Name",
+                        "producer": "Microsoft\u00ae Word for Office 365"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///2edbfab5a530449e69b02007c199a2cb2e4ea5d80351d50241d0f3d95ddefc3b"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Steps towards Self-Regulation in Croatia and Slovenia \u2013 Bitcoin News",
+            "htmlTitle": "Steps towards Self-<b>Regulation</b> in <b>Croatia</b> and Slovenia \u2013 Bitcoin News",
+            "link": "https://news.bitcoin.com/steps-towards-self-regulation-croatia-slovenia/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Feb 18, 2018 ... During a discussion on digital currencies back in 2013 the Croatian National Bank reportedly stated that bitcoin was not illegal in the country.",
+            "htmlSnippet": "Feb 18, 2018 <b>...</b> During a discussion on digital currencies back in 2013 the <b>Croatian</b> National Bank reportedly stated that bitcoin was not illegal in the country.",
+            "cacheId": "tEwCz-s1nBQJ",
+            "formattedUrl": "https://news.bitcoin.com/steps-towards-self-regulation-croatia-slovenia/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/steps-towards-self-<b>regulation</b>-<b>croatia</b>-slovenia/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLwq2aT-Q7VuhXtxTIp5XHGy4r4B8Mz0ti5QYEhlwfIUKp3aNwIx5xkwc",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_215903350_1600.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2018-02-18T06:55:05+00:00",
+                        "og:image:width": "1600",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Steps towards Self-Regulation in Croatia and Slovenia \u2013 Bitcoin News",
+                        "og:image:height": "1600",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Crypto association in Croatia will lay the foundations of self-regulation in the industry. In Slovenia, companies will \u201ceducate the public\u201d on blockchain.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "3 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2018-02-17T23:43:52+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/steps-towards-self-regulation-croatia-slovenia/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Steps towards Self-Regulation in Croatia and Slovenia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_215903350_1600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Croatia | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Croatia</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/croatia",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Croatia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Croatia</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "2WUum6pZDT0J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/croatia",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>croatia</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Croatia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Croatia | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Croatia for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Croatia | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/croatia"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CRIPTO CURRENCY TAXATION IN CROATIA - IR Global",
+            "htmlTitle": "CRIPTO CURRENCY TAXATION IN <b>CROATIA</b> - IR Global",
+            "link": "https://www.irglobal.com/article/cripto-currency-taxation-in-croatia/",
+            "displayLink": "www.irglobal.com",
+            "snippet": "Sep 17, 2018 ... From a legal point of view, in Croatia crypto currencies are not regulated nor prescribed by any law. Taking this into account, Croatian Tax\u00a0...",
+            "htmlSnippet": "Sep 17, 2018 <b>...</b> From a legal point of view, in <b>Croatia</b> crypto currencies are not <b>regulated</b> nor prescribed by any law. Taking this into account, <b>Croatian</b> Tax&nbsp;...",
+            "cacheId": "uc8RfGBx_RYJ",
+            "formattedUrl": "https://www.irglobal.com/article/cripto-currency-taxation-in-croatia/",
+            "htmlFormattedUrl": "https://www.irglobal.com/article/cripto-currency-taxation-in-<b>croatia</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "article:published_time": "2018-09-17T00:00:00+00:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "IR Global",
+                        "og:title": "CRIPTO CURRENCY TAXATION IN CROATIA",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "msapplication-tileimage": "https://www.irglobal.com/wp-content/uploads/2020/10/cropped-favicon-270x270.png",
+                        "og:description": "Virtual currencies keep expanding all over the world, and Croatia is not the exception. A Bitcoin store has opened in Croatia (Split) in order to sell",
+                        "twitter:data1": "Kevin",
+                        "twitter:data2": "2 minutes",
+                        "article:modified_time": "2020-08-28T21:32:55+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.irglobal.com/article/cripto-currency-taxation-in-croatia/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Croatia Launches Self-Regulating Blockchain Organization Amidst ...",
+            "htmlTitle": "<b>Croatia</b> Launches Self-Regulating Blockchain Organization Amidst ...",
+            "link": "https://cointelegraph.com/news/croatia-launches-self-regulating-blockchain-organization-amidst-growing-worldwide-trend",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Feb 18, 2018 ... Croatia's Blockchain and Cryptocurrency Association (UBIK), is a self-regulatory organization registered Feb. 13 with the goal of creating a\u00a0...",
+            "htmlSnippet": "Feb 18, 2018 <b>...</b> <b>Croatia&#39;s</b> Blockchain and <b>Cryptocurrency</b> Association (UBIK), is a self-<b>regulatory</b> organization registered Feb. 13 with the goal of creating a&nbsp;...",
+            "formattedUrl": "https://cointelegraph.com/.../croatia-launches-self-regulating-blockchain- organization-amidst-growing-worldwide-trend",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>croatia</b>-launches-self-regulating-blockchain- organization-amidst-growing-worldwide-trend",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsOUzuBcjdQ86olFCXoL0w9XpDTmIFvb_0lEb1C-On8CuCd8T9DExE0SMP",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OTVhMjdjODgyZWZiNjgzYzliMmFkZjkyN2U1NzBhYS5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Croatia Launches Self-Regulating Blockchain Organization Amidst Growing Worldwide Trend",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Croatia Launches Self-Regulating Blockchain Organization Amidst Growing Worldwide Trend",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The newly launched Blockchain and Cryptocurrency Association in Croatia will focus on building a positive environment for Blockchain startups in the country.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OTVhMjdjODgyZWZiNjgzYzliMmFkZjkyN2U1NzBhYS5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The newly launched Blockchain and Cryptocurrency Association in Croatia will focus on building a positive environment for Blockchain startups in the country.",
+                        "og:url": "https://cointelegraph.com/news/croatia-launches-self-regulating-blockchain-organization-amidst-growing-worldwide-trend"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OTVhMjdjODgyZWZiNjgzYzliMmFkZjkyN2U1NzBhYS5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Taxes on cryptocurrencies like Bitcoin in Croatia?",
+            "htmlTitle": "Taxes on <b>cryptocurrencies</b> like Bitcoin in <b>Croatia</b>?",
+            "link": "https://blockpit.io/en/blog/crypto-taxation-regulations-croatia/",
+            "displayLink": "blockpit.io",
+            "snippet": "Aug 10, 2020 ... According to the European Court of Justice (ECJ), the trading of cryptocurrencies in Croatia is considered a financial transaction and the\u00a0...",
+            "htmlSnippet": "Aug 10, 2020 <b>...</b> According to the European Court of Justice (ECJ), the trading of <b>cryptocurrencies</b> in <b>Croatia</b> is considered a financial transaction and the&nbsp;...",
+            "cacheId": "cxuHVrGCNQ8J",
+            "formattedUrl": "https://blockpit.io/en/blog/crypto-taxation-regulations-croatia/",
+            "htmlFormattedUrl": "https://blockpit.io/en/blog/crypto-taxation-<b>regulations</b>-<b>croatia</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://blockpit.b-cdn.net/wp-content/uploads/2021/10/blockpit-twitter.jpg",
+                        "og:type": "article",
+                        "article:section": "Tax and Regulations",
+                        "og:image:width": "1600",
+                        "og:image:alt": "Taxes on cryptocurrencies like Bitcoin in Croatia?",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Taxes on cryptocurrencies like Bitcoin in Croatia?",
+                        "og:site_name": "Blockpit",
+                        "og:title": "Taxes on cryptocurrencies like Bitcoin in Croatia?",
+                        "og:image:height": "900",
+                        "og:image:type": "image/jpeg",
+                        "og:updated_time": "2021-10-10T19:22:04+02:00",
+                        "msapplication-tileimage": "https://blockpit.b-cdn.net/wp-content/uploads/2021/10/blockpit-favicon-300x300.png",
+                        "og:description": "Countries & their crypto law Croatia: Learn more about the taxation, fiscal crypto regulations & legal treatment of cryptocurrencies like Bitcoin in Croatia",
+                        "og:image:secure_url": "https://blockpit.b-cdn.net/wp-content/uploads/2021/10/blockpit-twitter.jpg",
+                        "twitter:image": "https://blockpit.b-cdn.net/wp-content/uploads/2021/10/blockpit-twitter.jpg",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Countries & their crypto law Croatia: Learn more about the taxation, fiscal crypto regulations & legal treatment of cryptocurrencies like Bitcoin in Croatia",
+                        "og:locale": "en_US",
+                        "og:url": "https://blockpit.io/en/blog/crypto-taxation-regulations-croatia/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Taxation: How to take a step forward | Inter ...",
+            "htmlTitle": "<b>Cryptocurrency</b> Taxation: How to take a step forward | Inter ...",
+            "link": "https://www.ciat.org/cryptocurrency-taxation-how-to-take-a-step-forward/?lang=en",
+            "displayLink": "www.ciat.org",
+            "snippet": "Jul 27, 2020 ... According to the ECJ judgment, crypto currencies trading in Croatia is considered a financial transaction, and the income generated by the sale\u00a0...",
+            "htmlSnippet": "Jul 27, 2020 <b>...</b> According to the ECJ judgment, crypto currencies trading in <b>Croatia</b> is considered a financial transaction, and the income generated by the sale&nbsp;...",
+            "cacheId": "utvuAbhKPq8J",
+            "formattedUrl": "https://www.ciat.org/cryptocurrency-taxation-how-to-take-a-step-forward/?...",
+            "htmlFormattedUrl": "https://www.ciat.org/<b>cryptocurrency</b>-taxation-how-to-take-a-step-forward/?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbjJ2cFBfKZk4kNRDq4KKfQS5eKIb29GiUkr9bi6D9VtgKCaWT7hk_Cn0K",
+                        "width": "301",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ciat.org/wp-content/uploads/2020/07/cryptocurrency-tax.png",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "Cryptocurrency Taxation: How to take a step forward",
+                        "twitter:url": "https://www.ciat.org/cryptocurrency-taxation-how-to-take-a-step-forward/?lang=en",
+                        "og:title": "Cryptocurrency Taxation: How to take a step forward",
+                        "msapplication-tileimage": "https://www.ciat.org/wp-content/uploads/2016/02/logoCIAT_ESP-300x300.png",
+                        "og:description": "I INTRODUCTION\r\n\r\nIn the age of digital evolution, tax administrations must keep pace with the challenges posed by new business models and new technologies. A special challenge is the growing emergenc",
+                        "twitter:creator": "CIAT",
+                        "twitter:image": "https://www.ciat.org/wp-content/uploads/2020/07/cryptocurrency-tax.png",
+                        "fb:app_id": "171342606239806",
+                        "twitter:site": "https://www.ciat.org/",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "I INTRODUCTION\r\n\r\nIn the age of digital evolution, tax administrations must keep pace with the challenges posed by new business models and new technologies. A special challenge is the growing emergenc",
+                        "og:url": "https://www.ciat.org/cryptocurrency-taxation-how-to-take-a-step-forward/?lang=en"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ciat.org/wp-content/uploads/2020/07/cryptocurrency-tax.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Book/Printed Material Regulation of cryptocurrency around the world ... Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark,\u00a0...",
+            "htmlSnippet": "Book/Printed Material <b>Regulation of cryptocurrency</b> around the world ... <b>Croatia</b>, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        }
+    ]
+}

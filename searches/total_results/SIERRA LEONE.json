@@ -1,0 +1,542 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SIERRA LEONE",
+                "totalResults": "479000",
+                "searchTerms": "SIERRA LEONE",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SIERRA LEONE",
+                "totalResults": "479000",
+                "searchTerms": "SIERRA LEONE",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.649399,
+        "formattedSearchTime": "0.65",
+        "totalResults": "479000",
+        "formattedTotalResults": "479,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Sierra Leone ...",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Sierra Leone</b> ...",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/sierra-leone",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Sierra Leone for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Sierra Leone</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "b6fZB_-BlU8J",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/sierra-leone",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>sierra</b>-<b>leone</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Sierra Leone for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Sierra Leone | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Sierra Leone for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Sierra Leone | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/sierra-leone"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain and Cryptocurrency in Africa",
+            "htmlTitle": "Blockchain and <b>Cryptocurrency</b> in Africa",
+            "link": "https://www.bakermckenzie.com/-/media/files/insight/publications/2019/02/report_blockchainandcryptocurrencyreg_feb2019.pdf",
+            "displayLink": "www.bakermckenzie.com",
+            "snippet": "A comparative summary of the reception and regulation of Blockchain ... In October 2017, the President of Sierra Leone announced his intentions to establish\u00a0...",
+            "htmlSnippet": "A comparative summary of the reception and <b>regulation</b> of Blockchain ... In October 2017, the President of <b>Sierra Leone</b> announced his intentions to establish&nbsp;...",
+            "cacheId": "Bv7ANp1XBxgJ",
+            "formattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainandcryptocurrencyreg_feb2019.pdf",
+            "htmlFormattedUrl": "https://www.bakermckenzie.com/-/.../report_ blockchainand<b>cryptocurrency</b>reg_feb2019.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPatkYE3j2I_QjylPp93vGnc88cdw-iXYNWNLn5kuwYH4Sx8jUuKSq8V1c",
+                        "width": "231",
+                        "height": "219"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190110151227+02'00'",
+                        "creationdate": "D:20181210193521+08'00'",
+                        "creator": "Adobe InDesign CC 13.0 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9497767dbf4dc92777f619f00f16e46719c38fb6bfd5c1a737cb5eae10b01dca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "In Sierra Leone, new Kiva Protocol uses blockchain to benefit ...",
+            "htmlTitle": "In <b>Sierra Leone</b>, new Kiva Protocol uses blockchain to benefit ...",
+            "link": "https://www.devex.com/news/in-sierra-leone-new-kiva-protocol-uses-blockchain-to-benefit-unbanked-95490",
+            "displayLink": "www.devex.com",
+            "snippet": "Aug 21, 2019 ... As Sierra Leone launches its new national digital identity platform, ... control over their credit information, and access to digital\u00a0...",
+            "htmlSnippet": "Aug 21, 2019 <b>...</b> As <b>Sierra Leone</b> launches its new national digital identity platform, ... <b>control</b> over their credit information, and access to digital&nbsp;...",
+            "cacheId": "cRA1u3yl5K0J",
+            "formattedUrl": "https://www.devex.com/.../in-sierra-leone-new-kiva-protocol-uses-blockchain -to-benefit-unbanked-95490",
+            "htmlFormattedUrl": "https://www.devex.com/.../in-<b>sierra</b>-<b>leone</b>-new-kiva-protocol-uses-blockchain -to-benefit-unbanked-95490",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9rNqp7rQLEuIehCkZcLkJg3mcglPwUvsyH5W8F2t3l9CBn91-MEslmTU",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#2d89ef",
+                        "og:image": "https://res.cloudinary.com/devex/image/fetch/https://lh4.googleusercontent.com/IflOxl52vS30VIKrucDZsOtd2Pb7K902zu3QXsbBpZFnXtzaqfLWVoXVFo87aioadatsLv7HHjipgjS-WJ_6I624vKiWL7BJolj24kRmNyxMkYXxeQWSlntBixW_qUSXC99BQ2xj",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2019-08-21T11:24:37+00:00",
+                        "og:site_name": "Devex",
+                        "og:title": "In Sierra Leone, new Kiva Protocol uses blockchain to benefit unbanked",
+                        "csrf-param": "authenticity_token",
+                        "fb:pages": "193394557345243",
+                        "og:description": "As Sierra Leone launches its new national digital identity platform, proponents say the platform will provide citizens with formal identity, control over their credit information, and access to digital financial services.",
+                        "twitter:creator": "catherinecheney",
+                        "article:author": "https://www.devex.com/news/authors/1115812",
+                        "twitter:site": "@Devex",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "csrf-token": "SYYVvhG8XWn6Ua/VUZwq8Sj2Tbet4oWL2qYgDEfLT97nMSoQs6IH7UpPfiTPgAQra6QQuEXGOBT/ONrZ6/VJIw==",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.devex.com/news/sponsored/in-sierra-leone-new-kiva-protocol-uses-blockchain-to-benefit-unbanked-95490"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://res.cloudinary.com/devex/image/fetch/https://lh4.googleusercontent.com/IflOxl52vS30VIKrucDZsOtd2Pb7K902zu3QXsbBpZFnXtzaqfLWVoXVFo87aioadatsLv7HHjipgjS-WJ_6I624vKiWL7BJolj24kRmNyxMkYXxeQWSlntBixW_qUSXC99BQ2xj"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Despite risks, cryptocurrency presents an exciting opportunity in Africa",
+            "htmlTitle": "Despite risks, <b>cryptocurrency</b> presents an exciting opportunity in Africa",
+            "link": "https://globalriskinsights.com/2018/06/cryptocurrency-opportunity-africa/",
+            "displayLink": "globalriskinsights.com",
+            "snippet": "Jun 14, 2018 ... ... cryptocurrency market include the establishment of regulatory sandboxes in regions such as Sierra Leone to promote Fintech innovation;\u00a0...",
+            "htmlSnippet": "Jun 14, 2018 <b>...</b> ... <b>cryptocurrency</b> market include the establishment of <b>regulatory</b> sandboxes in regions such as <b>Sierra Leone</b> to promote Fintech innovation;&nbsp;...",
+            "cacheId": "s9_R5axaQ4YJ",
+            "formattedUrl": "https://globalriskinsights.com/2018/06/cryptocurrency-opportunity-africa/",
+            "htmlFormattedUrl": "https://globalriskinsights.com/2018/06/<b>cryptocurrency</b>-opportunity-africa/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Kwadwo A. Boateng is a Ghanaian graduate student at the Walsh School of Foreign Service at Georgetown University who grew up in Johannesburg. He holds an Honors Degree in History, from Trinity..."
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMn08fDsyixNIw5rwWfRGP34NCqoPi8wYFnpw2OLBPNvlNQJzo_DZLETzP",
+                        "width": "306",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://i0.wp.com/globalriskinsights.com/wp-content/uploads/2018/06/Africa-crypto.png?fit=800%2C431&ssl=1",
+                        "og:type": "article",
+                        "article:section": "Economics",
+                        "article:published_time": "2018-06-14T00:51:26+01:00",
+                        "og:image:width": "800",
+                        "og:image:alt": "africa cryptocurrency",
+                        "og:site_name": "Global Risk Insights",
+                        "og:title": "Despite risks, cryptocurrency presents exciting opportunity in Africa | GRI",
+                        "og:image:height": "431",
+                        "og:updated_time": "2018-06-14T10:29:17+01:00",
+                        "og:description": "As more states in Africa come to accept cryptocurrency in a technology-first approach to digitizing and diversifying their markets, these markets could exploit cryptocurrency opportunities.",
+                        "article:publisher": "https://www.facebook.com/GlobalRiskInsights",
+                        "og:image:secure_url": "https://i0.wp.com/globalriskinsights.com/wp-content/uploads/2018/06/Africa-crypto.png?fit=800%2C431&ssl=1",
+                        "article:tag": "Africa",
+                        "article:modified_time": "2018-06-14T10:29:17+01:00",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://globalriskinsights.com/2018/06/cryptocurrency-opportunity-africa/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i0.wp.com/globalriskinsights.com/wp-content/uploads/2018/06/Africa-crypto.png?fit=800%2C431&ssl=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Navigating Cryptocurrency Regulation: An Industry Perspective on ...",
+            "htmlTitle": "Navigating <b>Cryptocurrency Regulation</b>: An Industry Perspective on ...",
+            "link": "https://www3.weforum.org/docs/WEF_Navigating_Cryptocurrency_Regulation_2021.pdf",
+            "displayLink": "www3.weforum.org",
+            "snippet": "Well-designed cryptocurrency regulations have been ... (Diia), United Arab Emirates (UAE PASS) and Sierra. Leone (NDIP and eKYC).32.",
+            "htmlSnippet": "Well-designed <b>cryptocurrency regulations</b> have been ... (Diia), United Arab Emirates (UAE PASS) and <b>Sierra</b>. <b>Leone</b> (NDIP and eKYC).32.",
+            "cacheId": "Y43phoyiBnoJ",
+            "formattedUrl": "https://www3.weforum.org/.../WEF_Navigating_Cryptocurrency_Regulation _2021.pdf",
+            "htmlFormattedUrl": "https://www3.weforum.org/.../WEF_Navigating_<b>Cryptocurrency</b>_<b>Regulation</b> _2021.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdNR-zEmbpAwa5wKs1uzuUMeS1hn4in0mhQS4pTSYlBak82FAyi9R_l1S",
+                        "width": "225",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210831172928+02'00'",
+                        "creationdate": "D:20210831094927+01'00'",
+                        "creator": "Adobe InDesign 16.1 (Windows)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9ac42b3c04eb6e103c9c4efdef51ad0b0d17c69b6716de523ca4c828c0b7ceca"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: Why Nigeria is a global leader in Bitcoin trade ...",
+            "link": "https://www.bbc.com/news/world-africa-56169917",
+            "displayLink": "www.bbc.com",
+            "snippet": "Feb 28, 2021 ... More cryptocurrency trading goes on in Nigeria than almost anywhere ... more hospitable environments such as Ghana, Rwanda and Sierra Leone.",
+            "htmlSnippet": "Feb 28, 2021 <b>...</b> More <b>cryptocurrency</b> trading goes on in Nigeria than almost anywhere ... more hospitable environments such as Ghana, Rwanda and <b>Sierra Leone</b>.",
+            "cacheId": "LfYAnXPamM4J",
+            "formattedUrl": "https://www.bbc.com/news/world-africa-56169917",
+            "htmlFormattedUrl": "https://www.bbc.com/news/world-africa-56169917",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzCjN4xHVfCudDTK3m4PbM30CIx7hpurdCi6nLv22q-vqr7i3MuOucss",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg",
+                        "theme-color": "#FFFFFF",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "BBC News",
+                        "cleartype": "on",
+                        "msapplication-tileimage": "BBC News",
+                        "og:description": "A devaluing currency and hard economic conditions make cryptocurrencies attractive despite the risks.",
+                        "twitter:creator": "@BBCWorld",
+                        "twitter:image:alt": "Bitcoin has jumped above $17,000 (\u00a312,800) to hit a three-year high.",
+                        "twitter:site": "@BBCWorld",
+                        "fb:admins": "100004154058350",
+                        "application-name": "BBC News",
+                        "msapplication-tilecolor": "#bb1919",
+                        "og:image:alt": "Bitcoin has jumped above $17,000 (\u00a312,800) to hit a three-year high.",
+                        "og:type": "article",
+                        "article:section": "Africa",
+                        "twitter:title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade",
+                        "twitter:domain": "www.bbc.com",
+                        "og:title": "Cryptocurrencies: Why Nigeria is a global leader in Bitcoin trade",
+                        "fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+                        "article:author": "https://www.facebook.com/bbcnews",
+                        "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg",
+                        "fb:app_id": "1609039196070050",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A devaluing currency and hard economic conditions make cryptocurrencies attractive despite the risks.",
+                        "og:locale": "en_GB",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.bbc.com/news/world-africa-56169917"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_115542059_bitcoin.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency regulation in Africa",
+            "htmlTitle": "<b>Cryptocurrency regulation</b> in Africa",
+            "link": "https://cdn.crowdfundinsider.com/wp-content/uploads/2018/08/Middle-Africa-Briefing-EcoBank-Note-Digital-African-crypto-regulation-August-2018.pdf",
+            "displayLink": "cdn.crowdfundinsider.com",
+            "snippet": "Aug 1, 2018 ... on cryptocurrencies. 3. Sierra Leone. \u2022 Though the Bank Of Sierra Leone, Sierra Leone's central bank, has yet to make an official\u00a0...",
+            "htmlSnippet": "Aug 1, 2018 <b>...</b> on <b>cryptocurrencies</b>. 3. <b>Sierra Leone</b>. \u2022 Though the Bank Of <b>Sierra Leone</b>, <b>Sierra Leone&#39;s</b> central bank, has yet to make an official&nbsp;...",
+            "cacheId": "zv1YSzIEdBwJ",
+            "formattedUrl": "https://cdn.crowdfundinsider.com/.../Middle-Africa-Briefing-EcoBank-Note- Digital-African-crypto-regulation-August-2018.pdf",
+            "htmlFormattedUrl": "https://cdn.crowdfundinsider.com/.../Middle-Africa-Briefing-EcoBank-Note- Digital-African-crypto-<b>regulation</b>-August-2018.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoC1Kwr4ww9Zpp9j_c1BxjzCKiKhRw9KuE-_lWI-nH5o1BVx8_hX_8lIE",
+                        "width": "225",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20180801143124+03'00'",
+                        "creationdate": "D:20180801121853+01'00'",
+                        "creator": "Microsoft\u00ae Word 2013",
+                        "author": "adownie",
+                        "producer": "Microsoft\u00ae Word 2013"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e83835603851726ee355a5f7fcca919d7a86762a796a0ce2753c2e8b283595fa"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Terrorist Use of Cryptocurrencies: Technical and Organizational ...",
+            "htmlTitle": "Terrorist Use of <b>Cryptocurrencies</b>: Technical and Organizational ...",
+            "link": "https://www.rand.org/pubs/research_reports/RR3026.html",
+            "displayLink": "www.rand.org",
+            "snippet": "Regulation and oversight of cryptocurrencies, along with international cooperation between law enforcement and the intelligence community,\u00a0...",
+            "htmlSnippet": "<b>Regulation</b> and oversight of <b>cryptocurrencies</b>, along with international cooperation between law enforcement and the intelligence community,&nbsp;...",
+            "cacheId": "CZaAiGMpmlkJ",
+            "formattedUrl": "https://www.rand.org/pubs/research_reports/RR3026.html",
+            "htmlFormattedUrl": "https://www.rand.org/pubs/research_reports/RR3026.html",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "RAND Corporation"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQTXZ1nn8ELlPVlcxkAXoVgfeNftQ3VhuauM9i536m__pVMW9qeqjcLMg9",
+                        "width": "260",
+                        "height": "194"
+                    }
+                ],
+                "person": [
+                    {
+                        "location": "Santa Monica California"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "RAND Corporation",
+                        "og:image": "https://wwwassets.rand.org/content/rand/pubs/research_reports/RR3026/jcr:content/par/teaser.aspectfit.0x1200.jpg/1553799934001.jpg",
+                        "twitter:card": "summary_large_image",
+                        "rand-teaser-description": "Counterterrorism finance strategies have reduced terrorist access to official currencies. Will terrorist groups therefore increase their use of digital cryptocurrencies? New ones have emerged, including some that claim to be more private and secure than Bitcoin, but they also have limitations that make them less viable.",
+                        "rand-published-date": "20190327",
+                        "rand-content-type": "report",
+                        "og:description": "Counterterrorism finance strategies have reduced terrorist access to official currencies. Will terrorist groups therefore increase their use of digital cryptocurrencies? New ones have emerged, including some that claim to be more private and secure than Bitcoin, but they also have limitations that make them less viable.",
+                        "twitter:image": "https://wwwassets.rand.org/content/rand/pubs/research_reports/RR3026/_jcr_content/par/teaser.aspectcrop.600x317.ct.jpg/1553799934001.jpg",
+                        "rand-teaser-image": "/content/rand/pubs/research_reports/RR3026/jcr:content/par/teaser.aspectfit.0x120.jpg/1553799934001.jpg",
+                        "rand-date": "20190327",
+                        "division": "RAND National Security Research Division",
+                        "twitter:site": "@RANDCorporation",
+                        "dc.type": "Product Page",
+                        "dc.creator": "Dion-Schwarz, Cynthia",
+                        "content-type": "text/html; charset=UTF-8",
+                        "rand-content-category": "research",
+                        "rand-teaser-image-alt": "Mock Bitcoins are displayed in Berlin, January 7, 2014, photo by Pawel Kopczynski/Reuters",
+                        "title-terms": "Terrorist Use of Cryptocurrencies Technical and Organizational Barriers Future Threats",
+                        "rand-teaser-title": "Terrorist Use of Cryptocurrencies",
+                        "twitter:title": "Terrorist Use of Cryptocurrencies",
+                        "rand-teaser-type": "rand",
+                        "og:title": "Terrorist Use of Cryptocurrencies",
+                        "rand-teaser-date": "20190327",
+                        "citation_author": "Dion-Schwarz, Cynthia",
+                        "dc.date": "2019",
+                        "dc.contributor": "Dion-Schwarz, Cynthia",
+                        "rand-domains": "{\"rand\":\"www.rand.org\",\"prgs\":\"www.prgs.edu\",\"assets\":\"wwwassets.rand.org\"}",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Counterterrorism finance strategies have reduced terrorist access to official currencies. Will terrorist groups therefore increase their use of digital cryptocurrencies? New ones have emerged, including some that claim to be more private and secure than Bitcoin, but they also have limitations that make them less viable.",
+                        "dc.title": "Terrorist Use of Cryptocurrencies: Technical and Organizational Barriers and Future Threats",
+                        "dc.subject": "Cybercrime",
+                        "rand-tag": "Cybercrime",
+                        "og:url": "https://www.rand.org/pubs/research_reports/RR3026.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://wwwassets.rand.org/content/rand/pubs/research_reports/RR3026/jcr:content/par/teaser.aspectfit.0x1200.jpg/1553799934001.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Five trailblazing DFS and FinTech regulatory trends not to miss in ...",
+            "htmlTitle": "Five trailblazing DFS and FinTech <b>regulatory</b> trends not to miss in ...",
+            "link": "https://www.afi-global.org/newsroom/blogs/five-trailblazing-dfs-and-fintech-regulatory-trends-not-to-miss-in-2018/",
+            "displayLink": "www.afi-global.org",
+            "snippet": "Jan 10, 2018 ... ... such as Indonesia, Malaysia, Fiji and Sierra Leone have introduced the sandbox. ... Regulations on cryptocurrencies and crypto-exchanges.",
+            "htmlSnippet": "Jan 10, 2018 <b>...</b> ... such as Indonesia, Malaysia, Fiji and <b>Sierra Leone</b> have introduced the sandbox. ... <b>Regulations</b> on <b>cryptocurrencies</b> and crypto-exchanges.",
+            "cacheId": "RotDw_QQXcEJ",
+            "formattedUrl": "https://www.afi-global.org/.../five-trailblazing-dfs-and-fintech-regulatory- trends-not-to-miss-in-2018/",
+            "htmlFormattedUrl": "https://www.afi-global.org/.../five-trailblazing-dfs-and-fintech-<b>regulatory</b>- trends-not-to-miss-in-2018/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyCjAf2iMMiq-3QHdpI3yKTuGe3XuUhI8-mOxJi45BGvNI1VyAu6XHyEA",
+                        "width": "257",
+                        "height": "196"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.afi-global.org/wp-content/uploads/banners/blog/2018-01/iStock-487828511.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "2560",
+                        "og:site_name": "Five trailblazing DFS and FinTech regulatory trends not to miss in 2018",
+                        "handheldfriendly": "true",
+                        "og:title": "Five trailblazing DFS and FinTech regulatory trends not to miss in 2018",
+                        "og:image:height": "808",
+                        "og:description": "An increasing number of regulators and policymakers are already embracing technology to achieve financial inclusion \u2014 strengthening the core mandate towards f",
+                        "image_src": "https://www.afi-global.org/wp-content/uploads/banners/blog/2018-01/iStock-487828511.jpg",
+                        "twitter:image": "https://www.afi-global.org/wp-content/uploads/banners/blog/2018-01/iStock-487828511.jpg",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.afi-global.org/newsroom/blogs/five-trailblazing-dfs-and-fintech-regulatory-trends-not-to-miss-in-2018/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.afi-global.org/wp-content/uploads/banners/blog/2018-01/iStock-487828511.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Banks and Cryptocurrencies Global Evaluation: Africa",
+            "htmlTitle": "Banks and <b>Cryptocurrencies</b> Global Evaluation: Africa",
+            "link": "https://cointelegraph.com/news/banks-and-cryptocurrencies-global-evaluation-africa",
+            "displayLink": "cointelegraph.com",
+            "snippet": "May 10, 2018 ... The following assessment of cryptocurrency regulation in Africa is a ... Media hype centered around the possibility that Sierra Leone used\u00a0...",
+            "htmlSnippet": "May 10, 2018 <b>...</b> The following assessment of <b>cryptocurrency regulation</b> in Africa is a ... Media hype centered around the possibility that <b>Sierra Leone</b> used&nbsp;...",
+            "formattedUrl": "https://cointelegraph.com/.../banks-and-cryptocurrencies-global-evaluation- africa",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../banks-and-<b>cryptocurrencies</b>-global-evaluation- africa",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfOPWJ0TPgpEY7ICfvwZNwVJIAHsoPU28NBHlqiRNMinRknLHYiRvAJ4X",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84N2NlMTY0OTUxZDJiOGUyYTI0NWUzZWNkNmJkOTU2MC5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Banks and Cryptocurrencies Global Evaluation: Africa",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Banks and Cryptocurrencies Global Evaluation: Africa",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Bitcoin and blockchain tech are ripe for mainstream adoption in Africa, where the population is well positioned to embrace the innovative technologies.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84N2NlMTY0OTUxZDJiOGUyYTI0NWUzZWNkNmJkOTU2MC5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Bitcoin and blockchain tech are ripe for mainstream adoption in Africa, where the population is well positioned to embrace the innovative technologies.",
+                        "og:url": "https://cointelegraph.com/news/banks-and-cryptocurrencies-global-evaluation-africa"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84N2NlMTY0OTUxZDJiOGUyYTI0NWUzZWNkNmJkOTU2MC5qcGc=.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

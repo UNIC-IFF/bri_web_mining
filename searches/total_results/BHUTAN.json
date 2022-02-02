@@ -1,0 +1,622 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - BHUTAN",
+                "totalResults": "425000",
+                "searchTerms": "BHUTAN",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - BHUTAN",
+                "totalResults": "425000",
+                "searchTerms": "BHUTAN",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.442384,
+        "formattedSearchTime": "0.44",
+        "totalResults": "425000",
+        "formattedTotalResults": "425,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations: Institutions and Financial Openness",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness",
+            "link": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "displayLink": "www.adb.org",
+            "snippet": "Cryptocurrency Regulations: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "htmlSnippet": "<b>Cryptocurrency Regulations</b>: Institutions and Financial Openness. ADBI Working Paper 978. Tokyo: Asian Development Bank Institute.",
+            "cacheId": "sWh_sQWhLuQJ",
+            "formattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "htmlFormattedUrl": "https://www.adb.org/sites/default/files/publication/513726/adbi-wp978.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSha3GvjViYPp-EDcZBVk4JY_-EkDQ1yCWri3UYG3DEko3bUlWm2oG7GxQC",
+                        "width": "305",
+                        "height": "165"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190719082954+08'00'",
+                        "creationdate": "D:20190719082813+08'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20190719002804",
+                        "author": "Jacinta Bernadette Rico Shirakawa and Upalat Korwatanasakul",
+                        "subject": "We assess how effective governance institutions and de jure financial openness influence the attitude of policy makers in pursuing further financial development by allowing the use of cryptocurrency. In other words, we examine the relationships between (a) de jure openness to cryptocurrency and institutional strength, and (b) de jure openness to cryptocurrency and de jure capital openness. Our main method of estimation is a cross-sectional ordered probit model using institutional and macroeconomic data drawn from several sources, including the Chinn-Ito index, the World Bank\u2019s Worldwide Governance Indicators, and the World Bank\u2019s World Development Indicators, among others, over the period 2010\u20122018. To measure the de jure openness to cryptocurrency, we compose an index of 218 economies by using the current legal and regulatory status of cryptocurrency compiled in 2018. Our results show that effective governance institutions are associated with a less restrictive regulatory stance on cryptocurrency, wher",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "Asian Development Bank",
+                        "title": "Cryptocurrency Regulations: Institutions and Financial Openness"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///437c1b73066082f580d55bfe1370e2a90529219a81e872088b0dc90a90ce8f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased exponentially. ... Financing of Terrorism Act of Bhutan.",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased exponentially. ... Financing of Terrorism Act of <b>Bhutan</b>.",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Book/Printed Material Regulation of cryptocurrency around the world ... Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia,\u00a0...",
+            "htmlSnippet": "Book/Printed Material <b>Regulation of cryptocurrency</b> around the world ... Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, <b>Bhutan</b>, Bolivia,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bhutan's Crypto Ngultrum Launch Gets the Blockchain Right ...",
+            "htmlTitle": "<b>Bhutan&#39;s</b> Crypto Ngultrum Launch Gets the Blockchain Right ...",
+            "link": "https://www.bloomberg.com/opinion/articles/2021-09-28/bhutan-s-crypto-ngultrum-launch-gets-the-blockchain-right",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Sep 28, 2021 ... Unlike El Salvador, Bhutan is doing the whole blockchain thing right. ... The largest cryptocurrencies are broadly shrugging off China's\u00a0...",
+            "htmlSnippet": "Sep 28, 2021 <b>...</b> Unlike El Salvador, <b>Bhutan</b> is doing the whole blockchain thing right. ... The largest <b>cryptocurrencies</b> are broadly shrugging off China&#39;s&nbsp;...",
+            "cacheId": "I0-VCMNH-ncJ",
+            "formattedUrl": "https://www.bloomberg.com/.../bhutan-s-crypto-ngultrum-launch-gets-the- blockchain-right",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>bhutan</b>-s-crypto-ngultrum-launch-gets-the- blockchain-right",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLYe56Zrchn2WIMzEtJzjdgWZETbxIr4H40V6-M-gzXpc6qaDVfdyeHxE",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRMXxxf8D2us/v1/1200x798.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Cryptocurrency,Bhutan,Blockchain,El Salvador,Federal Reserve,Germany,Jay Powell,Bitcoin,Food,Currency,view",
+                        "lotame-bbg-topic": "policy,banking,blockchain,cryptocurrency,monetary-policy,government,central-bankers,fixed-income",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Jessica Karl",
+                        "og:description": "Unlike El Salvador, Bhutan is doing the whole blockchain thing right.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRMXxxf8D2us/v1/1200x798.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@bopinion",
+                        "parsely-link": "https://www.bloomberg.com/opinion/articles/2021-09-28/bhutan-s-crypto-ngultrum-launch-gets-the-blockchain-right",
+                        "iso-8601-publish-date": "2021-09-28T20:43:39.925Z",
+                        "sailthru.title": "This Tiny Nation Is on a Fast Track to a Crypto Revolution",
+                        "checksum": "ff6a073cb7bf659d5835aea925a21ca2",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRMXxxf8D2us/v1/1200x798.jpg",
+                        "parsely-section": "view",
+                        "article:content_tier": "metered",
+                        "fb:status": "Bhutan is going paperless the right way.",
+                        "sailthru.date": "2021-09-28T20:43:39.925Z",
+                        "og:type": "article",
+                        "twitter:title": "This Tiny Nation Is on a Fast Track to a Crypto Revolution",
+                        "parsely-post-id": "R05W8RT1UM1201",
+                        "og:title": "This Tiny Nation Is on a Fast Track to a Crypto Revolution",
+                        "parsely-title": "Bhutan's Crypto Ngultrum Launch Gets the Blockchain Right",
+                        "parsely-pub-date": "2021-09-28T20:43:39.925Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/opinion/articles/2021-09-28/bhutan-s-crypto-ngultrum-launch-gets-the-blockchain-right?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "markets,finance,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Cryptocurrency,Bhutan,Blockchain,El Salvador,Federal Reserve,Germany,Jay Powell,Bitcoin,Food,Currency,Secondary Brand: view,Region: Global,Page: article",
+                        "sailthru.description": "Unlike El Salvador, Bhutan is doing the whole blockchain thing right.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "Unlike El Salvador, Bhutan is doing the whole blockchain thing right.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/opinion/articles/2021-09-28/bhutan-s-crypto-ngultrum-launch-gets-the-blockchain-right",
+                        "validatedat": "2022-01-24T13:23:35.078Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Jessica Karl",
+                        "article:opinion": "true"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRMXxxf8D2us/v1/1200x798.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bhutan to pilot digital currency with Ripple tech",
+            "htmlTitle": "<b>Bhutan</b> to pilot digital currency with Ripple tech",
+            "link": "https://www.finextra.com/newsarticle/38893/bhutan-to-pilot-digital-currency-with-ripple-tech",
+            "displayLink": "www.finextra.com",
+            "snippet": "Sep 23, 2021 ... /cryptocurrency. News and resources on digital currencies, crypto assets and crypto exchanges worldwide.",
+            "htmlSnippet": "Sep 23, 2021 <b>...</b> /<b>cryptocurrency</b>. News and resources on digital currencies, crypto assets and crypto exchanges worldwide.",
+            "cacheId": "5EjdUDx2_asJ",
+            "formattedUrl": "https://www.finextra.com/.../bhutan-to-pilot-digital-currency-with-ripple-tech",
+            "htmlFormattedUrl": "https://www.finextra.com/.../<b>bhutan</b>-to-pilot-digital-currency-with-ripple-tech",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxAIb46QiL-SzeGXv4Hd-TXeYv4mqp3SIavAw9wvyuKhFsLDV-3EwesZ4Q",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.finextra.com/finextra-images/top_pics/xl/ripple-2.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-23T11:52:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Bhutan to pilot digital currency with Ripple tech",
+                        "og:site_name": "Finextra Research",
+                        "msvalidate.01": "E3C577580AA2C01DCA56EB6ADC99C096",
+                        "author": "Finextra",
+                        "og:title": "Bhutan to pilot digital currency with Ripple tech",
+                        "yandex-verification": "2729e345bc4c5778",
+                        "og:updated_time": "2021-09-23T12:03:53",
+                        "twitter:creator": "@finextra",
+                        "og:description": "The central bank of Bhutan is to use Ripple's CBDC Private Ledger to pilot a central bank digital currency.",
+                        "twitter:image": "https://www.finextra.com/about/finextra-logo.png",
+                        "article:publisher": "https://www.facebook.com/Finextra-152506594761939/",
+                        "twitter:site": "@finextra",
+                        "viewport": "width=device-width, user-scalable=no, initial-scale=1",
+                        "twitter:description": "The central bank of Bhutan is to use Ripple&#39;s CBDC Private Ledger to pilot a central bank digital currency.",
+                        "og:url": "https://www.finextra.com/newsarticle/38893/bhutan-to-pilot-digital-currency-with-ripple-tech"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.finextra.com/finextra-images/top_pics/xl/ripple-2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies: developing countries provide fertile ground ...",
+            "htmlTitle": "<b>Cryptocurrencies</b>: developing countries provide fertile ground ...",
+            "link": "https://www.ft.com/content/1ea829ed-5dde-4f6e-be11-99392bdc0788",
+            "displayLink": "www.ft.com",
+            "snippet": "Sep 4, 2021 ... Hashdex Asset Management has launched three regulated crypto ETFs on the S\u00e3o Paulo stock exchange this year, which together have over 160,000\u00a0...",
+            "htmlSnippet": "Sep 4, 2021 <b>...</b> Hashdex Asset Management has launched three <b>regulated</b> crypto ETFs on the S\u00e3o Paulo stock exchange this year, which together have over 160,000&nbsp;...",
+            "formattedUrl": "https://www.ft.com/content/1ea829ed-5dde-4f6e-be11-99392bdc0788",
+            "htmlFormattedUrl": "https://www.ft.com/content/1ea829ed-5dde-4f6e-be11-99392bdc0788",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9YwCkglabVOQJ4Kg3Za61bkd0oEWtMhO_V4q5HpwSgIiuGEdQCbRUk-1d",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61f5f0e1-d9c8-499d-9dad-1e71d18ac5fa.jpg?source=next-opengraph&fit=scale-down&width=900",
+                        "apple-itunes-app": "app-id=1200842933, app-argument=https://www.ft.com/content/1ea829ed-5dde-4f6e-be11-99392bdc0788",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-05T04:00:44.554Z",
+                        "og:title": "Cryptocurrencies: developing countries provide fertile ground",
+                        "fb:pages": "8860325749",
+                        "og:description": "Sometimes dismissed as a fad in advanced economies, crypto holds more appeal in countries with a history of financial instability",
+                        "article:author": "Adrienne Klasa",
+                        "twitter:site": "@FinancialTimes",
+                        "article:modified_time": "2021-09-05T04:00:44.554Z",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.ft.com/content/1ea829ed-5dde-4f6e-be11-99392bdc0788"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61f5f0e1-d9c8-499d-9dad-1e71d18ac5fa.jpg?source=next-opengraph&fit=scale-down&width=900"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Regulations in US & Abroad",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Regulations</b> in US &amp; Abroad",
+            "link": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+            "displayLink": "www.businessinsider.com",
+            "snippet": "Jan 27, 2021 ... How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "htmlSnippet": "Jan 27, 2021 <b>...</b> How the <b>laws</b> &amp; <b>regulations</b> affecting blockchain technology and <b>cryptocurrencies</b>, like Bitcoin, can impact its adoption. Insider Intelligence.",
+            "cacheId": "Mvo5XQTizbcJ",
+            "formattedUrl": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us- global",
+            "htmlFormattedUrl": "https://www.businessinsider.com/blockchain-<b>cryptocurrency</b>-<b>regulations</b>-us- global",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0SsBztfFwqsWxHy5W3WHKbdkxx1gx1y5qYCEP69RFVI0cKCbiKHnV7E",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2021-01-27",
+                        "og:image": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg",
+                        "apple-itunes-app": "app-id=554260576",
+                        "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2021-08",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "sailthru.tags": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "og:site_name": "Business Insider",
+                        "apple-mobile-web-app-title": "Business Insider",
+                        "title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "og:description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "article:publisher": "businessinsider",
+                        "twitter:site": "@clusterstock",
+                        "news_keywords": "BI Intelligence, BI Intelligence Content Marketing, Banking, BII Markets Insider, Insider Intelligence, Blockchain Market Research, Insider Intelligence",
+                        "sailthru.title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "article:content_tier": "free",
+                        "lastmod": "2021-03-02T21:21:33Z",
+                        "pubdate": "2021-01-27T20:36:11Z",
+                        "sailthru.verticals": "clusterstock, research",
+                        "sailthru.date": "2021-01-27",
+                        "og:type": "article",
+                        "cxenseparse:recs:bii-imgalt": "Global Finance Execs' View Of Blockchain Challenges",
+                        "author": "Insider Intelligence",
+                        "tbi-vertical": "Finance",
+                        "og:title": "How the laws & regulations affecting blockchain technology and cryptocurrencies, like Bitcoin, can impact its adoption",
+                        "ia:markup_url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global?fbia",
+                        "sailthru.image.thumb": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=160&format=jpeg",
+                        "fb:pages": "20446254070",
+                        "sailthru.description": "The rise of a new technology is often followed by a rise in regulations. See how current and future regulations could affect blockchain technology, bitcoin, and other cryptocurrencies.",
+                        "linkedin:owner": "mid:1d5f7b",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.businessinsider.com/blockchain-cryptocurrency-regulations-us-global",
+                        "sailthru.author": "Insider Intelligence",
+                        "sailthru.image.full": "https://i.insider.com/5d9b4a7fa4107d3101518940?width=1200&format=jpeg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.insider.com/5e5e8ce0fee23d23572e1c06?width=1200&format=jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Business Benefit of Using Cryptocurrency | Deloitte US",
+            "htmlTitle": "The Business Benefit of Using <b>Cryptocurrency</b> | Deloitte US",
+            "link": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html",
+            "displayLink": "www2.deloitte.com",
+            "snippet": "Helping strengthen control over the capital of the enterprise; Managing the risks and opportunities of engaging in digital investments. Crypto may serve as an\u00a0...",
+            "htmlSnippet": "Helping strengthen <b>control</b> over the capital of the enterprise; Managing the risks and opportunities of engaging in digital investments. Crypto may serve as an&nbsp;...",
+            "cacheId": "N1JfjUG3OhwJ",
+            "formattedUrl": "https://www2.deloitte.com/us/en/pages/audit/.../corporates-using-crypto.html",
+            "htmlFormattedUrl": "https://www2.deloitte.com/us/en/pages/audit/.../corporates-using-crypto.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "msapplication-config": "/content/dam/resources/deloitte/browserconfig.xml",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "The Business Benefit of Using Cryptocurrency",
+                        "thumbnail": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "og:site_name": "Deloitte United States",
+                        "twitter:url": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html",
+                        "og:title": "The Business Benefit of Using Cryptocurrency",
+                        "og:description": "An increasing number of companies worldwide are using digital assets for a host of investment, operational, and transactional purposes. Explore considerations for using cryptocurrency in business.",
+                        "twitter:image": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "fb:app_id": "391573044299401",
+                        "twitter:site": "@DeloitteUS",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "An increasing number of companies worldwide are using digital assets for a host of investment, operational, and transactional purposes. Explore considerations for using cryptocurrency in business.",
+                        "og:url": "https://www2.deloitte.com/us/en/pages/audit/articles/corporates-using-crypto.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-circle-promo/us-corporates-using-crypto-p.jpg",
+                        "width": "225",
+                        "type": "1",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Mining from an Economic and Environmental ...",
+            "htmlTitle": "<b>Cryptocurrency</b> Mining from an Economic and Environmental ...",
+            "link": "https://www.mdpi.com/1996-1073/14/14/4254/pdf",
+            "displayLink": "www.mdpi.com",
+            "snippet": "Jul 14, 2021 ... Thus, the authors [24] advocate that \u201ca site regulation policy that induces changes in the energy consumption structure of mining activities is\u00a0...",
+            "htmlSnippet": "Jul 14, 2021 <b>...</b> Thus, the authors [24] advocate that \u201ca site <b>regulation</b> policy that induces changes in the energy consumption structure of mining activities is&nbsp;...",
+            "cacheId": "owg-InGRAq4J",
+            "formattedUrl": "https://www.mdpi.com/1996-1073/14/14/4254/pdf",
+            "htmlFormattedUrl": "https://www.mdpi.com/1996-1073/14/14/4254/pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapK7qSbB6pg9lHi6fUfNFKV4B4TiWA64ApIg9glFbdaZncUOeqvblYQ8",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210715102242+02'00'",
+                        "creationdate": "D:20210715152953+08'00'",
+                        "creator": "LaTeX with hyperref",
+                        "author": "Sergio Luis N\u00e1\u00f1ez Alonso, Javier Jorge-V\u00e1zquez, Miguel \u00c1ngel Echarte Fern\u00e1ndez and Ricardo Francisco Reier Forradellas",
+                        "subject": "There are different studies that point out that the price of electricity is a fundamental factor that will influence the mining decision, due to the cost it represents. There is also an ongoing debate about the pollution generated by cryptocurrency mining, and whether or not the use of renewable energies will solve the problem of its sustainability. In our study, starting from the Environmental Performance Index (EPI), we have considered several determinants of cryptocurrency mining: energy price, how that energy is generated, temperature, legal constraints, human capital, and R&D&I. From this, via linear regression, we recalculated this EPI by including the above factors that affect cryptocurrency mining in a sustainable way. The study determines, once the EPI has been readjusted, that the most sustainable countries to perform cryptocurrency mining are Denmark and Germany. In fact, of the top ten countries eight of them are European (Denmark, Germany, Sweden, Switzerland, Finland, Austria, and the United Kin",
+                        "producer": "pdfTeX-1.40.21",
+                        "title": "Cryptocurrency Mining from an Economic and Environmental Perspective. Analysis of the Most and Least Sustainable Countries"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///81b4c9dc531eec9cfd527d476b36c8c68ab89eaf66040c6c0ee6c1c8db43f10f"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China's Latest Crackdown on Bitcoin, Other Cryptocurrencies ...",
+            "htmlTitle": "China&#39;s Latest Crackdown on Bitcoin, Other <b>Cryptocurrencies</b> ...",
+            "link": "https://www.wsj.com/articles/chinas-latest-crackdown-on-bitcoin-other-cryptocurrencies-shakes-market-11621853002",
+            "displayLink": "www.wsj.com",
+            "snippet": "May 24, 2021 ... China's efforts to restrain cryptocurrency trading and mining are ... to be in regulatory compliance in the jurisdictions in which they\u00a0...",
+            "htmlSnippet": "May 24, 2021 <b>...</b> China&#39;s efforts to restrain <b>cryptocurrency</b> trading and mining are ... to be in <b>regulatory</b> compliance in the jurisdictions in which they&nbsp;...",
+            "formattedUrl": "https://www.wsj.com/.../chinas-latest-crackdown-on-bitcoin-other- cryptocurrencies-shakes-market-11621853002",
+            "htmlFormattedUrl": "https://www.wsj.com/.../chinas-latest-crackdown-on-bitcoin-other- <b>cryptocurrencies</b>-shakes-market-11621853002",
+            "pagemap": {
+                "imageobject": [
+                    {
+                        "creator": "Photo: Joseph Nair/NurPhoto/Zuma Press",
+                        "caption": "A machine offering the sale and purchase of bitcoin in a mall in Singapore. Photo: Joseph Nair/NurPhoto/Zuma Press"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472634"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472147"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472342"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471031"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472004"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-471327"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472554"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472514"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472548"
+                    },
+                    {
+                        "contenturl": "https://images.wsj.net/im-472558"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122tongadamage/012122tongadamage_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022soloflight/012022soloflight_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220118/011822tongaupdatesplash2/011822tongaupdatesplash2_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220121/012122ukrainesatellite/012122ukrainesatellite_115x65.jpg"
+                    },
+                    {
+                        "contenturl": "https://m.wsj.net/video/20220120/012022kabuldrone2/012022kabuldrone2_115x65.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article.origheadline": "China\u2019s Latest Crackdown on Bitcoin, Other Cryptocurrencies Shakes Market",
+                        "twitter:card": "summary_large_image",
+                        "dj.asn": "i-0c67",
+                        "page.site.product": "WSJ",
+                        "hdl_p": "China Curbs On Bitcoin Add Volatility",
+                        "language": "en-US",
+                        "datelastpubbed": "2021-05-25T02:33:00.000Z",
+                        "article.access": "paid",
+                        "twitter:creator": "@yuenok",
+                        "og:description": "China\u2019s efforts to restrain cryptocurrency trading and mining are roiling bitcoin and other markets, as major digital-currency exchanges suspend some activities that targeted users in China.",
+                        "twitter:image:alt": "China\u2019s Latest Crackdown on Bitcoin, Other Cryptocurrencies Shakes Market",
+                        "article.template": "full",
+                        "article.section": "Markets",
+                        "page.content.format": "responsive",
+                        "article:word_count": "1359",
+                        "article.created": "2021-05-24T10:43:00.000Z",
+                        "twitter:domain": "wsj.com",
+                        "author": "Elaine Yu in Hong Kong and Chong Koh Ping in Singapore",
+                        "article:video_count": "1",
+                        "fb:pages": "8304333127",
+                        "article:internal_link_count": "17",
+                        "page.site": "wsj",
+                        "page.content.type": "Article",
+                        "article_availability_flag": "METER",
+                        "article:image_count": "1",
+                        "article.id": "SB10272722422690393674304587482323175426572",
+                        "article.page": "Markets",
+                        "twitter:image": "https://images.wsj.net/im-342557/social",
+                        "article.updated": "2021-05-24T15:36:00.000Z",
+                        "article:embed_count": "5",
+                        "twitter:site": "@WSJ",
+                        "news_keywords": "Financial Investment Services,Securities/Commodity Exchange Activities,Banking/Credit,Financial Services,Financial Technology,Investing/Securities,Technology,Virtual Currencies/Cryptocurrencies,Regulation/Government Policy,Corporate/Industrial News",
+                        "page.section": "Article",
+                        "article.type.display": "Markets",
+                        "page.region": "na,us",
+                        "article.summary": "China\u2019s efforts to restrain cryptocurrency trading and mining are roiling bitcoin and other markets, as major digital-currency exchanges suspend some activities that targeted users in China.",
+                        "twitter:title": "China\u2019s Latest Crackdown on Bitcoin, Other Cryptocurrencies Shakes Market",
+                        "servo-context": "servo:prod:virginia:article:wsj",
+                        "og:title": "China\u2019s Latest Crackdown on Bitcoin, Other Cryptocurrencies Shakes Market",
+                        "page.content.source": "NEWSPLUS,PRO,WSJ-PRO-WSJ.com",
+                        "article.emb": "video_emb",
+                        "fb:app_id": "368513495882",
+                        "article.published": "2021-05-24T15:36:00.000Z",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0",
+                        "user.exp": "google_bot",
+                        "twitter:description": "China\u2019s efforts to restrain cryptocurrency trading and mining are roiling bitcoin and other markets, as major digital-currency exchanges suspend some activities that targeted users in China.",
+                        "user.type": "nonsubscriber",
+                        "article.headline": "China\u2019s Latest Crackdown on Bitcoin, Other Cryptocurrencies Shakes Market",
+                        "article.type": "Markets Main",
+                        "article:external_link_count": "1"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://images.wsj.net/im-342557/social",
+                        "datemodified": "2021-05-24T15:36:00.000Z",
+                        "inlanguage": "en-US",
+                        "alternativeheadline": "China Curbs On Bitcoin Add Volatility",
+                        "description": "China\u2019s efforts to restrain cryptocurrency trading and mining are roiling bitcoin and other markets, as major digital-currency exchanges suspend some activities that targeted users in China.",
+                        "publisher": "wsj.com",
+                        "datecreated": "2021-05-24T10:43:00.000Z",
+                        "datepublished": "2021-05-24T15:36:00.000Z"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SURINAME",
+                "totalResults": "215000",
+                "searchTerms": "SURINAME",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SURINAME",
+                "totalResults": "215000",
+                "searchTerms": "SURINAME",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.353924,
+        "formattedSearchTime": "0.35",
+        "totalResults": "215000",
+        "formattedTotalResults": "215,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulation Tracker - Proelium Law LLP",
+            "htmlTitle": "<b>Cryptocurrency Regulation</b> Tracker - Proelium Law LLP",
+            "link": "https://proeliumlaw.com/cryptocurrency-regulation-tracker/",
+            "displayLink": "proeliumlaw.com",
+            "snippet": "Regulatory reform of cryptocurrency legislation has occurred in many countries seeking to advance their economies by introducing crypto-friendly environment\u00a0...",
+            "htmlSnippet": "<b>Regulatory</b> reform of <b>cryptocurrency</b> legislation has occurred in many countries seeking to advance their economies by introducing crypto-friendly environment&nbsp;...",
+            "cacheId": "bovNRiVEOe0J",
+            "formattedUrl": "https://proeliumlaw.com/cryptocurrency-regulation-tracker/",
+            "htmlFormattedUrl": "https://proeliumlaw.com/<b>cryptocurrency</b>-<b>regulation</b>-tracker/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3pR1lqsRzQvbYcdBlFpO6hSXxtG56UEPuEVn6yh3GDXltXs6bFU83r8",
+                        "width": "275",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "og:site_name": "Proelium Law LLP",
+                        "og:title": "Cryptocurrency Regulation Tracker - Proelium Law LLP",
+                        "twitter:label1": "Estimated reading time",
+                        "msapplication-tileimage": "https://secureservercdn.net/160.153.137.99/403.074.myftpupload.com/wp-content/uploads/2020/03/Globe-Logo.png?time=1640410996",
+                        "article:publisher": "https://www.facebook.com/ProeliumLaw/",
+                        "twitter:data1": "61 minutes",
+                        "twitter:site": "@ProeliumLaw",
+                        "article:modified_time": "2021-02-26T15:30:55+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "og:locale": "en_GB",
+                        "og:url": "https://proeliumlaw.com/cryptocurrency-regulation-tracker/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.yoshki.com/SRA/EnglishColour/275/0/-Default.png?a=121*01210123012@=@=70=401260=80=701060128@5501$012@=8"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "International Narcotics Control Strategy Report",
+            "htmlTitle": "International Narcotics <b>Control</b> Strategy Report",
+            "link": "https://www.state.gov/wp-content/uploads/2021/02/21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "displayLink": "www.state.gov",
+            "snippet": "between cryptocurrency money laundering and those engaged in crimes against children, ... Suriname: The FIU is developing further technical skills through\u00a0...",
+            "htmlSnippet": "between <b>cryptocurrency</b> money laundering and those engaged in crimes against children, ... <b>Suriname</b>: The FIU is developing further technical skills through&nbsp;...",
+            "formattedUrl": "https://www.state.gov/wp.../21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "htmlFormattedUrl": "https://www.state.gov/wp.../21-00620-INLSR-Vol2_Report-FINAL.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ120tA7VBQ-tx9wS6nQZge0TKgq6kxDDy5b4-vKuTc0YOiAiKv9owxuM",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210218162234-05'00'",
+                        "creationdate": "D:20210217233159Z",
+                        "creator": "Word",
+                        "producer": "macOS Version 10.15.7 (Build 19H114) Quartz PDFContext",
+                        "title": "Microsoft Word - 2021 INCSR Vol 2 Final to GPS 2-17-21.docx"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///9fec23fdf1de0b6e59d8328b932f73f5c2b5fb9f296fb856a0b7abcbd29ca91c"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A look at the regulation of crypto assets | Inter-American Center of ...",
+            "htmlTitle": "A look at the <b>regulation</b> of crypto assets | Inter-American Center of ...",
+            "link": "https://www.ciat.org/ciatblog-a-look-at-the-regulation-of-crypto-assets/?lang=en",
+            "displayLink": "www.ciat.org",
+            "snippet": "Mar 17, 2021 ... The \u201ccrypto\u201d phenomenon is hardly regulated in the Latin American region, in some countries there are hardly any tax provisions or\u00a0...",
+            "htmlSnippet": "Mar 17, 2021 <b>...</b> The \u201ccrypto\u201d phenomenon is hardly <b>regulated</b> in the Latin American region, in some countries there are hardly any tax provisions or&nbsp;...",
+            "cacheId": "oYqOa-xLgsEJ",
+            "formattedUrl": "https://www.ciat.org/ciatblog-a-look-at-the-regulation-of-crypto-assets/?lang ...",
+            "htmlFormattedUrl": "https://www.ciat.org/ciatblog-a-look-at-the-<b>regulation</b>-of-crypto-assets/?lang ...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTam8Ffo9rME0eVev1B1h5wQZLEBAaFbKUjj6S7ho8NOlopmPPZ7vA4ZAbd",
+                        "width": "301",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.ciat.org/wp-content/uploads/2021/03/Blog_CryptoJFrers_mar21.png",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "A look at the regulation of crypto assets",
+                        "twitter:url": "https://www.ciat.org/ciatblog-a-look-at-the-regulation-of-crypto-assets/?lang=en",
+                        "og:title": "A look at the regulation of crypto assets",
+                        "msapplication-tileimage": "https://www.ciat.org/wp-content/uploads/2016/02/logoCIAT_ESP-300x300.png",
+                        "og:description": "As we well know, the crypto assets are an increasingly growing phenomenon, the number of players who access the market day by day increases, as well as the profits of financial intermediaries, the so-",
+                        "twitter:creator": "CIAT",
+                        "twitter:image": "https://www.ciat.org/wp-content/uploads/2021/03/Blog_CryptoJFrers_mar21.png",
+                        "fb:app_id": "171342606239806",
+                        "twitter:site": "https://www.ciat.org/",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "As we well know, the crypto assets are an increasingly growing phenomenon, the number of players who access the market day by day increases, as well as the profits of financial intermediaries, the so-",
+                        "og:url": "https://www.ciat.org/ciatblog-a-look-at-the-regulation-of-crypto-assets/?lang=en"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ciat.org/wp-content/uploads/2021/03/Blog_CryptoJFrers_mar21.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ailing Suriname floats its currency - Central Banking",
+            "htmlTitle": "Ailing <b>Suriname</b> floats its currency - Central Banking",
+            "link": "https://www.centralbanking.com/central-banks/monetary-policy/7842306/ailing-suriname-floats-its-currency",
+            "displayLink": "www.centralbanking.com",
+            "snippet": "Jun 9, 2021 ... In a statement published on June 6, the central bank said it was following a \u201creserve money targeting\u201d regime, which aims to control inflation\u00a0...",
+            "htmlSnippet": "Jun 9, 2021 <b>...</b> In a statement published on June 6, the central bank said it was following a \u201creserve money targeting\u201d regime, which aims to <b>control</b> inflation&nbsp;...",
+            "formattedUrl": "https://www.centralbanking.com/.../ailing-suriname-floats-its-currency",
+            "htmlFormattedUrl": "https://www.centralbanking.com/.../ailing-<b>suriname</b>-floats-its-currency",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBW4fFchOJ5rtHghWhGgXw_9s9JC0xm-0I4Z4HMwVpumuKCESTqHTCg10",
+                        "width": "285",
+                        "height": "177"
+                    }
+                ],
+                "rel": [
+                    {
+                        "rel": "syndication-source",
+                        "url": "https://www.centralbanking.com/central-banks/monetary-policy/7842306/ailing-suriname-floats-its-currency"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "cxenseparse:iim-type": "News",
+                        "apple-itunes-app": "app-id=1033550204",
+                        "og:image": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-02/Suriname-flag_Getty-web.jpg?itok=eq59qeIW",
+                        "og:image:width": "378",
+                        "article:published_time": "2021-06-09T16:34:39+01:00",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Central Banking",
+                        "cxenseparse:iim-medium": "text",
+                        "twitter:url": "https://www.centralbanking.com/node/7842306",
+                        "msapplication-tileimage": "www.centralbanking.com/sites/centralbanking/files/2017-03/mstile-144x144.png",
+                        "og:description": "Defaulting country holds debt talks as inflation and corruption take toll",
+                        "twitter:image": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-02/Suriname-flag_Getty-web.jpg?itok=eq59qeIW",
+                        "cxenseparse:iim-regions": "Suriname",
+                        "cxenseparse:iim-parentcategory": "Central Banks",
+                        "cxenseparse:recs:iim-userfriendlytime": "9 JUN 2021",
+                        "twitter:site": "CentralBanking_",
+                        "article:modified_time": "2021-06-09T16:36:12+01:00",
+                        "news_keywords": "International Monetary Fund (IMF), Central Bank of Suriname, Suriname, Monetary policy, Governance, Financial crime, Coronavirus, Exchange rate, Debt, Fiscal policy, Corruption allegations, Monetary Policy",
+                        "cxenseparse:iim-organisations": "International Monetary Fund (IMF)",
+                        "cxenseparse:recs:articleid": "7842306",
+                        "og:article:author": "Ben Margulies",
+                        "msapplication-tilecolor": "#003882",
+                        "cxenseparse:iim-tags": "Monetary policy",
+                        "og:type": "article",
+                        "twitter:title": "Ailing Suriname floats its currency - Central Banking",
+                        "cxenseparse:pageclass": "article",
+                        "cxenseparse:title": "Ailing Suriname floats its currency",
+                        "og:image:url": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-02/Suriname-flag_Getty-web.jpg?itok=eq59qeIW",
+                        "twitter:domain": "http://www.centralbanking.com",
+                        "handheldfriendly": "true",
+                        "og:title": "Ailing Suriname floats its currency - Central Banking",
+                        "og:image:height": "234",
+                        "cxenseparse:iim-source": "Central Banking",
+                        "cxenseparse:iim-categories": "Monetary Policy",
+                        "cxenseparse:iim-restriction": "Default",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "cxenseparse:iim-content-type": "Article",
+                        "twitter:description": "Defaulting country holds debt talks as inflation and corruption take toll",
+                        "mobileoptimized": "width",
+                        "original-source": "https://www.centralbanking.com/central-banks/monetary-policy/7842306/ailing-suriname-floats-its-currency",
+                        "og:url": "https://www.centralbanking.com/node/7842306",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.centralbanking.com/sites/centralbanking/files/styles/metatag_image/public/2020-02/Suriname-flag_Getty-web.jpg?itok=eq59qeIW"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Search results for Legal Reports (Publications of the Law Library of ...",
+            "htmlTitle": "Search results for Legal Reports (Publications of the Law Library of ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/?q=%22south+america%22+OR+argentina+OR+bolivia+OR+%22bouvet+islands%22+OR+brazil+OR+chile+OR+colombia+OR+ecuador+OR+%22falkland+islands%22+OR+%22french+guiana%22+OR+guyana+OR+paraguay+OR+peru+OR+%22south+georgia+and+the+south+sandwich+islands%22+OR+suriname+OR+uruguay+OR+venezuela",
+            "displayLink": "www.loc.gov",
+            "snippet": "Results 1 - 25 of 177 ... Regulation of cryptocurrency around the world \"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria,\u00a0...",
+            "htmlSnippet": "Results 1 - 25 of 177 <b>...</b> <b>Regulation of cryptocurrency</b> around the world &quot;Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria,&nbsp;...",
+            "cacheId": "noTpTzccfqYJ",
+            "formattedUrl": "https://www.loc.gov/.../publications-of-the-law-library-of-congress/?... suriname...",
+            "htmlFormattedUrl": "https://www.loc.gov/.../publications-of-the-law-library-of-congress/?... <b>suriname</b>...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX-nY24Vnk4fubxiYDS6KBy1Zogb-bZ6czZAwfpNrCRtuHiW3twsEVG-U",
+                        "width": "247",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2018655070/2018655070.gif#h=150&w=247",
+                        "og:type": "article",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Search results for Legal Reports (Publications of the Law Library of Congress), \"south america\" OR argentina OR bolivia OR \"bouvet islands\" OR brazil OR chile OR colombia OR ecuador OR \"falkland islands\" OR \"french guiana\" OR guyana OR paraguay OR peru OR \"south georgia and the south sandwich islands\" OR suriname OR uruguay OR venezuela, Available Online",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "version": "$Revision$",
+                        "og:description": "Search results 1 - 25 of 177.",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2018655070/2018655070.gif#h=150&w=247",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Search results for Legal Reports (Publications of the Law Library of Congress), \"south america\" OR argentina OR bolivia OR \"bouvet islands\" OR brazil OR chile OR colombia OR ecuador OR \"falkland islands\" OR \"french guiana\" OR guyana OR paraguay OR peru OR \"south georgia and the south sandwich islands\" OR suriname OR uruguay OR venezuela, Available Online",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/?q=%22south+america%22+OR+argentina+OR+bolivia+OR+%22bouvet+islands%22+OR+brazil+OR+chile+OR+colombia+OR+ecuador+OR+%22falkland+islands%22+OR+%22french+guiana%22+OR+guyana+OR+paraguay+OR+peru+OR+%22south+georgia+and+the+south+sandwich+islands%22+OR+suriname+OR+uruguay+OR+venezuela",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://tile.loc.gov/storage-services/service/ll/llglrd/2018655070/2018655070.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Mining from an Economic and Environmental ...",
+            "htmlTitle": "<b>Cryptocurrency</b> Mining from an Economic and Environmental ...",
+            "link": "https://www.mdpi.com/1996-1073/14/14/4254/pdf",
+            "displayLink": "www.mdpi.com",
+            "snippet": "Jul 14, 2021 ... of cryptocurrencies is the legal regulations of the country in question. ... American countries (Bolivia, Venezuela, and Suriname) and the.",
+            "htmlSnippet": "Jul 14, 2021 <b>...</b> of <b>cryptocurrencies</b> is the legal <b>regulations</b> of the country in question. ... American countries (Bolivia, Venezuela, and <b>Suriname</b>) and the.",
+            "cacheId": "owg-InGRAq4J",
+            "formattedUrl": "https://www.mdpi.com/1996-1073/14/14/4254/pdf",
+            "htmlFormattedUrl": "https://www.mdpi.com/1996-1073/14/14/4254/pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapK7qSbB6pg9lHi6fUfNFKV4B4TiWA64ApIg9glFbdaZncUOeqvblYQ8",
+                        "width": "277",
+                        "height": "182"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210715102242+02'00'",
+                        "creationdate": "D:20210715152953+08'00'",
+                        "creator": "LaTeX with hyperref",
+                        "author": "Sergio Luis N\u00e1\u00f1ez Alonso, Javier Jorge-V\u00e1zquez, Miguel \u00c1ngel Echarte Fern\u00e1ndez and Ricardo Francisco Reier Forradellas",
+                        "subject": "There are different studies that point out that the price of electricity is a fundamental factor that will influence the mining decision, due to the cost it represents. There is also an ongoing debate about the pollution generated by cryptocurrency mining, and whether or not the use of renewable energies will solve the problem of its sustainability. In our study, starting from the Environmental Performance Index (EPI), we have considered several determinants of cryptocurrency mining: energy price, how that energy is generated, temperature, legal constraints, human capital, and R&D&I. From this, via linear regression, we recalculated this EPI by including the above factors that affect cryptocurrency mining in a sustainable way. The study determines, once the EPI has been readjusted, that the most sustainable countries to perform cryptocurrency mining are Denmark and Germany. In fact, of the top ten countries eight of them are European (Denmark, Germany, Sweden, Switzerland, Finland, Austria, and the United Kin",
+                        "producer": "pdfTeX-1.40.21",
+                        "title": "Cryptocurrency Mining from an Economic and Environmental Perspective. Analysis of the Most and Least Sustainable Countries"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///81b4c9dc531eec9cfd527d476b36c8c68ab89eaf66040c6c0ee6c1c8db43f10f"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Technical Paper 1.2: Digital Currencies and CBDC Impacts on Least ...",
+            "htmlTitle": "Technical Paper 1.2: Digital Currencies and CBDC Impacts on Least ...",
+            "link": "https://www.undp.org/sites/g/files/zskgke326/files/2021-06/UNDP-UNCDF-TP-1-2-Digital-Currencies-and-CBDC-Impacts-on-Least-Developed-Countries-LDCs-EN.pdf",
+            "displayLink": "www.undp.org",
+            "snippet": "impacts and related regulatory challenges of central bank digital currencies (CBDCs) and other ... blockchain-enabled cryptocurrencies and stablecoins.9.",
+            "htmlSnippet": "impacts and related <b>regulatory</b> challenges of central bank digital currencies (CBDCs) and other ... blockchain-enabled <b>cryptocurrencies</b> and stablecoins.9.",
+            "cacheId": "6snALB5RsvIJ",
+            "formattedUrl": "https://www.undp.org/.../UNDP-UNCDF-TP-1-2-Digital-Currencies-and- CBDC-Impacts-on-Least-Developed-Countries-LDCs-EN.pdf",
+            "htmlFormattedUrl": "https://www.undp.org/.../UNDP-UNCDF-TP-1-2-Digital-Currencies-and- CBDC-Impacts-on-Least-Developed-Countries-LDCs-EN.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScal5D5YxySZf549AEQoVKjkM7-elIyY_GmPIKoyhdJBsQMXZg3KPJjLI3",
+                        "width": "229",
+                        "height": "220"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210616114352+01'00'",
+                        "creationdate": "D:20210616114350+01'00'",
+                        "creator": "Adobe InDesign 16.2 (Macintosh)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///16eeaee420e586054abe1ec4d1ad49b35b4ea6d7c7b7fd04230c716690f66207"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Suriname Cryptocurrency Regulation Analysis",
+            "htmlTitle": "<b>Suriname Cryptocurrency Regulation</b> Analysis",
+            "link": "https://cointobuy.io/countries/suriname",
+            "displayLink": "cointobuy.io",
+            "snippet": "As reported by our Suriname cryptocurrency regulation review, crypto-related action in this region has a 1.1/10 safety rank. The dominant ranking factor for\u00a0...",
+            "htmlSnippet": "As reported by our <b>Suriname cryptocurrency regulation</b> review, crypto-related action in this region has a 1.1/10 safety rank. The dominant ranking factor for&nbsp;...",
+            "cacheId": "P54HP3axHdkJ",
+            "formattedUrl": "https://cointobuy.io/countries/suriname",
+            "htmlFormattedUrl": "https://cointobuy.io/countries/<b>suriname</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#FFFFFF",
+                        "viewport": "width=device-width,initial-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Terror-Crime Nexus -- Finance & Development, September 2017",
+            "htmlTitle": "The Terror-Crime Nexus -- Finance &amp; Development, September 2017",
+            "link": "https://www.imf.org/external/pubs/ft/fandd/2017/09/farah.htm",
+            "displayLink": "www.imf.org",
+            "snippet": "Deep in the jungles of Suriname, miners work a primitive sluice to extract flecks of ... they turn gold on one continent into cryptocurrencies on another in\u00a0...",
+            "htmlSnippet": "Deep in the jungles of <b>Suriname</b>, miners work a primitive sluice to extract flecks of ... they turn gold on one continent into <b>cryptocurrencies</b> on another in&nbsp;...",
+            "cacheId": "MMg72nNSEYMJ",
+            "formattedUrl": "https://www.imf.org/external/pubs/ft/fandd/2017/09/farah.htm",
+            "htmlFormattedUrl": "https://www.imf.org/external/pubs/ft/fandd/2017/09/farah.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM4FNegORMPh27vWeaK4Guo6ah1SpwNyyxVB--l515rX3TznNDjW4KMqA",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "date": "2017-08-30",
+                        "og:image": "http://www.imf.org/external/pubs/ft/fandd/2017/09/images/farah_fb.jpg",
+                        "language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.imf.org/external/pubs/ft/fandd/2017/09/images/farah_fb.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,585 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - COSTA RICA",
+                "totalResults": "841000",
+                "searchTerms": "COSTA RICA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - COSTA RICA",
+                "totalResults": "841000",
+                "searchTerms": "COSTA RICA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.539071,
+        "formattedSearchTime": "0.54",
+        "totalResults": "841000",
+        "formattedTotalResults": "841,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Costa Rica and Cryptocurrency - Virtual Currency Laws | Freeman ...",
+            "htmlTitle": "<b>Costa Rica</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman ...",
+            "link": "https://freemanlaw.com/cryptocurrency-old-2/costa-rica/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Specifically, the Central Bank of Costa Rica (CBCR) declared that cryptocurrencies are not \u201clegal tender,\u201d \u201cmonetary currency,\u201d or \u201cforeign currency.\u201d\u00a0...",
+            "htmlSnippet": "Specifically, the Central Bank of <b>Costa Rica</b> (CBCR) declared that <b>cryptocurrencies</b> are not \u201clegal tender,\u201d \u201cmonetary currency,\u201d or \u201cforeign currency.\u201d&nbsp;...",
+            "cacheId": "dBtj20DyHOUJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency-old-2/costa-rica/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>-old-2/<b>costa</b>-<b>rica</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRih4MB4_BP_QmzH_QRoFvkCgQJBIqnY5EIrEtoJUE32LmznLJbcRRC4AIg",
+                        "width": "289",
+                        "height": "175"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_12867924-scaled.jpeg",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-03-06T20:38:59+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency-old-2/costa-rica/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "Is cryptocurrency legal in Costa Rica? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "8 minutes",
+                        "og:image:secure_url": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_12867924-scaled.jpeg",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_12867924-scaled.jpeg",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:05:46+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "og:image:alt": "Costa Rica Cryptocurrency Laws",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Costa Rica and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Costa Rica and Cryptocurrency",
+                        "og:image:height": "1551",
+                        "og:updated_time": "2022-01-09T18:05:46+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Costa Rica and Cryptocurrency Costa Rica Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology For several reasons, various commentators have called Costa Rica a \u201ccrypto haven.\u201d First, Costa Rica is one of few jurisdictions worldwide where it is...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency-old-2/costa-rica/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/05/AdobeStock_12867924-scaled.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Costa Rica: About the regulation of cryptocurrencies - ECIJA",
+            "htmlTitle": "<b>Costa Rica</b>: About the <b>regulation of cryptocurrencies</b> - ECIJA",
+            "link": "https://ecija.com/en/sala-de-prensa/costa-rica-about-the-regulation-of-cryptocurrencies/",
+            "displayLink": "ecija.com",
+            "snippet": "Sep 23, 2021 ... Mauricio Par\u00eds, Regional Manager of ECIJA in Costa Rica, explains the details of the new Salvadoran regulation of cryptocurrencies in the\u00a0...",
+            "htmlSnippet": "Sep 23, 2021 <b>...</b> Mauricio Par\u00eds, Regional Manager of ECIJA in <b>Costa Rica</b>, explains the details of the new Salvadoran <b>regulation of cryptocurrencies</b> in the&nbsp;...",
+            "cacheId": "HBhyq_c-s-QJ",
+            "formattedUrl": "https://ecija.com/en/.../costa-rica-about-the-regulation-of-cryptocurrencies/",
+            "htmlFormattedUrl": "https://ecija.com/en/.../<b>costa</b>-<b>rica</b>-about-the-<b>regulation-of-cryptocurrencies</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM1PQUTzv_XGld63yP8Zro-cd4j5-jHDRs5VIxMOdvDhuIZrMXs2rXb88",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ecija.com/wp-content/uploads/2021/09/bitcoin-2008262_1920.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1920",
+                        "twitter:card": "summary",
+                        "og:site_name": "ECIJA",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Costa Rica: About the regulation of cryptocurrencies - ECIJA",
+                        "og:locale": "en_US",
+                        "og:image:height": "1441",
+                        "position": "1",
+                        "og:url": "https://ecija.com/en/sala-de-prensa/costa-rica-about-the-regulation-of-cryptocurrencies/",
+                        "og:description": "Mauricio Par\u00eds, Regional Manager of ECIJA in Costa Rica, explains the details\u00a0 of the new Salvadoran regulation of cryptocurrencies in the media outlet E&N and emphasizes that: \u201cthe media effect of the Bitcoin Law in El Salvador cannot be denied\u201d. \u00a0 Keep reading here.\u00a0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ecija.com/wp-content/uploads/2021/09/bitcoin-2008262_1920.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Costa Rica hydro plant gets new lease on life from crypto mining ...",
+            "htmlTitle": "<b>Costa Rica</b> hydro plant gets new lease on life from crypto mining ...",
+            "link": "https://www.reuters.com/technology/costa-rica-hydro-plant-gets-new-lease-life-crypto-mining-2022-01-11/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Jan 11, 2022 ... Costa Rica lacks specific regulation for cryptocurrencies, unlike El Salvador, which became the first country in the world to adopt Bitcoin\u00a0...",
+            "htmlSnippet": "Jan 11, 2022 <b>...</b> <b>Costa Rica</b> lacks specific <b>regulation</b> for <b>cryptocurrencies</b>, unlike El Salvador, which became the first country in the world to adopt Bitcoin&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../costa-rica-hydro-plant-gets-new-lease-life-crypto- mining-2022-01-11/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>costa</b>-<b>rica</b>-hydro-plant-gets-new-lease-life-crypto- mining-2022-01-11/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0a-srNBwIo-gSOcWm8JAaev4d2VD6SOz-4Vk08qdv5eAWQycAcfas_98",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/aLkavTVz7nr660s-HtXYX9h21zQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3UHYBCSJFJT5ISAC23DOL3YCQ.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2022-01-12T01:38:21Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "og:description": "A small river in the middle of coffee plantations, sugar cane fields and a forest provides energy to a hydroelectric power plant in Costa Rica that feeds hundreds of computers wired up to the cryptocurrency mining business.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/aLkavTVz7nr660s-HtXYX9h21zQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3UHYBCSJFJT5ISAC23DOL3YCQ.jpg",
+                        "twitter:image:alt": "Eduardo Kopper, owner of Data Center CR, works in the data center at the Poas I hydroelectric plant that provides the energy to the computers, in Alajuela, Costa Rica January 8, 2022. Picture taken January 8, 2022. REUTERS/Mayela Lopez",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2022-01-12T01:38:56.102Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "Costa Rica hydro plant gets new lease on life from crypto mining",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/business/futureofmoney/article",
+                        "og:title": "Costa Rica hydro plant gets new lease on life from crypto mining",
+                        "dcsext.channellist": "Technology;Americas;U.S. Markets;Commodities;Currencies;Sustainable Business",
+                        "og:article:published_time": "2022-01-12T01:38:21Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Alvaro Murillo",
+                        "article:tag": "EF:BUSINESS-FUTURE-OF-MONEY,MTVID,CLA,CLC,COM,CRYCUR,ENG,ENR,ENV,FRX,GEN,HYDPWR,MCE,NRG,POL,PWR,PWRGEN,PXP,RNW,RNWPWR,TRN,AMERS,CR,CAMER,NAMER,EMRG,LATAM,ECON",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "A small river in the middle of coffee plantations, sugar cane fields and a forest provides energy to a hydroelectric power plant in Costa Rica that feeds hundreds of computers wired up to the cryptocurrency mining business.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/technology/costa-rica-hydro-plant-gets-new-lease-life-crypto-mining-2022-01-11/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/aLkavTVz7nr660s-HtXYX9h21zQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3UHYBCSJFJT5ISAC23DOL3YCQ.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency and Costa Rica: The Future of Crypto in Central ...",
+            "htmlTitle": "<b>Cryptocurrency</b> and <b>Costa Rica</b>: The Future of Crypto in Central ...",
+            "link": "https://ticotimes.net/2021/09/04/cryptocurrency-and-costa-rica-the-future-of-crypto-in-central-america",
+            "displayLink": "ticotimes.net",
+            "snippet": "Sep 4, 2021 ... Cryptocurrencies, while not officially recognized by the Central Bank, are already acknowledged as a legitimate form of payment throughout the\u00a0...",
+            "htmlSnippet": "Sep 4, 2021 <b>...</b> <b>Cryptocurrencies</b>, while not officially recognized by the Central Bank, are already acknowledged as a legitimate form of payment throughout the&nbsp;...",
+            "cacheId": "fIXzZG2a71kJ",
+            "formattedUrl": "https://ticotimes.net/.../cryptocurrency-and-costa-rica-the-future-of-crypto-in- central-america",
+            "htmlFormattedUrl": "https://ticotimes.net/.../<b>cryptocurrency</b>-and-<b>costa</b>-<b>rica</b>-the-future-of-crypto-in- central-ame<b>rica</b>",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "The Tico Times"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPTMXOH7pKvFCoBsyaf1rFRaQxXCVodqnsRsOOGIGSQCRQgF7a_soidvDe",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://ticotimes.net/wp-content/uploads/2021/04/favicon272.jpg"
+                    },
+                    {
+                        "width": "2560",
+                        "url": "https://ticotimes.net/wp-content/uploads/2021/06/bitcoincomp-scaled-1.jpg",
+                        "height": "1707"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "The Tico Times"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Tico Times | Costa Rica News | Travel | Real Estate"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://ticotimes.net/wp-content/uploads/2021/06/bitcoincomp-scaled-1.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-04T14:29:43+00:00",
+                        "og:image:width": "2560",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Tico Times | Costa Rica News | Travel | Real Estate",
+                        "author": "The Tico Times",
+                        "og:title": "Cryptocurrency and Costa Rica: The Future of Crypto in Central America",
+                        "og:image:height": "1707",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://ticotimes.net/wp-content/uploads/2019/05/cropped-Logo-270x270.png",
+                        "og:description": "From Bitcoin to Ethereum, and even meme coins like Dogecoin, the rise in cryptocurrency\u2019s popularity in Costa Rica has taken by storm..",
+                        "twitter:creator": "@TheTicoTimes",
+                        "twitter:data1": "The Tico Times",
+                        "twitter:data2": "6 minutes",
+                        "twitter:site": "@TheTicoTimes",
+                        "article:modified_time": "2021-09-04T14:29:50+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://ticotimes.net/2021/09/04/cryptocurrency-and-costa-rica-the-future-of-crypto-in-central-america"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ticotimes.net/wp-content/uploads/2021/06/bitcoincomp-scaled-1.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "datemodified": "2021-09-04T08:29:50-06:00",
+                        "headline": "Cryptocurrency and Costa Rica: The Future of Crypto in Central America",
+                        "datepublished": "2021-09-04T08:29:43-06:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Legality of cryptocurrency by country or territory - Wikipedia",
+            "htmlTitle": "Legality of <b>cryptocurrency</b> by country or territory - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Bitcoin was legal in Mexico as of 2017, with plans to regulate it as a virtual asset by the FinTech Law. Central America. Country or territory, Legality. Costa\u00a0...",
+            "htmlSnippet": "Bitcoin was legal in Mexico as of 2017, with plans to <b>regulate</b> it as a virtual asset by the FinTech Law. Central America. Country or territory, Legality. <b>Costa</b>&nbsp;...",
+            "cacheId": "NsjwOAiznZUJ",
+            "formattedUrl": "https://en.wikipedia.org/.../Legality_of_cryptocurrency_by_country_or_ territory",
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Legality_of_<b>cryptocurrency</b>_by_country_or_ territory",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXyh9FQMQJ3zbuhxootyEfFmivvEgk593rpjAD9H0wN-zLGiChJDP6hg55",
+                        "width": "315",
+                        "height": "160"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:title": "Legality of cryptocurrency by country or territory - Wikipedia",
+                        "og:image:height": "609",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Legal_status_of_bitcoin.svg/1200px-Legal_status_of_bitcoin.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency Around the World: November 2021 ...",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> Around the World: November 2021 ...",
+            "link": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.pdf",
+            "displayLink": "tile.loc.gov",
+            "snippet": "Nov 2, 2021 ... laws, AML/CFT laws, or both types of laws to cryptocurrencies has increased exponentially. ... \u00bfPodr\u00eda Costa Rica Realizar Pago de.",
+            "htmlSnippet": "Nov 2, 2021 <b>...</b> <b>laws</b>, AML/CFT <b>laws</b>, or both types of <b>laws</b> to <b>cryptocurrencies</b> has increased exponentially. ... \u00bfPodr\u00eda <b>Costa Rica</b> Realizar Pago de.",
+            "cacheId": "QBXfvewiUioJ",
+            "formattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "htmlFormattedUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/.../2021687419.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe3ueDgFA-y_LCwnJY6m_IYGjJxWKMRaYMuPY1h4MEpu61M3_x85ndwHk",
+                        "width": "255",
+                        "height": "197"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20220103131140-05'00'",
+                        "creationdate": "D:20211122164151-05'00'",
+                        "creator": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "author": "Law Library of Congress",
+                        "producer": "Adobe Acrobat Pro DC (32-bit) 21.5.20060",
+                        "title": "Regulation of Cryptocurrency Around the World: November 2021 Update"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///36d1e43735da9a6d167a023bb355f558e28095b842e867c012de06dff48c9f3a"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "... Chad, Chile, China, Colombia, Costa Rica, C\u00f4te d'Ivoire, Croatia, Cuba, Cyprus, ... Book/Printed Material Regulation of cryptocurrency around the world.",
+            "htmlSnippet": "... Chad, Chile, China, Colombia, <b>Costa Rica</b>, C\u00f4te d&#39;Ivoire, Croatia, Cuba, Cyprus, ... Book/Printed Material <b>Regulation of cryptocurrency</b> around the world.",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency has risen despite the pandemic & is expected to ...",
+            "htmlTitle": "<b>Cryptocurrency</b> has risen despite the pandemic &amp; is expected to ...",
+            "link": "https://m.economictimes.com/markets/cryptocurrency/cryptocurrency-has-risen-despite-the-pandemic-is-expected-to-continue/articleshow/82800680.cms",
+            "displayLink": "m.economictimes.com",
+            "snippet": "May 20, 2021 ... The government is yet to issue an official regulatory stance on this new ... For instance, Costa Rica announced that employees might get\u00a0...",
+            "htmlSnippet": "May 20, 2021 <b>...</b> The government is yet to issue an official <b>regulatory</b> stance on this new ... For instance, <b>Costa Rica</b> announced that employees might get&nbsp;...",
+            "cacheId": "e5jp28vc2v0J",
+            "formattedUrl": "https://m.economictimes.com/.../cryptocurrency/cryptocurrency.../82800680. cms",
+            "htmlFormattedUrl": "https://m.economictimes.com/.../<b>cryptocurrency</b>/<b>cryptocurrency</b>.../82800680. cms",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6wHE26aJYylGj0udyx4JX__3s9N3FfgscXzCizoPT6junKzUiG_vyKk",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55488,resizemode-1,msid-82800680/markets/cryptocurrency/cryptocurrency-has-risen-despite-the-pandemic-is-expected-to-continue.jpg",
+                        "theme-color": "#e9383e",
+                        "og:type": "article",
+                        "og:site_name": "The Economic Times",
+                        "al:android:com": "com.et.reader.activities",
+                        "og:title": "Cryptocurrency has risen despite the pandemic & is expected to continue",
+                        "og:description": "In India, there has been noise in the media regarding the regulation of cryptocurrencies now and again. The government is yet to issue an official regulatory stance on this new asset class.",
+                        "props": "yes",
+                        "al:android:url": "https://m.economictimes.com/markets/cryptocurrency/cryptocurrency-has-risen-despite-the-pandemic-is-expected-to-continue/articleshow/82800680.cms?utm_source=test&cid=",
+                        "viewport": "width=device-width, height=device-height,initial-scale=1.0,user-scalable=yes,maximum-scale=5,user-scalable=no",
+                        "news_keywords": "Cryptocurrency, Cryptocurrency News, Cryptocurrency Price,bitcoin market,Coin-Switch,Crypto-Market,crypto-currencies,bitcoins",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://m.economictimes.com",
+                        "apple-touch-fullscreen": "yes",
+                        "al:android:app_name": "The Economic Times"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55488,resizemode-1,msid-82800680/markets/cryptocurrency/cryptocurrency-has-risen-despite-the-pandemic-is-expected-to-continue.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Costa Rica | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Costa Rica</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/costa-rica",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Costa Rica for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Costa Rica</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "QwsJcTMsF8YJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/costa-rica",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>costa</b>-<b>rica</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Costa Rica for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Costa Rica | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Costa Rica for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Costa Rica | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/costa-rica"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,640 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - SLOVENIA",
+                "totalResults": "594000",
+                "searchTerms": "SLOVENIA",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - SLOVENIA",
+                "totalResults": "594000",
+                "searchTerms": "SLOVENIA",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.375509,
+        "formattedSearchTime": "0.38",
+        "totalResults": "594000",
+        "formattedTotalResults": "594,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Slovenia and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Slovenia</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/slovenia/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Slovenia Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology. Cryptocurrencies are virtual currencies in\u00a0...",
+            "htmlSnippet": "<b>Slovenia Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology. <b>Cryptocurrencies</b> are virtual currencies in&nbsp;...",
+            "cacheId": "K4U35VrWOD8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/slovenia/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>slovenia</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2020-11-21T20:43:05+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/slovenia/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Slovenia? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "3 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:19:37+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/partnership-representatives-and-partnership-audits-the-bipartisan-budget-act-bba/bba-penalties/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Slovenia and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Slovenia and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:19:37+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Slovenia and Cryptocurrency Slovenia Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology Cryptocurrencies are virtual currencies in Slovenia, meaning that they are neither financial instruments nor monetary assets per the Slovenian Act on Payment...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/slovenia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slovenian finance ministry seeks public opinion on crypto tax laws",
+            "htmlTitle": "<b>Slovenian</b> finance ministry seeks public opinion on crypto tax <b>laws</b>",
+            "link": "https://cointelegraph.com/news/slovenian-finance-ministry-seeks-public-opinion-on-crypto-tax-laws",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Oct 27, 2021 ... Slovenia's crypto tax bill proposes a 10% tax on fiat-crypto conversions and payments made with cryptocurrencies. 7274 Total views.",
+            "htmlSnippet": "Oct 27, 2021 <b>...</b> <b>Slovenia&#39;s</b> crypto tax bill proposes a 10% tax on fiat-crypto conversions and payments made with <b>cryptocurrencies</b>. 7274 Total views.",
+            "cacheId": "3NkfMJhhRSsJ",
+            "formattedUrl": "https://cointelegraph.com/.../slovenian-finance-ministry-seeks-public-opinion -on-crypto-tax-laws",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>slovenian</b>-finance-ministry-seeks-public-opinion -on-crypto-tax-<b>laws</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7y24sl6sTcM-vRxzwjG5JLk3FhUUnQaAxKsNmw8je5tT2Ctsh_NlHXEE",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvZjgyNDcxNTAtODFlNy00MTMzLWJjYmYtNGNhOTEyNjBiM2MyLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Slovenian finance ministry seeks public opinion on crypto tax laws",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Slovenian finance ministry seeks public opinion on crypto tax laws",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "The bill would require Slovenian citizens to calculate the tax by considering the real-time value of crypto.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvZjgyNDcxNTAtODFlNy00MTMzLWJjYmYtNGNhOTEyNjBiM2MyLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The bill would require Slovenian citizens to calculate the tax by considering the real-time value of crypto.",
+                        "og:url": "https://cointelegraph.com/news/slovenian-finance-ministry-seeks-public-opinion-on-crypto-tax-laws"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvZjgyNDcxNTAtODFlNy00MTMzLWJjYmYtNGNhOTEyNjBiM2MyLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slovenia's fintech ambitions risk falling short for lack of regulation ...",
+            "htmlTitle": "<b>Slovenia&#39;s</b> fintech ambitions risk falling short for lack of <b>regulation</b> ...",
+            "link": "https://www.iflr.com/article/b1lmx6d18xd2m8/slovenias-fintech-ambitions-risk-falling-short-for-lack-of-regulation",
+            "displayLink": "www.iflr.com",
+            "snippet": "Apr 6, 2020 ... Banking sector and financial instruments \u00b7 Despite these warnings, the issuing, trading and storing of cryptocurrencies so far all remain\u00a0...",
+            "htmlSnippet": "Apr 6, 2020 <b>...</b> Banking sector and financial instruments &middot; Despite these warnings, the issuing, trading and storing of <b>cryptocurrencies</b> so far all remain&nbsp;...",
+            "formattedUrl": "https://www.iflr.com/.../slovenias-fintech-ambitions-risk-falling-short-for-lack -of-regulation",
+            "htmlFormattedUrl": "https://www.iflr.com/.../<b>slovenias</b>-fintech-ambitions-risk-falling-short-for-lack -of-<b>regulation</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9IuKMd1pECqOw_Jl9ZHidJKFwMb7D00qZStmd7d73H7JYDoBLjNeC-jUD",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "International Financial Law Review",
+                        "msapplication-tilecolor": "#221F20",
+                        "og:image": "/v-47613d608086bbae380ef6c70a57cbf1/Media/images/iflr/1-cities/Slovenia.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Slovenia\u2019s fintech ambitions risk falling short for lack of regulation",
+                        "msapplication-square70x70logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-70.png",
+                        "og:site_name": "International Financial Law Review",
+                        "handheldfriendly": "True",
+                        "og:title": "Slovenia\u2019s fintech ambitions risk falling short for lack of regulation",
+                        "rating": "general",
+                        "msapplication-wide310x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310-150.png",
+                        "distribution": "global",
+                        "title": "Slovenia\u2019s fintech ambitions risk falling short for lack of regulation",
+                        "og:description": "Uro\u0161 \u010cop of Miro Senica overviews the regulatory environment for fintechs in Slovenia, a jurisdiction that has been touted as a European fintech hub",
+                        "msapplication-square150x150logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-150.png",
+                        "twitter:image": "https://www.iflr.com/Media/images/iflr/1-cities/Slovenia.jpg",
+                        "twitter:site": "iflr_online",
+                        "viewport": "width=device-width",
+                        "msapplication-square310x310logo": "https://iflr.com/v-a7cfcef47f61be7669a94b4527910c50/Assets/brand/LMG/IFLR/_app/brands/default/app_icons/iflr/Windows/tile-310.png",
+                        "twitter:description": "Uro\u0161 \u010cop of Miro Senica overviews the regulatory environment for fintechs in Slovenia, a jurisdiction that has been touted as a European fintech hub",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.iflr.com/Media/images/iflr/1-cities/Slovenia.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TAX CONVENTION WITH SLOVENIA",
+            "htmlTitle": "TAX CONVENTION WITH <b>SLOVENIA</b>",
+            "link": "https://www.irs.gov/pub/irs-trty/slovenia.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "America and the Republic of Slovenia for the Avoidance of Double Taxation ... c) For the purposes of this paragraph, a \"measure\" is a law, regulation, rule,.",
+            "htmlSnippet": "America and the Republic of <b>Slovenia</b> for the Avoidance of Double Taxation ... c) For the purposes of this paragraph, a &quot;measure&quot; is a law, <b>regulation</b>, rule,.",
+            "cacheId": "Va-bNwHyxf8J",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/slovenia.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>slovenia</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIILI5cUzWSqw9MpjJhk_HH3qnM6IW6mI76VL9Jt_TAiGJSY9L__aLTcD-",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20021125091824-05'00'",
+                        "creator": "Microsoft Word 8.0",
+                        "creationdate": "D:20021125091654",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "TAX CONVENTION WITH SLOVENIA"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///761685dde74ab5925bd251434d16ef22b459f846521903cf331f068278a9e8f5"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About this Collection | Legal Reports (Publications of the Law ...",
+            "htmlTitle": "About this Collection | Legal Reports (Publications of the Law ...",
+            "link": "https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/",
+            "displayLink": "www.loc.gov",
+            "snippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to\u00a0...",
+            "htmlSnippet": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to&nbsp;...",
+            "cacheId": "IPyZALv70dkJ",
+            "formattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "htmlFormattedUrl": "https://www.loc.gov/collections/publications-of.../about-this-collection/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4ntYlbGh0A687pLiT74gwUV36TRbFOEMskEcDX1Swo2Mq-Fzi4wvkE4",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "dc.relation.ispartof": "Law Library of Congress",
+                        "dc.rights": "Text is U.S. Government Work",
+                        "og:image:height": "630",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "This collection features research reports and other publications on a wide range of legal topics prepared by the Law Library of Congress in response to requests or recurring interest from Congress and other federal government entities on issues concerning foreign, comparative, and international law (FCIL).",
+                        "og:image:secure_url": "https://www.loc.gov/static/images/favicons/open-graph-logo.png",
+                        "article:tag": "partof:digital collections",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "Digital Collection",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "About this Collection \u00a0|\u00a0Legal Reports (Publications of the Law Library of Congress) \u00a0|\u00a0Digital Collections \u00a0|\u00a0Library of Congress",
+                        "fb:admins": "libraryofcongress",
+                        "dc.subject": "United States Law",
+                        "dc.language": "eng"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.loc.gov/static/images/favicons/open-graph-logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slovenia Prepares to Impose 10% Tax on Spending and Selling ...",
+            "htmlTitle": "<b>Slovenia</b> Prepares to Impose 10% Tax on Spending and Selling ...",
+            "link": "https://news.bitcoin.com/slovenia-prepares-to-impose-10-tax-on-spending-and-selling-cryptocurrency/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Aug 31, 2021 ... The tax authority of Slovenia has put forward a proposal to change the crypto taxation rules in the country, local media reported.",
+            "htmlSnippet": "Aug 31, 2021 <b>...</b> The tax authority of <b>Slovenia</b> has put forward a proposal to change the crypto taxation rules in the country, local media reported.",
+            "cacheId": "RA5zidEhVdcJ",
+            "formattedUrl": "https://news.bitcoin.com/slovenia-prepares-to-impose-10-tax-on-spending- and-selling-cryptocurrency/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>slovenia</b>-prepares-to-impose-10-tax-on-spending- and-selling-<b>cryptocurrency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsOB0l_LzxiykGD2nuM9sUt8gfsEaITC8-1AaxLWGn-TJ6SHhZOo0OinB3",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/08/slovenia-bitcoin.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-08-31T12:00:44+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Slovenia Prepares to Impose 10% Tax on Spending and Selling Cryptocurrency \u2013 Taxes Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The tax authority of Slovenia has put forward a proposal to change the crypto taxation rules in the country.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-08-31T11:56:09+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/slovenia-prepares-to-impose-10-tax-on-spending-and-selling-cryptocurrency/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Slovenia Prepares to Impose 10% Tax on Spending and Selling Cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/08/slovenia-bitcoin.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Tax in Slovenia - Slovenia Times",
+            "htmlTitle": "<b>Cryptocurrency</b> Tax in <b>Slovenia</b> - <b>Slovenia</b> Times",
+            "link": "https://sloveniatimes.com/cryptocurrency-tax-in-slovenia/",
+            "displayLink": "sloveniatimes.com",
+            "snippet": "Apr 3, 2021 ... Status of Cryptocurrencies in Slovenia Currently, Slovenia treats cryptocurrencies as virtual currencies, meaning that, according to the\u00a0...",
+            "htmlSnippet": "Apr 3, 2021 <b>...</b> Status of <b>Cryptocurrencies</b> in <b>Slovenia</b> Currently, <b>Slovenia</b> treats <b>cryptocurrencies</b> as virtual currencies, meaning that, according to the&nbsp;...",
+            "cacheId": "SQH80JJU1LEJ",
+            "formattedUrl": "https://sloveniatimes.com/cryptocurrency-tax-in-slovenia/",
+            "htmlFormattedUrl": "https://<b>slovenia</b>times.com/<b>cryptocurrency</b>-tax-in-<b>slovenia</b>/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Editor SloTimes"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8f8PDb4q4CpjlxizrwPmC2_-xTdFCfHi8o6_43vZcvQ_rcw7QNo6JNQ4",
+                        "width": "296",
+                        "height": "170"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://sloveniatimes.com/wp-content/uploads/2020/10/Slovenia-Times-2020_logo_negativ_M_72-dpi.png"
+                    },
+                    {
+                        "width": "1000",
+                        "url": "https://sloveniatimes.com/wp-content/uploads/2021/04/shutterstock_1661319916.jpg",
+                        "height": "576"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Editor SloTimes"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Slovenia Times"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://sloveniatimes.com/wp-content/uploads/2021/04/shutterstock_1661319916.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-04-03T04:29:34+00:00",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Slovenia Times",
+                        "og:title": "Cryptocurrency Tax in Slovenia - Slovenia Times",
+                        "og:image:height": "576",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://sloveniatimes.com/wp-content/uploads/2020/11/cropped-blue-logo-transparent-e1604913514278-1-270x270.png",
+                        "og:description": "When amateur investors start trading with cryptocurrencies and making profits turns into a business, tax standards come into effect in this area as well. Status of Cryptocurrencies in Slovenia Currently, Slovenia treats cryptocurrencies as virtual currencies, meaning that, according to the Slovenian Act on Payment Services and Systems, they are neither financial instruments nor monetary [\u2026]",
+                        "twitter:data1": "Editor SloTimes",
+                        "twitter:data2": "8 minutes",
+                        "article:modified_time": "2021-04-05T06:13:27+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://sloveniatimes.com/cryptocurrency-tax-in-slovenia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sloveniatimes.com/wp-content/uploads/2021/04/shutterstock_1661319916.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "datemodified": "2021-04-05T08:13:27+02:00",
+                        "headline": "Cryptocurrency Tax in Slovenia",
+                        "datepublished": "2021-04-03T06:29:34+02:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slovenia Launches Public Consultations on Crypto Taxation Law ...",
+            "htmlTitle": "<b>Slovenia</b> Launches Public Consultations on Crypto Taxation Law ...",
+            "link": "https://news.bitcoin.com/slovenia-launches-public-consultations-on-crypto-taxation-law/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Oct 28, 2021 ... Under the upcoming regulations, the state will adopt a 10% flat tax for individuals exchanging cryptocurrency for fiat money.",
+            "htmlSnippet": "Oct 28, 2021 <b>...</b> Under the upcoming <b>regulations</b>, the state will adopt a 10% flat tax for individuals exchanging <b>cryptocurrency</b> for fiat money.",
+            "cacheId": "QECD0fIIzdAJ",
+            "formattedUrl": "https://news.bitcoin.com/slovenia-launches-public-consultations-on-crypto- taxation-law/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>slovenia</b>-launches-public-consultations-on-crypto- taxation-law/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgLAa4-hMIdB_twM6hfli62mx23N3jQMRhHZlwFuJvcwBkx2lkHVWiv-x",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/slovenian-parliament.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-10-28T06:30:19+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Slovenia Launches Public Consultations on Crypto Taxation Law \u2013 Taxes Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Authorities in Slovenia have prepared new legislation tailored to determine how crypto holdings and transactions are taxed in the country.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-10-28T04:08:50+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/slovenia-launches-public-consultations-on-crypto-taxation-law/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Slovenia Launches Public Consultations on Crypto Taxation Law"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/slovenian-parliament.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slovenia: new law to regulate crypto - The Cryptonomist",
+            "htmlTitle": "<b>Slovenia</b>: new law to <b>regulate</b> crypto - The Cryptonomist",
+            "link": "https://en.cryptonomist.ch/2021/09/01/slovenia-new-law-regulate-crypto/",
+            "displayLink": "en.cryptonomist.ch",
+            "snippet": "Sep 1, 2021 ... Changing crypto regulation in Slovenia ... The FURS has proposed to change the way cryptocurrency income is taxed so that a 10% tax rate is\u00a0...",
+            "htmlSnippet": "Sep 1, 2021 <b>...</b> Changing crypto <b>regulation</b> in <b>Slovenia</b> ... The FURS has proposed to change the way <b>cryptocurrency</b> income is taxed so that a 10% tax rate is&nbsp;...",
+            "cacheId": "j7xp9Gjdc5UJ",
+            "formattedUrl": "https://en.cryptonomist.ch/2021/09/01/slovenia-new-law-regulate-crypto/",
+            "htmlFormattedUrl": "https://en.cryptonomist.ch/2021/09/01/<b>slovenia</b>-new-law-<b>regulate</b>-crypto/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "https://en.cryptonomist.ch/author/riccardo-mangiapane/"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNuxGqfRrTKlaFnx3Kkha9SzWDlsFdA5PU9O6ysmPAtdmi6Ni77BD8bXs",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Riccardo Mangiapane",
+                        "description": "Graduated in Management and Finance at LUMSA University in Rome. Passionate about fintech and crypto, he follows with interest the events in the financial markets, cooperating as part of a..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://en.cryptonomist.ch/wp-content/uploads/2021/09/slovenia-crypto-1.jpg",
+                        "theme-color": "#4d265f",
+                        "article:published_time": "2021-09-01T11:04:04+00:00",
+                        "og:image:width": "1140",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "The Cryptonomist",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://en.cryptonomist.ch/wp-content/uploads/2019/05/cropped-fav-270x270.png",
+                        "og:description": "The FURS has proposed to change the way in which cryptocurrency income is taxed",
+                        "twitter:creator": "@cryptonomist_",
+                        "article:publisher": "https://www.facebook.com/cryptonomist.ch/",
+                        "twitter:data1": "Riccardo Mangiapane",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@cryptonomist_",
+                        "msapplication-tilecolor": "#4d265f",
+                        "og:type": "article",
+                        "og:title": "Slovenia: new law to regulate crypto - The Cryptonomist",
+                        "og:image:height": "760",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "The FURS has proposed to change the way in which cryptocurrency income is taxed",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://en.cryptonomist.ch/2021/09/01/slovenia-new-law-regulate-crypto/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://en.cryptonomist.ch/wp-content/uploads/2021/09/slovenia-crypto-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Blockchain Industry in Slovenia - Slovenia Times",
+            "htmlTitle": "The Blockchain Industry in <b>Slovenia</b> - <b>Slovenia</b> Times",
+            "link": "https://sloveniatimes.com/the-blockchain-industry-in-slovenia/",
+            "displayLink": "sloveniatimes.com",
+            "snippet": "Dec 24, 2020 ... Slovenia, though small, is one of the fastest-growing countries in Europe, particularly in the business and economic contexts.",
+            "htmlSnippet": "Dec 24, 2020 <b>...</b> <b>Slovenia</b>, though small, is one of the fastest-growing countries in Europe, particularly in the business and economic contexts.",
+            "cacheId": "9dm9cruHOmgJ",
+            "formattedUrl": "https://sloveniatimes.com/the-blockchain-industry-in-slovenia/",
+            "htmlFormattedUrl": "https://<b>slovenia</b>times.com/the-blockchain-industry-in-<b>slovenia</b>/",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Editor SloTimes"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-_VMp5E40JsgK7b5JsK3iO2yHMUqWLjcsvwebs-aoZqmO8ym5ZLl-_m0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://sloveniatimes.com/wp-content/uploads/2020/10/Slovenia-Times-2020_logo_negativ_M_72-dpi.png"
+                    },
+                    {
+                        "width": "1000",
+                        "url": "https://sloveniatimes.com/wp-content/uploads/2020/12/NASLOVNA-SLIKA.jpg",
+                        "height": "667"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Editor SloTimes"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Slovenia Times"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://sloveniatimes.com/wp-content/uploads/2020/12/NASLOVNA-SLIKA.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2020-12-24T18:59:00+00:00",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Slovenia Times",
+                        "og:title": "The Blockchain Industry in Slovenia - Slovenia Times",
+                        "og:image:height": "667",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://sloveniatimes.com/wp-content/uploads/2020/11/cropped-blue-logo-transparent-e1604913514278-1-270x270.png",
+                        "og:description": "Slovenia, though small, is one of the fastest-growing countries in Europe, particularly in the business and economic contexts. After its successful economic succession from Yugoslavia, it was the first to join the European Union in 2004 and is the wealthiest Slavic nation, as measured by per capita GDP.\u00a0 Slovenia\u2019s geostrategic location at the crossroads of [\u2026]",
+                        "twitter:data1": "Editor SloTimes",
+                        "twitter:data2": "8 minutes",
+                        "article:modified_time": "2021-01-26T06:19:24+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://sloveniatimes.com/the-blockchain-industry-in-slovenia/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sloveniatimes.com/wp-content/uploads/2020/12/NASLOVNA-SLIKA.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "datemodified": "2021-01-26T07:19:24+01:00",
+                        "headline": "The Blockchain Industry in Slovenia",
+                        "datepublished": "2020-12-24T19:59:00+01:00"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,570 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MYANMAR",
+                "totalResults": "1200000",
+                "searchTerms": "MYANMAR",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MYANMAR",
+                "totalResults": "1200000",
+                "searchTerms": "MYANMAR",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.315954,
+        "formattedSearchTime": "0.32",
+        "totalResults": "1200000",
+        "formattedTotalResults": "1,200,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Myanmar and Cryptocurrency - Virtual Currency Laws | Freeman Law",
+            "htmlTitle": "<b>Myanmar</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b> | Freeman Law",
+            "link": "https://freemanlaw.com/cryptocurrency/myanmar/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "Is cryptocurrency legal in Myanmar? ... Myanmar Cryptocurrency Laws. Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology.",
+            "htmlSnippet": "Is <b>cryptocurrency</b> legal in <b>Myanmar</b>? ... <b>Myanmar Cryptocurrency Laws</b>. <b>Regulation</b> of Digital Currencies: <b>Cryptocurrency</b>, Bitcoins, Blockchain Technology.",
+            "cacheId": "zmNHjO4uHlMJ",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/myanmar/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>myanmar</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-06-12T18:05:00+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/myanmar/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Myanmar? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "1 minute",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T17:56:29+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Myanmar and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Myanmar and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T17:56:29+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Myanmar and Cryptocurrency Myanmar Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In 2020, the Central Bank of Myanmar (CBM) announced that it does not recognize cryptocurrencies as an official currency, and anyone caught trading digital...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/myanmar/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Myanmar Adopts Tether as a Legal Currency While Japan Seeks to ...",
+            "htmlTitle": "<b>Myanmar</b> Adopts Tether as a Legal Currency While Japan Seeks to ...",
+            "link": "https://www.yahoo.com/now/myanmar-adopts-tether-legal-currency-200543732.html",
+            "displayLink": "www.yahoo.com",
+            "snippet": "Dec 14, 2021 ... The cryptocurrency space is growing, and countries are rolling out regulations for the sector. This means that how various countries see\u00a0...",
+            "htmlSnippet": "Dec 14, 2021 <b>...</b> The <b>cryptocurrency</b> space is growing, and countries are rolling out <b>regulations</b> for the sector. This means that how various countries see&nbsp;...",
+            "cacheId": "Wyye9QJJG9wJ",
+            "formattedUrl": "https://www.yahoo.com/.../myanmar-adopts-tether-legal-currency- 200543732.html",
+            "htmlFormattedUrl": "https://www.yahoo.com/.../<b>myanmar</b>-adopts-tether-legal-currency- 200543732.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxZCjLZOMT36vYmULPOyCNBjNXoP2_QzYO2hJ8RKRR25jbM60JasRl4",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=,app-argument=yfinance://article/2a650afe-48a5-3183-9f71-841a1b5b2871",
+                        "og:image": "https://s.yimg.com/uu/api/res/1.2/rZMY0b.PpLIzwMiyl6he1Q--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/4f67a5c2eddb9f1c3057dc3988566733",
+                        "twitter:title": "Myanmar Adopts Tether as a Legal Currency While Japan Seeks to Regulate Stablecoins",
+                        "og:type": "article",
+                        "og:image:width": "615",
+                        "twitter:card": "summary_large_image",
+                        "og:title": "Myanmar Adopts Tether as a Legal Currency While Japan Seeks to Regulate Stablecoins",
+                        "al:android:package": "com.yahoo.mobile.client.android.finance",
+                        "og:image:height": "410",
+                        "og:description": "The latest stablecoin moves by Myanmar\u2019s National Unity Government and Japan\u2019s FSA shows there are regulatory differences in Asia.",
+                        "twitter:dnt": "on",
+                        "twitter:image": "https://s.yimg.com/uu/api/res/1.2/rZMY0b.PpLIzwMiyl6he1Q--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/4f67a5c2eddb9f1c3057dc3988566733",
+                        "twitter:image:src": "https://s.yimg.com/uu/api/res/1.2/rZMY0b.PpLIzwMiyl6he1Q--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/4f67a5c2eddb9f1c3057dc3988566733",
+                        "al:android:url": "yfinance://article/2a650afe-48a5-3183-9f71-841a1b5b2871",
+                        "oath:guce:consent-host": "guce.yahoo.com",
+                        "twitter:site": "@Yahoo",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "news_keywords": "National Unity Government, Myanmar, Tether, unofficial government, Myanmar",
+                        "twitter:description": "The latest stablecoin moves by Myanmar\u2019s National Unity Government and Japan\u2019s FSA shows there are regulatory differences in Asia.",
+                        "og:url": "https://finance.yahoo.com/news/myanmar-adopts-tether-legal-currency-200543732.html",
+                        "al:android:app_name": "Yahoo Finance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/uu/api/res/1.2/rZMY0b.PpLIzwMiyl6he1Q--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/4f67a5c2eddb9f1c3057dc3988566733"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Myanmar | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Myanmar</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/myanmar",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Myanmar for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Myanmar</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "1xbHHDm9PPYJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice...laws...regulations/myanmar",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice...<b>laws</b>...<b>regulations</b>/<b>myanmar</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Myanmar for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Myanmar | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Myanmar for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Myanmar | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/myanmar"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency & Its Future in Myanmar (English Version)",
+            "htmlTitle": "<b>Cryptocurrency</b> &amp; Its Future in <b>Myanmar</b> (English Version)",
+            "link": "https://www.inyaeconomics.com/wp-content/uploads/2021/08/Cryptocurrency-Its-Future-in-Myanmar-English-Version-.pdf",
+            "displayLink": "www.inyaeconomics.com",
+            "snippet": "Aug 3, 2021 ... Regulations on Cryptocurrency around the World. Cryptocurrencies are legalized in European Union, G7, East & Central Africa, Southern.",
+            "htmlSnippet": "Aug 3, 2021 <b>...</b> <b>Regulations</b> on <b>Cryptocurrency</b> around the World. <b>Cryptocurrencies</b> are legalized in European Union, G7, East &amp; Central Africa, Southern.",
+            "cacheId": "vCyGKOZEuAIJ",
+            "formattedUrl": "https://www.inyaeconomics.com/.../Cryptocurrency-Its-Future-in-Myanmar- English-Version-.pdf",
+            "htmlFormattedUrl": "https://www.inyaeconomics.com/.../<b>Cryptocurrency</b>-Its-Future-in-<b>Myanmar</b>- English-Version-.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1mxgAq6y37Q8HqbEe1qqDhG3HxfB8mh925ZldYwTLjAsSOlf6fBMG9DE",
+                        "width": "286",
+                        "height": "176"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20210805164619+00'00'",
+                        "creator": "Canva",
+                        "creationdate": "D:20210805164619+00'00'",
+                        "author": "Ye Zaw Khant",
+                        "producer": "Canva",
+                        "title": "Cryptocurrency  & Its Future in Myanmar (English Version)"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///db62c65e9938007e368b33796b55a6ca3edeb703d710a9a6b2bb06504e04bf32"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How Myanmar could benefit from cryptocurrencies | The Myanmar ...",
+            "htmlTitle": "How <b>Myanmar</b> could benefit from <b>cryptocurrencies</b> | The <b>Myanmar</b> ...",
+            "link": "https://www.mmtimes.com/news/how-myanmar-could-benefit-cryptocurrencies.html",
+            "displayLink": "www.mmtimes.com",
+            "snippet": "Dec 24, 2020 ... Cryptocurrency exchanges, if regulated by the central bank, allow for direct transfers from overseas donors to recipients in Myanmar. From\u00a0...",
+            "htmlSnippet": "Dec 24, 2020 <b>...</b> <b>Cryptocurrency</b> exchanges, if <b>regulated</b> by the central bank, allow for direct transfers from overseas donors to recipients in <b>Myanmar</b>. From&nbsp;...",
+            "cacheId": "4QqYvhSphkAJ",
+            "formattedUrl": "https://www.mmtimes.com/.../how-myanmar-could-benefit-cryptocurrencies. html",
+            "htmlFormattedUrl": "https://www.mmtimes.com/.../how-<b>myanmar</b>-could-benefit-<b>cryptocurrencies</b>. html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP60F13lgD1neS_MzjFVB4vp0mZ4-aLOSG4f0AWpYFCg1yql9Gi2M8M5IS",
+                        "width": "249",
+                        "height": "203"
+                    }
+                ],
+                "Item": [
+                    {
+                        "num_replies": "0",
+                        "title": "How Myanmar could benefit from cryptocurrencies"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#da532c",
+                        "og:image": "https://www.mmtimes.com/sites/mmtimes.com/files/news-images/story_2_12.jpg",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "article:published_time": "2020-12-24",
+                        "og:site_name": "The Myanmar Times",
+                        "handheldfriendly": "1",
+                        "og:title": "How Myanmar could benefit from cryptocurrencies",
+                        "og:description": "Last week Bitcoin, the original and most prominent cryptocurrency, broke through the all-time highs of around $20,000 per coin. After crashing to just $5,200 in March, the digital currency increased by over 350 percent in nine months, and is now priced at just below $24,000.",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.mmtimes.com/news/how-myanmar-could-benefit-cryptocurrencies.html"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    },
+                    {
+                        "title": "Business",
+                        "url": "Business"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mmtimes.com/sites/mmtimes.com/files/news-images/story_2_12.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency Regulations in Mainland Southeast Asia \u2013 Tilleke ...",
+            "htmlTitle": "<b>Cryptocurrency Regulations</b> in Mainland Southeast Asia \u2013 Tilleke ...",
+            "link": "https://www.tilleke.com/insights/cryptocurrency-regulations-mainland-southeast-asia/",
+            "displayLink": "www.tilleke.com",
+            "snippet": "In Myanmar, the only official statement on cryptocurrencies has been an announcement issued by the Central Bank of Myanmar (CBM) on May 3, 2019,\u00a0...",
+            "htmlSnippet": "In <b>Myanmar</b>, the only official statement on <b>cryptocurrencies</b> has been an announcement issued by the Central Bank of <b>Myanmar</b> (CBM) on May 3, 2019,&nbsp;...",
+            "cacheId": "jtAIgSnJu6kJ",
+            "formattedUrl": "https://www.tilleke.com/.../cryptocurrency-regulations-mainland-southeast- asia/",
+            "htmlFormattedUrl": "https://www.tilleke.com/.../<b>cryptocurrency</b>-<b>regulations</b>-mainland-southeast- asia/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1gv3_a6RynlcVL1OREux2ONkjynJEiek1eJ-NilYFzpMgdWR0KEciKA",
+                        "width": "300",
+                        "height": "136"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Tilleke & Gibbins",
+                        "article:modified_time": "2021-01-12T03:11:58+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "og:title": "Cryptocurrency Regulations in Mainland Southeast Asia - Tilleke & Gibbins",
+                        "og:locale": "en_US",
+                        "twitter:label1": "Est. reading time",
+                        "og:url": "https://www.tilleke.com/insights/cryptocurrency-regulations-mainland-southeast-asia/",
+                        "msapplication-tileimage": "https://www.tilleke.com/wp-content/uploads/2020/08/cropped-favicon-1-270x270.png",
+                        "og:description": "Introduction",
+                        "twitter:data1": "7 minutes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.tilleke.com/wp-content/uploads/2020/10/White_TG_stylized_transparent_resized-300x136.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Myanmar shadow government approves crypto as official currency ...",
+            "htmlTitle": "<b>Myanmar</b> shadow government approves crypto as official currency ...",
+            "link": "https://www.aljazeera.com/economy/2021/12/14/myanmar-shadow-government-approves-crypto-as-official-currency",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "Dec 14, 2021 ... National Unity Government says it will allow use of Tether as it tries to fund 'revolution' against military government. Myanmar's National\u00a0...",
+            "htmlSnippet": "Dec 14, 2021 <b>...</b> National Unity Government says it will allow use of Tether as it tries to fund &#39;revolution&#39; against military government. <b>Myanmar&#39;s</b> National&nbsp;...",
+            "cacheId": "YO34PIOmpDIJ",
+            "formattedUrl": "https://www.aljazeera.com/.../myanmar-shadow-government-approves-crypto -as-official-currency",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>myanmar</b>-shadow-government-approves-crypto -as-official-currency",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWDQvYM6MF8zqvXGD5CEk1OZK9gW0GGHL9gPaaU5lqugeE5UmeQ_k8qLxl",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/11/coinbase.jpg?resize=1200%2C630",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Myanmar shadow government approves crypto as official currency",
+                        "taxonomy-tags": "Economy, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/economy/2021/12/14/myanmar-shadow-government-approves-crypto-as-official-currency",
+                        "pagesection": "Economy,Business and Economy,Crypto",
+                        "og:title": "Myanmar shadow government approves crypto as official currency",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2021/12/14/myanmar-shadow-government-approves-crypto-as-official-currency",
+                        "source": "Reuters",
+                        "og:description": "National Unity Government says it will allow use of Tether as it tries to fund \u2018revolution\u2019 against military government.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/11/coinbase.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Myanmar shadow government approves crypto as official currency",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "National Unity Government says it will allow use of Tether as it tries to fund \u2018revolution\u2019 against military government.",
+                        "og:url": "https://www.aljazeera.com/economy/2021/12/14/myanmar-shadow-government-approves-crypto-as-official-currency",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/11/coinbase.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of Cryptocurrency on the Horizon? | BKD, LLP",
+            "htmlTitle": "<b>Regulation of Cryptocurrency</b> on the Horizon? | BKD, LLP",
+            "link": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "displayLink": "www.bkd.com",
+            "snippet": "Oct 20, 2021 ... This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "htmlSnippet": "Oct 20, 2021 <b>...</b> This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+            "cacheId": "35n3Rg6UP9oJ",
+            "formattedUrl": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+            "htmlFormattedUrl": "https://www.bkd.com/article/2021/10/<b>regulation</b>-<b>cryptocurrency</b>-horizon",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0OLA4rWo583aZ3DaXxOCGF_mULT1jKW4-CNAuAmIRTCTEUQ-lEQmYchx",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "msapplication-config": "/themes/bkd/favicons/browserconfig.xml",
+                        "article:published_time": "2021-10-20T13:26:00",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Regulation of Cryptocurrency on the Horizon?",
+                        "theme-color": "#ffffff",
+                        "handheldfriendly": "true",
+                        "twitter:url": "https://www.bkd.com/article/2021/10/regulation-cryptocurrency-horizon",
+                        "msapplication-tileimage": "/themes/bkd/ms-icon-144x144.png",
+                        "twitter:image": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg",
+                        "twitter:site": "@BKDLLP",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "This article provides details on accounting guidance and SEC and Federal Reserve activity in response to a surge in crypto investments.",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bkd.com/sites/default/files/2018-07/AAA-645732556.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Myanmar Central Bank Claims Crypto is Banned, Users Disagree",
+            "htmlTitle": "<b>Myanmar</b> Central Bank Claims Crypto is Banned, Users Disagree",
+            "link": "https://cointelegraph.com/news/myanmar-central-bank-claims-crypto-is-banned-users-disagree",
+            "displayLink": "cointelegraph.com",
+            "snippet": "May 22, 2020 ... The Central Bank of Myanmar (CBM) announced that it does not recognize cryptocurrencies as an official currency and anyone caught trading\u00a0...",
+            "htmlSnippet": "May 22, 2020 <b>...</b> The Central Bank of <b>Myanmar</b> (CBM) announced that it does not recognize <b>cryptocurrencies</b> as an official currency and anyone caught trading&nbsp;...",
+            "cacheId": "ApVwFybsb6kJ",
+            "formattedUrl": "https://cointelegraph.com/.../myanmar-central-bank-claims-crypto-is-banned- users-disagree",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>myanmar</b>-central-bank-claims-crypto-is-banned- users-disagree",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFE_HsdJTo6rpSNgtpudWwBsikxLsvFOvOe07DF_S1nQN0u5hzm2A77w_4",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZWRkOGUxMWU5ZjkzMzZiODNjNTE0MjcwMzllOTVmMi5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Myanmar Central Bank Claims Crypto is Banned, Users Disagree",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Myanmar Central Bank Claims Crypto is Banned, Users Disagree",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Myanmar\u2019s central bank claims crypto traders can be fined or imprisoned, but there are doubts about whether legislation backs this up",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZWRkOGUxMWU5ZjkzMzZiODNjNTE0MjcwMzllOTVmMi5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Myanmar\u2019s central bank claims crypto traders can be fined or imprisoned, but there are doubts about whether legislation backs this up",
+                        "og:url": "https://cointelegraph.com/news/myanmar-central-bank-claims-crypto-is-banned-users-disagree"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZWRkOGUxMWU5ZjkzMzZiODNjNTE0MjcwMzllOTVmMi5qcGc=.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tether Is Now Currency for Myanmar's Anti-Junta National Unity ...",
+            "htmlTitle": "Tether Is Now Currency for <b>Myanmar&#39;s</b> Anti-Junta National Unity ...",
+            "link": "https://www.bloomberg.com/news/articles/2021-12-13/myanmar-s-shadow-government-uses-tether-amid-anti-junta-campaign",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Dec 13, 2021 ... The National Unity Government officially accepts Tether, a cryptocurrency meant to be a dollar proxy, for \u201cdomestic use to make it easy and\u00a0...",
+            "htmlSnippet": "Dec 13, 2021 <b>...</b> The National Unity Government officially accepts Tether, a <b>cryptocurrency</b> meant to be a dollar proxy, for \u201cdomestic use to make it easy and&nbsp;...",
+            "cacheId": "9zcuVMxz4twJ",
+            "formattedUrl": "https://www.bloomberg.com/.../myanmar-s-shadow-government-uses-tether- amid-anti-junta-campaign",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>myanmar</b>-s-shadow-government-uses-tether- amid-anti-junta-campaign",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRluSU7BhJT7ieuvrMuO9-kwA0CzATSueOwDb444D0isg9onJRe8rrwvic",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i625ioN5SJuA/v1/1200x800.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Myanmar,Tether,Government,Currency,Thu Aung Min,Cryptocurrency,Military,US Dollar Spot,stablecoin,Bitcoin,politics,markets,business,cryptocurrencies",
+                        "lotame-bbg-topic": "stablecoin,military,cryptocurrency,currency,government,tether,decentralized-finance",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "og:description": "A parallel government led by the supporters of Myanmar\u2019s ousted leader Aung San Suu Kyi recognized Tether as an official currency for local use after the group began fundraising for a campaign that seeks to topple the military regime.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i625ioN5SJuA/v1/1200x800.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@bpolitics",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-12-13/myanmar-s-shadow-government-uses-tether-amid-anti-junta-campaign",
+                        "iso-8601-publish-date": "2021-12-13T08:52:05.977Z",
+                        "sailthru.title": "Tether Is Now Official Currency for Myanmar\u2019s Anti-Junta Groups",
+                        "checksum": "60904dacdb5df346e6bc7791e0a4b7ed",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i625ioN5SJuA/v1/1200x800.jpg",
+                        "parsely-section": "politics",
+                        "article:content_tier": "metered",
+                        "fb:status": "A parallel government led by the supporters of Myanmar\u2019s ousted leader Aung San Suu Kyi recognized Tether as an official currency for local use after the group began fundraising for a campaign that seeks to topple the military regime.",
+                        "sailthru.date": "2021-12-13T08:52:05.977Z",
+                        "og:type": "article",
+                        "twitter:title": "Tether Is Now Official Currency for Myanmar\u2019s Anti-Junta Groups",
+                        "parsely-post-id": "R41JJODWX2PS01",
+                        "og:title": "Tether Is Now Official Currency for Myanmar\u2019s Anti-Junta Groups",
+                        "parsely-title": "Tether Is Now Currency for Myanmar\u2019s Anti-Junta National Unity Government",
+                        "parsely-pub-date": "2021-12-13T08:52:05.977Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-12-13/myanmar-s-shadow-government-uses-tether-amid-anti-junta-campaign?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "markets,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Myanmar,Tether,Government,Currency,Thu Aung Min,Cryptocurrency,Military,US Dollar Spot,stablecoin,Bitcoin,Secondary Brand: politics,Secondary Brand: markets,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "A parallel government led by the supporters of Myanmar\u2019s ousted leader Aung San Suu Kyi recognized Tether as an official currency for local use after the group began fundraising for a campaign that seeks to topple the military regime.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "A parallel government led by the supporters of Myanmar\u2019s ousted leader Aung San Suu Kyi recognized Tether as an official currency for local use after the group began fundraising for a campaign that seeks to topple the military regime.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-12-13/myanmar-s-shadow-government-uses-tether-amid-anti-junta-campaign",
+                        "validatedat": "2022-01-25T03:04:58.127Z",
+                        "al:android:app_name": "Bloomberg",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i625ioN5SJuA/v1/1200x800.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

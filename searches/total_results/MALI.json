@@ -1,0 +1,460 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - MALI",
+                "totalResults": "703000",
+                "searchTerms": "MALI",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - MALI",
+                "totalResults": "703000",
+                "searchTerms": "MALI",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.444638,
+        "formattedSearchTime": "0.44",
+        "totalResults": "703000",
+        "formattedTotalResults": "703,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Blockchain & Cryptocurrency Laws and Regulations | Mali | GLI",
+            "htmlTitle": "Blockchain &amp; <b>Cryptocurrency Laws</b> and <b>Regulations</b> | <b>Mali</b> | GLI",
+            "link": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mali",
+            "displayLink": "www.globallegalinsights.com",
+            "snippet": "The Mali for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition,\u00a0...",
+            "htmlSnippet": "The <b>Mali</b> for Blockchain &amp; <b>Cryptocurrency Regulation</b> 2022 is not available. To enquire as to whether this chapter is available in a previous edition,&nbsp;...",
+            "cacheId": "VnVfEViSidMJ",
+            "formattedUrl": "https://www.globallegalinsights.com/practice-areas/...laws...regulations/mali",
+            "htmlFormattedUrl": "https://www.globallegalinsights.com/practice-areas/...<b>laws</b>...<b>regulations</b>/<b>mali</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "FREE ONLINE",
+                        "itemoffered": "Order the print edition of Blockchain & Cryptocurrency Regulation 2022 or read free online",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl8zcwgAKmdj1X7suEVUBjmcyHS6_u0eanzmt4IN6FmcFyWP-_yXWwzYEb",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "dc.publisher": "Global Legal Group",
+                        "og:image": "https://www.globallegalinsights.com//theme/assets/img/gli/blockchain.png",
+                        "theme-color": "#890000",
+                        "twitter:title": "International legal business solutions  | GLI",
+                        "dc.description": "The Mali for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "og:site_name": "GLI - Global Legal Insights - International legal business solutions",
+                        "msvalidate.01": "BD69BFEC03D0D9C746055817744C4FB6",
+                        "og:title": "Blockchain & Cryptocurrency Laws and Regulations | Mali | GLI",
+                        "dc.coverage": "United Kingdom",
+                        "dc.format": "text/html",
+                        "msapplication-tileimage": "https://www.globallegalinsights.com/theme/assets/favicon/gli/ms-icon-144x144.png",
+                        "og:description": "The Mali for Blockchain & Cryptocurrency Regulation 2022 is not available. To enquire as to whether this chapter is available in a previous edition, please contact us",
+                        "twitter:creator": "@GLI_GLG",
+                        "twitter:image": "https://www.globallegalinsights.com/theme/assets/img/gli/gli-logo-web.png",
+                        "fb:app_id": "1790215187909008",
+                        "twitter:site": "@GLI_GLG",
+                        "dc.type": "Text",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Provides essential insights into the current legal issues, readers with expert analysis of legal, economic and policy developments with the world's leading lawyers.",
+                        "dc.title": "Blockchain & Cryptocurrency Laws and Regulations | Mali | GLI",
+                        "dc.identifier": "https://www.globallegalinsights.com",
+                        "og:url": "https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/mali"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.globallegalinsights.com//theme/assets/img/gli/covers/blockchain.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Regulation of cryptocurrency around the world | Library of Congress",
+            "htmlTitle": "<b>Regulation of cryptocurrency</b> around the world | Library of Congress",
+            "link": "https://www.loc.gov/item/2021687419/",
+            "displayLink": "www.loc.gov",
+            "snippet": "Book/Printed Material Regulation of cryptocurrency around the world ... Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico,\u00a0...",
+            "htmlSnippet": "Book/Printed Material <b>Regulation of cryptocurrency</b> around the world ... Lithuania, Luxembourg, Macao, Malaysia, Maldives, <b>Mali</b>, Malta, Mauritius, Mexico,&nbsp;...",
+            "cacheId": "3V0yoN6DFk0J",
+            "formattedUrl": "https://www.loc.gov/item/2021687419/",
+            "htmlFormattedUrl": "https://www.loc.gov/item/2021687419/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx9ib47p3KF1KCUEA8X0QOgSIf2bT1IpoKMIsxPYh-eRmFl-vvHes4tk",
+                        "width": "194",
+                        "height": "150"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "og:type": "article",
+                        "og:image:width": "194",
+                        "og:site_name": "The Library of Congress",
+                        "msvalidate.01": "5C89FB9D99590AB2F55BD95C3A59BD81",
+                        "og:title": "Regulation of cryptocurrency around the world",
+                        "dc.relation.ispartof": "legal reports (publications of the law library of congress)",
+                        "og:image:height": "150",
+                        "og:image:type": "image/gif",
+                        "msapplication-tileimage": "ms-icon-144x144.png",
+                        "version": "$Revision$",
+                        "og:description": "\"Albania, Algeria, Angola, Anguilla, Antigua and Barbuda, Argentina, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bermuda, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Cayman Islands, Central Africa Republic, Chad, Chile, China, Colombia, Costa Rica, Co\u0302te d'Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of the Congo, Denmark, Ecuador, Egypt, El Salvador, Estonia, European Union, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Guernsey, Guyana, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Mali, Malta, Mauritius, Mexico, Moldova, Montenegro, Morocco, Namibia, Nepal, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Philippines, Poland, Portugal, Qatar, Republic ",
+                        "og:image:secure_url": "https://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif",
+                        "twitter:site": "librarycongress",
+                        "dc.source": "Library of Congress, Washington, D.C. 20540 USA",
+                        "dc.type": "image",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "dc.title": "Regulation of cryptocurrency around the world",
+                        "fb:admins": "libraryofcongress",
+                        "dc.identifier": "https://www.loc.gov/item/2021687419/",
+                        "dc.language": "eng",
+                        "og:url": "https://www.loc.gov/item/2021687419/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://tile.loc.gov/storage-services/service/ll/llglrd/2021687419/2021687419.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Africa could be the next frontier for cryptocurrency | Africa Renewal",
+            "htmlTitle": "Africa could be the next frontier for <b>cryptocurrency</b> | Africa Renewal",
+            "link": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+            "displayLink": "www.un.org",
+            "snippet": "Interest in cryptocurrency, a form of digital currency, ... may be powerless to regulate cryptocurrency, the Nigerian central bank indicated recently.",
+            "htmlSnippet": "Interest in <b>cryptocurrency</b>, a form of digital currency, ... may be powerless to <b>regulate cryptocurrency</b>, the Nigerian central bank indicated recently.",
+            "cacheId": "fLmVYBVgn9sJ",
+            "formattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-cryptocurrency",
+            "htmlFormattedUrl": "https://www.un.org/.../april.../africa-could-be-next-frontier-<b>cryptocurrency</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr9Lqhzl8RAp4Ms4K_953nKjYrmIztmWQyYt3yKF-NwMvYz1yYszU6O00",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Africa could be the next frontier for cryptocurrency",
+                        "encoded": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa. Some economists say it is a disruptive innovation that will blossom on the continent. Cryptocurrency is..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Africa could be the next frontier for cryptocurrency",
+                        "article:published_time": "2018-04-06T15:44:46-04:00",
+                        "og:site_name": "Africa Renewal",
+                        "twitter:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+                        "og:title": "Africa could be the next frontier for cryptocurrency",
+                        "twitter:image:height": "420",
+                        "og:updated_time": "2018-07-05T16:28:04-04:00",
+                        "og:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "twitter:creator": "[@africarenewal]",
+                        "og:image:secure_url": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:image": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg",
+                        "twitter:creator:id": "[48476482]",
+                        "twitter:image:width": "770",
+                        "article:modified_time": "2018-07-05T16:28:04-04:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Interest in cryptocurrency, a form of digital currency, is growing steadily in Africa.",
+                        "og:url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.un.org/africarenewal/sites/www.un.org.africarenewal/files/Bitcoin-302428012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Digital Currencies: International Actions and Regulations | Perkins ...",
+            "htmlTitle": "Digital Currencies: International Actions and <b>Regulations</b> | Perkins ...",
+            "link": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html",
+            "displayLink": "www.perkinscoie.com",
+            "snippet": "Cryptocurrency exchanges in Australia are already required to comply with new anti-money laundering and counter terrorist financing rules under AUSTRAC, the\u00a0...",
+            "htmlSnippet": "<b>Cryptocurrency</b> exchanges in Australia are already required to comply with new anti-money laundering and counter terrorist financing rules under AUSTRAC, the&nbsp;...",
+            "cacheId": "UEw8kn0GGWQJ",
+            "formattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- regulations.html",
+            "htmlFormattedUrl": "https://www.perkinscoie.com/.../digital-currencies-international-actions-and- <b>regulations</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfw1qAPhUYilP8ZWNa6aHs--yp4VcXc9AeSkT9IBkSdYrU6KHtKMWhoQ",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Perkins Coie LLP",
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "msapplication-config": "/images/favicons/browserconfig.xml",
+                        "og:type": "website",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Perkins Coie",
+                        "og:title": "Digital Currencies: International Actions and Regulations",
+                        "apple-mobile-web-app-title": "Perkins Coie LLP",
+                        "og:description": "Last updated: January 2021\nNo Legal Advice or Attorney-Client Relationship: This chart is provided by Perkins Coie LLP\u2019s Blockchain, Digital Assets & Custody industry group for informational purposes ...",
+                        "og:image:secure_url": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable = no, maximum-scale=1.0",
+                        "og:url": "https://www.perkinscoie.com/en/news-insights/digital-currencies-international-actions-and-regulations.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.perkinscoie.com/images/content/2/3/v2/234271.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Financial products and services - Advertising Policies Help",
+            "htmlTitle": "Financial products and services - Advertising Policies Help",
+            "link": "https://support.google.com/adspolicy/answer/2464998?hl=en",
+            "displayLink": "support.google.com",
+            "snippet": "The following cryptocurrency products and services may only be advertised if the advertiser is a licensed provider, the products and ads comply with local laws\u00a0...",
+            "htmlSnippet": "The following <b>cryptocurrency</b> products and services may only be advertised if the advertiser is a licensed provider, the products and ads comply with local <b>laws</b>&nbsp;...",
+            "cacheId": "r6kokxmOFokJ",
+            "formattedUrl": "https://support.google.com/adspolicy/answer/2464998?hl=en",
+            "htmlFormattedUrl": "https://support.google.com/adspolicy/answer/2464998?hl=en",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=3,user-scalable=yes",
+                        "format-detection": "email=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FinCEN.gov: United States Department of the Treasury Financial ...",
+            "htmlTitle": "FinCEN.gov: United States Department of the Treasury Financial ...",
+            "link": "https://www.fincen.gov/",
+            "displayLink": "www.fincen.gov",
+            "snippet": "Information on U.S. Anti-Money Laundering and Counter-Terrorism Financing Regulations. Value of FinCEN Data. FinCEN Data Has Played a Significant Role in\u00a0...",
+            "htmlSnippet": "Information on U.S. Anti-Money Laundering and Counter-Terrorism Financing <b>Regulations</b>. Value of FinCEN Data. FinCEN Data Has Played a Significant Role in&nbsp;...",
+            "cacheId": "5ADkMO1eTxsJ",
+            "formattedUrl": "https://www.fincen.gov/",
+            "htmlFormattedUrl": "https://www.fincen.gov/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzPBto_rPkK62A9fyYSiu65HF0HyYID1z9vB7XjJMnYfAirnQko62_uMU",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.fincen.gov/sites/default/files/images/news-releases/AML%20Act%20320x213_2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Serbia Reviews License Applications From 3 Cryptocurrency ...",
+            "htmlTitle": "Serbia Reviews License Applications From 3 <b>Cryptocurrency</b> ...",
+            "link": "https://news.bitcoin.com/serbia-reviews-license-applications-from-3-cryptocurrency-exchanges/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Dec 26, 2021 ... Responding to questions from lawmakers, Mali also revealed that ... one of the first nations to regulate this field through legislation.",
+            "htmlSnippet": "Dec 26, 2021 <b>...</b> Responding to questions from lawmakers, <b>Mali</b> also revealed that ... one of the first nations to <b>regulate</b> this field through legislation.",
+            "cacheId": "qbaOuKDOHX4J",
+            "formattedUrl": "https://news.bitcoin.com/serbia-reviews-license-applications-from-3- cryptocurrency-exchanges/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/serbia-reviews-license-applications-from-3- <b>cryptocurrency</b>-exchanges/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiY68yALK5Z0P4ONeuznXtIibnWTYmlE50eTk2xrv3ZyBUYA_-GhFLMAE",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1045287091.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-12-26T05:30:54+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Serbia Reviews License Applications From 3 Cryptocurrency Exchanges \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "Three crypto exchanges have applied for licensing in Serbia, which recently adopted legislation regulating its digital asset space.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-12-26T04:15:48+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/serbia-reviews-license-applications-from-3-cryptocurrency-exchanges/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Serbia Reviews License Applications From 3 Cryptocurrency Exchanges"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/12/shutterstock_1045287091.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Guidance FIN-2013-G001 Issued: March 18, 2013 Subject ...",
+            "htmlTitle": "Guidance FIN-2013-G001 Issued: March 18, 2013 Subject ...",
+            "link": "https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf",
+            "displayLink": "www.fincen.gov",
+            "snippet": "Mar 18, 2013 ... However, an administrator or exchanger is an MSB under FinCEN's regulations, specifically, a money transmitter, unless a limitation to or\u00a0...",
+            "htmlSnippet": "Mar 18, 2013 <b>...</b> However, an administrator or exchanger is an MSB under FinCEN&#39;s <b>regulations</b>, specifically, a money transmitter, unless a limitation to or&nbsp;...",
+            "cacheId": "S536_8LjWpMJ",
+            "formattedUrl": "https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf",
+            "htmlFormattedUrl": "https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIyEGG8j3_3vJu9Wt9jCXr_sYdwly2aqc2OYDLTHuwUIypCJga1EM05Wc",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20191122104057-05'00'",
+                        "creationdate": "D:20130318164938-04'00'",
+                        "creator": "Microsoft\u00ae Word 2010",
+                        "author": "whitej",
+                        "producer": "Microsoft\u00ae Word 2010; modified using iTextSharp\u2122 5.5.13.1 \u00a92000-2019 iText Group NV (AGPL-version)",
+                        "title": "FIN 2013 G001"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///364e3e173e9ad194a35bed564e76e98630982de7b7d14b622333a7b9bceb1832"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FATF-GAFI.ORG - Financial Action Task Force (FATF)",
+            "htmlTitle": "FATF-GAFI.ORG - Financial Action Task Force (FATF)",
+            "link": "https://www.fatf-gafi.org/",
+            "displayLink": "www.fatf-gafi.org",
+            "snippet": "Digital Transformation. Technology has the potential to make anti-money laundering and counter terrorist financing efforts faster, cheaper and more\u00a0...",
+            "htmlSnippet": "Digital Transformation. Technology has the potential to make anti-money laundering and counter terrorist financing efforts faster, cheaper and more&nbsp;...",
+            "cacheId": "YsYjxl2aUGYJ",
+            "formattedUrl": "https://www.fatf-gafi.org/",
+            "htmlFormattedUrl": "https://www.fatf-gafi.org/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Financial Conduct Authority | FCA",
+            "htmlTitle": "Financial Conduct Authority | FCA",
+            "link": "https://www.fca.org.uk/",
+            "displayLink": "www.fca.org.uk",
+            "snippet": "The Financial Conduct Authority is the conduct regulator for around 51000 financial services firms and financial markets in the UK and the prudential\u00a0...",
+            "htmlSnippet": "The Financial Conduct Authority is the conduct regulator for around 51000 financial services firms and financial markets in the UK and the prudential&nbsp;...",
+            "cacheId": "7JeiLSn1qY0J",
+            "formattedUrl": "https://www.fca.org.uk/",
+            "htmlFormattedUrl": "https://www.fca.org.uk/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#fff",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Homepage",
+                        "og:site_name": "FCA",
+                        "twitter:site:id": "169431716",
+                        "handheldfriendly": "true",
+                        "msvalidate.01": "57E38F6BD7138599EBD7F7F4FF496957",
+                        "og:title": "FCA",
+                        "twitter:image": "https://www.fca.org.uk/sites/default/files/images/fca-logo-social-media.jpg",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@TheFCA",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobileoptimized": "width",
+                        "og:url": "https://www.fca.org.uk/"
+                    }
+                ]
+            }
+        }
+    ]
+}

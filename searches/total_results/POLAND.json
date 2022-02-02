@@ -1,0 +1,528 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - POLAND",
+                "totalResults": "708000",
+                "searchTerms": "POLAND",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - POLAND",
+                "totalResults": "708000",
+                "searchTerms": "POLAND",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.347489,
+        "formattedSearchTime": "0.35",
+        "totalResults": "708000",
+        "formattedTotalResults": "708,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Poland says cryptocurrency trading is de facto legal - Hogan Lovells ...",
+            "htmlTitle": "<b>Poland</b> says <b>cryptocurrency</b> trading is de facto legal - Hogan Lovells ...",
+            "link": "https://www.engage.hoganlovells.com/knowledgeservices/news/poland-says-cryptocurrency-trading-is-de-facto-legal",
+            "displayLink": "www.engage.hoganlovells.com",
+            "snippet": "The Polish financial regulator has said that the trading of cryptocurrencies is de facto legal in the country. What does this mean? In an official, non-binding\u00a0...",
+            "htmlSnippet": "The <b>Polish</b> financial regulator has said that the trading of <b>cryptocurrencies</b> is de facto legal in the country. What does this mean? In an official, non-binding&nbsp;...",
+            "formattedUrl": "https://www.engage.hoganlovells.com/.../poland-says-cryptocurrency-trading -is-de-facto-legal",
+            "htmlFormattedUrl": "https://www.engage.hoganlovells.com/.../<b>poland</b>-says-<b>cryptocurrency</b>-trading -is-de-facto-legal",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8MC7-dYoFsKkz14QJ-RkmYEOA7OOx0rx5-NDQdN5xE_tecdLaaKlv6_g",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "og:image": "https://www.engage.hoganlovells.com/knowledgeservices/contentImage.action?contentId=2356&attId=3641512&nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&fromSocialSharing=1",
+                        "og:type": "article",
+                        "og:image:width": "512",
+                        "og:image:alt": "Poland",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Poland says cryptocurrency trading is de facto legal",
+                        "theme-color": "#ffffff",
+                        "twitter:url": "https://www.engage.hoganlovells.com/knowledgeservices/news/poland-says-cryptocurrency-trading-is-de-facto-legal",
+                        "og:title": "Poland says cryptocurrency trading is de facto legal",
+                        "og:image:height": "384",
+                        "title": "Poland says cryptocurrency trading is de facto legal",
+                        "msapplication-tileimage": "./flag/flag_4054.gif",
+                        "og:description": "In&nbsp;an official, non-binding statement, the&nbsp;Polish Financial Supervision Authority&nbsp;said it wanted to clarify the status of cryptocurrencies and cryptocurrency trading",
+                        "twitter:image": "https://www.engage.hoganlovells.com/knowledgeservices/contentImage.action?contentId=2356&attId=3641512&nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&fromSocialSharing=1",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "twitter:description": "In&nbsp;an official, non-binding statement, the&nbsp;Polish Financial Supervision Authority&nbsp;said it wanted to clarify the status of cryptocurrencies and cryptocurrency trading",
+                        "og:url": "https://www.engage.hoganlovells.com/knowledgeservices/news/poland-says-cryptocurrency-trading-is-de-facto-legal",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.engage.hoganlovells.com/knowledgeservices/contentImage.action?contentId=2356&attId=3641512&nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&fromSocialSharing=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A new era for cryptocurrencies in Poland",
+            "htmlTitle": "A new era for <b>cryptocurrencies</b> in <b>Poland</b>",
+            "link": "https://www.schoenherr.eu/content/a-new-era-for-cryptocurrencies-in-poland/",
+            "displayLink": "www.schoenherr.eu",
+            "snippet": "Jan 3, 2022 ... With the appearance of Bitcoin ATMs on the streets the cryptocurrency business seems to be blossoming. But do Poland's new cryptocurrency laws\u00a0...",
+            "htmlSnippet": "Jan 3, 2022 <b>...</b> With the appearance of Bitcoin ATMs on the streets the <b>cryptocurrency</b> business seems to be blossoming. But do <b>Poland&#39;s</b> new <b>cryptocurrency laws</b>&nbsp;...",
+            "cacheId": "jl7Awo0CeXYJ",
+            "formattedUrl": "https://www.schoenherr.eu/.../a-new-era-for-cryptocurrencies-in-poland/",
+            "htmlFormattedUrl": "https://www.schoenherr.eu/.../a-new-era-for-<b>cryptocurrencies</b>-in-<b>poland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12UlUuXI5U7gSnWqs7YnqbI4MUocjTDAtWsQtKmx3a99O15ydeg9oDlNG",
+                        "width": "200",
+                        "height": "200"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.schoenherr.eu/media/2b4fljeo/paula-weronika-kapica-pawe\u0142-jastrzebski_rm22_further.jpg?anchor=center&mode=crop&width=450&height=250&rnd=132850825712930000",
+                        "theme-color": "#000",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:url": "https://www.schoenherr.eu/content/a-new-era-for-cryptocurrencies-in-poland/",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.schoenherr.eu/media/qwmhpgyx/schoenherr-people-2500x2500-kapica-paula-weronika.png?anchor=center&mode=crop&width=200&height=200&rnd=132429284830500000"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "UNITED STATES - POLAND INCOME TAX CONVENTION ...",
+            "htmlTitle": "UNITED STATES - <b>POLAND</b> INCOME TAX CONVENTION ...",
+            "link": "https://www.irs.gov/pub/irs-trty/poland.pdf",
+            "displayLink": "www.irs.gov",
+            "snippet": "Jan 23, 1975 ... United States of America and the Government of the Polish People's Republic ... which is created or organized under the laws of Poland; and.",
+            "htmlSnippet": "Jan 23, 1975 <b>...</b> United States of America and the Government of the <b>Polish</b> People&#39;s Republic ... which is created or organized under the <b>laws</b> of <b>Poland</b>; and.",
+            "cacheId": "lahm2xW95x0J",
+            "formattedUrl": "https://www.irs.gov/pub/irs-trty/poland.pdf",
+            "htmlFormattedUrl": "https://www.irs.gov/pub/irs-trty/<b>poland</b>.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9Q-Ce8DuvgPAOwl3_FBnjdcBH0lZvxINUehts98wFHrflJKVZ_CIPLTM",
+                        "width": "197",
+                        "height": "255"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20110802110858-04'00'",
+                        "creationdate": "D:20000113082235Z",
+                        "creator": "Microsoft Word - POLANDWEB",
+                        "author": "Internal Revenue Service",
+                        "producer": "APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003",
+                        "title": "POLANDWEB.PDF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///ee79a34cebce4b7624dd0904e594142d570b57f3947be351b434fc82941a78c0"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virtual Currencies Comparative Guide - Technology - Poland",
+            "htmlTitle": "Virtual Currencies Comparative Guide - Technology - <b>Poland</b>",
+            "link": "https://www.mondaq.com/technology/1028440/virtual-currencies-comparative-guide",
+            "displayLink": "www.mondaq.com",
+            "snippet": "Oct 13, 2021 ... As cryptocurrencies are subject to the AML Act, virtual currency ... There are no special regulations on stablecoins under Polish law and\u00a0...",
+            "htmlSnippet": "Oct 13, 2021 <b>...</b> As <b>cryptocurrencies</b> are subject to the AML Act, virtual currency ... There are no special <b>regulations</b> on stablecoins under <b>Polish</b> law and&nbsp;...",
+            "cacheId": "nPT2mhVNkAwJ",
+            "formattedUrl": "https://www.mondaq.com/technology/.../virtual-currencies-comparative- guide",
+            "htmlFormattedUrl": "https://www.mondaq.com/technology/.../virtual-currencies-comparative- guide",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-J4A4Qp3OGvt5WitKZY154S4Qg3I63AIK3hh0gq8_GLdrcgEXlANi3YnK",
+                        "width": "310",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#ffffff",
+                        "referrer": "no-referrer-when-downgrade",
+                        "og:image": "https://www.mondaq.com/images/Mondaq_Share.jpg",
+                        "theme-color": "#ffffff",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Virtual Currencies Comparative Guide - Technology - Poland",
+                        "msapplication-tileimage": "/ms-icon-144x144.png",
+                        "og:description": "Virtual Currencies Comparative Guide for the jurisdiction of Poland, check out our comparative guides section to compare across multiple countries"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mondaq.com/images/Mondaq_Share.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Condition of the Cryptocurrency Market and Exchanges in Poland",
+            "htmlTitle": "The Condition of the <b>Cryptocurrency</b> Market and Exchanges in <b>Poland</b>",
+            "link": "https://www.intechopen.com/chapters/62478",
+            "displayLink": "www.intechopen.com",
+            "snippet": "Currently in Poland, cryptocurrencies are not considered a currency unit, a payment instrument, or electronic money. However, in spite of this, creating units\u00a0...",
+            "htmlSnippet": "Currently in <b>Poland</b>, <b>cryptocurrencies</b> are not considered a currency unit, a payment instrument, or electronic money. However, in spite of this, creating units&nbsp;...",
+            "cacheId": "usf7JtixKa8J",
+            "formattedUrl": "https://www.intechopen.com/chapters/62478",
+            "htmlFormattedUrl": "https://www.intechopen.com/chapters/62478",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj6sRLK28G3NAyqULLMA43f9seGcoYWi4FXbhhHSvVCc2VnR81-jxPyY4",
+                        "width": "187",
+                        "height": "269"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.publisher": "IntechOpen",
+                        "og:image": "https://cdn.intechopen.com/books/images_new/7228.jpg",
+                        "citation_publication_date": "2019/08/28",
+                        "citation_isbn": "978-1-83881-208-9",
+                        "twitter:card": "summary",
+                        "citation_title": "The Condition of the Cryptocurrency Market and Exchanges in Poland",
+                        "citation_reference": "Satoshi N. Bitcoin: A Peer-To-Peer Electronic Cash System [Internet]. 2008. Available from: http://bitcoin.org/bitcoin.pdf [Accessed: May 01, 2018]",
+                        "citation_publisher": "IntechOpen",
+                        "dc.format": "text/html",
+                        "dc.accessrights": "open-access",
+                        "title": "The Condition of the Cryptocurrency Market and Exchanges in Poland | IntechOpen",
+                        "og:description": "The development of the cryptocurrency market and the implications for the whole economy and finance for all traders cause a keen interest in this subject. The chapter discusses the functioning of a financial system based on cryptocurrencies and its significance for economies. In this chapter, the development of the global cryptocurrency market was presented and the history of the most popular cryptocurrency, bitcoin, was analyzed. The analysis and the assessment of the state and structure of the Polish cryptocurrencies market were presented on the background of the global cryptocurrency market. Also, we presented the possible development paths for the cryptocurrencies market in Poland and in the world.",
+                        "twitter:image": "https://cdn.intechopen.com/books/images_new/7228.jpg",
+                        "citation_online_date": "2019/08/28",
+                        "citation_public_url": "https://www.intechopen.com/chapters/62478",
+                        "citation_fulltext_html_url": "https://www.intechopen.com/chapters/62478",
+                        "citation_pdf_url": "https://www.intechopen.com/citation-pdf-url/62478",
+                        "citation_xml_url": "https://www.intechopen.com/citation-xml-url/62478",
+                        "og:type": "article",
+                        "og:title": "The Condition of the Cryptocurrency Market and Exchanges in Poland",
+                        "dc.relation.ispartof": "Blockchain and Cryptocurrencies",
+                        "citation_inbook_title": "Blockchain and Cryptocurrencies",
+                        "citation_author": "Ireneusz Miciu\u0142a",
+                        "dc.date": "2019/08/28",
+                        "dc.contributor": "Ireneusz Miciu\u0142a",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "citation_doi": "10.5772/intechopen.79405",
+                        "dc.title": "The Condition of the Cryptocurrency Market and Exchanges in Poland",
+                        "citation_access": "all",
+                        "dc.identifier": "10.5772/intechopen.79405",
+                        "category": "Chapter",
+                        "og:url": "https://www.intechopen.com/chapters/62478",
+                        "dc.language": "en",
+                        "authors": "Ireneusz Miciu\u0142a"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.intechopen.com/books/images_new/7228.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Poland and Cryptocurrency - Virtual Currency Laws",
+            "htmlTitle": "<b>Poland</b> and <b>Cryptocurrency</b> - Virtual Currency <b>Laws</b>",
+            "link": "https://freemanlaw.com/cryptocurrency/poland/",
+            "displayLink": "freemanlaw.com",
+            "snippet": "The Polish government does not consider crypto to be a \u201ccurrency unit, a payment instrument, or electronic money.\u201d Polish residents must provide financial\u00a0...",
+            "htmlSnippet": "The <b>Polish</b> government does not consider crypto to be a \u201ccurrency unit, a payment instrument, or electronic money.\u201d <b>Polish</b> residents must provide financial&nbsp;...",
+            "cacheId": "FIdqfDI_Fb8J",
+            "formattedUrl": "https://freemanlaw.com/cryptocurrency/poland/",
+            "htmlFormattedUrl": "https://freemanlaw.com/<b>cryptocurrency</b>/<b>poland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2JN0s4wul0cTvmk_8-DubY8ZJSuFmYE5rRuSaNpJPc7lHaVAQAdt45MWz",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-01-05T02:27:56+00:00",
+                        "og:site_name": "Freeman Law",
+                        "twitter:url": "https://freemanlaw.com/cryptocurrency/poland/",
+                        "tec-api-origin": "https://freemanlaw.com",
+                        "twitter:label1": "Est. reading time",
+                        "msapplication-tileimage": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1-270x270.gif",
+                        "og:description": "Is cryptocurrency legal in Poland? Freeman Law can help with digital currencies and tax compliance. Schedule a free consultation!",
+                        "article:publisher": "https://www.facebook.com/freemanlawdfw/",
+                        "twitter:data1": "2 minutes",
+                        "twitter:image": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif",
+                        "profile:last_name": "Freeman",
+                        "article:modified_time": "2022-01-09T18:06:05+00:00",
+                        "twitter:partner": "ogwp",
+                        "profile:first_name": "Jason B.",
+                        "tec-api-version": "v1",
+                        "og:see_also": "https://freemanlaw.com/cryptocurrency/portugal/",
+                        "og:type": "article",
+                        "article:section": "Cryptocurrency",
+                        "twitter:title": "Poland and Cryptocurrency",
+                        "profile:username": "Jason B. Freeman",
+                        "og:title": "Poland and Cryptocurrency",
+                        "og:updated_time": "2022-01-09T18:06:05+00:00",
+                        "article:author": "https://freemanlaw.com/author/jason/",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Poland and Cryptocurrency Poland Cryptocurrency Laws Regulation of Digital Currencies: Cryptocurrency, Bitcoins, Blockchain Technology In November 2020, Polish authorities released the new PIT-38 (personal income tax) form to make it easier for Polish residents to report their crypto taxes. The...",
+                        "og:locale": "en_US",
+                        "og:url": "https://freemanlaw.com/cryptocurrency/poland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://freemanlaw.com/wp-content/uploads/2021/01/cropped-Freeman-site-Icon-1.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrency exchange license in Poland | Prifinance Company",
+            "htmlTitle": "<b>Cryptocurrency</b> exchange license in <b>Poland</b> | Prifinance Company",
+            "link": "https://prifinance.com/en/cryptocurrency-license/poland/",
+            "displayLink": "prifinance.com",
+            "snippet": "In 2014, the Polish authorities refused to recognize Bitcoin as a currency but stipulated that contracts based on its basic index were full-fledged financial\u00a0...",
+            "htmlSnippet": "In 2014, the <b>Polish</b> authorities refused to recognize Bitcoin as a currency but stipulated that contracts based on its basic index were full-fledged financial&nbsp;...",
+            "cacheId": "A4vmY3qlDBkJ",
+            "formattedUrl": "https://prifinance.com/en/cryptocurrency-license/poland/",
+            "htmlFormattedUrl": "https://prifinance.com/en/<b>cryptocurrency</b>-license/<b>poland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi9QmEbcWElsNLSR7uufUJGipaOILJofeJcKekEE2M3fj6MjNUtnZEfRc",
+                        "width": "200",
+                        "height": "82"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "/bitrix/templates/prifinance/img/logo_en.png",
+                        "og:type": "website",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Cryptocurrency exchange license in Poland | Prifinance Company",
+                        "og:url": "https://prifinance.com/en/cryptocurrency-license/poland/",
+                        "og:description": "Cryptocurrency exchange license in Poland. Call the Prifinance Company: \u260e +372 602 65 11: 24/7 customer support.",
+                        "facebook-domain-verification": "x7zorz2zhvirflgeenjn7jkxlc5sw3",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://prifinance.com/local/templates/prifinance/img/logo_en.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Poland and cryptocurrencies? Trading, regulations and own ...",
+            "htmlTitle": "<b>Poland</b> and <b>cryptocurrencies</b>? Trading, <b>regulations</b> and own ...",
+            "link": "https://www.careersinpoland.com/article/news/poland-cryptocurrencies",
+            "displayLink": "www.careersinpoland.com",
+            "snippet": "Mar 15, 2018 ... Those include the fact, that banks operating legally in Poland cannot 'bank' cryptocurrencies, so they cannot be deposited or loaned. All\u00a0...",
+            "htmlSnippet": "Mar 15, 2018 <b>...</b> Those include the fact, that banks operating legally in <b>Poland</b> cannot &#39;bank&#39; <b>cryptocurrencies</b>, so they cannot be deposited or loaned. All&nbsp;...",
+            "cacheId": "Ff5Ecnp5MhUJ",
+            "formattedUrl": "https://www.careersinpoland.com/article/news/poland-cryptocurrencies",
+            "htmlFormattedUrl": "https://www.careersin<b>poland</b>.com/article/news/<b>poland</b>-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpjjtCGM-fcEFPtGeoesxwFMugLnKqWet1g8IPPq5BDsIWvTvRe-Yf91c",
+                        "width": "298",
+                        "height": "169"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "smartbanner:button-url-apple": "itms-apps://apps.apple.com/us/app/careers-in-poland/id1359981014",
+                        "og:image": "https://www.careersinpoland.com/media/file/articles/thumbs/950x540_bitcoin-cryptocurrency-poland-polish-regulations.jpg",
+                        "copyright": "MBE group Sp. z o.o.",
+                        "og:type": "article",
+                        "og:image:alt": "Poland & cryptocurrencies",
+                        "smartbanner:button": "download",
+                        "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=pl.mbe.cp",
+                        "author": "CareersinPoland.com",
+                        "og:title": "Poland and cryptocurrencies? Trading, regulations and own cryptocurrency? \u2013 News \u2013 Careers in Poland",
+                        "smartbanner:enabled-platforms": "android,ios",
+                        "smartbanner:title": "Get your free",
+                        "smartbanner:custom-design-modifier": "ios",
+                        "smartbanner:icon-google": "/static/images/cp-app.png",
+                        "smartbanner:author": "Careers in Poland app",
+                        "og:description": "What is the common approach to cryptocurrency and blockchain technology in Poland? Are Poles suspicious towards such solutions? Does the government regulate the cryptocurrency market in any way?",
+                        "next-head-count": "15",
+                        "smartbanner:icon-apple": "/static/images/cp-app.png",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+                        "og:url": "https://www.careersinpoland.com/article/news/poland-cryptocurrencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.careersinpoland.com/media/file/articles/thumbs/950x540_bitcoin-cryptocurrency-poland-polish-regulations.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New AML regulation on cryptocurrency business in Poland",
+            "htmlTitle": "New AML <b>regulation</b> on <b>cryptocurrency</b> business in <b>Poland</b>",
+            "link": "https://msztax.pl/en/the-new-aml-regulations-and-register-for-cryptocurrency-companies-in-poland/",
+            "displayLink": "msztax.pl",
+            "snippet": "Sep 18, 2021 ... Entities that engage in cryptocurrency activities will be required to apply financial security measures accordingly to occasional transactions\u00a0...",
+            "htmlSnippet": "Sep 18, 2021 <b>...</b> Entities that engage in <b>cryptocurrency</b> activities will be required to apply financial security measures accordingly to occasional transactions&nbsp;...",
+            "cacheId": "ZWC5R259-XAJ",
+            "formattedUrl": "https://msztax.pl/.../the-new-aml-regulations-and-register-for-cryptocurrency- companies-in-poland/",
+            "htmlFormattedUrl": "https://msztax.pl/.../the-new-aml-<b>regulations</b>-and-register-for-<b>cryptocurrency</b>- companies-in-<b>poland</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTio2i6SAHuvE8-yZlAoq1ZBdcvcQ5l-fnLIiQB4bvS2Y5UKXhLlQWeTji8",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://msztax.pl/wp-content/uploads/2021/09/crypto-aml-in-poland.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-09-18T09:36:41+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "MSZtax.pl",
+                        "og:title": "New AML regulation on cryptocurrency business in Poland",
+                        "og:image:height": "600",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "msapplication-tileimage": "https://msztax.pl/wp-content/uploads/2019/01/cropped-msztax-2-270x270.jpg",
+                        "og:description": "Check the new AML obligation on cryptocurrency business. Also the new AML limit for crypto transactions arrived!",
+                        "twitter:data1": "Marcelina Szwed-Ziemich\u00f3d",
+                        "twitter:data2": "6 minutes",
+                        "follow.it-verification-code-sk9mk2o4suy3dfdlwtbeunhuwld0b3lbrk9snzr2edbgs2xeneg3rzbkeg9pytkrrk5kekjjemnqwvi4v3v5tfrorflime9stky3vtvku1feugvpctlabu5jcnqvugdzd3dsagpwzufpava4bgxtq2jqefr0nxnnuxviaeh5aw98zm1pa1rsndc0wfl5mfbbohgzmuntzm5puejpu1nazzval3nsohdwqmzxdz0=": "1nW9TxjrzbNQlUy94zKv",
+                        "article:modified_time": "2021-09-18T09:42:15+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://msztax.pl/en/the-new-aml-regulations-and-register-for-cryptocurrency-companies-in-poland/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://msztax.pl/wp-content/uploads/2021/09/crypto-aml-in-poland.jpg"
+                    }
+                ],
+                "hatomfeed": [
+                    {}
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Poland Officially Recognizes Trading in Bitcoin and Other ...",
+            "htmlTitle": "<b>Poland</b> Officially Recognizes Trading in Bitcoin and Other ...",
+            "link": "https://cointelegraph.com/news/poland-officially-recognizes-trading-in-bitcoin-and-other-cryptocurrencies",
+            "displayLink": "cointelegraph.com",
+            "snippet": "Feb 7, 2017 ... Poland Officially Recognizes Trading in Bitcoin and Other Cryptocurrencies ... Poland has wanted to tax mining profits in the past but now has\u00a0...",
+            "htmlSnippet": "Feb 7, 2017 <b>...</b> <b>Poland</b> Officially Recognizes Trading in Bitcoin and Other <b>Cryptocurrencies</b> ... <b>Poland</b> has wanted to tax mining profits in the past but now has&nbsp;...",
+            "cacheId": "2wAWH0A0I7EJ",
+            "formattedUrl": "https://cointelegraph.com/.../poland-officially-recognizes-trading-in-bitcoin- and-other-cryptocurrencies",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../<b>poland</b>-officially-recognizes-trading-in-bitcoin- and-other-<b>cryptocurrencies</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ7v7hcVVR5-F6RxLeChTGBsVd_x7n0Dq96JzJqikfo7lglYuHxzkDkCz6",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjUzNGVmOGQwZDg2Njg2ZjhhMTE2YTdiZTllZWU4My5qcGc=.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Poland Officially Recognizes Trading in Bitcoin and Other Cryptocurrencies",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Poland Officially Recognizes Trading in Bitcoin and Other Cryptocurrencies",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Poland has wanted to tax mining profits in the past but now has recognized trading in Bitcoin as an official economic activity.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjUzNGVmOGQwZDg2Njg2ZjhhMTE2YTdiZTllZWU4My5qcGc=.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Poland has wanted to tax mining profits in the past but now has recognized trading in Bitcoin as an official economic activity.",
+                        "og:url": "https://cointelegraph.com/news/poland-officially-recognizes-trading-in-bitcoin-and-other-cryptocurrencies"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjUzNGVmOGQwZDg2Njg2ZjhhMTE2YTdiZTllZWU4My5qcGc=.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

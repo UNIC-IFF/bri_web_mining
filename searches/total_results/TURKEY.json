@@ -1,0 +1,656 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - TURKEY",
+                "totalResults": "779000",
+                "searchTerms": "TURKEY",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - TURKEY",
+                "totalResults": "779000",
+                "searchTerms": "TURKEY",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "857077fcd93464b17",
+                "hq": "regulation of cryptocurrencies"
+            }
+        ]
+    },
+    "context": {
+        "title": "BRI"
+    },
+    "searchInformation": {
+        "searchTime": 0.382241,
+        "formattedSearchTime": "0.38",
+        "totalResults": "779000",
+        "formattedTotalResults": "779,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Crypto and NFTs meet regulation as Turkey takes on the digital future",
+            "htmlTitle": "Crypto and NFTs meet <b>regulation</b> as <b>Turkey</b> takes on the digital future",
+            "link": "https://cointelegraph.com/news/crypto-and-nfts-meet-regulation-as-turkey-takes-on-the-digital-future",
+            "displayLink": "cointelegraph.com",
+            "snippet": "2 days ago ... Turkey's citizens are increasingly using cryptocurrencies. Nevertheless, there is currently no regulation on the taxation of cryptocurrencies or\u00a0...",
+            "htmlSnippet": "2 days ago <b>...</b> <b>Turkey&#39;s</b> citizens are increasingly using <b>cryptocurrencies</b>. Nevertheless, there is currently no <b>regulation</b> on the taxation of <b>cryptocurrencies</b> or&nbsp;...",
+            "cacheId": "H-96TEii6l0J",
+            "formattedUrl": "https://cointelegraph.com/.../crypto-and-nfts-meet-regulation-as-turkey-takes- on-the-digital-future",
+            "htmlFormattedUrl": "https://cointelegraph.com/.../crypto-and-nfts-meet-<b>regulation</b>-as-<b>turkey</b>-takes- on-the-digital-future",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5vyHGZ4mEuyPWMCmYCx9PYR7tZYBvr85EahgyHwWIydbiWGzcLHRpgA",
+                        "width": "150",
+                        "height": "100"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Cointelegraph",
+                        "msapplication-tilecolor": "#253137",
+                        "p:domain_verify": "2c1fd1cbe8d119280a2b90569511a1d0",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDEvY2I0ZjcxZjItMGFlNS00NTk4LWIzMzMtMTIxNmI1MTg1ZjUxLmpwZw==.jpg",
+                        "theme-color": "#ffffff",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Crypto and NFTs meet regulation as Turkey takes on the digital future",
+                        "og:site_name": "Cointelegraph",
+                        "apple-mobile-web-app-title": "Cointelegraph",
+                        "og:title": "Crypto and NFTs meet regulation as Turkey takes on the digital future",
+                        "telegram:channel": "@cointelegraph",
+                        "majestic-site-verification": "MJ12_86993982-71c3-48ca-b0f1-1cdf0464ead9",
+                        "og:description": "Turkish citizens are investing in cryptocurrencies as a hedge against a weakening lira and double-digit inflation, while the Turkish government is working on a CBDC.",
+                        "twitter:creator": "@cointelegraph",
+                        "twitter:image": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDEvY2I0ZjcxZjItMGFlNS00NTk4LWIzMzMtMTIxNmI1MTg1ZjUxLmpwZw==.jpg",
+                        "twitter:site": "@cointelegraph",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Turkish citizens are investing in cryptocurrencies as a hedge against a weakening lira and double-digit inflation, while the Turkish government is working on a CBDC.",
+                        "og:url": "https://cointelegraph.com/news/crypto-and-nfts-meet-regulation-as-turkey-takes-on-the-digital-future"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDEvY2I0ZjcxZjItMGFlNS00NTk4LWIzMzMtMTIxNmI1MTg1ZjUxLmpwZw==.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What do Turkey's cryptocurrency regulations mean for the industry?",
+            "htmlTitle": "What do <b>Turkey&#39;s cryptocurrency regulations</b> mean for the industry?",
+            "link": "https://www.trtworld.com/magazine/what-do-turkey-s-cryptocurrency-regulations-mean-for-the-industry-46448",
+            "displayLink": "www.trtworld.com",
+            "snippet": "May 4, 2021 ... On April 16, Turkey's central bank (CBRT) announced legislation to ban the use of cryptocurrencies as payments for goods and services, citing\u00a0...",
+            "htmlSnippet": "May 4, 2021 <b>...</b> On April 16, <b>Turkey&#39;s</b> central bank (CBRT) announced <b>legislation</b> to ban the use of <b>cryptocurrencies</b> as payments for goods and services, citing&nbsp;...",
+            "cacheId": "J5Vfz9hpUWcJ",
+            "formattedUrl": "https://www.trtworld.com/.../what-do-turkey-s-cryptocurrency-regulations- mean-for-the-industry-46448",
+            "htmlFormattedUrl": "https://www.trtworld.com/.../what-do-<b>turkey</b>-s-<b>cryptocurrency</b>-<b>regulations</b>- mean-for-the-industry-46448",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeqlGH-u5UWPZlzIVwjWoGDoi7zOixYh1l6nNA20b4ccRYAUak1r5giaIm",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=1093074623",
+                        "image": "https://cdni0.trtworld.com/w480/h270/q75/104725_AA14202470_1620141749953.jpg",
+                        "og:image": "https://cdni0.trtworld.com/w480/h270/q75/104725_AA14202470_1620141749953.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "What do Turkey\u2019s cryptocurrency regulations mean for the industry?",
+                        "og:site_name": "What do Turkey\u2019s cryptocurrency regulations mean for the industry?",
+                        "twitter:domain": "https://www.trtworld.com",
+                        "shorturl": "http://trt.world/f2kr",
+                        "og:title": "What do Turkey\u2019s cryptocurrency regulations mean for the industry?",
+                        "title": "What do Turkey\u2019s cryptocurrency regulations mean for the industry?",
+                        "og:description": "Turkey\u2019s unregulated crypto market has come under closer scrutiny by the government, as it begins to tighten restrictions and float a tax regime.",
+                        "twitter:creator": "@trtworld",
+                        "twitter:image": "https://cdni0.trtworld.com/w480/h270/q75/104725_AA14202470_1620141749953.jpg",
+                        "twitter:site": "@trtworld",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "twitter:description": "Turkey\u2019s unregulated crypto market has come under closer scrutiny by the government, as it begins to tighten restrictions and float a tax regime.",
+                        "og:article:section": "News",
+                        "csrf-token": "PkomRJMcmkK4UGkRBs4Y1Ry9ZmTt2cLYFy3i557N",
+                        "og:locale": "tr_TR",
+                        "og:url": "https://www.trtworld.com/magazine/what-do-turkey-s-cryptocurrency-regulations-mean-for-the-industry-46448",
+                        "google-play-app": "app-id=com.trtworld.android",
+                        "og:article:author": "TRT World",
+                        "shortlink": "https://www.trtworld.com/article/46448"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdni0.trtworld.com/w480/h270/q75/104725_AA14202470_1620141749953.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cryptocurrencies Stable As Turkey Eyes Digital-Asset Regulation ...",
+            "htmlTitle": "<b>Cryptocurrencies</b> Stable As <b>Turkey</b> Eyes Digital-Asset <b>Regulation</b> ...",
+            "link": "https://blockworks.co/cryptocurrencies-stable-as-turkey-eyes-digital-asset-regulation/",
+            "displayLink": "blockworks.co",
+            "snippet": "Dec 28, 2021 ... Cryptocurrencies Stable As Turkey Eyes Digital-Asset Regulation. Turkish president Recep Tayyip Erdogan. Source: Getty Images. Share.",
+            "htmlSnippet": "Dec 28, 2021 <b>...</b> <b>Cryptocurrencies</b> Stable As <b>Turkey</b> Eyes Digital-Asset <b>Regulation</b>. <b>Turkish</b> president Recep Tayyip Erdogan. Source: Getty Images. Share.",
+            "cacheId": "FWjTDQUP-wgJ",
+            "formattedUrl": "https://blockworks.co/cryptocurrencies-stable-as-turkey-eyes-digital-asset- regulation/",
+            "htmlFormattedUrl": "https://blockworks.co/<b>cryptocurrencies</b>-stable-as-<b>turkey</b>-eyes-digital-asset- <b>regulation</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZk6CwtzCN1VAdqyseZxs1jOnPmP_PcpBfxxJYb6GUlnwZ6bIGBnPNCDcv",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://blockworks.co/wp-content/uploads/2021/03/im-249498.jpeg",
+                        "article:published_time": "2021-12-28T16:28:58+00:00",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Blockworks",
+                        "sailthru.tags": ",Erdogan,Inflation,Tether,Turkey,Turkish Lira,Markets,Regulation,",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "As the Turkish lira slides, crypto pairs denominated in the country's currency are on the rise even in the face of potentially restrictive digital assets bill.",
+                        "twitter:creator": "@https://twitter.com/thesamreynolds",
+                        "twitter:data1": "Sam Reynolds",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@Blockworks_",
+                        "article:modified_time": "2021-12-28T18:47:28+00:00",
+                        "sailthru.title": "Cryptocurrencies Stable As Turkey Eyes Digital-Asset Regulation",
+                        "sailthru.date": "2021-12-28 11:28:58",
+                        "og:type": "article",
+                        "og:title": "Cryptocurrencies Stable As Turkey Eyes Digital-Asset Regulation - Blockworks",
+                        "og:image:height": "800",
+                        "sailthru.image.thumb": "https://blockworks.co/wp-content/uploads/2021/03/im-249498.jpeg",
+                        "sailthru.description": "Turkish President Recep Tayyip Erdogan has announced that a long-awaited bill regulating digital assets is ready, according to reports in local media. The contents of the bill have not been made public, but it\u2019s expected to be hostile to digital assets, [\u2026]",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:locale": "en_US",
+                        "og:url": "https://blockworks.co/cryptocurrencies-stable-as-turkey-eyes-digital-asset-regulation/",
+                        "sailthru.author": "Sam Reynolds",
+                        "sailthru.image.full": "https://blockworks.co/wp-content/uploads/2021/03/im-249498.jpeg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blockworks.co/wp-content/uploads/2021/03/im-249498.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "First Crypto Regulations In Turkey: How Businesses Can Adapt ...",
+            "htmlTitle": "First Crypto <b>Regulations</b> In <b>Turkey</b>: How Businesses Can Adapt ...",
+            "link": "https://sumsub.com/blog/crypto-regulations-turkey/",
+            "displayLink": "sumsub.com",
+            "snippet": "Jul 29, 2021 ... Under the new regulations, cryptocurrency is now legally defined as an asset in Turkey and is prohibited from use as a payment method.",
+            "htmlSnippet": "Jul 29, 2021 <b>...</b> Under the new <b>regulations</b>, <b>cryptocurrency</b> is now legally defined as an asset in <b>Turkey</b> and is prohibited from use as a payment method.",
+            "cacheId": "LV7ry7N52vsJ",
+            "formattedUrl": "https://sumsub.com/blog/crypto-regulations-turkey/",
+            "htmlFormattedUrl": "https://sumsub.com/blog/crypto-<b>regulations</b>-<b>turkey</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbOPM2WDOysejv7q0haD0IZ0s_21I-TG_5jIb1IU7kut7IRNTtlt4UNyKH",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://sumsub.com/wp-content/uploads/2021/07/Tyrkey_cover-3.png",
+                        "msapplication-config": "/browserconfig.xml",
+                        "og:image:width": "1000",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#2d89ef",
+                        "og:site_name": "Sumsub",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "/mstile-144x144.png",
+                        "og:description": "\u2705 Updated in July 2021. Complete guide on how businesses can adapt to the latest cryptocurrency ban in Turkey, and how to comply with AML/CFT obligations.",
+                        "twitter:creator": "@Sumsubcom",
+                        "article:publisher": "https://www.facebook.com/sumsub/",
+                        "og:image:secure_url": "https://sumsub.com/wp-content/uploads/2021/07/Tyrkey_cover-3.png",
+                        "twitter:image": "https://sumsub.com/wp-content/uploads/2021/07/Tyrkey_cover-3.png",
+                        "twitter:site": "@Sumsubcom",
+                        "msapplication-tilecolor": "#2d89ef",
+                        "og:type": "article",
+                        "article:section": "Legal & Compliance",
+                        "og:image:alt": "Turkey Enacts Its First Crypto Regulations: Here\u2019s How Businesses Can Adapt [Updated July 2021]",
+                        "twitter:title": "First Crypto Regulations In Turkey: How Businesses Can Adapt? (2021)",
+                        "og:title": "First Crypto Regulations In Turkey: How Businesses Can Adapt? (2021)",
+                        "og:image:height": "667",
+                        "og:updated_time": "2021-09-13T12:20:17+00:00",
+                        "article:author": "https://www.facebook.com/sumsub/",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "twitter:description": "\u2705 Updated in July 2021. Complete guide on how businesses can adapt to the latest cryptocurrency ban in Turkey, and how to comply with AML/CFT obligations.",
+                        "og:locale": "en_US",
+                        "og:url": "https://sumsub.com/blog/crypto-regulations-turkey/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sumsub.com/wp-content/uploads/2021/07/Tyrkey_cover-3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin falls as Turkey bans cryptocurrency payments - MarketWatch",
+            "htmlTitle": "Bitcoin falls as <b>Turkey</b> bans <b>cryptocurrency</b> payments - MarketWatch",
+            "link": "https://www.marketwatch.com/story/bitcoin-falls-as-turkey-bans-cryptocurrency-payments-11618565622",
+            "displayLink": "www.marketwatch.com",
+            "snippet": "Apr 16, 2021 ... The Central Bank of the Republic of Turkey (CBRT) cited a number of reasons for the ban, including a lack of \u201csupervision mechanisms\u201d and \u201c\u00a0...",
+            "htmlSnippet": "Apr 16, 2021 <b>...</b> The Central Bank of the Republic of <b>Turkey</b> (CBRT) cited a number of reasons for the ban, including a lack of \u201csupervision mechanisms\u201d and \u201c&nbsp;...",
+            "formattedUrl": "https://www.marketwatch.com/.../bitcoin-falls-as-turkey-bans-cryptocurrency -payments-11618565622",
+            "htmlFormattedUrl": "https://www.marketwatch.com/.../bitcoin-falls-as-<b>turkey</b>-bans-<b>cryptocurrency</b> -payments-11618565622",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Callum Keown"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQrrAn0PJD7jyKgX-Gwp_XySjlDFjE1pFpP1jVPmC4K0b13mY6UHCsNI3b",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "creator": "Ozan Kose/Agence France-Presse/Getty Images",
+                        "caption": "Turkey's central bank has banned cryptocurrency payments in a move that has cooled the global crypto rally. Ozan Kose/Agence France-Presse/Getty Images"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Callum Keown"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=336693422,app-argument=mwatch://article?id=WP-MKTW-0000234808",
+                        "og:image": "https://images.mktw.net/im-304063/social",
+                        "theme-color": "#2e2e2f",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "MarketWatch",
+                        "article.content_group": "marketwatch",
+                        "cxenseparse:wsj-product": "MarketWatch.com",
+                        "article.id": "WP-MKTW-0000234808",
+                        "page.site.product": "MW",
+                        "twitter:image:height": "853",
+                        "parsely-author": "Callum Keown",
+                        "language": "EN-US",
+                        "cxenseparse:wsj-doctype": "103",
+                        "twitter:creator": "@@CallumKeown1",
+                        "og:description": "Bitcoin fell early on Friday, after Turkey\u2019s central bank decided to ban cryptocurrency payments from the end of the month.",
+                        "article:publisher": "https://www.facebook.com/marketwatch",
+                        "twitter:image": "https://images.mktw.net/im-304063/social",
+                        "parsely-type": "post",
+                        "twitter:site": "@marketwatch",
+                        "article.template": "Normal",
+                        "twitter:image:width": "1280",
+                        "news_keywords": "article_normal,Banking/Credit,Financial Services,Financial Technology,Technology,Virtual Currencies/Cryptocurrencies,Money/Currency Markets,Foreign Exchange Markets,Commodity/Financial Market News,Cryptocurrency Markets",
+                        "parsely-link": "https://www.marketwatch.com/story/bitcoin-falls-as-turkey-bans-cryptocurrency-payments-11618565622",
+                        "article.section": "Investing",
+                        "parsely-section": "Investing",
+                        "cxenseparse:wsj-column": "Cryptos",
+                        "og:type": "article",
+                        "twitter:site:id": "624413",
+                        "twitter:domain": "marketwatch.com",
+                        "parsely-post-id": "WP-MKTW-0000234808",
+                        "article.column": "Cryptos",
+                        "author": "Callum Keown",
+                        "og:title": "Bitcoin falls as Turkey bans cryptocurrency payments",
+                        "og:image:height": "853",
+                        "googlebot-news": "index",
+                        "parsely-title": "Bitcoin falls as Turkey bans cryptocurrency payments",
+                        "parsely-pub-date": "2021-04-16T15:15:00-04:00",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "283204329838",
+                        "article.doctype": "103",
+                        "parsely-tags": "PageType: Article, Template: Normal, ArticleId: WP-MKTW-0000234808, Quote: BTCUSD, Quote: COIN, Quote: ETHUSD, Quote: TSLA, Quote: PYPL, Column: Cryptos, DocType: 103, Subject: Money/Currency Markets, Subject: Foreign Exchange Markets, Subject: Commodity/Financial Market News, Subject: Cryptocurrency Markets, Subject: Content Types, Subject: Factiva Filters, Subject: C&E Exclusion Filter, Industry: Banking/Credit, Industry: Financial Services, Industry: Financial Technology, Industry: Technology, Industry: Virtual Currencies/Cryptocurrencies, Subsection: Cryptocurrencies, Access: Meter",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "Bitcoin fell early on Friday, after Turkey\u2019s central bank decided to ban cryptocurrency payments from the end of the month.",
+                        "og:url": "https://www.marketwatch.com/story/bitcoin-falls-as-turkey-bans-cryptocurrency-payments-11618565622",
+                        "page.site": "marketwatch",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.mktw.net/im-304063/social"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "'Turkey's cryptocurrency law soon to be debated in Parliament ...",
+            "htmlTitle": "&#39;<b>Turkey&#39;s cryptocurrency</b> law soon to be debated in Parliament ...",
+            "link": "https://www.dailysabah.com/business/tech/turkeys-cryptocurrency-law-soon-to-be-debated-in-parliament",
+            "displayLink": "www.dailysabah.com",
+            "snippet": "Dec 24, 2021 ... Turkey will soon take steps regarding cryptocurrencies, ... The country has already been accelerating its work on regulations for the\u00a0...",
+            "htmlSnippet": "Dec 24, 2021 <b>...</b> <b>Turkey</b> will soon take steps regarding <b>cryptocurrencies</b>, ... The country has already been accelerating its work on <b>regulations</b> for the&nbsp;...",
+            "cacheId": "1upqd8E-F0UJ",
+            "formattedUrl": "https://www.dailysabah.com/.../turkeys-cryptocurrency-law-soon-to-be- debated-in-parliament",
+            "htmlFormattedUrl": "https://www.dailysabah.com/.../<b>turkeys</b>-<b>cryptocurrency</b>-law-soon-to-be- debated-in-parliament",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3G0Y-sIwFtiBoHfxfRHygJ4M94r_Z6Yk-4N6rrs9r1TnPUFtEMem8wSjb",
+                        "width": "276",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "article",
+                        "og:image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/24/thumbs/800x531/170058.jpg",
+                        "copyright": "Daily Sabah",
+                        "article:published_time": "2021-12-24T17:25:00+03:00",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "1600",
+                        "og:site_name": "Daily Sabah",
+                        "language": "en_US",
+                        "og:description": "Turkey will soon take steps regarding cryptocurrencies, which have become an issue of concern for many governments and central banks.\r\rA law on...",
+                        "twitter:image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/24/thumbs/800x531/170058.jpg",
+                        "twitter:site": "@DailySabah",
+                        "datemodified": "2021-12-24T17:49:25+03:00",
+                        "datepublished": "2021-12-24T17:25:00+03:00",
+                        "og:type": "article",
+                        "article:section": "Tech",
+                        "twitter:title": "\u2018Turkey\u2019s cryptocurrency law soon to be debated in Parliament\u2019",
+                        "inlanguage": "en",
+                        "twitter:domain": "www.dailysabah.com",
+                        "author": "DAILY SABAH",
+                        "og:title": "\u2018Turkey\u2019s cryptocurrency law soon to be debated in Parliament\u2019",
+                        "og:image:height": "1062",
+                        "fb:pages": "248453298645103",
+                        "article:author": "DAILY SABAH",
+                        "url": "https://www.dailysabah.com/business/tech/turkeys-cryptocurrency-law-soon-to-be-debated-in-parliament",
+                        "fb:app_id": "2555093038069229",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "Turkey will soon take steps regarding cryptocurrencies, which have become an issue of concern for many governments and central banks.\r\rA law on...",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.dailysabah.com/business/tech/turkeys-cryptocurrency-law-soon-to-be-debated-in-parliament",
+                        "format-detection": "telephone=no",
+                        "thumbnailurl": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/24/thumbs/800x531/170058.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/24/thumbs/800x531/170058.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin tumbles after Turkey bans crypto payments citing risks ...",
+            "htmlTitle": "Bitcoin tumbles after <b>Turkey</b> bans crypto payments citing risks ...",
+            "link": "https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/",
+            "displayLink": "www.reuters.com",
+            "snippet": "Apr 15, 2021 ... In legislation published in the Official Gazette, the central bank said cryptocurrencies and other such digital assets based on distributed\u00a0...",
+            "htmlSnippet": "Apr 15, 2021 <b>...</b> In <b>legislation</b> published in the Official Gazette, the central bank said <b>cryptocurrencies</b> and other such digital assets based on distributed&nbsp;...",
+            "formattedUrl": "https://www.reuters.com/.../turkey-bans-use-cryptocurrencies-payments-sends -bitcoin-down-2021-04-16/",
+            "htmlFormattedUrl": "https://www.reuters.com/.../<b>turkey</b>-bans-use-<b>cryptocurrencies</b>-payments-sends -bitcoin-down-2021-04-16/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ9f5lAyONv1eZa1Y5XnKc0DYbU5y3ZRmYsSdnOaU0ATr24sZUimBuG_yc",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.reuters.com/resizer/248F7jMLH_rx3uBRWHvCa0CnzqY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TZ7SSDD4BKGPJLN5HO72Y34VI.jpg",
+                        "analytics:page_layout": "regular-article",
+                        "article:published_time": "2021-04-16T06:13:34.410Z",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Reuters",
+                        "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                        "analyticsattributes.topicchannel": "Technology",
+                        "og:description": "Bitcoin tumbled more than 4% on Friday after Turkey's central bank banned the use of cryptocurrencies and crypto assets for purchases citing possible \"irreparable\" damage and transaction risks.",
+                        "twitter:creator": "@Reuters",
+                        "twitter:image": "https://www.reuters.com/resizer/248F7jMLH_rx3uBRWHvCa0CnzqY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TZ7SSDD4BKGPJLN5HO72Y34VI.jpg",
+                        "twitter:image:alt": "A representation of virtual currency Bitcoin is seen in front of a stock graph in this illustration taken March 15, 2021. REUTERS/Dado Ruvic/Illustration",
+                        "twitter:site": "@Reuters",
+                        "article:modified_time": "2021-04-16T12:50:26.244Z",
+                        "fb:admins": "988502044532272",
+                        "article:content_tier": "metered",
+                        "og:type": "article",
+                        "article:section": "Technology",
+                        "twitter:title": "Bitcoin tumbles after Turkey bans crypto payments citing risks",
+                        "ad:template": "article",
+                        "dcsext.dartzone": "/4735792/reuters.com/technology/article",
+                        "og:title": "Bitcoin tumbles after Turkey bans crypto payments citing risks",
+                        "dcsext.channellist": "Technology;Middle East",
+                        "og:article:published_time": "2021-04-16T06:13:34.410Z",
+                        "fb:pages": "114050161948682",
+                        "article:author": "Ece Toksabay",
+                        "article:tag": "BISV,BISV08,BLKCC,BLKCHN,BNKS,BNKS1,BSVC,CMPNY,CRYCUR,CRYPLX,FIN,FINS,FINS08,FRX,FTECH,GEN,ITEC,MCE,SCI,TECH,TECH08,TMT,SWASIA,EUROP,MEAST,TR,SEEU,ASXPAC,EMRG,ASIA,CEN,CURINT,INFL,TOPCMB,TOPNWS,CCOS,CMPELC,COMS,COMS08,CYCS,CYCS08,ENTS,MDIA,MDIA08,PHNE,PHONES,PUB,RELX,RET,RETE,SHOP,SHOPAL,SOFW,SPCRET,SWIT,TEEQ,TEEQ08,TRAVAG,SASIA,AMERS,IN,US,NAMER",
+                        "fb:app_id": "988502044532272",
+                        "og:locale:alternate": "jp_JP",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Bitcoin tumbled more than 4% on Friday after Turkey's central bank banned the use of cryptocurrencies and crypto assets for purchases citing possible \"irreparable\" damage and transaction risks.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.reuters.com/resizer/248F7jMLH_rx3uBRWHvCa0CnzqY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TZ7SSDD4BKGPJLN5HO72Y34VI.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Turkey adds crypto firms to terror funding regulations | Crypto News ...",
+            "htmlTitle": "<b>Turkey</b> adds crypto firms to terror funding <b>regulations</b> | Crypto News ...",
+            "link": "https://www.aljazeera.com/economy/2021/5/1/turkey-adds-crypto-firms-to-terror-funding-regulations",
+            "displayLink": "www.aljazeera.com",
+            "snippet": "May 1, 2021 ... The presidential decree adds cryptocurrency exchanges to anti-money laundering and terrorism financing rules. Following the slump of the Turkish\u00a0...",
+            "htmlSnippet": "May 1, 2021 <b>...</b> The presidential decree adds <b>cryptocurrency</b> exchanges to anti-money laundering and terrorism financing rules. Following the slump of the <b>Turkish</b>&nbsp;...",
+            "cacheId": "V4pvSzhKRY0J",
+            "formattedUrl": "https://www.aljazeera.com/.../turkey-adds-crypto-firms-to-terror-funding- regulations",
+            "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>turkey</b>-adds-crypto-firms-to-terror-funding- <b>regulations</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDBR0NtHphQkC7d3mr-PqotBbnkiah46Y8RhYs3Wsu1d4WRnPkYEQyOsI",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "pagetype": "Article Page",
+                        "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/04/bitcoin1.jpg?resize=1200%2C630",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Turkey adds crypto firms to terror funding regulations",
+                        "taxonomy-tags": "Economy, News, Business and Economy, Crypto",
+                        "twitter:url": "https://www.aljazeera.com/economy/2021/5/1/turkey-adds-crypto-firms-to-terror-funding-regulations",
+                        "pagesection": "Economy,News,Business and Economy,Crypto",
+                        "og:title": "Turkey adds crypto firms to terror funding regulations",
+                        "ia:markup_url": "https://www.aljazeera.com/ia_markup/economy/2021/5/1/turkey-adds-crypto-firms-to-terror-funding-regulations",
+                        "source": "News Agencies",
+                        "og:description": "Presidential decree adds cryptocurrency exchanges to anti-money laundering and terrorism financing rules.",
+                        "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2021/04/bitcoin1.jpg?resize=1200%2C630",
+                        "twitter:image:alt": "Turkey adds crypto firms to terror funding regulations",
+                        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                        "twitter:description": "Presidential decree adds cryptocurrency exchanges to anti-money laundering and terrorism financing rules.",
+                        "og:url": "https://www.aljazeera.com/economy/2021/5/1/turkey-adds-crypto-firms-to-terror-funding-regulations",
+                        "twitter:account_id": "5536782"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aljazeera.com/wp-content/uploads/2021/04/bitcoin1.jpg?resize=1200%2C630"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Turkey Cryptocurrency Exchange Bust Spurs Move for Regulation",
+            "htmlTitle": "<b>Turkey Cryptocurrency</b> Exchange Bust Spurs Move for <b>Regulation</b>",
+            "link": "https://www.bloomberg.com/news/articles/2021-04-27/turkey-cryptocurrency-exchange-bust-spurs-move-for-regulation",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "Apr 27, 2021 ... Turkey is planning to regulate its cryptocurrency market after two local exchanges crumbled within days.",
+            "htmlSnippet": "Apr 27, 2021 <b>...</b> <b>Turkey</b> is planning to <b>regulate</b> its <b>cryptocurrency</b> market after two local exchanges crumbled within days.",
+            "cacheId": "oPQwWmsbnegJ",
+            "formattedUrl": "https://www.bloomberg.com/.../turkey-cryptocurrency-exchange-bust-spurs- move-for-regulation",
+            "htmlFormattedUrl": "https://www.bloomberg.com/.../<b>turkey</b>-<b>cryptocurrency</b>-exchange-bust-spurs- move-for-<b>regulation</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRLXcZH0T6EQQ8lse2sdTWc75XYGkLt-NV_aznKkmtRGqsf842iM7FoDS0",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz.DA5hdTduw/v0/1200x800.jpg",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bloomberg.com",
+                        "sailthru.tags": "Turkey,Cryptocurrency,Regulation,Capital Markets,Government,Education,Executives,Currency,Cities,Finance,markets,business,cryptocurrencies",
+                        "lotame-bbg-topic": "government,regulation,cryptocurrency,emerging-markets,well-spent,emerging-markets-economics,personal-finance,future-innovation",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "parsely-author": "Firat Kozok",
+                        "og:description": "Turkey is planning to regulate its cryptocurrency market after two local exchanges crumbled within days.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz.DA5hdTduw/v0/1200x800.jpg",
+                        "parsely-type": "post",
+                        "twitter:site": "@markets",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2021-04-27/turkey-cryptocurrency-exchange-bust-spurs-move-for-regulation",
+                        "iso-8601-publish-date": "2021-04-27T08:45:03.244Z",
+                        "sailthru.title": "Turkey Cryptocurrency Exchange Bust Spurs Move for Regulation",
+                        "checksum": "668ddbe02fdb5f82ff3b13a3ae9cd9ff",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz.DA5hdTduw/v0/1200x800.jpg",
+                        "parsely-section": "markets",
+                        "article:content_tier": "metered",
+                        "fb:status": "Turkey is planning to regulate its cryptocurrency market after two local exchanges crumbled within days.",
+                        "sailthru.date": "2021-04-27T08:45:03.244Z",
+                        "og:type": "article",
+                        "twitter:title": "Turkey Cryptocurrency Exchange Bust Spurs Move for Regulation",
+                        "parsely-post-id": "QS7JFRT1UM1001",
+                        "og:title": "Turkey Cryptocurrency Exchange Bust Spurs Move for Regulation",
+                        "parsely-title": "Bitcoin (BTC USD) Cryptocurrency Price News: Turkey Bust Prompts Regulation Call",
+                        "parsely-pub-date": "2021-04-27T08:45:03.244Z",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2021-04-27/turkey-cryptocurrency-exchange-bust-spurs-move-for-regulation?utm_medium=applink&utm_source=facebook",
+                        "lotame-bbg-category": "finance,technology",
+                        "referrer": "unsafe-url",
+                        "parsely-tags": "Turkey,Cryptocurrency,Regulation,Capital Markets,Government,Education,Executives,Currency,Cities,Finance,Secondary Brand: markets,Secondary Brand: business,Franchise: cryptocurrencies,Region: Global,Page: article",
+                        "sailthru.description": "Turkey is planning to regulate its cryptocurrency market after two local exchanges crumbled within days.",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "twitter:description": "Turkey is planning to regulate its cryptocurrency market after two local exchanges crumbled within days.",
+                        "apple-mobile-web-app-capable": "no",
+                        "og:url": "https://www.bloomberg.com/news/articles/2021-04-27/turkey-cryptocurrency-exchange-bust-spurs-move-for-regulation",
+                        "validatedat": "2022-01-24T21:37:47.070Z",
+                        "al:android:app_name": "Bloomberg",
+                        "sailthru.author": "Firat Kozok,Taylan Bilgic",
+                        "article:opinion": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz.DA5hdTduw/v0/1200x800.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Turkish Draft Law Regulating Cryptocurrencies Enters Parliament in ...",
+            "htmlTitle": "<b>Turkish</b> Draft Law Regulating <b>Cryptocurrencies</b> Enters Parliament in ...",
+            "link": "https://news.bitcoin.com/turkish-draft-law-regulating-cryptocurrencies-enters-parliament-in-october/",
+            "displayLink": "news.bitcoin.com",
+            "snippet": "Jul 21, 2021 ... The Turkish government has prepared a bill designed to implement new regulations for the country's crypto space. The legislation, which will\u00a0...",
+            "htmlSnippet": "Jul 21, 2021 <b>...</b> The <b>Turkish</b> government has prepared a bill designed to implement new <b>regulations</b> for the country&#39;s crypto space. The <b>legislation</b>, which will&nbsp;...",
+            "cacheId": "Rlpoqo09zI0J",
+            "formattedUrl": "https://news.bitcoin.com/turkish-draft-law-regulating-cryptocurrencies-enters- parliament-in-october/",
+            "htmlFormattedUrl": "https://news.bitcoin.com/<b>turkish</b>-draft-law-regulating-<b>cryptocurrencies</b>-enters- parliament-in-october/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKlXXkGBUZwlzo6vM0o9sec0nJzQa5FYRJCuNoeXs_TvswkJuZrLxYWiD2",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1603800793.jpg",
+                        "og:type": "article",
+                        "article:published_time": "2021-07-21T10:00:16+00:00",
+                        "og:image:width": "1280",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bitcoin News",
+                        "og:title": "Turkish Draft Law Regulating Cryptocurrencies Enters Parliament in October \u2013 Regulation Bitcoin News",
+                        "og:image:height": "720",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:description": "The Turkish government has prepared a bill designed to implement new regulations for the country\u2019s crypto space.",
+                        "twitter:creator": "@BTCTN",
+                        "article:publisher": "https://www.facebook.com/buy.bitcoin.news/",
+                        "twitter:data1": "Lubomir Tassev",
+                        "twitter:data2": "2 minutes",
+                        "twitter:site": "@BTCTN",
+                        "article:modified_time": "2021-07-21T03:26:37+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "onesignal": "wordpress-plugin",
+                        "og:locale": "en_US",
+                        "og:url": "https://news.bitcoin.com/turkish-draft-law-regulating-cryptocurrencies-enters-parliament-in-october/"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "headline": "Turkish Draft Law Regulating Cryptocurrencies Enters Parliament in October"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1603800793.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
